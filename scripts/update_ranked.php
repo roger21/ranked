@@ -88,7 +88,9 @@
 
   }
 
-  file_put_contents("../data/current.js", json_encode($pp, JSON_PRETTY_PRINT));
+  $data=["date" => date("U"), "players" => $pp];
+
+  file_put_contents("../data/current.js", json_encode($data, JSON_PRETTY_PRINT));
 
 
 }
