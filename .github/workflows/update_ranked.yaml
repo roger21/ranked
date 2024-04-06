@@ -1,0 +1,50 @@
+name: update_ranked
+
+run-name: 'run #${{ github.run_number }} on ${{ github.event_name }}'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '3,13,23,33,43,53 * * * *'
+
+defaults:
+  run:
+    shell: bash
+    working-directory: ./scripts
+
+jobs:
+  update_ranked:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          ref: 'main'
+          fetch-depth: '0'
+
+      - name: get php 8.3
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+
+      - name: php version
+        run: php -v
+
+      - name: update_ranked
+        run: ./update_ranked.php
+
+      - name: git push
+        if: ${{ ! ( env.THIS_IS_A_TEST_STH == 'TRUE' ) }}
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git status
+          echo -e
+          git commit -am 'update_ranked' || true
+          echo -e
+          git status
+          echo -e
+          git push
+          echo -e
+          git status
+
