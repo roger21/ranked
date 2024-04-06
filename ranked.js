@@ -26636,17 +26636,6 @@ export default
                 "time": 839164,
                 "forfeited": true,
                 "decayed": false
-            },
-            "1709841034": {
-                "date": 1709841034,
-                "type": "RUINED_PORTAL",
-                "result": "win",
-                "opponent": "TUDORULE",
-                "elo": 1693,
-                "change": 21,
-                "time": 671934,
-                "forfeited": true,
-                "decayed": false
             }
         }
     },
@@ -35097,17 +35086,6 @@ export default
                 "change": 20,
                 "time": 867584,
                 "forfeited": false,
-                "decayed": false
-            },
-            "1709841034": {
-                "date": 1709841034,
-                "type": "RUINED_PORTAL",
-                "result": "lost",
-                "opponent": "pulsar32",
-                "elo": 1671,
-                "change": -21,
-                "time": 671934,
-                "forfeited": true,
                 "decayed": false
             }
         }
