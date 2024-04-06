@@ -1,4 +1,3 @@
-export default
 {
     "doogile": {
         "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -37689,17 +37688,6 @@ export default
                 "time": 839164,
                 "forfeited": true,
                 "decayed": false
-            },
-            "1709841444": {
-                "date": 1709841444,
-                "type": "RUINED_PORTAL",
-                "result": "win",
-                "opponent": "NottAntoo",
-                "elo": 1919,
-                "change": 13,
-                "time": 713942,
-                "forfeited": false,
-                "decayed": false
             }
         }
     },
@@ -43012,17 +43000,6 @@ export default
                 "elo": 1681,
                 "change": 16,
                 "time": 788636,
-                "forfeited": false,
-                "decayed": false
-            },
-            "1709841524": {
-                "date": 1709841524,
-                "type": "BURIED_TREASURE",
-                "result": "win",
-                "opponent": "mcsrjordan",
-                "elo": 1665,
-                "change": 23,
-                "time": 1094937,
                 "forfeited": false,
                 "decayed": false
             }
@@ -49736,17 +49713,6 @@ export default
                 "time": 684520,
                 "forfeited": false,
                 "decayed": false
-            },
-            "1709841524": {
-                "date": 1709841524,
-                "type": "BURIED_TREASURE",
-                "result": "lost",
-                "opponent": "mcsrlebron",
-                "elo": 1711,
-                "change": -23,
-                "time": 1094937,
-                "forfeited": false,
-                "decayed": false
             }
         }
     },
@@ -56060,4 +56026,4 @@ export default
             }
         }
     }
-};
+}
