@@ -1,5 +1,5 @@
 {
-    "date": "1712446591",
+    "date": "1712447078",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -34312,17 +34312,6 @@
                     "time": 609447,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709854561": {
-                    "date": 1709854561,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 1673,
-                    "change": 16,
-                    "time": 105989,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -40044,17 +40033,6 @@
                     "time": 695344,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709854833": {
-                    "date": 1709854833,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Eufoniuss",
-                    "elo": 1795,
-                    "change": -24,
-                    "time": 767678,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -41951,17 +41929,6 @@
                     "elo": 1648,
                     "change": -20,
                     "time": 609447,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709854758": {
-                    "date": 1709854758,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "mcsremiru",
-                    "elo": 1668,
-                    "change": -17,
-                    "time": 1157900,
                     "forfeited": false,
                     "decayed": false
                 }
