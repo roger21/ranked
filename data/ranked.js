@@ -1,5 +1,5 @@
 {
-    "date": "1712442224",
+    "date": "1712442537",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -37535,17 +37535,6 @@
                     "change": 14,
                     "time": 733479,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709850149": {
-                    "date": 1709850149,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1669,
-                    "change": -23,
-                    "time": 716385,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
