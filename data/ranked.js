@@ -1,5 +1,5 @@
 {
-    "date": "1712441383",
+    "date": "1712442224",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -27846,17 +27846,6 @@
                     "elo": 1860,
                     "change": 16,
                     "time": 774470,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709849355": {
-                    "date": 1709849355,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "dillrice",
-                    "elo": 1844,
-                    "change": -24,
-                    "time": 779050,
                     "forfeited": false,
                     "decayed": false
                 }
