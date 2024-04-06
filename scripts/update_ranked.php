@@ -88,8 +88,7 @@
 
   }
 
-  file_put_contents("../ranked.js", "export default\n".
-                    json_encode($pp, JSON_PRETTY_PRINT).";");
+  file_put_contents("../ranked.js", json_encode($pp, JSON_PRETTY_PRINT));
 
 
 }
