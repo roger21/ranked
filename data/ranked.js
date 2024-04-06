@@ -1,5 +1,5 @@
 {
-    "date": "1712437859",
+    "date": "1712438394",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -47464,17 +47464,6 @@
                     "change": 12,
                     "time": 872133,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709845934": {
-                    "date": 1709845934,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1699,
-                    "change": 18,
-                    "time": 482612,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
