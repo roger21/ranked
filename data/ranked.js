@@ -1,5 +1,5 @@
 {
-    "date": "1712457234",
+    "date": "1712457946",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10803,17 +10803,6 @@
                     "change": -22,
                     "time": 874193,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709865759": {
-                    "date": 1709865759,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1798,
-                    "change": 16,
-                    "time": 664575,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -34213,17 +34202,6 @@
                     "time": 912499,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1709865778": {
-                    "date": 1709865778,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1651,
-                    "change": -17,
-                    "time": 596462,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -41654,17 +41632,6 @@
                     "elo": 1778,
                     "change": 22,
                     "time": 874193,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709865778": {
-                    "date": 1709865778,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1756,
-                    "change": 17,
-                    "time": 596462,
                     "forfeited": false,
                     "decayed": false
                 }
