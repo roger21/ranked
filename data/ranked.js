@@ -1,5 +1,5 @@
 {
-    "date": "1712456220",
+    "date": "1712457234",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -6030,6 +6030,17 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": {
+                "1712456830": {
+                    "date": 1712456830,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Waluyoshi",
+                    "elo": 2112,
+                    "change": 13,
+                    "time": 584245,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 "1712415393": {
                     "date": 1712415393,
                     "type": "BURIED_TREASURE",
@@ -29748,6 +29759,17 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "matches": {
+                "1712456830": {
+                    "date": 1712456830,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 1888,
+                    "change": -13,
+                    "time": 584245,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 "1712455916": {
                     "date": 1712455916,
                     "type": "BURIED_TREASURE",
@@ -34200,17 +34222,6 @@
                     "elo": 1651,
                     "change": -17,
                     "time": 596462,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709865007": {
-                    "date": 1709865007,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1668,
-                    "change": -22,
-                    "time": 919300,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -41655,17 +41666,6 @@
                     "change": 17,
                     "time": 596462,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709865069": {
-                    "date": 1709865069,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 1739,
-                    "change": 15,
-                    "time": 332679,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
