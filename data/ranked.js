@@ -1,5 +1,5 @@
 {
-    "date": "1712464597",
+    "date": "1712465077",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10694,17 +10694,6 @@
                     "time": 637258,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709873000": {
-                    "date": 1709873000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1772,
-                    "change": 0,
-                    "time": 612137,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -10712,6 +10701,17 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "matches": {
+                "1712464621": {
+                    "date": 1712464621,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 2031,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 "1711859774": {
                     "date": 1711859774,
                     "type": "BURIED_TREASURE",
@@ -37007,17 +37007,6 @@
                     "change": -24,
                     "time": 786803,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709873000": {
-                    "date": 1709873000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "meebie",
-                    "elo": 1744,
-                    "change": 0,
-                    "time": 612137,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
