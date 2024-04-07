@@ -1,5 +1,5 @@
 {
-    "date": "1712466755",
+    "date": "1712467591",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10648,17 +10648,6 @@
                     "elo": 1812,
                     "change": 27,
                     "time": 768705,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709874765": {
-                    "date": 1709874765,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 1785,
-                    "change": 18,
-                    "time": 668332,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36929,28 +36918,6 @@
                     "elo": 1735,
                     "change": 20,
                     "time": 728997,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709875371": {
-                    "date": 1709875371,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Valdarennn",
-                    "elo": 1715,
-                    "change": 13,
-                    "time": 507408,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1709874765": {
-                    "date": 1709874765,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "meebie",
-                    "elo": 1702,
-                    "change": -18,
-                    "time": 668332,
                     "forfeited": false,
                     "decayed": false
                 }
