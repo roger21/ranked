@@ -1,5 +1,5 @@
 {
-    "date": "1712526299",
+    "date": "1712526900",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -39555,17 +39555,6 @@
                     "time": 640105,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709934542": {
-                    "date": 1709934542,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "AutomattPL",
-                    "elo": 1745,
-                    "change": -11,
-                    "time": 932137,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -39573,6 +39562,17 @@
             "uuid": "9c724d7793094a76a8bc9d30f397df92",
             "nickname": "Javierixmon",
             "matches": {
+                "1712526659": {
+                    "date": 1712526659,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1866,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 "1712440201": {
                     "date": 1712440201,
                     "type": null,
