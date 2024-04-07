@@ -1,5 +1,5 @@
 {
-    "date": "1712451259",
+    "date": "1712454275",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10836,17 +10836,6 @@
                     "change": 13,
                     "time": 516723,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1709862156": {
-                    "date": 1709862156,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "boosterruns",
-                    "elo": 1819,
-                    "change": -23,
-                    "time": 873433,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
@@ -39911,50 +39900,6 @@
                     "change": 18,
                     "time": 751267,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1709862156": {
-                    "date": 1709862156,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 1782,
-                    "change": 23,
-                    "time": 873433,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709861071": {
-                    "date": 1709861071,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1759,
-                    "change": -28,
-                    "time": 680445,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709859927": {
-                    "date": 1709859927,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "mcsremiru",
-                    "elo": 1787,
-                    "change": -21,
-                    "time": 579449,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709859286": {
-                    "date": 1709859286,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Eufoniuss",
-                    "elo": 1808,
-                    "change": 16,
-                    "time": 722475,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
