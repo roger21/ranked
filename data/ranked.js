@@ -1,5 +1,5 @@
 {
-    "date": "1712517381",
+    "date": "1712517893",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -26869,17 +26869,6 @@
                     "time": 774215,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709925647": {
-                    "date": 1709925647,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "sanjinhu",
-                    "elo": 1996,
-                    "change": 14,
-                    "time": 458814,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -49514,6 +49503,17 @@
             "uuid": "99aa9e0e8034479a90259e244dfb9029",
             "nickname": "Emillk",
             "matches": {
+                "1712517851": {
+                    "date": 1712517851,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "KrystlSR",
+                    "elo": 1843,
+                    "change": 15,
+                    "time": 342892,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 "1712516406": {
                     "date": 1712516406,
                     "type": "BURIED_TREASURE",
