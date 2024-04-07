@@ -1,5 +1,5 @@
 {
-    "date": "1712472275",
+    "date": "1712472876",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2115,17 +2115,6 @@
                     "change": 7,
                     "time": 199395,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1709880691": {
-                    "date": 1709880691,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 2304,
-                    "change": 14,
-                    "time": 588220,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
@@ -8997,17 +8986,6 @@
                     "elo": 2127,
                     "change": 8,
                     "time": 553428,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709880691": {
-                    "date": 1709880691,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 2119,
-                    "change": -14,
-                    "time": 588220,
                     "forfeited": false,
                     "decayed": false
                 }
