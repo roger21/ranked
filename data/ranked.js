@@ -1,5 +1,5 @@
 {
-    "date": "1712464260",
+    "date": "1712464597",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10703,17 +10703,6 @@
                     "elo": 1772,
                     "change": 0,
                     "time": 612137,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1709872327": {
-                    "date": 1709872327,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "sacanagem_online",
-                    "elo": 1772,
-                    "change": 15,
-                    "time": 325674,
                     "forfeited": true,
                     "decayed": false
                 }
