@@ -1,5 +1,5 @@
 {
-    "date": "1712508303",
+    "date": "1712508922",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -18343,6 +18343,17 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "matches": {
+                "1712508614": {
+                    "date": 1712508614,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Kxpow",
+                    "elo": 1990,
+                    "change": 18,
+                    "time": 546209,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 "1712505137": {
                     "date": 1712505137,
                     "type": "BURIED_TREASURE",
@@ -28477,6 +28488,17 @@
             "uuid": "7447dd83b8bc4b7fb97d3ec316f529dc",
             "nickname": "Kxpow",
             "matches": {
+                "1712508614": {
+                    "date": 1712508614,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Erikfzf",
+                    "elo": 1892,
+                    "change": -18,
+                    "time": 546209,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 "1712451001": {
                     "date": 1712451001,
                     "type": null,
