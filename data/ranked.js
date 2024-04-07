@@ -1,5 +1,5 @@
 {
-    "date": "1712457946",
+    "date": "1712459574",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10792,17 +10792,6 @@
                     "change": 16,
                     "time": 284608,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1709866715": {
-                    "date": 1709866715,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1776,
-                    "change": -22,
-                    "time": 874193,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
@@ -34191,17 +34180,6 @@
                     "time": 317386,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1709867069": {
-                    "date": 1709867069,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 1668,
-                    "change": 17,
-                    "time": 912499,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -41621,17 +41599,6 @@
                     "elo": 1754,
                     "change": -24,
                     "time": 893553,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709866715": {
-                    "date": 1709866715,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 1778,
-                    "change": 22,
-                    "time": 874193,
                     "forfeited": false,
                     "decayed": false
                 }
