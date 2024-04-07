@@ -1,5 +1,5 @@
 {
-    "date": "1712520669",
+    "date": "1712521306",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -26836,17 +26836,6 @@
                     "time": 528207,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709928879": {
-                    "date": 1709928879,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "sanjinhu",
-                    "elo": 2008,
-                    "change": 13,
-                    "time": 555152,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -32176,17 +32165,6 @@
                     "elo": 1752,
                     "change": 23,
                     "time": 597180,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709929093": {
-                    "date": 1709929093,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1729,
-                    "change": 19,
-                    "time": 893837,
                     "forfeited": false,
                     "decayed": false
                 }
