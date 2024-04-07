@@ -1,5 +1,5 @@
 {
-    "date": "1712503339",
+    "date": "1712503654",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -21383,17 +21383,6 @@
                     "change": 13,
                     "time": 650224,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709911564": {
-                    "date": 1709911564,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1685,
-                    "change": -23,
-                    "time": 604214,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
