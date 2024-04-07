@@ -1,5 +1,5 @@
 {
-    "date": "1712486729",
+    "date": "1712487278",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1950,17 +1950,6 @@
                     "change": 10,
                     "time": 743886,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709894754": {
-                    "date": 1709894754,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 2302,
-                    "change": 6,
-                    "time": 476762,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -10187,17 +10176,6 @@
                     "change": -25,
                     "time": 1161484,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709894754": {
-                    "date": 1709894754,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1816,
-                    "change": -6,
-                    "time": 476762,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
