@@ -1,5 +1,5 @@
 {
-    "date": "1712465701",
+    "date": "1712466755",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2136,28 +2136,6 @@
                     "elo": 2290,
                     "change": 6,
                     "time": 542386,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709874445": {
-                    "date": 1709874445,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Cube1337x",
-                    "elo": 2284,
-                    "change": -32,
-                    "time": 594502,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709873773": {
-                    "date": 1709873773,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 2316,
-                    "change": 5,
-                    "time": 637258,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -10681,17 +10659,6 @@
                     "elo": 1785,
                     "change": 18,
                     "time": 668332,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709873773": {
-                    "date": 1709873773,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1767,
-                    "change": -5,
-                    "time": 637258,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -27628,17 +27595,6 @@
                     "time": 768705,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709874445": {
-                    "date": 1709874445,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 1975,
-                    "change": 32,
-                    "time": 594502,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -36995,17 +36951,6 @@
                     "elo": 1702,
                     "change": -18,
                     "time": 668332,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709874035": {
-                    "date": 1709874035,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "ContraVz",
-                    "elo": 1720,
-                    "change": -24,
-                    "time": 786803,
                     "forfeited": false,
                     "decayed": false
                 }
