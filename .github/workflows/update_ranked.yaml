@@ -40,7 +40,10 @@ jobs:
           echo -e
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git config pull rebase false
           git status
+          echo -e
+          git pull
           echo -e
           git commit -am 'update_ranked' || true
           echo -e
