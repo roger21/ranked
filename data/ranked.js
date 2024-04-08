@@ -1,5 +1,5 @@
 {
-    "date": "1712543456",
+    "date": "1712543974",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11283,17 +11283,6 @@
                     "time": 74180,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1709951505": {
-                    "date": 1709951505,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Eufoniuss",
-                    "elo": 1814,
-                    "change": 18,
-                    "time": 747863,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -15814,28 +15803,6 @@
                     "elo": 1928,
                     "change": 18,
                     "time": 831303,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709951845": {
-                    "date": 1709951845,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Eufoniuss",
-                    "elo": 1910,
-                    "change": 14,
-                    "time": 246427,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1709951469": {
-                    "date": 1709951469,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1896,
-                    "change": 21,
-                    "time": 809668,
                     "forfeited": false,
                     "decayed": false
                 }
