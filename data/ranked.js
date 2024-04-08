@@ -1,5 +1,5 @@
 {
-    "date": "1712554523",
+    "date": "1712555105",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4679,17 +4679,6 @@
                     "change": 21,
                     "time": 592353,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709963000": {
-                    "date": 1709963000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "retropog",
-                    "elo": 1891,
-                    "change": 24,
-                    "time": 395617,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -11095,17 +11084,6 @@
                     "change": -19,
                     "time": 574326,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709963004": {
-                    "date": 1709963004,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1933,
-                    "change": 15,
-                    "time": 614543,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -18433,28 +18411,6 @@
                     "elo": 1976,
                     "change": 19,
                     "time": 574326,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709963000": {
-                    "date": 1709963000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1957,
-                    "change": -24,
-                    "time": 395617,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1709962550": {
-                    "date": 1709962550,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "drx6",
-                    "elo": 1981,
-                    "change": -28,
-                    "time": 716265,
                     "forfeited": false,
                     "decayed": false
                 }
