@@ -1,5 +1,5 @@
 {
-    "date": "1712561315",
+    "date": "1712561695",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -15352,17 +15352,6 @@
                     "elo": 1833,
                     "change": 24,
                     "time": 769301,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709969329": {
-                    "date": 1709969329,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "itsnahan",
-                    "elo": 1809,
-                    "change": -27,
-                    "time": 821843,
                     "forfeited": false,
                     "decayed": false
                 }
