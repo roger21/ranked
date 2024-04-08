@@ -1,5 +1,5 @@
 {
-    "date": "1712546648",
+    "date": "1712547379",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11249,17 +11249,6 @@
                     "change": 25,
                     "time": 685398,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709955067": {
-                    "date": 1709955067,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "emia",
-                    "elo": 1878,
-                    "change": 19,
-                    "time": 388693,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
