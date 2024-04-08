@@ -1,5 +1,5 @@
 {
-    "date": "1712560372",
+    "date": "1712560988",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4623,17 +4623,6 @@
                     "elo": 1923,
                     "change": 20,
                     "time": 656405,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709968678": {
-                    "date": 1709968678,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "drx6",
-                    "elo": 1903,
-                    "change": -25,
-                    "time": 652716,
                     "forfeited": false,
                     "decayed": false
                 }
