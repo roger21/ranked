@@ -1,5 +1,5 @@
 {
-    "date": "1712589993",
+    "date": "1712590569",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3866,17 +3866,6 @@
                     "time": 582286,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709998181": {
-                    "date": 1709998181,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 2097,
-                    "change": -30,
-                    "time": 641755,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -4176,6 +4165,17 @@
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "nickname": "hackingnoises",
             "matches": {
+                "1712590175": {
+                    "date": 1712590175,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "romuxii",
+                    "elo": 2190,
+                    "change": 7,
+                    "time": 550485,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 "1712589308": {
                     "date": 1712589308,
                     "type": "BURIED_TREASURE",
@@ -29455,17 +29455,6 @@
                     "time": 525425,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709998181": {
-                    "date": 1709998181,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Priffin",
-                    "elo": 1840,
-                    "change": 30,
-                    "time": 641755,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -44973,17 +44962,6 @@
                     "change": -11,
                     "time": 582286,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709998213": {
-                    "date": 1709998213,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1813,
-                    "change": 14,
-                    "time": 165913,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
