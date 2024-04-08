@@ -1,5 +1,5 @@
 {
-    "date": "1712547379",
+    "date": "1712547880",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11239,17 +11239,6 @@
                     "time": 683755,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709955808": {
-                    "date": 1709955808,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "retropog",
-                    "elo": 1903,
-                    "change": 25,
-                    "time": 685398,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -15728,17 +15717,6 @@
                     "time": 907063,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709955375": {
-                    "date": 1709955375,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1903,
-                    "change": -25,
-                    "time": 715289,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -18697,17 +18675,6 @@
                     "elo": 2009,
                     "change": 17,
                     "time": 907063,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709955808": {
-                    "date": 1709955808,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "meebie",
-                    "elo": 1992,
-                    "change": -25,
-                    "time": 685398,
                     "forfeited": false,
                     "decayed": false
                 }
