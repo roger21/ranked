@@ -1,5 +1,5 @@
 {
-    "date": "1712553097",
+    "date": "1712554013",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4700,17 +4700,6 @@
                     "elo": 1867,
                     "change": 23,
                     "time": 688811,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709961444": {
-                    "date": 1709961444,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1844,
-                    "change": 18,
-                    "time": 618466,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -52129,17 +52118,6 @@
                     "elo": 1623,
                     "change": 22,
                     "time": 618837,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709961570": {
-                    "date": 1709961570,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "drx6",
-                    "elo": 1601,
-                    "change": 28,
-                    "time": 731151,
                     "forfeited": false,
                     "decayed": false
                 }
