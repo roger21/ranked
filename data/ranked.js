@@ -1,5 +1,5 @@
 {
-    "date": "1712540420",
+    "date": "1712542130",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11305,28 +11305,6 @@
                     "time": 684984,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709949215": {
-                    "date": 1709949215,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "sacanagem_online",
-                    "elo": 1771,
-                    "change": 13,
-                    "time": 247314,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1709948618": {
-                    "date": 1709948618,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1758,
-                    "change": -12,
-                    "time": 749179,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -15871,17 +15849,6 @@
                     "time": 809668,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1709950011": {
-                    "date": 1709950011,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Eufoniuss",
-                    "elo": 1875,
-                    "change": -27,
-                    "time": 829781,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -18873,17 +18840,6 @@
                     "elo": 2041,
                     "change": 14,
                     "time": 559238,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709948618": {
-                    "date": 1709948618,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 2027,
-                    "change": 12,
-                    "time": 749179,
                     "forfeited": false,
                     "decayed": false
                 }
