@@ -1,5 +1,5 @@
 {
-    "date": "1712537429",
+    "date": "1712540420",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11325,17 +11325,6 @@
                     "elo": 1758,
                     "change": -12,
                     "time": 749179,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709947604": {
-                    "date": 1709947604,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "thecamo6",
-                    "elo": 1770,
-                    "change": 15,
-                    "time": 741061,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -39433,28 +39422,6 @@
                     "change": -19,
                     "time": 646577,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709946283": {
-                    "date": 1709946283,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Eufoniuss",
-                    "elo": 1618,
-                    "change": -19,
-                    "time": 399053,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1709945840": {
-                    "date": 1709945840,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "thecamo6",
-                    "elo": 1637,
-                    "change": 20,
-                    "time": 361661,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
