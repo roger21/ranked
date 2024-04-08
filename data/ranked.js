@@ -1,5 +1,5 @@
 {
-    "date": "1712618947",
+    "date": "1712619353",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -32470,17 +32470,6 @@
                     "time": 832355,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710027229": {
-                    "date": 1710027229,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1799,
-                    "change": 20,
-                    "time": 324242,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -48260,6 +48249,17 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "matches": {
+                "1712619167": {
+                    "date": 1712619167,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "ColeTM",
+                    "elo": 1836,
+                    "change": 12,
+                    "time": 710672,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 "1712617880": {
                     "date": 1712617880,
                     "type": "SHIPWRECK",
