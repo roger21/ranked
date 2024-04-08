@@ -1,5 +1,5 @@
 {
-    "date": "1712568280",
+    "date": "1712568994",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4525,17 +4525,6 @@
                     "change": -10,
                     "time": 743886,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709976813": {
-                    "date": 1709976813,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "TUDORULE",
-                    "elo": 1984,
-                    "change": 15,
-                    "time": 564453,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -31198,17 +31187,6 @@
                     "change": 15,
                     "time": 818393,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1709976813": {
-                    "date": 1709976813,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1805,
-                    "change": -15,
-                    "time": 564453,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
