@@ -1,5 +1,5 @@
 {
-    "date": "1712559280",
+    "date": "1712560372",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4634,17 +4634,6 @@
                     "elo": 1903,
                     "change": -25,
                     "time": 652716,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709967321": {
-                    "date": 1709967321,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 1928,
-                    "change": 19,
-                    "time": 696359,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -10995,17 +10984,6 @@
                     "elo": 1895,
                     "change": 22,
                     "time": 1016872,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709967321": {
-                    "date": 1709967321,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1873,
-                    "change": -19,
-                    "time": 696359,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -18279,17 +18257,6 @@
                     "elo": 1896,
                     "change": -22,
                     "time": 1016872,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1709967949": {
-                    "date": 1709967949,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "drx6",
-                    "elo": 1918,
-                    "change": -26,
-                    "time": 809340,
                     "forfeited": false,
                     "decayed": false
                 }
