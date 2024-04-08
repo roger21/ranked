@@ -1,5 +1,5 @@
 {
-    "date": "1712615344",
+    "date": "1712615732",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -32512,17 +32512,6 @@
                     "elo": 1802,
                     "change": -21,
                     "time": 589116,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710023372": {
-                    "date": 1710023372,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1823,
-                    "change": 16,
-                    "time": 1001201,
                     "forfeited": false,
                     "decayed": false
                 }
