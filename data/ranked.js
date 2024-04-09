@@ -1,5 +1,5 @@
 {
-    "date": "1712669729",
+    "date": "1712670281",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7970,17 +7970,6 @@
                     "time": 793111,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710077810": {
-                    "date": 1710077810,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 2208,
-                    "change": -33,
-                    "time": 788912,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -12536,17 +12525,6 @@
                     "elo": 1875,
                     "change": 21,
                     "time": 680962,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710077810": {
-                    "date": 1710077810,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 1854,
-                    "change": 33,
-                    "time": 788912,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -38580,17 +38558,6 @@
                     "elo": 1659,
                     "change": -18,
                     "time": 686804,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710077864": {
-                    "date": 1710077864,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "BlindTravel",
-                    "elo": 1677,
-                    "change": -20,
-                    "time": 761596,
                     "forfeited": false,
                     "decayed": false
                 }
