@@ -1,5 +1,5 @@
 {
-    "date": "1712673382",
+    "date": "1712673914",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5104,17 +5104,6 @@
                     "time": 645792,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710081620": {
-                    "date": 1710081620,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Launey_",
-                    "elo": 1932,
-                    "change": 12,
-                    "time": 602202,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -7937,17 +7926,6 @@
                     "time": 645792,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710081475": {
-                    "date": 1710081475,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 2194,
-                    "change": -25,
-                    "time": 643829,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -8216,17 +8194,6 @@
                     "elo": 2126,
                     "change": 17,
                     "time": 626645,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710081475": {
-                    "date": 1710081475,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 2109,
-                    "change": 25,
-                    "time": 643829,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -29820,6 +29787,17 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "matches": {
+                "1712673641": {
+                    "date": 1712673641,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Hinart",
+                    "elo": 1902,
+                    "change": 17,
+                    "time": 848570,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 "1712591241": {
                     "date": 1712591241,
                     "type": "BURIED_TREASURE",
