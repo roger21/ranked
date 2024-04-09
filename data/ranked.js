@@ -1,5 +1,5 @@
 {
-    "date": "1712666592",
+    "date": "1712667319",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8349,17 +8349,6 @@
                     "change": -15,
                     "time": 779136,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710075044": {
-                    "date": 1710075044,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "TUDORULE",
-                    "elo": 2084,
-                    "change": 14,
-                    "time": 707772,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
@@ -22830,17 +22819,6 @@
                     "elo": 1902,
                     "change": 23,
                     "time": 308568,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710075091": {
-                    "date": 1710075091,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1879,
-                    "change": 21,
-                    "time": 206754,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -41580,17 +41558,6 @@
                     "time": 1007282,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710075044": {
-                    "date": 1710075044,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1895,
-                    "change": -14,
-                    "time": 707772,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -47328,17 +47295,6 @@
                     "change": 18,
                     "time": 732962,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710075091": {
-                    "date": 1710075091,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1865,
-                    "change": -21,
-                    "time": 206754,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
