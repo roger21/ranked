@@ -1,5 +1,5 @@
 {
-    "date": "1712702703",
+    "date": "1712703315",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -45182,17 +45182,6 @@
                     "elo": 1901,
                     "change": -17,
                     "time": 521457,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710111192": {
-                    "date": 1710111192,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1918,
-                    "change": 12,
-                    "time": 615457,
                     "forfeited": false,
                     "decayed": false
                 }
