@@ -1,5 +1,5 @@
 {
-    "date": "1712662599",
+    "date": "1712663107",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5190,17 +5190,6 @@
                     "elo": 1984,
                     "change": 19,
                     "time": 553118,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710070745": {
-                    "date": 1710070745,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 1965,
-                    "change": 16,
-                    "time": 670260,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -12789,17 +12778,6 @@
                     "elo": 1807,
                     "change": -20,
                     "time": 777229,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710070745": {
-                    "date": 1710070745,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1827,
-                    "change": -16,
-                    "time": 670260,
                     "forfeited": false,
                     "decayed": false
                 }
