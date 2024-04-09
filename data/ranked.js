@@ -1,5 +1,5 @@
 {
-    "date": "1712686411",
+    "date": "1712687057",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -38087,17 +38087,6 @@
                     "time": 722205,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710094477": {
-                    "date": 1710094477,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1673,
-                    "change": 20,
-                    "time": 640546,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -48032,17 +48021,6 @@
                     "change": -2,
                     "time": 730664,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710094766": {
-                    "date": 1710094766,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "gabboooz",
-                    "elo": 1623,
-                    "change": 18,
-                    "time": 653418,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
