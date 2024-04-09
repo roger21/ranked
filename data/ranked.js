@@ -1,5 +1,5 @@
 {
-    "date": "1712638500",
+    "date": "1712639507",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11784,17 +11784,6 @@
                     "time": 408175,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1710047283": {
-                    "date": 1710047283,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "SuperC_",
-                    "elo": 1884,
-                    "change": -21,
-                    "time": 709251,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -12449,28 +12438,6 @@
                     "change": 18,
                     "time": 893956,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710047283": {
-                    "date": 1710047283,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Erikfzf",
-                    "elo": 1896,
-                    "change": 21,
-                    "time": 709251,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710046463": {
-                    "date": 1710046463,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "itsnahan",
-                    "elo": 1875,
-                    "change": 15,
-                    "time": 397165,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -16027,6 +15994,17 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": {
+                "1712639444": {
+                    "date": 1712639444,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "Bloonskiller",
+                    "elo": 2007,
+                    "change": 12,
+                    "time": 581178,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 "1712576549": {
                     "date": 1712576549,
                     "type": "VILLAGE",
