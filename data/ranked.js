@@ -1,5 +1,5 @@
 {
-    "date": "1712684165",
+    "date": "1712684665",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3842,17 +3842,6 @@
                     "elo": 2126,
                     "change": -27,
                     "time": 619199,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710092518": {
-                    "date": 1710092518,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Oxidiot",
-                    "elo": 2153,
-                    "change": 21,
-                    "time": 696024,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -8178,17 +8167,6 @@
                     "elo": 2104,
                     "change": -30,
                     "time": 592401,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710092518": {
-                    "date": 1710092518,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Priffin",
-                    "elo": 2134,
-                    "change": -21,
-                    "time": 696024,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -26755,28 +26733,6 @@
                     "time": 643638,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1710092549": {
-                    "date": 1710092549,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Oceanico",
-                    "elo": 1716,
-                    "change": 14,
-                    "time": 218620,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710092232": {
-                    "date": 1710092232,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1702,
-                    "change": -22,
-                    "time": 809079,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -33388,17 +33344,6 @@
                     "change": 15,
                     "time": 643638,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710092466": {
-                    "date": 1710092466,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1850,
-                    "change": -19,
-                    "time": 729238,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
