@@ -1,5 +1,5 @@
 {
-    "date": "1712667319",
+    "date": "1712668306",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5137,28 +5137,6 @@
                     "time": 306055,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1710075856": {
-                    "date": 1710075856,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1953,
-                    "change": -23,
-                    "time": 308568,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710075385": {
-                    "date": 1710075385,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1976,
-                    "change": -13,
-                    "time": 683816,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -8035,17 +8013,6 @@
                     "change": 15,
                     "time": 779136,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710075385": {
-                    "date": 1710075385,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 2217,
-                    "change": 13,
-                    "time": 683816,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
@@ -12646,17 +12613,6 @@
                     "elo": 1821,
                     "change": 17,
                     "time": 719259,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710076149": {
-                    "date": 1710076149,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1804,
-                    "change": -18,
-                    "time": 732962,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -22809,17 +22765,6 @@
                     "change": 13,
                     "time": 633529,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710075856": {
-                    "date": 1710075856,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 1902,
-                    "change": 23,
-                    "time": 308568,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -41547,17 +41492,6 @@
                     "time": 306055,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1710076122": {
-                    "date": 1710076122,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "kohout135",
-                    "elo": 1909,
-                    "change": 14,
-                    "time": 1007282,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -47284,17 +47218,6 @@
                     "change": -9,
                     "time": 302758,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710076149": {
-                    "date": 1710076149,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 1883,
-                    "change": 18,
-                    "time": 732962,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
