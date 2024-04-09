@@ -1,5 +1,5 @@
 {
-    "date": "1712677481",
+    "date": "1712678102",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5049,17 +5049,6 @@
                     "time": 773505,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710085469": {
-                    "date": 1710085469,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1880,
-                    "change": -19,
-                    "time": 163450,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -7826,17 +7815,6 @@
                     "change": 12,
                     "time": 571186,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710085657": {
-                    "date": 1710085657,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "skylewl",
-                    "elo": 2202,
-                    "change": 6,
-                    "time": 166960,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -33532,17 +33510,6 @@
                     "time": 869371,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710085805": {
-                    "date": 1710085805,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 1847,
-                    "change": 16,
-                    "time": 1408235,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -41150,17 +41117,6 @@
                     "change": -12,
                     "time": 571186,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710085469": {
-                    "date": 1710085469,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 1956,
-                    "change": 19,
-                    "time": 163450,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
