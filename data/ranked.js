@@ -1,5 +1,5 @@
 {
-    "date": "1712663678",
+    "date": "1712665225",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5170,28 +5170,6 @@
                     "time": 794750,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710073089": {
-                    "date": 1710073089,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1971,
-                    "change": -13,
-                    "time": 599256,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710071714": {
-                    "date": 1710071714,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1984,
-                    "change": 19,
-                    "time": 553118,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -8089,28 +8067,6 @@
                     "elo": 2204,
                     "change": 9,
                     "time": 764191,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710073089": {
-                    "date": 1710073089,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 2195,
-                    "change": 13,
-                    "time": 599256,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710072406": {
-                    "date": 1710072406,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 2182,
-                    "change": -32,
-                    "time": 762430,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -12756,17 +12712,6 @@
                     "elo": 1822,
                     "change": -9,
                     "time": 764191,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710072428": {
-                    "date": 1710072428,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1831,
-                    "change": 24,
-                    "time": 635153,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -22953,17 +22898,6 @@
                     "time": 666998,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710072406": {
-                    "date": 1710072406,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 1878,
-                    "change": 32,
-                    "time": 762430,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -31809,17 +31743,6 @@
                     "change": -17,
                     "time": 530000,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710072726": {
-                    "date": 1710072726,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1796,
-                    "change": 16,
-                    "time": 689590,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
@@ -47537,28 +47460,6 @@
                     "change": 17,
                     "time": 530000,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710072428": {
-                    "date": 1710072428,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1887,
-                    "change": -24,
-                    "time": 635153,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710071714": {
-                    "date": 1710071714,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1911,
-                    "change": -19,
-                    "time": 553118,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
