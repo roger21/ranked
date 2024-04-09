@@ -1,5 +1,5 @@
 {
-    "date": "1712637001",
+    "date": "1712637360",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -12470,17 +12470,6 @@
                     "elo": 1875,
                     "change": 15,
                     "time": 397165,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710045094": {
-                    "date": 1710045094,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1860,
-                    "change": 20,
-                    "time": 615682,
                     "forfeited": true,
                     "decayed": false
                 }
