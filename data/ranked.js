@@ -1,5 +1,5 @@
 {
-    "date": "1712673914",
+    "date": "1712674492",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5093,17 +5093,6 @@
                     "time": 586631,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710082364": {
-                    "date": 1710082364,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1921,
-                    "change": -11,
-                    "time": 645792,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -7913,17 +7902,6 @@
                     "elo": 2216,
                     "change": 11,
                     "time": 836232,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710082364": {
-                    "date": 1710082364,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 2205,
-                    "change": 11,
-                    "time": 645792,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -33631,17 +33609,6 @@
                     "time": 586631,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710082371": {
-                    "date": 1710082371,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "skylewl",
-                    "elo": 1823,
-                    "change": 17,
-                    "time": 405907,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -41293,17 +41260,6 @@
                     "change": -11,
                     "time": 836232,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710081901": {
-                    "date": 1710081901,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "skylewl",
-                    "elo": 1942,
-                    "change": 13,
-                    "time": 275644,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
