@@ -1,5 +1,5 @@
 {
-    "date": "1712655885",
+    "date": "1712656520",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5505,17 +5505,6 @@
                     "change": 23,
                     "time": 697163,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710063908": {
-                    "date": 1710063908,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1915,
-                    "change": -25,
-                    "time": 581812,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -18677,17 +18666,6 @@
                     "change": 17,
                     "time": 656691,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710063988": {
-                    "date": 1710063988,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Shellss",
-                    "elo": 1807,
-                    "change": 12,
-                    "time": 846690,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
