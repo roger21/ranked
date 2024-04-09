@@ -1,5 +1,5 @@
 {
-    "date": "1712668979",
+    "date": "1712669323",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8262,17 +8262,6 @@
                     "time": 643829,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710077189": {
-                    "date": 1710077189,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "TUDORULE",
-                    "elo": 2084,
-                    "change": 15,
-                    "time": 630591,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -12558,17 +12547,6 @@
                     "elo": 1854,
                     "change": 33,
                     "time": 788912,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710076941": {
-                    "date": 1710076941,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1821,
-                    "change": 17,
-                    "time": 719259,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -38615,17 +38593,6 @@
                     "time": 761596,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710076941": {
-                    "date": 1710076941,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1697,
-                    "change": -17,
-                    "time": 719259,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -41424,17 +41391,6 @@
                     "elo": 1929,
                     "change": 13,
                     "time": 711836,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710077189": {
-                    "date": 1710077189,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1916,
-                    "change": -15,
-                    "time": 630591,
                     "forfeited": false,
                     "decayed": false
                 }
