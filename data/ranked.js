@@ -1,5 +1,5 @@
 {
-    "date": "1712665225",
+    "date": "1712666592",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5159,17 +5159,6 @@
                     "time": 683816,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710074413": {
-                    "date": 1710074413,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1989,
-                    "change": 18,
-                    "time": 794750,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -8058,17 +8047,6 @@
                     "time": 683816,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710073931": {
-                    "date": 1710073931,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 2204,
-                    "change": 9,
-                    "time": 764191,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -8382,17 +8360,6 @@
                     "change": 14,
                     "time": 707772,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710074271": {
-                    "date": 1710074271,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Ranik_",
-                    "elo": 2070,
-                    "change": 10,
-                    "time": 177975,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -12701,17 +12668,6 @@
                     "elo": 1804,
                     "change": -18,
                     "time": 732962,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710073931": {
-                    "date": 1710073931,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1822,
-                    "change": -9,
-                    "time": 764191,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -22887,17 +22843,6 @@
                     "time": 206754,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1710074107": {
-                    "date": 1710074107,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1858,
-                    "change": -20,
-                    "time": 666998,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -31710,39 +31655,6 @@
                     "change": 14,
                     "time": 663498,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710074271": {
-                    "date": 1710074271,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1746,
-                    "change": -10,
-                    "time": 177975,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710073585": {
-                    "date": 1710073585,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1756,
-                    "change": -23,
-                    "time": 160536,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710073319": {
-                    "date": 1710073319,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1779,
-                    "change": -17,
-                    "time": 530000,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -41679,17 +41591,6 @@
                     "time": 707772,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710074107": {
-                    "date": 1710074107,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "retropog",
-                    "elo": 1909,
-                    "change": 20,
-                    "time": 666998,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -47437,28 +47338,6 @@
                     "elo": 1865,
                     "change": -21,
                     "time": 206754,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710074413": {
-                    "date": 1710074413,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1886,
-                    "change": -18,
-                    "time": 794750,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710073319": {
-                    "date": 1710073319,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Ranik_",
-                    "elo": 1904,
-                    "change": 17,
-                    "time": 530000,
                     "forfeited": true,
                     "decayed": false
                 }
