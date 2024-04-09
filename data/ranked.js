@@ -1,5 +1,5 @@
 {
-    "date": "1712644258",
+    "date": "1712644620",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8614,17 +8614,6 @@
                     "time": 644024,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710052214": {
-                    "date": 1710052214,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "dandannyboy",
-                    "elo": 2164,
-                    "change": 13,
-                    "time": 571600,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -10777,17 +10766,6 @@
                     "time": 828265,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710052214": {
-                    "date": 1710052214,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1943,
-                    "change": -13,
-                    "time": 571600,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -12481,17 +12459,6 @@
                     "elo": 1837,
                     "change": -17,
                     "time": 828265,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710052511": {
-                    "date": 1710052511,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 1854,
-                    "change": 15,
-                    "time": 631119,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -18429,17 +18396,6 @@
                     "change": 18,
                     "time": 491143,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710052511": {
-                    "date": 1710052511,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Erikfzf",
-                    "elo": 1692,
-                    "change": -15,
-                    "time": 631119,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
