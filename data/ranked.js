@@ -1,5 +1,5 @@
 {
-    "date": "1712681073",
+    "date": "1712681693",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -16719,17 +16719,6 @@
                     "time": 743048,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710089136": {
-                    "date": 1710089136,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1917,
-                    "change": -22,
-                    "time": 717801,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -26819,17 +26808,6 @@
                     "elo": 1739,
                     "change": -21,
                     "time": 925856,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710089518": {
-                    "date": 1710089518,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "centuriee",
-                    "elo": 1760,
-                    "change": 14,
-                    "time": 663498,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -41041,17 +41019,6 @@
                     "time": 549173,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1710089136": {
-                    "date": 1710089136,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 1916,
-                    "change": 22,
-                    "time": 717801,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -51030,17 +50997,6 @@
                     "change": 22,
                     "time": 1059763,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710089167": {
-                    "date": 1710089167,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Oceanico",
-                    "elo": 1580,
-                    "change": 19,
-                    "time": 917371,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
