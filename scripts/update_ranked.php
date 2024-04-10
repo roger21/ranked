@@ -67,15 +67,15 @@
             break;
           }
         }if($date >= $past){
-          $p["matches"][$date]=["date" => $date,
-                                "type" => $m["seedType"],
-                                "result"=> $win ? "win" : "lost",
-                                "opponent" => $opponent,
-                                "elo" => $elo,
-                                "change" => $change,
-                                "time" => $m["result"]["time"],
-                                "forfeited" => $m["forfeited"],
-                                "decayed" => $m["decayed"] ];
+          $p["matches"][]=["date" => $date,
+                           "type" => $m["seedType"],
+                           "result"=> $win ? "win" : "lost",
+                           "opponent" => $opponent,
+                           "elo" => $elo,
+                           "change" => $change,
+                           "time" => $m["result"]["time"],
+                           "forfeited" => $m["forfeited"],
+                           "decayed" => $m["decayed"] ];
         }else{
           $done=true;
           break;
