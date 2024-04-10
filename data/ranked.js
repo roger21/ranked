@@ -1,5 +1,5 @@
 {
-    "date": "1712782474",
+    "date": "1712783441",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1806,17 +1806,6 @@
                     "elo": 2334,
                     "change": -34,
                     "time": 738465,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710190688,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 2368,
-                    "change": 16,
-                    "time": 772992,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -6402,17 +6391,6 @@
                     "time": 859676,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710190688,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 2212,
-                    "change": -16,
-                    "time": 772992,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -8470,17 +8448,6 @@
                     "elo": 1884,
                     "change": 34,
                     "time": 738465,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710190436,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "boosterruns",
-                    "elo": 1850,
-                    "change": -25,
-                    "time": 712245,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36041,17 +36008,6 @@
                     "time": 1058122,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710190436,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 1764,
-                    "change": 25,
-                    "time": 712245,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -38752,17 +38708,6 @@
                     "change": 21,
                     "time": 805602,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710191281,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "ElRichi",
-                    "elo": 1692,
-                    "change": -21,
-                    "time": 840254,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -44194,17 +44139,6 @@
                     "time": 805602,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710191325,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "TheBlazer97",
-                    "elo": 1725,
-                    "change": 19,
-                    "time": 880681,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -48455,17 +48389,6 @@
                     "elo": 1619,
                     "change": 24,
                     "time": 771510,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710190806,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1595,
-                    "change": 22,
-                    "time": 804128,
                     "forfeited": false,
                     "decayed": false
                 }
