@@ -1,5 +1,5 @@
 {
-    "date": "1712780551",
+    "date": "1712780927",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8514,17 +8514,6 @@
                     "elo": 1875,
                     "change": 14,
                     "time": 527125,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710188732,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "TheBlazer97",
-                    "elo": 1861,
-                    "change": 16,
-                    "time": 643900,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -38850,17 +38839,6 @@
                     "elo": 1693,
                     "change": 19,
                     "time": 842585,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710188638,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Oceanico",
-                    "elo": 1674,
-                    "change": -25,
-                    "time": 851032,
                     "forfeited": false,
                     "decayed": false
                 }
