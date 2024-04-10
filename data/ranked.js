@@ -1,5 +1,5 @@
 {
-    "date": "1712790811",
+    "date": "1712791445",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -22321,17 +22321,6 @@
                     "time": 466262,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710199208,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1645,
-                    "change": -21,
-                    "time": 185436,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -30380,17 +30369,6 @@
                     "time": 316067,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710199119,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1795,
-                    "change": -15,
-                    "time": 607312,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -34575,28 +34553,6 @@
                     "elo": 1663,
                     "change": 17,
                     "time": 805076,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710199208,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "mcsrjordan",
-                    "elo": 1646,
-                    "change": 21,
-                    "time": 185436,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710198965,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Sneedcopter",
-                    "elo": 1625,
-                    "change": -23,
-                    "time": 801030,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42565,17 +42521,6 @@
                     "time": 272266,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710199231,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1618,
-                    "change": -21,
-                    "time": 740857,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47850,17 +47795,6 @@
                     "elo": 1660,
                     "change": 16,
                     "time": 636307,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710199231,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1644,
-                    "change": 21,
-                    "time": 740857,
                     "forfeited": false,
                     "decayed": false
                 }
