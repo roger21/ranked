@@ -1,5 +1,5 @@
 {
-    "date": "1712787181",
+    "date": "1712788100",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8350,28 +8350,6 @@
                     "change": 14,
                     "time": 826207,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710195858,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1904,
-                    "change": -20,
-                    "time": 545954,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710195264,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1924,
-                    "change": 13,
-                    "time": 705328,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -22409,28 +22387,6 @@
                     "time": 826207,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710195817,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1722,
-                    "change": 20,
-                    "time": 460998,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710195218,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1702,
-                    "change": -22,
-                    "time": 730144,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -34764,17 +34720,6 @@
                     "time": 327866,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710195833,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1660,
-                    "change": 22,
-                    "time": 556813,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42785,28 +42730,6 @@
                     "time": 670622,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710195817,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "mcsrjordan",
-                    "elo": 1674,
-                    "change": -20,
-                    "time": 460998,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710195264,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "meebie",
-                    "elo": 1694,
-                    "change": -13,
-                    "time": 705328,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -48136,28 +48059,6 @@
                     "elo": 1619,
                     "change": -19,
                     "time": 327866,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710195879,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "NottAntoo",
-                    "elo": 1638,
-                    "change": -21,
-                    "time": 340802,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710195366,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Japonk86",
-                    "elo": 1659,
-                    "change": -25,
-                    "time": 541540,
                     "forfeited": true,
                     "decayed": false
                 }
