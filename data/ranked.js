@@ -1,5 +1,5 @@
 {
-    "date": "1712791722",
+    "date": "1712792131",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -30358,17 +30358,6 @@
                     "time": 893578,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710199710,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Fulham",
-                    "elo": 1808,
-                    "change": 13,
-                    "time": 316067,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -42510,17 +42499,6 @@
                     "time": 416242,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710199993,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "outrag",
-                    "elo": 1592,
-                    "change": -26,
-                    "time": 272266,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -47784,17 +47762,6 @@
                     "elo": 1645,
                     "change": -15,
                     "time": 893578,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710199956,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "big_pizu",
-                    "elo": 1660,
-                    "change": 16,
-                    "time": 636307,
                     "forfeited": false,
                     "decayed": false
                 }
