@@ -1,5 +1,5 @@
 {
-    "date": "1712728479",
+    "date": "1712729704",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8767,17 +8767,6 @@
                     "elo": 1850,
                     "change": 30,
                     "time": 592401,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710137415": {
-                    "date": 1710137415,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Xia_Wen",
-                    "elo": 1820,
-                    "change": -26,
-                    "time": 888550,
                     "forfeited": false,
                     "decayed": false
                 }
