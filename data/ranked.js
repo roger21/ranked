@@ -1,5 +1,5 @@
 {
-    "date": "1712761932",
+    "date": "1712762598",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3187,17 +3187,6 @@
                     "elo": 2019,
                     "change": 18,
                     "time": 572247,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710170175": {
-                    "date": 1710170175,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Bloonskiller",
-                    "elo": 2001,
-                    "change": 14,
-                    "time": 588471,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30930,17 +30919,6 @@
                     "time": 573878,
                     "forfeited": true,
                     "decayed": false
-                },
-                "1710170323": {
-                    "date": 1710170323,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 1744,
-                    "change": 15,
-                    "time": 888292,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -42976,17 +42954,6 @@
                     "elo": 1582,
                     "change": 15,
                     "time": 739790,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710170323": {
-                    "date": 1710170323,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1567,
-                    "change": -15,
-                    "time": 888292,
                     "forfeited": false,
                     "decayed": false
                 }
