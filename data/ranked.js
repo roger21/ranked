@@ -1,5 +1,5 @@
 {
-    "date": "1712789104",
+    "date": "1712789715",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -22354,17 +22354,6 @@
                     "time": 936262,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710197505,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1691,
-                    "change": -17,
-                    "time": 672074,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -30433,17 +30422,6 @@
                     "elo": 1810,
                     "change": 15,
                     "time": 614272,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710197505,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "mcsrjordan",
-                    "elo": 1795,
-                    "change": 17,
-                    "time": 672074,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -47971,17 +47949,6 @@
                     "elo": 1650,
                     "change": 17,
                     "time": 641388,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710197091,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "outrag",
-                    "elo": 1633,
-                    "change": 14,
-                    "time": 717776,
                     "forfeited": false,
                     "decayed": false
                 }
