@@ -1,5 +1,5 @@
 {
-    "date": "1712714838",
+    "date": "1712716182",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8835,28 +8835,6 @@
                     "time": 735704,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710123718": {
-                    "date": 1710123718,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1841,
-                    "change": -20,
-                    "time": 535745,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710123135": {
-                    "date": 1710123135,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Eufoniuss",
-                    "elo": 1861,
-                    "change": -27,
-                    "time": 1066223,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -13116,17 +13094,6 @@
                     "time": 657717,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710123467": {
-                    "date": 1710123467,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "ElRichi",
-                    "elo": 1849,
-                    "change": 15,
-                    "time": 665348,
-                    "forfeited": false,
-                    "decayed": false
                 }
             }
         },
@@ -16944,28 +16911,6 @@
                     "change": -21,
                     "time": 783330,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710124102": {
-                    "date": 1710124102,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Eufoniuss",
-                    "elo": 1966,
-                    "change": 12,
-                    "time": 779422,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                "1710123083": {
-                    "date": 1710123083,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1954,
-                    "change": -1,
-                    "time": 1027539,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
