@@ -1,5 +1,5 @@
 {
-    "date": "1712777685",
+    "date": "1712778273",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -36194,17 +36194,6 @@
                     "change": -16,
                     "time": 776837,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710186203,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Tompas_",
-                    "elo": 1761,
-                    "change": -28,
-                    "time": 861756,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
