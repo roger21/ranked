@@ -1,5 +1,5 @@
 {
-    "date": "1712763359",
+    "date": "1712763885",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -30886,17 +30886,6 @@
                     "time": 660544,
                     "forfeited": false,
                     "decayed": false
-                },
-                "1710171726": {
-                    "date": 1710171726,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "ContraVz",
-                    "elo": 1743,
-                    "change": 16,
-                    "time": 689920,
-                    "forfeited": true,
-                    "decayed": false
                 }
             }
         },
@@ -42911,17 +42900,6 @@
                     "change": 20,
                     "time": 755750,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710171627": {
-                    "date": 1710171627,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Andronicus",
-                    "elo": 1597,
-                    "change": 15,
-                    "time": 381585,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
