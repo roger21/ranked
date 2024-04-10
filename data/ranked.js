@@ -1,5 +1,5 @@
 {
-    "date": "1712792696",
+    "date": "1712793283",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -30347,17 +30347,6 @@
                     "time": 794500,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710200939,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 1823,
-                    "change": 15,
-                    "time": 893578,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47751,17 +47740,6 @@
                     "elo": 1665,
                     "change": 20,
                     "time": 509065,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710200939,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1645,
-                    "change": -15,
-                    "time": 893578,
                     "forfeited": false,
                     "decayed": false
                 }
