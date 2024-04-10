@@ -1,5 +1,5 @@
 {
-    "date": "1712759749",
+    "date": "1712760289",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3198,17 +3198,6 @@
                     "elo": 2001,
                     "change": 14,
                     "time": 588471,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710168031": {
-                    "date": 1710168031,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1987,
-                    "change": -30,
-                    "time": 635481,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30950,17 +30939,6 @@
                     "elo": 1744,
                     "change": 15,
                     "time": 888292,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710168031": {
-                    "date": 1710168031,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 1729,
-                    "change": 30,
-                    "time": 635481,
                     "forfeited": false,
                     "decayed": false
                 }
