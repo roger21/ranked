@@ -1,5 +1,5 @@
 {
-    "date": "1712784001",
+    "date": "1712784329",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -38665,17 +38665,6 @@
                     "time": 388786,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710192195,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 1713,
-                    "change": 21,
-                    "time": 805602,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -43814,17 +43803,6 @@
                     "time": 335632,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710192126,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "ElRichi",
-                    "elo": 1619,
-                    "change": 24,
-                    "time": 771510,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46702,17 +46680,6 @@
                     "time": 335632,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710192268,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1630,
-                    "change": 18,
-                    "time": 292478,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -48356,17 +48323,6 @@
                     "elo": 1678,
                     "change": -26,
                     "time": 632970,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710192195,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "mcsrlebron",
-                    "elo": 1704,
-                    "change": -21,
-                    "time": 805602,
                     "forfeited": true,
                     "decayed": false
                 }
