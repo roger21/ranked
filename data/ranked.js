@@ -1,5 +1,5 @@
 {
-    "date": "1712785471",
+    "date": "1712786071",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -38329,17 +38329,6 @@
                     "time": 763202,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710193761,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1620,
-                    "change": -19,
-                    "time": 711200,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42851,17 +42840,6 @@
                     "time": 799508,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710193547,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "ElRichi",
-                    "elo": 1688,
-                    "change": -21,
-                    "time": 742423,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46600,6 +46578,17 @@
             "nickname": "Javierixmon",
             "matches": [
                 {
+                    "date": 1712785860,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1851,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
                     "date": 1712699460,
                     "type": null,
                     "result": "lost",
@@ -48213,17 +48202,6 @@
                     "elo": 1684,
                     "change": -13,
                     "time": 764244,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710193761,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1697,
-                    "change": 19,
-                    "time": 711200,
                     "forfeited": false,
                     "decayed": false
                 }
