@@ -1,5 +1,5 @@
 {
-    "date": "1712780927",
+    "date": "1712781440",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1828,17 +1828,6 @@
                     "elo": 2352,
                     "change": 4,
                     "time": 596223,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710188963,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Hinart",
-                    "elo": 2348,
-                    "change": -34,
-                    "time": 656653,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36096,17 +36085,6 @@
                     "time": 596223,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710188877,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "ElRichi",
-                    "elo": 1743,
-                    "change": 19,
-                    "time": 807798,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -44291,17 +44269,6 @@
                     "elo": 1706,
                     "change": -22,
                     "time": 616576,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710189164,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1728,
-                    "change": 14,
-                    "time": 785638,
                     "forfeited": false,
                     "decayed": false
                 }
