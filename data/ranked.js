@@ -1,5 +1,5 @@
 {
-    "date": "1712756675",
+    "date": "1712757265",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -45629,17 +45629,6 @@
                     "change": -19,
                     "time": 485225,
                     "forfeited": true,
-                    "decayed": false
-                },
-                "1710164925": {
-                    "date": 1710164925,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1813,
-                    "change": -26,
-                    "time": 734733,
-                    "forfeited": false,
                     "decayed": false
                 }
             }
