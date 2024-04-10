@@ -1,5 +1,5 @@
 {
-    "date": "1712723189",
+    "date": "1712723710",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8778,17 +8778,6 @@
                     "elo": 1820,
                     "change": -26,
                     "time": 888550,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710131357": {
-                    "date": 1710131357,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Eufoniuss",
-                    "elo": 1846,
-                    "change": -24,
-                    "time": 701665,
                     "forfeited": false,
                     "decayed": false
                 }
