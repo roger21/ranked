@@ -1,5 +1,5 @@
 {
-    "date": "1712706881",
+    "date": "1712710133",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -17065,39 +17065,6 @@
                     "change": 15,
                     "time": 830919,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710116710": {
-                    "date": 1710116710,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1867,
-                    "change": 19,
-                    "time": 628355,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710115984": {
-                    "date": 1710115984,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Eufoniuss",
-                    "elo": 1848,
-                    "change": -26,
-                    "time": 718424,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                "1710115150": {
-                    "date": 1710115150,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1874,
-                    "change": 21,
-                    "time": 166345,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
@@ -45084,17 +45051,6 @@
                     "change": -8,
                     "time": 728418,
                     "forfeited": false,
-                    "decayed": false
-                },
-                "1710115150": {
-                    "date": 1710115150,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "dolqhin",
-                    "elo": 1850,
-                    "change": -21,
-                    "time": 166345,
-                    "forfeited": true,
                     "decayed": false
                 }
             }
