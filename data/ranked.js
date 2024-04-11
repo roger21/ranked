@@ -1,5 +1,5 @@
 {
-    "date": "1712878614",
+    "date": "1712879105",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -42322,17 +42322,6 @@
                     "change": -6,
                     "time": 654103,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710286897,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1832,
-                    "change": 22,
-                    "time": 353329,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
