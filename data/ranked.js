@@ -1,5 +1,5 @@
 {
-    "date": "1712874294",
+    "date": "1712874926",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -29513,6 +29513,17 @@
             "nickname": "Emillk",
             "matches": [
                 {
+                    "date": 1712874530,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Waluyoshi",
+                    "elo": 1879,
+                    "change": 0,
+                    "time": 723697,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1712873725,
                     "type": "BURIED_TREASURE",
                     "result": "win",
@@ -36511,6 +36522,17 @@
             "nickname": "Waluyoshi",
             "matches": [
                 {
+                    "date": 1712874530,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Emillk",
+                    "elo": 1874,
+                    "change": 0,
+                    "time": 723697,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1712873563,
                     "type": "SHIPWRECK",
                     "result": "lost",
@@ -40590,17 +40612,6 @@
                     "time": 695052,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710282681,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1695,
-                    "change": 28,
-                    "time": 672315,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42574,17 +42585,6 @@
                     "elo": 1838,
                     "change": -28,
                     "time": 692074,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710282681,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1866,
-                    "change": -28,
-                    "time": 672315,
                     "forfeited": false,
                     "decayed": false
                 }
