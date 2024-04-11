@@ -1,5 +1,5 @@
 {
-    "date": "1712793283",
+    "date": "1712796569",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -30314,39 +30314,6 @@
                     "time": 917441,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710203659,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1876,
-                    "change": 14,
-                    "time": 634156,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710202937,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1862,
-                    "change": 25,
-                    "time": 390048,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710202455,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1837,
-                    "change": 14,
-                    "time": 794500,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -34509,28 +34476,6 @@
                     "elo": 1628,
                     "change": -21,
                     "time": 593554,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710202455,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1649,
-                    "change": -14,
-                    "time": 794500,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710201534,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Maraico",
-                    "elo": 1663,
-                    "change": 17,
-                    "time": 805076,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -46183,39 +46128,6 @@
                     "elo": 1636,
                     "change": 21,
                     "time": 593554,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710204390,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1615,
-                    "change": -19,
-                    "time": 673160,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710203394,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "_roverrr",
-                    "elo": 1634,
-                    "change": 22,
-                    "time": 840892,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710202203,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Maraico",
-                    "elo": 1612,
-                    "change": 18,
-                    "time": 541059,
                     "forfeited": false,
                     "decayed": false
                 }
