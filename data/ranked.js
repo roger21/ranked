@@ -1,5 +1,5 @@
 {
-    "date": "1712863043",
+    "date": "1712863510",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -7875,17 +7875,6 @@
                     "elo": 2182,
                     "change": 12,
                     "time": 574403,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710271081,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Mar1n",
-                    "elo": 2170,
-                    "change": 11,
-                    "time": 753458,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -33273,17 +33262,6 @@
                     "time": 534937,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710271410,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "skylewl",
-                    "elo": 1857,
-                    "change": 19,
-                    "time": 952414,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -34696,17 +34674,6 @@
                     "elo": 1891,
                     "change": 20,
                     "time": 798967,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710271081,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1871,
-                    "change": -11,
-                    "time": 753458,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -37745,17 +37712,6 @@
                     "change": 15,
                     "time": 524370,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710271232,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1770,
-                    "change": -18,
-                    "time": 621707,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
