@@ -1,5 +1,5 @@
 {
-    "date": "1712853894",
+    "date": "1712854510",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -16246,17 +16246,6 @@
                     "time": 370439,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710262309,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1941,
-                    "change": 20,
-                    "time": 678850,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -22387,17 +22376,6 @@
                     "time": 650447,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710262175,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "_roverrr",
-                    "elo": 1617,
-                    "change": 19,
-                    "time": 918767,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -24427,17 +24405,6 @@
                     "change": 17,
                     "time": 324307,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710262309,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1900,
-                    "change": -20,
-                    "time": 678850,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -42663,17 +42630,6 @@
                     "change": -12,
                     "time": 653934,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710261995,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "miszau",
-                    "elo": 1561,
-                    "change": -25,
-                    "time": 799765,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
