@@ -1,5 +1,5 @@
 {
-    "date": "1712879105",
+    "date": "1712879721",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -21566,17 +21566,6 @@
                     "time": 542287,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710287061,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "boosterruns",
-                    "elo": 1957,
-                    "change": 16,
-                    "time": 720434,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -24799,17 +24788,6 @@
                     "elo": 1656,
                     "change": -20,
                     "time": 680213,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710287085,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1676,
-                    "change": -18,
-                    "time": 764670,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -33593,17 +33571,6 @@
                     "time": 633327,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710287061,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Kxpow",
-                    "elo": 1817,
-                    "change": -16,
-                    "time": 720434,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -36304,17 +36271,6 @@
                     "change": -13,
                     "time": 542287,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710287085,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1764,
-                    "change": 18,
-                    "time": 764670,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
