@@ -1,5 +1,5 @@
 {
-    "date": "1712799615",
+    "date": "1712801341",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -34379,17 +34379,6 @@
                     "time": 584312,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710208167,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 1633,
-                    "change": 22,
-                    "time": 870773,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -45987,39 +45976,6 @@
                     "time": 680099,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710209248,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "MCSRShaq",
-                    "elo": 1666,
-                    "change": 16,
-                    "time": 615872,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710208499,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Mytinsaw",
-                    "elo": 1650,
-                    "change": 13,
-                    "time": 600131,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710207772,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "qam022",
-                    "elo": 1637,
-                    "change": 21,
-                    "time": 659101,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47509,28 +47465,6 @@
                     "elo": 1644,
                     "change": -15,
                     "time": 659276,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710208912,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "_loro1",
-                    "elo": 1659,
-                    "change": 16,
-                    "time": 504184,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710208167,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1643,
-                    "change": -22,
-                    "time": 870773,
                     "forfeited": false,
                     "decayed": false
                 }
