@@ -1,5 +1,5 @@
 {
-    "date": "1712802630",
+    "date": "1712803093",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -45954,17 +45954,6 @@
                     "time": 509016,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710210719,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1666,
-                    "change": -22,
-                    "time": 354943,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -47421,17 +47410,6 @@
                     "elo": 1644,
                     "change": -1,
                     "time": 558246,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710210719,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 1645,
-                    "change": 22,
-                    "time": 354943,
                     "forfeited": true,
                     "decayed": false
                 }
