@@ -1,5 +1,5 @@
 {
-    "date": "1712877823",
+    "date": "1712878177",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -24832,17 +24832,6 @@
                     "elo": 1676,
                     "change": -18,
                     "time": 764670,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710285852,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1694,
-                    "change": 28,
-                    "time": 808349,
                     "forfeited": false,
                     "decayed": false
                 }
