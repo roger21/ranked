@@ -1,5 +1,5 @@
 {
-    "date": "1712852725",
+    "date": "1712853342",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -3837,17 +3837,6 @@
                     "elo": 2124,
                     "change": 17,
                     "time": 862120,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710260721,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 2107,
-                    "change": 15,
-                    "time": 713276,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -22420,17 +22409,6 @@
                     "time": 918767,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710260947,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1598,
-                    "change": 21,
-                    "time": 790201,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -35468,17 +35446,6 @@
                     "time": 764898,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710260721,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1942,
-                    "change": -15,
-                    "time": 713276,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42728,17 +42695,6 @@
                     "elo": 1561,
                     "change": -25,
                     "time": 799765,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710260947,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "mcsrjordan",
-                    "elo": 1586,
-                    "change": -21,
-                    "time": 790201,
                     "forfeited": true,
                     "decayed": false
                 }
