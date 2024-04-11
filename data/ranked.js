@@ -1,5 +1,5 @@
 {
-    "date": "1712843101",
+    "date": "1712843679",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -22451,17 +22451,6 @@
                     "elo": 1685,
                     "change": 19,
                     "time": 419032,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710251092,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1666,
-                    "change": 21,
-                    "time": 466262,
                     "forfeited": true,
                     "decayed": false
                 }
