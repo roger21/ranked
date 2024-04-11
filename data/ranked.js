@@ -1,5 +1,5 @@
 {
-    "date": "1712801341",
+    "date": "1712802630",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -45965,17 +45965,6 @@
                     "time": 354943,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710210047,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1688,
-                    "change": 22,
-                    "time": 680099,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47444,28 +47433,6 @@
                     "change": 22,
                     "time": 354943,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710210301,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "qam022",
-                    "elo": 1623,
-                    "change": -21,
-                    "time": 554508,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710209667,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Eufoniuss",
-                    "elo": 1644,
-                    "change": -15,
-                    "time": 659276,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
