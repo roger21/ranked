@@ -1,5 +1,5 @@
 {
-    "date": "1712878177",
+    "date": "1712878614",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -3045,17 +3045,6 @@
                     "change": 6,
                     "time": 654103,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710286491,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 2320,
-                    "change": 7,
-                    "time": 577694,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -21588,17 +21577,6 @@
                     "time": 720434,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710286254,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1941,
-                    "change": -29,
-                    "time": 395272,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -33626,17 +33604,6 @@
                     "time": 720434,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710286286,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1833,
-                    "change": 21,
-                    "time": 699123,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -36348,17 +36315,6 @@
                     "change": 18,
                     "time": 764670,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710286254,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Kxpow",
-                    "elo": 1746,
-                    "change": 29,
-                    "time": 395272,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -42378,17 +42334,6 @@
                     "time": 353329,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710286286,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "boosterruns",
-                    "elo": 1810,
-                    "change": -21,
-                    "time": 699123,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46717,17 +46662,6 @@
                     "elo": 1687,
                     "change": 25,
                     "time": 149330,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710286338,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Tompas_",
-                    "elo": 1662,
-                    "change": -26,
-                    "time": 915540,
                     "forfeited": true,
                     "decayed": false
                 }
