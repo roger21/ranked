@@ -1,5 +1,5 @@
 {
-    "date": "1712817871",
+    "date": "1712818479",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8273,17 +8273,6 @@
                     "change": 11,
                     "time": 215964,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710225957,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Eufoniuss",
-                    "elo": 1999,
-                    "change": 16,
-                    "time": 574703,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
