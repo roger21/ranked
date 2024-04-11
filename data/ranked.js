@@ -1,5 +1,5 @@
 {
-    "date": "1712835887",
+    "date": "1712836506",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -43262,17 +43262,6 @@
                     "elo": 1662,
                     "change": 15,
                     "time": 706904,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710243959,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "BlazeMind",
-                    "elo": 1647,
-                    "change": 15,
-                    "time": 846314,
                     "forfeited": false,
                     "decayed": false
                 }
