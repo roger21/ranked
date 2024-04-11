@@ -1,5 +1,5 @@
 {
-    "date": "1712825717",
+    "date": "1712826748",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -6345,17 +6345,6 @@
                     "elo": 2085,
                     "change": -29,
                     "time": 600790,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710233707,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "silverrruns",
-                    "elo": 2114,
-                    "change": 17,
-                    "time": 667545,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -17626,17 +17615,6 @@
                     "elo": 2009,
                     "change": 10,
                     "time": 547789,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710233707,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Priffin",
-                    "elo": 1999,
-                    "change": -17,
-                    "time": 667545,
                     "forfeited": false,
                     "decayed": false
                 }
