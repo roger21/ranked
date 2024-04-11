@@ -1,5 +1,5 @@
 {
-    "date": "1712867298",
+    "date": "1712867784",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -29483,17 +29483,6 @@
                     "time": 611927,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710275451,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1855,
-                    "change": -17,
-                    "time": 330401,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -38263,17 +38252,6 @@
                     "time": 639325,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710275451,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1979,
-                    "change": 17,
-                    "time": 330401,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -39983,17 +39961,6 @@
                     "elo": 1792,
                     "change": -18,
                     "time": 611927,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710275718,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1810,
-                    "change": -20,
-                    "time": 640870,
                     "forfeited": false,
                     "decayed": false
                 }
