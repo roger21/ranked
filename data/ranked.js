@@ -1,5 +1,5 @@
 {
-    "date": "1712804088",
+    "date": "1712805165",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -47388,17 +47388,6 @@
                     "elo": 1684,
                     "change": 18,
                     "time": 769692,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710212740,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1666,
-                    "change": 22,
-                    "time": 666800,
                     "forfeited": false,
                     "decayed": false
                 }
