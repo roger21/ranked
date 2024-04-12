@@ -1,5 +1,5 @@
 {
-    "date": "1712946375",
+    "date": "1712946908",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -37463,17 +37463,6 @@
                     "elo": 1612,
                     "change": 27,
                     "time": 650716,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710354840,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Mescht",
-                    "elo": 1585,
-                    "change": 23,
-                    "time": 981753,
                     "forfeited": false,
                     "decayed": false
                 }
