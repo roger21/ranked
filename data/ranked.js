@@ -1,5 +1,5 @@
 {
-    "date": "1712893464",
+    "date": "1712894070",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -1243,6 +1243,17 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "matches": [
+                {
+                    "date": 1712893563,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 2234,
+                    "change": -27,
+                    "time": 843912,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712892643,
                     "type": "VILLAGE",
@@ -7868,6 +7879,17 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1712893563,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "doogile",
+                    "elo": 2081,
+                    "change": 27,
+                    "time": 843912,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712892228,
                     "type": "BURIED_TREASURE",
