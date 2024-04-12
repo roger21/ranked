@@ -1,5 +1,5 @@
 {
-    "date": "1712947473",
+    "date": "1712948108",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -37454,17 +37454,6 @@
                     "time": 742651,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710355631,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1612,
-                    "change": 27,
-                    "time": 650716,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43316,17 +43305,6 @@
                     "elo": 1736,
                     "change": -13,
                     "time": 733495,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710355631,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1749,
-                    "change": -27,
-                    "time": 650716,
                     "forfeited": false,
                     "decayed": false
                 }
