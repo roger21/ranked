@@ -1,5 +1,5 @@
 {
-    "date": "1712951076",
+    "date": "1712951680",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17099,17 +17099,6 @@
                     "time": 685553,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710359258,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Mescht",
-                    "elo": 1868,
-                    "change": 12,
-                    "time": 657585,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -17376,6 +17365,17 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1712951292,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "TUDORULE",
+                    "elo": 1968,
+                    "change": 15,
+                    "time": 609128,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712950049,
                     "type": "DESERT_TEMPLE",
