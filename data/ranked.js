@@ -1,5 +1,5 @@
 {
-    "date": "1712933092",
+    "date": "1712933714",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17275,17 +17275,6 @@
                     "time": 697982,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710341312,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Dimeax",
-                    "elo": 1855,
-                    "change": -27,
-                    "time": 887149,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -17293,6 +17282,17 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1712933632,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "mxkky_",
+                    "elo": 1981,
+                    "change": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1712930439,
                     "type": "BURIED_TREASURE",
