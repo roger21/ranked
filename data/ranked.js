@@ -1,5 +1,5 @@
 {
-    "date": "1712951680",
+    "date": "1712952741",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17077,28 +17077,6 @@
                     "time": 712052,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710360674,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1830,
-                    "change": -22,
-                    "time": 623627,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710359999,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Hinart",
-                    "elo": 1852,
-                    "change": -16,
-                    "time": 685553,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -22323,17 +22301,6 @@
                     "elo": 2016,
                     "change": -22,
                     "time": 684165,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710359769,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 2038,
-                    "change": 12,
-                    "time": 798413,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43173,28 +43140,6 @@
                     "elo": 1828,
                     "change": 20,
                     "time": 649557,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710360674,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 1808,
-                    "change": 22,
-                    "time": 623627,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710359769,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1786,
-                    "change": -12,
-                    "time": 798413,
                     "forfeited": false,
                     "decayed": false
                 }
