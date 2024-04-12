@@ -1,5 +1,5 @@
 {
-    "date": "1712929515",
+    "date": "1712930087",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -6477,17 +6477,6 @@
                     "elo": 2050,
                     "change": -31,
                     "time": 737674,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710337799,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Hinart",
-                    "elo": 2081,
-                    "change": 16,
-                    "time": 657592,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42867,17 +42856,6 @@
                     "change": 14,
                     "time": 545965,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710337922,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1657,
-                    "change": -18,
-                    "time": 838127,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
