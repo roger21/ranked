@@ -1,5 +1,5 @@
 {
-    "date": "1712953265",
+    "date": "1712953595",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -43129,17 +43129,6 @@
                     "elo": 1849,
                     "change": 21,
                     "time": 773197,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710361461,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Bloonskiller",
-                    "elo": 1828,
-                    "change": 20,
-                    "time": 649557,
                     "forfeited": false,
                     "decayed": false
                 }
