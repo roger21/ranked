@@ -1,5 +1,5 @@
 {
-    "date": "1712940900",
+    "date": "1712941920",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17207,17 +17207,6 @@
                     "elo": 1786,
                     "change": -14,
                     "time": 833865,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710349170,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1800,
-                    "change": -22,
-                    "time": 256701,
                     "forfeited": true,
                     "decayed": false
                 }
