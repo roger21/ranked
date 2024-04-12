@@ -1,5 +1,5 @@
 {
-    "date": "1712942736",
+    "date": "1712943379",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -5908,6 +5908,17 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "Priffin",
             "matches": [
+                {
+                    "date": 1712942941,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 2173,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1712856541,
                     "type": null,
@@ -17185,17 +17196,6 @@
                     "elo": 1744,
                     "change": -22,
                     "time": 582667,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710351084,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1766,
-                    "change": -20,
-                    "time": 966064,
                     "forfeited": false,
                     "decayed": false
                 }
