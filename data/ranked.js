@@ -1,5 +1,5 @@
 {
-    "date": "1712887779",
+    "date": "1712889146",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -21398,6 +21398,17 @@
             "nickname": "silverrruns",
             "matches": [
                 {
+                    "date": 1712889092,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "retropog",
+                    "elo": 1965,
+                    "change": 18,
+                    "time": 441264,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1712821301,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -27130,6 +27141,28 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1712889092,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1862,
+                    "change": -18,
+                    "time": 441264,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1712888439,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "big_pizu",
+                    "elo": 1880,
+                    "change": -28,
+                    "time": 543603,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712887457,
                     "type": "BURIED_TREASURE",
