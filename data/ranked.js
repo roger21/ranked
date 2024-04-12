@@ -1,5 +1,5 @@
 {
-    "date": "1712928533",
+    "date": "1712928892",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -6488,17 +6488,6 @@
                     "elo": 2081,
                     "change": 16,
                     "time": 657592,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710336766,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 2065,
-                    "change": -32,
-                    "time": 638578,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -35604,17 +35593,6 @@
                     "elo": 1759,
                     "change": 14,
                     "time": 645122,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710336766,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Priffin",
-                    "elo": 1745,
-                    "change": 32,
-                    "time": 638578,
                     "forfeited": false,
                     "decayed": false
                 }
