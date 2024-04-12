@@ -1,5 +1,5 @@
 {
-    "date": "1712897724",
+    "date": "1712898744",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -1243,6 +1243,28 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "matches": [
+                {
+                    "date": 1712898389,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 2214,
+                    "change": -27,
+                    "time": 528632,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1712897799,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Bloonskiller",
+                    "elo": 2241,
+                    "change": 7,
+                    "time": 599520,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712893563,
                     "type": "BURIED_TREASURE",
@@ -7879,6 +7901,17 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1712898389,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "doogile",
+                    "elo": 2081,
+                    "change": 27,
+                    "time": 528632,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712894201,
                     "type": "SHIPWRECK",
@@ -44203,17 +44236,6 @@
                     "elo": 1724,
                     "change": 22,
                     "time": 582667,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710306193,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Thuliumm",
-                    "elo": 1702,
-                    "change": 15,
-                    "time": 1169970,
                     "forfeited": false,
                     "decayed": false
                 }
