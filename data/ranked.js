@@ -1,5 +1,5 @@
 {
-    "date": "1712964290",
+    "date": "1712964880",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -33422,17 +33422,6 @@
                     "time": 439164,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710372777,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "JackoWacko62",
-                    "elo": 1710,
-                    "change": -28,
-                    "time": 697669,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -38681,17 +38670,6 @@
                     "time": 730546,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710372663,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 1855,
-                    "change": 17,
-                    "time": 711094,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43097,17 +43075,6 @@
                     "elo": 1787,
                     "change": -23,
                     "time": 638907,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710372347,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1810,
-                    "change": 20,
-                    "time": 934795,
                     "forfeited": false,
                     "decayed": false
                 }
