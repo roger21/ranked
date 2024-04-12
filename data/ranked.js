@@ -1,5 +1,5 @@
 {
-    "date": "1712937316",
+    "date": "1712938428",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17240,17 +17240,6 @@
                     "elo": 1844,
                     "change": -26,
                     "time": 809607,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710345497,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Bloonskiller",
-                    "elo": 1870,
-                    "change": 19,
-                    "time": 676651,
                     "forfeited": false,
                     "decayed": false
                 }
