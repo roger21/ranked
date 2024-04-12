@@ -1,5 +1,5 @@
 {
-    "date": "1712954725",
+    "date": "1712955318",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -22011,17 +22011,6 @@
                     "time": 689206,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710363009,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 2027,
-                    "change": 11,
-                    "time": 603823,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -41321,17 +41310,6 @@
                     "time": 775601,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710362883,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Mescht",
-                    "elo": 1749,
-                    "change": 16,
-                    "time": 718670,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47245,17 +47223,6 @@
                     "elo": 1755,
                     "change": 17,
                     "time": 822972,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710363009,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1738,
-                    "change": -11,
-                    "time": 603823,
                     "forfeited": false,
                     "decayed": false
                 }
