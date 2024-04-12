@@ -1,5 +1,5 @@
 {
-    "date": "1712938428",
+    "date": "1712939289",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17249,6 +17249,17 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1712938547,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "novadud",
+                    "elo": 1992,
+                    "change": 11,
+                    "time": 831493,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712933632,
                     "type": "RUINED_PORTAL",
