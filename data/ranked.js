@@ -1,5 +1,5 @@
 {
-    "date": "1712949485",
+    "date": "1712949910",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17121,17 +17121,6 @@
                     "time": 539049,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710357708,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 1881,
-                    "change": 27,
-                    "time": 549851,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -25042,17 +25031,6 @@
                     "change": 12,
                     "time": 578797,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710357708,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 2014,
-                    "change": -27,
-                    "time": 549851,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -43250,17 +43228,6 @@
                     "elo": 1778,
                     "change": 25,
                     "time": 539049,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710357447,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Mescht",
-                    "elo": 1753,
-                    "change": 17,
-                    "time": 921200,
                     "forfeited": false,
                     "decayed": false
                 }
