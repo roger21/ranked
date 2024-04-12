@@ -1,5 +1,5 @@
 {
-    "date": "1712950502",
+    "date": "1712951076",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -22336,17 +22336,6 @@
                     "time": 798413,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710358589,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 2026,
-                    "change": 12,
-                    "time": 578797,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -43207,17 +43196,6 @@
                     "change": -12,
                     "time": 798413,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710358881,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1798,
-                    "change": 20,
-                    "time": 245400,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
