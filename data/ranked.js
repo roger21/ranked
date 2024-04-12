@@ -1,5 +1,5 @@
 {
-    "date": "1712933714",
+    "date": "1712934694",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17262,17 +17262,6 @@
                     "elo": 1851,
                     "change": 13,
                     "time": 522057,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710342201,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Hinart",
-                    "elo": 1838,
-                    "change": -17,
-                    "time": 697982,
                     "forfeited": true,
                     "decayed": false
                 }
