@@ -1,5 +1,5 @@
 {
-    "date": "1712939763",
+    "date": "1712940282",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17230,17 +17230,6 @@
                     "change": -22,
                     "time": 246977,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710347990,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1844,
-                    "change": -26,
-                    "time": 809607,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
