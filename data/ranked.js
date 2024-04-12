@@ -1,5 +1,5 @@
 {
-    "date": "1712940282",
+    "date": "1712940900",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17218,17 +17218,6 @@
                     "elo": 1800,
                     "change": -22,
                     "time": 256701,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710348420,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "skylewl",
-                    "elo": 1822,
-                    "change": -22,
-                    "time": 246977,
                     "forfeited": true,
                     "decayed": false
                 }
