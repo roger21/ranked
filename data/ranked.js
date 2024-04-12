@@ -1,5 +1,5 @@
 {
-    "date": "1712921741",
+    "date": "1712922298",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -3031,6 +3031,17 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1712921907,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Ancoboyy",
+                    "elo": 2212,
+                    "change": 17,
+                    "time": 634824,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1712921163,
                     "type": "BURIED_TREASURE",
@@ -7691,6 +7702,17 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "matches": [
+                {
+                    "date": 1712921907,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 2103,
+                    "change": -17,
+                    "time": 634824,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1712920968,
                     "type": "BURIED_TREASURE",
