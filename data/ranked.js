@@ -1,5 +1,5 @@
 {
-    "date": "1712941920",
+    "date": "1712942736",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17197,17 +17197,6 @@
                     "change": -20,
                     "time": 966064,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710350073,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Hinart",
-                    "elo": 1786,
-                    "change": -14,
-                    "time": 833865,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
