@@ -1,5 +1,5 @@
 {
-    "date": "1712964880",
+    "date": "1712965471",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -4023,17 +4023,6 @@
                     "elo": 2181,
                     "change": 12,
                     "time": 641640,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710373311,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 2169,
-                    "change": 8,
-                    "time": 848668,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24689,28 +24678,6 @@
                     "elo": 1634,
                     "change": 13,
                     "time": 1242339,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710373146,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1621,
-                    "change": -17,
-                    "time": 209662,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710372848,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "nof3zerocycle",
-                    "elo": 1638,
-                    "change": 13,
-                    "time": 795258,
                     "forfeited": false,
                     "decayed": false
                 }
