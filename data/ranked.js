@@ -1,5 +1,5 @@
 {
-    "date": "1712921233",
+    "date": "1712921741",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -43350,17 +43350,6 @@
                     "elo": 1708,
                     "change": 14,
                     "time": 842382,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710329580,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "santaa12",
-                    "elo": 1694,
-                    "change": 12,
-                    "time": 811889,
                     "forfeited": false,
                     "decayed": false
                 }
