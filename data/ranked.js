@@ -1,5 +1,5 @@
 {
-    "date": "1713036911",
+    "date": "1713037500",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -5679,17 +5679,6 @@
                     "elo": 2325,
                     "change": 6,
                     "time": 684618,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710444890,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "boosterruns",
-                    "elo": 2319,
-                    "change": 6,
-                    "time": 1074532,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -33587,17 +33576,6 @@
                     "time": 1058901,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710444890,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1788,
-                    "change": -6,
-                    "time": 1074532,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -38929,17 +38907,6 @@
                     "time": 677235,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710444900,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1789,
-                    "change": 18,
-                    "time": 694318,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -41679,17 +41646,6 @@
                     "change": 18,
                     "time": 306402,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710445065,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1613,
-                    "change": -17,
-                    "time": 814758,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
