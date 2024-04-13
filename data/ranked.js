@@ -1,5 +1,5 @@
 {
-    "date": "1713039476",
+    "date": "1713039870",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -3904,17 +3904,6 @@
                     "time": 777170,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710447655,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 2248,
-                    "change": 24,
-                    "time": 664828,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -5657,17 +5646,6 @@
                     "elo": 2307,
                     "change": 6,
                     "time": 670465,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710447655,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 2301,
-                    "change": -24,
-                    "time": 664828,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -17632,17 +17610,6 @@
                     "time": 670465,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710447671,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Oceanico",
-                    "elo": 1820,
-                    "change": 14,
-                    "time": 286356,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -24008,17 +23975,6 @@
                     "change": -22,
                     "time": 873722,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710447513,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "loodlow",
-                    "elo": 1602,
-                    "change": 18,
-                    "time": 91617,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
