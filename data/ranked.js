@@ -1,5 +1,5 @@
 {
-    "date": "1713017450",
+    "date": "1713018139",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -1115,17 +1115,6 @@
                     "time": 620545,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710425530,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1957,
-                    "change": -20,
-                    "time": 788143,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -1133,6 +1122,17 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1713018021,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "retropog",
+                    "elo": 2221,
+                    "change": -4,
+                    "time": 752223,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1713016135,
                     "type": "BURIED_TREASURE",
@@ -21929,17 +21929,6 @@
                     "time": 709385,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710425530,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 2002,
-                    "change": 20,
-                    "time": 788143,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -27141,6 +27130,17 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1713018021,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 1898,
+                    "change": 4,
+                    "time": 752223,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1713017155,
                     "type": "DESERT_TEMPLE",
