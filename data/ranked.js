@@ -1,5 +1,5 @@
 {
-    "date": "1713005668",
+    "date": "1713006506",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -1212,17 +1212,6 @@
                     "elo": 2030,
                     "change": 12,
                     "time": 696131,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710414208,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 2018,
-                    "change": -17,
-                    "time": 862120,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -9966,17 +9955,6 @@
                     "elo": 2140,
                     "change": 16,
                     "time": 656539,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710414208,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 2124,
-                    "change": 17,
-                    "time": 862120,
                     "forfeited": false,
                     "decayed": false
                 }
