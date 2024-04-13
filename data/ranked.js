@@ -1,5 +1,5 @@
 {
-    "date": "1713028611",
+    "date": "1713029107",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17819,17 +17819,6 @@
                     "time": 598999,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710436749,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "aleen",
-                    "elo": 1900,
-                    "change": -24,
-                    "time": 415484,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -24304,17 +24293,6 @@
                     "elo": 1641,
                     "change": 21,
                     "time": 687648,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710436800,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Japonk86",
-                    "elo": 1620,
-                    "change": -20,
-                    "time": 901631,
                     "forfeited": false,
                     "decayed": false
                 }
