@@ -1,5 +1,5 @@
 {
-    "date": "1713034475",
+    "date": "1713035306",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -24130,17 +24130,6 @@
                     "time": 529903,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710443152,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "mcsrjordan",
-                    "elo": 1641,
-                    "change": 21,
-                    "time": 687648,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42917,17 +42906,6 @@
                     "time": 828258,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710442518,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1817,
-                    "change": 18,
-                    "time": 592573,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -45688,17 +45666,6 @@
                     "elo": 1630,
                     "change": 12,
                     "time": 817165,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710443152,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "mcsrlebron",
-                    "elo": 1618,
-                    "change": -21,
-                    "time": 687648,
                     "forfeited": false,
                     "decayed": false
                 }
