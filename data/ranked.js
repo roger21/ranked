@@ -1,5 +1,5 @@
 {
-    "date": "1713035687",
+    "date": "1713036298",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -24108,17 +24108,6 @@
                     "time": 351910,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710443895,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "NottAntoo",
-                    "elo": 1624,
-                    "change": -17,
-                    "time": 529903,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -42873,17 +42862,6 @@
                     "time": 694318,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710444157,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1771,
-                    "change": -24,
-                    "time": 678095,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -45633,17 +45611,6 @@
                     "elo": 1613,
                     "change": -17,
                     "time": 814758,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710444136,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Aquaface",
-                    "elo": 1630,
-                    "change": 12,
-                    "time": 817165,
                     "forfeited": false,
                     "decayed": false
                 }
