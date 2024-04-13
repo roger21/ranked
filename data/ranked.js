@@ -1,5 +1,5 @@
 {
-    "date": "1713037500",
+    "date": "1713038070",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17674,17 +17674,6 @@
                     "elo": 1828,
                     "change": -6,
                     "time": 684618,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710445628,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1834,
-                    "change": 19,
-                    "time": 677235,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -38885,28 +38874,6 @@
                     "time": 783776,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710445846,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1747,
-                    "change": -23,
-                    "time": 155003,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710445628,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1770,
-                    "change": -19,
-                    "time": 677235,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -41634,17 +41601,6 @@
                     "elo": 1654,
                     "change": 23,
                     "time": 582342,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710445760,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "joaquinnoises",
-                    "elo": 1631,
-                    "change": 18,
-                    "time": 306402,
                     "forfeited": true,
                     "decayed": false
                 }
