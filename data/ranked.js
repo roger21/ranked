@@ -1,5 +1,5 @@
 {
-    "date": "1713043491",
+    "date": "1713044111",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -23866,17 +23866,6 @@
                     "time": 962413,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710451876,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1638,
-                    "change": 19,
-                    "time": 525009,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -24134,17 +24123,6 @@
                     "elo": 1995,
                     "change": -16,
                     "time": 656539,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710451957,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sockmonkey747",
-                    "elo": 2011,
-                    "change": -27,
-                    "time": 562514,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -32754,17 +32732,6 @@
                     "elo": 1774,
                     "change": -28,
                     "time": 1024087,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710451590,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1802,
-                    "change": 17,
-                    "time": 759540,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42487,28 +42454,6 @@
                     "change": 25,
                     "time": 676250,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710452006,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "NottAntoo",
-                    "elo": 1719,
-                    "change": 20,
-                    "time": 369025,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710451490,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "miszau",
-                    "elo": 1699,
-                    "change": 12,
-                    "time": 568633,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
