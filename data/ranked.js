@@ -1,5 +1,5 @@
 {
-    "date": "1713023683",
+    "date": "1713024843",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -6192,17 +6192,6 @@
                     "change": 15,
                     "time": 603116,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710432582,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "skylewl",
-                    "elo": 2084,
-                    "change": 12,
-                    "time": 944864,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
