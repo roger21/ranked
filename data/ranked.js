@@ -1,5 +1,5 @@
 {
-    "date": "1713035306",
+    "date": "1713035687",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17707,17 +17707,6 @@
                     "elo": 1815,
                     "change": 20,
                     "time": 774715,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710443399,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1795,
-                    "change": 22,
-                    "time": 828258,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42893,17 +42882,6 @@
                     "elo": 1771,
                     "change": -24,
                     "time": 678095,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710443399,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1795,
-                    "change": -22,
-                    "time": 828258,
                     "forfeited": false,
                     "decayed": false
                 }
