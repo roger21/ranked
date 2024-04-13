@@ -1,1 +1,1 @@
-#### graph of the top 30 ranked players over the last 30 days
+#### elo graph of the top 30 mcsr ranked players over the last 30 days
