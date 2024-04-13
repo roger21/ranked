@@ -1,10 +1,21 @@
 {
-    "date": "1713051555",
+    "date": "1713051909",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713051541,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "mcsrjordan",
+                    "elo": 2275,
+                    "change": -34,
+                    "time": 702321,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712838656,
                     "type": "BURIED_TREASURE",
@@ -26204,17 +26215,6 @@
                     "time": 667034,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710459530,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Mar1n",
-                    "elo": 1803,
-                    "change": -17,
-                    "time": 629184,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -36821,17 +36821,6 @@
                     "change": 12,
                     "time": 747073,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710459530,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 1911,
-                    "change": 17,
-                    "time": 629184,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
