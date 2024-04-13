@@ -1,5 +1,5 @@
 {
-    "date": "1712981612",
+    "date": "1712982204",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -24643,6 +24643,17 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1712981634,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "sanjinhu",
+                    "elo": 1936,
+                    "change": 12,
+                    "time": 726826,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1712922632,
                     "type": "BURIED_TREASURE",
