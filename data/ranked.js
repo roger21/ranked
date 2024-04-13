@@ -1,5 +1,5 @@
 {
-    "date": "1713013891",
+    "date": "1713014445",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -1137,17 +1137,6 @@
                     "time": 599348,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710422179,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Priffin",
-                    "elo": 2005,
-                    "change": 22,
-                    "time": 576641,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -1155,6 +1144,17 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1713014193,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "boosterruns",
+                    "elo": 2248,
+                    "change": 8,
+                    "time": 791348,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713012591,
                     "type": "RUINED_PORTAL",
@@ -6279,17 +6279,6 @@
                     "elo": 2027,
                     "change": 12,
                     "time": 500113,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710422179,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "7rowl",
-                    "elo": 2015,
-                    "change": -22,
-                    "time": 576641,
                     "forfeited": false,
                     "decayed": false
                 }
