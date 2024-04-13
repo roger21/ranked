@@ -1,5 +1,5 @@
 {
-    "date": "1712976286",
+    "date": "1712976882",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -11015,6 +11015,17 @@
             "uuid": "ba31689fe7d24431bf7997a52efcc21c",
             "nickname": "meebie",
             "matches": [
+                {
+                    "date": 1712976602,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 2039,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1712371779,
                     "type": "RUINED_PORTAL",
@@ -37123,17 +37134,6 @@
                     "change": -8,
                     "time": 585093,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710384492,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 1815,
-                    "change": 16,
-                    "time": 380723,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
