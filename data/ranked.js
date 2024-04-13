@@ -1,5 +1,5 @@
 {
-    "date": "1713042564",
+    "date": "1713043039",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -5613,17 +5613,6 @@
                     "elo": 2249,
                     "change": -34,
                     "time": 618712,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710450682,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Cube1337x",
-                    "elo": 2283,
-                    "change": -30,
-                    "time": 528207,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24158,17 +24147,6 @@
                     "time": 562514,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710450682,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 2038,
-                    "change": 30,
-                    "time": 528207,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28808,6 +28786,17 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "matches": [
+                {
+                    "date": 1713042593,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "Cornflakes267",
+                    "elo": 1908,
+                    "change": 12,
+                    "time": 678410,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713041069,
                     "type": "RUINED_PORTAL",
@@ -42519,17 +42508,6 @@
                     "elo": 1699,
                     "change": 12,
                     "time": 568633,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710450790,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "mcsrjordan",
-                    "elo": 1687,
-                    "change": 19,
-                    "time": 584977,
                     "forfeited": true,
                     "decayed": false
                 }
