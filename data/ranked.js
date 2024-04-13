@@ -1,5 +1,5 @@
 {
-    "date": "1713026081",
+    "date": "1713026687",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -21505,17 +21505,6 @@
                     "time": 748402,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710434137,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1947,
-                    "change": 17,
-                    "time": 626544,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -24359,17 +24348,6 @@
                     "elo": 1661,
                     "change": 27,
                     "time": 795126,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710434225,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Agrius__",
-                    "elo": 1634,
-                    "change": 13,
-                    "time": 1242339,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43201,17 +43179,6 @@
                     "elo": 1817,
                     "change": -27,
                     "time": 795126,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710434137,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1844,
-                    "change": -17,
-                    "time": 626544,
                     "forfeited": false,
                     "decayed": false
                 }
