@@ -1,5 +1,5 @@
 {
-    "date": "1713030878",
+    "date": "1713031902",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17786,28 +17786,6 @@
                     "time": 562580,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710439210,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1809,
-                    "change": -26,
-                    "time": 188836,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710438907,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1835,
-                    "change": -17,
-                    "time": 813985,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -21437,17 +21415,6 @@
                     "elo": 1989,
                     "change": 32,
                     "time": 651033,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710438907,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 1957,
-                    "change": 17,
-                    "time": 813985,
                     "forfeited": false,
                     "decayed": false
                 }
