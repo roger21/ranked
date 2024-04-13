@@ -1,5 +1,5 @@
 {
-    "date": "1713033875",
+    "date": "1713034475",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -5690,17 +5690,6 @@
                     "elo": 2319,
                     "change": 6,
                     "time": 1074532,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710442399,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 2313,
-                    "change": 5,
-                    "time": 795054,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -17729,17 +17718,6 @@
                     "elo": 1795,
                     "change": 22,
                     "time": 828258,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710442399,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1773,
-                    "change": -5,
-                    "time": 795054,
                     "forfeited": false,
                     "decayed": false
                 }
