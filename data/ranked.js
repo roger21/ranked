@@ -1,5 +1,5 @@
 {
-    "date": "1713022576",
+    "date": "1713023100",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -6203,17 +6203,6 @@
                     "change": 12,
                     "time": 944864,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710430770,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 2072,
-                    "change": 17,
-                    "time": 717924,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -21829,17 +21818,6 @@
                     "change": 16,
                     "time": 624970,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710430770,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Priffin",
-                    "elo": 1956,
-                    "change": -17,
-                    "time": 717924,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
