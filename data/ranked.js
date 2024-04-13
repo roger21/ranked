@@ -1,5 +1,5 @@
 {
-    "date": "1712971363",
+    "date": "1712972858",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -42802,17 +42802,6 @@
                     "time": 1074532,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710379798,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "joaquinnoises",
-                    "elo": 1794,
-                    "change": 14,
-                    "time": 809290,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46700,17 +46689,6 @@
                     "elo": 1802,
                     "change": 17,
                     "time": 759540,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710380290,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Darthloll",
-                    "elo": 1785,
-                    "change": 13,
-                    "time": 885745,
                     "forfeited": false,
                     "decayed": false
                 }
