@@ -1,5 +1,5 @@
 {
-    "date": "1713028079",
+    "date": "1713028611",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -21493,17 +21493,6 @@
                     "change": 20,
                     "time": 598999,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710436300,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1905,
-                    "change": 17,
-                    "time": 673312,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -43136,17 +43125,6 @@
                     "change": -2,
                     "time": 643670,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710436300,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1800,
-                    "change": -17,
-                    "time": 673312,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
