@@ -1,5 +1,5 @@
 {
-    "date": "1712966067",
+    "date": "1712968851",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -3990,39 +3990,6 @@
                     "elo": 2204,
                     "change": 8,
                     "time": 507949,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710375633,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 2196,
-                    "change": 8,
-                    "time": 736641,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710374825,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 2188,
-                    "change": 7,
-                    "time": 173819,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710374267,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Mar1n",
-                    "elo": 2181,
-                    "change": 12,
-                    "time": 641640,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30743,17 +30710,6 @@
                     "time": 577881,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710374267,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1914,
-                    "change": -12,
-                    "time": 641640,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -33332,39 +33288,6 @@
                     "elo": 1774,
                     "change": -20,
                     "time": 746068,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710376065,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1794,
-                    "change": 20,
-                    "time": 473704,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710375543,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 1774,
-                    "change": 19,
-                    "time": 668800,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710374810,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1755,
-                    "change": 24,
-                    "time": 861424,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -38582,28 +38505,6 @@
                     "time": 746068,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710375633,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1805,
-                    "change": -8,
-                    "time": 736641,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710374810,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1813,
-                    "change": -24,
-                    "time": 861424,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43000,17 +42901,6 @@
                     "time": 507949,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710376245,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1787,
-                    "change": -23,
-                    "time": 638907,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46932,17 +46822,6 @@
                     "change": -7,
                     "time": 528692,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710376065,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1767,
-                    "change": -20,
-                    "time": 473704,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
