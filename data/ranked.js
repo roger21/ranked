@@ -1,5 +1,5 @@
 {
-    "date": "1713033333",
+    "date": "1713033875",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -17742,17 +17742,6 @@
                     "time": 795054,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710441488,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1778,
-                    "change": -26,
-                    "time": 737233,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -24181,6 +24170,17 @@
             "uuid": "1ae14cb96a2f4357a71efac6f7012b59",
             "nickname": "Cube1337x",
             "matches": [
+                {
+                    "date": 1713033662,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1917,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1712947261,
                     "type": null,
