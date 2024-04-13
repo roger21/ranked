@@ -1,5 +1,5 @@
 {
-    "date": "1712975102",
+    "date": "1712975750",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -37134,17 +37134,6 @@
                     "change": 16,
                     "time": 380723,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710383131,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "joaquinnoises",
-                    "elo": 1799,
-                    "change": 13,
-                    "time": 699140,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
