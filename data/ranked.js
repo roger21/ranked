@@ -1,5 +1,5 @@
 {
-    "date": "1713030298",
+    "date": "1713030878",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -43036,17 +43036,6 @@
                     "elo": 1817,
                     "change": 18,
                     "time": 592573,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710438750,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "kohout135",
-                    "elo": 1799,
-                    "change": 16,
-                    "time": 635023,
                     "forfeited": false,
                     "decayed": false
                 }
