@@ -1,5 +1,5 @@
 {
-    "date": "1713011808",
+    "date": "1713012477",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -1166,6 +1166,17 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1713011910,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "Dimeax",
+                    "elo": 2230,
+                    "change": 7,
+                    "time": 567429,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713010233,
                     "type": "BURIED_TREASURE",
@@ -48104,17 +48115,6 @@
                     "change": 14,
                     "time": 943488,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710419873,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "LEC666888",
-                    "elo": 1606,
-                    "change": 16,
-                    "time": 330926,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
