@@ -1,5 +1,5 @@
 {
-    "date": "1713047264",
+    "date": "1713047700",
     "players": {
         "7rowl": {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
@@ -5569,17 +5569,6 @@
                     "elo": 2205,
                     "change": 8,
                     "time": 585093,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710455383,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 2197,
-                    "change": -32,
-                    "time": 753296,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -16480,6 +16469,17 @@
             "nickname": "v_strid",
             "matches": [
                 {
+                    "date": 1713047653,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "_loro1",
+                    "elo": 1993,
+                    "change": 11,
+                    "time": 724988,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713046570,
                     "type": "SHIPWRECK",
                     "result": "lost",
@@ -21098,17 +21098,6 @@
                     "time": 603210,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710455383,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 1877,
-                    "change": 32,
-                    "time": 753296,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -23755,17 +23744,6 @@
                     "change": -18,
                     "time": 534519,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710455212,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1679,
-                    "change": -19,
-                    "time": 759423,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
