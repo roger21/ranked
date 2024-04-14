@@ -1,5 +1,5 @@
 {
-    "date": "1713063624",
+    "date": "1713066720",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -12097,17 +12097,6 @@
                     "change": 17,
                     "time": 647258,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710473558,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Javierixmon",
-                    "elo": 2008,
-                    "change": 9,
-                    "time": 783797,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
