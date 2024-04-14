@@ -1,5 +1,5 @@
 {
-    "date": "1713069782",
+    "date": "1713071174",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2765,28 +2765,6 @@
                     "time": 357930,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710478433,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 2174,
-                    "change": 0,
-                    "time": 645820,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710477745,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "meebie",
-                    "elo": 2174,
-                    "change": -25,
-                    "time": 1037898,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -5471,28 +5449,6 @@
                     "change": 21,
                     "time": 751821,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710479092,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "meebie",
-                    "elo": 2159,
-                    "change": -23,
-                    "time": 616309,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710478433,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 2182,
-                    "change": 0,
-                    "time": 645820,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -11986,28 +11942,6 @@
                     "elo": 2088,
                     "change": -27,
                     "time": 596977,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710479092,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 2115,
-                    "change": 23,
-                    "time": 616309,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710477745,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 2092,
-                    "change": 25,
-                    "time": 1037898,
                     "forfeited": false,
                     "decayed": false
                 }
