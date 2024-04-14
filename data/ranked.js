@@ -1,5 +1,5 @@
 {
-    "date": "1713111752",
+    "date": "1713113234",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -20128,17 +20128,6 @@
                     "elo": 1981,
                     "change": 15,
                     "time": 969309,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710520480,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Hinart",
-                    "elo": 1966,
-                    "change": 23,
-                    "time": 706809,
                     "forfeited": false,
                     "decayed": false
                 }
