@@ -1,5 +1,5 @@
 {
-    "date": "1713066720",
+    "date": "1713067392",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -12085,17 +12085,6 @@
                     "elo": 2053,
                     "change": 28,
                     "time": 777170,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710474988,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "retropog",
-                    "elo": 2025,
-                    "change": 17,
-                    "time": 647258,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -26098,17 +26087,6 @@
                     "elo": 1887,
                     "change": -11,
                     "time": 570488,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710474988,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "meebie",
-                    "elo": 1898,
-                    "change": -17,
-                    "time": 647258,
                     "forfeited": false,
                     "decayed": false
                 }
