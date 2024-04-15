@@ -1,5 +1,5 @@
 {
-    "date": "1713207258",
+    "date": "1713208205",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -14792,17 +14792,6 @@
                     "elo": 1949,
                     "change": 17,
                     "time": 667763,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710615743,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1932,
-                    "change": -21,
-                    "time": 651209,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -39368,17 +39357,6 @@
                     "elo": 1652,
                     "change": 18,
                     "time": 775295,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710615407,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Thunderstorming",
-                    "elo": 1634,
-                    "change": -19,
-                    "time": 782501,
                     "forfeited": false,
                     "decayed": false
                 }
