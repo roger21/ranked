@@ -1,5 +1,5 @@
 {
-    "date": "1713174900",
+    "date": "1713175892",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -29312,28 +29312,6 @@
                     "time": 995986,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710583806,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1812,
-                    "change": -21,
-                    "time": 658387,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710582962,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "gabboooz",
-                    "elo": 1833,
-                    "change": 13,
-                    "time": 832734,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -33295,17 +33273,6 @@
                     "change": 13,
                     "time": 169627,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710583688,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "90Tom",
-                    "elo": 1727,
-                    "change": -23,
-                    "time": 658544,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -42894,17 +42861,6 @@
                     "elo": 1584,
                     "change": 18,
                     "time": 679583,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710583272,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Tompas_",
-                    "elo": 1566,
-                    "change": 18,
-                    "time": 731364,
                     "forfeited": false,
                     "decayed": false
                 }
