@@ -1,5 +1,5 @@
 {
-    "date": "1713179895",
+    "date": "1713180277",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -5987,17 +5987,6 @@
                     "elo": 2142,
                     "change": 24,
                     "time": 847859,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710588076,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 2118,
-                    "change": 11,
-                    "time": 687320,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -26829,17 +26818,6 @@
                     "elo": 1843,
                     "change": 19,
                     "time": 698473,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710588076,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "7rowl",
-                    "elo": 1824,
-                    "change": -11,
-                    "time": 687320,
                     "forfeited": false,
                     "decayed": false
                 }
