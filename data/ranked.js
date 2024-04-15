@@ -1,5 +1,5 @@
 {
-    "date": "1713181469",
+    "date": "1713182064",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2785,17 +2785,6 @@
                     "elo": 2220,
                     "change": 17,
                     "time": 704400,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710589668,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 2203,
-                    "change": 9,
-                    "time": 617926,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -29180,17 +29169,6 @@
                     "time": 604312,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710589668,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1834,
-                    "change": -9,
-                    "time": 617926,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43120,17 +43098,6 @@
                     "elo": 1671,
                     "change": -27,
                     "time": 906661,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710589882,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1698,
-                    "change": -18,
-                    "time": 707490,
                     "forfeited": false,
                     "decayed": false
                 }
