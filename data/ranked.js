@@ -1,5 +1,5 @@
 {
-    "date": "1713149675",
+    "date": "1713154396",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -24878,28 +24878,6 @@
                     "time": 681468,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710558443,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1712,
-                    "change": -14,
-                    "time": 665487,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710557667,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 1726,
-                    "change": 19,
-                    "time": 716644,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -27225,39 +27203,6 @@
                     "elo": 1879,
                     "change": -20,
                     "time": 696174,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710560000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1899,
-                    "change": 20,
-                    "time": 684084,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710559250,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "drx6",
-                    "elo": 1879,
-                    "change": -23,
-                    "time": 737410,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710558443,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1902,
-                    "change": 14,
-                    "time": 665487,
                     "forfeited": false,
                     "decayed": false
                 }
