@@ -1,5 +1,5 @@
 {
-    "date": "1713218073",
+    "date": "1713219022",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -6922,6 +6922,17 @@
             "nickname": "7rowl",
             "matches": [
                 {
+                    "date": 1713218170,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Waluyoshi",
+                    "elo": 2139,
+                    "change": 10,
+                    "time": 610599,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713217412,
                     "type": "SHIPWRECK",
                     "result": "win",
@@ -9828,17 +9839,6 @@
                     "elo": 1919,
                     "change": 14,
                     "time": 850639,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710626076,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1905,
-                    "change": 19,
-                    "time": 649542,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -16764,17 +16764,6 @@
                     "time": 803013,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710626532,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1674,
-                    "change": 2,
-                    "time": 985384,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -21344,17 +21333,6 @@
                     "elo": 1955,
                     "change": 15,
                     "time": 703264,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710626627,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "gabboooz",
-                    "elo": 1940,
-                    "change": 11,
-                    "time": 661793,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -34383,6 +34361,17 @@
             "nickname": "megelimc",
             "matches": [
                 {
+                    "date": 1713218575,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1875,
+                    "change": -25,
+                    "time": 594441,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713060217,
                     "type": "BURIED_TREASURE",
                     "result": "win",
@@ -39154,17 +39143,6 @@
                     "elo": 1807,
                     "change": 24,
                     "time": 697067,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710626184,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "NottAntoo",
-                    "elo": 1783,
-                    "change": -23,
-                    "time": 1034549,
                     "forfeited": false,
                     "decayed": false
                 }
