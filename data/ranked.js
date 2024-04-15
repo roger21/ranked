@@ -1,5 +1,5 @@
 {
-    "date": "1713167068",
+    "date": "1713167689",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -8876,17 +8876,6 @@
                     "elo": 1946,
                     "change": 19,
                     "time": 658518,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710575087,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "retropog",
-                    "elo": 1927,
-                    "change": 19,
-                    "time": 654697,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -27205,17 +27194,6 @@
                     "time": 658518,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710575390,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1891,
-                    "change": -26,
-                    "time": 675128,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -31846,17 +31824,6 @@
                     "elo": 1867,
                     "change": 17,
                     "time": 609729,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710575087,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1850,
-                    "change": -19,
-                    "time": 654697,
                     "forfeited": false,
                     "decayed": false
                 }
