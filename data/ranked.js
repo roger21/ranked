@@ -1,5 +1,5 @@
 {
-    "date": "1713194859",
+    "date": "1713195306",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -14355,6 +14355,17 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1713195073,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "Emillk",
+                    "elo": 1996,
+                    "change": 15,
+                    "time": 720895,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713193357,
                     "type": "SHIPWRECK",
