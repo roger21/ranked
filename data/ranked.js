@@ -1,5 +1,5 @@
 {
-    "date": "1713194567",
+    "date": "1713194859",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -6104,17 +6104,6 @@
                     "change": 12,
                     "time": 570336,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710602661,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "TUDORULE",
-                    "elo": 2111,
-                    "change": 15,
-                    "time": 668004,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -35677,17 +35666,6 @@
                     "change": -2,
                     "time": 634120,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710602661,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Priffin",
-                    "elo": 1941,
-                    "change": -15,
-                    "time": 668004,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
