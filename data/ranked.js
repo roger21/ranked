@@ -1,5 +1,5 @@
 {
-    "date": "1713190240",
+    "date": "1713190974",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -24212,17 +24212,6 @@
                     "time": 721139,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710598790,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Ale267",
-                    "elo": 1919,
-                    "change": 14,
-                    "time": 730649,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42713,17 +42702,6 @@
                     "elo": 1660,
                     "change": 17,
                     "time": 880891,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710598635,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1643,
-                    "change": -13,
-                    "time": 847009,
                     "forfeited": false,
                     "decayed": false
                 }
