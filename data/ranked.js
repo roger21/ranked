@@ -1,5 +1,5 @@
 {
-    "date": "1713223339",
+    "date": "1713223649",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -4142,6 +4142,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713223577,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "megelimc",
+                    "elo": 2191,
+                    "change": 10,
+                    "time": 602681,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713222084,
                     "type": "BURIED_TREASURE",
@@ -16686,17 +16697,6 @@
                     "change": 1,
                     "time": 1454433,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710631403,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "ContraVz",
-                    "elo": 1678,
-                    "change": 13,
-                    "time": 635290,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -34283,6 +34283,17 @@
             "uuid": "36a441538cbc463da6a877e6ebc8af91",
             "nickname": "megelimc",
             "matches": [
+                {
+                    "date": 1713223577,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "7rowl",
+                    "elo": 1871,
+                    "change": -10,
+                    "time": 602681,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713222851,
                     "type": "SHIPWRECK",
