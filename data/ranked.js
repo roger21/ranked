@@ -1,5 +1,5 @@
 {
-    "date": "1713191268",
+    "date": "1713191747",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -4113,28 +4113,6 @@
                     "time": 652746,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710599623,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "TUDORULE",
-                    "elo": 2052,
-                    "change": 18,
-                    "time": 241478,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710599322,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 2034,
-                    "change": -28,
-                    "time": 787188,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -5745,17 +5723,6 @@
                     "elo": 2157,
                     "change": -18,
                     "time": 595811,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710599317,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 2175,
-                    "change": -29,
-                    "time": 700787,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -35843,28 +35810,6 @@
                     "time": 814524,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710599623,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "7rowl",
-                    "elo": 1956,
-                    "change": -18,
-                    "time": 241478,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710599317,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 1974,
-                    "change": 29,
-                    "time": 700787,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42658,17 +42603,6 @@
                     "elo": 1638,
                     "change": -22,
                     "time": 659878,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710599578,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "ContraVz",
-                    "elo": 1660,
-                    "change": 17,
-                    "time": 880891,
                     "forfeited": false,
                     "decayed": false
                 }
