@@ -1,5 +1,5 @@
 {
-    "date": "1713198939",
+    "date": "1713199509",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -17128,6 +17128,17 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1713199461,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "7rowl",
+                    "elo": 1987,
+                    "change": 30,
+                    "time": 789448,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713198573,
                     "type": "BURIED_TREASURE",
