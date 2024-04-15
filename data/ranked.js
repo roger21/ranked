@@ -1,5 +1,5 @@
 {
-    "date": "1713187416",
+    "date": "1713187727",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -5857,17 +5857,6 @@
                     "time": 709778,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710595338,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 2036,
-                    "change": -17,
-                    "time": 477902,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -10329,17 +10318,6 @@
                     "elo": 2178,
                     "change": 23,
                     "time": 686753,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710595338,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 2155,
-                    "change": 17,
-                    "time": 477902,
                     "forfeited": false,
                     "decayed": false
                 }
