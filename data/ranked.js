@@ -1,5 +1,5 @@
 {
-    "date": "1713224688",
+    "date": "1713225267",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2664,17 +2664,6 @@
                     "elo": 2232,
                     "change": 7,
                     "time": 360547,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710632770,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "dandannyboy",
-                    "elo": 2225,
-                    "change": 9,
-                    "time": 393422,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -9797,17 +9786,6 @@
                     "time": 574564,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710632770,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1867,
-                    "change": -9,
-                    "time": 393422,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -16676,17 +16654,6 @@
                     "time": 732858,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710632933,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1679,
-                    "change": 1,
-                    "time": 1454433,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -21191,17 +21158,6 @@
                     "change": 14,
                     "time": 574564,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710632669,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 2043,
-                    "change": 12,
-                    "time": 568847,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -39122,17 +39078,6 @@
                     "change": 23,
                     "time": 758630,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710632669,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1795,
-                    "change": -12,
-                    "time": 568847,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
