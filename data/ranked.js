@@ -1,5 +1,5 @@
 {
-    "date": "1713186788",
+    "date": "1713187416",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -4420,17 +4420,6 @@
                     "change": 8,
                     "time": 603190,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710594941,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "kohout135",
-                    "elo": 2189,
-                    "change": 7,
-                    "time": 381170,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -21896,17 +21885,6 @@
                     "time": 629424,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710595080,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 1916,
-                    "change": 18,
-                    "time": 852204,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -29057,17 +29035,6 @@
                     "elo": 1815,
                     "change": -8,
                     "time": 603190,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710595080,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1823,
-                    "change": -18,
-                    "time": 852204,
                     "forfeited": false,
                     "decayed": false
                 }
