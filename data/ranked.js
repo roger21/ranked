@@ -1,5 +1,5 @@
 {
-    "date": "1713206703",
+    "date": "1713207258",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -14803,17 +14803,6 @@
                     "elo": 1932,
                     "change": -21,
                     "time": 651209,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710614994,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1953,
-                    "change": -26,
-                    "time": 705180,
                     "forfeited": false,
                     "decayed": false
                 }
