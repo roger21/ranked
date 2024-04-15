@@ -1,5 +1,5 @@
 {
-    "date": "1713216122",
+    "date": "1713216423",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -4166,17 +4166,6 @@
                     "elo": 2229,
                     "change": 11,
                     "time": 780821,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710624168,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 2218,
-                    "change": 8,
-                    "time": 648809,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -39220,17 +39209,6 @@
                     "elo": 1806,
                     "change": -20,
                     "time": 808394,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710624168,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1826,
-                    "change": -8,
-                    "time": 648809,
                     "forfeited": false,
                     "decayed": false
                 }
