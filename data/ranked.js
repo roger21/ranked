@@ -1,5 +1,5 @@
 {
-    "date": "1713177275",
+    "date": "1713177873",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -33219,17 +33219,6 @@
                     "time": 569983,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710585501,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "gabboooz",
-                    "elo": 1777,
-                    "change": 14,
-                    "time": 633099,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42797,17 +42786,6 @@
                     "time": 699821,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710585587,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "temp_gd",
-                    "elo": 1568,
-                    "change": -16,
-                    "time": 1080424,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43307,17 +43285,6 @@
                     "elo": 1716,
                     "change": 18,
                     "time": 670520,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710585587,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "yeopgihoney",
-                    "elo": 1698,
-                    "change": 16,
-                    "time": 1080424,
                     "forfeited": false,
                     "decayed": false
                 }
