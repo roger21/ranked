@@ -1,5 +1,5 @@
 {
-    "date": "1713202501",
+    "date": "1713203057",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -4263,6 +4263,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713202687,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "Mauvu",
+                    "elo": 2228,
+                    "change": 6,
+                    "time": 704534,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713201781,
                     "type": "RUINED_PORTAL",
@@ -39248,17 +39259,6 @@
                     "change": 15,
                     "time": 203475,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710610839,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Darthloll",
-                    "elo": 1624,
-                    "change": 20,
-                    "time": 837935,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
