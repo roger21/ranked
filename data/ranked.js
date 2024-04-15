@@ -1,5 +1,5 @@
 {
-    "date": "1713217463",
+    "date": "1713218073",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -21357,17 +21357,6 @@
                     "time": 661793,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710625712,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1929,
-                    "change": -21,
-                    "time": 645791,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -36740,17 +36729,6 @@
                     "change": 16,
                     "time": 322413,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710625881,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "gabboooz",
-                    "elo": 1632,
-                    "change": -20,
-                    "time": 976104,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
