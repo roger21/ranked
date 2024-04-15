@@ -1,5 +1,5 @@
 {
-    "date": "1713173774",
+    "date": "1713174283",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -29332,17 +29332,6 @@
                     "elo": 1833,
                     "change": 13,
                     "time": 832734,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710581716,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "dwoh",
-                    "elo": 1820,
-                    "change": 20,
-                    "time": 642995,
                     "forfeited": false,
                     "decayed": false
                 }
