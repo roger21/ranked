@@ -1,5 +1,5 @@
 {
-    "date": "1713190974",
+    "date": "1713191268",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2708,17 +2708,6 @@
                     "elo": 2236,
                     "change": 18,
                     "time": 595811,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710598939,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 2218,
-                    "change": 8,
-                    "time": 864107,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28883,17 +28872,6 @@
                     "time": 721139,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710598939,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1807,
-                    "change": -8,
-                    "time": 864107,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42300,17 +42278,6 @@
                     "elo": 1538,
                     "change": 14,
                     "time": 172957,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710599169,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Frankey32",
-                    "elo": 1524,
-                    "change": -24,
-                    "time": 847856,
                     "forfeited": true,
                     "decayed": false
                 }
