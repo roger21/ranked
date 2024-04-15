@@ -1,5 +1,5 @@
 {
-    "date": "1713183669",
+    "date": "1713184867",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2774,17 +2774,6 @@
                     "elo": 2228,
                     "change": 8,
                     "time": 737347,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710592470,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 2220,
-                    "change": 17,
-                    "time": 704400,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -5932,28 +5921,6 @@
                     "elo": 2067,
                     "change": -28,
                     "time": 699385,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710592470,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 2095,
-                    "change": -17,
-                    "time": 704400,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710591721,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 2112,
-                    "change": -30,
-                    "time": 916003,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -29169,17 +29136,6 @@
                     "time": 834565,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710591721,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 1876,
-                    "change": 30,
-                    "time": 916003,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42610,17 +42566,6 @@
                     "time": 394264,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710592795,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Shrike271",
-                    "elo": 1582,
-                    "change": -22,
-                    "time": 1179391,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43076,17 +43021,6 @@
                     "elo": 1717,
                     "change": 27,
                     "time": 834565,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710592065,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1690,
-                    "change": 19,
-                    "time": 660866,
                     "forfeited": false,
                     "decayed": false
                 }
