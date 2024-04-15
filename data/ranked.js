@@ -1,5 +1,5 @@
 {
-    "date": "1713173205",
+    "date": "1713173774",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -8843,17 +8843,6 @@
                     "elo": 2013,
                     "change": 11,
                     "time": 525364,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710581375,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "retropog",
-                    "elo": 2002,
-                    "change": 16,
-                    "time": 999506,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24485,17 +24474,6 @@
                     "elo": 1898,
                     "change": 28,
                     "time": 699385,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710581375,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1870,
-                    "change": -16,
-                    "time": 999506,
                     "forfeited": false,
                     "decayed": false
                 }
