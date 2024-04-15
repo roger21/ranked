@@ -1,5 +1,5 @@
 {
-    "date": "1713208205",
+    "date": "1713208682",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -14783,17 +14783,6 @@
                     "time": 811395,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710616486,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1949,
-                    "change": 17,
-                    "time": 667763,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -26186,17 +26175,6 @@
                     "change": -20,
                     "time": 688429,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710616231,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Thunderstorming",
-                    "elo": 1644,
-                    "change": -19,
-                    "time": 732684,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
