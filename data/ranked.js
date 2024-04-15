@@ -1,5 +1,5 @@
 {
-    "date": "1713156909",
+    "date": "1713157824",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -13942,6 +13942,17 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "matches": [
+                {
+                    "date": 1713157407,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "BeefSalad",
+                    "elo": 2012,
+                    "change": 11,
+                    "time": 832775,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713132900,
                     "type": "BURIED_TREASURE",
