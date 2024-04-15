@@ -1,5 +1,5 @@
 {
-    "date": "1713192873",
+    "date": "1713193940",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2706,6 +2706,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713193357,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "v_strid",
+                    "elo": 2250,
+                    "change": 12,
+                    "time": 600451,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713190163,
                     "type": "RUINED_PORTAL",
@@ -5670,17 +5681,6 @@
                     "time": 852451,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710601263,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 2139,
-                    "change": -27,
-                    "time": 498078,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -6125,17 +6125,6 @@
                     "elo": 2111,
                     "change": 15,
                     "time": 668004,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710601696,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "skylewl",
-                    "elo": 2096,
-                    "change": 12,
-                    "time": 553524,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -14377,6 +14366,17 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1713193357,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "7rowl",
+                    "elo": 1981,
+                    "change": -12,
+                    "time": 600451,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713192686,
                     "type": "SHIPWRECK",
@@ -28751,17 +28751,6 @@
                     "time": 691743,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710601642,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "boosterruns",
-                    "elo": 1814,
-                    "change": 21,
-                    "time": 871356,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -35711,28 +35700,6 @@
                     "time": 668004,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710601723,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1956,
-                    "change": -25,
-                    "time": 400408,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710601263,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 1981,
-                    "change": 27,
-                    "time": 498078,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42527,17 +42494,6 @@
                     "change": 12,
                     "time": 667246,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710601380,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "90Tom",
-                    "elo": 1660,
-                    "change": 22,
-                    "time": 713322,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
