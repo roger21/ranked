@@ -1,5 +1,5 @@
 {
-    "date": "1713172880",
+    "date": "1713173205",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -29365,17 +29365,6 @@
                     "elo": 1820,
                     "change": 20,
                     "time": 642995,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710581005,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "90Tom",
-                    "elo": 1800,
-                    "change": 17,
-                    "time": 655431,
                     "forfeited": false,
                     "decayed": false
                 }
