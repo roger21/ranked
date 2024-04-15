@@ -1,5 +1,5 @@
 {
-    "date": "1713172303",
+    "date": "1713172880",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -8854,17 +8854,6 @@
                     "elo": 2002,
                     "change": 16,
                     "time": 999506,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710580263,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "90Tom",
-                    "elo": 1986,
-                    "change": 11,
-                    "time": 579526,
                     "forfeited": false,
                     "decayed": false
                 }
