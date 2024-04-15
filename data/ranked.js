@@ -1,5 +1,5 @@
 {
-    "date": "1713170698",
+    "date": "1713171302",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -27183,17 +27183,6 @@
                     "time": 718473,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710579076,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "90Tom",
-                    "elo": 1800,
-                    "change": -25,
-                    "time": 726543,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -29594,6 +29583,17 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1713171241,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "TUDORULE",
+                    "elo": 1948,
+                    "change": 19,
+                    "time": 872487,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713170193,
                     "type": "SHIPWRECK",
@@ -32626,6 +32626,17 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "matches": [
+                {
+                    "date": 1713171241,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "retropog",
+                    "elo": 1883,
+                    "change": -19,
+                    "time": 872487,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713169848,
                     "type": "VILLAGE",
