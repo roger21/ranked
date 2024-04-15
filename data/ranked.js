@@ -1,5 +1,5 @@
 {
-    "date": "1713159882",
+    "date": "1713160470",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -6041,6 +6041,17 @@
             "nickname": "silverrruns",
             "matches": [
                 {
+                    "date": 1713160419,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "dandannyboy",
+                    "elo": 2159,
+                    "change": -26,
+                    "time": 772541,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713080711,
                     "type": "SHIPWRECK",
                     "result": "win",
@@ -8889,17 +8900,6 @@
                     "time": 715410,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710568052,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "bing_pigs",
-                    "elo": 1915,
-                    "change": 20,
-                    "time": 696174,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -10454,6 +10454,17 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "matches": [
+                {
+                    "date": 1713160419,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "silverrruns",
+                    "elo": 2049,
+                    "change": 26,
+                    "time": 772541,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713158186,
                     "type": "SHIPWRECK",
@@ -27215,17 +27226,6 @@
                     "change": 17,
                     "time": 427136,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710568052,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 1879,
-                    "change": -20,
-                    "time": 696174,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
