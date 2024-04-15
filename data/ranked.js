@@ -1,5 +1,5 @@
 {
-    "date": "1713223649",
+    "date": "1713224101",
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2676,17 +2676,6 @@
                     "change": 9,
                     "time": 393422,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710631684,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 2216,
-                    "change": -28,
-                    "time": 822880,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -9806,17 +9795,6 @@
                     "elo": 1876,
                     "change": 12,
                     "time": 591002,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710631612,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1864,
-                    "change": -24,
-                    "time": 697067,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -21213,17 +21191,6 @@
                     "change": 12,
                     "time": 568847,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710631684,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 2031,
-                    "change": 28,
-                    "time": 822880,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -39133,17 +39100,6 @@
                     "change": -12,
                     "time": 568847,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710631612,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "dandannyboy",
-                    "elo": 1807,
-                    "change": 24,
-                    "time": 697067,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
