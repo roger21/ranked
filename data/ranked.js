@@ -1,5 +1,5 @@
 {
-    "date": "1713231564",
+    "date": "1713233240",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -9841,28 +9841,6 @@
                     "time": 666170,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710640559,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1903,
-                    "change": -24,
-                    "time": 686099,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710639823,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1927,
-                    "change": 12,
-                    "time": 680942,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -16630,28 +16608,6 @@
                     "elo": 1646,
                     "change": -26,
                     "time": 837847,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710640437,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "AllAdvancements",
-                    "elo": 1672,
-                    "change": 15,
-                    "time": 478032,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710639823,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1657,
-                    "change": -12,
-                    "time": 680942,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -34338,6 +34294,17 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "matches": [
+                {
+                    "date": 1713232960,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "jamyreaf",
+                    "elo": 1901,
+                    "change": 12,
+                    "time": 842062,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713231072,
                     "type": "BURIED_TREASURE",
