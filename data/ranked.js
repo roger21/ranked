@@ -1,5 +1,5 @@
 {
-    "date": "1713233240",
+    "date": "1713234540",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -9830,17 +9830,6 @@
                     "time": 639172,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710641419,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1915,
-                    "change": 12,
-                    "time": 666170,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -16587,28 +16576,6 @@
                     "change": 21,
                     "time": 559771,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710642306,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1667,
-                    "change": 21,
-                    "time": 745154,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710641507,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "RRed",
-                    "elo": 1646,
-                    "change": -26,
-                    "time": 837847,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -35085,17 +35052,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1710641912,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1914,
-                    "change": 18,
-                    "time": 893956,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
