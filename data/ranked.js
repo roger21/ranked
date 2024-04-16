@@ -1,5 +1,5 @@
 {
-    "date": "1713248076",
+    "date": "1713249056",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -30871,6 +30871,17 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "matches": [
+                {
+                    "date": 1713249016,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "thecamo6",
+                    "elo": 1927,
+                    "change": 14,
+                    "time": 547452,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713246521,
                     "type": "BURIED_TREASURE",
