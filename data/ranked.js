@@ -1,5 +1,5 @@
 {
-    "date": "1713310554",
+    "date": "1713311097",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -14720,17 +14720,6 @@
                     "elo": 1926,
                     "change": -23,
                     "time": 750599,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710718986,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1949,
-                    "change": -26,
-                    "time": 649560,
                     "forfeited": false,
                     "decayed": false
                 }
