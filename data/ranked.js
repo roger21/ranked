@@ -1,5 +1,5 @@
 {
-    "date": "1713263725",
+    "date": "1713264273",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5696,17 +5696,6 @@
                     "elo": 2160,
                     "change": 7,
                     "time": 720927,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710671811,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "TUDORULE",
-                    "elo": 2153,
-                    "change": 11,
-                    "time": 649465,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -14812,6 +14801,17 @@
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "pulsar32",
             "matches": [
+                {
+                    "date": 1713264103,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "drx6",
+                    "elo": 1990,
+                    "change": 13,
+                    "time": 624207,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713261981,
                     "type": "DESERT_TEMPLE",
@@ -29400,17 +29400,6 @@
                     "time": 698214,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710671844,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "35902573290573",
-                    "elo": 1843,
-                    "change": -1,
-                    "time": 444626,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -35134,17 +35123,6 @@
                     "change": 21,
                     "time": 688904,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710671718,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "The_youzu",
-                    "elo": 1672,
-                    "change": 12,
-                    "time": 667246,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
