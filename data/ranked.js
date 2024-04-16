@@ -1,5 +1,5 @@
 {
-    "date": "1713236060",
+    "date": "1713237238",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -9795,17 +9795,6 @@
                     "elo": 1904,
                     "change": -20,
                     "time": 567977,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710644731,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1924,
-                    "change": 18,
-                    "time": 729250,
                     "forfeited": false,
                     "decayed": false
                 }
