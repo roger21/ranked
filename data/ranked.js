@@ -1,5 +1,5 @@
 {
-    "date": "1713234968",
+    "date": "1713235479",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -16553,17 +16553,6 @@
                     "elo": 1673,
                     "change": -15,
                     "time": 370313,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710643129,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Bloonskiller",
-                    "elo": 1688,
-                    "change": 21,
-                    "time": 559771,
                     "forfeited": true,
                     "decayed": false
                 }
