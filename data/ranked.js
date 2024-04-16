@@ -1,5 +1,5 @@
 {
-    "date": "1713306400",
+    "date": "1713306948",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10661,17 +10661,6 @@
                     "time": 855204,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710714362,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1962,
-                    "change": 18,
-                    "time": 279038,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -14808,17 +14797,6 @@
                     "elo": 1969,
                     "change": -26,
                     "time": 668754,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710714754,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Mar1n",
-                    "elo": 1995,
-                    "change": 17,
-                    "time": 652175,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -35865,17 +35843,6 @@
                     "time": 733999,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710714754,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1850,
-                    "change": 17,
-                    "time": 598603,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -39791,17 +39758,6 @@
                     "elo": 1863,
                     "change": -26,
                     "time": 559820,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710714754,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1889,
-                    "change": -17,
-                    "time": 652175,
                     "forfeited": false,
                     "decayed": false
                 }
