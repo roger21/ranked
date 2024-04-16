@@ -1,5 +1,5 @@
 {
-    "date": "1713280307",
+    "date": "1713280992",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -20856,17 +20856,6 @@
                     "time": 870475,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710688760,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 1990,
-                    "change": 10,
-                    "time": 733453,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -23325,17 +23314,6 @@
                     "change": 0,
                     "time": 0,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710688879,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Hinart",
-                    "elo": 1702,
-                    "change": 25,
-                    "time": 707572,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -30356,17 +30334,6 @@
                     "change": 27,
                     "time": 870475,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710688879,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "pulsar32",
-                    "elo": 1784,
-                    "change": -25,
-                    "time": 707572,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
