@@ -1,5 +1,5 @@
 {
-    "date": "1713310121",
+    "date": "1713310554",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3933,6 +3933,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713310133,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "thecamo6",
+                    "elo": 2243,
+                    "change": 7,
+                    "time": 699894,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713308918,
                     "type": "SHIPWRECK",
@@ -10628,17 +10639,6 @@
                     "time": 670541,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710718396,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 2005,
-                    "change": 16,
-                    "time": 735273,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -14731,17 +14731,6 @@
                     "elo": 1949,
                     "change": -26,
                     "time": 649560,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710718092,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Waluyoshi",
-                    "elo": 1975,
-                    "change": 16,
-                    "time": 689258,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -35711,17 +35700,6 @@
                     "time": 452093,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710718396,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1859,
-                    "change": -16,
-                    "time": 735273,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -41843,17 +41821,6 @@
                     "elo": 1688,
                     "change": -12,
                     "time": 214254,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710718232,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1700,
-                    "change": -17,
-                    "time": 238657,
                     "forfeited": true,
                     "decayed": false
                 }
