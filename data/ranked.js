@@ -1,5 +1,5 @@
 {
-    "date": "1713262334",
+    "date": "1713263271",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5707,28 +5707,6 @@
                     "elo": 2153,
                     "change": 11,
                     "time": 649465,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710670993,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "35902573290573",
-                    "elo": 2142,
-                    "change": 8,
-                    "time": 475791,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710670330,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Hinart",
-                    "elo": 2134,
-                    "change": 11,
-                    "time": 720652,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -29432,17 +29410,6 @@
                     "change": -1,
                     "time": 444626,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710670330,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Priffin",
-                    "elo": 1844,
-                    "change": -11,
-                    "time": 720652,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
