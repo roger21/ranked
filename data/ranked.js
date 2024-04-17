@@ -1,5 +1,5 @@
 {
-    "date": "1713376498",
+    "date": "1713377658",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3794,17 +3794,6 @@
                     "time": 689720,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710785160,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 2312,
-                    "change": 6,
-                    "time": 497504,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -3812,6 +3801,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713377248,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "DziabaDziuba",
+                    "elo": 2226,
+                    "change": -31,
+                    "time": 603904,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713374856,
                     "type": "BURIED_TREASURE",
@@ -14566,17 +14566,6 @@
                     "elo": 1806,
                     "change": -21,
                     "time": 786275,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710785160,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1827,
-                    "change": -6,
-                    "time": 497504,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -25922,17 +25911,6 @@
                     "time": 646968,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710784847,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1872,
-                    "change": -18,
-                    "time": 771278,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -30915,6 +30893,45 @@
                 }
             ]
         },
+        "DziabaDziuba": {
+            "uuid": "2988fcfbc6b141a497faa915e13b6592",
+            "nickname": "DziabaDziuba",
+            "matches": [
+                {
+                    "date": 1713377248,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "7rowl",
+                    "elo": 1934,
+                    "change": 31,
+                    "time": 603904,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713295638,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1903,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
+                    "date": 1713209236,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1908,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                }
+            ]
+        },
         "dolqhin": {
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
@@ -32162,34 +32179,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": false
-                }
-            ]
-        },
-        "DziabaDziuba": {
-            "uuid": "2988fcfbc6b141a497faa915e13b6592",
-            "nickname": "DziabaDziuba",
-            "matches": [
-                {
-                    "date": 1713295638,
-                    "type": null,
-                    "result": "lost",
-                    "opponent": null,
-                    "elo": 1903,
-                    "change": -5,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1713209236,
-                    "type": null,
-                    "result": "lost",
-                    "opponent": null,
-                    "elo": 1908,
-                    "change": -5,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -33646,17 +33635,6 @@
                     "elo": 1932,
                     "change": -25,
                     "time": 660292,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710784847,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 1957,
-                    "change": 18,
-                    "time": 771278,
                     "forfeited": false,
                     "decayed": false
                 }
