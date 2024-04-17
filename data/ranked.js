@@ -1,5 +1,5 @@
 {
-    "date": "1713383663",
+    "date": "1713384703",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3802,6 +3802,28 @@
             "nickname": "7rowl",
             "matches": [
                 {
+                    "date": 1713384471,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "DziabaDziuba",
+                    "elo": 2245,
+                    "change": 12,
+                    "time": 689942,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713383704,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "_loro1",
+                    "elo": 2233,
+                    "change": 7,
+                    "time": 761116,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713381731,
                     "type": "VILLAGE",
                     "result": "win",
@@ -6251,17 +6273,6 @@
                     "elo": 2086,
                     "change": 10,
                     "time": 645702,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710791930,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 2076,
-                    "change": 12,
-                    "time": 123636,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -14554,6 +14565,17 @@
             "nickname": "DziabaDziuba",
             "matches": [
                 {
+                    "date": 1713384471,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "7rowl",
+                    "elo": 1975,
+                    "change": -12,
+                    "time": 689942,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713383008,
                     "type": "VILLAGE",
                     "result": "lost",
@@ -22037,17 +22059,6 @@
                     "elo": 1720,
                     "change": 15,
                     "time": 807128,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710791695,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "gabboooz",
-                    "elo": 1705,
-                    "change": 20,
-                    "time": 752415,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -39886,17 +39897,6 @@
                     "time": 679399,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710791737,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1782,
-                    "change": -20,
-                    "time": 588003,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43207,17 +43207,6 @@
                     "elo": 1691,
                     "change": -21,
                     "time": 814487,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710792234,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 1712,
-                    "change": 25,
-                    "time": 770844,
                     "forfeited": false,
                     "decayed": false
                 }
