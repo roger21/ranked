@@ -1,5 +1,5 @@
 {
-    "date": "1713321983",
+    "date": "1713322496",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11967,6 +11967,17 @@
             "uuid": "ba31689fe7d24431bf7997a52efcc21c",
             "nickname": "meebie",
             "matches": [
+                {
+                    "date": 1713322218,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 2019,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1713235816,
                     "type": null,
@@ -44539,17 +44550,6 @@
                     "change": 14,
                     "time": 4700,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710730040,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "JoomzMonkey",
-                    "elo": 1652,
-                    "change": -16,
-                    "time": 1269614,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
