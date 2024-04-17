@@ -1,5 +1,5 @@
 {
-    "date": "1713375337",
+    "date": "1713376083",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -33679,17 +33679,6 @@
                     "elo": 1957,
                     "change": 18,
                     "time": 771278,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710783961,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "90Tom",
-                    "elo": 1939,
-                    "change": 12,
-                    "time": 620644,
                     "forfeited": false,
                     "decayed": false
                 }
