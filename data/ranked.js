@@ -1,5 +1,5 @@
 {
-    "date": "1713368662",
+    "date": "1713369276",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3880,17 +3880,6 @@
                     "elo": 2259,
                     "change": 17,
                     "time": 653360,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710777150,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 2242,
-                    "change": 10,
-                    "time": 620607,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -26175,17 +26164,6 @@
                     "time": 847976,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710777150,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1907,
-                    "change": -10,
-                    "time": 620607,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -32413,17 +32391,6 @@
                     "elo": 1847,
                     "change": 23,
                     "time": 847976,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710776881,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1824,
-                    "change": -26,
-                    "time": 701902,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43703,17 +43670,6 @@
                     "change": -22,
                     "time": 432954,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710776881,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "ANJOUU",
-                    "elo": 1692,
-                    "change": 26,
-                    "time": 701902,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
