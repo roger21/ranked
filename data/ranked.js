@@ -1,5 +1,5 @@
 {
-    "date": "1713348789",
+    "date": "1713349689",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -28599,17 +28599,6 @@
                     "elo": 1987,
                     "change": 15,
                     "time": 603981,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710757166,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 1972,
-                    "change": 13,
-                    "time": 688372,
                     "forfeited": false,
                     "decayed": false
                 }
