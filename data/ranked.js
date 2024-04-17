@@ -1,5 +1,5 @@
 {
-    "date": "1713367554",
+    "date": "1713368084",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3911,6 +3911,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713367899,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "Bloonskiller",
+                    "elo": 2270,
+                    "change": 6,
+                    "time": 657159,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713365642,
                     "type": "RUINED_PORTAL",
@@ -43747,17 +43758,6 @@
                     "change": 26,
                     "time": 701902,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710775807,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "furk1e",
-                    "elo": 1666,
-                    "change": 14,
-                    "time": 4700,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
