@@ -1,5 +1,5 @@
 {
-    "date": "1713395571",
+    "date": "1713396216",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -13681,17 +13681,6 @@
                     "change": 21,
                     "time": 642569,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710803705,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "pulsar32",
-                    "elo": 1813,
-                    "change": 16,
-                    "time": 481945,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -30560,17 +30549,6 @@
                     "time": 242743,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710803705,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1669,
-                    "change": -16,
-                    "time": 481945,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -43071,17 +43049,6 @@
                     "change": 1,
                     "time": 721798,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710803578,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "outrag",
-                    "elo": 1635,
-                    "change": 19,
-                    "time": 815595,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
