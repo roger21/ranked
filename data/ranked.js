@@ -1,5 +1,5 @@
 {
-    "date": "1713358571",
+    "date": "1713359518",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3933,6 +3933,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713358628,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "ulsah1n",
+                    "elo": 2224,
+                    "change": 8,
+                    "time": 606715,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713357830,
                     "type": "SHIPWRECK",
