@@ -1,5 +1,5 @@
 {
-    "date": "1713373829",
+    "date": "1713374468",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3834,6 +3834,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713373931,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "KenanKardes",
+                    "elo": 2246,
+                    "change": -34,
+                    "time": 598456,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713373086,
                     "type": "BURIED_TREASURE",
@@ -14599,17 +14610,6 @@
                     "elo": 1819,
                     "change": 17,
                     "time": 685104,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710782228,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1802,
-                    "change": -18,
-                    "time": 727622,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28104,17 +28104,6 @@
                     "elo": 1878,
                     "change": -8,
                     "time": 501508,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710782228,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 1886,
-                    "change": 18,
-                    "time": 727622,
                     "forfeited": false,
                     "decayed": false
                 }
