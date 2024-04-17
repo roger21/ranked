@@ -1,5 +1,5 @@
 {
-    "date": "1713389207",
+    "date": "1713389782",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -24429,6 +24429,17 @@
             "nickname": "Waluyoshi",
             "matches": [
                 {
+                    "date": 1713389670,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1958,
+                    "change": -1,
+                    "time": 482591,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1713388748,
                     "type": "BURIED_TREASURE",
                     "result": "win",
@@ -37529,6 +37540,17 @@
             "nickname": "BeefSalad",
             "matches": [
                 {
+                    "date": 1713389670,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Waluyoshi",
+                    "elo": 1875,
+                    "change": 1,
+                    "time": 482591,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1713389120,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -43274,17 +43296,6 @@
                     "change": 18,
                     "time": 612685,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710797716,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "NottAntoo",
-                    "elo": 1697,
-                    "change": -18,
-                    "time": 570537,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
