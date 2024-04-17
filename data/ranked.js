@@ -1,5 +1,5 @@
 {
-    "date": "1713365074",
+    "date": "1713365688",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3922,6 +3922,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713365642,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "ulsah1n",
+                    "elo": 2264,
+                    "change": 7,
+                    "time": 699887,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1713363540,
                     "type": "DESERT_TEMPLE",
