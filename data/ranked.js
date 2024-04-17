@@ -1,5 +1,5 @@
 {
-    "date": "1713370482",
+    "date": "1713371651",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3847,28 +3847,6 @@
                     "elo": 2282,
                     "change": 8,
                     "time": 669248,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710779517,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 2274,
-                    "change": 7,
-                    "time": 594425,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710778798,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "v_strid",
-                    "elo": 2267,
-                    "change": 8,
-                    "time": 690215,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -14644,28 +14622,6 @@
                     "change": 23,
                     "time": 579242,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710779517,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1804,
-                    "change": -7,
-                    "time": 594425,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710778755,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "ANJOUU",
-                    "elo": 1811,
-                    "change": -18,
-                    "time": 393201,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -26087,17 +26043,6 @@
                     "time": 1003820,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710778798,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1876,
-                    "change": -8,
-                    "time": 690215,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -30672,6 +30617,17 @@
             "nickname": "Kxpow",
             "matches": [
                 {
+                    "date": 1713371118,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1939,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
                     "date": 1713284718,
                     "type": null,
                     "result": "lost",
@@ -32304,17 +32260,6 @@
                     "change": -21,
                     "time": 1003820,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710778755,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 1895,
-                    "change": 18,
-                    "time": 393201,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -43571,17 +43516,6 @@
                     "change": 24,
                     "time": 819255,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710778850,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Cornflakes267",
-                    "elo": 1691,
-                    "change": 21,
-                    "time": 791894,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
