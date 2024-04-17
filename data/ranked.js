@@ -1,5 +1,5 @@
 {
-    "date": "1713360267",
+    "date": "1713360923",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3933,6 +3933,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713360522,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "ulsah1n",
+                    "elo": 2241,
+                    "change": 8,
+                    "time": 683610,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713359610,
                     "type": "BURIED_TREASURE",
