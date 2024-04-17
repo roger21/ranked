@@ -1,5 +1,5 @@
 {
-    "date": "1713396216",
+    "date": "1713396543",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -13669,17 +13669,6 @@
                     "elo": 1853,
                     "change": 19,
                     "time": 830709,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710804438,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1834,
-                    "change": 21,
-                    "time": 642569,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30538,17 +30527,6 @@
                     "time": 231053,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710804234,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "outrag",
-                    "elo": 1645,
-                    "change": -24,
-                    "time": 242743,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -43038,17 +43016,6 @@
                     "change": 15,
                     "time": 587519,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710804384,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1636,
-                    "change": 1,
-                    "time": 721798,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
