@@ -1,5 +1,5 @@
 {
-    "date": "1713362075",
+    "date": "1713363061",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3933,6 +3933,17 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "matches": [
+                {
+                    "date": 1713362242,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "Ranik_",
+                    "elo": 2250,
+                    "change": 9,
+                    "time": 626009,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713360522,
                     "type": "BURIED_TREASURE",
@@ -32506,10 +32517,60 @@
                 }
             ]
         },
+        "DziabaDziuba": {
+            "uuid": "2988fcfbc6b141a497faa915e13b6592",
+            "nickname": "DziabaDziuba",
+            "matches": [
+                {
+                    "date": 1713295638,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1903,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
+                    "date": 1713209236,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1908,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                }
+            ]
+        },
         "Ranik_": {
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "matches": [
+                {
+                    "date": 1713362817,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "emia",
+                    "elo": 1898,
+                    "change": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713362242,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "7rowl",
+                    "elo": 1898,
+                    "change": -9,
+                    "time": 626009,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713361508,
                     "type": "SHIPWRECK",
@@ -33972,34 +34033,6 @@
                     "time": 247310,
                     "forfeited": true,
                     "decayed": false
-                }
-            ]
-        },
-        "DziabaDziuba": {
-            "uuid": "2988fcfbc6b141a497faa915e13b6592",
-            "nickname": "DziabaDziuba",
-            "matches": [
-                {
-                    "date": 1713295638,
-                    "type": null,
-                    "result": "lost",
-                    "opponent": null,
-                    "elo": 1903,
-                    "change": -5,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1713209236,
-                    "type": null,
-                    "result": "lost",
-                    "opponent": null,
-                    "elo": 1908,
-                    "change": -5,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
