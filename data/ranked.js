@@ -1,5 +1,5 @@
 {
-    "date": "1713393272",
+    "date": "1713393872",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -13703,17 +13703,6 @@
                     "change": -27,
                     "time": 662069,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710801286,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 1802,
-                    "change": 17,
-                    "time": 664549,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -43136,17 +43125,6 @@
                     "elo": 1616,
                     "change": 21,
                     "time": 427299,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710801712,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "LilMinien",
-                    "elo": 1595,
-                    "change": 13,
-                    "time": 199107,
                     "forfeited": true,
                     "decayed": false
                 }
