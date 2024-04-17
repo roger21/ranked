@@ -1,5 +1,5 @@
 {
-    "date": "1713377658",
+    "date": "1713378612",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -14557,17 +14557,6 @@
                     "time": 819255,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710786289,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1806,
-                    "change": -21,
-                    "time": 786275,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -25900,17 +25889,6 @@
                     "time": 724493,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710785686,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "90Tom",
-                    "elo": 1886,
-                    "change": 14,
-                    "time": 646968,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28040,6 +28018,56 @@
                     "time": 658699,
                     "forfeited": false,
                     "decayed": false
+                }
+            ]
+        },
+        "DziabaDziuba": {
+            "uuid": "2988fcfbc6b141a497faa915e13b6592",
+            "nickname": "DziabaDziuba",
+            "matches": [
+                {
+                    "date": 1713378152,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "KenanKardes",
+                    "elo": 1949,
+                    "change": 15,
+                    "time": 696953,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713377248,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "7rowl",
+                    "elo": 1934,
+                    "change": 31,
+                    "time": 603904,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713295638,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1903,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
+                    "date": 1713209236,
+                    "type": null,
+                    "result": "lost",
+                    "opponent": null,
+                    "elo": 1908,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
                 }
             ]
         },
@@ -30886,45 +30914,6 @@
                     "result": "lost",
                     "opponent": null,
                     "elo": 2000,
-                    "change": -5,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                }
-            ]
-        },
-        "DziabaDziuba": {
-            "uuid": "2988fcfbc6b141a497faa915e13b6592",
-            "nickname": "DziabaDziuba",
-            "matches": [
-                {
-                    "date": 1713377248,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 1934,
-                    "change": 31,
-                    "time": 603904,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713295638,
-                    "type": null,
-                    "result": "lost",
-                    "opponent": null,
-                    "elo": 1903,
-                    "change": -5,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1713209236,
-                    "type": null,
-                    "result": "lost",
-                    "opponent": null,
-                    "elo": 1908,
                     "change": -5,
                     "time": 0,
                     "forfeited": true,
@@ -39983,17 +39972,6 @@
                     "elo": 1804,
                     "change": -18,
                     "time": 724493,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710786289,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 1822,
-                    "change": 21,
-                    "time": 786275,
                     "forfeited": false,
                     "decayed": false
                 }
