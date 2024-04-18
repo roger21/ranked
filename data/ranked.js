@@ -1,5 +1,5 @@
 {
-    "date": "1713482624",
+    "date": "1713482909",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7695,17 +7695,6 @@
                     "time": 569904,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710890684000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 2181,
-                    "change": 12,
-                    "time": 497108,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -13894,17 +13883,6 @@
                     "elo": 1803,
                     "change": -19,
                     "time": 667234,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710890709000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 1822,
-                    "change": 13,
-                    "time": 658134,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42993,17 +42971,6 @@
                     "elo": 1911,
                     "change": -28,
                     "time": 947065,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710890684000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Priffin",
-                    "elo": 1939,
-                    "change": -12,
-                    "time": 497108,
                     "forfeited": false,
                     "decayed": false
                 }
