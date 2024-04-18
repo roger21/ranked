@@ -1,5 +1,5 @@
 {
-    "date": "1713409928",
+    "date": "1713410589",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11094,17 +11094,6 @@
                     "elo": 1782,
                     "change": -26,
                     "time": 745444,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710818417,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1808,
-                    "change": 22,
-                    "time": 797614,
                     "forfeited": false,
                     "decayed": false
                 }
