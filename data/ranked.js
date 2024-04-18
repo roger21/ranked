@@ -1,5 +1,5 @@
 {
-    "date": "1713483894",
+    "date": "1713484511",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -23854,17 +23854,6 @@
                     "time": 906955,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710892074000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1721,
-                    "change": 28,
-                    "time": 947065,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42917,17 +42906,6 @@
                     "change": -10,
                     "time": 645620,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710892074000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1911,
-                    "change": -28,
-                    "time": 947065,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
