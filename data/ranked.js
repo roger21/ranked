@@ -1,5 +1,5 @@
 {
-    "date": "1713481921",
+    "date": "1713482624",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1509,17 +1509,6 @@
                     "elo": 2230,
                     "change": 8,
                     "time": 547627,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710890128000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Priffin",
-                    "elo": 2222,
-                    "change": -24,
-                    "time": 490077,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -7715,17 +7704,6 @@
                     "elo": 2181,
                     "change": 12,
                     "time": 497108,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710890128000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 2169,
-                    "change": 24,
-                    "time": 490077,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -23952,17 +23930,6 @@
                     "change": -27,
                     "time": 827827,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710890100000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1720,
-                    "change": 2,
-                    "time": 391461,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -43037,17 +43004,6 @@
                     "elo": 1939,
                     "change": -12,
                     "time": 497108,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710890074000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 1951,
-                    "change": 15,
-                    "time": 628457,
                     "forfeited": false,
                     "decayed": false
                 }
