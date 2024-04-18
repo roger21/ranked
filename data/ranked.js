@@ -1,5 +1,5 @@
 {
-    "date": "1713477277",
+    "date": "1713478241",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3902,17 +3902,6 @@
                     "elo": 2111,
                     "change": 12,
                     "time": 773304,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710885319000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 2099,
-                    "change": 11,
-                    "time": 686705,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -14015,17 +14004,6 @@
                     "elo": 1845,
                     "change": 16,
                     "time": 786176,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710885816000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1829,
-                    "change": -23,
-                    "time": 586945,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43169,17 +43147,6 @@
                     "elo": 1915,
                     "change": 17,
                     "time": 738554,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710885602000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "loodlow",
-                    "elo": 1898,
-                    "change": -28,
-                    "time": 344325,
                     "forfeited": true,
                     "decayed": false
                 }
