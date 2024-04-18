@@ -1,5 +1,5 @@
 {
-    "date": "1713461053",
+    "date": "1713461365",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11809,17 +11809,6 @@
                     "elo": 1921,
                     "change": -25,
                     "time": 520428,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710869174000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "centuriee",
-                    "elo": 1946,
-                    "change": 11,
-                    "time": 778167,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -29737,6 +29726,17 @@
             "nickname": "Cube1337x",
             "matches": [
                 {
+                    "date": 1713461106000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "megelimc",
+                    "elo": 1954,
+                    "change": 15,
+                    "time": 718116,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713460266000,
                     "type": "DESERT_TEMPLE",
                     "result": "win",
@@ -43721,17 +43721,6 @@
                     "time": 748486,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710868984000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1924,
-                    "change": -22,
-                    "time": 328090,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -45089,17 +45078,6 @@
                     "elo": 1697,
                     "change": 19,
                     "time": 635626,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710869255000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "suravil",
-                    "elo": 1678,
-                    "change": 17,
-                    "time": 726140,
                     "forfeited": false,
                     "decayed": false
                 }
