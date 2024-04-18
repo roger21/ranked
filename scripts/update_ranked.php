@@ -49,7 +49,7 @@
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
 
       foreach($mm["data"] as $m){
-        $date=(int)$m["date"];
+        $date=((int)$m["date"]) * 1000;
         $win=$m["result"]["uuid"] === $p["uuid"];
         $opponent=null;
         foreach($m["players"] as $player){
