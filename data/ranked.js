@@ -1,5 +1,5 @@
 {
-    "date": "1713473084",
+    "date": "1713473655",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -39919,17 +39919,6 @@
                     "change": -15,
                     "time": 247914,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710881521000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Mescht",
-                    "elo": 1636,
-                    "change": 13,
-                    "time": 902094,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
