@@ -1,5 +1,5 @@
 {
-    "date": "1713472613",
+    "date": "1713473084",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3913,17 +3913,6 @@
                     "elo": 2099,
                     "change": 11,
                     "time": 686705,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710880947000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 2088,
-                    "change": 16,
-                    "time": 980420,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -14115,17 +14104,6 @@
                     "change": -14,
                     "time": 660766,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710880876000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1792,
-                    "change": -21,
-                    "time": 758983,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
