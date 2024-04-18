@@ -1,5 +1,5 @@
 {
-    "date": "1713398099",
+    "date": "1713401306",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8792,6 +8792,17 @@
             "nickname": "Priffin",
             "matches": [
                 {
+                    "date": 1713399789,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "Javierixmon",
+                    "elo": 2129,
+                    "change": 13,
+                    "time": 338167,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1713297762,
                     "type": "RUINED_PORTAL",
                     "result": "lost",
@@ -11217,28 +11228,6 @@
                     "time": 620469,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710808884,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1770,
-                    "change": -19,
-                    "time": 949136,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710806803,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 1789,
-                    "change": 18,
-                    "time": 669075,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -13626,28 +13615,6 @@
                     "change": 17,
                     "time": 656666,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710807796,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1885,
-                    "change": 19,
-                    "time": 638034,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710807112,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "mcsrjordan",
-                    "elo": 1866,
-                    "change": 13,
-                    "time": 1183721,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -19673,50 +19640,6 @@
                     "time": 620469,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710808842,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 1780,
-                    "change": 19,
-                    "time": 215159,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710808428,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "mcsrlebron",
-                    "elo": 1761,
-                    "change": -2,
-                    "time": 701809,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710807487,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Emillk",
-                    "elo": 1763,
-                    "change": -23,
-                    "time": 614561,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710806632,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1786,
-                    "change": -20,
-                    "time": 425429,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -21042,39 +20965,6 @@
                     "change": 14,
                     "time": 563548,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710808428,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1560,
-                    "change": 2,
-                    "time": 701809,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710807438,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "ColeTM",
-                    "elo": 1558,
-                    "change": -21,
-                    "time": 707095,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710806449,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "MCSRShaq",
-                    "elo": 1579,
-                    "change": -25,
-                    "time": 674666,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -32253,6 +32143,28 @@
             "nickname": "Javierixmon",
             "matches": [
                 {
+                    "date": 1713399789,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Priffin",
+                    "elo": 1902,
+                    "change": -13,
+                    "time": 338167,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713399356,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "WarioTime1",
+                    "elo": 1915,
+                    "change": 14,
+                    "time": 745218,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1713392980,
                     "type": "SHIPWRECK",
                     "result": "win",
@@ -42960,39 +42872,6 @@
                     "elo": 1660,
                     "change": 19,
                     "time": 750465,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710808949,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1641,
-                    "change": -15,
-                    "time": 630667,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710807961,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "outrag",
-                    "elo": 1656,
-                    "change": 18,
-                    "time": 788840,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710807112,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1638,
-                    "change": -13,
-                    "time": 1183721,
                     "forfeited": false,
                     "decayed": false
                 }
