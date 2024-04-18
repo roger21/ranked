@@ -1,5 +1,5 @@
 {
-    "date": "1713468923",
+    "date": "1713469480",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -14204,17 +14204,6 @@
                     "time": 438962,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710877377000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "gabboooz",
-                    "elo": 1848,
-                    "change": 14,
-                    "time": 625139,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -16531,28 +16520,6 @@
                     "change": -18,
                     "time": 438962,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710877421000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1794,
-                    "change": -24,
-                    "time": 202971,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710877049000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1818,
-                    "change": -17,
-                    "time": 846146,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -38319,39 +38286,6 @@
                     "time": 653488,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710877421000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Hinart",
-                    "elo": 1735,
-                    "change": 24,
-                    "time": 202971,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710877146000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1711,
-                    "change": -23,
-                    "time": 170210,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710876888000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "outrag",
-                    "elo": 1734,
-                    "change": -28,
-                    "time": 948722,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43609,17 +43543,6 @@
                     "elo": 1972,
                     "change": 25,
                     "time": 595242,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710877049000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Hinart",
-                    "elo": 1947,
-                    "change": 17,
-                    "time": 846146,
                     "forfeited": false,
                     "decayed": false
                 }
