@@ -1,5 +1,5 @@
 {
-    "date": "1713439055",
+    "date": "1713439520",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -45606,17 +45606,6 @@
                     "elo": 2029,
                     "change": 28,
                     "time": 757433,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710847122000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 2001,
-                    "change": 14,
-                    "time": 571928,
                     "forfeited": false,
                     "decayed": false
                 }
