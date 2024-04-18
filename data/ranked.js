@@ -1,5 +1,5 @@
 {
-    "date": "1713475510",
+    "date": "1713476112",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -39832,17 +39832,6 @@
                     "time": 481111,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710883479000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Arosity",
-                    "elo": 1619,
-                    "change": 18,
-                    "time": 650120,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43258,17 +43247,6 @@
                     "change": -24,
                     "time": 534598,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710884056000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "EvanKeen",
-                    "elo": 1950,
-                    "change": 16,
-                    "time": 588503,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
