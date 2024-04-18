@@ -1,5 +1,5 @@
 {
-    "date": "1713454116",
+    "date": "1713454539",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11942,28 +11942,6 @@
                     "change": -25,
                     "time": 771054,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710862332000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1930,
-                    "change": 22,
-                    "time": 184454,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710862099000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 1908,
-                    "change": 16,
-                    "time": 334701,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -25259,6 +25237,17 @@
             "nickname": "Hinart",
             "matches": [
                 {
+                    "date": 1713454490000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "suravil",
+                    "elo": 1975,
+                    "change": 12,
+                    "time": 644421,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713374856000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -33462,6 +33451,17 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "matches": [
+                {
+                    "date": 1713454494000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "KenanKardes",
+                    "elo": 1933,
+                    "change": 17,
+                    "time": 917499,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713453495000,
                     "type": "BURIED_TREASURE",
@@ -43830,17 +43830,6 @@
                     "change": 16,
                     "time": 682146,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710862332000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1936,
-                    "change": -22,
-                    "time": 184454,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
