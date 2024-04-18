@@ -1,5 +1,5 @@
 {
-    "date": "1713476112",
+    "date": "1713476662",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -14037,28 +14037,6 @@
                     "elo": 1852,
                     "change": 24,
                     "time": 534598,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710884545000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "EvanKeen",
-                    "elo": 1828,
-                    "change": -21,
-                    "time": 273362,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710884225000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "outrag",
-                    "elo": 1849,
-                    "change": 13,
-                    "time": 826733,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -39820,17 +39798,6 @@
                     "change": -24,
                     "time": 736708,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710884210000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1603,
-                    "change": -16,
-                    "time": 481111,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
