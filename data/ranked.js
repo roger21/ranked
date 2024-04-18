@@ -1,5 +1,5 @@
 {
-    "date": "1713473655",
+    "date": "1713474621",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -14083,28 +14083,6 @@
                     "time": 675534,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710882058000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 1793,
-                    "change": 15,
-                    "time": 247914,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710881644000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1778,
-                    "change": -14,
-                    "time": 660766,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28106,17 +28084,6 @@
                     "time": 675534,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710881936000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1736,
-                    "change": 12,
-                    "time": 465247,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -39909,17 +39876,6 @@
                     "time": 597327,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710882058000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1621,
-                    "change": -15,
-                    "time": 247914,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -43357,28 +43313,6 @@
                     "change": -25,
                     "time": 420216,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710882346000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1959,
-                    "change": -20,
-                    "time": 489780,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710881644000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 1979,
-                    "change": 14,
-                    "time": 660766,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
