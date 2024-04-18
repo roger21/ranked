@@ -1,5 +1,5 @@
 {
-    "date": "1713457804",
+    "date": "1713458235",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -9104,17 +9104,6 @@
                     "time": 628680,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710865732000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 2068,
-                    "change": -26,
-                    "time": 779614,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -11908,17 +11897,6 @@
                     "elo": 1931,
                     "change": -22,
                     "time": 548702,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710865732000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Oxidiot",
-                    "elo": 1953,
-                    "change": 26,
-                    "time": 779614,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -15761,17 +15739,6 @@
                     "change": -10,
                     "time": 645702,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710865794000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1787,
-                    "change": 26,
-                    "time": 782090,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -27299,6 +27266,17 @@
             "uuid": "1ae14cb96a2f4357a71efac6f7012b59",
             "nickname": "Cube1337x",
             "matches": [
+                {
+                    "date": 1713457793000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "JoomzMonkey",
+                    "elo": 1962,
+                    "change": 12,
+                    "time": 546300,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713455872000,
                     "type": "BURIED_TREASURE",
@@ -43831,17 +43809,6 @@
                     "time": 548702,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710865794000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Hinart",
-                    "elo": 1904,
-                    "change": -26,
-                    "time": 782090,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -45221,17 +45188,6 @@
                     "elo": 1661,
                     "change": 12,
                     "time": 1151256,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710866001000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "centuriee",
-                    "elo": 1649,
-                    "change": -21,
-                    "time": 1019918,
                     "forfeited": false,
                     "decayed": false
                 }
