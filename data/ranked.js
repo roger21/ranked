@@ -1,5 +1,5 @@
 {
-    "date": "1713475160",
+    "date": "1713475510",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -14060,17 +14060,6 @@
                     "change": 13,
                     "time": 826733,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710883282000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1836,
-                    "change": 25,
-                    "time": 420216,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -43279,17 +43268,6 @@
                     "elo": 1950,
                     "change": 16,
                     "time": 588503,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710883282000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "paplerr",
-                    "elo": 1934,
-                    "change": -25,
-                    "time": 420216,
                     "forfeited": true,
                     "decayed": false
                 }
