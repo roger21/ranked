@@ -1,5 +1,5 @@
 {
-    "date": "1713509102",
+    "date": "1713509680",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1355,17 +1355,6 @@
                     "elo": 2241,
                     "change": 8,
                     "time": 732971,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710917151000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "silverrruns",
-                    "elo": 2233,
-                    "change": 14,
-                    "time": 580660,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -7181,17 +7170,6 @@
                     "elo": 2036,
                     "change": 10,
                     "time": 578260,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710917151000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 2026,
-                    "change": -14,
-                    "time": 580660,
                     "forfeited": false,
                     "decayed": false
                 }
