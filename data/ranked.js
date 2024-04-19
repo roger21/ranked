@@ -1,5 +1,5 @@
 {
-    "date": "1713540498",
+    "date": "1713540933",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -20231,6 +20231,17 @@
             "nickname": "bing_pigs",
             "matches": [
                 {
+                    "date": 1713540862000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "ANJOUU",
+                    "elo": 2005,
+                    "change": 17,
+                    "time": 674412,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713539715000,
                     "type": "VILLAGE",
                     "result": "win",
@@ -32670,6 +32681,17 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "matches": [
+                {
+                    "date": 1713540862000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1896,
+                    "change": -17,
+                    "time": 674412,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713539915000,
                     "type": "DESERT_TEMPLE",
