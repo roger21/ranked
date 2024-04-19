@@ -1,5 +1,5 @@
 {
-    "date": "1713553841",
+    "date": "1713554327",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -15703,17 +15703,6 @@
                     "elo": 2097,
                     "change": 15,
                     "time": 724466,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710962062000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "sanjinhu",
-                    "elo": 2082,
-                    "change": 14,
-                    "time": 628680,
                     "forfeited": false,
                     "decayed": false
                 }
