@@ -1,5 +1,5 @@
 {
-    "date": "1713562546",
+    "date": "1713563077",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1322,17 +1322,6 @@
                     "elo": 2265,
                     "change": 7,
                     "time": 622167,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710970675000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "dillrice",
-                    "elo": 2258,
-                    "change": 7,
-                    "time": 690050,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24503,17 +24492,6 @@
                     "time": 618063,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1710970889000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 1630,
-                    "change": -22,
-                    "time": 583350,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -37200,17 +37178,6 @@
                     "elo": 1631,
                     "change": -21,
                     "time": 618063,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710970655000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "loodlow",
-                    "elo": 1652,
-                    "change": 22,
-                    "time": 751050,
                     "forfeited": true,
                     "decayed": false
                 }
