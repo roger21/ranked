@@ -1,5 +1,5 @@
 {
-    "date": "1713565457",
+    "date": "1713566173",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -14535,6 +14535,17 @@
             "nickname": "DziabaDziuba",
             "matches": [
                 {
+                    "date": 1713565581000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "MrBudgiee",
+                    "elo": 2080,
+                    "change": 9,
+                    "time": 939121,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713563502000,
                     "type": "SHIPWRECK",
                     "result": "win",
@@ -23342,17 +23353,6 @@
                     "time": 676247,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710973755000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Bloonskiller",
-                    "elo": 1721,
-                    "change": 18,
-                    "time": 614911,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -24436,17 +24436,6 @@
                     "change": -19,
                     "time": 655054,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710973458000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Fulham",
-                    "elo": 1646,
-                    "change": -26,
-                    "time": 802605,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -37057,28 +37046,6 @@
                     "elo": 1706,
                     "change": 19,
                     "time": 655054,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710974069000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Bloonskiller",
-                    "elo": 1687,
-                    "change": 19,
-                    "time": 158684,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710973694000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Arosity",
-                    "elo": 1668,
-                    "change": 14,
-                    "time": 599163,
                     "forfeited": false,
                     "decayed": false
                 }
