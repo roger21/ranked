@@ -1,5 +1,5 @@
 {
-    "date": "1713544739",
+    "date": "1713545086",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -17453,6 +17453,17 @@
             "nickname": "pulsar32",
             "matches": [
                 {
+                    "date": 1713544969000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Bloonskiller",
+                    "elo": 2002,
+                    "change": 14,
+                    "time": 774922,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713544084000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -27734,6 +27745,17 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "matches": [
+                {
+                    "date": 1713545057000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "v_strid",
+                    "elo": 1980,
+                    "change": 26,
+                    "time": 699413,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713544269000,
                     "type": "SHIPWRECK",
