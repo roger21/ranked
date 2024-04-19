@@ -1,5 +1,5 @@
 {
-    "date": "1713566674",
+    "date": "1713567303",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -15603,6 +15603,17 @@
             "nickname": "Oxidiot",
             "matches": [
                 {
+                    "date": 1713567149000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "mcsrjordan",
+                    "elo": 2059,
+                    "change": 11,
+                    "time": 665962,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713304862000,
                     "type": "SHIPWRECK",
                     "result": "win",
@@ -24424,17 +24435,6 @@
                     "elo": 1650,
                     "change": 23,
                     "time": 711291,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710974984000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1627,
-                    "change": -19,
-                    "time": 655054,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -37036,17 +37036,6 @@
                     "change": -20,
                     "time": 624722,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710974984000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "mcsrlebron",
-                    "elo": 1706,
-                    "change": 19,
-                    "time": 655054,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
