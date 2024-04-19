@@ -1,5 +1,5 @@
 {
-    "date": "1713526538",
+    "date": "1713527056",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -17792,17 +17792,6 @@
                     "time": 644684,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710934592000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "HDMICables",
-                    "elo": 1804,
-                    "change": 28,
-                    "time": 774570,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -20522,6 +20511,17 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1713526571000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Ancoboyy",
+                    "elo": 1996,
+                    "change": 14,
+                    "time": 542520,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1713525910000,
                     "type": "BURIED_TREASURE",
