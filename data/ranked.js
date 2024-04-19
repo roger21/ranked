@@ -1,5 +1,5 @@
 {
-    "date": "1713567303",
+    "date": "1713568372",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -24424,17 +24424,6 @@
                     "elo": 1663,
                     "change": 13,
                     "time": 706632,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710975822000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Thunderstorming",
-                    "elo": 1650,
-                    "change": 23,
-                    "time": 711291,
                     "forfeited": false,
                     "decayed": false
                 }
