@@ -1,5 +1,5 @@
 {
-    "date": "1713563702",
+    "date": "1713564609",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -23364,17 +23364,6 @@
                     "time": 669197,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710971839000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 1726,
-                    "change": -25,
-                    "time": 673556,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -24468,17 +24457,6 @@
                     "elo": 1646,
                     "change": -26,
                     "time": 802605,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710972422000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "loodlow",
-                    "elo": 1672,
-                    "change": 21,
-                    "time": 412845,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -27252,17 +27230,6 @@
                     "elo": 1853,
                     "change": 13,
                     "time": 804368,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710972286000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1840,
-                    "change": 21,
-                    "time": 746532,
                     "forfeited": false,
                     "decayed": false
                 }
