@@ -1,5 +1,5 @@
 {
-    "date": "1713544232",
+    "date": "1713544739",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11727,17 +11727,6 @@
                     "time": 722506,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710952519000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "paplerr",
-                    "elo": 1845,
-                    "change": 19,
-                    "time": 746805,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -15314,17 +15303,6 @@
                     "change": -18,
                     "time": 679787,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710952519000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1784,
-                    "change": -19,
-                    "time": 746805,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -27756,6 +27734,17 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "matches": [
+                {
+                    "date": 1713544269000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "suravil",
+                    "elo": 1954,
+                    "change": 14,
+                    "time": 554168,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713543543000,
                     "type": "SHIPWRECK",
