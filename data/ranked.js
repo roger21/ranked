@@ -1,5 +1,5 @@
 {
-    "date": "1713569766",
+    "date": "1713570275",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -23342,17 +23342,6 @@
                     "time": 914220,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710977932000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Thunderstorming",
-                    "elo": 1684,
-                    "change": -19,
-                    "time": 812006,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -24391,17 +24380,6 @@
                     "elo": 1664,
                     "change": 21,
                     "time": 914220,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710977737000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Sneedcopter",
-                    "elo": 1643,
-                    "change": -20,
-                    "time": 785168,
                     "forfeited": false,
                     "decayed": false
                 }
