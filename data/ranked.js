@@ -1,5 +1,5 @@
 {
-    "date": "1713558161",
+    "date": "1713558486",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -18121,17 +18121,6 @@
                     "time": 1107261,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710966271000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "loodlow",
-                    "elo": 1927,
-                    "change": 12,
-                    "time": 670914,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -19980,17 +19969,6 @@
                     "change": 13,
                     "time": 184011,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710966135000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1768,
-                    "change": -16,
-                    "time": 721344,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -37410,17 +37388,6 @@
                     "change": -18,
                     "time": 575984,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710966346000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "binkus_",
-                    "elo": 1615,
-                    "change": 14,
-                    "time": 690036,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
