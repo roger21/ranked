@@ -1,5 +1,5 @@
 {
-    "date": "1713558486",
+    "date": "1713558958",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -16390,6 +16390,17 @@
             "nickname": "DziabaDziuba",
             "matches": [
                 {
+                    "date": 1713558610000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "Bloonskiller",
+                    "elo": 2035,
+                    "change": 12,
+                    "time": 661299,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1713555909000,
                     "type": "SHIPWRECK",
                     "result": "win",
@@ -19958,17 +19969,6 @@
                     "change": 14,
                     "time": 796669,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710966593000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "gabboooz",
-                    "elo": 1781,
-                    "change": 13,
-                    "time": 184011,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
