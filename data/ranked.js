@@ -1,5 +1,5 @@
 {
-    "date": "1713504321",
+    "date": "1713504900",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -40582,6 +40582,17 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1713504328000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "BeefSalad",
+                    "elo": 1856,
+                    "change": 19,
+                    "time": 737688,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713503498000,
                     "type": "VILLAGE",
