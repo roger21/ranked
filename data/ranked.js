@@ -1,5 +1,5 @@
 {
-    "date": "1713551218",
+    "date": "1713551685",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -27639,17 +27639,6 @@
                     "time": 750236,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1710959244000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "boosterruns",
-                    "elo": 1850,
-                    "change": -21,
-                    "time": 605550,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -31914,28 +31903,6 @@
                     "change": 30,
                     "time": 826925,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710959507000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "loodlow",
-                    "elo": 1715,
-                    "change": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1710959415000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1715,
-                    "change": -19,
-                    "time": 214341,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -44177,17 +44144,6 @@
                     "change": -18,
                     "time": 592908,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710959415000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "KenanKardes",
-                    "elo": 1770,
-                    "change": 19,
-                    "time": 214341,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
