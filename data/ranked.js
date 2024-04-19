@@ -1,5 +1,5 @@
 {
-    "date": "1713502486",
+    "date": "1713503521",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -40593,6 +40593,17 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1713503498000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 1837,
+                    "change": -24,
+                    "time": 845908,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713445573000,
                     "type": "SHIPWRECK",
