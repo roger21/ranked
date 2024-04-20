@@ -5,9 +5,9 @@
 {
 
 
-  $max_players=30;
+  $max_players=50;
 
-  $max_days=30;
+  $max_days=50;
 
   $now=((int)date("U")) * 1000;
 
