@@ -1,5 +1,5 @@
 {
-    "date": "1713584106",
+    "date": "1713584664",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1223,17 +1223,6 @@
                     "elo": 2192,
                     "change": -28,
                     "time": 633241,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710992230000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "meebie",
-                    "elo": 2220,
-                    "change": 17,
-                    "time": 673899,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -6266,6 +6255,17 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1713584255000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "SuperC_",
+                    "elo": 2133,
+                    "change": 9,
+                    "time": 520648,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713583106000,
                     "type": "DESERT_TEMPLE",
@@ -15592,6 +15592,17 @@
             "nickname": "Oxidiot",
             "matches": [
                 {
+                    "date": 1713584379000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "bing_pigs",
+                    "elo": 2061,
+                    "change": 13,
+                    "time": 241126,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
                     "date": 1713584007000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -20045,17 +20056,6 @@
                     "elo": 2094,
                     "change": -22,
                     "time": 574129,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710992230000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 2116,
-                    "change": -17,
-                    "time": 673899,
                     "forfeited": false,
                     "decayed": false
                 }
