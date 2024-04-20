@@ -11,7 +11,7 @@
 
   $now=((int)date("U")) * 1000;
 
-  $past=($now - ($max_days * 24 * 60 * 60 * 1000));
+  $past=$now - ($max_days * 24 * 60 * 60 * 1000);
 
   $leaderboard=file_get_contents("https://mcsrranked.com/api/leaderboard");
 
