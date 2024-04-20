@@ -42,6 +42,7 @@
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
 
+      $cpt=0;
       foreach($mm["data"] as $m){
         $date=((int)$m["date"]) * 1000;
         $win=$m["result"]["uuid"] === $p["uuid"];
@@ -75,8 +76,15 @@
           $done=true;
           break;
         }
+        ++$cpt;
+      }
+      if($cpt < 50){
+        $done=true;
       }
       ++$page;
+      if($page === 100){
+        $done=true;
+      }
     }
 
     echo count($p["matches"])."\n";
