@@ -5,45 +5,39 @@
 {
 
 
-  $max_ppl=30;
+  $max_players=30;
 
-  $max_time=30; // days
+  $max_days=30;
 
-  $now=(int)date("U");
+  $now=((int)date("U")) * 1000;
 
-  $past=($now - ($max_time * 24 * 3600)) * 1000;
+  $past=($now - ($max_days * 24 * 60 * 60 * 1000));
 
-  $lb=file_get_contents("https://mcsrranked.com/api/leaderboard");
+  $leaderboard=file_get_contents("https://mcsrranked.com/api/leaderboard");
 
-  //var_dump($lb);
-
-  $ppl=json_decode($lb, true, 512, JSON_OBJECT_AS_ARRAY);
+  $players=json_decode($leaderboard, true, 512, JSON_OBJECT_AS_ARRAY);
 
   $pp=[];
   $cpt=0;
-  foreach($ppl["data"]["users"] as $p){
+  foreach($players["data"]["users"] as $p){
     $pp[$p["nickname"]]=["uuid" => $p["uuid"], "nickname" => $p["nickname"]];
     ++$cpt;
-    if($cpt === $max_ppl){
+    if($cpt === $max_players){
       break;
     }
   }
 
-  //var_dump($pp);
-
-  foreach($pp as $n => &$p){
+  foreach($pp as $nick => &$p){
     $p["matches"]=[];
     $page=0;
     $done=false;
     while(!$done){
 
-      echo $n." ".$page."\n";
+      echo $nick." ".$page."\n";
 
       unset($matches);
       $matches=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
                                  "matches?page=$page&count=50&type=2");
-
-      //var_dump($matches);
 
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
@@ -66,7 +60,8 @@
             $elo=(int)$c["eloRate"] + $change;
             break;
           }
-        }if($date >= $past){
+        }
+        if($date >= $past){
           $p["matches"][]=["date" => $date,
                            "type" => $m["seedType"],
                            "result"=> $win ? "win" : "lost",
@@ -88,7 +83,7 @@
 
   }
 
-  $data=["date" => date("U"), "players" => $pp];
+  $data=["date" => $now, "players" => $pp];
 
   file_put_contents("../data/current.js", json_encode($data, JSON_PRETTY_PRINT));
 
