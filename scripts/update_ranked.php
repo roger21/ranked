@@ -27,13 +27,14 @@
     }
   }
 
+  $request=0;
   foreach($pp as $nick => &$p){
     $p["matches"]=[];
     $page=0;
     $done=false;
     while(!$done){
 
-      echo $nick." ".$page."\n";
+      echo ++$request." ".$nick." ".$page."\n";
 
       unset($matches);
       $matches=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
