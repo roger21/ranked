@@ -1,5 +1,5 @@
 {
-    "date": "1713577175",
+    "date": "1713578835",
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1256,28 +1256,6 @@
                     "elo": 2190,
                     "change": 8,
                     "time": 793926,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710986303000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Mar1n",
-                    "elo": 2182,
-                    "change": -31,
-                    "time": 857695,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710985370000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Emillk",
-                    "elo": 2213,
-                    "change": 7,
-                    "time": 756387,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -5963,6 +5941,17 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1713578333000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "thecamo6",
+                    "elo": 2184,
+                    "change": -4,
+                    "time": 677864,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1713576682000,
                     "type": "DESERT_TEMPLE",
@@ -15591,6 +15580,17 @@
             "uuid": "562a308be86c4ec09438387860e792cc",
             "nickname": "Oxidiot",
             "matches": [
+                {
+                    "date": 1713577602000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "_loro1",
+                    "elo": 2057,
+                    "change": 11,
+                    "time": 883265,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713576341000,
                     "type": "RUINED_PORTAL",
@@ -27390,17 +27390,6 @@
                     "elo": 1876,
                     "change": -25,
                     "time": 695832,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1710986303000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 1901,
-                    "change": 31,
-                    "time": 857695,
                     "forfeited": false,
                     "decayed": false
                 }
