@@ -27,14 +27,15 @@
     }
   }
 
-  $request=0;
+  $request_counter=0;
+  $player_counter=0;
   foreach($pp as $nick => &$p){
     $p["matches"]=[];
     $page=0;
     $done=false;
     while(!$done){
 
-      echo ++$request." ".$nick." ".$page."\n";
+      echo "(".++$request_counter.") ".$nick." page ".$page."\n";
 
       unset($matches);
       $matches=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
@@ -88,7 +89,7 @@
       }
     }
 
-    echo count($p["matches"])."\n";
+    echo "#".++$player_counter." ".$nick." ".count($p["matches"])." matches\n";
 
   }
 
