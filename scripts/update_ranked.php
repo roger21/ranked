@@ -49,18 +49,25 @@
         $date=((int)$m["date"]) * 1000;
         $win=$m["result"]["uuid"] === $p["uuid"];
         $opponent=null;
+        $finalelo=0;
         foreach($m["players"] as $player){
           if($player["uuid"] !== $p["uuid"]){
             $opponent=$player["nickname"];
-            break;
+          }else{
+            $finalelo=$player["eloRate"];
           }
         }
         $elo=0;
         $change=0;
+        $placement=false;
         foreach($m["changes"] as $c){
           if($c["uuid"] === $p["uuid"]){
             $change=(int)$c["change"];
             $elo=(int)$c["eloRate"] + $change;
+            if($c["change"] === null || $c["eloRate"] === null){
+              $placement=true;
+              $elo=$finalelo;
+            }
             break;
           }
         }
@@ -73,7 +80,8 @@
                            "change" => $change,
                            "time" => $m["result"]["time"],
                            "forfeited" => $m["forfeited"],
-                           "decayed" => $m["decayed"] ];
+                           "decayed" => $m["decayed"],
+                           "placement" => $placement,];
         }else{
           $done=true;
           break;
