@@ -1,10 +1,32 @@
 {
-    "date": 1713678727000,
+    "date": 1713680107000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "matches": [
+                {
+                    "date": 1713679959000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "Tenes9999",
+                    "elo": 1790,
+                    "change": 13,
+                    "time": 698137,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713679028000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1777,
+                    "change": -22,
+                    "time": 622403,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713678306000,
                     "type": "BURIED_TREASURE",
@@ -332,93 +354,32 @@
                 }
             ]
         },
-        "7rowl": {
-            "uuid": "70eb9286e3e24153a8b37c8f884f1292",
-            "nickname": "7rowl",
-            "matches": [
-                {
-                    "date": 1713670761000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Tenes9999",
-                    "elo": 1771,
-                    "change": -29,
-                    "time": 462392,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713669936000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1800,
-                    "change": -32,
-                    "time": 961102,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713668738000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 577515,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713664864000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 823351,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713663376000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 652494,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713660852000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 716695,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713659959000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "doogile",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 531006,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
         "silverrruns": {
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1713679992000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "MCSRShaq",
+                    "elo": 1775,
+                    "change": 10,
+                    "time": 689090,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713679028000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "doogile",
+                    "elo": 1765,
+                    "change": 22,
+                    "time": 622403,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713678219000,
                     "type": "SHIPWRECK",
@@ -647,6 +608,89 @@
                     "elo": 0,
                     "change": 0,
                     "time": 617588,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "7rowl": {
+            "uuid": "70eb9286e3e24153a8b37c8f884f1292",
+            "nickname": "7rowl",
+            "matches": [
+                {
+                    "date": 1713670761000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Tenes9999",
+                    "elo": 1771,
+                    "change": -29,
+                    "time": 462392,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713669936000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 1800,
+                    "change": -32,
+                    "time": 961102,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713668738000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 577515,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713664864000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "doogile",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 823351,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713663376000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "hackingnoises",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 652494,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713660852000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "lowk3y_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 716695,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713659959000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "doogile",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 531006,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -923,6 +967,122 @@
                 }
             ]
         },
+        "BeefSalad": {
+            "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
+            "nickname": "BeefSalad",
+            "matches": [
+                {
+                    "date": 1713679262000,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "dandannyboy",
+                    "elo": 1584,
+                    "change": 20,
+                    "time": 282418,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678689000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 1564,
+                    "change": -22,
+                    "time": 867819,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677640000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "JackoWacko62",
+                    "elo": 1586,
+                    "change": 13,
+                    "time": 277991,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677025000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "dandannyboy",
+                    "elo": 1573,
+                    "change": 19,
+                    "time": 243876,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676734000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1554,
+                    "change": -12,
+                    "time": 613593,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676065000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "hackingnoises",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 505920,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713675484000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "affordab1e",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 711439,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674463000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "MrBudgiee",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 676549,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713673695000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "dandannyboy",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 734869,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713672867000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "BadGamer",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 576408,
+                    "forfeited": true,
+                    "decayed": false
+                }
+            ]
+        },
         "MrBudgiee": {
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
@@ -1028,606 +1188,21 @@
                 }
             ]
         },
-        "Bloonskiller": {
-            "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
-            "nickname": "Bloonskiller",
-            "matches": [
-                {
-                    "date": 1713678345000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Tenes9999",
-                    "elo": 1570,
-                    "change": 0,
-                    "time": 847268,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677402000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1570,
-                    "change": -12,
-                    "time": 606486,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676643000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "dandannyboy",
-                    "elo": 1582,
-                    "change": 20,
-                    "time": 741237,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713671148000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "MrBudgiee",
-                    "elo": 1562,
-                    "change": 19,
-                    "time": 646911,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713670452000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1543,
-                    "change": 19,
-                    "time": 405709,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713669761000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "affordab1e",
-                    "elo": 1524,
-                    "change": 16,
-                    "time": 753732,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713668934000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "Danterus",
-                    "elo": 1508,
-                    "change": 15,
-                    "time": 763447,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713668105000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1493,
-                    "change": -21,
-                    "time": 637220,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666222000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "JackoWacko62",
-                    "elo": 1514,
-                    "change": -22,
-                    "time": 1051603,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665054000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Danterus",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1128006,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713663648000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "silverrruns",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1052260,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713662314000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Ozi_MauthnerGHG",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 829189,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713661122000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 904355,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713659699000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Ranik_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 977070,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        "BeefSalad": {
-            "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
-            "nickname": "BeefSalad",
-            "matches": [
-                {
-                    "date": 1713678689000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1564,
-                    "change": -22,
-                    "time": 867819,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677640000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "JackoWacko62",
-                    "elo": 1586,
-                    "change": 13,
-                    "time": 277991,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677025000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "dandannyboy",
-                    "elo": 1573,
-                    "change": 19,
-                    "time": 243876,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676734000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1554,
-                    "change": -12,
-                    "time": 613593,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676065000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 505920,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713675484000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "affordab1e",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 711439,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713674463000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 676549,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713673695000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 734869,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713672867000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "BadGamer",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 576408,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
-        "v_strid": {
-            "uuid": "388533d5a2ad4b349a31db4738670a4b",
-            "nickname": "v_strid",
-            "matches": [
-                {
-                    "date": 1713668325000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "itsnahan",
-                    "elo": 1550,
-                    "change": -22,
-                    "time": 674550,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713667449000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1572,
-                    "change": -21,
-                    "time": 751515,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666647000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1593,
-                    "change": -15,
-                    "time": 551188,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666054000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "thecamo6",
-                    "elo": 1608,
-                    "change": 15,
-                    "time": 709970,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665263000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "sockmonkey747",
-                    "elo": 1593,
-                    "change": 15,
-                    "time": 261714,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713664946000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "nothumanbuilt",
-                    "elo": 1578,
-                    "change": -34,
-                    "time": 936435,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713663922000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1612,
-                    "change": -16,
-                    "time": 646699,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713663107000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 1628,
-                    "change": 14,
-                    "time": 317889,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713662602000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "hackingnoises",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 630000,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713661879000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "lowk3y_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 611675,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713661122000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Bloonskiller",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 904355,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713660100000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "JoomzMonkey",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 619922,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713659323000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "ANJOUU",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 687857,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        "Tenes9999": {
-            "uuid": "48d9df3377554043ba39a8500c7ad702",
-            "nickname": "Tenes9999",
-            "matches": [
-                {
-                    "date": 1713678345000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1548,
-                    "change": 0,
-                    "time": 847268,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677211000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "silverrruns",
-                    "elo": 1548,
-                    "change": 28,
-                    "time": 681846,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713672876000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1520,
-                    "change": 0,
-                    "time": 1,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713672769000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "ParaF",
-                    "elo": 1520,
-                    "change": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713672519000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1520,
-                    "change": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713672285000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 1520,
-                    "change": -24,
-                    "time": 520262,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713671537000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1544,
-                    "change": -17,
-                    "time": 700485,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713670761000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "7rowl",
-                    "elo": 1561,
-                    "change": 29,
-                    "time": 462392,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713670044000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "thecamo6",
-                    "elo": 1532,
-                    "change": 19,
-                    "time": 817333,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713669153000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1513,
-                    "change": -16,
-                    "time": 474717,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666064000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "boosterruns",
-                    "elo": 1529,
-                    "change": -21,
-                    "time": 627952,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665260000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Thuliumm",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 973100,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713663910000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "sockmonkey747",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 831073,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713662736000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "WarioTime1",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 826737,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713661841000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "_loro1",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 738223,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713660937000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "ANJOUU",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 754542,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
         "WarioTime1": {
             "uuid": "8d52ed9bf12146c68321f1729e28cbf5",
             "nickname": "WarioTime1",
             "matches": [
+                {
+                    "date": 1713679663000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "rebup_a",
+                    "elo": 1556,
+                    "change": 16,
+                    "time": 855977,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713678689000,
                     "type": "BURIED_TREASURE",
@@ -1872,10 +1447,556 @@
                 }
             ]
         },
+        "Tenes9999": {
+            "uuid": "48d9df3377554043ba39a8500c7ad702",
+            "nickname": "Tenes9999",
+            "matches": [
+                {
+                    "date": 1713679959000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1553,
+                    "change": -13,
+                    "time": 698137,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713679196000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "MCSRShaq",
+                    "elo": 1566,
+                    "change": 18,
+                    "time": 774366,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678345000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Bloonskiller",
+                    "elo": 1548,
+                    "change": 0,
+                    "time": 847268,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677211000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "silverrruns",
+                    "elo": 1548,
+                    "change": 28,
+                    "time": 681846,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713672876000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "dandannyboy",
+                    "elo": 1520,
+                    "change": 0,
+                    "time": 1,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713672769000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "ParaF",
+                    "elo": 1520,
+                    "change": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713672519000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "sanjinhu",
+                    "elo": 1520,
+                    "change": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713672285000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "LEC666888",
+                    "elo": 1520,
+                    "change": -24,
+                    "time": 520262,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713671537000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "BadGamer",
+                    "elo": 1544,
+                    "change": -17,
+                    "time": 700485,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713670761000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "7rowl",
+                    "elo": 1561,
+                    "change": 29,
+                    "time": 462392,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713670044000,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "thecamo6",
+                    "elo": 1532,
+                    "change": 19,
+                    "time": 817333,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713669153000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1513,
+                    "change": -16,
+                    "time": 474717,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713666064000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "boosterruns",
+                    "elo": 1529,
+                    "change": -21,
+                    "time": 627952,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713665260000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Thuliumm",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 973100,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713663910000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "sockmonkey747",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 831073,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713662736000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "WarioTime1",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 826737,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713661841000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "_loro1",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 738223,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713660937000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "ANJOUU",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 754542,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "v_strid": {
+            "uuid": "388533d5a2ad4b349a31db4738670a4b",
+            "nickname": "v_strid",
+            "matches": [
+                {
+                    "date": 1713668325000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "itsnahan",
+                    "elo": 1550,
+                    "change": -22,
+                    "time": 674550,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713667449000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "BadGamer",
+                    "elo": 1572,
+                    "change": -21,
+                    "time": 751515,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713666647000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1593,
+                    "change": -15,
+                    "time": 551188,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713666054000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "thecamo6",
+                    "elo": 1608,
+                    "change": 15,
+                    "time": 709970,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713665263000,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "sockmonkey747",
+                    "elo": 1593,
+                    "change": 15,
+                    "time": 261714,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713664946000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "nothumanbuilt",
+                    "elo": 1578,
+                    "change": -34,
+                    "time": 936435,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713663922000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1612,
+                    "change": -16,
+                    "time": 646699,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713663107000,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "WarioTime1",
+                    "elo": 1628,
+                    "change": 14,
+                    "time": 317889,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713662602000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "hackingnoises",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 630000,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713661879000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "lowk3y_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 611675,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713661122000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "Bloonskiller",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 904355,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713660100000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "JoomzMonkey",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 619922,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713659323000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "ANJOUU",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 687857,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "Bloonskiller": {
+            "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
+            "nickname": "Bloonskiller",
+            "matches": [
+                {
+                    "date": 1713679586000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "retropog",
+                    "elo": 1549,
+                    "change": -21,
+                    "time": 1068925,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678345000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Tenes9999",
+                    "elo": 1570,
+                    "change": 0,
+                    "time": 847268,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677402000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1570,
+                    "change": -12,
+                    "time": 606486,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676643000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "dandannyboy",
+                    "elo": 1582,
+                    "change": 20,
+                    "time": 741237,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713671148000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "MrBudgiee",
+                    "elo": 1562,
+                    "change": 19,
+                    "time": 646911,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713670452000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "WarioTime1",
+                    "elo": 1543,
+                    "change": 19,
+                    "time": 405709,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713669761000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "affordab1e",
+                    "elo": 1524,
+                    "change": 16,
+                    "time": 753732,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713668934000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "Danterus",
+                    "elo": 1508,
+                    "change": 15,
+                    "time": 763447,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713668105000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "thecamo6",
+                    "elo": 1493,
+                    "change": -21,
+                    "time": 637220,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713666222000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "JackoWacko62",
+                    "elo": 1514,
+                    "change": -22,
+                    "time": 1051603,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713665054000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Danterus",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 1128006,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713663648000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "silverrruns",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 1052260,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713662314000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Ozi_MauthnerGHG",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 829189,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713661122000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 904355,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713659699000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Ranik_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 977070,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
         "dandannyboy": {
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "matches": [
+                {
+                    "date": 1713679262000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1532,
+                    "change": -20,
+                    "time": 282418,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678933000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "GradientGray",
+                    "elo": 1552,
+                    "change": 16,
+                    "time": 684117,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713678144000,
                     "type": "RUINED_PORTAL",
@@ -2474,70 +2595,59 @@
                 }
             ]
         },
-        "MCSRShaq": {
-            "uuid": "7d3a6bb9f62645ae80cf40840ca84c50",
-            "nickname": "MCSRShaq",
+        "Aquacorde": {
+            "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
+            "nickname": "Aquacorde",
             "matches": [
                 {
-                    "date": 1713678306000,
+                    "date": 1713678935000,
                     "type": "BURIED_TREASURE",
                     "result": "win",
-                    "opponent": "doogile",
-                    "elo": 1489,
-                    "change": 32,
-                    "time": 652009,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677477000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "rebup_a",
-                    "elo": 1457,
-                    "change": 19,
-                    "time": 443744,
+                    "opponent": "76543211",
+                    "elo": 1490,
+                    "change": 18,
+                    "time": 780871,
                     "forfeited": true,
                     "decayed": false
                 },
                 {
-                    "date": 1713676847000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "hackingnoises",
-                    "elo": 1438,
-                    "change": 25,
-                    "time": 628631,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676096000,
+                    "date": 1713677289000,
                     "type": "SHIPWRECK",
                     "result": "win",
-                    "opponent": "2nfiniteSix",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 572549,
+                    "opponent": "ParaF",
+                    "elo": 1472,
+                    "change": 17,
+                    "time": 661726,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676328000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "rebup_a",
+                    "elo": 1455,
+                    "change": -1,
+                    "time": 1089612,
                     "forfeited": true,
                     "decayed": false
                 },
                 {
-                    "date": 1713674849000,
-                    "type": "BURIED_TREASURE",
+                    "date": 1713674738000,
+                    "type": "SHIPWRECK",
                     "result": "win",
-                    "opponent": "BedrockBaby42",
+                    "opponent": "sockmonkey747",
                     "elo": 0,
                     "change": 0,
-                    "time": 711441,
-                    "forfeited": false,
+                    "time": 365113,
+                    "forfeited": true,
                     "decayed": false
                 },
                 {
                     "date": 1713674083000,
                     "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
+                    "result": "win",
+                    "opponent": "MCSRShaq",
                     "elo": 0,
                     "change": 0,
                     "time": 560987,
@@ -2545,24 +2655,35 @@
                     "decayed": false
                 },
                 {
-                    "date": 1713673196000,
+                    "date": 1713673416000,
                     "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Danterus",
+                    "result": "lost",
+                    "opponent": "nothumanbuilt",
                     "elo": 0,
                     "change": 0,
-                    "time": 578689,
+                    "time": 747209,
                     "forfeited": false,
                     "decayed": false
                 },
                 {
-                    "date": 1713671664000,
-                    "type": "BURIED_TREASURE",
+                    "date": 1713672427000,
+                    "type": "DESERT_TEMPLE",
                     "result": "win",
-                    "opponent": "iinterp",
+                    "opponent": "SirVyving",
                     "elo": 0,
                     "change": 0,
-                    "time": 1172207,
+                    "time": 360319,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713671602000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "LEC666888",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 1077266,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -2855,48 +2976,252 @@
                 }
             ]
         },
-        "Aquacorde": {
-            "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
-            "nickname": "Aquacorde",
+        "affordab1e": {
+            "uuid": "a81886565121479782d42408d94fe97d",
+            "nickname": "affordab1e",
             "matches": [
                 {
-                    "date": 1713677289000,
-                    "type": "SHIPWRECK",
+                    "date": 1713679128000,
+                    "type": "DESERT_TEMPLE",
                     "result": "win",
-                    "opponent": "ParaF",
-                    "elo": 1472,
+                    "opponent": "shimuon",
+                    "elo": 1463,
                     "change": 17,
-                    "time": 661726,
+                    "time": 1052444,
                     "forfeited": false,
                     "decayed": false
                 },
                 {
-                    "date": 1713676328000,
+                    "date": 1713677762000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
-                    "opponent": "rebup_a",
-                    "elo": 1455,
-                    "change": -1,
-                    "time": 1089612,
+                    "opponent": "WarioTime1",
+                    "elo": 1446,
+                    "change": -19,
+                    "time": 330366,
                     "forfeited": true,
                     "decayed": false
                 },
                 {
-                    "date": 1713674738000,
+                    "date": 1713677378000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "sanjinhu",
+                    "elo": 1465,
+                    "change": 19,
+                    "time": 799931,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676373000,
                     "type": "SHIPWRECK",
                     "result": "win",
-                    "opponent": "sockmonkey747",
+                    "opponent": "ParaF",
+                    "elo": 1446,
+                    "change": 18,
+                    "time": 749617,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713675484000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "BeefSalad",
+                    "elo": 1428,
+                    "change": 26,
+                    "time": 711439,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713670726000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "BlookyCookie",
+                    "elo": 1402,
+                    "change": 14,
+                    "time": 784456,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713669761000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Bloonskiller",
+                    "elo": 1388,
+                    "change": -16,
+                    "time": 753732,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713668884000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 1404,
+                    "change": -20,
+                    "time": 189012,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713668641000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1424,
+                    "change": -9,
+                    "time": 734182,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713667750000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Psemcovici",
                     "elo": 0,
                     "change": 0,
-                    "time": 365113,
+                    "time": 782543,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713666778000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "JackoWacko62",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 490897,
                     "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713665865000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "iKme_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 342290,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713665163000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Psemcovici",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 681061,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713664340000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "JMK0",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 726672,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "MCSRShaq": {
+            "uuid": "7d3a6bb9f62645ae80cf40840ca84c50",
+            "nickname": "MCSRShaq",
+            "matches": [
+                {
+                    "date": 1713679992000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1461,
+                    "change": -10,
+                    "time": 689090,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713679196000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Tenes9999",
+                    "elo": 1471,
+                    "change": -18,
+                    "time": 774366,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678306000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "doogile",
+                    "elo": 1489,
+                    "change": 32,
+                    "time": 652009,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677477000,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "rebup_a",
+                    "elo": 1457,
+                    "change": 19,
+                    "time": 443744,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676847000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "hackingnoises",
+                    "elo": 1438,
+                    "change": 25,
+                    "time": 628631,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676096000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "2nfiniteSix",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 572549,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674849000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "BedrockBaby42",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 711441,
+                    "forfeited": false,
                     "decayed": false
                 },
                 {
                     "date": 1713674083000,
                     "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "MCSRShaq",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
                     "elo": 0,
                     "change": 0,
                     "time": 560987,
@@ -2904,35 +3229,24 @@
                     "decayed": false
                 },
                 {
-                    "date": 1713673416000,
+                    "date": 1713673196000,
                     "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "nothumanbuilt",
+                    "result": "win",
+                    "opponent": "Danterus",
                     "elo": 0,
                     "change": 0,
-                    "time": 747209,
+                    "time": 578689,
                     "forfeited": false,
                     "decayed": false
                 },
                 {
-                    "date": 1713672427000,
-                    "type": "DESERT_TEMPLE",
+                    "date": 1713671664000,
+                    "type": "BURIED_TREASURE",
                     "result": "win",
-                    "opponent": "SirVyving",
+                    "opponent": "iinterp",
                     "elo": 0,
                     "change": 0,
-                    "time": 360319,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713671602000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1077266,
+                    "time": 1172207,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -3221,271 +3535,6 @@
                     "elo": 0,
                     "change": 0,
                     "time": 553396,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
-        "affordab1e": {
-            "uuid": "a81886565121479782d42408d94fe97d",
-            "nickname": "affordab1e",
-            "matches": [
-                {
-                    "date": 1713677762000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1446,
-                    "change": -19,
-                    "time": 330366,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677378000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "sanjinhu",
-                    "elo": 1465,
-                    "change": 19,
-                    "time": 799931,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676373000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "ParaF",
-                    "elo": 1446,
-                    "change": 18,
-                    "time": 749617,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713675484000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "BeefSalad",
-                    "elo": 1428,
-                    "change": 26,
-                    "time": 711439,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713670726000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "BlookyCookie",
-                    "elo": 1402,
-                    "change": 14,
-                    "time": 784456,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713669761000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1388,
-                    "change": -16,
-                    "time": 753732,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713668884000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1404,
-                    "change": -20,
-                    "time": 189012,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713668641000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1424,
-                    "change": -9,
-                    "time": 734182,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713667750000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 782543,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666778000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "JackoWacko62",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 490897,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665865000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "iKme_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 342290,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665163000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "Psemcovici",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 681061,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713664340000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "JMK0",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 726672,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        "rebup_a": {
-            "uuid": "34a781e4f5fd47ceb64626f79713af25",
-            "nickname": "rebup_a",
-            "matches": [
-                {
-                    "date": 1713678592000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "sanjinhu",
-                    "elo": 1440,
-                    "change": 20,
-                    "time": 216791,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713678322000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "kW1st",
-                    "elo": 1420,
-                    "change": 20,
-                    "time": 737477,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677477000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "MCSRShaq",
-                    "elo": 1400,
-                    "change": -19,
-                    "time": 443744,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676850000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "2nfiniteSix",
-                    "elo": 1419,
-                    "change": 19,
-                    "time": 107829,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676328000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1400,
-                    "change": 1,
-                    "time": 1089612,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713675164000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "sanjinhu",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 681814,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713674431000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "JackoWacko62",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 168786,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713674129000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "hugemoth",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 669526,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713673319000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Blankboi_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 822113,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713672451000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "saa1337",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 9599,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -3927,6 +3976,133 @@
                 }
             ]
         },
+        "rebup_a": {
+            "uuid": "34a781e4f5fd47ceb64626f79713af25",
+            "nickname": "rebup_a",
+            "matches": [
+                {
+                    "date": 1713679663000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 1424,
+                    "change": -16,
+                    "time": 855977,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678592000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "sanjinhu",
+                    "elo": 1440,
+                    "change": 20,
+                    "time": 216791,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678322000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "kW1st",
+                    "elo": 1420,
+                    "change": 20,
+                    "time": 737477,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677477000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "MCSRShaq",
+                    "elo": 1400,
+                    "change": -19,
+                    "time": 443744,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676850000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "2nfiniteSix",
+                    "elo": 1419,
+                    "change": 19,
+                    "time": 107829,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676328000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 1400,
+                    "change": 1,
+                    "time": 1089612,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713675164000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "sanjinhu",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 681814,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674431000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "JackoWacko62",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 168786,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674129000,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "hugemoth",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 669526,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713673319000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "Blankboi_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 822113,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713672451000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "saa1337",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 9599,
+                    "forfeited": true,
+                    "decayed": false
+                }
+            ]
+        },
         "Thuliumm": {
             "uuid": "8e6ad53c2b2841bf96d512d578ba30ae",
             "nickname": "Thuliumm",
@@ -4027,6 +4203,133 @@
                     "elo": 0,
                     "change": 0,
                     "time": 1037512,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "Djbakan": {
+            "uuid": "95fec3b724184836b6d19f5032569dd3",
+            "nickname": "Djbakan",
+            "matches": [
+                {
+                    "date": 1713679171000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "BlazeMind",
+                    "elo": 1399,
+                    "change": 19,
+                    "time": 881551,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678144000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "dandannyboy",
+                    "elo": 1380,
+                    "change": -15,
+                    "time": 888163,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677095000,
+                    "type": "RUINED_PORTAL",
+                    "result": "win",
+                    "opponent": "JackoWacko62",
+                    "elo": 1395,
+                    "change": 20,
+                    "time": 563985,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676463000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "iinterp",
+                    "elo": 1375,
+                    "change": 14,
+                    "time": 338009,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713675916000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "nothumanbuilt",
+                    "elo": 1361,
+                    "change": 19,
+                    "time": 1449241,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674402000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "sanjinhu",
+                    "elo": 1342,
+                    "change": -20,
+                    "time": 824594,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713673512000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "BlazeMind",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 1071017,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713672353000,
+                    "type": "VILLAGE",
+                    "result": "win",
+                    "opponent": "saa1337",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 1141147,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713671139000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "bth13",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 496875,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713670451000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "LEC666888",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 774648,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713669522000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "xttiantian",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 885214,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -4287,216 +4590,6 @@
                     "elo": 0,
                     "change": 0,
                     "time": 770004,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        "Djbakan": {
-            "uuid": "95fec3b724184836b6d19f5032569dd3",
-            "nickname": "Djbakan",
-            "matches": [
-                {
-                    "date": 1713678144000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1380,
-                    "change": -15,
-                    "time": 888163,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713677095000,
-                    "type": "RUINED_PORTAL",
-                    "result": "win",
-                    "opponent": "JackoWacko62",
-                    "elo": 1395,
-                    "change": 20,
-                    "time": 563985,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713676463000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "iinterp",
-                    "elo": 1375,
-                    "change": 14,
-                    "time": 338009,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713675916000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "nothumanbuilt",
-                    "elo": 1361,
-                    "change": 19,
-                    "time": 1449241,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713674402000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1342,
-                    "change": -20,
-                    "time": 824594,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713673512000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "BlazeMind",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1071017,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713672353000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "saa1337",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1141147,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713671139000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "bth13",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 496875,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713670451000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 774648,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713669522000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "xttiantian",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 885214,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        "shimuon": {
-            "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
-            "nickname": "shimuon",
-            "matches": [
-                {
-                    "date": 1713677658000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "xianyiyi",
-                    "elo": 1362,
-                    "change": -2,
-                    "time": 742013,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713671299000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "hugemoth",
-                    "elo": 1364,
-                    "change": 22,
-                    "time": 839904,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713670324000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1342,
-                    "change": -9,
-                    "time": 515362,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713668544000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "iKme_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 478124,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713667019000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Goobanator",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 811167,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666149000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 940987,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665032000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "olock5",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 421229,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713664522000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Burawoy",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1161075,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -4828,6 +4921,111 @@
                     "elo": 0,
                     "change": 0,
                     "time": 726753,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "shimuon": {
+            "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
+            "nickname": "shimuon",
+            "matches": [
+                {
+                    "date": 1713679128000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "affordab1e",
+                    "elo": 1345,
+                    "change": -17,
+                    "time": 1052444,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677658000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "xianyiyi",
+                    "elo": 1362,
+                    "change": -2,
+                    "time": 742013,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713671299000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "hugemoth",
+                    "elo": 1364,
+                    "change": 22,
+                    "time": 839904,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713670324000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1342,
+                    "change": -9,
+                    "time": 515362,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713668544000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "iKme_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 478124,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713667019000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "Goobanator",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 811167,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713666149000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Psemcovici",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 940987,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713665032000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "olock5",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 421229,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713664522000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Burawoy",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 1161075,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -5833,201 +6031,179 @@
                 }
             ]
         },
-        "_DrIvInGsNeEzE_": {
-            "uuid": "368bd33a74d04552aceaa2210db84643",
-            "nickname": "_DrIvInGsNeEzE_",
+        "BlazeMind": {
+            "uuid": "ac601ce7376f49cea7ce14cd577dac85",
+            "nickname": "BlazeMind",
             "matches": [
+                {
+                    "date": 1713679171000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Djbakan",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 881551,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713677815000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "HanoPower_",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 734782,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676940000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 982846,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674808000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "Rolerz",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 838373,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713673512000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Djbakan",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 1071017,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "hugemoth": {
+            "uuid": "b7b63180794d47c4b0703f1dfce18bb3",
+            "nickname": "hugemoth",
+            "matches": [
+                {
+                    "date": 1713679675000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "Morrier",
+                    "elo": 1297,
+                    "change": 17,
+                    "time": 877250,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713678667000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "kW1st",
+                    "elo": 1280,
+                    "change": 24,
+                    "time": 193523,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713676369000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Kiri_nitijou",
+                    "elo": 1256,
+                    "change": 19,
+                    "time": 748163,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713675573000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "_steamedbun",
+                    "elo": 1237,
+                    "change": -22,
+                    "time": 702129,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674717000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "mangrovejack",
+                    "elo": 1259,
+                    "change": -21,
+                    "time": 445295,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1713674129000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "rebup_a",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 669526,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1713673351000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "dUkMiG",
+                    "elo": 0,
+                    "change": 0,
+                    "time": 297129,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1713672845000,
                     "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "hugemoth",
-                    "elo": 1294,
-                    "change": 22,
+                    "result": "lost",
+                    "opponent": "_DrIvInGsNeEzE_",
+                    "elo": 0,
+                    "change": 0,
                     "time": 975350,
                     "forfeited": false,
                     "decayed": false
                 },
                 {
-                    "date": 1713671738000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "masa_ERC",
-                    "elo": 1272,
-                    "change": 19,
-                    "time": 862377,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713670653000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "dUkMiG",
-                    "elo": 1253,
-                    "change": 21,
-                    "time": 1554989,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713668977000,
-                    "type": "SHIPWRECK",
-                    "result": "win",
-                    "opponent": "Dukmig1337",
-                    "elo": 1232,
-                    "change": 16,
-                    "time": 993944,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713667865000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "SpectralThief",
-                    "elo": 1216,
-                    "change": -20,
-                    "time": 1270709,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666545000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "mangrovejack",
-                    "elo": 1236,
-                    "change": -1,
-                    "time": 495557,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665978000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "jackson2354",
-                    "elo": 1237,
-                    "change": 18,
-                    "time": 1102957,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713664663000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "Luminescents",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1129074,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713663315000,
+                    "date": 1713671815000,
                     "type": "SHIPWRECK",
                     "result": "lost",
-                    "opponent": "mangrovejack",
+                    "opponent": "ParaF",
                     "elo": 0,
                     "change": 0,
-                    "time": 855162,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713662309000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "win",
-                    "opponent": "nothumanbuilt",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 484787,
+                    "time": 470022,
                     "forfeited": true,
                     "decayed": false
                 },
                 {
-                    "date": 1713661635000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "wulpogg",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1544586,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713660036000,
-                    "type": "VILLAGE",
-                    "result": "win",
-                    "opponent": "MeowVic",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 893464,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
-        "SpectralThief": {
-            "uuid": "05463030a67f449ba47789724534c585",
-            "nickname": "SpectralThief",
-            "matches": [
-                {
-                    "date": 1713667865000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "_DrIvInGsNeEzE_",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 1270709,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713666345000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "olock5",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 737312,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1713665550000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "P3n9uin",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 870091,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713664609000,
+                    "date": 1713671299000,
                     "type": "SHIPWRECK",
                     "result": "lost",
-                    "opponent": "KeimaJirou",
+                    "opponent": "shimuon",
                     "elo": 0,
                     "change": 0,
-                    "time": 1080921,
+                    "time": 839904,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1713663442000,
-                    "type": "BURIED_TREASURE",
-                    "result": "win",
-                    "opponent": "DaBias2",
-                    "elo": 0,
-                    "change": 0,
-                    "time": 172940,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
