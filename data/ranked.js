@@ -1,5 +1,5 @@
 {
-    "date": 1713696018000,
+    "date": 1713696738000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1461,6 +1461,17 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "matches": [
+                {
+                    "date": 1713696590000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "furk1e",
+                    "elo": 1593,
+                    "change": 13,
+                    "time": 493112,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713695270000,
                     "type": "VILLAGE",
@@ -5318,6 +5329,17 @@
             "uuid": "7a03da006fb94b938f43ff63c3c844d8",
             "nickname": "Oceanico",
             "matches": [
+                {
+                    "date": 1713696742000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Kxpow",
+                    "elo": 1438,
+                    "change": -17,
+                    "time": 606253,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1713695990000,
                     "type": "SHIPWRECK",
