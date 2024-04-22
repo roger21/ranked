@@ -1,5 +1,5 @@
 {
-    "date": 1713796022000,
+    "date": 1713796814000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2406,6 +2406,18 @@
             "nickname": "BeefSalad",
             "matches": [
                 {
+                    "date": 1713796197000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "Boyenn",
+                    "elo": 1637,
+                    "change": 12,
+                    "time": 895508,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1713794989000,
                     "type": "SHIPWRECK",
                     "result": "win",
@@ -2794,7 +2806,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "hackingnoises",
-                    "elo": 1625,
+                    "elo": 1637,
                     "change": 0,
                     "time": 505920,
                     "forfeited": true,
@@ -2806,7 +2818,7 @@
                     "type": "VILLAGE",
                     "result": "lost",
                     "opponent": "affordab1e",
-                    "elo": 1625,
+                    "elo": 1637,
                     "change": 0,
                     "time": 711439,
                     "forfeited": false,
@@ -2818,7 +2830,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "lost",
                     "opponent": "MrBudgiee",
-                    "elo": 1625,
+                    "elo": 1637,
                     "change": 0,
                     "time": 676549,
                     "forfeited": false,
@@ -2830,7 +2842,7 @@
                     "type": "RUINED_PORTAL",
                     "result": "lost",
                     "opponent": "dandannyboy",
-                    "elo": 1625,
+                    "elo": 1637,
                     "change": 0,
                     "time": 734869,
                     "forfeited": false,
@@ -2842,7 +2854,7 @@
                     "type": "SHIPWRECK",
                     "result": "win",
                     "opponent": "BadGamer",
-                    "elo": 1625,
+                    "elo": 1637,
                     "change": 0,
                     "time": 576408,
                     "forfeited": true,
