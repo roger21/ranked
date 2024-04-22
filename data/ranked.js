@@ -1,5 +1,5 @@
 {
-    "date": 1713785653000,
+    "date": 1713786617000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8682,6 +8682,18 @@
             "nickname": "idwt_doanything",
             "matches": [
                 {
+                    "date": 1713785833000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "sountse",
+                    "elo": 1468,
+                    "change": -1,
+                    "time": 326153,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1713776572000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -8758,7 +8770,7 @@
                     "type": "DESERT_TEMPLE",
                     "result": "win",
                     "opponent": "ParaF",
-                    "elo": 1469,
+                    "elo": 1468,
                     "change": 0,
                     "time": 676527,
                     "forfeited": false,
@@ -8770,7 +8782,7 @@
                     "type": "VILLAGE",
                     "result": "lost",
                     "opponent": "thecamo6",
-                    "elo": 1469,
+                    "elo": 1468,
                     "change": 0,
                     "time": 559649,
                     "forfeited": false,
@@ -8782,7 +8794,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "lost",
                     "opponent": "WarioTime1",
-                    "elo": 1469,
+                    "elo": 1468,
                     "change": 0,
                     "time": 1050645,
                     "forfeited": false,
@@ -8794,7 +8806,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "lost",
                     "opponent": "BadGamer",
-                    "elo": 1469,
+                    "elo": 1468,
                     "change": 0,
                     "time": 620187,
                     "forfeited": false,
@@ -8806,7 +8818,7 @@
                     "type": "SHIPWRECK",
                     "result": "win",
                     "opponent": "JackoWacko62",
-                    "elo": 1469,
+                    "elo": 1468,
                     "change": 0,
                     "time": 553396,
                     "forfeited": true,
