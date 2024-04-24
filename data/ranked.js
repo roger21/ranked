@@ -1,5 +1,5 @@
 {
-    "date": 1713952300000,
+    "date": 1713953521000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -9072,6 +9072,18 @@
             "nickname": "megelimc",
             "matches": [
                 {
+                    "date": 1713953109000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "win",
+                    "opponent": "KaaziTheCreeper",
+                    "elo": 1568,
+                    "change": 13,
+                    "time": 706094,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1713951341000,
                     "type": "VILLAGE",
                     "result": "win",
@@ -9460,7 +9472,7 @@
                     "type": "VILLAGE",
                     "result": "lost",
                     "opponent": "iKme_",
-                    "elo": 1555,
+                    "elo": 1568,
                     "change": 0,
                     "time": 775838,
                     "forfeited": false,
@@ -9472,7 +9484,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "lost",
                     "opponent": "romuxii",
-                    "elo": 1555,
+                    "elo": 1568,
                     "change": 0,
                     "time": 834698,
                     "forfeited": false,
@@ -9484,7 +9496,7 @@
                     "type": "SHIPWRECK",
                     "result": "lost",
                     "opponent": "Ancoboyy",
-                    "elo": 1555,
+                    "elo": 1568,
                     "change": 0,
                     "time": 723580,
                     "forfeited": false,
@@ -9496,7 +9508,7 @@
                     "type": "DESERT_TEMPLE",
                     "result": "win",
                     "opponent": "gabboooz",
-                    "elo": 1555,
+                    "elo": 1568,
                     "change": 0,
                     "time": 728312,
                     "forfeited": false,
@@ -9508,7 +9520,7 @@
                     "type": "SHIPWRECK",
                     "result": "lost",
                     "opponent": "BeefSalad",
-                    "elo": 1555,
+                    "elo": 1568,
                     "change": 0,
                     "time": 748263,
                     "forfeited": false,
