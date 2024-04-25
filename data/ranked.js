@@ -1,5 +1,5 @@
 {
-    "date": 1714030278000,
+    "date": 1714030982000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -13314,6 +13314,18 @@
                     "placement": false
                 },
                 {
+                    "date": 1713668105000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "thecamo6",
+                    "elo": 1493,
+                    "change": -21,
+                    "time": 637220,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1713666222000,
                     "type": "SHIPWRECK",
                     "result": "lost",
@@ -13330,7 +13342,7 @@
                     "type": "SHIPWRECK",
                     "result": "lost",
                     "opponent": "Danterus",
-                    "elo": 1553,
+                    "elo": 1540,
                     "change": 0,
                     "time": 1128006,
                     "forfeited": false,
@@ -13342,7 +13354,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "silverrruns",
-                    "elo": 1553,
+                    "elo": 1540,
                     "change": 0,
                     "time": 1052260,
                     "forfeited": false,
@@ -13354,7 +13366,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "Ozi_MauthnerGHG",
-                    "elo": 1553,
+                    "elo": 1540,
                     "change": 0,
                     "time": 829189,
                     "forfeited": false,
@@ -13366,7 +13378,7 @@
                     "type": "VILLAGE",
                     "result": "lost",
                     "opponent": "v_strid",
-                    "elo": 1553,
+                    "elo": 1540,
                     "change": 0,
                     "time": 904355,
                     "forfeited": false,
@@ -13378,7 +13390,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "Ranik_",
-                    "elo": 1553,
+                    "elo": 1540,
                     "change": 0,
                     "time": 977070,
                     "forfeited": false,
