@@ -1,5 +1,5 @@
 {
-    "date": 1714213759000,
+    "date": 1714214464000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -14688,6 +14688,18 @@
             "nickname": "temp_gd",
             "matches": [
                 {
+                    "date": 1714213969000,
+                    "type": "SHIPWRECK",
+                    "result": "win",
+                    "opponent": "tommorerow",
+                    "elo": 1637,
+                    "change": 15,
+                    "time": 1243708,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1714156978000,
                     "type": "SHIPWRECK",
                     "result": "lost",
@@ -14824,7 +14836,7 @@
                     "type": "SHIPWRECK",
                     "result": "win",
                     "opponent": "ulsah1n",
-                    "elo": 1622,
+                    "elo": 1637,
                     "change": 0,
                     "time": 669780,
                     "forfeited": false,
@@ -14836,7 +14848,7 @@
                     "type": "RUINED_PORTAL",
                     "result": "lost",
                     "opponent": "BeefSalad",
-                    "elo": 1622,
+                    "elo": 1637,
                     "change": 0,
                     "time": 821198,
                     "forfeited": false,
@@ -14848,7 +14860,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "Lompleg",
-                    "elo": 1622,
+                    "elo": 1637,
                     "change": 0,
                     "time": 713077,
                     "forfeited": false,
@@ -14860,7 +14872,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "lost",
                     "opponent": "romuxii",
-                    "elo": 1622,
+                    "elo": 1637,
                     "change": 0,
                     "time": 873406,
                     "forfeited": false,
@@ -14872,7 +14884,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "7rowl",
-                    "elo": 1622,
+                    "elo": 1637,
                     "change": 0,
                     "time": 383658,
                     "forfeited": true,
