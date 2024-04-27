@@ -1,5 +1,5 @@
 {
-    "date": 1714234911000,
+    "date": 1714235644000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -17838,6 +17838,18 @@
             "nickname": "Oceanico",
             "matches": [
                 {
+                    "date": 1714235648000,
+                    "type": "BURIED_TREASURE",
+                    "result": "win",
+                    "opponent": "checkmate15",
+                    "elo": 1605,
+                    "change": 14,
+                    "time": 807377,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1714234119000,
                     "type": "VILLAGE",
                     "result": "win",
@@ -18418,7 +18430,7 @@
                     "type": "RUINED_PORTAL",
                     "result": "win",
                     "opponent": "KenanKardes",
-                    "elo": 1591,
+                    "elo": 1605,
                     "change": 0,
                     "time": 682652,
                     "forfeited": false,
@@ -18430,7 +18442,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "lost",
                     "opponent": "kW1st",
-                    "elo": 1591,
+                    "elo": 1605,
                     "change": 0,
                     "time": 740659,
                     "forfeited": false,
@@ -18442,7 +18454,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "hugemoth",
-                    "elo": 1591,
+                    "elo": 1605,
                     "change": 0,
                     "time": 1085207,
                     "forfeited": false,
@@ -18454,7 +18466,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "win",
                     "opponent": "KeimaJirou",
-                    "elo": 1591,
+                    "elo": 1605,
                     "change": 0,
                     "time": 715654,
                     "forfeited": false,
@@ -18466,7 +18478,7 @@
                     "type": "SHIPWRECK",
                     "result": "win",
                     "opponent": "Cornflakes267",
-                    "elo": 1591,
+                    "elo": 1605,
                     "change": 0,
                     "time": 759867,
                     "forfeited": false,
