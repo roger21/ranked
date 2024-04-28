@@ -5,6 +5,13 @@
 {
 
 
+  ini_set("error_reporting", "-1");
+  ini_set("display_errors", "1");
+  ini_set("display_startup_errors", "1");
+  ini_set("html_errors", "0");
+  ini_set("log_errors", "0");
+
+
   $max_players=50;
 
   $max_days=50;
@@ -103,7 +110,13 @@
 
   $data=["date" => $now, "players" => $pp];
 
-  file_put_contents("../data/current.js", json_encode($data, JSON_PRETTY_PRINT));
+  file_put_contents("../data/ranked.js", json_encode($data, JSON_PRETTY_PRINT));
+
+  echo "season ".$players["data"]["season"]["number"]."\n";
+
+  $season=["season" => $players["data"]["season"]["number"]];
+
+  file_put_contents("../data/season.js", json_encode($season, JSON_PRETTY_PRINT));
 
 
 }
