@@ -13,28 +13,31 @@
 
 
   $max_players=50;
-
   $max_days=50;
 
   $season="";
   $season_p="";
 
+  $now=((int)date("U")) * 1000;
   if($argc === 2 && isset($argv[1]) && ctype_digit($argv[1]) && $argv[1]){
     $season=$argv[1];
     $season_p="&season=$season";
+
     echo "season $season\n";
-  }
 
-  $leaderboard=file_get_contents("https://mcsrranked.com/api/leaderboard?lol$season_p");
+    $last_match=file_get_contents("https://mcsrranked.com/api/matches?page=0".
+                                  "&count=1type=2&includedecay$season_p");
+    $last_date=json_decode($last_match, true, 512, JSON_OBJECT_AS_ARRAY);
 
-  $players=json_decode($leaderboard, true, 512, JSON_OBJECT_AS_ARRAY);
-
-  if($season !== ""){
-    $now=((int)$players["data"]["season"]["endsAt"]) * 1000;
-  }else{
-    $now=((int)date("U")) * 1000;
+    $now=((int)$last_date["data"][0]["date"]) * 1000;
   }
   $past=$now - ($max_days * 24 * 60 * 60 * 1000);
+
+  echo "now $now\n";
+  echo "past $past\n";
+
+  $leaderboard=file_get_contents("https://mcsrranked.com/api/leaderboard?lol$season_p");
+  $players=json_decode($leaderboard, true, 512, JSON_OBJECT_AS_ARRAY);
 
   $pp=[];
   $cpt=0;
@@ -59,23 +62,18 @@
       unset($matches);
       $matches=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
                                  "matches?page=$page&count=50&type=2$season_p");
-
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
 
-      $cpt=0;
       foreach($mm["data"] as $m){
         $date=((int)$m["date"]) * 1000;
         $win=$m["result"] === null ? "elo decay" :
             ($m["result"]["uuid"] === null ? "draw" :
              ($m["result"]["uuid"] === $p["uuid"] ? "won" : "lost"));
         $opponent=null;
-        $finalelo=0;
         foreach($m["players"] as $player){
           if($player["uuid"] !== $p["uuid"]){
             $opponent=$player["nickname"];
-          }else{
-            $finalelo=$player["eloRate"];
           }
         }
         $elo=0;
@@ -87,12 +85,11 @@
             $elo=(int)$c["eloRate"] + $change;
             if($c["change"] === null || $c["eloRate"] === null){
               $placement=true;
-              $elo=$finalelo;
             }
             break;
           }
         }
-        if($date >= $past){
+        if($date >= $past && !$placement){
           $p["matches"][]=["date" => $date,
                            "type" => $m["seedType"],
                            "result"=> $win,
@@ -107,10 +104,6 @@
           $done=true;
           break;
         }
-        ++$cpt;
-      }
-      if($cpt < 50){
-        $done=true;
       }
       ++$page;
       if($page === 100){
@@ -118,19 +111,20 @@
       }
     }
 
-    echo "#".++$player_counter." ".$nick." ".count($p["matches"])." matches\n";
+    echo "#".++$player_counter." $nick ".count($p["matches"])." matches\n";
 
   }
 
   $data=["date" => $now, "players" => $pp];
-
   file_put_contents("../data/ranked{$season}.js", json_encode($data, JSON_PRETTY_PRINT));
 
   if($season === ""){
     $season=$players["data"]["season"]["number"];
     $season_j=["season" => $season];
     file_put_contents("../data/season.js", json_encode($season_j, JSON_PRETTY_PRINT));
+
     echo "season $season\n";
+
   }
 
 
