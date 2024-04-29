@@ -1,5 +1,5 @@
 {
-    "date": 1714371987000,
+    "date": 1714372848000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -26352,6 +26352,18 @@
             "nickname": "yeopgihoney",
             "matches": [
                 {
+                    "date": 1714372876000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "tommorerow",
+                    "elo": 1554,
+                    "change": -25,
+                    "time": 714040,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1714371947000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
@@ -26596,7 +26608,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "lost",
                     "opponent": "romuxii",
-                    "elo": 1579,
+                    "elo": 1554,
                     "change": 0,
                     "time": 568531,
                     "forfeited": true,
@@ -26608,7 +26620,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "won",
                     "opponent": "ItsSkyro",
-                    "elo": 1579,
+                    "elo": 1554,
                     "change": 0,
                     "time": 428495,
                     "forfeited": true,
@@ -26620,7 +26632,7 @@
                     "type": "VILLAGE",
                     "result": "lost",
                     "opponent": "Ancoboyy",
-                    "elo": 1579,
+                    "elo": 1554,
                     "change": 0,
                     "time": 808612,
                     "forfeited": false,
@@ -26632,7 +26644,7 @@
                     "type": "SHIPWRECK",
                     "result": "won",
                     "opponent": "Sadekeppi",
-                    "elo": 1579,
+                    "elo": 1554,
                     "change": 0,
                     "time": 708605,
                     "forfeited": false,
@@ -26644,7 +26656,7 @@
                     "type": "BURIED_TREASURE",
                     "result": "won",
                     "opponent": "gabboooz",
-                    "elo": 1579,
+                    "elo": 1554,
                     "change": 0,
                     "time": 837247,
                     "forfeited": false,
