@@ -1,5 +1,5 @@
 {
-    "date": 1714498229000,
+    "date": 1714498930000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -17820,6 +17820,18 @@
             "nickname": "TUDORULE",
             "matches": [
                 {
+                    "date": 1714498565000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "Finnitz",
+                    "elo": 1656,
+                    "change": -1,
+                    "time": 811426,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1714497505000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -30955,40 +30967,22 @@
                 }
             ]
         },
-        "xLourx": {
-            "uuid": "0d8d4d3d7d524b85a93534283f0c9498",
-            "nickname": "xLourx",
-            "matches": [
-                {
-                    "date": 1714479101000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1546,
-                    "change": 24,
-                    "time": 753124,
-                    "forfeited": false,
-                    "decayed": false,
-                    "placement": false
-                },
-                {
-                    "date": 1714477905000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "alphaboy98",
-                    "elo": 1522,
-                    "change": 17,
-                    "time": 977427,
-                    "forfeited": false,
-                    "decayed": false,
-                    "placement": false
-                }
-            ]
-        },
         "Finnitz": {
             "uuid": "fdff6a3e88054664974dbcd30583fe81",
             "nickname": "Finnitz",
             "matches": [
+                {
+                    "date": 1714498565000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "TUDORULE",
+                    "elo": 1547,
+                    "change": 1,
+                    "time": 811426,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714497625000,
                     "type": "DESERT_TEMPLE",
@@ -31369,6 +31363,36 @@
                     "elo": 1462,
                     "change": 19,
                     "time": 1029966,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                }
+            ]
+        },
+        "xLourx": {
+            "uuid": "0d8d4d3d7d524b85a93534283f0c9498",
+            "nickname": "xLourx",
+            "matches": [
+                {
+                    "date": 1714479101000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 1546,
+                    "change": 24,
+                    "time": 753124,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
+                    "date": 1714477905000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "alphaboy98",
+                    "elo": 1522,
+                    "change": 17,
+                    "time": 977427,
                     "forfeited": false,
                     "decayed": false,
                     "placement": false
