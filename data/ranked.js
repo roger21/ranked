@@ -1,5 +1,5 @@
 {
-    "date": 1714624329000,
+    "date": 1714625036000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10001,6 +10001,18 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "matches": [
+                {
+                    "date": 1714624552000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "itsnahan",
+                    "elo": 1754,
+                    "change": 12,
+                    "time": 843746,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714623482000,
                     "type": "BURIED_TREASURE",
