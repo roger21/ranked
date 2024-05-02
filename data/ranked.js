@@ -1,5 +1,5 @@
 {
-    "date": 1714636454000,
+    "date": 1714638277000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -29853,7 +29853,7 @@
                     "date": 1714364564000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "Agrius__",
+                    "opponent": "Hemera___",
                     "elo": 1581,
                     "change": 13,
                     "time": 727932,
