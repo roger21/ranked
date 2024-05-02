@@ -1,5 +1,5 @@
 {
-    "date": 1714654624000,
+    "date": 1714656025000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -21377,6 +21377,18 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "matches": [
+                {
+                    "date": 1714656034000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Haid_",
+                    "elo": 1705,
+                    "change": 12,
+                    "time": 637360,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714650433000,
                     "type": "BURIED_TREASURE",
