@@ -1,5 +1,5 @@
 {
-    "date": 1714740953000,
+    "date": 1714742586000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -26255,6 +26255,18 @@
             "uuid": "878a61e32b2b4a30bfab364820bf079c",
             "nickname": "Japonk86",
             "matches": [
+                {
+                    "date": 1714742591000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "idwt_doanything",
+                    "elo": 1595,
+                    "change": -23,
+                    "time": 925730,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714659066000,
                     "type": "BURIED_TREASURE",
