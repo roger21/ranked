@@ -1,5 +1,5 @@
 {
-    "date": 1714720676000,
+    "date": 1714721422000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -7883,6 +7883,18 @@
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "nickname": "hackingnoises",
             "matches": [
+                {
+                    "date": 1714720931000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "BeefSalad",
+                    "elo": 1813,
+                    "change": -2,
+                    "time": 486028,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714719199000,
                     "type": "DESERT_TEMPLE",
@@ -25085,6 +25097,18 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "matches": [
+                {
+                    "date": 1714720931000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "hackingnoises",
+                    "elo": 1631,
+                    "change": 2,
+                    "time": 486028,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714720336000,
                     "type": "BURIED_TREASURE",
