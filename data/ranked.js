@@ -1,5 +1,5 @@
 {
-    "date": 1714932812000,
+    "date": 1714933798000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -28577,6 +28577,18 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "mcsr_lebron",
             "matches": [
+                {
+                    "date": 1714933205000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "Japonk86",
+                    "elo": 1629,
+                    "change": -1,
+                    "time": 670122,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714931863000,
                     "type": "BURIED_TREASURE",
