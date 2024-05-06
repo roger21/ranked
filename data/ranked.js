@@ -1,5 +1,5 @@
 {
-    "date": 1714992117000,
+    "date": 1714992836000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -16524,6 +16524,18 @@
             "nickname": "HDMICables",
             "matches": [
                 {
+                    "date": 1714992832000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "retropog",
+                    "elo": 1784,
+                    "change": 18,
+                    "time": 683468,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1714989280000,
                     "type": "SHIPWRECK",
                     "result": "won",
@@ -22337,6 +22349,18 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1714992832000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "HDMICables",
+                    "elo": 1693,
+                    "change": -18,
+                    "time": 683468,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1714992081000,
                     "type": "BURIED_TREASURE",
