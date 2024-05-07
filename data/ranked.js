@@ -1,5 +1,5 @@
 {
-    "date": 1715122824000,
+    "date": 1715123852000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2417,6 +2417,18 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1715123472000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Haid_",
+                    "elo": 1958,
+                    "change": 8,
+                    "time": 782301,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715122488000,
                     "type": "VILLAGE",
@@ -53141,6 +53153,18 @@
             "uuid": "8999a17f4ba84969bbddd81c7fa78fb1",
             "nickname": "Haid_",
             "matches": [
+                {
+                    "date": 1715123472000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 1560,
+                    "change": -8,
+                    "time": 782301,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715122464000,
                     "type": "BURIED_TREASURE",
