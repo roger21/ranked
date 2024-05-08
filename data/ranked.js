@@ -1,5 +1,5 @@
 {
-    "date": 1715161220000,
+    "date": 1715161930000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2609,6 +2609,18 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1715161895000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1906,
+                    "change": -24,
+                    "time": 594882,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715161114000,
                     "type": "BURIED_TREASURE",
@@ -14658,6 +14670,30 @@
             "nickname": "BeefSalad",
             "matches": [
                 {
+                    "date": 1715161895000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "lowk3y_",
+                    "elo": 1835,
+                    "change": 24,
+                    "time": 594882,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
+                    "date": 1715161252000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "hackingnoises",
+                    "elo": 1811,
+                    "change": -22,
+                    "time": 962856,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1715158132000,
                     "type": "SHIPWRECK",
                     "result": "lost",
@@ -20195,6 +20231,18 @@
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "nickname": "hackingnoises",
             "matches": [
+                {
+                    "date": 1715161252000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 1799,
+                    "change": 22,
+                    "time": 962856,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715160172000,
                     "type": "BURIED_TREASURE",
