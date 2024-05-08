@@ -1,5 +1,5 @@
 {
-    "date": 1715157629000,
+    "date": 1715158349000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2609,6 +2609,18 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1715158132000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 1936,
+                    "change": 18,
+                    "time": 752315,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715157333000,
                     "type": "BURIED_TREASURE",
@@ -14609,6 +14621,18 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "matches": [
+                {
+                    "date": 1715158132000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 1833,
+                    "change": -18,
+                    "time": 752315,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715156490000,
                     "type": "SHIPWRECK",
@@ -34025,6 +34049,18 @@
             "uuid": "3910d98bea254b488a10d6e91e469f7e",
             "nickname": "dwoh",
             "matches": [
+                {
+                    "date": 1715157969000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1643,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true,
+                    "placement": false
+                },
                 {
                     "date": 1714553132000,
                     "type": "BURIED_TREASURE",
