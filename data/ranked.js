@@ -1,5 +1,5 @@
 {
-    "date": 1715283015000,
+    "date": 1715283709000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -19775,6 +19775,18 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1715283539000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "_loro1",
+                    "elo": 1776,
+                    "change": 13,
+                    "time": 590384,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715270653000,
                     "type": "SHIPWRECK",
