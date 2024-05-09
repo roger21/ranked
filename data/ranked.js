@@ -1,5 +1,5 @@
 {
-    "date": 1715276425000,
+    "date": 1715277119000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -37451,6 +37451,18 @@
             "uuid": "0b863352af474dd389ec64e9eb1a38c0",
             "nickname": "90Tom",
             "matches": [
+                {
+                    "date": 1715277133000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "romuxii",
+                    "elo": 1630,
+                    "change": -24,
+                    "time": 685170,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715275704000,
                     "type": "DESERT_TEMPLE",
