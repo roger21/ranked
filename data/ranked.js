@@ -1,5 +1,5 @@
 {
-    "date": 1715244854000,
+    "date": 1715246457000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -17874,6 +17874,18 @@
             "nickname": "hackingnoises",
             "matches": [
                 {
+                    "date": 1715246470000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "retropog",
+                    "elo": 1804,
+                    "change": 19,
+                    "time": 636339,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1715241759000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
@@ -22997,6 +23009,18 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1715246470000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "hackingnoises",
+                    "elo": 1744,
+                    "change": -19,
+                    "time": 636339,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715169072000,
                     "type": "BURIED_TREASURE",
