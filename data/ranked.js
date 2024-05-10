@@ -1,5 +1,5 @@
 {
-    "date": 1715338203000,
+    "date": 1715339256000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -6563,6 +6563,18 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "matches": [
+                {
+                    "date": 1715338894000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "Ranik_",
+                    "elo": 1946,
+                    "change": 11,
+                    "time": 680834,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715179415000,
                     "type": "SHIPWRECK",
@@ -30791,6 +30803,18 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "matches": [
+                {
+                    "date": 1715338894000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 1670,
+                    "change": -11,
+                    "time": 680834,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715193922000,
                     "type": "VILLAGE",
