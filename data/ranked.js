@@ -1,5 +1,5 @@
 {
-    "date": 1715514626000,
+    "date": 1715516111000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -50309,6 +50309,18 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "matches": [
+                {
+                    "date": 1715515088000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "Cornflakes267",
+                    "elo": 1629,
+                    "change": -1,
+                    "time": 645015,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715514042000,
                     "type": "RUINED_PORTAL",
