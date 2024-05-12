@@ -1,5 +1,5 @@
 {
-    "date": 1715489685000,
+    "date": 1715491249000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -15677,6 +15677,18 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1715490251000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "WarioTime1",
+                    "elo": 1802,
+                    "change": 12,
+                    "time": 715559,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715489123000,
                     "type": "SHIPWRECK",
