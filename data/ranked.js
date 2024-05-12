@@ -1,5 +1,5 @@
 {
-    "date": 1715495174000,
+    "date": 1715496015000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -31715,6 +31715,18 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "matches": [
+                {
+                    "date": 1715495531000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1734,
+                    "change": -5,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true,
+                    "placement": false
+                },
                 {
                     "date": 1714890719000,
                     "type": "RUINED_PORTAL",
