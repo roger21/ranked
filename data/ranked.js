@@ -1,5 +1,5 @@
 {
-    "date": 1715507534000,
+    "date": 1715508659000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -51990,6 +51990,18 @@
             "nickname": "tommorerow",
             "matches": [
                 {
+                    "date": 1715508698000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "drx6",
+                    "elo": 1601,
+                    "change": -20,
+                    "time": 855188,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1715151443000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
@@ -61055,6 +61067,30 @@
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "matches": [
+                {
+                    "date": 1715508698000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "tommorerow",
+                    "elo": 1637,
+                    "change": 20,
+                    "time": 855188,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
+                    "date": 1715507628000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "agoc",
+                    "elo": 1617,
+                    "change": 15,
+                    "time": 562103,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715506900000,
                     "type": "DESERT_TEMPLE",
