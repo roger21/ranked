@@ -1,5 +1,5 @@
 {
-    "date": 1715509671000,
+    "date": 1715510400000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -59783,6 +59783,18 @@
             "uuid": "0388b80ebe6c4216b4a8305c0cd27894",
             "nickname": "tommorerow",
             "matches": [
+                {
+                    "date": 1715509912000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "isqqcle",
+                    "elo": 1616,
+                    "change": 15,
+                    "time": 614212,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715508698000,
                     "type": "RUINED_PORTAL",
