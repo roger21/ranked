@@ -1,5 +1,5 @@
 {
-    "date": 1715488973000,
+    "date": 1715489685000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2063,6 +2063,18 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "matches": [
+                {
+                    "date": 1715489123000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "silverrruns",
+                    "elo": 2092,
+                    "change": 11,
+                    "time": 575941,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715485226000,
                     "type": "BURIED_TREASURE",
@@ -15665,6 +15677,18 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1715489123000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1790,
+                    "change": -11,
+                    "time": 575941,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715152347000,
                     "type": "SHIPWRECK",
