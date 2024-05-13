@@ -1,5 +1,5 @@
 {
-    "date": 1715634513000,
+    "date": 1715635456000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -59160,6 +59160,18 @@
             "nickname": "Finnitz",
             "matches": [
                 {
+                    "date": 1715634619000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "Waluyoshi",
+                    "elo": 1599,
+                    "change": 0,
+                    "time": 762638,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1715633242000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
@@ -64745,6 +64757,30 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "matches": [
+                {
+                    "date": 1715635510000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "v_strid",
+                    "elo": 1619,
+                    "change": 30,
+                    "time": 642719,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
+                    "date": 1715634619000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "Finnitz",
+                    "elo": 1589,
+                    "change": 0,
+                    "time": 762638,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715565739000,
                     "type": "SHIPWRECK",
