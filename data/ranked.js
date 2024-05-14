@@ -1,5 +1,5 @@
 {
-    "date": 1715720818000,
+    "date": 1715721727000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -62196,6 +62196,18 @@
             "nickname": "Waluyoshi",
             "matches": [
                 {
+                    "date": 1715721727000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "Haid_",
+                    "elo": 1597,
+                    "change": -21,
+                    "time": 1018423,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1715720608000,
                     "type": "SHIPWRECK",
                     "result": "won",
@@ -68435,6 +68447,18 @@
             "uuid": "8999a17f4ba84969bbddd81c7fa78fb1",
             "nickname": "Haid_",
             "matches": [
+                {
+                    "date": 1715721727000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "Waluyoshi",
+                    "elo": 1625,
+                    "change": 21,
+                    "time": 1018423,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715720658000,
                     "type": "BURIED_TREASURE",
