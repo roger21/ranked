@@ -1,5 +1,5 @@
 {
-    "date": 1715658617000,
+    "date": 1715659788000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -2063,6 +2063,18 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "matches": [
+                {
+                    "date": 1715659754000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "ColeTM",
+                    "elo": 2050,
+                    "change": 7,
+                    "time": 699824,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715656103000,
                     "type": "DESERT_TEMPLE",
