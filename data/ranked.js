@@ -1,5 +1,5 @@
 {
-    "date": 1715855411000,
+    "date": 1715856125000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -79651,6 +79651,48 @@
                 }
             ]
         },
+        "SuperC_": {
+            "uuid": "27d9f6941c4c4217a58e87dfe6157828",
+            "nickname": "SuperC_",
+            "matches": [
+                {
+                    "date": 1715855607000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "meowrisa73",
+                    "elo": 1614,
+                    "change": 16,
+                    "time": 304422,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
+                    "date": 1715855170000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "ulsah1n",
+                    "elo": 1598,
+                    "change": -16,
+                    "time": 960542,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
+                    "date": 1715854022000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "TapL",
+                    "elo": 1614,
+                    "change": 20,
+                    "time": 712093,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                }
+            ]
+        },
         "itsnahan": {
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "itsnahan",
@@ -85201,36 +85243,6 @@
                     "elo": 1394,
                     "change": 29,
                     "time": 705785,
-                    "forfeited": false,
-                    "decayed": false,
-                    "placement": false
-                }
-            ]
-        },
-        "SuperC_": {
-            "uuid": "27d9f6941c4c4217a58e87dfe6157828",
-            "nickname": "SuperC_",
-            "matches": [
-                {
-                    "date": 1715855170000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1598,
-                    "change": -16,
-                    "time": 960542,
-                    "forfeited": false,
-                    "decayed": false,
-                    "placement": false
-                },
-                {
-                    "date": 1715854022000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "TapL",
-                    "elo": 1614,
-                    "change": 20,
-                    "time": 712093,
                     "forfeited": false,
                     "decayed": false,
                     "placement": false
