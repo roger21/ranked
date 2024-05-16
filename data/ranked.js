@@ -1,5 +1,5 @@
 {
-    "date": 1715837578000,
+    "date": 1715838292000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -27929,6 +27929,18 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1715838297000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "itsnahan",
+                    "elo": 1813,
+                    "change": 13,
+                    "time": 546077,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715837225000,
                     "type": "SHIPWRECK",
@@ -79523,6 +79535,18 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "itsnahan",
             "matches": [
+                {
+                    "date": 1715838297000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1597,
+                    "change": -13,
+                    "time": 546077,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715832149000,
                     "type": "DESERT_TEMPLE",
