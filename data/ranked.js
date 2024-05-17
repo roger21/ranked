@@ -1,5 +1,5 @@
 {
-    "date": 1715923357000,
+    "date": 1715924277000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -21677,6 +21677,18 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "matches": [
+                {
+                    "date": 1715924296000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "itsnahan",
+                    "elo": 1844,
+                    "change": 13,
+                    "time": 763564,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715844289000,
                     "type": "RUINED_PORTAL",
@@ -86741,6 +86753,18 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "itsnahan",
             "matches": [
+                {
+                    "date": 1715924296000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1607,
+                    "change": -13,
+                    "time": 763564,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715923333000,
                     "type": "SHIPWRECK",
