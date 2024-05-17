@@ -1,5 +1,5 @@
 {
-    "date": 1715964269000,
+    "date": 1715965227000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -74789,6 +74789,18 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "matches": [
+                {
+                    "date": 1715965290000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "romuxii",
+                    "elo": 1677,
+                    "change": 13,
+                    "time": 941845,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715964091000,
                     "type": "BURIED_TREASURE",
