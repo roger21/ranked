@@ -1,5 +1,5 @@
 {
-    "date": 1715974220000,
+    "date": 1715974936000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -49547,6 +49547,18 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "matches": [
+                {
+                    "date": 1715974940000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "v4lenXD",
+                    "elo": 1694,
+                    "change": -28,
+                    "time": 693669,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715973834000,
                     "type": "BURIED_TREASURE",
