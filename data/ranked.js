@@ -1,5 +1,5 @@
 {
-    "date": 1716052155000,
+    "date": 1716053134000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -64146,6 +64146,18 @@
             "nickname": "90Tom",
             "matches": [
                 {
+                    "date": 1716053145000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1651,
+                    "change": -21,
+                    "time": 692958,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1716052132000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
@@ -79601,6 +79613,18 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "matches": [
+                {
+                    "date": 1716053145000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "90Tom",
+                    "elo": 1665,
+                    "change": 21,
+                    "time": 692958,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716051845000,
                     "type": "SHIPWRECK",
