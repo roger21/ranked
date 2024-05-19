@@ -1,5 +1,5 @@
 {
-    "date": 1716086497000,
+    "date": 1716087209000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -57725,6 +57725,18 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "itsnahan",
             "matches": [
+                {
+                    "date": 1716087006000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "Severe_wint3r",
+                    "elo": 1703,
+                    "change": -2,
+                    "time": 653598,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716085923000,
                     "type": "RUINED_PORTAL",
