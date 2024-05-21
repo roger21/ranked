@@ -1,5 +1,5 @@
 {
-    "date": 1716334809000,
+    "date": 1716335524000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -62994,6 +62994,18 @@
             "nickname": "Javierixmon",
             "matches": [
                 {
+                    "date": 1716335542000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "v4lenXD",
+                    "elo": 1732,
+                    "change": 18,
+                    "time": 655006,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1716334715000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
@@ -90641,6 +90653,18 @@
             "uuid": "5f4e1b4455fc427b888aed4d0e6d004f",
             "nickname": "v4lenXD",
             "matches": [
+                {
+                    "date": 1716335542000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Javierixmon",
+                    "elo": 1645,
+                    "change": -18,
+                    "time": 655006,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716334481000,
                     "type": "BURIED_TREASURE",
