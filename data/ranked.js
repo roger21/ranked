@@ -1,5 +1,5 @@
 {
-    "date": 1716304353000,
+    "date": 1716305270000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4001,6 +4001,18 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "matches": [
+                {
+                    "date": 1716305177000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "romuxii",
+                    "elo": 1993,
+                    "change": 8,
+                    "time": 649925,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716302875000,
                     "type": "BURIED_TREASURE",
