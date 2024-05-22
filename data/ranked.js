@@ -1,5 +1,5 @@
 {
-    "date": 1716374560000,
+    "date": 1716375285000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -81069,7 +81069,7 @@
                     "date": 1714712820000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "NinJiaTao",
+                    "opponent": "WoShiXiaWen",
                     "elo": 1400,
                     "change": 16,
                     "time": 167142,
@@ -99831,7 +99831,7 @@
                     "date": 1715245242000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "NinJiaTao",
+                    "opponent": "WoShiXiaWen",
                     "elo": 1474,
                     "change": 18,
                     "time": 670640,
@@ -105735,7 +105735,7 @@
                     "date": 1714919013000,
                     "type": "SHIPWRECK",
                     "result": "lost",
-                    "opponent": "NinJiaTao",
+                    "opponent": "WoShiXiaWen",
                     "elo": 1338,
                     "change": -21,
                     "time": 416074,
