@@ -1,5 +1,5 @@
 {
-    "date": 1716356415000,
+    "date": 1716357134000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -74898,6 +74898,18 @@
             "nickname": "thecamo6",
             "matches": [
                 {
+                    "date": 1716356637000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "big_pizu",
+                    "elo": 1694,
+                    "change": 0,
+                    "time": 716963,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
+                {
                     "date": 1716353522000,
                     "type": "VILLAGE",
                     "result": "won",
@@ -80345,6 +80357,18 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "big_pizu",
             "matches": [
+                {
+                    "date": 1716356637000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "thecamo6",
+                    "elo": 1677,
+                    "change": 0,
+                    "time": 716963,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1715883369000,
                     "type": "RUINED_PORTAL",
