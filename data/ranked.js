@@ -1,5 +1,5 @@
 {
-    "date": 1716439219000,
+    "date": 1716439923000,
     "players": {
         "bing_pigs": {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -44189,6 +44189,18 @@
             "uuid": "9c724d7793094a76a8bc9d30f397df92",
             "nickname": "Javierixmon",
             "matches": [
+                {
+                    "date": 1716439943000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "doogile",
+                    "elo": 1844,
+                    "change": 26,
+                    "time": 859153,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716438970000,
                     "type": "SHIPWRECK",
