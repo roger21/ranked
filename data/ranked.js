@@ -1,5 +1,5 @@
 {
-    "date": 1716507622000,
+    "date": 1716508351000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -86759,6 +86759,18 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "sockmonkey747",
             "matches": [
+                {
+                    "date": 1716508409000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "wethr",
+                    "elo": 1676,
+                    "change": 13,
+                    "time": 900964,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716506884000,
                     "type": "BURIED_TREASURE",
