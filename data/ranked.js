@@ -1,5 +1,5 @@
 {
-    "date": 1716477153000,
+    "date": 1716478078000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1979,6 +1979,18 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1716477883000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "tommorerow",
+                    "elo": 2043,
+                    "change": 8,
+                    "time": 615257,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716476563000,
                     "type": "SHIPWRECK",
