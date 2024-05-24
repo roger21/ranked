@@ -1,5 +1,5 @@
 {
-    "date": 1716560912000,
+    "date": 1716561623000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2183,6 +2183,18 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "matches": [
+                {
+                    "date": 1716561415000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "k4yfour",
+                    "elo": 2125,
+                    "change": 6,
+                    "time": 611516,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716558873000,
                     "type": "VILLAGE",
