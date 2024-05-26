@@ -1,5 +1,5 @@
 {
-    "date": 1716719545000,
+    "date": 1716720267000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -99377,6 +99377,18 @@
             "uuid": "627c399d0d0c49318905bac47287d4a3",
             "nickname": "k4yfour",
             "matches": [
+                {
+                    "date": 1716720290000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "iKme_",
+                    "elo": 1659,
+                    "change": 17,
+                    "time": 816690,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716718850000,
                     "type": "SHIPWRECK",
