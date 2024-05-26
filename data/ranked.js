@@ -1,5 +1,5 @@
 {
-    "date": 1716729604000,
+    "date": 1716730391000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -80759,6 +80759,18 @@
             "uuid": "ba31689fe7d24431bf7997a52efcc21c",
             "nickname": "meebie",
             "matches": [
+                {
+                    "date": 1716730426000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "Winstonein",
+                    "elo": 1672,
+                    "change": -25,
+                    "time": 345140,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716644530000,
                     "type": "BURIED_TREASURE",
