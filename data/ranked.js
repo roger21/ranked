@@ -1,5 +1,5 @@
 {
-    "date": 1716823820000,
+    "date": 1716824527000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -98231,6 +98231,18 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "JoomzMonkey",
             "matches": [
+                {
+                    "date": 1716824594000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "Japonk86",
+                    "elo": 1667,
+                    "change": 15,
+                    "time": 842063,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716823611000,
                     "type": "BURIED_TREASURE",
