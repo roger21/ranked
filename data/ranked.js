@@ -1,5 +1,5 @@
 {
-    "date": 1716932406000,
+    "date": 1716933126000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -92201,6 +92201,18 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "matches": [
+                {
+                    "date": 1716933192000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Shrike271",
+                    "elo": 1687,
+                    "change": 14,
+                    "time": 694159,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716930945000,
                     "type": "RUINED_PORTAL",
