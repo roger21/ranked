@@ -1,5 +1,5 @@
 {
-    "date": 1716869902000,
+    "date": 1716871053000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -66305,6 +66305,18 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "matches": [
+                {
+                    "date": 1716871070000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "itsnahan",
+                    "elo": 1740,
+                    "change": 16,
+                    "time": 741685,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716869692000,
                     "type": "SHIPWRECK",
