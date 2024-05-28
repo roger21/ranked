@@ -1,5 +1,5 @@
 {
-    "date": 1716874826000,
+    "date": 1716875539000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -89657,6 +89657,18 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "matches": [
+                {
+                    "date": 1716875627000,
+                    "type": "VILLAGE",
+                    "result": "draw",
+                    "opponent": "itsnahan",
+                    "elo": 1684,
+                    "change": -2,
+                    "time": 808308,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716874476000,
                     "type": "DESERT_TEMPLE",
