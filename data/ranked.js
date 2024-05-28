@@ -1,5 +1,5 @@
 {
-    "date": 1716871830000,
+    "date": 1716872935000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -48965,6 +48965,18 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "matches": [
+                {
+                    "date": 1716872944000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "JackoWacko62",
+                    "elo": 1774,
+                    "change": 14,
+                    "time": 1020299,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716871774000,
                     "type": "DESERT_TEMPLE",
