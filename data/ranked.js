@@ -1,5 +1,5 @@
 {
-    "date": 1716971506000,
+    "date": 1716972210000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -85583,6 +85583,18 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "matches": [
+                {
+                    "date": 1716972275000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "drx6",
+                    "elo": 1669,
+                    "change": -25,
+                    "time": 731788,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716971415000,
                     "type": "BURIED_TREASURE",
