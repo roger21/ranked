@@ -1,5 +1,5 @@
 {
-    "date": 1716965421000,
+    "date": 1716966528000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -57989,6 +57989,18 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "Priffin",
             "matches": [
+                {
+                    "date": 1716965708000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "BlazeMind",
+                    "elo": 1747,
+                    "change": -3,
+                    "time": 510126,
+                    "forfeited": true,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716963999000,
                     "type": "SHIPWRECK",
