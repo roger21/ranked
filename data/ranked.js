@@ -1,5 +1,5 @@
 {
-    "date": 1716968205000,
+    "date": 1716969027000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -10509,7 +10509,7 @@
                     "date": 1714300133000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
-                    "opponent": "4drian__",
+                    "opponent": "EERRMM",
                     "elo": 1533,
                     "change": 14,
                     "time": 415023,
