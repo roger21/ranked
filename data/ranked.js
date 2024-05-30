@@ -1,5 +1,5 @@
 {
-    "date": 1717077152000,
+    "date": 1717078354000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -63551,6 +63551,18 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "Priffin",
             "matches": [
+                {
+                    "date": 1717077802000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "Starchomper",
+                    "elo": 1744,
+                    "change": 12,
+                    "time": 638556,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1717075964000,
                     "type": "BURIED_TREASURE",
