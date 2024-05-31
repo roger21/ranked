@@ -1,5 +1,5 @@
 {
-    "date": 1717143267000,
+    "date": 1717144404000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -57891,7 +57891,7 @@
                     "date": 1713947947000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "ToiYeuMeBan_VN",
+                    "opponent": "BacHoShiMing_VN",
                     "elo": 1437,
                     "change": 17,
                     "time": 412451,
