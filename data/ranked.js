@@ -1,5 +1,5 @@
 {
-    "date": 1717152178000,
+    "date": 1717152898000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4865,6 +4865,18 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "matches": [
+                {
+                    "date": 1717152302000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 2062,
+                    "change": 10,
+                    "time": 623550,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1716807354000,
                     "type": "BURIED_TREASURE",
@@ -64181,6 +64193,18 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "matches": [
+                {
+                    "date": 1717152302000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1733,
+                    "change": -10,
+                    "time": 623550,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1717080859000,
                     "type": "DESERT_TEMPLE",
