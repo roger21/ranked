@@ -1,5 +1,5 @@
 {
-    "date": 1717159105000,
+    "date": 1717160278000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -48881,6 +48881,18 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "matches": [
+                {
+                    "date": 1717159846000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "romuxii",
+                    "elo": 1791,
+                    "change": 13,
+                    "time": 686686,
+                    "forfeited": false,
+                    "decayed": false,
+                    "placement": false
+                },
                 {
                     "date": 1717157565000,
                     "type": "RUINED_PORTAL",
