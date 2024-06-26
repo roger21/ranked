@@ -78,6 +78,8 @@
         }
         $elo=0;
         $change=0;
+        $oelo=0;
+        $ochange=0;
         $placement=false;
         foreach($m["changes"] as $c){
           if($c["uuid"] === $p["uuid"]){
@@ -86,7 +88,9 @@
             if($c["change"] === null || $c["eloRate"] === null){
               $placement=true;
             }
-            break;
+          }else{
+            $ochange=(int)$c["change"];
+            $oelo=(int)$c["eloRate"] + $ochange;
           }
         }
         if($date >= $past && !$placement){
@@ -96,10 +100,11 @@
                            "opponent" => $opponent,
                            "elo" => $elo,
                            "change" => $change,
+                           "oelo" => $oelo,
+                           "ochange" => $ochange,
                            "time" => $m["result"] === null ? 0 : $m["result"]["time"],
                            "forfeited" => $m["forfeited"],
-                           "decayed" => $m["decayed"],
-                           "placement" => $placement,];
+                           "decayed" => $m["decayed"],];
         }else{
           $done=true;
           break;
