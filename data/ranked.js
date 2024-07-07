@@ -1,5 +1,5 @@
 {
-    "date": 1720395633000,
+    "date": 1720396344000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -90542,19 +90542,6 @@
                     "oelo": 1536,
                     "ochange": 22,
                     "time": 784926,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716075766000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Waluyoshi",
-                    "elo": 1564,
-                    "change": -18,
-                    "oelo": 1658,
-                    "ochange": 18,
-                    "time": 704900,
                     "forfeited": false,
                     "decayed": false
                 }
