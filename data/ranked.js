@@ -1,5 +1,5 @@
 {
-    "date": 1720406599000,
+    "date": 1720407308000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -44785,19 +44785,6 @@
                     "ochange": 19,
                     "time": 770667,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716087006000,
-                    "type": "SHIPWRECK",
-                    "result": "draw",
-                    "opponent": "Severe_wint3r",
-                    "elo": 1703,
-                    "change": -2,
-                    "oelo": 1510,
-                    "ochange": 2,
-                    "time": 653598,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
