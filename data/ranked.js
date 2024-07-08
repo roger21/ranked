@@ -1,5 +1,5 @@
 {
-    "date": 1720431633000,
+    "date": 1720432333000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10337,19 +10337,6 @@
                     "ochange": -17,
                     "time": 116727,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716112277000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "Unknwonc",
-                    "elo": 1678,
-                    "change": 15,
-                    "oelo": 1495,
-                    "ochange": -15,
-                    "time": 524617,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
