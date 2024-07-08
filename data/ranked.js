@@ -1,5 +1,5 @@
 {
-    "date": 1720416645000,
+    "date": 1720417345000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -63450,19 +63450,6 @@
                     "time": 655749,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716097014000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1619,
-                    "change": 12,
-                    "oelo": 1354,
-                    "ochange": -12,
-                    "time": 408386,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -107635,19 +107622,6 @@
                     "ochange": -19,
                     "time": 193652,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716097257000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "_DrIvInGsNeEzE_",
-                    "elo": 1283,
-                    "change": 19,
-                    "oelo": 1208,
-                    "ochange": -19,
-                    "time": 948289,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
