@@ -1,5 +1,5 @@
 {
-    "date": 1720436450000,
+    "date": 1720437574000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10285,19 +10285,6 @@
                     "ochange": -17,
                     "time": 805139,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716116749000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "Tompas_",
-                    "elo": 1708,
-                    "change": 16,
-                    "oelo": 1551,
-                    "ochange": -16,
-                    "time": 286125,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -93024,32 +93011,6 @@
                     "oelo": 1227,
                     "ochange": -20,
                     "time": 1103389,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716117121000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "pardon410",
-                    "elo": 1236,
-                    "change": 26,
-                    "oelo": 1347,
-                    "ochange": -26,
-                    "time": 311449,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716116663000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "Gabryll_",
-                    "elo": 1210,
-                    "change": 19,
-                    "oelo": 1150,
-                    "ochange": -19,
-                    "time": 841285,
                     "forfeited": false,
                     "decayed": false
                 }
