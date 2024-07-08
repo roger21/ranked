@@ -1,5 +1,5 @@
 {
-    "date": 1720413326000,
+    "date": 1720414241000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -107673,19 +107673,6 @@
                     "oelo": 1324,
                     "ochange": 0,
                     "time": 821301,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716094098000,
-                    "type": "BURIED_TREASURE",
-                    "result": "draw",
-                    "opponent": "ethwit",
-                    "elo": 1285,
-                    "change": 0,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 847792,
                     "forfeited": true,
                     "decayed": false
                 }
