@@ -1,5 +1,5 @@
 {
-    "date": 1720435512000,
+    "date": 1720436450000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10298,19 +10298,6 @@
                     "ochange": -16,
                     "time": 286125,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716116306000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Haid_",
-                    "elo": 1692,
-                    "change": 23,
-                    "oelo": 1736,
-                    "ochange": -23,
-                    "time": 606650,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -93065,19 +93052,6 @@
                     "time": 841285,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716115770000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "SpeZyy",
-                    "elo": 1191,
-                    "change": 21,
-                    "oelo": 1186,
-                    "ochange": -21,
-                    "time": 702231,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -101310,19 +101284,6 @@
                     "oelo": 1648,
                     "ochange": 18,
                     "time": 665904,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716116423000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "xLourx",
-                    "elo": 1587,
-                    "change": 22,
-                    "oelo": 1602,
-                    "ochange": -22,
-                    "time": 804569,
                     "forfeited": false,
                     "decayed": false
                 }
