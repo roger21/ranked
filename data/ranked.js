@@ -1,5 +1,5 @@
 {
-    "date": 1720412198000,
+    "date": 1720413326000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -63463,19 +63463,6 @@
                     "time": 656838,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716092223000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "sockmonkey747",
-                    "elo": 1632,
-                    "change": 21,
-                    "oelo": 1607,
-                    "ochange": -21,
-                    "time": 579367,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107699,32 +107686,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 847792,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716093193000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "GabzlynMC",
-                    "elo": 1285,
-                    "change": -19,
-                    "oelo": 1339,
-                    "ochange": 19,
-                    "time": 883918,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716092245000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "idwt_doanything",
-                    "elo": 1304,
-                    "change": -17,
-                    "oelo": 1413,
-                    "ochange": 17,
-                    "time": 706067,
                     "forfeited": true,
                     "decayed": false
                 }
