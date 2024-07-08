@@ -1,5 +1,5 @@
 {
-    "date": 1720438998000,
+    "date": 1720439700000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -92934,19 +92934,6 @@
                     "ochange": 20,
                     "time": 1008640,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716119258000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "CallMeBlumi",
-                    "elo": 1295,
-                    "change": 18,
-                    "oelo": 1200,
-                    "ochange": -18,
-                    "time": 348859,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
