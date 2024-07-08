@@ -1,5 +1,5 @@
 {
-    "date": 1720410772000,
+    "date": 1720412198000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -56796,6 +56796,19 @@
             "nickname": "thecamo6",
             "matches": [
                 {
+                    "date": 1720412014000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1822,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
                     "date": 1720325614000,
                     "type": null,
                     "result": "draw",
@@ -63462,19 +63475,6 @@
                     "ochange": -21,
                     "time": 579367,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716091409000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Severe_wint3r",
-                    "elo": 1611,
-                    "change": -23,
-                    "oelo": 1588,
-                    "ochange": 23,
-                    "time": 914669,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -107725,19 +107725,6 @@
                     "oelo": 1413,
                     "ochange": 17,
                     "time": 706067,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716091472000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Hashtxn",
-                    "elo": 1321,
-                    "change": 17,
-                    "oelo": 1192,
-                    "ochange": -17,
-                    "time": 773420,
                     "forfeited": true,
                     "decayed": false
                 }
