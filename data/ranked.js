@@ -1,5 +1,5 @@
 {
-    "date": 1720430694000,
+    "date": 1720431633000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10349,19 +10349,6 @@
                     "oelo": 1495,
                     "ochange": -15,
                     "time": 524617,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716111524000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "SuperC_",
-                    "elo": 1663,
-                    "change": -20,
-                    "oelo": 1705,
-                    "ochange": 20,
-                    "time": 856120,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -78989,19 +78976,6 @@
                     "time": 946968,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716111524000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1705,
-                    "change": 20,
-                    "oelo": 1663,
-                    "ochange": -20,
-                    "time": 856120,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -90987,6 +90961,19 @@
             "nickname": "vrapues_i_shpejt",
             "matches": [
                 {
+                    "date": 1720431640000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "KaaziTheCreeper",
+                    "elo": 1742,
+                    "change": 13,
+                    "oelo": 1527,
+                    "ochange": -13,
+                    "time": 765190,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1720430333000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
@@ -101427,19 +101414,6 @@
                     "oelo": 1586,
                     "ochange": 20,
                     "time": 895133,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716110934000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Dimeax",
-                    "elo": 1561,
-                    "change": 17,
-                    "oelo": 1444,
-                    "ochange": -17,
-                    "time": 883646,
                     "forfeited": false,
                     "decayed": false
                 }
