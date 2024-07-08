@@ -1,5 +1,5 @@
 {
-    "date": 1720407308000,
+    "date": 1720409138000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -44773,19 +44773,6 @@
                     "time": 494440,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716087830000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1684,
-                    "change": -19,
-                    "oelo": 1755,
-                    "ochange": 19,
-                    "time": 770667,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -63500,32 +63487,6 @@
                     "oelo": 1771,
                     "ochange": 16,
                     "time": 1081047,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716088887000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "TapL",
-                    "elo": 1650,
-                    "change": 16,
-                    "oelo": 1502,
-                    "ochange": -16,
-                    "time": 1011689,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716087493000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Waluyoshi",
-                    "elo": 1634,
-                    "change": 19,
-                    "oelo": 1574,
-                    "ochange": -19,
-                    "time": 913988,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107803,45 +107764,6 @@
                     "oelo": 1159,
                     "ochange": -16,
                     "time": 902393,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716089137000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Schlicer",
-                    "elo": 1288,
-                    "change": -21,
-                    "oelo": 1313,
-                    "ochange": 21,
-                    "time": 264529,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716088617000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Xiao_tian_yo",
-                    "elo": 1309,
-                    "change": -23,
-                    "oelo": 1285,
-                    "ochange": 23,
-                    "time": 1056759,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716087497000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1332,
-                    "change": 26,
-                    "oelo": 1460,
-                    "ochange": -26,
-                    "time": 864527,
                     "forfeited": false,
                     "decayed": false
                 }
