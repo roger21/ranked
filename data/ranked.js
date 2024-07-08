@@ -1,5 +1,5 @@
 {
-    "date": 1720446767000,
+    "date": 1720447975000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -73257,19 +73257,6 @@
                     "time": 674940,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716127138000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "32pulsar",
-                    "elo": 1808,
-                    "change": 19,
-                    "oelo": 1735,
-                    "ochange": -19,
-                    "time": 613812,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77304,19 +77291,6 @@
                     "oelo": 1569,
                     "ochange": -15,
                     "time": 856864,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716127138000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1735,
-                    "change": -19,
-                    "oelo": 1808,
-                    "ochange": 19,
-                    "time": 613812,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86989,19 +86963,6 @@
                     "time": 663510,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716127770000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "druppelen",
-                    "elo": 1770,
-                    "change": 13,
-                    "oelo": 1546,
-                    "ochange": -13,
-                    "time": 1064999,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -96195,32 +96156,6 @@
                     "oelo": 1824,
                     "ochange": 16,
                     "time": 674940,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716127736000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Waluyoshi",
-                    "elo": 1697,
-                    "change": 16,
-                    "oelo": 1558,
-                    "ochange": -16,
-                    "time": 585728,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716127055000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "xLourx",
-                    "elo": 1681,
-                    "change": 18,
-                    "oelo": 1584,
-                    "ochange": -18,
-                    "time": 646581,
                     "forfeited": false,
                     "decayed": false
                 }
