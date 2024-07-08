@@ -1,5 +1,5 @@
 {
-    "date": 1720438280000,
+    "date": 1720438998000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10259,19 +10259,6 @@
                     "ochange": -15,
                     "time": 809100,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716118762000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "Haid_",
-                    "elo": 1745,
-                    "change": 20,
-                    "oelo": 1697,
-                    "ochange": -20,
-                    "time": 439747,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -92960,32 +92947,6 @@
                     "ochange": -18,
                     "time": 348859,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716118746000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "SharikFrBall",
-                    "elo": 1277,
-                    "change": 21,
-                    "oelo": 1262,
-                    "ochange": -21,
-                    "time": 380967,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716118301000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "xttiantian",
-                    "elo": 1256,
-                    "change": 20,
-                    "oelo": 1227,
-                    "ochange": -20,
-                    "time": 1103389,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
