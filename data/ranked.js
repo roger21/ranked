@@ -1,5 +1,5 @@
 {
-    "date": 1720426342000,
+    "date": 1720427559000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10402,19 +10402,6 @@
                     "ochange": 25,
                     "time": 452597,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716107459000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Erikfzf",
-                    "elo": 1675,
-                    "change": -20,
-                    "oelo": 1715,
-                    "ochange": 20,
-                    "time": 661893,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -63268,19 +63255,6 @@
                     "time": 641362,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716106844000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Unknwonc",
-                    "elo": 1659,
-                    "change": 16,
-                    "oelo": 1508,
-                    "ochange": -16,
-                    "time": 637217,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87443,32 +87417,6 @@
                     "ochange": -19,
                     "time": 643082,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716107459000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1715,
-                    "change": 20,
-                    "oelo": 1675,
-                    "ochange": -20,
-                    "time": 661893,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716106729000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Tenes9999",
-                    "elo": 1695,
-                    "change": -26,
-                    "oelo": 1562,
-                    "ochange": 26,
-                    "time": 720094,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
