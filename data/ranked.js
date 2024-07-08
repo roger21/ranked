@@ -1,5 +1,5 @@
 {
-    "date": 1720414241000,
+    "date": 1720415468000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -107661,19 +107661,6 @@
                     "ochange": 21,
                     "time": 1070825,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716094981000,
-                    "type": "RUINED_PORTAL",
-                    "result": "draw",
-                    "opponent": "b1ur_",
-                    "elo": 1285,
-                    "change": 0,
-                    "oelo": 1324,
-                    "ochange": 0,
-                    "time": 821301,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
