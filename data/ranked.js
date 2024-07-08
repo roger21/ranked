@@ -1,5 +1,5 @@
 {
-    "date": 1720418055000,
+    "date": 1720420253000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10493,19 +10493,6 @@
                     "ochange": 26,
                     "time": 197581,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716099990000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1630,
-                    "change": -21,
-                    "oelo": 1654,
-                    "ochange": 21,
-                    "time": 666553,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -63423,19 +63410,6 @@
                     "ochange": -14,
                     "time": 474003,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716099990000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1654,
-                    "change": 21,
-                    "oelo": 1630,
-                    "ochange": -21,
-                    "time": 666553,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
