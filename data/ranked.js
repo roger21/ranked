@@ -1,5 +1,5 @@
 {
-    "date": 1720434803000,
+    "date": 1720435512000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10310,19 +10310,6 @@
                     "oelo": 1736,
                     "ochange": -23,
                     "time": 606650,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716115043000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "iKme_",
-                    "elo": 1669,
-                    "change": -26,
-                    "oelo": 1565,
-                    "ochange": 26,
-                    "time": 733975,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -101336,19 +101323,6 @@
                     "oelo": 1602,
                     "ochange": -22,
                     "time": 804569,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716115043000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1565,
-                    "change": 26,
-                    "oelo": 1669,
-                    "ochange": -26,
-                    "time": 733975,
                     "forfeited": false,
                     "decayed": false
                 }
