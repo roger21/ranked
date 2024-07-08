@@ -1,5 +1,5 @@
 {
-    "date": 1720437574000,
+    "date": 1720438280000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10272,19 +10272,6 @@
                     "ochange": -20,
                     "time": 439747,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716118203000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "xLourx",
-                    "elo": 1725,
-                    "change": 17,
-                    "oelo": 1600,
-                    "ochange": -17,
-                    "time": 805139,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -24288,19 +24275,6 @@
                     "oelo": 1794,
                     "ochange": 20,
                     "time": 857685,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716118268000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "Haid_",
-                    "elo": 1774,
-                    "change": 19,
-                    "oelo": 1717,
-                    "ochange": -19,
-                    "time": 775990,
                     "forfeited": false,
                     "decayed": false
                 }
