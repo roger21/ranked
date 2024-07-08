@@ -1,5 +1,5 @@
 {
-    "date": 1720417345000,
+    "date": 1720418055000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -63435,19 +63435,6 @@
                     "oelo": 1630,
                     "ochange": -21,
                     "time": 666553,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716097939000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Javierixmon",
-                    "elo": 1633,
-                    "change": 14,
-                    "oelo": 1433,
-                    "ochange": -14,
-                    "time": 655749,
                     "forfeited": false,
                     "decayed": false
                 }
