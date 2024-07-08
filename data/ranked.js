@@ -1,5 +1,5 @@
 {
-    "date": 1720452237000,
+    "date": 1720453231000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -30443,19 +30443,6 @@
                     "time": 295379,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716132938000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Erikfzf",
-                    "elo": 1798,
-                    "change": 21,
-                    "oelo": 1781,
-                    "ochange": -21,
-                    "time": 785982,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -33256,32 +33243,6 @@
                     "ochange": 18,
                     "time": 448115,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716133214000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Haid_",
-                    "elo": 1714,
-                    "change": -23,
-                    "oelo": 1672,
-                    "ochange": 23,
-                    "time": 318005,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716132812000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "mcsr_misfit",
-                    "elo": 1737,
-                    "change": -23,
-                    "oelo": 1689,
-                    "ochange": 23,
-                    "time": 660431,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -56243,19 +56204,6 @@
                     "time": 771883,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716132351000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1846,
-                    "change": -28,
-                    "oelo": 1678,
-                    "ochange": 28,
-                    "time": 623766,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -70924,19 +70872,6 @@
                     "time": 809709,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716132812000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "loodlow",
-                    "elo": 1689,
-                    "change": 23,
-                    "oelo": 1737,
-                    "ochange": -23,
-                    "time": 660431,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -80336,6 +80271,19 @@
             "nickname": "CroProYT",
             "matches": [
                 {
+                    "date": 1720452349000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "Maraico",
+                    "elo": 1793,
+                    "change": 13,
+                    "oelo": 1573,
+                    "ochange": -13,
+                    "time": 638779,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1720451545000,
                     "type": "SHIPWRECK",
                     "result": "lost",
@@ -87853,19 +87801,6 @@
                     "time": 448115,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716132938000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Mar1n",
-                    "elo": 1781,
-                    "change": -21,
-                    "oelo": 1798,
-                    "ochange": 21,
-                    "time": 785982,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -90380,19 +90315,6 @@
                     "ochange": -18,
                     "time": 654610,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716132286000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Tenes9999",
-                    "elo": 1534,
-                    "change": -20,
-                    "oelo": 1573,
-                    "ochange": 20,
-                    "time": 385752,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -93460,19 +93382,6 @@
                     "ochange": -19,
                     "time": 809709,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716132792000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "Haid_",
-                    "elo": 1717,
-                    "change": 19,
-                    "oelo": 1649,
-                    "ochange": -19,
-                    "time": 772902,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
