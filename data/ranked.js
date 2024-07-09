@@ -1,5 +1,5 @@
 {
-    "date": 1720550200000,
+    "date": 1720551033000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10898,6 +10898,19 @@
             "nickname": "v_strid",
             "matches": [
                 {
+                    "date": 1720550448000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "mcsr_misfit",
+                    "elo": 2085,
+                    "change": 11,
+                    "oelo": 1801,
+                    "ochange": -11,
+                    "time": 550452,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1720548965000,
                     "type": "VILLAGE",
                     "result": "lost",
@@ -17225,19 +17238,6 @@
                     "oelo": 1604,
                     "ochange": -11,
                     "time": 731130,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716230619000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1868,
-                    "change": -24,
-                    "oelo": 1795,
-                    "ochange": 24,
-                    "time": 625567,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30517,19 +30517,6 @@
                     "time": 834312,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716230773000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "VenfyTheKiller",
-                    "elo": 1680,
-                    "change": 21,
-                    "oelo": 1653,
-                    "ochange": -21,
-                    "time": 921034,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -33017,19 +33004,6 @@
                     "oelo": 1664,
                     "ochange": -16,
                     "time": 834312,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716230619000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 1795,
-                    "change": 24,
-                    "oelo": 1868,
-                    "ochange": -24,
-                    "time": 625567,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -39015,19 +38989,6 @@
                     "ochange": 22,
                     "time": 451395,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716230639000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1562,
-                    "change": 24,
-                    "oelo": 1624,
-                    "ochange": -24,
-                    "time": 732093,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -66407,32 +66368,6 @@
                     "time": 627269,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716230885000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "32pulsar",
-                    "elo": 1758,
-                    "change": -19,
-                    "oelo": 1832,
-                    "ochange": 19,
-                    "time": 498820,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716230294000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Finnitz",
-                    "elo": 1777,
-                    "change": 13,
-                    "oelo": 1541,
-                    "ochange": -13,
-                    "time": 667675,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66440,6 +66375,19 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "mcsr_misfit",
             "matches": [
+                {
+                    "date": 1720550448000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 1801,
+                    "change": -11,
+                    "oelo": 2085,
+                    "ochange": 11,
+                    "time": 550452,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1720549776000,
                     "type": "BURIED_TREASURE",
@@ -71786,19 +71734,6 @@
                     "oelo": 1702,
                     "ochange": 25,
                     "time": 704554,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716230885000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1832,
-                    "change": 19,
-                    "oelo": 1758,
-                    "ochange": -19,
-                    "time": 498820,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -99199,19 +99134,6 @@
                     "time": 887265,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716230294000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1541,
-                    "change": -13,
-                    "oelo": 1777,
-                    "ochange": 13,
-                    "time": 667675,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -115517,19 +115439,6 @@
                     "ochange": 14,
                     "time": 500693,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716230903000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "bohler_",
-                    "elo": 1404,
-                    "change": -19,
-                    "oelo": 1466,
-                    "ochange": 19,
-                    "time": 978965,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
