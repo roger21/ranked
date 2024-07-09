@@ -1,5 +1,5 @@
 {
-    "date": 1720539670000,
+    "date": 1720540374000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -17396,19 +17396,6 @@
                     "time": 598608,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716220254000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1891,
-                    "change": -28,
-                    "oelo": 1719,
-                    "ochange": 28,
-                    "time": 679347,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -19890,19 +19877,6 @@
                     "ochange": 19,
                     "time": 654618,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716220178000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Emillk",
-                    "elo": 1846,
-                    "change": 16,
-                    "oelo": 1712,
-                    "ochange": -16,
-                    "time": 362379,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -33439,19 +33413,6 @@
                     "oelo": 1501,
                     "ochange": 28,
                     "time": 780454,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716220254000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 1719,
-                    "change": 28,
-                    "oelo": 1891,
-                    "ochange": -28,
-                    "time": 679347,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -51933,19 +51894,6 @@
                     "oelo": 1918,
                     "ochange": 0,
                     "time": 0,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716220178000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "7rowl",
-                    "elo": 1712,
-                    "change": -16,
-                    "oelo": 1846,
-                    "ochange": 16,
-                    "time": 362379,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -75674,19 +75622,6 @@
                     "time": 376940,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716220338000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1618,
-                    "change": -16,
-                    "oelo": 1770,
-                    "ochange": 16,
-                    "time": 635159,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -86895,19 +86830,6 @@
                     "oelo": 1473,
                     "ochange": 23,
                     "time": 811955,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716220288000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Tenes9999",
-                    "elo": 1525,
-                    "change": -21,
-                    "oelo": 1539,
-                    "ochange": 21,
-                    "time": 851041,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -105017,6 +104939,19 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "Cornflakes267",
             "matches": [
+                {
+                    "date": 1720540440000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "switchwastaken",
+                    "elo": 1739,
+                    "change": 16,
+                    "oelo": 1597,
+                    "ochange": -16,
+                    "time": 890264,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1720539353000,
                     "type": "SHIPWRECK",
