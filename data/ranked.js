@@ -1,5 +1,5 @@
 {
-    "date": 1720588136000,
+    "date": 1720589336000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -41015,32 +41015,6 @@
                     "oelo": 1439,
                     "ochange": -17,
                     "time": 556292,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716268863000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "TapL",
-                    "elo": 1549,
-                    "change": 18,
-                    "oelo": 1457,
-                    "ochange": -18,
-                    "time": 647500,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716268148000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "RRed",
-                    "elo": 1531,
-                    "change": -21,
-                    "oelo": 1543,
-                    "ochange": 21,
-                    "time": 848788,
                     "forfeited": false,
                     "decayed": false
                 }
