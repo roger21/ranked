@@ -1,5 +1,5 @@
 {
-    "date": 1720579378000,
+    "date": 1720580092000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -38670,19 +38670,6 @@
                     "ochange": -14,
                     "time": 668735,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716259775000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "davidsochill",
-                    "elo": 1510,
-                    "change": -27,
-                    "oelo": 1373,
-                    "ochange": 27,
-                    "time": 412714,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
