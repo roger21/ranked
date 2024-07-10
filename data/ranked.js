@@ -1,5 +1,5 @@
 {
-    "date": 1720624443000,
+    "date": 1720625482000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -9740,19 +9740,6 @@
                     "time": 614201,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716305177000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1993,
-                    "change": 8,
-                    "oelo": 1607,
-                    "ochange": -8,
-                    "time": 649925,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -9760,6 +9747,19 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "matches": [
+                {
+                    "date": 1720625031000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "hackingnoises",
+                    "elo": 2062,
+                    "change": -22,
+                    "oelo": 2054,
+                    "ochange": 22,
+                    "time": 534680,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1720624442000,
                     "type": "BURIED_TREASURE",
@@ -16201,6 +16201,19 @@
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "nickname": "hackingnoises",
             "matches": [
+                {
+                    "date": 1720625031000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "v_strid",
+                    "elo": 2054,
+                    "change": 22,
+                    "oelo": 2062,
+                    "ochange": -22,
+                    "time": 534680,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1720623865000,
                     "type": "VILLAGE",
