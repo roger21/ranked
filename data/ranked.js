@@ -1,5 +1,5 @@
 {
-    "date": 1720737032000,
+    "date": 1720737749000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -71254,19 +71254,6 @@
                     "time": 689693,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716417199000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "TheBlazer97",
-                    "elo": 1700,
-                    "change": 15,
-                    "oelo": 1525,
-                    "ochange": -15,
-                    "time": 753182,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -110691,6 +110678,19 @@
             "uuid": "9c724d7793094a76a8bc9d30f397df92",
             "nickname": "Javierixmon",
             "matches": [
+                {
+                    "date": 1720737779000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "shimuon",
+                    "elo": 1702,
+                    "change": -22,
+                    "oelo": 1697,
+                    "ochange": 22,
+                    "time": 1025937,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1720736343000,
                     "type": "SHIPWRECK",
