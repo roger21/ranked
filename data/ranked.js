@@ -1,5 +1,5 @@
 {
-    "date": 1720802680000,
+    "date": 1720803644000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -15776,19 +15776,6 @@
                     "oelo": 1642,
                     "ochange": -9,
                     "time": 538637,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716483215000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "mcsr_misfit",
-                    "elo": 1984,
-                    "change": 10,
-                    "oelo": 1646,
-                    "ochange": -10,
-                    "time": 652324,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -48177,19 +48164,6 @@
                     "ochange": -21,
                     "time": 681580,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716483215000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1646,
-                    "change": -10,
-                    "oelo": 1984,
-                    "ochange": 10,
-                    "time": 652324,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
