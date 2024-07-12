@@ -1,5 +1,5 @@
 {
-    "date": 1720812871000,
+    "date": 1720813830000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -38176,19 +38176,6 @@
                     "time": 503728,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716492934000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Mytinsaw",
-                    "elo": 1735,
-                    "change": -26,
-                    "oelo": 1606,
-                    "ochange": 26,
-                    "time": 715239,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -65411,19 +65398,6 @@
                     "time": 906953,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716493481000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1744,
-                    "change": 19,
-                    "oelo": 1675,
-                    "ochange": -19,
-                    "time": 596354,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87366,19 +87340,6 @@
                     "time": 957684,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716493481000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1675,
-                    "change": -19,
-                    "oelo": 1744,
-                    "ochange": 19,
-                    "time": 596354,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107824,19 +107785,6 @@
                     "time": 528033,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716493787000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "BrandedHorizon6",
-                    "elo": 1664,
-                    "change": 14,
-                    "oelo": 1452,
-                    "ochange": -14,
-                    "time": 767938,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -119372,19 +119320,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1456,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1716493666000,
-                    "type": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1461,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
