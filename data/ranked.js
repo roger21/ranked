@@ -1,5 +1,5 @@
 {
-    "date": 1720806648000,
+    "date": 1720807891000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -48061,19 +48061,6 @@
                     "time": 757500,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716487644000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Sneedcopter",
-                    "elo": 1614,
-                    "change": -24,
-                    "oelo": 1555,
-                    "ochange": 24,
-                    "time": 841018,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -57540,19 +57527,6 @@
                     "ochange": 19,
                     "time": 1069036,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716487069000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1507,
-                    "change": 28,
-                    "oelo": 1677,
-                    "ochange": -28,
-                    "time": 624432,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -87691,19 +87665,6 @@
                     "time": 653805,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716487069000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "okrzej_",
-                    "elo": 1677,
-                    "change": -28,
-                    "oelo": 1507,
-                    "ochange": 28,
-                    "time": 624432,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -108251,19 +108212,6 @@
                     "oelo": 1669,
                     "ochange": -21,
                     "time": 634683,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716487814000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Tompas_",
-                    "elo": 1667,
-                    "change": -24,
-                    "oelo": 1614,
-                    "ochange": 24,
-                    "time": 734474,
                     "forfeited": false,
                     "decayed": false
                 }
