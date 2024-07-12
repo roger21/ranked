@@ -1,5 +1,5 @@
 {
-    "date": 1720761795000,
+    "date": 1720762553000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -3792,19 +3792,6 @@
                     "ochange": -15,
                     "time": 684984,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716442420000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Javierixmon",
-                    "elo": 2005,
-                    "change": 15,
-                    "oelo": 1830,
-                    "ochange": -15,
-                    "time": 586254,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -46833,19 +46820,6 @@
                     "time": 724619,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716441991000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1835,
-                    "change": -21,
-                    "oelo": 1858,
-                    "ochange": 21,
-                    "time": 329217,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -66683,19 +66657,6 @@
                     "oelo": 2020,
                     "ochange": 15,
                     "time": 684984,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716441991000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1858,
-                    "change": 21,
-                    "oelo": 1835,
-                    "ochange": -21,
-                    "time": 329217,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -111521,19 +111482,6 @@
                     "ochange": -20,
                     "time": 724619,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716442420000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1830,
-                    "change": -15,
-                    "oelo": 2005,
-                    "ochange": 15,
-                    "time": 586254,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
