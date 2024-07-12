@@ -1,5 +1,5 @@
 {
-    "date": 1720758831000,
+    "date": 1720759540000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -66802,19 +66802,6 @@
                     "time": 880976,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716438970000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Javierixmon",
-                    "elo": 1821,
-                    "change": -22,
-                    "oelo": 1818,
-                    "ochange": 22,
-                    "time": 745034,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -111689,19 +111676,6 @@
                     "oelo": 1974,
                     "ochange": -26,
                     "time": 859153,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716438970000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1818,
-                    "change": 22,
-                    "oelo": 1821,
-                    "ochange": -22,
-                    "time": 745034,
                     "forfeited": false,
                     "decayed": false
                 }
