@@ -1,5 +1,5 @@
 {
-    "date": 1720805008000,
+    "date": 1720805762000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -24323,19 +24323,6 @@
                     "time": 595021,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716485424000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "mcsr_misfit",
-                    "elo": 1683,
-                    "change": 20,
-                    "oelo": 1647,
-                    "ochange": -20,
-                    "time": 849434,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -48126,19 +48113,6 @@
                     "time": 755328,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716485424000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "loodlow",
-                    "elo": 1647,
-                    "change": -20,
-                    "oelo": 1683,
-                    "ochange": 20,
-                    "time": 849434,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -57618,19 +57592,6 @@
                     "ochange": -28,
                     "time": 624432,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716485660000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "Fulham",
-                    "elo": 1479,
-                    "change": 17,
-                    "oelo": 1371,
-                    "ochange": -17,
-                    "time": 891890,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
