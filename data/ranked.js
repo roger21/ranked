@@ -1,5 +1,5 @@
 {
-    "date": 1720812072000,
+    "date": 1720812871000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -24256,19 +24256,6 @@
                     "oelo": 1644,
                     "ochange": -18,
                     "time": 648076,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716492841000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1720,
-                    "change": 22,
-                    "oelo": 1725,
-                    "ochange": -22,
-                    "time": 708773,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -65437,19 +65424,6 @@
                     "time": 596354,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716492841000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "loodlow",
-                    "elo": 1725,
-                    "change": -22,
-                    "oelo": 1720,
-                    "ochange": 22,
-                    "time": 708773,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87405,19 +87379,6 @@
                     "time": 596354,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716492595000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "fmumi",
-                    "elo": 1694,
-                    "change": 12,
-                    "oelo": 1441,
-                    "ochange": -12,
-                    "time": 835348,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -102332,19 +102293,6 @@
                     "time": 786582,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716492845000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1683,
-                    "change": 20,
-                    "oelo": 1650,
-                    "ochange": -20,
-                    "time": 785590,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107887,19 +107835,6 @@
                     "oelo": 1452,
                     "ochange": -14,
                     "time": 767938,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716492845000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "CroProYT",
-                    "elo": 1650,
-                    "change": -20,
-                    "oelo": 1683,
-                    "ochange": 20,
-                    "time": 785590,
                     "forfeited": false,
                     "decayed": false
                 }
