@@ -1,5 +1,5 @@
 {
-    "date": 1720768222000,
+    "date": 1720769168000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -32404,19 +32404,6 @@
                     "oelo": 1989,
                     "ochange": -25,
                     "time": 612026,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716448306000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1866,
-                    "change": 14,
-                    "oelo": 1669,
-                    "ochange": -14,
-                    "time": 574980,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -66269,19 +66256,6 @@
                     "time": 757500,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716448969000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1788,
-                    "change": -27,
-                    "oelo": 1639,
-                    "ochange": 27,
-                    "time": 636515,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95983,19 +95957,6 @@
                     "time": 815586,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716448584000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "shimuon",
-                    "elo": 1524,
-                    "change": 13,
-                    "oelo": 1284,
-                    "ochange": -13,
-                    "time": 706768,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -103494,19 +103455,6 @@
                     "oelo": 1648,
                     "ochange": -21,
                     "time": 778934,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716448969000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1639,
-                    "change": 27,
-                    "oelo": 1788,
-                    "ochange": -27,
-                    "time": 636515,
                     "forfeited": false,
                     "decayed": false
                 }
