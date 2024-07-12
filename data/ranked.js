@@ -1,5 +1,5 @@
 {
-    "date": 1720770745000,
+    "date": 1720772198000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -16088,32 +16088,6 @@
                     "oelo": 1654,
                     "ochange": -10,
                     "time": 559538,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716452176000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1968,
-                    "change": 10,
-                    "oelo": 1626,
-                    "ochange": -10,
-                    "time": 606344,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716451369000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1958,
-                    "change": -31,
-                    "oelo": 1691,
-                    "ochange": 31,
-                    "time": 903356,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -32365,19 +32339,6 @@
                     "oelo": 2117,
                     "ochange": 13,
                     "time": 577911,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716450954000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1903,
-                    "change": 12,
-                    "oelo": 1636,
-                    "ochange": -12,
-                    "time": 558990,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -103403,19 +103364,6 @@
                     "oelo": 1614,
                     "ochange": 24,
                     "time": 734474,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716451369000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1691,
-                    "change": 31,
-                    "oelo": 1958,
-                    "ochange": -31,
-                    "time": 903356,
                     "forfeited": false,
                     "decayed": false
                 }
