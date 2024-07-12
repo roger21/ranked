@@ -1,5 +1,5 @@
 {
-    "date": 1720817573000,
+    "date": 1720818768000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -24243,19 +24243,6 @@
                     "oelo": 1578,
                     "ochange": -14,
                     "time": 708955,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716498391000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "rekrap2",
-                    "elo": 1756,
-                    "change": 18,
-                    "oelo": 1664,
-                    "ochange": -18,
-                    "time": 993977,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -102214,19 +102201,6 @@
                     "ochange": 26,
                     "time": 617187,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716497752000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Maraico",
-                    "elo": 1617,
-                    "change": 16,
-                    "oelo": 1487,
-                    "ochange": -16,
-                    "time": 776359,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
