@@ -1,5 +1,5 @@
 {
-    "date": 1720870253000,
+    "date": 1720870944000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -95689,19 +95689,6 @@
                     "ochange": -18,
                     "time": 742031,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716550276000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Rescofille",
-                    "elo": 1469,
-                    "change": -26,
-                    "oelo": 1341,
-                    "ochange": 26,
-                    "time": 237962,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
