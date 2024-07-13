@@ -1,5 +1,5 @@
 {
-    "date": 1720869476000,
+    "date": 1720870253000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -95702,19 +95702,6 @@
                     "ochange": 26,
                     "time": 237962,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716549756000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1495,
-                    "change": 25,
-                    "oelo": 1587,
-                    "ochange": -25,
-                    "time": 944036,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
