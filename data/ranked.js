@@ -1,5 +1,5 @@
 {
-    "date": 1720865532000,
+    "date": 1720866611000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -24971,19 +24971,6 @@
                     "oelo": 1521,
                     "ochange": -16,
                     "time": 922050,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716546188000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "tommorerow",
-                    "elo": 1653,
-                    "change": -25,
-                    "oelo": 1563,
-                    "ochange": 25,
-                    "time": 802154,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -97723,19 +97710,6 @@
                     "ochange": -19,
                     "time": 668833,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716546078000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "vrapues_i_shpejt",
-                    "elo": 1459,
-                    "change": -25,
-                    "oelo": 1358,
-                    "ochange": 25,
-                    "time": 529876,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
