@@ -1,5 +1,5 @@
 {
-    "date": 1720862767000,
+    "date": 1720863650000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -73845,7 +73845,7 @@
                     "date": 1716970560000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "SLAVABETA",
+                    "opponent": "ScrougBeta1337s",
                     "elo": 1565,
                     "change": 14,
                     "oelo": 1377,
@@ -73897,7 +73897,7 @@
                     "date": 1716895612000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
-                    "opponent": "SLAVABETA",
+                    "opponent": "ScrougBeta1337s",
                     "elo": 1499,
                     "change": -23,
                     "oelo": 1463,
@@ -97800,19 +97800,6 @@
                     "oelo": 1659,
                     "ochange": 15,
                     "time": 594577,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716543485000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "ATurtle123",
-                    "elo": 1512,
-                    "change": 16,
-                    "oelo": 1367,
-                    "ochange": -16,
-                    "time": 752277,
                     "forfeited": false,
                     "decayed": false
                 }
