@@ -1,5 +1,5 @@
 {
-    "date": 1720828855000,
+    "date": 1720834635000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -53001,6 +53001,19 @@
             "nickname": "Aquacorde",
             "matches": [
                 {
+                    "date": 1720834057000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1809,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
                     "date": 1720747656000,
                     "type": null,
                     "result": "draw",
@@ -72650,32 +72663,6 @@
                     "ochange": 20,
                     "time": 628415,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716510246000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1799,
-                    "change": 15,
-                    "oelo": 1623,
-                    "ochange": -15,
-                    "time": 662297,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716509232000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "sockmonkey747",
-                    "elo": 1784,
-                    "change": 17,
-                    "oelo": 1659,
-                    "ochange": -17,
-                    "time": 674118,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -98582,19 +98569,6 @@
                     "time": 752277,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716509300000,
-                    "type": "BURIED_TREASURE",
-                    "result": "draw",
-                    "opponent": "wethr",
-                    "elo": 1496,
-                    "change": 0,
-                    "oelo": 1458,
-                    "ochange": 0,
-                    "time": 733932,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -110305,45 +110279,6 @@
                     "oelo": 1339,
                     "ochange": 18,
                     "time": 780046,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716514592000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "Zylenox",
-                    "elo": 1254,
-                    "change": -16,
-                    "oelo": 1407,
-                    "ochange": 16,
-                    "time": 808459,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716513536000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "dqggie",
-                    "elo": 1270,
-                    "change": 21,
-                    "oelo": 1258,
-                    "ochange": -21,
-                    "time": 952726,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716512302000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "bth13",
-                    "elo": 1249,
-                    "change": -22,
-                    "oelo": 1245,
-                    "ochange": 22,
-                    "time": 971053,
                     "forfeited": false,
                     "decayed": false
                 }
