@@ -1,5 +1,5 @@
 {
-    "date": 1720837440000,
+    "date": 1720838920000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -103983,32 +103983,6 @@
                     "time": 739229,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716518886000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "JoomzMonkey",
-                    "elo": 1689,
-                    "change": -20,
-                    "oelo": 1739,
-                    "ochange": 20,
-                    "time": 322430,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716518512000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1709,
-                    "change": 17,
-                    "oelo": 1583,
-                    "ochange": -17,
-                    "time": 561128,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -112540,19 +112514,6 @@
                     "oelo": 1715,
                     "ochange": 26,
                     "time": 739229,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716517987000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "JoomzMonkey",
-                    "elo": 1861,
-                    "change": 16,
-                    "oelo": 1719,
-                    "ochange": -16,
-                    "time": 703294,
                     "forfeited": false,
                     "decayed": false
                 }
