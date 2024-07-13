@@ -1,5 +1,5 @@
 {
-    "date": 1720876951000,
+    "date": 1720877734000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -95454,32 +95454,6 @@
                     "oelo": 1407,
                     "ochange": 22,
                     "time": 655586,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716557731000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "affordab1e",
-                    "elo": 1446,
-                    "change": -24,
-                    "oelo": 1386,
-                    "ochange": 24,
-                    "time": 86668,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716557436000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Japonk86",
-                    "elo": 1470,
-                    "change": -12,
-                    "oelo": 1714,
-                    "ochange": 12,
-                    "time": 562811,
                     "forfeited": true,
                     "decayed": false
                 }
