@@ -1,5 +1,5 @@
 {
-    "date": 1720844077000,
+    "date": 1720845189000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -112437,19 +112437,6 @@
                     "ochange": 11,
                     "time": 493981,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716524683000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "JoomzMonkey",
-                    "elo": 1818,
-                    "change": -23,
-                    "oelo": 1769,
-                    "ochange": 23,
-                    "time": 800739,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
