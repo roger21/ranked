@@ -1,5 +1,5 @@
 {
-    "date": 1720871656000,
+    "date": 1720874226000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -1757,19 +1757,6 @@
                     "oelo": 1733,
                     "ochange": -8,
                     "time": 643363,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716553628000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "Severe_wint3r",
-                    "elo": 2116,
-                    "change": 7,
-                    "oelo": 1673,
-                    "ochange": -7,
-                    "time": 558870,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -68069,32 +68056,6 @@
                     "time": 683101,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716553014000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "CroProYT",
-                    "elo": 1642,
-                    "change": 15,
-                    "oelo": 1458,
-                    "ochange": -15,
-                    "time": 652604,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716552023000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "k4yfour",
-                    "elo": 1627,
-                    "change": -20,
-                    "oelo": 1680,
-                    "ochange": 20,
-                    "time": 801311,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95637,45 +95598,6 @@
                     "ochange": 23,
                     "time": 773524,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716553975000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "affordab1e",
-                    "elo": 1477,
-                    "change": 19,
-                    "oelo": 1422,
-                    "ochange": -19,
-                    "time": 662048,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716553014000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1458,
-                    "change": -15,
-                    "oelo": 1642,
-                    "ochange": 15,
-                    "time": 652604,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716552187000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Severe_wint3r",
-                    "elo": 1473,
-                    "change": -14,
-                    "oelo": 1659,
-                    "ochange": 14,
-                    "time": 718359,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
