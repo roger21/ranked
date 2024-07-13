@@ -1,5 +1,5 @@
 {
-    "date": 1720885965000,
+    "date": 1720887238000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -88926,6 +88926,19 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "matches": [
+                {
+                    "date": 1720886317000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1738,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1720799916000,
                     "type": null,
