@@ -1,5 +1,5 @@
 {
-    "date": 1720875439000,
+    "date": 1720876951000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -1718,32 +1718,6 @@
                     "oelo": 1846,
                     "ochange": -11,
                     "time": 711709,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716556561000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Japonk86",
-                    "elo": 2108,
-                    "change": 8,
-                    "oelo": 1702,
-                    "ochange": -8,
-                    "time": 594678,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716555778000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 2100,
-                    "change": -24,
-                    "oelo": 2024,
-                    "ochange": 24,
-                    "time": 616218,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -18462,19 +18436,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1716555778000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "lowk3y_",
-                    "elo": 2024,
-                    "change": 24,
-                    "oelo": 2100,
-                    "ochange": -24,
-                    "time": 616218,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -68004,32 +67965,6 @@
                     "time": 703865,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716556549000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "CroProYT",
-                    "elo": 1649,
-                    "change": -28,
-                    "oelo": 1482,
-                    "ochange": 28,
-                    "time": 635627,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716555702000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "Japonk86",
-                    "elo": 1677,
-                    "change": 23,
-                    "oelo": 1710,
-                    "ochange": -23,
-                    "time": 591321,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95546,19 +95481,6 @@
                     "ochange": 12,
                     "time": 562811,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716556549000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1482,
-                    "change": 28,
-                    "oelo": 1649,
-                    "ochange": -28,
-                    "time": 635627,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
