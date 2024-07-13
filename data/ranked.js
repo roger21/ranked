@@ -1,5 +1,5 @@
 {
-    "date": 1720845189000,
+    "date": 1720845916000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -3571,32 +3571,6 @@
                     "ochange": -10,
                     "time": 582852,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716525901000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 2117,
-                    "change": 13,
-                    "oelo": 1890,
-                    "ochange": -13,
-                    "time": 577911,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716525265000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "Javierixmon",
-                    "elo": 2104,
-                    "change": 11,
-                    "oelo": 1807,
-                    "ochange": -11,
-                    "time": 493981,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -39618,19 +39592,6 @@
                     "oelo": 1809,
                     "ochange": -18,
                     "time": 581444,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716525901000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1890,
-                    "change": -13,
-                    "oelo": 2117,
-                    "ochange": 13,
-                    "time": 577911,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -112424,19 +112385,6 @@
                     "ochange": -20,
                     "time": 571377,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716525265000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1807,
-                    "change": -11,
-                    "oelo": 2104,
-                    "ochange": 11,
-                    "time": 493981,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
