@@ -1,5 +1,5 @@
 {
-    "date": 1720834635000,
+    "date": 1720837440000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -104009,45 +104009,6 @@
                     "time": 561128,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716517190000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "JoomzMonkey",
-                    "elo": 1692,
-                    "change": 23,
-                    "oelo": 1735,
-                    "ochange": -23,
-                    "time": 875898,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716516227000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Javierixmon",
-                    "elo": 1669,
-                    "change": 28,
-                    "oelo": 1845,
-                    "ochange": -28,
-                    "time": 632372,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716515399000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "GradientGray",
-                    "elo": 1641,
-                    "change": 16,
-                    "oelo": 1507,
-                    "ochange": -16,
-                    "time": 907192,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -110268,19 +110229,6 @@
                     "time": 201631,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716515471000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "shimuon",
-                    "elo": 1236,
-                    "change": -18,
-                    "oelo": 1339,
-                    "ochange": 18,
-                    "time": 780046,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -112605,19 +112553,6 @@
                     "oelo": 1719,
                     "ochange": -16,
                     "time": 703294,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716516227000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1845,
-                    "change": -28,
-                    "oelo": 1669,
-                    "ochange": 28,
-                    "time": 632372,
                     "forfeited": false,
                     "decayed": false
                 }
