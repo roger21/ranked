@@ -1,5 +1,5 @@
 {
-    "date": 1720870944000,
+    "date": 1720871656000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -95675,19 +95675,6 @@
                     "oelo": 1659,
                     "ochange": 14,
                     "time": 718359,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716551101000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 1487,
-                    "change": 18,
-                    "oelo": 1386,
-                    "ochange": -18,
-                    "time": 742031,
                     "forfeited": false,
                     "decayed": false
                 }
