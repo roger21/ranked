@@ -1,5 +1,5 @@
 {
-    "date": 1720911178000,
+    "date": 1720912319000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -99768,19 +99768,6 @@
                     "oelo": 1240,
                     "ochange": 22,
                     "time": 532068,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716591509000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "Bigchillxyz",
-                    "elo": 1284,
-                    "change": -15,
-                    "oelo": 1441,
-                    "ochange": 15,
-                    "time": 700627,
                     "forfeited": true,
                     "decayed": false
                 }
