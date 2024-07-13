@@ -1,5 +1,5 @@
 {
-    "date": 1720914040000,
+    "date": 1720914763000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -36382,19 +36382,6 @@
                     "ochange": -15,
                     "time": 551164,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716594203000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Finnitz",
-                    "elo": 1607,
-                    "change": 20,
-                    "oelo": 1558,
-                    "ochange": -20,
-                    "time": 808017,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
