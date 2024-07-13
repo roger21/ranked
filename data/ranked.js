@@ -1,5 +1,5 @@
 {
-    "date": 1720839643000,
+    "date": 1720841044000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -103970,19 +103970,6 @@
                     "time": 763515,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716520111000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "Javierixmon",
-                    "elo": 1715,
-                    "change": 26,
-                    "oelo": 1835,
-                    "ochange": -26,
-                    "time": 739229,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -112501,19 +112488,6 @@
                     "oelo": 1755,
                     "ochange": -18,
                     "time": 504498,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716520111000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1835,
-                    "change": -26,
-                    "oelo": 1715,
-                    "ochange": 26,
-                    "time": 739229,
                     "forfeited": false,
                     "decayed": false
                 }
