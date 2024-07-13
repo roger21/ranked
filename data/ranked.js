@@ -1,5 +1,5 @@
 {
-    "date": 1720907578000,
+    "date": 1720908668000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -47904,19 +47904,6 @@
                     "ochange": 22,
                     "time": 607210,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716588023000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Waluyoshi",
-                    "elo": 1619,
-                    "change": 23,
-                    "oelo": 1652,
-                    "ochange": -23,
-                    "time": 236112,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -99859,19 +99846,6 @@
                     "oelo": 1422,
                     "ochange": 19,
                     "time": 825645,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716587817000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1381,
-                    "change": 22,
-                    "oelo": 1381,
-                    "ochange": -22,
-                    "time": 977429,
                     "forfeited": false,
                     "decayed": false
                 }
