@@ -1,5 +1,5 @@
 {
-    "date": 1720842767000,
+    "date": 1720844077000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -3597,32 +3597,6 @@
                     "ochange": -11,
                     "time": 493981,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716523797000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "JoomzMonkey",
-                    "elo": 2093,
-                    "change": 9,
-                    "oelo": 1746,
-                    "ochange": -9,
-                    "time": 418855,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716523250000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Javierixmon",
-                    "elo": 2084,
-                    "change": 12,
-                    "oelo": 1841,
-                    "ochange": -12,
-                    "time": 599367,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -112475,19 +112449,6 @@
                     "oelo": 1769,
                     "ochange": 23,
                     "time": 800739,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716523250000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1841,
-                    "change": -12,
-                    "oelo": 2084,
-                    "ochange": 12,
-                    "time": 599367,
                     "forfeited": false,
                     "decayed": false
                 }
