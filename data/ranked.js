@@ -1,5 +1,5 @@
 {
-    "date": 1720891918000,
+    "date": 1720892633000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -21809,6 +21809,19 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "matches": [
+                {
+                    "date": 1720892367000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "romuxii",
+                    "elo": 2017,
+                    "change": 11,
+                    "oelo": 1716,
+                    "ochange": -11,
+                    "time": 624951,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1720887738000,
                     "type": "BURIED_TREASURE",
@@ -98230,6 +98243,19 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "matches": [
+                {
+                    "date": 1720892367000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1716,
+                    "change": -11,
+                    "oelo": 2017,
+                    "ochange": 11,
+                    "time": 624951,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1720891564000,
                     "type": "BURIED_TREASURE",
