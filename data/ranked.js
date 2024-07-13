@@ -1,5 +1,5 @@
 {
-    "date": 1720879639000,
+    "date": 1720880779000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -95403,45 +95403,6 @@
                     "ochange": -18,
                     "time": 679285,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716560757000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "SunOmega",
-                    "elo": 1474,
-                    "change": 19,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 258381,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716560450000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "Yuzukicraft",
-                    "elo": 1455,
-                    "change": 12,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 601574,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716559640000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Squitsy",
-                    "elo": 1443,
-                    "change": 19,
-                    "oelo": 1364,
-                    "ochange": -19,
-                    "time": 645594,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
