@@ -1,5 +1,5 @@
 {
-    "date": 1720910467000,
+    "date": 1720911178000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -47877,19 +47877,6 @@
                     "oelo": 1578,
                     "ochange": -19,
                     "time": 1057701,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716590962000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "romuu__",
-                    "elo": 1631,
-                    "change": 14,
-                    "oelo": 1436,
-                    "ochange": -14,
-                    "time": 735754,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -99794,19 +99781,6 @@
                     "oelo": 1441,
                     "ochange": 15,
                     "time": 700627,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716590733000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "vegegrey",
-                    "elo": 1299,
-                    "change": -23,
-                    "oelo": 1259,
-                    "ochange": 23,
-                    "time": 604673,
                     "forfeited": true,
                     "decayed": false
                 }
