@@ -1,5 +1,5 @@
 {
-    "date": 1720909776000,
+    "date": 1720910467000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -99807,19 +99807,6 @@
                     "oelo": 1259,
                     "ochange": 23,
                     "time": 604673,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716590049000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1322,
-                    "change": -19,
-                    "oelo": 1400,
-                    "ochange": 19,
-                    "time": 399370,
                     "forfeited": true,
                     "decayed": false
                 }
