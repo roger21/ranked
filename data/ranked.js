@@ -1,5 +1,5 @@
 {
-    "date": 1720856599000,
+    "date": 1720857312000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -3414,19 +3414,6 @@
                     "oelo": 1920,
                     "ochange": -14,
                     "time": 625024,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716537097000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 2117,
-                    "change": 8,
-                    "oelo": 1710,
-                    "ochange": -8,
-                    "time": 499358,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -39282,19 +39269,6 @@
                     "time": 625024,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716537206000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1934,
-                    "change": 13,
-                    "oelo": 1702,
-                    "ochange": -13,
-                    "time": 682965,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -61647,19 +61621,6 @@
                     "oelo": 1722,
                     "ochange": 20,
                     "time": 689965,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716537097000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1710,
-                    "change": -8,
-                    "oelo": 2117,
-                    "ochange": 8,
-                    "time": 499358,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -89775,19 +89736,6 @@
                     "oelo": 1690,
                     "ochange": -20,
                     "time": 689965,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716537206000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1702,
-                    "change": -13,
-                    "oelo": 1934,
-                    "ochange": 13,
-                    "time": 682965,
                     "forfeited": false,
                     "decayed": false
                 }
