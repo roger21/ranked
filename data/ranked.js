@@ -1,5 +1,5 @@
 {
-    "date": 1720864364000,
+    "date": 1720865532000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -19625,19 +19625,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1716544906000,
-                    "type": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1833,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -24998,32 +24985,6 @@
                     "ochange": 25,
                     "time": 802154,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716545146000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "megelimc",
-                    "elo": 1678,
-                    "change": -21,
-                    "oelo": 1680,
-                    "ochange": 21,
-                    "time": 521587,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716544535000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "k4yfour",
-                    "elo": 1699,
-                    "change": -22,
-                    "oelo": 1686,
-                    "ochange": 22,
-                    "time": 526381,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -97775,19 +97736,6 @@
                     "ochange": 25,
                     "time": 529876,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716545394000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "k4yfour",
-                    "elo": 1484,
-                    "change": -13,
-                    "oelo": 1699,
-                    "ochange": 13,
-                    "time": 692767,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
