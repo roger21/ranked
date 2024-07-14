@@ -1,5 +1,5 @@
 {
-    "date": 1720941808000,
+    "date": 1720942593000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -38201,19 +38201,6 @@
                     "ochange": 24,
                     "time": 767498,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716622041000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "HanoPower_",
-                    "elo": 1668,
-                    "change": 14,
-                    "oelo": 1476,
-                    "ochange": -14,
-                    "time": 433618,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -85067,19 +85054,6 @@
                     "oelo": 1644,
                     "ochange": -24,
                     "time": 767498,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716622418000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "hugemoth",
-                    "elo": 1544,
-                    "change": 20,
-                    "oelo": 1495,
-                    "ochange": -20,
-                    "time": 815586,
                     "forfeited": false,
                     "decayed": false
                 }
