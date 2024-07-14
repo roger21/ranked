@@ -1,5 +1,5 @@
 {
-    "date": 1720943449000,
+    "date": 1720944772000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -38187,19 +38187,6 @@
                     "oelo": 1714,
                     "ochange": -23,
                     "time": 854316,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716623577000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "MuhammadPro5741",
-                    "elo": 1644,
-                    "change": -24,
-                    "oelo": 1568,
-                    "ochange": 24,
-                    "time": 767498,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -85041,19 +85028,6 @@
                     "oelo": 1741,
                     "ochange": -27,
                     "time": 751353,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716623577000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "itsnahan",
-                    "elo": 1568,
-                    "change": 24,
-                    "oelo": 1644,
-                    "ochange": -24,
-                    "time": 767498,
                     "forfeited": false,
                     "decayed": false
                 }
