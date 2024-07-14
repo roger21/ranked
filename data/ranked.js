@@ -1,5 +1,5 @@
 {
-    "date": 1720938769000,
+    "date": 1720939603000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -38241,19 +38241,6 @@
                     "time": 728717,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716618963000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "HanoPower_",
-                    "elo": 1661,
-                    "change": -28,
-                    "oelo": 1493,
-                    "ochange": 28,
-                    "time": 845213,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -53575,6 +53562,19 @@
                     "oelo": 1709,
                     "ochange": -10,
                     "time": 549177,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1717861869000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "lowk3y_",
+                    "elo": 2024,
+                    "change": 23,
+                    "oelo": 2069,
+                    "ochange": -23,
+                    "time": 636309,
                     "forfeited": false,
                     "decayed": false
                 },
