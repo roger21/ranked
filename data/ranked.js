@@ -1,5 +1,5 @@
 {
-    "date": 1720936869000,
+    "date": 1720938769000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -38252,32 +38252,6 @@
                     "oelo": 1493,
                     "ochange": 28,
                     "time": 845213,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716617578000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1689,
-                    "change": 22,
-                    "oelo": 1700,
-                    "ochange": -22,
-                    "time": 474476,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716617038000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "TapL",
-                    "elo": 1667,
-                    "change": 17,
-                    "oelo": 1552,
-                    "ochange": -17,
-                    "time": 826183,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -78504,32 +78478,6 @@
                     "oelo": 1603,
                     "ochange": -17,
                     "time": 365129,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716618759000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "TapL",
-                    "elo": 1714,
-                    "change": 14,
-                    "oelo": 1514,
-                    "ochange": -14,
-                    "time": 688032,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716617578000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "itsnahan",
-                    "elo": 1700,
-                    "change": -22,
-                    "oelo": 1689,
-                    "ochange": 22,
-                    "time": 474476,
                     "forfeited": true,
                     "decayed": false
                 }
