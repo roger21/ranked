@@ -1,5 +1,5 @@
 {
-    "date": 1720928244000,
+    "date": 1720929049000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -101015,19 +101015,6 @@
                     "oelo": 1702,
                     "ochange": 21,
                     "time": 806369,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716608950000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Severe_wint3r",
-                    "elo": 1713,
-                    "change": -23,
-                    "oelo": 1671,
-                    "ochange": 23,
-                    "time": 598827,
                     "forfeited": false,
                     "decayed": false
                 }
