@@ -1,5 +1,5 @@
 {
-    "date": 1720976084000,
+    "date": 1720978400000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -67744,32 +67744,6 @@
                     "ochange": -27,
                     "time": 566212,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716657808000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "Andronicus",
-                    "elo": 1541,
-                    "change": 19,
-                    "oelo": 1467,
-                    "ochange": -19,
-                    "time": 880467,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716656640000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "32pulsar",
-                    "elo": 1522,
-                    "change": 23,
-                    "oelo": 1557,
-                    "ochange": -23,
-                    "time": 528850,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
