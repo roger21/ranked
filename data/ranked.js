@@ -1,5 +1,5 @@
 {
-    "date": 1720952110000,
+    "date": 1720953487000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -83480,19 +83480,6 @@
                     "oelo": 1569,
                     "ochange": -22,
                     "time": 1065161,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716632645000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "temp_gd",
-                    "elo": 1543,
-                    "change": 20,
-                    "oelo": 1490,
-                    "ochange": -20,
-                    "time": 799157,
                     "forfeited": false,
                     "decayed": false
                 }
