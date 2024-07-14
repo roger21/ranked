@@ -1,5 +1,5 @@
 {
-    "date": 1720935130000,
+    "date": 1720935856000,
     "players": {
         "lowk3y_": {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -38279,19 +38279,6 @@
                     "ochange": -17,
                     "time": 826183,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716615275000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Djbakan",
-                    "elo": 1650,
-                    "change": 15,
-                    "oelo": 1485,
-                    "ochange": -15,
-                    "time": 553937,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
