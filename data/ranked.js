@@ -1,5 +1,5 @@
 {
-    "date": 1721078799000,
+    "date": 1721079651000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -96741,19 +96741,6 @@
                     "time": 805802,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716759000000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "LilBlockMan",
-                    "elo": 1227,
-                    "change": 16,
-                    "oelo": 1075,
-                    "ochange": -16,
-                    "time": 1010169,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100452,6 +100439,19 @@
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "32pulsar",
             "matches": [
+                {
+                    "date": 1721079670000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Maraico",
+                    "elo": 1746,
+                    "change": 19,
+                    "oelo": 1687,
+                    "ochange": -19,
+                    "time": 645361,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1721078506000,
                     "type": "SHIPWRECK",
