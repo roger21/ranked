@@ -1,5 +1,5 @@
 {
-    "date": 1721085732000,
+    "date": 1721086492000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -43174,6 +43174,19 @@
             "uuid": "8b8252474ac24c3ea4ba1298adf2044e",
             "nickname": "Mar1n",
             "matches": [
+                {
+                    "date": 1721086331000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "NottAntoo",
+                    "elo": 1859,
+                    "change": 12,
+                    "oelo": 1609,
+                    "ochange": -12,
+                    "time": 859510,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1721084502000,
                     "type": "BURIED_TREASURE",
@@ -97396,19 +97409,6 @@
                     "ochange": 0,
                     "time": 1089394,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716765898000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "BrandedHorizon6",
-                    "elo": 1287,
-                    "change": -22,
-                    "oelo": 1288,
-                    "ochange": 22,
-                    "time": 388029,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
