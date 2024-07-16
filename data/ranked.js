@@ -1,5 +1,5 @@
 {
-    "date": 1721113743000,
+    "date": 1721114737000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -33609,19 +33609,6 @@
                     "time": 726459,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716794123000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "dolqhin",
-                    "elo": 1603,
-                    "change": -14,
-                    "oelo": 1814,
-                    "ochange": 14,
-                    "time": 678421,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -40410,19 +40397,6 @@
                     "oelo": 1847,
                     "ochange": 20,
                     "time": 597132,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716794123000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "itsnahan",
-                    "elo": 1814,
-                    "change": 14,
-                    "oelo": 1603,
-                    "ochange": -14,
-                    "time": 678421,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -47571,19 +47545,6 @@
                     "oelo": 1595,
                     "ochange": 27,
                     "time": 751353,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716794041000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1768,
-                    "change": -12,
-                    "oelo": 2039,
-                    "ochange": 12,
-                    "time": 560861,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -59809,19 +59770,6 @@
                     "ochange": -14,
                     "time": 292848,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716794243000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "tommorerow",
-                    "elo": 1714,
-                    "change": -22,
-                    "oelo": 1691,
-                    "ochange": 22,
-                    "time": 789863,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
