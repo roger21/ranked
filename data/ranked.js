@@ -1,5 +1,5 @@
 {
-    "date": 1721105698000,
+    "date": 1721107304000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -33661,19 +33661,6 @@
                     "time": 694669,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716786898000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1691,
-                    "change": -20,
-                    "oelo": 1720,
-                    "ochange": 20,
-                    "time": 449723,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -60055,45 +60042,6 @@
                     "oelo": 1604,
                     "ochange": -16,
                     "time": 741778,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716786898000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "itsnahan",
-                    "elo": 1720,
-                    "change": 20,
-                    "oelo": 1691,
-                    "ochange": -20,
-                    "time": 449723,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716786349000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "fmumi",
-                    "elo": 1700,
-                    "change": 12,
-                    "oelo": 1442,
-                    "ochange": -12,
-                    "time": 226033,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716785896000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1688,
-                    "change": 24,
-                    "oelo": 1741,
-                    "ochange": -24,
-                    "time": 662291,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107091,19 +107039,6 @@
                     "oelo": 1825,
                     "ochange": 15,
                     "time": 670443,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716785776000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "HanoPower_",
-                    "elo": 1672,
-                    "change": -23,
-                    "oelo": 1640,
-                    "ochange": 23,
-                    "time": 672419,
                     "forfeited": false,
                     "decayed": false
                 }
