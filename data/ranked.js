@@ -1,5 +1,5 @@
 {
-    "date": 1721112640000,
+    "date": 1721113743000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -47586,19 +47586,6 @@
                     "time": 560861,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716793388000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1780,
-                    "change": 20,
-                    "oelo": 1736,
-                    "ochange": -20,
-                    "time": 729849,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -59834,19 +59821,6 @@
                     "oelo": 1691,
                     "ochange": 22,
                     "time": 789863,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716793388000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1736,
-                    "change": -20,
-                    "oelo": 1780,
-                    "ochange": 20,
-                    "time": 729849,
                     "forfeited": false,
                     "decayed": false
                 }
