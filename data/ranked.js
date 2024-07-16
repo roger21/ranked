@@ -1,5 +1,5 @@
 {
-    "date": 1721104270000,
+    "date": 1721105005000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -107117,19 +107117,6 @@
                     "oelo": 1640,
                     "ochange": 23,
                     "time": 672419,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716784996000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1695,
-                    "change": 24,
-                    "oelo": 1765,
-                    "ochange": -24,
-                    "time": 757908,
                     "forfeited": false,
                     "decayed": false
                 }
