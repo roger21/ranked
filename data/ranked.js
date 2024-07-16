@@ -1,5 +1,5 @@
 {
-    "date": 1721123545000,
+    "date": 1721124683000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11521,19 +11521,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1813,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1716804107000,
-                    "type": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1818,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
