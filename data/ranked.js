@@ -1,5 +1,5 @@
 {
-    "date": 1721107304000,
+    "date": 1721108089000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -30654,6 +30654,19 @@
             "nickname": "silverrruns",
             "matches": [
                 {
+                    "date": 1721107718000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1947,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
                     "date": 1721021318000,
                     "type": null,
                     "result": "draw",
@@ -33647,19 +33660,6 @@
                     "ochange": 17,
                     "time": 574221,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716787716000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "tommorerow",
-                    "elo": 1670,
-                    "change": -21,
-                    "oelo": 1678,
-                    "ochange": 21,
-                    "time": 694669,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -51483,7 +51483,7 @@
                     "date": 1718802484000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
-                    "opponent": "regioncatboyrawr",
+                    "opponent": "regionruns",
                     "elo": 1472,
                     "change": -21,
                     "oelo": 1490,
@@ -59282,7 +59282,7 @@
                     "date": 1717214796000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "regioncatboyrawr",
+                    "opponent": "regionruns",
                     "elo": 1763,
                     "change": 13,
                     "oelo": 1549,
@@ -60030,19 +60030,6 @@
                     "ochange": -18,
                     "time": 550343,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716787845000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "HanoPower_",
-                    "elo": 1736,
-                    "change": 16,
-                    "oelo": 1604,
-                    "ochange": -16,
-                    "time": 741778,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -85964,7 +85951,7 @@
                     "date": 1720207708000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
-                    "opponent": "regioncatboyrawr",
+                    "opponent": "regionruns",
                     "elo": 1425,
                     "change": -21,
                     "oelo": 1432,
