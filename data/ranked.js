@@ -1,5 +1,5 @@
 {
-    "date": 1721109030000,
+    "date": 1721110366000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -33635,19 +33635,6 @@
                     "time": 522446,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716789328000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "tommorerow",
-                    "elo": 1633,
-                    "change": -20,
-                    "oelo": 1680,
-                    "ochange": 20,
-                    "time": 761074,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -47664,32 +47651,6 @@
                     "time": 878093,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716789858000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1768,
-                    "change": 20,
-                    "oelo": 1734,
-                    "ochange": -20,
-                    "time": 625166,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716789180000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1748,
-                    "change": -12,
-                    "oelo": 2014,
-                    "ochange": 12,
-                    "time": 668298,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -59977,19 +59938,6 @@
                     "oelo": 1653,
                     "ochange": -18,
                     "time": 932726,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716789858000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1734,
-                    "change": -20,
-                    "oelo": 1768,
-                    "ochange": 20,
-                    "time": 625166,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -74633,6 +74581,19 @@
             "nickname": "bing_pigs",
             "matches": [
                 {
+                    "date": 1721110421000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "32pulsar",
+                    "elo": 1730,
+                    "change": -21,
+                    "oelo": 1749,
+                    "ochange": 21,
+                    "time": 633169,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1721058375000,
                     "type": "DESERT_TEMPLE",
                     "result": "won",
@@ -81181,32 +81142,6 @@
                     "oelo": 1797,
                     "ochange": 29,
                     "time": 878093,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716790145000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 2023,
-                    "change": 9,
-                    "oelo": 1671,
-                    "ochange": -9,
-                    "time": 660028,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716789180000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2014,
-                    "change": 12,
-                    "oelo": 1748,
-                    "ochange": -12,
-                    "time": 668298,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -97716,6 +97651,19 @@
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "32pulsar",
             "matches": [
+                {
+                    "date": 1721110421000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "bing_pigs",
+                    "elo": 1749,
+                    "change": 21,
+                    "oelo": 1730,
+                    "ochange": -21,
+                    "time": 633169,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1721081983000,
                     "type": "VILLAGE",
