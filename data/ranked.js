@@ -1,5 +1,5 @@
 {
-    "date": 1721126444000,
+    "date": 1721127173000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -47482,19 +47482,6 @@
                     "time": 348182,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716806882000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Tookannn",
-                    "elo": 1718,
-                    "change": -23,
-                    "oelo": 1684,
-                    "ochange": 23,
-                    "time": 695696,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -71559,6 +71546,19 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "matches": [
+                {
+                    "date": 1721127209000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "NottAntoo",
+                    "elo": 1782,
+                    "change": 14,
+                    "oelo": 1595,
+                    "ochange": -14,
+                    "time": 638545,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1721125912000,
                     "type": "DESERT_TEMPLE",
