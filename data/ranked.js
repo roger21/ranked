@@ -1,5 +1,5 @@
 {
-    "date": 1721108089000,
+    "date": 1721109030000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -33648,19 +33648,6 @@
                     "time": 761074,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1716788393000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1653,
-                    "change": -17,
-                    "oelo": 1760,
-                    "ochange": 17,
-                    "time": 574221,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47703,19 +47690,6 @@
                     "time": 668298,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1716788393000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "itsnahan",
-                    "elo": 1760,
-                    "change": 17,
-                    "oelo": 1653,
-                    "ochange": -17,
-                    "time": 574221,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -60017,19 +59991,6 @@
                     "ochange": 20,
                     "time": 625166,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716788523000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1754,
-                    "change": 18,
-                    "oelo": 1660,
-                    "ochange": -18,
-                    "time": 550343,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
