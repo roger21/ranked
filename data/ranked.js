@@ -1,5 +1,5 @@
 {
-    "date": 1721105005000,
+    "date": 1721105698000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -60094,19 +60094,6 @@
                     "oelo": 1741,
                     "ochange": -24,
                     "time": 662291,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1716785139000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "JackoWacko62",
-                    "elo": 1664,
-                    "change": -26,
-                    "oelo": 1533,
-                    "ochange": 26,
-                    "time": 949222,
                     "forfeited": false,
                     "decayed": false
                 }
