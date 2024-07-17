@@ -1,5 +1,5 @@
 {
-    "date": 1721198318000,
+    "date": 1721199034000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -40881,19 +40881,6 @@
                     "ochange": -18,
                     "time": 128361,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716878814000,
-                    "type": "VILLAGE",
-                    "result": "lost",
-                    "opponent": "Djbakan",
-                    "elo": 1536,
-                    "change": -23,
-                    "oelo": 1487,
-                    "ochange": 23,
-                    "time": 833347,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
