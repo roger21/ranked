@@ -1,5 +1,5 @@
 {
-    "date": 1721196998000,
+    "date": 1721198318000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -62410,19 +62410,6 @@
                     "ochange": 7,
                     "time": 371416,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1716877656000,
-                    "type": "RUINED_PORTAL",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1642,
-                    "change": -27,
-                    "oelo": 1504,
-                    "ochange": 27,
-                    "time": 658205,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
