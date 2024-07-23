@@ -12,6 +12,8 @@
   ini_set("log_errors", "0");
 
 
+  $request_counter=0;
+
   $max_players=50;
   $max_days=50;
 
@@ -19,24 +21,30 @@
   $season_p="";
 
   $now=((int)date("U")) * 1000;
+
   if($argc === 2 && isset($argv[1]) && ctype_digit($argv[1]) && $argv[1]){
     $season=$argv[1];
     $season_p="&season=$season";
 
-    echo "season $season\n";
-
     $last_match=file_get_contents("https://mcsrranked.com/api/matches?page=0".
                                   "&count=1type=2&includedecay$season_p");
+
+    echo "(".++$request_counter.") season $season\n";
+
     $last_date=json_decode($last_match, true, 512, JSON_OBJECT_AS_ARRAY);
 
     $now=((int)$last_date["data"][0]["date"]) * 1000;
   }
+
   $past=$now - ($max_days * 24 * 60 * 60 * 1000);
 
   echo "now $now\n";
   echo "past $past\n";
 
   $leaderboard=file_get_contents("https://mcsrranked.com/api/leaderboard?lol$season_p");
+
+  echo "(".++$request_counter.") leaderboard\n";
+
   $players=json_decode($leaderboard, true, 512, JSON_OBJECT_AS_ARRAY);
 
   $pp=[];
@@ -49,7 +57,6 @@
     }
   }
 
-  $request_counter=0;
   $player_counter=0;
   foreach($pp as $nick => &$p){
     $p["matches"]=[];
@@ -57,11 +64,12 @@
     $done=false;
     while(!$done){
 
-      echo "(".++$request_counter.") ".$nick." page ".$page."\n";
-
       unset($matches);
       $matches=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
                                  "matches?page=$page&count=50&type=2$season_p");
+
+      echo "(".++$request_counter.") $nick page $page\n";
+
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
 
