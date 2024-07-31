@@ -12,31 +12,41 @@
   ini_set("log_errors", "0");
 
 
+  $request_counter=0;
+
   $max_players=50;
   $max_days=50;
 
   $season="";
   $season_p="";
+  $season_p1="";
 
   $now=((int)date("U")) * 1000;
+
   if($argc === 2 && isset($argv[1]) && ctype_digit($argv[1]) && $argv[1]){
     $season=$argv[1];
     $season_p="&season=$season";
-
-    echo "season $season\n";
+    $season_p1="?season=$season";
 
     $last_match=file_get_contents("https://mcsrranked.com/api/matches?page=0".
                                   "&count=1type=2&includedecay$season_p");
+
+    echo "(".++$request_counter.") season $season\n";
+
     $last_date=json_decode($last_match, true, 512, JSON_OBJECT_AS_ARRAY);
 
     $now=((int)$last_date["data"][0]["date"]) * 1000;
   }
+
   $past=$now - ($max_days * 24 * 60 * 60 * 1000);
 
   echo "now $now\n";
   echo "past $past\n";
 
   $leaderboard=file_get_contents("https://mcsrranked.com/api/leaderboard?lol$season_p");
+
+  echo "(".++$request_counter.") leaderboard\n";
+
   $players=json_decode($leaderboard, true, 512, JSON_OBJECT_AS_ARRAY);
 
   $pp=[];
@@ -49,19 +59,53 @@
     }
   }
 
-  $request_counter=0;
   $player_counter=0;
   foreach($pp as $nick => &$p){
+    $p["stats"]=[];
+
+    unset($stats);
+    $stats=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}$season_p1");
+
+    echo "(".++$request_counter.") $nick stats\n";
+
+    unset($ss);
+    $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
+
+    $p["stats"]["rank"]=$ss["data"]["seasonResult"]["last"]["eloRank"];
+    $p["stats"]["elo"]=$ss["data"]["seasonResult"]["last"]["eloRate"];
+    $p["stats"]["peak"]=$ss["data"]["seasonResult"]["highest"];
+    $p["stats"]["points"]=$ss["data"]["seasonResult"]["last"]["phasePoint"];
+    $p["stats"]["season"]=[];
+    $p["stats"]["season"]["current"]=$ss["data"]["statistics"]["season"]["currentWinStreak"]["ranked"];
+    $p["stats"]["season"]["streak"]=$ss["data"]["statistics"]["season"]["highestWinStreak"]["ranked"];
+    $p["stats"]["season"]["pb"]=$ss["data"]["statistics"]["season"]["bestTime"]["ranked"];
+    $p["stats"]["season"]["matches"]=$ss["data"]["statistics"]["season"]["playedMatches"]["ranked"];
+    $p["stats"]["season"]["finished"]=$ss["data"]["statistics"]["season"]["completions"]["ranked"];
+    $p["stats"]["season"]["won"]=$ss["data"]["statistics"]["season"]["wins"]["ranked"];
+    $p["stats"]["season"]["lost"]=$ss["data"]["statistics"]["season"]["loses"]["ranked"];
+    $p["stats"]["season"]["forfeited"]=$ss["data"]["statistics"]["season"]["forfeits"]["ranked"];
+    $p["stats"]["season"]["finishtime"]=$ss["data"]["statistics"]["season"]["completionTime"]["ranked"];
+    $p["stats"]["ranked"]=[];
+    $p["stats"]["ranked"]["streak"]=$ss["data"]["statistics"]["total"]["highestWinStreak"]["ranked"];
+    $p["stats"]["ranked"]["pb"]=$ss["data"]["statistics"]["total"]["bestTime"]["ranked"];
+    $p["stats"]["ranked"]["matches"]=$ss["data"]["statistics"]["total"]["playedMatches"]["ranked"];
+    $p["stats"]["ranked"]["finished"]=$ss["data"]["statistics"]["total"]["completions"]["ranked"];
+    $p["stats"]["ranked"]["won"]=$ss["data"]["statistics"]["total"]["wins"]["ranked"];
+    $p["stats"]["ranked"]["lost"]=$ss["data"]["statistics"]["total"]["loses"]["ranked"];
+    $p["stats"]["ranked"]["forfeited"]=$ss["data"]["statistics"]["total"]["forfeits"]["ranked"];
+    $p["stats"]["ranked"]["finishtime"]=$ss["data"]["statistics"]["total"]["completionTime"]["ranked"];
+
     $p["matches"]=[];
     $page=0;
     $done=false;
     while(!$done){
 
-      echo "(".++$request_counter.") ".$nick." page ".$page."\n";
-
       unset($matches);
       $matches=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
                                  "matches?page=$page&count=50&type=2$season_p");
+
+      echo "(".++$request_counter.") $nick page $page\n";
+
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
 
