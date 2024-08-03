@@ -155,12 +155,12 @@
   }
 
   $data=["date" => $now, "players" => $pp];
-  file_put_contents("../data/ranked{$season}.js", json_encode($data, JSON_PRETTY_PRINT));
+  file_put_contents("../data/season{$season}.js", json_encode($data, JSON_PRETTY_PRINT));
 
   if($season === ""){
     $season=$players["data"]["season"]["number"];
     $season_j=["season" => $season];
-    file_put_contents("../data/season.js", json_encode($season_j, JSON_PRETTY_PRINT));
+    file_put_contents("../data/current.js", json_encode($season_j, JSON_PRETTY_PRINT));
 
     echo "season $season\n";
 
