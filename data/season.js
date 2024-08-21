@@ -1,5 +1,5 @@
 {
-    "date": 1724255105000,
+    "date": 1724256001000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -719,11 +719,58 @@
                 }
             ]
         },
+        "ulsah1n": {
+            "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
+            "nickname": "ulsah1n",
+            "stats": {
+                "rank": 8,
+                "elo": 1595,
+                "peak": 1595,
+                "points": 0,
+                "current": 3,
+                "streak": 3,
+                "pb": 627609,
+                "matches": 7,
+                "finished": 4,
+                "won": 5,
+                "lost": 2,
+                "forfeited": 0,
+                "finishtime": 2955532
+            },
+            "matches": [
+                {
+                    "date": 1724255509000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "romuxii",
+                    "elo": 1595,
+                    "change": 18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 618359,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724254823000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "youisallineed",
+                    "elo": 1577,
+                    "change": 14,
+                    "oelo": 1368,
+                    "ochange": -14,
+                    "time": 627609,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
         "Ranik_": {
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 8,
+                "rank": 9,
                 "elo": 1584,
                 "peak": 1617,
                 "points": 0,
@@ -874,7 +921,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 8,
+                "rank": 9,
                 "elo": 1584,
                 "peak": 1597,
                 "points": 0,
@@ -990,40 +1037,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 629093,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        "ulsah1n": {
-            "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
-            "nickname": "ulsah1n",
-            "stats": {
-                "rank": 10,
-                "elo": 1577,
-                "peak": 1577,
-                "points": 0,
-                "current": 2,
-                "streak": 2,
-                "pb": 627609,
-                "matches": 6,
-                "finished": 4,
-                "won": 4,
-                "lost": 2,
-                "forfeited": 0,
-                "finishtime": 2955532
-            },
-            "matches": [
-                {
-                    "date": 1724254823000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "youisallineed",
-                    "elo": 1577,
-                    "change": 14,
-                    "oelo": 1368,
-                    "ochange": -14,
-                    "time": 627609,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -2753,11 +2766,45 @@
                 }
             ]
         },
+        "Elekid1": {
+            "uuid": "b1e69ebb9854410dacd114526c7e2775",
+            "nickname": "Elekid1",
+            "stats": {
+                "rank": 34,
+                "elo": 1428,
+                "peak": 1428,
+                "points": 0,
+                "current": 2,
+                "streak": 2,
+                "pb": 665500,
+                "matches": 6,
+                "finished": 2,
+                "won": 2,
+                "lost": 2,
+                "forfeited": 0,
+                "finishtime": 1417183
+            },
+            "matches": [
+                {
+                    "date": 1724255283000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "cylorun",
+                    "elo": 1428,
+                    "change": 21,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 751683,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
         "Waluyoshi": {
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1425,
                 "peak": 1467,
                 "points": 0,
@@ -2882,7 +2929,7 @@
             "uuid": "d10be6f072a34e069882ae04bfe60c98",
             "nickname": "Unknwonc",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1423,
                 "peak": 1481,
                 "points": 0,
@@ -3033,7 +3080,7 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcury_uwu",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1413,
                 "peak": 1427,
                 "points": 0,
@@ -3080,7 +3127,7 @@
             "uuid": "79dab6610bb34d6d8c6f8348bed3620e",
             "nickname": "Pi1Mu9353",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1413,
                 "peak": 1413,
                 "points": 0,
@@ -3127,7 +3174,7 @@
             "uuid": "7d3a6bb9f62645ae80cf40840ca84c50",
             "nickname": "MCSRShaq",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1407,
                 "peak": 1426,
                 "points": 0,
@@ -3247,26 +3294,6 @@
                     "decayed": false
                 }
             ]
-        },
-        "Elekid1": {
-            "uuid": "b1e69ebb9854410dacd114526c7e2775",
-            "nickname": "Elekid1",
-            "stats": {
-                "rank": 38,
-                "elo": 1407,
-                "peak": 1407,
-                "points": 0,
-                "current": 1,
-                "streak": 1,
-                "pb": 665500,
-                "matches": 5,
-                "finished": 1,
-                "won": 1,
-                "lost": 2,
-                "forfeited": 0,
-                "finishtime": 665500
-            },
-            "matches": []
         },
         "76543211": {
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
