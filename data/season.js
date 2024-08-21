@@ -1,5 +1,5 @@
 {
-    "date": 1724237999000,
+    "date": 1724239128000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -922,20 +922,33 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 10,
-                "elo": 1551,
+                "elo": 1528,
                 "peak": 1597,
                 "points": 0,
                 "current": 0,
                 "streak": 1,
                 "pb": 561084,
-                "matches": 7,
+                "matches": 8,
                 "finished": 2,
                 "won": 3,
-                "lost": 4,
+                "lost": 5,
                 "forfeited": 0,
                 "finishtime": 1247248
             },
             "matches": [
+                {
+                    "date": 1724238346000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "ParaF",
+                    "elo": 1528,
+                    "change": -23,
+                    "oelo": 1484,
+                    "ochange": 23,
+                    "time": 886604,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724236669000,
                     "type": "DESERT_TEMPLE",
@@ -1629,11 +1642,45 @@
                 }
             ]
         },
+        "ParaF": {
+            "uuid": "48f8239de9194ed79d1de6f95296c556",
+            "nickname": "ParaF",
+            "stats": {
+                "rank": 18,
+                "elo": 1484,
+                "peak": 1484,
+                "points": 0,
+                "current": 2,
+                "streak": 3,
+                "pb": 629093,
+                "matches": 6,
+                "finished": 5,
+                "won": 5,
+                "lost": 1,
+                "forfeited": 0,
+                "finishtime": 4141585
+            },
+            "matches": [
+                {
+                    "date": 1724238346000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "BlazeMind",
+                    "elo": 1484,
+                    "change": 23,
+                    "oelo": 1528,
+                    "ochange": -23,
+                    "time": 886604,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
         "nhb_": {
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 18,
+                "rank": 19,
                 "elo": 1474,
                 "peak": 1494,
                 "points": 0,
@@ -1779,26 +1826,6 @@
                     "decayed": false
                 }
             ]
-        },
-        "ParaF": {
-            "uuid": "48f8239de9194ed79d1de6f95296c556",
-            "nickname": "ParaF",
-            "stats": {
-                "rank": 19,
-                "elo": 1461,
-                "peak": 1461,
-                "points": 0,
-                "current": 1,
-                "streak": 3,
-                "pb": 629093,
-                "matches": 5,
-                "finished": 4,
-                "won": 4,
-                "lost": 1,
-                "forfeited": 0,
-                "finishtime": 3254981
-            },
-            "matches": []
         },
         "Thuliumm": {
             "uuid": "8e6ad53c2b2841bf96d512d578ba30ae",
@@ -3536,45 +3563,11 @@
             },
             "matches": []
         },
-        "szfam": {
-            "uuid": "bd693df926b8467685871cd9f6c0580e",
-            "nickname": "szfam",
-            "stats": {
-                "rank": 47,
-                "elo": 1328,
-                "peak": 1350,
-                "points": 0,
-                "current": 0,
-                "streak": 2,
-                "pb": 799416,
-                "matches": 6,
-                "finished": 1,
-                "won": 2,
-                "lost": 2,
-                "forfeited": 2,
-                "finishtime": 799416
-            },
-            "matches": [
-                {
-                    "date": 1724237725000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "TaFiz008",
-                    "elo": 1328,
-                    "change": -22,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 240455,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
         "shrddr": {
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1325,
                 "peak": 1325,
                 "points": 0,
@@ -3665,6 +3658,66 @@
                     "ochange": 9,
                     "time": 615803,
                     "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "szfam": {
+            "uuid": "bd693df926b8467685871cd9f6c0580e",
+            "nickname": "szfam",
+            "stats": {
+                "rank": 48,
+                "elo": 1321,
+                "peak": 1350,
+                "points": 0,
+                "current": 0,
+                "streak": 2,
+                "pb": 799416,
+                "matches": 8,
+                "finished": 1,
+                "won": 3,
+                "lost": 3,
+                "forfeited": 3,
+                "finishtime": 799416
+            },
+            "matches": [
+                {
+                    "date": 1724239115000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "CallMeBlumi",
+                    "elo": 1321,
+                    "change": -23,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 689982,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724238318000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "SZZEXA",
+                    "elo": 1344,
+                    "change": 16,
+                    "oelo": 1200,
+                    "ochange": -16,
+                    "time": 485213,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724237725000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "TaFiz008",
+                    "elo": 1328,
+                    "change": -22,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 240455,
+                    "forfeited": true,
                     "decayed": false
                 }
             ]
