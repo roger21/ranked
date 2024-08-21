@@ -52,7 +52,7 @@
   $pp=[];
   $cpt=0;
   foreach($players["data"]["users"] as $p){
-    $pp[$p["nickname"]]=["uuid" => $p["uuid"], "nickname" => $p["nickname"]];
+    $pp[]=["uuid" => $p["uuid"], "nickname" => $p["nickname"]];
     ++$cpt;
     if($cpt === $max_players){
       break;
@@ -60,13 +60,13 @@
   }
 
   $player_counter=0;
-  foreach($pp as $nick => &$p){
+  foreach($pp as &$p){
     $p["stats"]=[];
 
     unset($stats);
     $stats=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}$season_p1");
 
-    echo "(".++$request_counter.") $nick stats\n";
+    echo "(".++$request_counter.") {$p["nickname"]} stats\n";
 
     unset($ss);
     $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
@@ -94,7 +94,7 @@
       $matches=file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
                                  "matches?page=$page&count=50&type=2$season_p");
 
-      echo "(".++$request_counter.") $nick page $page\n";
+      echo "(".++$request_counter.") {$p["nickname"]} page $page\n";
 
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
@@ -150,7 +150,7 @@
       }
     }
 
-    echo "#".++$player_counter." $nick ".count($p["matches"])." matches\n";
+    echo "#".++$player_counter." {$p["nickname"]} ".count($p["matches"])." matches\n";
 
   }
 
