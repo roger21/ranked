@@ -1,7 +1,7 @@
 {
     "date": 1695081655000,
-    "players": {
-        "lowk3y_": {
+    "players": [
+        {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
@@ -1400,7 +1400,7 @@
                 }
             ]
         },
-        "Feinberg": {
+        {
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
@@ -3189,7 +3189,7 @@
                 }
             ]
         },
-        "Oxidiot": {
+        {
             "uuid": "562a308be86c4ec09438387860e792cc",
             "nickname": "Oxidiot",
             "stats": {
@@ -4549,7 +4549,7 @@
                 }
             ]
         },
-        "silverrruns": {
+        {
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
@@ -6117,7 +6117,7 @@
                 }
             ]
         },
-        "Priffin": {
+        {
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "Priffin",
             "stats": {
@@ -8181,7 +8181,7 @@
                     "date": 1691664186000,
                     "type": "VILLAGE",
                     "result": "won",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1766,
                     "change": 12,
                     "oelo": 1515,
@@ -8322,7 +8322,7 @@
                 }
             ]
         },
-        "7rowl": {
+        {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
@@ -10774,7 +10774,7 @@
                 }
             ]
         },
-        "bing_pigs": {
+        {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
@@ -13486,7 +13486,7 @@
                 }
             ]
         },
-        "Ancoboyy": {
+        {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
@@ -14198,7 +14198,7 @@
                     "date": 1694360641000,
                     "type": "SHIPWRECK",
                     "result": "lost",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1747,
                     "change": -27,
                     "oelo": 1590,
@@ -15108,7 +15108,7 @@
                     "date": 1692697395000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1531,
                     "change": 20,
                     "oelo": 1481,
@@ -15121,7 +15121,7 @@
                     "date": 1692695166000,
                     "type": "DESERT_TEMPLE",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1511,
                     "change": 15,
                     "oelo": 1331,
@@ -15548,7 +15548,7 @@
                 }
             ]
         },
-        "dandannyboy": {
+        {
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
@@ -17727,7 +17727,7 @@
                 }
             ]
         },
-        "doogile": {
+        {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
@@ -18528,7 +18528,7 @@
                 }
             ]
         },
-        "hackingnoises": {
+        {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "nickname": "hackingnoises",
             "stats": {
@@ -20278,7 +20278,7 @@
                 }
             ]
         },
-        "Ranik_": {
+        {
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
@@ -22147,7 +22147,7 @@
                     "date": 1694546745000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1600,
                     "change": 14,
                     "oelo": 1411,
@@ -22446,7 +22446,7 @@
                     "date": 1694451191000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1638,
                     "change": 12,
                     "oelo": 1381,
@@ -24019,7 +24019,7 @@
                     "date": 1692008487000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1688,
                     "change": -28,
                     "oelo": 1505,
@@ -24251,7 +24251,7 @@
                 }
             ]
         },
-        "Dimeax": {
+        {
             "uuid": "7f36b01d1b8f4fbcab4df24a454d6e15",
             "nickname": "Dimeax",
             "stats": {
@@ -24558,7 +24558,7 @@
                 }
             ]
         },
-        "DougThePig": {
+        {
             "uuid": "59f81e4943014bffa80513d56de77728",
             "nickname": "DougThePig",
             "stats": {
@@ -25021,7 +25021,7 @@
                 }
             ]
         },
-        "sockmonkey747": {
+        {
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "sockmonkey747",
             "stats": {
@@ -25393,7 +25393,7 @@
                 }
             ]
         },
-        "MoleyG": {
+        {
             "uuid": "fa1bec35058546c98f9279f8be7cf9bc",
             "nickname": "MoleyG",
             "stats": {
@@ -26638,7 +26638,7 @@
                     "date": 1691662161000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1711,
                     "change": 15,
                     "oelo": 1527,
@@ -27065,7 +27065,7 @@
                 }
             ]
         },
-        "BeefSalad": {
+        {
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
@@ -29465,7 +29465,7 @@
                 }
             ]
         },
-        "VDPineapple": {
+        {
             "uuid": "133d542cb20946ec8c56fd5a675ce4d3",
             "nickname": "VDPineapple",
             "stats": {
@@ -30331,7 +30331,7 @@
                 }
             ]
         },
-        "AceRPx": {
+        {
             "uuid": "804da783a9e14f5f8e97c6dd8b045595",
             "nickname": "AceRPx",
             "stats": {
@@ -30354,7 +30354,7 @@
                     "date": 1695057957000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1742,
                     "change": 12,
                     "oelo": 1473,
@@ -30885,7 +30885,7 @@
                 }
             ]
         },
-        "3crimson": {
+        {
             "uuid": "8b6de3393be345fdb8dcf0959f42f457",
             "nickname": "3crimson",
             "stats": {
@@ -31673,7 +31673,7 @@
                 }
             ]
         },
-        "90Tom": {
+        {
             "uuid": "0b863352af474dd389ec64e9eb1a38c0",
             "nickname": "90Tom",
             "stats": {
@@ -32461,7 +32461,7 @@
                 }
             ]
         },
-        "xShatter": {
+        {
             "uuid": "ba8ca44d9ac044808f6ae745769b8ec5",
             "nickname": "xShatter",
             "stats": {
@@ -35537,7 +35537,7 @@
                 }
             ]
         },
-        "ulsah1n": {
+        {
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
@@ -36611,7 +36611,7 @@
                 }
             ]
         },
-        "TapL": {
+        {
             "uuid": "2e12870c08ec4337bc2e8fbf54e79853",
             "nickname": "TapL",
             "stats": {
@@ -37310,7 +37310,7 @@
                     "date": 1694753734000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1659,
                     "change": 16,
                     "oelo": 1515,
@@ -39884,7 +39884,7 @@
                     "date": 1692695370000,
                     "type": "BURIED_TREASURE",
                     "result": "lost",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1502,
                     "change": -22,
                     "oelo": 1501,
@@ -40118,7 +40118,7 @@
                     "date": 1692615873000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1550,
                     "change": 13,
                     "oelo": 1326,
@@ -40157,7 +40157,7 @@
                     "date": 1692611677000,
                     "type": "VILLAGE",
                     "result": "lost",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1543,
                     "change": -22,
                     "oelo": 1520,
@@ -40170,7 +40170,7 @@
                     "date": 1692610456000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1565,
                     "change": 16,
                     "oelo": 1434,
@@ -41000,7 +41000,7 @@
                 }
             ]
         },
-        "vrapues_i_shpejt": {
+        {
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "vrapues_i_shpejt",
             "stats": {
@@ -41062,7 +41062,7 @@
                     "date": 1694601503000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1683,
                     "change": 18,
                     "oelo": 1596,
@@ -41114,7 +41114,7 @@
                     "date": 1694596528000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1616,
                     "change": 20,
                     "oelo": 1587,
@@ -41140,7 +41140,7 @@
                     "date": 1694592509000,
                     "type": "VILLAGE",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1623,
                     "change": 20,
                     "oelo": 1581,
@@ -41801,7 +41801,7 @@
                 }
             ]
         },
-        "ThaShape": {
+        {
             "uuid": "3b945bbc6cef48c8b76e1f65580df71d",
             "nickname": "ThaShape",
             "stats": {
@@ -43746,7 +43746,7 @@
                 }
             ]
         },
-        "VMiZ": {
+        {
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
@@ -44430,7 +44430,7 @@
                 }
             ]
         },
-        "v_strid": {
+        {
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
@@ -48145,7 +48145,7 @@
                     "date": 1693832584000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1628,
                     "change": 13,
                     "oelo": 1405,
@@ -49107,7 +49107,7 @@
                     "date": 1693406167000,
                     "type": "DESERT_TEMPLE",
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1685,
                     "change": 13,
                     "oelo": 1444,
@@ -49614,7 +49614,7 @@
                     "date": 1691667280000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1751,
                     "change": 13,
                     "oelo": 1516,
@@ -50043,7 +50043,7 @@
                     "date": 1691342538000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1735,
                     "change": 14,
                     "oelo": 1526,
@@ -50743,7 +50743,7 @@
                 }
             ]
         },
-        "Thunderstorming": {
+        {
             "uuid": "278f495d4e944ebe94ab01c571ac188e",
             "nickname": "Thunderstorming",
             "stats": {
@@ -51193,7 +51193,7 @@
                 }
             ]
         },
-        "orachi_": {
+        {
             "uuid": "56714245be364bd1a469d0853552c109",
             "nickname": "orachi_",
             "stats": {
@@ -51864,7 +51864,7 @@
                 }
             ]
         },
-        "drx6": {
+        {
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "stats": {
@@ -52548,7 +52548,7 @@
                 }
             ]
         },
-        "Reignex": {
+        {
             "uuid": "a536eec9a68e4d309cd09f5af4c006a7",
             "nickname": "Reignex",
             "stats": {
@@ -53583,7 +53583,7 @@
                 }
             ]
         },
-        "Tenes9999": {
+        {
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "Tenes9999",
             "stats": {
@@ -54657,7 +54657,7 @@
                 }
             ]
         },
-        "dolqhin": {
+        {
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
@@ -55003,7 +55003,7 @@
                 }
             ]
         },
-        "kW1st": {
+        {
             "uuid": "4427794ee7ad48bc9b53c156fa4092e1",
             "nickname": "kW1st",
             "stats": {
@@ -55871,7 +55871,7 @@
                     "date": 1694807945000,
                     "type": "VILLAGE",
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1685,
                     "change": 12,
                     "oelo": 1428,
@@ -57143,7 +57143,7 @@
                 }
             ]
         },
-        "Parkertwo": {
+        {
             "uuid": "8e662c4655534e00802d563043cd8739",
             "nickname": "Parkertwo",
             "stats": {
@@ -58542,7 +58542,7 @@
                 }
             ]
         },
-        "MrBudgiee": {
+        {
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
@@ -59358,7 +59358,7 @@
                     "date": 1692294087000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1548,
                     "change": 19,
                     "oelo": 1485,
@@ -59618,7 +59618,7 @@
                     "date": 1691896503000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "Erebus____",
+                    "opponent": "ArcanePulse_",
                     "elo": 1371,
                     "change": 20,
                     "oelo": 1337,
@@ -59772,7 +59772,7 @@
                 }
             ]
         },
-        "BadGamer": {
+        {
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
@@ -60326,7 +60326,7 @@
                 }
             ]
         },
-        "pulsar32": {
+        {
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "pulsar32",
             "stats": {
@@ -62089,7 +62089,7 @@
                 }
             ]
         },
-        "dwoh": {
+        {
             "uuid": "3910d98bea254b488a10d6e91e469f7e",
             "nickname": "dwoh",
             "stats": {
@@ -62994,7 +62994,7 @@
                 }
             ]
         },
-        "meebie": {
+        {
             "uuid": "ba31689fe7d24431bf7997a52efcc21c",
             "nickname": "meebie",
             "stats": {
@@ -63017,7 +63017,7 @@
                     "date": 1695078367000,
                     "type": "RUINED_PORTAL",
                     "result": "lost",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1656,
                     "change": -24,
                     "oelo": 1593,
@@ -63082,7 +63082,7 @@
                     "date": 1695058748000,
                     "type": "DESERT_TEMPLE",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1624,
                     "change": 15,
                     "oelo": 1458,
@@ -63886,7 +63886,7 @@
                 }
             ]
         },
-        "Dylqn": {
+        {
             "uuid": "2f59967f6a7841ab840e2cb032589a04",
             "nickname": "Dylqn",
             "stats": {
@@ -64674,7 +64674,7 @@
                 }
             ]
         },
-        "B0g0sB1nted": {
+        {
             "uuid": "478b956844414cba9cfccb2977b71962",
             "nickname": "B0g0sB1nted",
             "stats": {
@@ -65139,7 +65139,7 @@
                     "date": 1693854534000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1626,
                     "change": 15,
                     "oelo": 1452,
@@ -65802,7 +65802,7 @@
                     "date": 1693332157000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "TRUODLUE",
+                    "opponent": "TDORULERD",
                     "elo": 1442,
                     "change": 21,
                     "oelo": 1419,
@@ -66593,7 +66593,7 @@
                 }
             ]
         },
-        "EvanKeen": {
+        {
             "uuid": "4894c631e820409ebe4447e4e9835e90",
             "nickname": "EvanKeen",
             "stats": {
@@ -66642,7 +66642,7 @@
                     "date": 1695076075000,
                     "type": "SHIPWRECK",
                     "result": "lost",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1608,
                     "change": -25,
                     "oelo": 1504,
@@ -68252,7 +68252,7 @@
                 }
             ]
         },
-        "Aquacorde": {
+        {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
@@ -68938,7 +68938,7 @@
                     "date": 1694199333000,
                     "type": "BURIED_TREASURE",
                     "result": "won",
-                    "opponent": "ScrougBeta1337s",
+                    "opponent": "youisallineed",
                     "elo": 1635,
                     "change": 15,
                     "oelo": 1454,
@@ -69133,7 +69133,7 @@
                     "date": 1694121876000,
                     "type": "SHIPWRECK",
                     "result": "lost",
-                    "opponent": "zBlxckie_",
+                    "opponent": "AuroreButBlack",
                     "elo": 1550,
                     "change": -28,
                     "oelo": 1368,
@@ -69651,7 +69651,7 @@
                 }
             ]
         },
-        "temp_gd": {
+        {
             "uuid": "2549857b8bbf48ad8659ad6c410209a9",
             "nickname": "temp_gd",
             "stats": {
@@ -71063,7 +71063,7 @@
                 }
             ]
         },
-        "Emillk": {
+        {
             "uuid": "99aa9e0e8034479a90259e244dfb9029",
             "nickname": "Emillk",
             "stats": {
@@ -72293,7 +72293,7 @@
                 }
             ]
         },
-        "jamyreaf": {
+        {
             "uuid": "a0c06d33c69941d09b22e0c98c4233fd",
             "nickname": "jamyreaf",
             "stats": {
@@ -72756,7 +72756,7 @@
                 }
             ]
         },
-        "zidouri": {
+        {
             "uuid": "6fbedfe6fbf14495a1b45b98e9f896e5",
             "nickname": "zidouri",
             "stats": {
@@ -73232,7 +73232,7 @@
                 }
             ]
         },
-        "dimowo": {
+        {
             "uuid": "b39f5648c91d42dfb121655f2aa52970",
             "nickname": "dimowo",
             "stats": {
@@ -73877,5 +73877,5 @@
                 }
             ]
         }
-    }
+    ]
 }
