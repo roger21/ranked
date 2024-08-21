@@ -1,5 +1,5 @@
 {
-    "date": 1724233495000,
+    "date": 1724234403000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3581,6 +3581,26 @@
                 }
             ]
         },
+        "LIMEEE_E": {
+            "uuid": "4f8d6d12eacf43218f4baade7a8e451e",
+            "nickname": "LIMEEE_E",
+            "stats": {
+                "rank": 48,
+                "elo": 1313,
+                "peak": 1313,
+                "points": 0,
+                "current": 1,
+                "streak": 1,
+                "pb": 800538,
+                "matches": 5,
+                "finished": 1,
+                "won": 3,
+                "lost": 2,
+                "forfeited": 0,
+                "finishtime": 800538
+            },
+            "matches": []
+        },
         "LoveAyu_uwu": {
             "uuid": "fe356b1126c048dd8f3ef7b2636f83ae",
             "nickname": "LoveAyu_uwu",
@@ -3605,7 +3625,7 @@
             "uuid": "a321dc9a6c004adab3434379a72daba3",
             "nickname": "Dawn357x",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1312,
                 "peak": 1334,
                 "points": 0,
@@ -3631,144 +3651,6 @@
                     "ochange": 22,
                     "time": 935424,
                     "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        "Squirrelzh": {
-            "uuid": "19d08db54e124602bbfbd140aa984e05",
-            "nickname": "Squirrelzh",
-            "stats": {
-                "rank": 50,
-                "elo": 1311,
-                "peak": 1311,
-                "points": 0,
-                "current": 3,
-                "streak": 5,
-                "pb": 724171,
-                "matches": 14,
-                "finished": 6,
-                "won": 9,
-                "lost": 4,
-                "forfeited": 4,
-                "finishtime": 4941694
-            },
-            "matches": [
-                {
-                    "date": 1724230511000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "shrddr",
-                    "elo": 1311,
-                    "change": 21,
-                    "oelo": 1289,
-                    "ochange": -21,
-                    "time": 737606,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724229650000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "Wayyyyyy__",
-                    "elo": 1290,
-                    "change": 19,
-                    "oelo": 1225,
-                    "ochange": -19,
-                    "time": 724171,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724228869000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "womenshiguanjun",
-                    "elo": 1271,
-                    "change": 24,
-                    "oelo": 1339,
-                    "ochange": -24,
-                    "time": 852448,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724227796000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "wh0is0tt0",
-                    "elo": 1247,
-                    "change": -21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 719440,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1724226780000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "5x_uwu",
-                    "elo": 1268,
-                    "change": 18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 953355,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724225657000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "harusame_0123",
-                    "elo": 1250,
-                    "change": 23,
-                    "oelo": 1274,
-                    "ochange": -23,
-                    "time": 736014,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724224847000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "Yuzukicraft",
-                    "elo": 1227,
-                    "change": 18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 938100,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724223394000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "JokerTenidy",
-                    "elo": 1209,
-                    "change": 21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 839505,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1724222497000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "Leaflet_qwq",
-                    "elo": 1188,
-                    "change": 21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 467028,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
