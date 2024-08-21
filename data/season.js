@@ -1,5 +1,5 @@
 {
-    "date": 1724234403000,
+    "date": 1724236115000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -620,31 +620,11 @@
                 }
             ]
         },
-        "BlazeMind": {
-            "uuid": "ac601ce7376f49cea7ce14cd577dac85",
-            "nickname": "BlazeMind",
-            "stats": {
-                "rank": 7,
-                "elo": 1597,
-                "peak": 1597,
-                "points": 0,
-                "current": 1,
-                "streak": 1,
-                "pb": 561084,
-                "matches": 5,
-                "finished": 2,
-                "won": 3,
-                "lost": 2,
-                "forfeited": 0,
-                "finishtime": 1247248
-            },
-            "matches": []
-        },
         "WarioTime1": {
             "uuid": "8d52ed9bf12146c68321f1729e28cbf5",
             "nickname": "WarioTime1",
             "stats": {
-                "rank": 8,
+                "rank": 7,
                 "elo": 1596,
                 "peak": 1609,
                 "points": 0,
@@ -743,7 +723,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 9,
+                "rank": 8,
                 "elo": 1584,
                 "peak": 1617,
                 "points": 0,
@@ -885,6 +865,40 @@
                     "oelo": 1586,
                     "ochange": -21,
                     "time": 669885,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "BlazeMind": {
+            "uuid": "ac601ce7376f49cea7ce14cd577dac85",
+            "nickname": "BlazeMind",
+            "stats": {
+                "rank": 9,
+                "elo": 1571,
+                "peak": 1597,
+                "points": 0,
+                "current": 0,
+                "streak": 1,
+                "pb": 561084,
+                "matches": 6,
+                "finished": 2,
+                "won": 3,
+                "lost": 3,
+                "forfeited": 0,
+                "finishtime": 1247248
+            },
+            "matches": [
+                {
+                    "date": 1724235628000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "ParaF",
+                    "elo": 1571,
+                    "change": -26,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 629093,
                     "forfeited": false,
                     "decayed": false
                 }
