@@ -1,5 +1,5 @@
 {
-    "date": 1724247247000,
+    "date": 1724248056000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3519,7 +3519,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "JoomzMonkey",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1363,
                 "peak": 1402,
                 "points": 0,
@@ -3631,7 +3631,7 @@
             "uuid": "5ed4859570fd43c8a9d485dd93388686",
             "nickname": "Mc_Bingliang",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1359,
                 "peak": 1359,
                 "points": 0,
@@ -3651,7 +3651,7 @@
             "uuid": "1a709bc2947b4e3f8b4d590b95b7b0bc",
             "nickname": "le4ves",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1353,
                 "peak": 1353,
                 "points": 0,
@@ -3671,7 +3671,7 @@
             "uuid": "d39c42992602442cbcbe5f4ead016690",
             "nickname": "TaFiz008",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1353,
                 "peak": 1353,
                 "points": 0,
@@ -3691,7 +3691,7 @@
             "uuid": "4c3bc64c9f0a4cd988cad7703d80379e",
             "nickname": "ColeTM",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1352,
                 "peak": 1352,
                 "points": 0,
@@ -3711,7 +3711,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1352,
                 "peak": 1370,
                 "points": 0,
@@ -3823,7 +3823,7 @@
             "uuid": "1a71528dc0274145a5d111f57ab6c270",
             "nickname": "Starchomper",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1351,
                 "peak": 1384,
                 "points": 0,
