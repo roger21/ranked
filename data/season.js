@@ -1,5 +1,5 @@
 {
-    "date": 1724241624000,
+    "date": 1724244089000,
     "players": {
         "doogile": {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -870,145 +870,64 @@
                 }
             ]
         },
-        "v_strid": {
-            "uuid": "388533d5a2ad4b349a31db4738670a4b",
-            "nickname": "v_strid",
-            "stats": {
-                "rank": 9,
-                "elo": 1553,
-                "peak": 1575,
-                "points": 0,
-                "current": 0,
-                "streak": 1,
-                "pb": 579705,
-                "matches": 7,
-                "finished": 2,
-                "won": 2,
-                "lost": 4,
-                "forfeited": 1,
-                "finishtime": 1187522
-            },
-            "matches": [
-                {
-                    "date": 1724203902000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "Hypn0tic2030",
-                    "elo": 1553,
-                    "change": -22,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 804164,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724203025000,
-                    "type": "SHIPWRECK",
-                    "result": "draw",
-                    "opponent": "KenanKardes",
-                    "elo": 1575,
-                    "change": 1,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 527044,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
-        "ParaF": {
-            "uuid": "48f8239de9194ed79d1de6f95296c556",
-            "nickname": "ParaF",
-            "stats": {
-                "rank": 10,
-                "elo": 1540,
-                "peak": 1540,
-                "points": 0,
-                "current": 5,
-                "streak": 5,
-                "pb": 563711,
-                "matches": 9,
-                "finished": 8,
-                "won": 8,
-                "lost": 1,
-                "forfeited": 0,
-                "finishtime": 6353420
-            },
-            "matches": [
-                {
-                    "date": 1724241260000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "KostuGaming",
-                    "elo": 1540,
-                    "change": 17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 563711,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724240459000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Erikfzf",
-                    "elo": 1523,
-                    "change": 23,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 833714,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724239529000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "TaFiz008",
-                    "elo": 1500,
-                    "change": 16,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 814410,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724238346000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 1484,
-                    "change": 23,
-                    "oelo": 1528,
-                    "ochange": -23,
-                    "time": 886604,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
         "BlazeMind": {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 11,
-                "elo": 1528,
+                "rank": 8,
+                "elo": 1584,
                 "peak": 1597,
                 "points": 0,
-                "current": 0,
-                "streak": 1,
+                "current": 3,
+                "streak": 3,
                 "pb": 561084,
-                "matches": 10,
-                "finished": 3,
-                "won": 4,
+                "matches": 13,
+                "finished": 6,
+                "won": 7,
                 "lost": 6,
                 "forfeited": 0,
-                "finishtime": 2036728
+                "finishtime": 4448177
             },
             "matches": [
+                {
+                    "date": 1724243713000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "drx6",
+                    "elo": 1584,
+                    "change": 19,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 719370,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724242868000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Erikfzf",
+                    "elo": 1565,
+                    "change": 22,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 1094780,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724241656000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "_wuh",
+                    "elo": 1543,
+                    "change": 15,
+                    "oelo": 1383,
+                    "ochange": -15,
+                    "time": 597299,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724240868000,
                     "type": "BURIED_TREASURE",
@@ -1076,11 +995,178 @@
                 }
             ]
         },
+        "ParaF": {
+            "uuid": "48f8239de9194ed79d1de6f95296c556",
+            "nickname": "ParaF",
+            "stats": {
+                "rank": 10,
+                "elo": 1561,
+                "peak": 1561,
+                "points": 0,
+                "current": 6,
+                "streak": 6,
+                "pb": 563711,
+                "matches": 10,
+                "finished": 8,
+                "won": 9,
+                "lost": 1,
+                "forfeited": 0,
+                "finishtime": 6353420
+            },
+            "matches": [
+                {
+                    "date": 1724243623000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "Erikfzf",
+                    "elo": 1561,
+                    "change": 21,
+                    "oelo": 1533,
+                    "ochange": -21,
+                    "time": 688336,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724241260000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "KostuGaming",
+                    "elo": 1540,
+                    "change": 17,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 563711,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724240459000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "Erikfzf",
+                    "elo": 1523,
+                    "change": 23,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 833714,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724239529000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "TaFiz008",
+                    "elo": 1500,
+                    "change": 16,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 814410,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724238346000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "BlazeMind",
+                    "elo": 1484,
+                    "change": 23,
+                    "oelo": 1528,
+                    "ochange": -23,
+                    "time": 886604,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        "v_strid": {
+            "uuid": "388533d5a2ad4b349a31db4738670a4b",
+            "nickname": "v_strid",
+            "stats": {
+                "rank": 11,
+                "elo": 1553,
+                "peak": 1575,
+                "points": 0,
+                "current": 0,
+                "streak": 1,
+                "pb": 579705,
+                "matches": 7,
+                "finished": 2,
+                "won": 2,
+                "lost": 4,
+                "forfeited": 1,
+                "finishtime": 1187522
+            },
+            "matches": [
+                {
+                    "date": 1724203902000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Hypn0tic2030",
+                    "elo": 1553,
+                    "change": -22,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 804164,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724203025000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "KenanKardes",
+                    "elo": 1575,
+                    "change": 1,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 527044,
+                    "forfeited": true,
+                    "decayed": false
+                }
+            ]
+        },
+        "Erikfzf": {
+            "uuid": "c32cdd142a0147dcb91771319d745194",
+            "nickname": "Erikfzf",
+            "stats": {
+                "rank": 12,
+                "elo": 1533,
+                "peak": 1554,
+                "points": 0,
+                "current": 0,
+                "streak": 2,
+                "pb": 595144,
+                "matches": 6,
+                "finished": 3,
+                "won": 3,
+                "lost": 3,
+                "forfeited": 1,
+                "finishtime": 1847790
+            },
+            "matches": [
+                {
+                    "date": 1724243623000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "ParaF",
+                    "elo": 1533,
+                    "change": -21,
+                    "oelo": 1561,
+                    "ochange": 21,
+                    "time": 688336,
+                    "forfeited": true,
+                    "decayed": false
+                }
+            ]
+        },
         "thecamo6": {
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 1522,
                 "peak": 1620,
                 "points": 0,
@@ -1179,7 +1265,7 @@
             "uuid": "8dcad0ea9f7444ee8eb0a1aa5b868331",
             "nickname": "emia",
             "stats": {
-                "rank": 13,
+                "rank": 14,
                 "elo": 1518,
                 "peak": 1518,
                 "points": 0,
@@ -1199,7 +1285,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 14,
+                "rank": 15,
                 "elo": 1512,
                 "peak": 1512,
                 "points": 0,
@@ -1219,7 +1305,7 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "itsnahan",
             "stats": {
-                "rank": 15,
+                "rank": 16,
                 "elo": 1510,
                 "peak": 1562,
                 "points": 0,
@@ -1578,7 +1664,7 @@
             "uuid": "ba31689fe7d24431bf7997a52efcc21c",
             "nickname": "meebie",
             "stats": {
-                "rank": 16,
+                "rank": 17,
                 "elo": 1497,
                 "peak": 1497,
                 "points": 0,
@@ -1612,7 +1698,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "sockmonkey747",
             "stats": {
-                "rank": 17,
+                "rank": 18,
                 "elo": 1491,
                 "peak": 1491,
                 "points": 0,
@@ -1672,7 +1758,7 @@
             "uuid": "728fdcab24b249b686c081a7fc53176e",
             "nickname": "ContraVz",
             "stats": {
-                "rank": 18,
+                "rank": 19,
                 "elo": 1485,
                 "peak": 1485,
                 "points": 0,
@@ -1745,7 +1831,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 1474,
                 "peak": 1494,
                 "points": 0,
@@ -1896,7 +1982,7 @@
             "uuid": "8e6ad53c2b2841bf96d512d578ba30ae",
             "nickname": "Thuliumm",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 1456,
                 "peak": 1472,
                 "points": 0,
@@ -1943,7 +2029,7 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "Danterus",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1450,
                 "peak": 1450,
                 "points": 0,
@@ -2016,7 +2102,7 @@
             "uuid": "a81886565121479782d42408d94fe97d",
             "nickname": "affordab1e",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 1446,
                 "peak": 1446,
                 "points": 0,
@@ -2036,7 +2122,7 @@
             "uuid": "dbd6c4efd2d94de7972a6efd0097118e",
             "nickname": "lyxier",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1440,
                 "peak": 1474,
                 "points": 0,
@@ -2174,7 +2260,7 @@
             "uuid": "3910d98bea254b488a10d6e91e469f7e",
             "nickname": "dwoh",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 1432,
                 "peak": 1432,
                 "points": 0,
@@ -2194,7 +2280,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1429,
                 "peak": 1486,
                 "points": 0,
@@ -2306,7 +2392,7 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 1425,
                 "peak": 1467,
                 "points": 0,
@@ -2431,7 +2517,7 @@
             "uuid": "d10be6f072a34e069882ae04bfe60c98",
             "nickname": "Unknwonc",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 1423,
                 "peak": 1481,
                 "points": 0,
@@ -2582,7 +2668,7 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcury_uwu",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 1413,
                 "peak": 1427,
                 "points": 0,
@@ -2629,7 +2715,7 @@
             "uuid": "7d3a6bb9f62645ae80cf40840ca84c50",
             "nickname": "MCSRShaq",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 1407,
                 "peak": 1426,
                 "points": 0,
@@ -2750,11 +2836,71 @@
                 }
             ]
         },
+        "_wuh": {
+            "uuid": "4356d6b223ca472992196afab758f861",
+            "nickname": "_wuh",
+            "stats": {
+                "rank": 31,
+                "elo": 1402,
+                "peak": 1402,
+                "points": 0,
+                "current": 1,
+                "streak": 3,
+                "pb": 807685,
+                "matches": 8,
+                "finished": 2,
+                "won": 5,
+                "lost": 3,
+                "forfeited": 1,
+                "finishtime": 1785295
+            },
+            "matches": [
+                {
+                    "date": 1724242726000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Diamond4566",
+                    "elo": 1402,
+                    "change": 19,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 977610,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724241656000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "BlazeMind",
+                    "elo": 1383,
+                    "change": -15,
+                    "oelo": 1543,
+                    "ochange": 15,
+                    "time": 597299,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724240941000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "MultiPori",
+                    "elo": 1398,
+                    "change": 18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 604146,
+                    "forfeited": true,
+                    "decayed": false
+                }
+            ]
+        },
         "21mustard": {
             "uuid": "3a07fee4ce5a4f22b5f2bf207d075e0f",
             "nickname": "21mustard",
             "stats": {
-                "rank": 30,
+                "rank": 32,
                 "elo": 1399,
                 "peak": 1399,
                 "points": 0,
@@ -2774,7 +2920,7 @@
             "uuid": "272868ba0e064d54887b5a0130eadad8",
             "nickname": "OneOf_",
             "stats": {
-                "rank": 31,
+                "rank": 33,
                 "elo": 1398,
                 "peak": 1398,
                 "points": 0,
@@ -2790,45 +2936,11 @@
             },
             "matches": []
         },
-        "_wuh": {
-            "uuid": "4356d6b223ca472992196afab758f861",
-            "nickname": "_wuh",
-            "stats": {
-                "rank": 31,
-                "elo": 1398,
-                "peak": 1398,
-                "points": 0,
-                "current": 3,
-                "streak": 3,
-                "pb": 807685,
-                "matches": 6,
-                "finished": 1,
-                "won": 4,
-                "lost": 2,
-                "forfeited": 1,
-                "finishtime": 807685
-            },
-            "matches": [
-                {
-                    "date": 1724240941000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "MultiPori",
-                    "elo": 1398,
-                    "change": 18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 604146,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
         "fish_ayu": {
             "uuid": "b6d951be72ad46949413f3a3d28aae7d",
             "nickname": "fish_ayu",
             "stats": {
-                "rank": 31,
+                "rank": 33,
                 "elo": 1398,
                 "peak": 1398,
                 "points": 0,
@@ -2848,7 +2960,7 @@
             "uuid": "011001399c1042548686240184c232b5",
             "nickname": "branchleaves",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1395,
                 "peak": 1395,
                 "points": 0,
@@ -2868,7 +2980,7 @@
             "uuid": "3666a63719fd44ecaea931c0dcd9c0d9",
             "nickname": "dillrice",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1386,
                 "peak": 1386,
                 "points": 0,
@@ -2888,7 +3000,7 @@
             "uuid": "522bc638a17243ad8551395aeec56e6f",
             "nickname": "masa_ERC",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1374,
                 "peak": 1374,
                 "points": 0,
@@ -2908,7 +3020,7 @@
             "uuid": "138dea690f95487f84589ca6b511f066",
             "nickname": "womenshiguanjun",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1369,
                 "peak": 1398,
                 "points": 0,
@@ -3124,7 +3236,7 @@
             "uuid": "b7c33934e1da432498a09bed82f958bb",
             "nickname": "wh0is0tt0",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1369,
                 "peak": 1369,
                 "points": 0,
@@ -3144,7 +3256,7 @@
             "uuid": "0388b80ebe6c4216b4a8305c0cd27894",
             "nickname": "tommorerow",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1368,
                 "peak": 1368,
                 "points": 0,
@@ -3159,105 +3271,6 @@
                 "finishtime": 946897
             },
             "matches": []
-        },
-        "76543211": {
-            "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
-            "nickname": "76543211",
-            "stats": {
-                "rank": 40,
-                "elo": 1365,
-                "peak": 1365,
-                "points": 0,
-                "current": 1,
-                "streak": 3,
-                "pb": 761850,
-                "matches": 11,
-                "finished": 6,
-                "won": 6,
-                "lost": 2,
-                "forfeited": 1,
-                "finishtime": 5276616
-            },
-            "matches": [
-                {
-                    "date": 1724231470000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "SharikFrBall",
-                    "elo": 1365,
-                    "change": 19,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 1182202,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724230009000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "BachToSchool",
-                    "elo": 1346,
-                    "change": -15,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 774916,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724229096000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Sj_oo",
-                    "elo": 1361,
-                    "change": 18,
-                    "oelo": 1271,
-                    "ochange": -18,
-                    "time": 765974,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724228196000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "draw",
-                    "opponent": "xttiantian",
-                    "elo": 1343,
-                    "change": 0,
-                    "oelo": 1311,
-                    "ochange": 0,
-                    "time": 1,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1724228075000,
-                    "type": "RUINED_PORTAL",
-                    "result": "won",
-                    "opponent": "SharikFrBall",
-                    "elo": 1343,
-                    "change": 20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 781389,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724226998000,
-                    "type": "SHIPWRECK",
-                    "result": "draw",
-                    "opponent": "xttiantian",
-                    "elo": 1323,
-                    "change": 0,
-                    "oelo": 1286,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
         },
         "JoomzMonkey": {
             "uuid": "410e5776b03a424d8740557bac2d9014",
@@ -3662,31 +3675,222 @@
                 }
             ]
         },
-        "D1VN": {
-            "uuid": "05d942d9a8e342fdad1310ff24fe720a",
-            "nickname": "D1VN",
+        "76543211": {
+            "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
+            "nickname": "76543211",
             "stats": {
                 "rank": 48,
-                "elo": 1337,
-                "peak": 1337,
+                "elo": 1347,
+                "peak": 1365,
                 "points": 0,
-                "current": 5,
-                "streak": 5,
-                "pb": 918459,
-                "matches": 5,
-                "finished": 3,
-                "won": 5,
-                "lost": 0,
-                "forfeited": 0,
-                "finishtime": 4376435
+                "current": 0,
+                "streak": 3,
+                "pb": 761850,
+                "matches": 12,
+                "finished": 6,
+                "won": 6,
+                "lost": 3,
+                "forfeited": 1,
+                "finishtime": 5276616
             },
-            "matches": []
+            "matches": [
+                {
+                    "date": 1724243342000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "KostuGaming",
+                    "elo": 1347,
+                    "change": -18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 925385,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724231470000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "SharikFrBall",
+                    "elo": 1365,
+                    "change": 19,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 1182202,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724230009000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "BachToSchool",
+                    "elo": 1346,
+                    "change": -15,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 774916,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724229096000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Sj_oo",
+                    "elo": 1361,
+                    "change": 18,
+                    "oelo": 1271,
+                    "ochange": -18,
+                    "time": 765974,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724228196000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "draw",
+                    "opponent": "xttiantian",
+                    "elo": 1343,
+                    "change": 0,
+                    "oelo": 1311,
+                    "ochange": 0,
+                    "time": 1,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724228075000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "SharikFrBall",
+                    "elo": 1343,
+                    "change": 20,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 781389,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724226998000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "xttiantian",
+                    "elo": 1323,
+                    "change": 0,
+                    "oelo": 1286,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": false
+                }
+            ]
+        },
+        "qxuse": {
+            "uuid": "e516d764b0c343c7976c43bdc02830cb",
+            "nickname": "qxuse",
+            "stats": {
+                "rank": 49,
+                "elo": 1328,
+                "peak": 1328,
+                "points": 0,
+                "current": 3,
+                "streak": 3,
+                "pb": 829408,
+                "matches": 11,
+                "finished": 5,
+                "won": 7,
+                "lost": 3,
+                "forfeited": 3,
+                "finishtime": 5127111
+            },
+            "matches": [
+                {
+                    "date": 1724243806000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "D1VN",
+                    "elo": 1328,
+                    "change": 20,
+                    "oelo": 1299,
+                    "ochange": -20,
+                    "time": 961117,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724242610000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "TheRemekkPlays",
+                    "elo": 1308,
+                    "change": 20,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 829408,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724241293000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "FlaxyB",
+                    "elo": 1288,
+                    "change": 18,
+                    "oelo": 1191,
+                    "ochange": -18,
+                    "time": 990263,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724240191000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "_wuh",
+                    "elo": 1270,
+                    "change": -18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 304188,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724229302000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "szfam",
+                    "elo": 1288,
+                    "change": -18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 674839,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724227565000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "_hpx",
+                    "elo": 1306,
+                    "change": 19,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 1076543,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
         },
         "shrddr": {
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1325,
                 "peak": 1325,
                 "points": 0,
@@ -3780,26 +3984,6 @@
                     "decayed": false
                 }
             ]
-        },
-        "LIMEEE_E": {
-            "uuid": "4f8d6d12eacf43218f4baade7a8e451e",
-            "nickname": "LIMEEE_E",
-            "stats": {
-                "rank": 50,
-                "elo": 1313,
-                "peak": 1313,
-                "points": 0,
-                "current": 1,
-                "streak": 1,
-                "pb": 800538,
-                "matches": 5,
-                "finished": 1,
-                "won": 3,
-                "lost": 2,
-                "forfeited": 0,
-                "finishtime": 800538
-            },
-            "matches": []
         }
     }
 }
