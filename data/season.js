@@ -1,5 +1,5 @@
 {
-    "date": 1724331099000,
+    "date": 1724332620000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -321,20 +321,46 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 3,
-                "elo": 1789,
+                "elo": 1786,
                 "peak": 1812,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 4,
                 "pb": 548809,
-                "matches": 15,
+                "matches": 17,
                 "finished": 6,
-                "won": 10,
-                "lost": 5,
+                "won": 11,
+                "lost": 6,
                 "forfeited": 5,
                 "finishtime": 3585448
             },
             "matches": [
+                {
+                    "date": 1724332115000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "bing_pigs",
+                    "elo": 1786,
+                    "change": 19,
+                    "oelo": 1724,
+                    "ochange": -19,
+                    "time": 294141,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724331771000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "TDORULERD",
+                    "elo": 1767,
+                    "change": -22,
+                    "oelo": 1754,
+                    "ochange": 22,
+                    "time": 725183,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724325779000,
                     "type": "BURIED_TREASURE",
@@ -468,10 +494,70 @@
             ]
         },
         {
+            "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
+            "nickname": "TDORULERD",
+            "stats": {
+                "rank": 4,
+                "elo": 1773,
+                "peak": 1773,
+                "points": 0,
+                "current": 4,
+                "streak": 4,
+                "pb": 683547,
+                "matches": 8,
+                "finished": 5,
+                "won": 6,
+                "lost": 2,
+                "forfeited": 0,
+                "finishtime": 3506469
+            },
+            "matches": [
+                {
+                    "date": 1724332445000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "bing_pigs",
+                    "elo": 1773,
+                    "change": 19,
+                    "oelo": 1705,
+                    "ochange": -19,
+                    "time": 275046,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724331771000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Ancoboyy",
+                    "elo": 1754,
+                    "change": 22,
+                    "oelo": 1767,
+                    "ochange": -22,
+                    "time": 725183,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724330938000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Blad_d",
+                    "elo": 1732,
+                    "change": 14,
+                    "oelo": 1521,
+                    "ochange": -14,
+                    "time": 683547,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 4,
+                "rank": 5,
                 "elo": 1751,
                 "peak": 1787,
                 "points": 0,
@@ -661,21 +747,47 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 5,
-                "elo": 1743,
+                "rank": 6,
+                "elo": 1705,
                 "peak": 1789,
                 "points": 0,
                 "current": 0,
                 "streak": 4,
                 "pb": 474946,
-                "matches": 36,
+                "matches": 38,
                 "finished": 15,
                 "won": 20,
-                "lost": 15,
-                "forfeited": 8,
+                "lost": 17,
+                "forfeited": 10,
                 "finishtime": 9146954
             },
             "matches": [
+                {
+                    "date": 1724332445000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "TDORULERD",
+                    "elo": 1705,
+                    "change": -19,
+                    "oelo": 1773,
+                    "ochange": 19,
+                    "time": 275046,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724332115000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 1724,
+                    "change": -19,
+                    "oelo": 1786,
+                    "ochange": 19,
+                    "time": 294141,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724329768000,
                     "type": "SHIPWRECK",
@@ -1077,40 +1189,6 @@
                     "ochange": 3,
                     "time": 559814,
                     "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
-            "nickname": "TDORULERD",
-            "stats": {
-                "rank": 6,
-                "elo": 1732,
-                "peak": 1732,
-                "points": 0,
-                "current": 2,
-                "streak": 2,
-                "pb": 683547,
-                "matches": 6,
-                "finished": 4,
-                "won": 4,
-                "lost": 2,
-                "forfeited": 0,
-                "finishtime": 2781286
-            },
-            "matches": [
-                {
-                    "date": 1724330938000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Blad_d",
-                    "elo": 1732,
-                    "change": 14,
-                    "oelo": 1521,
-                    "ochange": -14,
-                    "time": 683547,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
