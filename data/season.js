@@ -1,5 +1,5 @@
 {
-    "date": 1724327330000,
+    "date": 1724328776000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8123,34 +8123,73 @@
             ]
         },
         {
-            "uuid": "c0db19d0895a490e87e6cdbe2b59fd36",
-            "nickname": "lowercase_b",
+            "uuid": "8021b1eb133346c3b0b88d19c5be9188",
+            "nickname": "gabboooz",
             "stats": {
-                "rank": 50,
-                "elo": 1434,
-                "peak": 1434,
+                "rank": 49,
+                "elo": 1436,
+                "peak": 1436,
                 "points": 0,
                 "current": 2,
                 "streak": 2,
-                "pb": null,
-                "matches": 6,
-                "finished": 0,
-                "won": 4,
-                "lost": 2,
-                "forfeited": 0,
-                "finishtime": 0
+                "pb": 722145,
+                "matches": 9,
+                "finished": 3,
+                "won": 5,
+                "lost": 3,
+                "forfeited": 1,
+                "finishtime": 2501426
             },
             "matches": [
                 {
-                    "date": 1724289899000,
-                    "type": "BURIED_TREASURE",
+                    "date": 1724327991000,
+                    "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "OG_MineMan",
-                    "elo": 1434,
-                    "change": 17,
+                    "opponent": "isqqcle",
+                    "elo": 1436,
+                    "change": 15,
+                    "oelo": 1266,
+                    "ochange": -15,
+                    "time": 401278,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724327261000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "GardenZoo",
+                    "elo": 1421,
+                    "change": 18,
+                    "oelo": 1339,
+                    "ochange": -18,
+                    "time": 251888,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724276644000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "cylorun",
+                    "elo": 1403,
+                    "change": -21,
                     "oelo": 0,
                     "ochange": 0,
-                    "time": 580438,
+                    "time": 117307,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724264973000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "draw",
+                    "opponent": "Maraico",
+                    "elo": 1424,
+                    "change": 0,
+                    "oelo": 1458,
+                    "ochange": 0,
+                    "time": 800887,
                     "forfeited": true,
                     "decayed": false
                 }
