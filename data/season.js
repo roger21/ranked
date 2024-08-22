@@ -1,5 +1,5 @@
 {
-    "date": 1724316315000,
+    "date": 1724317215000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -839,20 +839,33 @@
             "nickname": "silverrruns",
             "stats": {
                 "rank": 6,
-                "elo": 1671,
+                "elo": 1652,
                 "peak": 1748,
                 "points": 0,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
                 "pb": 518010,
-                "matches": 23,
+                "matches": 24,
                 "finished": 10,
                 "won": 13,
-                "lost": 9,
+                "lost": 10,
                 "forfeited": 0,
                 "finishtime": 6882179
             },
             "matches": [
+                {
+                    "date": 1724316700000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "TDORULERD",
+                    "elo": 1652,
+                    "change": -19,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 700350,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724315871000,
                     "type": "BURIED_TREASURE",
