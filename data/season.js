@@ -1,5 +1,5 @@
 {
-    "date": 1724333508000,
+    "date": 1724334305000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -774,20 +774,33 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 6,
-                "elo": 1705,
+                "elo": 1716,
                 "peak": 1789,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 4,
                 "pb": 474946,
-                "matches": 38,
-                "finished": 15,
-                "won": 20,
+                "matches": 39,
+                "finished": 16,
+                "won": 21,
                 "lost": 17,
                 "forfeited": 10,
-                "finishtime": 9146954
+                "finishtime": 9706559
             },
             "matches": [
+                {
+                    "date": 1724333979000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "affordab1e",
+                    "elo": 1716,
+                    "change": 11,
+                    "oelo": 1435,
+                    "ochange": -11,
+                    "time": 559605,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724332445000,
                     "type": "RUINED_PORTAL",
@@ -7866,30 +7879,10 @@
             ]
         },
         {
-            "uuid": "a81886565121479782d42408d94fe97d",
-            "nickname": "affordab1e",
-            "stats": {
-                "rank": 47,
-                "elo": 1446,
-                "peak": 1446,
-                "points": 0,
-                "current": 0,
-                "streak": 2,
-                "pb": 732033,
-                "matches": 5,
-                "finished": 2,
-                "won": 2,
-                "lost": 2,
-                "forfeited": 1,
-                "finishtime": 1542457
-            },
-            "matches": []
-        },
-        {
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "JoomzMonkey",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1444,
                 "peak": 1444,
                 "points": 0,
@@ -8053,7 +8046,7 @@
             "uuid": "b6d951be72ad46949413f3a3d28aae7d",
             "nickname": "fish_ayu",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1441,
                 "peak": 1452,
                 "points": 0,
@@ -8165,7 +8158,7 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcury_uwu",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1437,
                 "peak": 1449,
                 "points": 0,
@@ -8242,6 +8235,157 @@
                     "oelo": 1231,
                     "ochange": -14,
                     "time": 958738,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
+            "uuid": "359da0f53f574971acdaa4aa23de991d",
+            "nickname": "big_pizu",
+            "stats": {
+                "rank": 50,
+                "elo": 1436,
+                "peak": 1492,
+                "points": 0,
+                "current": 0,
+                "streak": 2,
+                "pb": 783827,
+                "matches": 15,
+                "finished": 2,
+                "won": 5,
+                "lost": 9,
+                "forfeited": 0,
+                "finishtime": 1589233
+            },
+            "matches": [
+                {
+                    "date": 1724293064000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "Ranik_",
+                    "elo": 1436,
+                    "change": -14,
+                    "oelo": 1643,
+                    "ochange": 14,
+                    "time": 680935,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724292021000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "draw",
+                    "opponent": "Waluyoshi",
+                    "elo": 1450,
+                    "change": 0,
+                    "oelo": 1477,
+                    "ochange": 0,
+                    "time": 803498,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724291133000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "NatsuDrag275",
+                    "elo": 1450,
+                    "change": 12,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 495670,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724290444000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "itsnahan",
+                    "elo": 1438,
+                    "change": -20,
+                    "oelo": 1476,
+                    "ochange": 20,
+                    "time": 818488,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724289580000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 1458,
+                    "change": -17,
+                    "oelo": 1588,
+                    "ochange": 17,
+                    "time": 767626,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724288435000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "lowercase_b",
+                    "elo": 1475,
+                    "change": 19,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 783827,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724287597000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "sockmonkey747",
+                    "elo": 1456,
+                    "change": -19,
+                    "oelo": 1510,
+                    "ochange": 19,
+                    "time": 740503,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724286775000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "BadGamer",
+                    "elo": 1475,
+                    "change": -17,
+                    "oelo": 1606,
+                    "ochange": 17,
+                    "time": 713193,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724285879000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "sockmonkey747",
+                    "elo": 1492,
+                    "change": 22,
+                    "oelo": 1510,
+                    "ochange": -22,
+                    "time": 583343,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724285159000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "nhb_",
+                    "elo": 1470,
+                    "change": 18,
+                    "oelo": 1390,
+                    "ochange": -18,
+                    "time": 805406,
                     "forfeited": false,
                     "decayed": false
                 }
