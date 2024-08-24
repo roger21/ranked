@@ -1,5 +1,5 @@
 {
-    "date": 1724484078000,
+    "date": 1724484896000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2535,20 +2535,33 @@
             "nickname": "Ranik_",
             "stats": {
                 "rank": 10,
-                "elo": 1673,
+                "elo": 1692,
                 "peak": 1721,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
                 "pb": 538059,
-                "matches": 80,
+                "matches": 81,
                 "finished": 39,
-                "won": 46,
+                "won": 47,
                 "lost": 34,
                 "forfeited": 6,
                 "finishtime": 26909662
             },
             "matches": [
+                {
+                    "date": 1724484172000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "bing_pigs",
+                    "elo": 1692,
+                    "change": 19,
+                    "oelo": 1620,
+                    "ochange": -19,
+                    "time": 358226,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724483758000,
                     "type": "BURIED_TREASURE",
@@ -5521,20 +5534,33 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 16,
-                "elo": 1639,
+                "elo": 1620,
                 "peak": 1799,
                 "points": 0,
-                "current": 1,
+                "current": 0,
                 "streak": 7,
                 "pb": 469251,
-                "matches": 101,
+                "matches": 102,
                 "finished": 43,
                 "won": 51,
-                "lost": 46,
-                "forfeited": 23,
+                "lost": 47,
+                "forfeited": 24,
                 "finishtime": 26634693
             },
             "matches": [
+                {
+                    "date": 1724484172000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Ranik_",
+                    "elo": 1620,
+                    "change": -19,
+                    "oelo": 1692,
+                    "ochange": 19,
+                    "time": 358226,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724483629000,
                     "type": "VILLAGE",
@@ -7155,7 +7181,7 @@
                 "current": 0,
                 "streak": 4,
                 "pb": 561084,
-                "matches": 28,
+                "matches": 29,
                 "finished": 10,
                 "won": 14,
                 "lost": 13,
@@ -7163,6 +7189,19 @@
                 "finishtime": 7222206
             },
             "matches": [
+                {
+                    "date": 1724484794000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "itsnahan",
+                    "elo": 1594,
+                    "change": 0,
+                    "oelo": 1586,
+                    "ochange": 0,
+                    "time": 710276,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724483629000,
                     "type": "VILLAGE",
@@ -7951,7 +7990,7 @@
                 "current": 1,
                 "streak": 9,
                 "pb": 526006,
-                "matches": 120,
+                "matches": 121,
                 "finished": 51,
                 "won": 60,
                 "lost": 55,
@@ -7959,6 +7998,19 @@
                 "finishtime": 35985955
             },
             "matches": [
+                {
+                    "date": 1724484794000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "BlazeMind",
+                    "elo": 1586,
+                    "change": 0,
+                    "oelo": 1594,
+                    "ochange": 0,
+                    "time": 710276,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724483758000,
                     "type": "BURIED_TREASURE",
