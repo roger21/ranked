@@ -1,5 +1,5 @@
 {
-    "date": 1724486412000,
+    "date": 1724488031000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8270,20 +8270,59 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 20,
-                "elo": 1578,
+                "elo": 1582,
                 "peak": 1799,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
                 "pb": 469251,
-                "matches": 104,
-                "finished": 43,
-                "won": 51,
-                "lost": 49,
-                "forfeited": 26,
-                "finishtime": 26634693
+                "matches": 107,
+                "finished": 44,
+                "won": 53,
+                "lost": 50,
+                "forfeited": 27,
+                "finishtime": 27178106
             },
             "matches": [
+                {
+                    "date": 1724487999000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Voxio",
+                    "elo": 1582,
+                    "change": 14,
+                    "oelo": 1376,
+                    "ochange": -14,
+                    "time": 120852,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724487558000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "harusame_0123",
+                    "elo": 1568,
+                    "change": -25,
+                    "oelo": 1472,
+                    "ochange": 25,
+                    "time": 239325,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1724487181000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "pulsar32",
+                    "elo": 1593,
+                    "change": 15,
+                    "oelo": 1419,
+                    "ochange": -15,
+                    "time": 543413,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724486270000,
                     "type": "SHIPWRECK",
@@ -9577,7 +9616,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 1578,
                 "peak": 1578,
                 "points": 0,
