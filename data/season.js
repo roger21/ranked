@@ -1,5 +1,5 @@
 {
-    "date": 1724574822000,
+    "date": 1724575591000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -15996,10 +15996,96 @@
             ]
         },
         {
+            "uuid": "736dbdc44a3e452fa489f5344565835e",
+            "nickname": "drx6",
+            "stats": {
+                "rank": 39,
+                "elo": 1518,
+                "peak": 1537,
+                "points": 0,
+                "current": 1,
+                "streak": 2,
+                "pb": 697712,
+                "matches": 10,
+                "finished": 4,
+                "won": 6,
+                "lost": 4,
+                "forfeited": 0,
+                "finishtime": 3249166
+            },
+            "matches": [
+                {
+                    "date": 1724575024000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "vrapues_i_shpejt",
+                    "elo": 1518,
+                    "change": 19,
+                    "oelo": 1444,
+                    "ochange": -19,
+                    "time": 697712,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724574209000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Cornflakes267",
+                    "elo": 1499,
+                    "change": -22,
+                    "oelo": 1494,
+                    "ochange": 22,
+                    "time": 661272,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724573323000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "pulsar32",
+                    "elo": 1521,
+                    "change": -16,
+                    "oelo": 1660,
+                    "ochange": 16,
+                    "time": 718863,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724572502000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "harusame_0123",
+                    "elo": 1537,
+                    "change": 18,
+                    "oelo": 1458,
+                    "ochange": -18,
+                    "time": 801320,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724571636000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "icantmakeit2",
+                    "elo": 1519,
+                    "change": 17,
+                    "oelo": 1410,
+                    "ochange": -17,
+                    "time": 958597,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "sockmonkey747",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1517,
                 "peak": 1532,
                 "points": 0,
@@ -16228,7 +16314,7 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "mcsr_misfit",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1516,
                 "peak": 1535,
                 "points": 0,
@@ -16444,7 +16530,7 @@
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1516,
                 "peak": 1516,
                 "points": 0,
@@ -16530,7 +16616,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okrzej_",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1514,
                 "peak": 1514,
                 "points": 0,
@@ -16980,7 +17066,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "big_pizu",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1513,
                 "peak": 1558,
                 "points": 0,
@@ -17261,7 +17347,7 @@
             "uuid": "8dcad0ea9f7444ee8eb0a1aa5b868331",
             "nickname": "emia",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1511,
                 "peak": 1536,
                 "points": 0,
@@ -17334,7 +17420,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1511,
                 "peak": 1511,
                 "points": 0,
@@ -17407,7 +17493,7 @@
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "NOTTANTOO",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1510,
                 "peak": 1566,
                 "points": 0,
@@ -17792,7 +17878,7 @@
             "uuid": "a81886565121479782d42408d94fe97d",
             "nickname": "affordab1e",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1508,
                 "peak": 1508,
                 "points": 0,
@@ -17895,79 +17981,6 @@
                     "oelo": 1716,
                     "ochange": 11,
                     "time": 559605,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "736dbdc44a3e452fa489f5344565835e",
-            "nickname": "drx6",
-            "stats": {
-                "rank": 48,
-                "elo": 1499,
-                "peak": 1537,
-                "points": 0,
-                "current": 0,
-                "streak": 2,
-                "pb": 791537,
-                "matches": 9,
-                "finished": 3,
-                "won": 5,
-                "lost": 4,
-                "forfeited": 0,
-                "finishtime": 2551454
-            },
-            "matches": [
-                {
-                    "date": 1724574209000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Cornflakes267",
-                    "elo": 1499,
-                    "change": -22,
-                    "oelo": 1494,
-                    "ochange": 22,
-                    "time": 661272,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724573323000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "pulsar32",
-                    "elo": 1521,
-                    "change": -16,
-                    "oelo": 1660,
-                    "ochange": 16,
-                    "time": 718863,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724572502000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "harusame_0123",
-                    "elo": 1537,
-                    "change": 18,
-                    "oelo": 1458,
-                    "ochange": -18,
-                    "time": 801320,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724571636000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "icantmakeit2",
-                    "elo": 1519,
-                    "change": 17,
-                    "oelo": 1410,
-                    "ochange": -17,
-                    "time": 958597,
                     "forfeited": false,
                     "decayed": false
                 }
