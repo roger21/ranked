@@ -1,5 +1,5 @@
 {
-    "date": 1724558411000,
+    "date": 1724560141000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -16617,13 +16617,13 @@
             "nickname": "emia",
             "stats": {
                 "rank": 43,
-                "elo": 1512,
+                "elo": 1511,
                 "peak": 1536,
                 "points": 0,
                 "current": 0,
                 "streak": 2,
                 "pb": 682992,
-                "matches": 8,
+                "matches": 9,
                 "finished": 2,
                 "won": 4,
                 "lost": 4,
@@ -16631,6 +16631,19 @@
                 "finishtime": 1423663
             },
             "matches": [
+                {
+                    "date": 1724559061000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "Waluyoshi",
+                    "elo": 1511,
+                    "change": -1,
+                    "oelo": 1429,
+                    "ochange": 1,
+                    "time": 350858,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724558208000,
                     "type": "BURIED_TREASURE",
@@ -16676,7 +16689,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1511,
                 "peak": 1511,
                 "points": 0,
