@@ -1,5 +1,5 @@
 {
-    "date": 1724586531000,
+    "date": 1724587906000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -15372,7 +15372,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1527,
                 "peak": 1598,
                 "points": 0,
@@ -15731,21 +15731,34 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 38,
-                "elo": 1525,
+                "rank": 36,
+                "elo": 1542,
                 "peak": 1799,
                 "points": 0,
-                "current": 3,
+                "current": 4,
                 "streak": 7,
                 "pb": 469251,
-                "matches": 146,
-                "finished": 56,
-                "won": 69,
+                "matches": 147,
+                "finished": 57,
+                "won": 70,
                 "lost": 70,
                 "forfeited": 45,
-                "finishtime": 34467122
+                "finishtime": 35133617
             },
             "matches": [
+                {
+                    "date": 1724587958000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "Tenes9999",
+                    "elo": 1542,
+                    "change": 17,
+                    "oelo": 1428,
+                    "ochange": -17,
+                    "time": 666495,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724586527000,
                     "type": "SHIPWRECK",
