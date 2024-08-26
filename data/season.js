@@ -1,18 +1,18 @@
 {
-    "date": 1724629495000,
+    "date": 1724630394000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
                 "rank": 1,
-                "elo": 1890,
+                "elo": 1887,
                 "peak": 1943,
                 "points": 0,
                 "current": 1,
                 "streak": 11,
                 "pb": 437935,
-                "matches": 50,
+                "matches": 51,
                 "finished": 34,
                 "won": 38,
                 "lost": 11,
@@ -20,6 +20,19 @@
                 "finishtime": 20252259
             },
             "matches": [
+                {
+                    "date": 1724630232000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "Finnitz",
+                    "elo": 1887,
+                    "change": -3,
+                    "oelo": 1573,
+                    "ochange": 3,
+                    "time": 888412,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724628955000,
                     "type": "BURIED_TREASURE",
@@ -13397,142 +13410,17 @@
             ]
         },
         {
-            "uuid": "736dbdc44a3e452fa489f5344565835e",
-            "nickname": "drx6",
-            "stats": {
-                "rank": 26,
-                "elo": 1570,
-                "peak": 1570,
-                "points": 0,
-                "current": 4,
-                "streak": 4,
-                "pb": 646015,
-                "matches": 13,
-                "finished": 7,
-                "won": 9,
-                "lost": 4,
-                "forfeited": 0,
-                "finishtime": 5855334
-            },
-            "matches": [
-                {
-                    "date": 1724578172000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "icantmakeit2",
-                    "elo": 1570,
-                    "change": 16,
-                    "oelo": 1424,
-                    "ochange": -16,
-                    "time": 1160864,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724576679000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "dwoh",
-                    "elo": 1554,
-                    "change": 19,
-                    "oelo": 1490,
-                    "ochange": -19,
-                    "time": 799289,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724575826000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "Dawn357x",
-                    "elo": 1535,
-                    "change": 17,
-                    "oelo": 1415,
-                    "ochange": -17,
-                    "time": 646015,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724575024000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "vrapues_i_shpejt",
-                    "elo": 1518,
-                    "change": 19,
-                    "oelo": 1444,
-                    "ochange": -19,
-                    "time": 697712,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724574209000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "Cornflakes267",
-                    "elo": 1499,
-                    "change": -22,
-                    "oelo": 1494,
-                    "ochange": 22,
-                    "time": 661272,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724573323000,
-                    "type": "BURIED_TREASURE",
-                    "result": "lost",
-                    "opponent": "pulsar32",
-                    "elo": 1521,
-                    "change": -16,
-                    "oelo": 1660,
-                    "ochange": 16,
-                    "time": 718863,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724572502000,
-                    "type": "BURIED_TREASURE",
-                    "result": "won",
-                    "opponent": "harusame_0123",
-                    "elo": 1537,
-                    "change": 18,
-                    "oelo": 1458,
-                    "ochange": -18,
-                    "time": 801320,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724571636000,
-                    "type": "VILLAGE",
-                    "result": "won",
-                    "opponent": "icantmakeit2",
-                    "elo": 1519,
-                    "change": 17,
-                    "oelo": 1410,
-                    "ochange": -17,
-                    "time": 958597,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
             "uuid": "fdff6a3e88054664974dbcd30583fe81",
             "nickname": "Finnitz",
             "stats": {
                 "rank": 26,
-                "elo": 1570,
+                "elo": 1573,
                 "peak": 1592,
                 "points": 0,
                 "current": 3,
                 "streak": 5,
                 "pb": 586991,
-                "matches": 67,
+                "matches": 68,
                 "finished": 24,
                 "won": 35,
                 "lost": 30,
@@ -13540,6 +13428,19 @@
                 "finishtime": 18536011
             },
             "matches": [
+                {
+                    "date": 1724630232000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "doogile",
+                    "elo": 1573,
+                    "change": 3,
+                    "oelo": 1887,
+                    "ochange": -3,
+                    "time": 888412,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1724629221000,
                     "type": "RUINED_PORTAL",
@@ -14343,6 +14244,131 @@
                     "oelo": 1303,
                     "ochange": -16,
                     "time": 682702,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
+            "uuid": "736dbdc44a3e452fa489f5344565835e",
+            "nickname": "drx6",
+            "stats": {
+                "rank": 27,
+                "elo": 1570,
+                "peak": 1570,
+                "points": 0,
+                "current": 4,
+                "streak": 4,
+                "pb": 646015,
+                "matches": 13,
+                "finished": 7,
+                "won": 9,
+                "lost": 4,
+                "forfeited": 0,
+                "finishtime": 5855334
+            },
+            "matches": [
+                {
+                    "date": 1724578172000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "icantmakeit2",
+                    "elo": 1570,
+                    "change": 16,
+                    "oelo": 1424,
+                    "ochange": -16,
+                    "time": 1160864,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724576679000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "dwoh",
+                    "elo": 1554,
+                    "change": 19,
+                    "oelo": 1490,
+                    "ochange": -19,
+                    "time": 799289,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724575826000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Dawn357x",
+                    "elo": 1535,
+                    "change": 17,
+                    "oelo": 1415,
+                    "ochange": -17,
+                    "time": 646015,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724575024000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "vrapues_i_shpejt",
+                    "elo": 1518,
+                    "change": 19,
+                    "oelo": 1444,
+                    "ochange": -19,
+                    "time": 697712,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724574209000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Cornflakes267",
+                    "elo": 1499,
+                    "change": -22,
+                    "oelo": 1494,
+                    "ochange": 22,
+                    "time": 661272,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724573323000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "pulsar32",
+                    "elo": 1521,
+                    "change": -16,
+                    "oelo": 1660,
+                    "ochange": 16,
+                    "time": 718863,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724572502000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "harusame_0123",
+                    "elo": 1537,
+                    "change": 18,
+                    "oelo": 1458,
+                    "ochange": -18,
+                    "time": 801320,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724571636000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "icantmakeit2",
+                    "elo": 1519,
+                    "change": 17,
+                    "oelo": 1410,
+                    "ochange": -17,
+                    "time": 958597,
                     "forfeited": false,
                     "decayed": false
                 }
