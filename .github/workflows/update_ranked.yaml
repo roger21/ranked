@@ -42,7 +42,7 @@ jobs:
           echo -e '\n --- git status\n'
           git status
           echo -e '\n --- git pull\n'
-          git pull
+          git pull --stat -X theirs
           echo -e '\n --- git commit\n'
           git commit -am 'update_ranked' || true
           echo -e '\n --- git status\n'
