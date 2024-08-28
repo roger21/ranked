@@ -1,5 +1,5 @@
 {
-    "date": 1724887473000,
+    "date": 1724888720000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -32824,11 +32824,31 @@
             ]
         },
         {
-            "uuid": "b39f5648c91d42dfb121655f2aa52970",
-            "nickname": "dimowo",
+            "uuid": "da5e15a7d3c04a84b432defd5a15c910",
+            "nickname": "paukll",
             "stats": {
                 "rank": 38,
                 "elo": 1554,
+                "peak": 1554,
+                "points": 0,
+                "current": 3,
+                "streak": 3,
+                "pb": 610078,
+                "matches": 5,
+                "finished": 2,
+                "won": 3,
+                "lost": 0,
+                "forfeited": 0,
+                "finishtime": 1427757
+            },
+            "matches": []
+        },
+        {
+            "uuid": "b39f5648c91d42dfb121655f2aa52970",
+            "nickname": "dimowo",
+            "stats": {
+                "rank": 39,
+                "elo": 1549,
                 "peak": 1574,
                 "points": 0,
                 "current": 3,
@@ -32842,6 +32862,19 @@
                 "finishtime": 4312884
             },
             "matches": [
+                {
+                    "date": 1724888575000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1549,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1724283733000,
                     "type": "DESERT_TEMPLE",
@@ -32960,26 +32993,6 @@
                     "decayed": false
                 }
             ]
-        },
-        {
-            "uuid": "da5e15a7d3c04a84b432defd5a15c910",
-            "nickname": "paukll",
-            "stats": {
-                "rank": 38,
-                "elo": 1554,
-                "peak": 1554,
-                "points": 0,
-                "current": 3,
-                "streak": 3,
-                "pb": 610078,
-                "matches": 5,
-                "finished": 2,
-                "won": 3,
-                "lost": 0,
-                "forfeited": 0,
-                "finishtime": 1427757
-            },
-            "matches": []
         },
         {
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
