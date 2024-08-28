@@ -1,5 +1,5 @@
 {
-    "date": 1724827619000,
+    "date": 1724828400000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2461,20 +2461,33 @@
             "nickname": "Ranik_",
             "stats": {
                 "rank": 4,
-                "elo": 1844,
-                "peak": 1844,
+                "elo": 1857,
+                "peak": 1857,
                 "points": 0,
-                "current": 4,
+                "current": 5,
                 "streak": 5,
                 "pb": 530035,
-                "matches": 123,
-                "finished": 60,
-                "won": 73,
+                "matches": 124,
+                "finished": 61,
+                "won": 74,
                 "lost": 48,
                 "forfeited": 7,
-                "finishtime": 41107351
+                "finishtime": 41650616
             },
             "matches": [
+                {
+                    "date": 1724827714000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "dolqhin",
+                    "elo": 1857,
+                    "change": 13,
+                    "oelo": 1639,
+                    "ochange": -13,
+                    "time": 543265,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724822919000,
                     "type": "SHIPWRECK",
@@ -14749,20 +14762,33 @@
             "nickname": "dolqhin",
             "stats": {
                 "rank": 19,
-                "elo": 1652,
+                "elo": 1639,
                 "peak": 1787,
                 "points": 0,
-                "current": 1,
+                "current": 0,
                 "streak": 5,
                 "pb": 540234,
-                "matches": 45,
+                "matches": 46,
                 "finished": 15,
                 "won": 24,
-                "lost": 20,
+                "lost": 21,
                 "forfeited": 0,
                 "finishtime": 10488151
             },
             "matches": [
+                {
+                    "date": 1724827714000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "Ranik_",
+                    "elo": 1639,
+                    "change": -13,
+                    "oelo": 1857,
+                    "ochange": 13,
+                    "time": 543265,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724827069000,
                     "type": "VILLAGE",
