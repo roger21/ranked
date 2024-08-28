@@ -1,5 +1,5 @@
 {
-    "date": 1724877900000,
+    "date": 1724878800000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7129,20 +7129,46 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 9,
-                "elo": 1765,
+                "elo": 1754,
                 "peak": 1845,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
                 "pb": 517494,
-                "matches": 133,
-                "finished": 67,
-                "won": 77,
-                "lost": 51,
+                "matches": 135,
+                "finished": 68,
+                "won": 78,
+                "lost": 52,
                 "forfeited": 0,
-                "finishtime": 43740396
+                "finishtime": 44388771
             },
             "matches": [
+                {
+                    "date": 1724878728000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "TapL",
+                    "elo": 1754,
+                    "change": 12,
+                    "oelo": 1503,
+                    "ochange": -12,
+                    "time": 648375,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724877920000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "7rowl",
+                    "elo": 1742,
+                    "change": -23,
+                    "oelo": 1704,
+                    "ochange": 23,
+                    "time": 789902,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724876466000,
                     "type": "BURIED_TREASURE",
@@ -12585,20 +12611,33 @@
             "nickname": "7rowl",
             "stats": {
                 "rank": 15,
-                "elo": 1681,
+                "elo": 1704,
                 "peak": 1881,
                 "points": 0,
-                "current": 1,
+                "current": 2,
                 "streak": 5,
                 "pb": 563386,
-                "matches": 44,
-                "finished": 19,
-                "won": 25,
+                "matches": 45,
+                "finished": 20,
+                "won": 26,
                 "lost": 19,
                 "forfeited": 1,
-                "finishtime": 12796923
+                "finishtime": 13586825
             },
             "matches": [
+                {
+                    "date": 1724877920000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 1704,
+                    "change": 23,
+                    "oelo": 1742,
+                    "ochange": -23,
+                    "time": 789902,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724877048000,
                     "type": "SHIPWRECK",
