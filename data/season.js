@@ -1,5 +1,5 @@
 {
-    "date": 1724857218000,
+    "date": 1724858784000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -2461,20 +2461,33 @@
             "nickname": "Ranik_",
             "stats": {
                 "rank": 4,
-                "elo": 1865,
+                "elo": 1837,
                 "peak": 1865,
                 "points": 0,
-                "current": 4,
+                "current": 0,
                 "streak": 5,
                 "pb": 530035,
-                "matches": 130,
+                "matches": 131,
                 "finished": 63,
                 "won": 78,
-                "lost": 50,
+                "lost": 51,
                 "forfeited": 8,
                 "finishtime": 43032730
             },
             "matches": [
+                {
+                    "date": 1724858076000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "pulsar32",
+                    "elo": 1837,
+                    "change": -28,
+                    "oelo": 1654,
+                    "ochange": 28,
+                    "time": 593258,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724856680000,
                     "type": "SHIPWRECK",
@@ -9704,20 +9717,33 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 14,
-                "elo": 1686,
+                "elo": 1705,
                 "peak": 1816,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
                 "pb": 496122,
-                "matches": 111,
-                "finished": 49,
-                "won": 59,
+                "matches": 112,
+                "finished": 50,
+                "won": 60,
                 "lost": 48,
                 "forfeited": 1,
-                "finishtime": 32317028
+                "finishtime": 32885800
             },
             "matches": [
+                {
+                    "date": 1724857298000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "pulsar32",
+                    "elo": 1705,
+                    "change": 19,
+                    "oelo": 1626,
+                    "ochange": -19,
+                    "time": 568772,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724856680000,
                     "type": "SHIPWRECK",
@@ -14631,21 +14657,47 @@
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "pulsar32",
             "stats": {
-                "rank": 19,
-                "elo": 1645,
+                "rank": 18,
+                "elo": 1654,
                 "peak": 1734,
                 "points": 0,
-                "current": 3,
+                "current": 1,
                 "streak": 6,
                 "pb": 513653,
-                "matches": 97,
-                "finished": 34,
-                "won": 51,
-                "lost": 42,
+                "matches": 99,
+                "finished": 35,
+                "won": 52,
+                "lost": 43,
                 "forfeited": 3,
-                "finishtime": 22429930
+                "finishtime": 23023188
             },
             "matches": [
+                {
+                    "date": 1724858076000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Ranik_",
+                    "elo": 1654,
+                    "change": 28,
+                    "oelo": 1837,
+                    "ochange": -28,
+                    "time": 593258,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1724857298000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 1626,
+                    "change": -19,
+                    "oelo": 1705,
+                    "ochange": 19,
+                    "time": 568772,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724856611000,
                     "type": "SHIPWRECK",
