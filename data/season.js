@@ -1,5 +1,5 @@
 {
-    "date": 1724910311000,
+    "date": 1724911199000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -15997,20 +15997,33 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 19,
-                "elo": 1633,
-                "peak": 1633,
+                "elo": 1648,
+                "peak": 1648,
                 "points": 0,
-                "current": 2,
+                "current": 3,
                 "streak": 4,
                 "pb": 555820,
-                "matches": 90,
-                "finished": 32,
-                "won": 44,
+                "matches": 91,
+                "finished": 33,
+                "won": 45,
                 "lost": 38,
                 "forfeited": 1,
-                "finishtime": 22480430
+                "finishtime": 23120160
             },
             "matches": [
+                {
+                    "date": 1724911043000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "TapL",
+                    "elo": 1648,
+                    "change": 15,
+                    "oelo": 1468,
+                    "ochange": -15,
+                    "time": 639730,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724909794000,
                     "type": "VILLAGE",
