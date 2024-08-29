@@ -1,5 +1,5 @@
 {
-    "date": 1724945238000,
+    "date": 1724946299000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -39221,79 +39221,6 @@
             ]
         },
         {
-            "uuid": "7c92678742eb4e819f3122017697ae3d",
-            "nickname": "hackingnoises",
-            "stats": {
-                "rank": 42,
-                "elo": 1542,
-                "peak": 1584,
-                "points": 0,
-                "current": 0,
-                "streak": 1,
-                "pb": 476294,
-                "matches": 9,
-                "finished": 2,
-                "won": 3,
-                "lost": 6,
-                "forfeited": 0,
-                "finishtime": 1459553
-            },
-            "matches": [
-                {
-                    "date": 1724945128000,
-                    "type": "DESERT_TEMPLE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1542,
-                    "change": -12,
-                    "oelo": 1790,
-                    "ochange": 12,
-                    "time": 587008,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724944398000,
-                    "type": "SHIPWRECK",
-                    "result": "won",
-                    "opponent": "Szczurrreq",
-                    "elo": 1554,
-                    "change": 13,
-                    "oelo": 1313,
-                    "ochange": -13,
-                    "time": 983259,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724943174000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "pulsar32",
-                    "elo": 1541,
-                    "change": -18,
-                    "oelo": 1624,
-                    "ochange": 18,
-                    "time": 651325,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1724942451000,
-                    "type": "SHIPWRECK",
-                    "result": "lost",
-                    "opponent": "TheRemekkPlays",
-                    "elo": 1559,
-                    "change": -25,
-                    "oelo": 1464,
-                    "ochange": 25,
-                    "time": 764218,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "NottAntoo",
             "stats": {
@@ -39864,7 +39791,7 @@
             "uuid": "a81886565121479782d42408d94fe97d",
             "nickname": "affordab1e",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1541,
                 "peak": 1541,
                 "points": 0,
@@ -40080,7 +40007,7 @@
             "uuid": "745a819973974fe1bb1608e57fd439b6",
             "nickname": "centuriee",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1540,
                 "peak": 1540,
                 "points": 0,
@@ -40387,7 +40314,7 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1539,
                 "peak": 1543,
                 "points": 0,
@@ -41071,7 +40998,7 @@
             "uuid": "fdff6a3e88054664974dbcd30583fe81",
             "nickname": "Finnitz",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1539,
                 "peak": 1592,
                 "points": 0,
@@ -42093,7 +42020,7 @@
             "uuid": "c41b14ac0f1547aeb7690276d82aa458",
             "nickname": "Psemcovici",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1536,
                 "peak": 1536,
                 "points": 0,
@@ -42374,7 +42301,7 @@
             "uuid": "728fdcab24b249b686c081a7fc53176e",
             "nickname": "ContraVz",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1534,
                 "peak": 1580,
                 "points": 0,
@@ -43339,6 +43266,26 @@
                     "decayed": false
                 }
             ]
+        },
+        {
+            "uuid": "744f344f2f5a4610aa8fe30053312812",
+            "nickname": "TheBlazer97",
+            "stats": {
+                "rank": 49,
+                "elo": 1534,
+                "peak": 1534,
+                "points": 0,
+                "current": 5,
+                "streak": 5,
+                "pb": 700380,
+                "matches": 5,
+                "finished": 1,
+                "won": 5,
+                "lost": 0,
+                "forfeited": 0,
+                "finishtime": 700380
+            },
+            "matches": []
         }
     ]
 }
