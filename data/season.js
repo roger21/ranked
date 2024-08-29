@@ -1,5 +1,5 @@
 {
-    "date": 1724938130000,
+    "date": 1724939102000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -21922,21 +21922,34 @@
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "pulsar32",
             "stats": {
-                "rank": 21,
-                "elo": 1626,
+                "rank": 27,
+                "elo": 1599,
                 "peak": 1740,
                 "points": 0,
                 "current": 0,
                 "streak": 6,
                 "pb": 513653,
-                "matches": 117,
+                "matches": 118,
                 "finished": 40,
                 "won": 60,
-                "lost": 52,
+                "lost": 53,
                 "forfeited": 5,
                 "finishtime": 26260505
             },
             "matches": [
+                {
+                    "date": 1724939110000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "karpislaw",
+                    "elo": 1599,
+                    "change": -27,
+                    "oelo": 1460,
+                    "ochange": 27,
+                    "time": 973220,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724937650000,
                     "type": "DESERT_TEMPLE",
@@ -23399,7 +23412,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0tic2030",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 1613,
                 "peak": 1613,
                 "points": 0,
@@ -23849,7 +23862,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 1612,
                 "peak": 1726,
                 "points": 0,
@@ -24403,7 +24416,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 1611,
                 "peak": 1677,
                 "points": 0,
@@ -25711,7 +25724,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1608,
                 "peak": 1608,
                 "points": 0,
@@ -26434,7 +26447,7 @@
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1603,
                 "peak": 1603,
                 "points": 0,
