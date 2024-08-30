@@ -1,5 +1,5 @@
 {
-    "date": 1725003909000,
+    "date": 1725004801000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -33425,7 +33425,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okrzej_",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1563,
                 "peak": 1625,
                 "points": 0,
@@ -34200,7 +34200,7 @@
             "uuid": "d41f0f3caebe45e1bc6a380fedf54ca9",
             "nickname": "boosterruns",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1556,
                 "peak": 1561,
                 "points": 0,
@@ -34728,7 +34728,7 @@
             "uuid": "8dcad0ea9f7444ee8eb0a1aa5b868331",
             "nickname": "emia",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1553,
                 "peak": 1553,
                 "points": 0,
@@ -35126,21 +35126,34 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "itsnahan",
             "stats": {
-                "rank": 41,
-                "elo": 1551,
+                "rank": 38,
+                "elo": 1568,
                 "peak": 1715,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
                 "pb": 470861,
-                "matches": 222,
-                "finished": 91,
-                "won": 107,
+                "matches": 223,
+                "finished": 92,
+                "won": 108,
                 "lost": 104,
                 "forfeited": 54,
-                "finishtime": 62931051
+                "finishtime": 63557660
             },
             "matches": [
+                {
+                    "date": 1725004844000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "MuhammadPro5741",
+                    "elo": 1568,
+                    "change": 17,
+                    "oelo": 1458,
+                    "ochange": -17,
+                    "time": 626609,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725003735000,
                     "type": "DESERT_TEMPLE",
