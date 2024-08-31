@@ -1,5 +1,5 @@
 {
-    "date": 1725100058000,
+    "date": 1725101102000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -8785,20 +8785,33 @@
             "nickname": "TDORULERD",
             "stats": {
                 "rank": 8,
-                "elo": 1765,
+                "elo": 1743,
                 "peak": 1798,
                 "points": 0,
                 "current": 0,
                 "streak": 4,
                 "pb": 648939,
-                "matches": 27,
+                "matches": 28,
                 "finished": 12,
                 "won": 16,
-                "lost": 10,
+                "lost": 11,
                 "forfeited": 1,
                 "finishtime": 8591474
             },
             "matches": [
+                {
+                    "date": 1725100566000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "ulsah1n",
+                    "elo": 1743,
+                    "change": -22,
+                    "oelo": 1736,
+                    "ochange": 22,
+                    "time": 782083,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725095580000,
                     "type": "SHIPWRECK",
@@ -10603,20 +10616,33 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 11,
-                "elo": 1714,
-                "peak": 1715,
+                "elo": 1736,
+                "peak": 1736,
                 "points": 0,
-                "current": 2,
+                "current": 3,
                 "streak": 6,
                 "pb": 476811,
-                "matches": 49,
-                "finished": 22,
-                "won": 29,
+                "matches": 50,
+                "finished": 23,
+                "won": 30,
                 "lost": 19,
                 "forfeited": 0,
-                "finishtime": 15032539
+                "finishtime": 15814622
             },
             "matches": [
+                {
+                    "date": 1725100566000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "TDORULERD",
+                    "elo": 1736,
+                    "change": 22,
+                    "oelo": 1743,
+                    "ochange": -22,
+                    "time": 782083,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1724580859000,
                     "type": "SHIPWRECK",
