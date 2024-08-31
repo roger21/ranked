@@ -1,5 +1,5 @@
 {
-    "date": 1725121879000,
+    "date": 1725122831000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -13406,13 +13406,13 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 12,
-                "elo": 1713,
+                "elo": 1711,
                 "peak": 1806,
                 "points": 0,
                 "current": 2,
                 "streak": 8,
                 "pb": 502363,
-                "matches": 78,
+                "matches": 79,
                 "finished": 37,
                 "won": 42,
                 "lost": 35,
@@ -13420,6 +13420,19 @@
                 "finishtime": 25204193
             },
             "matches": [
+                {
+                    "date": 1725122362000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "3crimson",
+                    "elo": 1711,
+                    "change": -2,
+                    "oelo": 1559,
+                    "ochange": 2,
+                    "time": 763282,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725087632000,
                     "type": "RUINED_PORTAL",
@@ -44690,13 +44703,13 @@
             "nickname": "3crimson",
             "stats": {
                 "rank": 47,
-                "elo": 1557,
+                "elo": 1559,
                 "peak": 1700,
                 "points": 0,
                 "current": 0,
                 "streak": 5,
                 "pb": 484655,
-                "matches": 145,
+                "matches": 146,
                 "finished": 55,
                 "won": 67,
                 "lost": 64,
@@ -44704,6 +44717,19 @@
                 "finishtime": 36195006
             },
             "matches": [
+                {
+                    "date": 1725122362000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "Aquacorde",
+                    "elo": 1559,
+                    "change": 2,
+                    "oelo": 1711,
+                    "ochange": -2,
+                    "time": 763282,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725121446000,
                     "type": "BURIED_TREASURE",
