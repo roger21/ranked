@@ -1,5 +1,5 @@
 {
-    "date": 1725075905000,
+    "date": 1725076808000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -43063,7 +43063,7 @@
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1570,
                 "peak": 1570,
                 "points": 0,
@@ -43188,7 +43188,7 @@
             "uuid": "8dcad0ea9f7444ee8eb0a1aa5b868331",
             "nickname": "emia",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1565,
                 "peak": 1568,
                 "points": 0,
@@ -43716,7 +43716,7 @@
             "uuid": "a81886565121479782d42408d94fe97d",
             "nickname": "affordab1e",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1565,
                 "peak": 1565,
                 "points": 0,
@@ -43945,7 +43945,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okrzej_",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1563,
                 "peak": 1625,
                 "points": 0,
@@ -44720,7 +44720,7 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "mcsr_misfit",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1563,
                 "peak": 1563,
                 "points": 0,
@@ -44962,21 +44962,34 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 47,
-                "elo": 1558,
+                "rank": 42,
+                "elo": 1573,
                 "peak": 1631,
                 "points": 0,
-                "current": 2,
+                "current": 3,
                 "streak": 7,
                 "pb": 606520,
-                "matches": 69,
+                "matches": 70,
                 "finished": 22,
-                "won": 36,
+                "won": 37,
                 "lost": 29,
                 "forfeited": 0,
                 "finishtime": 16547764
             },
             "matches": [
+                {
+                    "date": 1725076828000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "3bedaxe",
+                    "elo": 1573,
+                    "change": 15,
+                    "oelo": 1415,
+                    "ochange": -15,
+                    "time": 375478,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725073804000,
                     "type": "BURIED_TREASURE",
