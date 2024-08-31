@@ -1,5 +1,5 @@
 {
-    "date": 1725088872000,
+    "date": 1725089797000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -43159,21 +43159,34 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 41,
-                "elo": 1578,
+                "rank": 49,
+                "elo": 1553,
                 "peak": 1705,
                 "points": 0,
-                "current": 1,
+                "current": 0,
                 "streak": 7,
                 "pb": 471656,
-                "matches": 93,
+                "matches": 94,
                 "finished": 39,
                 "won": 45,
-                "lost": 46,
+                "lost": 47,
                 "forfeited": 17,
                 "finishtime": 26727522
             },
             "matches": [
+                {
+                    "date": 1725089877000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "76543211",
+                    "elo": 1553,
+                    "change": -25,
+                    "oelo": 1468,
+                    "ochange": 25,
+                    "time": 762990,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725088841000,
                     "type": "SHIPWRECK",
@@ -44324,7 +44337,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "KostuGaming",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1576,
                 "peak": 1576,
                 "points": 0,
@@ -44501,7 +44514,7 @@
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1570,
                 "peak": 1570,
                 "points": 0,
@@ -44626,7 +44639,7 @@
             "uuid": "8dcad0ea9f7444ee8eb0a1aa5b868331",
             "nickname": "emia",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1565,
                 "peak": 1568,
                 "points": 0,
@@ -45154,7 +45167,7 @@
             "uuid": "a81886565121479782d42408d94fe97d",
             "nickname": "affordab1e",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1565,
                 "peak": 1565,
                 "points": 0,
@@ -45383,7 +45396,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okrzej_",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1563,
                 "peak": 1625,
                 "points": 0,
@@ -46158,21 +46171,34 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcury_uwu",
             "stats": {
-                "rank": 46,
-                "elo": 1563,
+                "rank": 51,
+                "elo": 1542,
                 "peak": 1568,
                 "points": 0,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
                 "pb": 565905,
-                "matches": 135,
+                "matches": 136,
                 "finished": 46,
                 "won": 67,
-                "lost": 58,
+                "lost": 59,
                 "forfeited": 22,
                 "finishtime": 36752087
             },
             "matches": [
+                {
+                    "date": 1725089868000,
+                    "type": "BURIED_TREASURE",
+                    "result": "lost",
+                    "opponent": "GradientGray",
+                    "elo": 1542,
+                    "change": -21,
+                    "oelo": 1556,
+                    "ochange": 21,
+                    "time": 864752,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725088758000,
                     "type": "SHIPWRECK",
@@ -47869,7 +47895,7 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "mcsr_misfit",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1563,
                 "peak": 1563,
                 "points": 0,
@@ -48111,7 +48137,7 @@
             "uuid": "d41f0f3caebe45e1bc6a380fedf54ca9",
             "nickname": "boosterruns",
             "stats": {
-                "rank": 49,
+                "rank": 47,
                 "elo": 1556,
                 "peak": 1561,
                 "points": 0,
