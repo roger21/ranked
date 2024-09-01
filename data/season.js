@@ -1,5 +1,5 @@
 {
-    "date": 1725202817000,
+    "date": 1725204301000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -40572,13 +40572,13 @@
             "nickname": "JoomzMonkey",
             "stats": {
                 "rank": 36,
-                "elo": 1601,
+                "elo": 1600,
                 "peak": 1632,
                 "points": 0,
                 "current": 0,
                 "streak": 6,
                 "pb": 489882,
-                "matches": 135,
+                "matches": 136,
                 "finished": 55,
                 "won": 68,
                 "lost": 62,
@@ -40586,6 +40586,19 @@
                 "finishtime": 38337802
             },
             "matches": [
+                {
+                    "date": 1725203040000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "SneakyNO",
+                    "elo": 1600,
+                    "change": -1,
+                    "oelo": 1492,
+                    "ochange": 1,
+                    "time": 376082,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725202368000,
                     "type": "VILLAGE",
