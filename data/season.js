@@ -1,5 +1,5 @@
 {
-    "date": 1725161518000,
+    "date": 1725162377000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -39051,13 +39051,13 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 36,
-                "elo": 1596,
+                "elo": 1595,
                 "peak": 1705,
                 "points": 0,
                 "current": 0,
                 "streak": 5,
                 "pb": 548690,
-                "matches": 104,
+                "matches": 105,
                 "finished": 33,
                 "won": 50,
                 "lost": 46,
@@ -39065,6 +39065,19 @@
                 "finishtime": 23443548
             },
             "matches": [
+                {
+                    "date": 1725162062000,
+                    "type": "RUINED_PORTAL",
+                    "result": "draw",
+                    "opponent": "itsnahan",
+                    "elo": 1595,
+                    "change": -1,
+                    "oelo": 1537,
+                    "ochange": 1,
+                    "time": 468547,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725161330000,
                     "type": "BURIED_TREASURE",
@@ -45973,21 +45986,34 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 44,
-                "elo": 1565,
+                "rank": 51,
+                "elo": 1540,
                 "peak": 1705,
                 "points": 0,
-                "current": 3,
+                "current": 0,
                 "streak": 7,
                 "pb": 471656,
-                "matches": 101,
+                "matches": 102,
                 "finished": 43,
                 "won": 49,
-                "lost": 50,
+                "lost": 51,
                 "forfeited": 20,
                 "finishtime": 29262383
             },
             "matches": [
+                {
+                    "date": 1725162410000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "EmBoThuocChua",
+                    "elo": 1540,
+                    "change": -25,
+                    "oelo": 1462,
+                    "ochange": 25,
+                    "time": 851033,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725161330000,
                     "type": "BURIED_TREASURE",
@@ -47242,7 +47268,7 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "mcsr_misfit",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1563,
                 "peak": 1563,
                 "points": 0,
@@ -47484,7 +47510,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1561,
                 "peak": 1661,
                 "points": 0,
@@ -48844,7 +48870,7 @@
             "uuid": "d3c0e3033f8f45f2844ce4eeb64fb52b",
             "nickname": "MuhammadPro5741",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1554,
                 "peak": 1554,
                 "points": 0,
@@ -50412,7 +50438,7 @@
             "uuid": "8999a17f4ba84969bbddd81c7fa78fb1",
             "nickname": "Haid_",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1543,
                 "peak": 1565,
                 "points": 0,
@@ -50810,7 +50836,7 @@
             "uuid": "3d8f8be96a6247a9bb34097a7c67df88",
             "nickname": "isqqcle",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1542,
                 "peak": 1613,
                 "points": 0,
