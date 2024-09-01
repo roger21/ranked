@@ -1,5 +1,5 @@
 {
-    "date": 1725174039000,
+    "date": 1725175311000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -33864,21 +33864,34 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 28,
-                "elo": 1627,
+                "rank": 27,
+                "elo": 1639,
                 "peak": 1705,
                 "points": 0,
-                "current": 3,
+                "current": 4,
                 "streak": 5,
                 "pb": 548690,
-                "matches": 110,
-                "finished": 36,
-                "won": 53,
+                "matches": 111,
+                "finished": 37,
+                "won": 54,
                 "lost": 47,
                 "forfeited": 0,
-                "finishtime": 25702984
+                "finishtime": 26673251
             },
             "matches": [
+                {
+                    "date": 1725174463000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "SammmyG",
+                    "elo": 1639,
+                    "change": 12,
+                    "oelo": 1394,
+                    "ochange": -12,
+                    "time": 970267,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725172032000,
                     "type": "SHIPWRECK",
