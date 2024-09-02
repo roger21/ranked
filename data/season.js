@@ -1,5 +1,5 @@
 {
-    "date": 1725263117000,
+    "date": 1725264005000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -22164,13 +22164,13 @@
             "nickname": "thecamo6",
             "stats": {
                 "rank": 18,
-                "elo": 1707,
+                "elo": 1705,
                 "peak": 1733,
                 "points": 0,
                 "current": 0,
                 "streak": 6,
                 "pb": 551833,
-                "matches": 96,
+                "matches": 97,
                 "finished": 33,
                 "won": 53,
                 "lost": 41,
@@ -22178,6 +22178,19 @@
                 "finishtime": 22924595
             },
             "matches": [
+                {
+                    "date": 1725263213000,
+                    "type": "VILLAGE",
+                    "result": "draw",
+                    "opponent": "MuhammadPro5741",
+                    "elo": 1705,
+                    "change": -2,
+                    "oelo": 1575,
+                    "ochange": 2,
+                    "time": 775075,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725262311000,
                     "type": "VILLAGE",
@@ -44099,13 +44112,13 @@
             "nickname": "MuhammadPro5741",
             "stats": {
                 "rank": 43,
-                "elo": 1573,
+                "elo": 1575,
                 "peak": 1575,
                 "points": 0,
                 "current": 1,
                 "streak": 6,
                 "pb": 572358,
-                "matches": 140,
+                "matches": 141,
                 "finished": 47,
                 "won": 68,
                 "lost": 56,
@@ -44113,6 +44126,19 @@
                 "finishtime": 34783986
             },
             "matches": [
+                {
+                    "date": 1725263213000,
+                    "type": "VILLAGE",
+                    "result": "draw",
+                    "opponent": "thecamo6",
+                    "elo": 1575,
+                    "change": 2,
+                    "oelo": 1705,
+                    "ochange": -2,
+                    "time": 775075,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725262316000,
                     "type": "BURIED_TREASURE",
