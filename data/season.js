@@ -1,5 +1,5 @@
 {
-    "date": 1725384404000,
+    "date": 1725385498000,
     "players": [
         {
             "uuid": "562a308be86c4ec09438387860e792cc",
@@ -21457,20 +21457,33 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 19,
-                "elo": 1698,
+                "elo": 1713,
                 "peak": 1881,
                 "points": 0,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
                 "pb": 441131,
-                "matches": 235,
-                "finished": 107,
-                "won": 127,
+                "matches": 236,
+                "finished": 108,
+                "won": 128,
                 "lost": 101,
                 "forfeited": 1,
-                "finishtime": 70558860
+                "finishtime": 71226643
             },
             "matches": [
+                {
+                    "date": 1725385133000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "WarioTime1",
+                    "elo": 1713,
+                    "change": 15,
+                    "oelo": 1529,
+                    "ochange": -15,
+                    "time": 667783,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725384325000,
                     "type": "RUINED_PORTAL",
