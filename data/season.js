@@ -1,5 +1,5 @@
 {
-    "date": 1725426014000,
+    "date": 1725427727000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -1405,20 +1405,33 @@
             "nickname": "Oxidiot",
             "stats": {
                 "rank": 2,
-                "elo": 1944,
-                "peak": 1944,
+                "elo": 1960,
+                "peak": 1960,
                 "points": 0,
-                "current": 15,
-                "streak": 15,
+                "current": 16,
+                "streak": 16,
                 "pb": 463243,
-                "matches": 71,
-                "finished": 41,
-                "won": 48,
+                "matches": 72,
+                "finished": 42,
+                "won": 49,
                 "lost": 20,
                 "forfeited": 0,
-                "finishtime": 26085035
+                "finishtime": 26685261
             },
             "matches": [
+                {
+                    "date": 1725427322000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "Aquacorde",
+                    "elo": 1960,
+                    "change": 16,
+                    "oelo": 1804,
+                    "ochange": -16,
+                    "time": 600226,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725333875000,
                     "type": "DESERT_TEMPLE",
@@ -2422,20 +2435,33 @@
             "nickname": "silverrruns",
             "stats": {
                 "rank": 4,
-                "elo": 1828,
+                "elo": 1807,
                 "peak": 1942,
                 "points": 0,
                 "current": 0,
                 "streak": 10,
                 "pb": 436863,
-                "matches": 144,
+                "matches": 145,
                 "finished": 71,
                 "won": 91,
-                "lost": 51,
+                "lost": 52,
                 "forfeited": 1,
                 "finishtime": 45228687
             },
             "matches": [
+                {
+                    "date": 1725426519000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 1807,
+                    "change": -21,
+                    "oelo": 1820,
+                    "ochange": 21,
+                    "time": 562873,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725163451000,
                     "type": "SHIPWRECK",
@@ -4250,20 +4276,46 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 5,
-                "elo": 1799,
-                "peak": 1806,
+                "elo": 1804,
+                "peak": 1820,
                 "points": 0,
-                "current": 8,
-                "streak": 8,
+                "current": 0,
+                "streak": 9,
                 "pb": 502363,
-                "matches": 85,
-                "finished": 42,
-                "won": 48,
-                "lost": 35,
+                "matches": 87,
+                "finished": 43,
+                "won": 49,
+                "lost": 36,
                 "forfeited": 7,
-                "finishtime": 28500174
+                "finishtime": 29063047
             },
             "matches": [
+                {
+                    "date": 1725427322000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "Oxidiot",
+                    "elo": 1804,
+                    "change": -16,
+                    "oelo": 1960,
+                    "ochange": 16,
+                    "time": 600226,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1725426519000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "silverrruns",
+                    "elo": 1820,
+                    "change": 21,
+                    "oelo": 1807,
+                    "ochange": -21,
+                    "time": 562873,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725423218000,
                     "type": "SHIPWRECK",
