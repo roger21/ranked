@@ -1,5 +1,5 @@
 {
-    "date": 1725421517000,
+    "date": 1725422394000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -6779,7 +6779,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 6,
+                "rank": 7,
                 "elo": 1774,
                 "peak": 1858,
                 "points": 0,
@@ -9686,7 +9686,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 7,
+                "rank": 8,
                 "elo": 1772,
                 "peak": 1775,
                 "points": 0,
@@ -10331,21 +10331,34 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 8,
-                "elo": 1767,
+                "rank": 5,
+                "elo": 1785,
                 "peak": 1806,
                 "points": 0,
-                "current": 6,
+                "current": 7,
                 "streak": 8,
                 "pb": 502363,
-                "matches": 83,
-                "finished": 40,
-                "won": 46,
+                "matches": 84,
+                "finished": 41,
+                "won": 47,
                 "lost": 35,
                 "forfeited": 7,
-                "finishtime": 27169129
+                "finishtime": 27864225
             },
             "matches": [
+                {
+                    "date": 1725422401000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "Waluyoshi",
+                    "elo": 1785,
+                    "change": 18,
+                    "oelo": 1703,
+                    "ochange": -18,
+                    "time": 695096,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725349265000,
                     "type": "BURIED_TREASURE",
@@ -18541,21 +18554,34 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "stats": {
-                "rank": 17,
-                "elo": 1721,
+                "rank": 20,
+                "elo": 1703,
                 "peak": 1753,
                 "points": 0,
                 "current": 0,
                 "streak": 8,
                 "pb": 472987,
-                "matches": 304,
+                "matches": 305,
                 "finished": 107,
                 "won": 152,
-                "lost": 133,
+                "lost": 134,
                 "forfeited": 36,
                 "finishtime": 76281345
             },
             "matches": [
+                {
+                    "date": 1725422401000,
+                    "type": "VILLAGE",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 1703,
+                    "change": -18,
+                    "oelo": 1785,
+                    "ochange": 18,
+                    "time": 695096,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725421353000,
                     "type": "BURIED_TREASURE",
@@ -22449,7 +22475,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 18,
+                "rank": 17,
                 "elo": 1715,
                 "peak": 1881,
                 "points": 0,
@@ -25785,7 +25811,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 19,
+                "rank": 18,
                 "elo": 1714,
                 "peak": 1726,
                 "points": 0,
@@ -26651,7 +26677,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 20,
+                "rank": 19,
                 "elo": 1705,
                 "peak": 1750,
                 "points": 0,
@@ -28245,7 +28271,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 21,
+                "rank": 20,
                 "elo": 1703,
                 "peak": 1772,
                 "points": 0,
