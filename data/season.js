@@ -1,5 +1,5 @@
 {
-    "date": 1725450512000,
+    "date": 1725451998000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -42782,7 +42782,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0tic2030",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1644,
                 "peak": 1644,
                 "points": 0,
@@ -43284,21 +43284,34 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 34,
-                "elo": 1634,
+                "rank": 33,
+                "elo": 1646,
                 "peak": 1705,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
                 "pb": 548690,
-                "matches": 137,
+                "matches": 138,
                 "finished": 46,
-                "won": 67,
+                "won": 68,
                 "lost": 60,
                 "forfeited": 0,
                 "finishtime": 33119676
             },
             "matches": [
+                {
+                    "date": 1725452040000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "MinetofuCraft",
+                    "elo": 1646,
+                    "change": 12,
+                    "oelo": 1388,
+                    "ochange": -12,
+                    "time": 350310,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725437085000,
                     "type": "SHIPWRECK",
