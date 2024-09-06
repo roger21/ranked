@@ -1,5 +1,5 @@
 {
-    "date": 1725594302000,
+    "date": 1725595221000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -53044,7 +53044,7 @@
                 "current": 1,
                 "streak": 5,
                 "pb": 604219,
-                "matches": 68,
+                "matches": 69,
                 "finished": 25,
                 "won": 35,
                 "lost": 31,
@@ -53052,6 +53052,19 @@
                 "finishtime": 19374102
             },
             "matches": [
+                {
+                    "date": 1725595178000,
+                    "type": "RUINED_PORTAL",
+                    "result": "draw",
+                    "opponent": "itsnahan",
+                    "elo": 1643,
+                    "change": 0,
+                    "oelo": 1640,
+                    "ochange": 0,
+                    "time": 837603,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725593593000,
                     "type": "SHIPWRECK",
@@ -58208,7 +58221,7 @@
                 "current": 3,
                 "streak": 9,
                 "pb": 470861,
-                "matches": 332,
+                "matches": 333,
                 "finished": 135,
                 "won": 162,
                 "lost": 154,
@@ -58216,6 +58229,19 @@
                 "finishtime": 93171727
             },
             "matches": [
+                {
+                    "date": 1725595178000,
+                    "type": "RUINED_PORTAL",
+                    "result": "draw",
+                    "opponent": "emia",
+                    "elo": 1640,
+                    "change": 0,
+                    "oelo": 1643,
+                    "ochange": 0,
+                    "time": 837603,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725594256000,
                     "type": "SHIPWRECK",
