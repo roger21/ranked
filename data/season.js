@@ -1,5 +1,5 @@
 {
-    "date": 1725724810000,
+    "date": 1725726602000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -26485,20 +26485,33 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 17,
-                "elo": 1715,
+                "elo": 1728,
                 "peak": 1881,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
                 "pb": 441131,
-                "matches": 404,
-                "finished": 174,
-                "won": 214,
+                "matches": 405,
+                "finished": 175,
+                "won": 215,
                 "lost": 179,
                 "forfeited": 2,
-                "finishtime": 116371356
+                "finishtime": 116886816
             },
             "matches": [
+                {
+                    "date": 1725726594000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "Mikail4350",
+                    "elo": 1728,
+                    "change": 13,
+                    "oelo": 1494,
+                    "ochange": -13,
+                    "time": 515460,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725724661000,
                     "type": "SHIPWRECK",
