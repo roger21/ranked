@@ -1,5 +1,5 @@
 {
-    "date": 1725723896000,
+    "date": 1725724810000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4060,20 +4060,33 @@
             "nickname": "DziabaDziuba",
             "stats": {
                 "rank": 4,
-                "elo": 1868,
+                "elo": 1883,
                 "peak": 1893,
                 "points": 0,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
                 "pb": 516397,
-                "matches": 39,
-                "finished": 24,
-                "won": 27,
+                "matches": 40,
+                "finished": 25,
+                "won": 28,
                 "lost": 12,
                 "forfeited": 0,
-                "finishtime": 16288479
+                "finishtime": 16979734
             },
             "matches": [
+                {
+                    "date": 1725724661000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "v_strid",
+                    "elo": 1883,
+                    "change": 15,
+                    "oelo": 1715,
+                    "ochange": -15,
+                    "time": 691255,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725661462000,
                     "type": "RUINED_PORTAL",
@@ -26472,20 +26485,33 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 17,
-                "elo": 1730,
+                "elo": 1715,
                 "peak": 1881,
                 "points": 0,
-                "current": 2,
+                "current": 0,
                 "streak": 12,
                 "pb": 441131,
-                "matches": 403,
+                "matches": 404,
                 "finished": 174,
                 "won": 214,
-                "lost": 178,
+                "lost": 179,
                 "forfeited": 2,
                 "finishtime": 116371356
             },
             "matches": [
+                {
+                    "date": 1725724661000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "DziabaDziuba",
+                    "elo": 1715,
+                    "change": -15,
+                    "oelo": 1883,
+                    "ochange": 15,
+                    "time": 691255,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725723889000,
                     "type": "BURIED_TREASURE",
