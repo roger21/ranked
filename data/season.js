@@ -1,5 +1,5 @@
 {
-    "date": 1725827075000,
+    "date": 1725828315000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -70431,7 +70431,7 @@
                     "date": 1725310584000,
                     "type": "SHIPWRECK",
                     "result": "won",
-                    "opponent": "AuroreButBlack",
+                    "opponent": "FolleDuLitAurore",
                     "elo": 1381,
                     "change": 18,
                     "oelo": 1298,
@@ -73468,7 +73468,7 @@
                     "date": 1725360846000,
                     "type": "RUINED_PORTAL",
                     "result": "won",
-                    "opponent": "AuroreButBlack",
+                    "opponent": "FolleDuLitAurore",
                     "elo": 1523,
                     "change": 13,
                     "oelo": 1285,
