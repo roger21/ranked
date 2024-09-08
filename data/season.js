@@ -1,5 +1,5 @@
 {
-    "date": 1725787444000,
+    "date": 1725788707000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -71109,7 +71109,7 @@
             "uuid": "a53540ad086c490e9a0405171f0e0e58",
             "nickname": "aleen",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1607,
                 "peak": 1617,
                 "points": 0,
@@ -71182,7 +71182,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "KostuGaming",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1605,
                 "peak": 1605,
                 "points": 0,
@@ -71463,7 +71463,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "Cornflakes267",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1605,
                 "peak": 1605,
                 "points": 0,
@@ -72381,7 +72381,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1604,
                 "peak": 1851,
                 "points": 0,
@@ -74729,7 +74729,7 @@
             "uuid": "8dcad0ea9f7444ee8eb0a1aa5b868331",
             "nickname": "emia",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1603,
                 "peak": 1684,
                 "points": 0,
@@ -75803,7 +75803,7 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "mcsr_misfit",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1603,
                 "peak": 1603,
                 "points": 0,
@@ -76110,7 +76110,7 @@
             "uuid": "b39f5648c91d42dfb121655f2aa52970",
             "nickname": "dimowo",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1603,
                 "peak": 1613,
                 "points": 0,
@@ -76352,21 +76352,34 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 48,
-                "elo": 1595,
-                "peak": 1595,
+                "rank": 41,
+                "elo": 1611,
+                "peak": 1611,
                 "points": 0,
-                "current": 3,
+                "current": 4,
                 "streak": 5,
                 "pb": 521062,
-                "matches": 78,
-                "finished": 30,
-                "won": 44,
+                "matches": 79,
+                "finished": 31,
+                "won": 45,
                 "lost": 34,
                 "forfeited": 16,
-                "finishtime": 20783723
+                "finishtime": 21413251
             },
             "matches": [
+                {
+                    "date": 1725788736000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "ContraVz",
+                    "elo": 1611,
+                    "change": 16,
+                    "oelo": 1455,
+                    "ochange": -16,
+                    "time": 629528,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725787359000,
                     "type": "BURIED_TREASURE",
