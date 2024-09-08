@@ -1,5 +1,5 @@
 {
-    "date": 1725780090000,
+    "date": 1725780927000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -76599,21 +76599,34 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcury_uwu",
             "stats": {
-                "rank": 48,
-                "elo": 1590,
+                "rank": 51,
+                "elo": 1572,
                 "peak": 1701,
                 "points": 0,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
                 "pb": 528381,
-                "matches": 187,
+                "matches": 188,
                 "finished": 59,
                 "won": 91,
-                "lost": 81,
+                "lost": 82,
                 "forfeited": 25,
                 "finishtime": 46413519
             },
             "matches": [
+                {
+                    "date": 1725780987000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "SuperC_",
+                    "elo": 1572,
+                    "change": -18,
+                    "oelo": 1667,
+                    "ochange": 18,
+                    "time": 755524,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725779720000,
                     "type": "BURIED_TREASURE",
@@ -78986,7 +78999,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "Cornflakes267",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1581,
                 "peak": 1600,
                 "points": 0,
@@ -79891,7 +79904,7 @@
             "uuid": "8b8252474ac24c3ea4ba1298adf2044e",
             "nickname": "Mar1n",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1578,
                 "peak": 1578,
                 "points": 0,
