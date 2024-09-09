@@ -1,5 +1,5 @@
 {
-    "date": 1725893129000,
+    "date": 1725894001000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -57324,7 +57324,7 @@
                 "current": 1,
                 "streak": 12,
                 "pb": 427007,
-                "matches": 586,
+                "matches": 587,
                 "finished": 209,
                 "won": 288,
                 "lost": 271,
@@ -57332,6 +57332,19 @@
                 "finishtime": 129347069
             },
             "matches": [
+                {
+                    "date": 1725893508000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "m3rcury_uwu",
+                    "elo": 1676,
+                    "change": 0,
+                    "oelo": 1638,
+                    "ochange": 0,
+                    "time": 335780,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725807440000,
                     "type": "SHIPWRECK",
@@ -72673,7 +72686,7 @@
                 "current": 0,
                 "streak": 6,
                 "pb": 528381,
-                "matches": 225,
+                "matches": 226,
                 "finished": 73,
                 "won": 110,
                 "lost": 97,
@@ -72681,6 +72694,19 @@
                 "finishtime": 56969122
             },
             "matches": [
+                {
+                    "date": 1725893508000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "bing_pigs",
+                    "elo": 1638,
+                    "change": 0,
+                    "oelo": 1676,
+                    "ochange": 0,
+                    "time": 335780,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725892875000,
                     "type": "BURIED_TREASURE",
