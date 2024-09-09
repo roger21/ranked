@@ -1,5 +1,5 @@
 {
-    "date": 1725853038000,
+    "date": 1725854397000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -3259,20 +3259,33 @@
             "nickname": "Oxidiot",
             "stats": {
                 "rank": 3,
-                "elo": 1928,
+                "elo": 1942,
                 "peak": 1990,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 17,
                 "pb": 463243,
-                "matches": 85,
-                "finished": 50,
-                "won": 57,
+                "matches": 86,
+                "finished": 51,
+                "won": 58,
                 "lost": 25,
                 "forfeited": 0,
-                "finishtime": 31566641
+                "finishtime": 32170811
             },
             "matches": [
+                {
+                    "date": 1725853271000,
+                    "type": "RUINED_PORTAL",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 1942,
+                    "change": 14,
+                    "oelo": 1737,
+                    "ochange": -14,
+                    "time": 604170,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725851533000,
                     "type": "SHIPWRECK",
@@ -36053,20 +36066,33 @@
             "nickname": "dandannyboy",
             "stats": {
                 "rank": 17,
-                "elo": 1751,
+                "elo": 1737,
                 "peak": 1774,
                 "points": 0,
-                "current": 2,
+                "current": 0,
                 "streak": 7,
                 "pb": 471656,
-                "matches": 241,
+                "matches": 242,
                 "finished": 103,
                 "won": 126,
-                "lost": 112,
+                "lost": 113,
                 "forfeited": 50,
                 "finishtime": 71189658
             },
             "matches": [
+                {
+                    "date": 1725853271000,
+                    "type": "RUINED_PORTAL",
+                    "result": "lost",
+                    "opponent": "Oxidiot",
+                    "elo": 1737,
+                    "change": -14,
+                    "oelo": 1942,
+                    "ochange": 14,
+                    "time": 604170,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725852588000,
                     "type": "SHIPWRECK",
