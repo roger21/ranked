@@ -1,5 +1,5 @@
 {
-    "date": 1725960466000,
+    "date": 1725961511000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -67534,7 +67534,7 @@
             "uuid": "c670041ed84c480cab4a6ee904905b5f",
             "nickname": "paplerr",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1651,
                 "peak": 1651,
                 "points": 0,
@@ -67554,7 +67554,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1647,
                 "peak": 1760,
                 "points": 0,
@@ -68628,7 +68628,7 @@
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1643,
                 "peak": 1686,
                 "points": 0,
@@ -68922,7 +68922,7 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcury_uwu",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1638,
                 "peak": 1701,
                 "points": 0,
@@ -71816,7 +71816,7 @@
             "uuid": "b5ae858c09384b79989ea305a4b5cedf",
             "nickname": "Ayreliaa",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1637,
                 "peak": 1654,
                 "points": 0,
@@ -73852,7 +73852,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TDORULERD",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1635,
                 "peak": 1798,
                 "points": 0,
@@ -75511,21 +75511,34 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 41,
-                "elo": 1635,
+                "rank": 36,
+                "elo": 1652,
                 "peak": 1891,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
                 "pb": 427007,
-                "matches": 604,
-                "finished": 216,
-                "won": 296,
+                "matches": 605,
+                "finished": 217,
+                "won": 297,
                 "lost": 280,
                 "forfeited": 215,
-                "finishtime": 133825974
+                "finishtime": 134356383
             },
             "matches": [
+                {
+                    "date": 1725961575000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "NOHACKSJUSTTIGER",
+                    "elo": 1652,
+                    "change": 17,
+                    "oelo": 1531,
+                    "ochange": -17,
+                    "time": 530409,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725960393000,
                     "type": "SHIPWRECK",
