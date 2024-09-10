@@ -1,5 +1,5 @@
 {
-    "date": 1725965115000,
+    "date": 1725966014000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -67531,30 +67531,10 @@
             ]
         },
         {
-            "uuid": "c670041ed84c480cab4a6ee904905b5f",
-            "nickname": "paplerr",
-            "stats": {
-                "rank": 36,
-                "elo": 1651,
-                "peak": 1651,
-                "points": 0,
-                "current": 0,
-                "streak": 4,
-                "pb": 637939,
-                "matches": 5,
-                "finished": 3,
-                "won": 4,
-                "lost": 1,
-                "forfeited": 1,
-                "finishtime": 2076075
-            },
-            "matches": []
-        },
-        {
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 1647,
                 "peak": 1760,
                 "points": 0,
@@ -68621,6 +68601,40 @@
                     "time": 657141,
                     "forfeited": false,
                     "decayed": false
+                }
+            ]
+        },
+        {
+            "uuid": "c670041ed84c480cab4a6ee904905b5f",
+            "nickname": "paplerr",
+            "stats": {
+                "rank": 37,
+                "elo": 1646,
+                "peak": 1651,
+                "points": 0,
+                "current": 0,
+                "streak": 4,
+                "pb": 637939,
+                "matches": 5,
+                "finished": 3,
+                "won": 4,
+                "lost": 1,
+                "forfeited": 1,
+                "finishtime": 2076075
+            },
+            "matches": [
+                {
+                    "date": 1725965401000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1646,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
                 }
             ]
         },
