@@ -1,5 +1,5 @@
 {
-    "date": 1725943814000,
+    "date": 1725945087000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -23497,20 +23497,46 @@
             "nickname": "retropig",
             "stats": {
                 "rank": 14,
-                "elo": 1779,
+                "elo": 1791,
                 "peak": 1822,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
                 "pb": 470861,
-                "matches": 375,
+                "matches": 377,
                 "finished": 157,
-                "won": 186,
+                "won": 187,
                 "lost": 170,
                 "forfeited": 79,
                 "finishtime": 107423472
             },
             "matches": [
+                {
+                    "date": 1725944826000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "WarioTime1",
+                    "elo": 1791,
+                    "change": 14,
+                    "oelo": 1578,
+                    "ochange": -14,
+                    "time": 276094,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1725944388000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "retropog",
+                    "elo": 1777,
+                    "change": -2,
+                    "oelo": 1640,
+                    "ochange": 2,
+                    "time": 712968,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725942841000,
                     "type": "BURIED_TREASURE",
@@ -66237,13 +66263,13 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 38,
-                "elo": 1638,
+                "elo": 1640,
                 "peak": 1741,
                 "points": 0,
                 "current": 0,
                 "streak": 8,
                 "pb": 503479,
-                "matches": 191,
+                "matches": 192,
                 "finished": 70,
                 "won": 92,
                 "lost": 85,
@@ -66251,6 +66277,19 @@
                 "finishtime": 48531112
             },
             "matches": [
+                {
+                    "date": 1725944388000,
+                    "type": "SHIPWRECK",
+                    "result": "draw",
+                    "opponent": "retropig",
+                    "elo": 1640,
+                    "change": 2,
+                    "oelo": 1777,
+                    "ochange": -2,
+                    "time": 712968,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725943198000,
                     "type": "BURIED_TREASURE",
@@ -68675,7 +68714,7 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcury_uwu",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1638,
                 "peak": 1701,
                 "points": 0,
