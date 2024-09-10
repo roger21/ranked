@@ -1,5 +1,5 @@
 {
-    "date": 1725978495000,
+    "date": 1725979510000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -57297,13 +57297,13 @@
             "nickname": "Bloonskiller",
             "stats": {
                 "rank": 27,
-                "elo": 1678,
+                "elo": 1677,
                 "peak": 1698,
                 "points": 0,
                 "current": 0,
                 "streak": 7,
                 "pb": 521062,
-                "matches": 103,
+                "matches": 104,
                 "finished": 40,
                 "won": 59,
                 "lost": 44,
@@ -57311,6 +57311,19 @@
                 "finishtime": 27495991
             },
             "matches": [
+                {
+                    "date": 1725978984000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "bing_pigs",
+                    "elo": 1677,
+                    "change": -1,
+                    "oelo": 1555,
+                    "ochange": 1,
+                    "time": 714029,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1725951503000,
                     "type": "VILLAGE",
