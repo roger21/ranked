@@ -1,5 +1,5 @@
 {
-    "date": 1725947302000,
+    "date": 1725948068000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -23523,20 +23523,33 @@
             "nickname": "retropig",
             "stats": {
                 "rank": 14,
-                "elo": 1771,
+                "elo": 1786,
                 "peak": 1822,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
                 "pb": 470861,
-                "matches": 378,
-                "finished": 157,
-                "won": 187,
+                "matches": 379,
+                "finished": 158,
+                "won": 188,
                 "lost": 171,
                 "forfeited": 79,
-                "finishtime": 107423472
+                "finishtime": 107925706
             },
             "matches": [
+                {
+                    "date": 1725947678000,
+                    "type": "SHIPWRECK",
+                    "result": "won",
+                    "opponent": "retropog",
+                    "elo": 1786,
+                    "change": 15,
+                    "oelo": 1616,
+                    "ochange": -15,
+                    "time": 502234,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725945904000,
                     "type": "BURIED_TREASURE",
@@ -72894,17 +72907,43 @@
                 "elo": 1631,
                 "peak": 1741,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
                 "pb": 503479,
-                "matches": 194,
+                "matches": 196,
                 "finished": 70,
-                "won": 93,
-                "lost": 86,
+                "won": 94,
+                "lost": 87,
                 "forfeited": 1,
                 "finishtime": 48531112
             },
             "matches": [
+                {
+                    "date": 1725947974000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "MuhammadPro5741",
+                    "elo": 1631,
+                    "change": 15,
+                    "oelo": 1460,
+                    "ochange": -15,
+                    "time": 102997,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1725947678000,
+                    "type": "SHIPWRECK",
+                    "result": "lost",
+                    "opponent": "retropig",
+                    "elo": 1616,
+                    "change": -15,
+                    "oelo": 1786,
+                    "ochange": 15,
+                    "time": 502234,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1725946688000,
                     "type": "BURIED_TREASURE",
