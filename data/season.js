@@ -1,5 +1,5 @@
 {
-    "date": 1726077617000,
+    "date": 1726079561000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -58607,13 +58607,13 @@
             "nickname": "Ayreliaa",
             "stats": {
                 "rank": 25,
-                "elo": 1694,
+                "elo": 1692,
                 "peak": 1758,
                 "points": 0,
                 "current": 0,
                 "streak": 11,
                 "pb": 479654,
-                "matches": 179,
+                "matches": 180,
                 "finished": 64,
                 "won": 92,
                 "lost": 74,
@@ -58621,6 +58621,19 @@
                 "finishtime": 48138064
             },
             "matches": [
+                {
+                    "date": 1726078466000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "Haid_",
+                    "elo": 1692,
+                    "change": -2,
+                    "oelo": 1480,
+                    "ochange": 2,
+                    "time": 668290,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726076176000,
                     "type": "VILLAGE",
