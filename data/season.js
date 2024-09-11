@@ -1,5 +1,5 @@
 {
-    "date": 1726069524000,
+    "date": 1726070403000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -70173,13 +70173,13 @@
             "nickname": "Maraico",
             "stats": {
                 "rank": 31,
-                "elo": 1669,
+                "elo": 1668,
                 "peak": 1688,
                 "points": 0,
                 "current": 0,
                 "streak": 6,
                 "pb": 539059,
-                "matches": 179,
+                "matches": 180,
                 "finished": 66,
                 "won": 88,
                 "lost": 82,
@@ -70187,6 +70187,19 @@
                 "finishtime": 49315756
             },
             "matches": [
+                {
+                    "date": 1726070199000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "draw",
+                    "opponent": "boosterruns",
+                    "elo": 1668,
+                    "change": -1,
+                    "oelo": 1562,
+                    "ochange": 1,
+                    "time": 296251,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726069454000,
                     "type": "BURIED_TREASURE",
