@@ -1,5 +1,5 @@
 {
-    "date": 1726080428000,
+    "date": 1726081219000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -31711,20 +31711,33 @@
             "nickname": "romuxii",
             "stats": {
                 "rank": 17,
-                "elo": 1769,
+                "elo": 1781,
                 "peak": 1787,
                 "points": 0,
-                "current": 3,
+                "current": 4,
                 "streak": 11,
                 "pb": 475903,
-                "matches": 290,
+                "matches": 291,
                 "finished": 102,
-                "won": 153,
+                "won": 154,
                 "lost": 132,
                 "forfeited": 102,
                 "finishtime": 69784889
             },
             "matches": [
+                {
+                    "date": 1726080958000,
+                    "type": "VILLAGE",
+                    "result": "won",
+                    "opponent": "CroProYT",
+                    "elo": 1781,
+                    "change": 12,
+                    "oelo": 1539,
+                    "ochange": -12,
+                    "time": 617502,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726065257000,
                     "type": "RUINED_PORTAL",
