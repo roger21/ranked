@@ -1,5 +1,5 @@
 {
-    "date": 1726066817000,
+    "date": 1726068458000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4580,20 +4580,33 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 4,
-                "elo": 1936,
+                "elo": 1945,
                 "peak": 1952,
                 "points": 0,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
                 "pb": 441131,
-                "matches": 481,
+                "matches": 482,
                 "finished": 216,
-                "won": 263,
+                "won": 264,
                 "lost": 205,
                 "forfeited": 2,
                 "finishtime": 145221300
             },
             "matches": [
+                {
+                    "date": 1726067617000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "pulsar32",
+                    "elo": 1945,
+                    "change": 9,
+                    "oelo": 1591,
+                    "ochange": -9,
+                    "time": 532772,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726066259000,
                     "type": "BURIED_TREASURE",
