@@ -1,5 +1,5 @@
 {
-    "date": 1726166927000,
+    "date": 1726167735000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -44037,7 +44037,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 1765,
                 "peak": 1865,
                 "points": 0,
@@ -47711,21 +47711,34 @@
             "uuid": "b5ae858c09384b79989ea305a4b5cedf",
             "nickname": "Ayreliaa",
             "stats": {
-                "rank": 20,
-                "elo": 1754,
-                "peak": 1758,
+                "rank": 19,
+                "elo": 1769,
+                "peak": 1769,
                 "points": 0,
-                "current": 5,
+                "current": 6,
                 "streak": 11,
                 "pb": 479654,
-                "matches": 200,
-                "finished": 73,
-                "won": 103,
+                "matches": 201,
+                "finished": 74,
+                "won": 104,
                 "lost": 82,
                 "forfeited": 2,
-                "finishtime": 54663062
+                "finishtime": 55410215
             },
             "matches": [
+                {
+                    "date": 1726167774000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 1769,
+                    "change": 15,
+                    "oelo": 1588,
+                    "ochange": -15,
+                    "time": 747153,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1726165401000,
                     "type": "SHIPWRECK",
@@ -97364,21 +97377,34 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 50,
-                "elo": 1603,
+                "rank": 57,
+                "elo": 1588,
                 "peak": 1906,
                 "points": 0,
-                "current": 3,
+                "current": 0,
                 "streak": 10,
                 "pb": 461693,
-                "matches": 432,
+                "matches": 433,
                 "finished": 188,
                 "won": 231,
-                "lost": 188,
+                "lost": 189,
                 "forfeited": 0,
                 "finishtime": 123137130
             },
             "matches": [
+                {
+                    "date": 1726167774000,
+                    "type": "DESERT_TEMPLE",
+                    "result": "lost",
+                    "opponent": "Ayreliaa",
+                    "elo": 1588,
+                    "change": -15,
+                    "oelo": 1769,
+                    "ochange": 15,
+                    "time": 747153,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1726166839000,
                     "type": "BURIED_TREASURE",
