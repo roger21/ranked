@@ -1,5 +1,5 @@
 {
-    "date": 1726246014000,
+    "date": 1726246795000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -38162,13 +38162,13 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 19,
-                "elo": 1771,
+                "elo": 1769,
                 "peak": 1900,
                 "points": 0,
                 "current": 0,
                 "streak": 13,
                 "pb": 427007,
-                "matches": 727,
+                "matches": 728,
                 "finished": 264,
                 "won": 362,
                 "lost": 331,
@@ -38176,6 +38176,19 @@
                 "finishtime": 163668568
             },
             "matches": [
+                {
+                    "date": 1726246579000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "Haid_",
+                    "elo": 1769,
+                    "change": -2,
+                    "oelo": 1566,
+                    "ochange": 2,
+                    "time": 700293,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726243665000,
                     "type": "SHIPWRECK",
