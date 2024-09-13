@@ -1,5 +1,5 @@
 {
-    "date": 1726224322000,
+    "date": 1726225195000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -89753,7 +89753,7 @@
             "nickname": "paplerr",
             "stats": {
                 "rank": 41,
-                "elo": 1636,
+                "elo": 1631,
                 "peak": 1651,
                 "points": 0,
                 "current": 0,
@@ -89767,6 +89767,19 @@
                 "finishtime": 2076075
             },
             "matches": [
+                {
+                    "date": 1726224632000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1631,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1726138231000,
                     "type": null,
