@@ -1,5 +1,5 @@
 {
-    "date": 1726313615000,
+    "date": 1726314389000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -98532,7 +98532,7 @@
             "uuid": "99aa9e0e8034479a90259e244dfb9029",
             "nickname": "Emillk",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1644,
                 "peak": 1744,
                 "points": 0,
@@ -99320,7 +99320,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1642,
                 "peak": 1770,
                 "points": 0,
@@ -102214,7 +102214,7 @@
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1638,
                 "peak": 1686,
                 "points": 0,
@@ -102521,7 +102521,7 @@
             "uuid": "d10be6f072a34e069882ae04bfe60c98",
             "nickname": "Unknwonc",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1638,
                 "peak": 1638,
                 "points": 0,
@@ -103829,7 +103829,7 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1637,
                 "peak": 1677,
                 "points": 0,
@@ -103954,7 +103954,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "KostuGaming",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1635,
                 "peak": 1635,
                 "points": 0,
@@ -104352,7 +104352,7 @@
             "uuid": "8dcad0ea9f7444ee8eb0a1aa5b868331",
             "nickname": "emia",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1633,
                 "peak": 1684,
                 "points": 0,
@@ -105621,7 +105621,7 @@
             "uuid": "4ef7288db6684b7c8ec29ef9bb8231ce",
             "nickname": "outrag",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1631,
                 "peak": 1631,
                 "points": 0,
@@ -106721,7 +106721,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1630,
                 "peak": 1688,
                 "points": 0,
@@ -109147,21 +109147,34 @@
             "uuid": "8999a17f4ba84969bbddd81c7fa78fb1",
             "nickname": "Haid_",
             "stats": {
-                "rank": 49,
-                "elo": 1627,
-                "peak": 1627,
+                "rank": 39,
+                "elo": 1645,
+                "peak": 1645,
                 "points": 0,
-                "current": 4,
+                "current": 5,
                 "streak": 8,
                 "pb": 492877,
-                "matches": 260,
+                "matches": 261,
                 "finished": 84,
-                "won": 132,
+                "won": 133,
                 "lost": 115,
                 "forfeited": 58,
                 "finishtime": 65967550
             },
             "matches": [
+                {
+                    "date": 1726314423000,
+                    "type": "BURIED_TREASURE",
+                    "result": "won",
+                    "opponent": "affordab1e",
+                    "elo": 1645,
+                    "change": 18,
+                    "oelo": 1545,
+                    "ochange": -18,
+                    "time": 606871,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726313172000,
                     "type": "VILLAGE",
