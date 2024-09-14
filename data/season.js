@@ -1,5 +1,5 @@
 {
-    "date": 1726310713000,
+    "date": 1726311599000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -106705,83 +106705,10 @@
             ]
         },
         {
-            "uuid": "c670041ed84c480cab4a6ee904905b5f",
-            "nickname": "paplerr",
-            "stats": {
-                "rank": 47,
-                "elo": 1631,
-                "peak": 1651,
-                "points": 0,
-                "current": 0,
-                "streak": 4,
-                "pb": 637939,
-                "matches": 5,
-                "finished": 3,
-                "won": 4,
-                "lost": 1,
-                "forfeited": 1,
-                "finishtime": 2076075
-            },
-            "matches": [
-                {
-                    "date": 1726224632000,
-                    "type": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1631,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1726138231000,
-                    "type": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1636,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1726051831000,
-                    "type": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1641,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1725965401000,
-                    "type": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1646,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                }
-            ]
-        },
-        {
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1630,
                 "peak": 1688,
                 "points": 0,
@@ -109200,6 +109127,92 @@
                     "time": 614992,
                     "forfeited": false,
                     "decayed": false
+                }
+            ]
+        },
+        {
+            "uuid": "c670041ed84c480cab4a6ee904905b5f",
+            "nickname": "paplerr",
+            "stats": {
+                "rank": 49,
+                "elo": 1626,
+                "peak": 1651,
+                "points": 0,
+                "current": 0,
+                "streak": 4,
+                "pb": 637939,
+                "matches": 5,
+                "finished": 3,
+                "won": 4,
+                "lost": 1,
+                "forfeited": 1,
+                "finishtime": 2076075
+            },
+            "matches": [
+                {
+                    "date": 1726311033000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1626,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
+                    "date": 1726224632000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1631,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
+                    "date": 1726138231000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1636,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
+                    "date": 1726051831000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1641,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
+                {
+                    "date": 1725965401000,
+                    "type": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1646,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
                 }
             ]
         },
