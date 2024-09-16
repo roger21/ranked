@@ -1,5 +1,5 @@
 {
-    "date": 1726471884000,
+    "date": 1726472712000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -13363,13 +13363,13 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 5,
-                "elo": 1927,
+                "elo": 1925,
                 "peak": 1927,
                 "points": 0,
                 "current": 11,
                 "streak": 13,
                 "pb": 427007,
-                "matches": 772,
+                "matches": 773,
                 "finished": 286,
                 "won": 390,
                 "lost": 347,
@@ -13377,6 +13377,19 @@
                 "finishtime": 177198489
             },
             "matches": [
+                {
+                    "date": 1726472580000,
+                    "type": "RUINED_PORTAL",
+                    "result": "draw",
+                    "opponent": "Unknwonc",
+                    "elo": 1925,
+                    "change": -2,
+                    "oelo": 1715,
+                    "ochange": 2,
+                    "time": 804027,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726418412000,
                     "type": "SHIPWRECK",
@@ -82494,13 +82507,13 @@
             "nickname": "Unknwonc",
             "stats": {
                 "rank": 29,
-                "elo": 1713,
-                "peak": 1713,
+                "elo": 1715,
+                "peak": 1715,
                 "points": 0,
                 "current": 3,
                 "streak": 7,
                 "pb": 589103,
-                "matches": 109,
+                "matches": 110,
                 "finished": 42,
                 "won": 57,
                 "lost": 44,
@@ -82508,6 +82521,19 @@
                 "finishtime": 32290723
             },
             "matches": [
+                {
+                    "date": 1726472580000,
+                    "type": "RUINED_PORTAL",
+                    "result": "draw",
+                    "opponent": "bing_pigs",
+                    "elo": 1715,
+                    "change": 2,
+                    "oelo": 1925,
+                    "ochange": -2,
+                    "time": 804027,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726471499000,
                     "type": "BURIED_TREASURE",
