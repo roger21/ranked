@@ -1,5 +1,5 @@
 {
-    "date": 1726468535000,
+    "date": 1726469496000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -56763,13 +56763,13 @@
             "nickname": "retropig",
             "stats": {
                 "rank": 22,
-                "elo": 1745,
+                "elo": 1743,
                 "peak": 1822,
                 "points": 0,
                 "current": 3,
                 "streak": 9,
                 "pb": 470861,
-                "matches": 462,
+                "matches": 463,
                 "finished": 184,
                 "won": 228,
                 "lost": 210,
@@ -56777,6 +56777,19 @@
                 "finishtime": 124775227
             },
             "matches": [
+                {
+                    "date": 1726469068000,
+                    "type": "BURIED_TREASURE",
+                    "result": "draw",
+                    "opponent": "novadud",
+                    "elo": 1743,
+                    "change": -2,
+                    "oelo": 1554,
+                    "ochange": 2,
+                    "time": 656541,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1726468232000,
                     "type": "SHIPWRECK",
@@ -62724,7 +62737,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "STUPIDRULE",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 1743,
                 "peak": 1798,
                 "points": 0,
