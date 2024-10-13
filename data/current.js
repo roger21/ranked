@@ -1,3 +1,3 @@
 {
-    "season": null
+    "season": 6
 }
