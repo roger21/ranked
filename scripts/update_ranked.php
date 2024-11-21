@@ -130,6 +130,7 @@
         if($date >= $past && !$placement){
           $p["matches"][]=["date" => $date,
                            "type" => $m["seedType"],
+                           "bastion" => $m["bastionType"],
                            "result"=> $win,
                            "opponent" => $opponent,
                            "elo" => $elo,
