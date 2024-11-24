@@ -13,6 +13,7 @@
 
 
   $url="showdown_s6";
+  $title=substr(strrchr($url, "_"), 1);
   $caca=file_get_contents("https://mcsrranked.com/api/tourneys/$url");
   $cucu=json_decode($caca, true, 512, JSON_OBJECT_AS_ARRAY);
   $seeds=count($cucu["data"]["matches"]);
@@ -68,7 +69,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title><?=$url?></title>
+<title><?=$title?></title>
 <style type="text/css">
   html,body,table,tr,td{
     margin:0;
