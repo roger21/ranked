@@ -12,7 +12,7 @@
   ini_set("log_errors", "0");
 
 
-  $url="showdown_s5";
+  $url="showdown_s6";
   $caca=file_get_contents("https://mcsrranked.com/api/tourneys/$url");
   $cucu=json_decode($caca, true, 512, JSON_OBJECT_AS_ARRAY);
   $seeds=count($cucu["data"]["matches"]);
