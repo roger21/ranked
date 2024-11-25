@@ -12,9 +12,8 @@
   ini_set("log_errors", "0");
 
 
-  $url="showdown_s6";
-  $title=substr(strrchr($url, "_"), 1);
-  $caca=file_get_contents("https://mcsrranked.com/api/tourneys/$url");
+  $url="s6";
+  $caca=file_get_contents("https://mcsrranked.com/api/tourneys/showdown_$url");
   $cucu=json_decode($caca, true, 512, JSON_OBJECT_AS_ARRAY);
   $seeds=count($cucu["data"]["matches"]);
   $players=$cucu["data"]["players"];
@@ -69,7 +68,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title><?=$title?></title>
+<title><?=$url?></title>
 <style type="text/css">
   html,body,table,tr,td{
     margin:0;
