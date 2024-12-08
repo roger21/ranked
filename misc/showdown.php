@@ -36,7 +36,7 @@
   }
   $tbl.="<td>points</td><td>eliminated</td></tr>\n";
   foreach($table as $nick => $row){
-    $tbl.="<tr><td class=\"rank\">{$row["rank"]}</td><td class=\"nick\">$nick</td>";
+    $tbl.="<tr><td class=\"rank\">{$row["rank"]} / ".count($table)."</td><td class=\"nick\">$nick</td>";
     for($i=0; $i < $seeds; ++$i){
       if($row["comp"][$i] === null){
         $place="-";
