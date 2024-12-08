@@ -83,7 +83,7 @@
     border-collapse:collapse;
     border-spacing:0;
     margin:20px auto;
-    width:95%;
+    width:calc(100% - 40px);
   }
   td{
     padding:5px 10px;
