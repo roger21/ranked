@@ -1436,6 +1436,23 @@ async function loadData() {
   // masquage du message "loading data..."
   loading.style.display = "none";
 
+  // gestion du mouseout sur le graph en complement du plugin onhoverout qui
+  // ne fonctionne pas lorsque l'on quite le canvas en même temps que l'on
+  // quite le graph et avec une tempo parcequ'il peut être déclanché avant
+  // qu'un onHover ne soit traité ...
+  let mouseoutTimer = null;
+  graph.addEventListener("mouseout", function() {
+    window.clearTimeout(mouseoutTimer);
+    mouseoutTimer = window.setTimeout(function() {
+      if(lastHoverIndex !== null) {
+        // remise des courbe en visibilité normale
+        unHighlightDataset(chart.data.datasets, lastHoverIndex);
+        lastHoverIndex = null;
+        chart.update();
+      }
+    }, 100);
+  }, false);
+
   // gestion du redimensionnement du graph en fonction de la place
   // disponible, le plugin "updatemargins" met à jour automatiquement
   // les marges et l'unité de temps après le passage de hasResized à
