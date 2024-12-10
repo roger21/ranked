@@ -24,22 +24,59 @@
     <canvas id="ranked" width="400" height="400" aria-label="elo graph of the top 50 mcsr ranked players over the last 50 days" role="img"><p data-lang="canvasalt">canvas element not supported</p></canvas>
     <div id="tooltip"></div>
   </div>
-  <div class="choices top left" id="players"><a id="p1">1</a><a id="p5">5</a><a id="p10">10</a><a id="p15">15</a><a id="p20">20</a><a id="p25">25</a><a  id="p30">30</a><a id="p35">35</a><a id="p40">40</a><a id="p45">45</a><a id="p50">50</a><span class="title" data-lang="players">players</span></div>
-  <div class="choices top right" id="days"><span class="title" data-lang="days">days</span><a id="d50">50</a><a id="d45">45</a><a id="d40">40</a><a id="d35">35</a><a id="d30">30</a><a id="d25">25</a><a id="d20">20</a><a id="d15">15</a><a id="d10">10</a><a id="d5">5</a><a id="d1">1</a></div>
-  <div class="choices bottom left" id="seasons"><span class="title" data-lang="seasons">seasons</span></div>
-  <div class="choices bottom right"><span class="title">zoom</span><span class="zoom" id="rect" data-lang="rect">rect</span><span class="zoom" id="pan" data-lang="pan">pan</span><span class="zoom" id="reset" data-lang="reset">reset</span><span class="last" id="zoom"><span data-lang="time_">time:</span> <span id="zoomtime">1</span>x / <span data-lang="elo_">elo:</span> <span id="zoomelo">1</span>x</span><span class="lang selected title" id="en" title="english">en</span><span class="lang last title" id="fr" title="français">fr</span></span><span class="title" id="help" data-lang="help">help</span></div>
+  <div class="choices top left" id="players">
+    <a id="p1">1</a>
+    <a id="p5">5</a>
+    <a id="p10">10</a>
+    <a id="p15">15</a>
+    <a id="p20">20</a>
+    <a id="p25">25</a>
+    <a id="p30">30</a>
+    <a id="p35">35</a>
+    <a id="p40">40</a>
+    <a id="p45">45</a>
+    <a id="p50">50</a>
+    <span class="title" data-lang="players">players</span>
+  </div>
+  <div class="choices top right" id="days">
+    <span class="title" data-lang="days">days</span>
+    <a id="d50">50</a>
+    <a id="d45">45</a>
+    <a id="d40">40</a>
+    <a id="d35">35</a>
+    <a id="d30">30</a>
+    <a id="d25">25</a>
+    <a id="d20">20</a>
+    <a id="d15">15</a>
+    <a id="d10">10</a>
+    <a id="d5">5</a>
+    <a id="d1">1</a>
+  </div>
+  <div class="choices bottom left" id="seasons">
+    <span class="title" data-lang="seasons">seasons</span>
+  </div>
+  <div class="choices bottom right">
+    <span class="title">zoom</span>
+    <span class="zoom" id="rect" data-lang="rect">rect</span>
+    <span class="zoom" id="pan" data-lang="pan">pan</span>
+    <span class="zoom" id="reset" data-lang="reset">reset</span>
+    <span class="last" id="zoom"><span data-lang="time_">time:</span> <span id="zoomtime">1</span>x / <span data-lang="elo_">elo:</span> <span id="zoomelo">1</span>x</span>
+    <span class="lang selected title" id="en" title="english">en</span>
+    <span class="lang last title" id="fr" title="français">fr</span>
+    <span class="title" id="help" data-lang="help">help</span>
+  </div>
   <div class="message" id="no-data"><span data-lang="nodata0">no data</span><br><br><span data-lang="nodata1">please select more players or more days</span></div>
   <div class="message" id="loading" data-lang="loading">Loading data...</div>
   <dialog id="helpwindow">
     <div>
       <div class="title" data-lang="help">help</div>
       <div class="content">
-        <div class="subtitle" data-lang="data">data:</div>
-        <div class="point" data-lang="data1">The data are updated every 24 minutes on average, but this may vary from 3 minutes to more than 2 hours.…</div>
-        <div class="subtitle" data-lang="legend">legend:</div>
+        <div class="subtitle" data-lang="data">data</div>
+        <div class="point" data-lang="data1">The data are updated every 24 minutes on average, but this may vary from 3 minutes to more than 2 hours…</div>
+        <div class="subtitle" data-lang="legend">legend</div>
         <div class="point" data-lang="legend1">Click on a name to hide/unhide the corresponding chart.</div>
         <div class="point" data-lang="legend2">Double-click or Ctrl+click on a name to hide/unhide all other charts.</div>
-        <div class="subtitle" data-lang="graph">graph:</div>
+        <div class="subtitle" data-lang="graph">graph</div>
         <div class="point" data-lang="graph1">Scroll over the graph area to zoom in or out.</div>
         <div class="point" data-lang="graph2">Scroll over the axes or tick labels to zoom in or out along the corresponding axis only.</div>
         <div class="point" data-lang="graph3">You can drag the graph when it is zoomed in to move the visible part; this is the “pan” mode.</div>
