@@ -83,6 +83,7 @@
     $p["stats"]["won"]=$ss["data"]["statistics"]["season"]["wins"]["ranked"];
     $p["stats"]["lost"]=$ss["data"]["statistics"]["season"]["loses"]["ranked"];
     $p["stats"]["forfeited"]=$ss["data"]["statistics"]["season"]["forfeits"]["ranked"];
+    $p["stats"]["playtime"]=$ss["data"]["statistics"]["season"]["playtime"]["ranked"];
     $p["stats"]["finishtime"]=$ss["data"]["statistics"]["season"]["completionTime"]["ranked"];
 
     $p["matches"]=[];
