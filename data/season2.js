@@ -17,6 +17,7 @@
                 "won": 250,
                 "lost": 139,
                 "forfeited": 25,
+                "playtime": 276498693,
                 "finishtime": 138574171
             },
             "matches": [
@@ -1522,6 +1523,7 @@
                 "won": 126,
                 "lost": 43,
                 "forfeited": 1,
+                "playtime": 113526248,
                 "finishtime": 59508524
             },
             "matches": [
@@ -3447,6 +3449,7 @@
                 "won": 129,
                 "lost": 45,
                 "forfeited": 6,
+                "playtime": 119781704,
                 "finishtime": 73639061
             },
             "matches": [
@@ -4910,6 +4913,7 @@
                 "won": 96,
                 "lost": 34,
                 "forfeited": 9,
+                "playtime": 87763971,
                 "finishtime": 53291386
             },
             "matches": [
@@ -6597,6 +6601,7 @@
                 "won": 251,
                 "lost": 134,
                 "forfeited": 38,
+                "playtime": 259790953,
                 "finishtime": 133074616
             },
             "matches": [
@@ -8970,6 +8975,7 @@
                 "won": 159,
                 "lost": 72,
                 "forfeited": 31,
+                "playtime": 147113413,
                 "finishtime": 87726765
             },
             "matches": [
@@ -11609,6 +11615,7 @@
                 "won": 317,
                 "lost": 211,
                 "forfeited": 62,
+                "playtime": 359390365,
                 "finishtime": 175168325
             },
             "matches": [
@@ -14528,6 +14535,7 @@
                 "won": 202,
                 "lost": 132,
                 "forfeited": 90,
+                "playtime": 206865415,
                 "finishtime": 102378710
             },
             "matches": [
@@ -16258,7 +16266,7 @@
                     "type": "SHIPWRECK",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1531,
                     "change": 20,
                     "oelo": 1481,
@@ -16747,6 +16755,7 @@
                 "won": 163,
                 "lost": 112,
                 "forfeited": 28,
+                "playtime": 197407411,
                 "finishtime": 94632322
             },
             "matches": [
@@ -19092,6 +19101,7 @@
                 "won": 70,
                 "lost": 20,
                 "forfeited": 2,
+                "playtime": 60662901,
                 "finishtime": 32638705
             },
             "matches": [
@@ -19953,6 +19963,7 @@
                 "won": 109,
                 "lost": 63,
                 "forfeited": 18,
+                "playtime": 117278334,
                 "finishtime": 55973139
             },
             "matches": [
@@ -21836,6 +21847,7 @@
                 "won": 298,
                 "lost": 238,
                 "forfeited": 58,
+                "playtime": 398291479,
                 "finishtime": 174337623
             },
             "matches": [
@@ -23832,7 +23844,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1600,
                     "change": 14,
                     "oelo": 1411,
@@ -24154,7 +24166,7 @@
                     "type": "SHIPWRECK",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1638,
                     "change": 12,
                     "oelo": 1381,
@@ -26113,6 +26125,7 @@
                 "won": 71,
                 "lost": 48,
                 "forfeited": 15,
+                "playtime": 85368638,
                 "finishtime": 37869269
             },
             "matches": [
@@ -26442,6 +26455,7 @@
                 "won": 100,
                 "lost": 64,
                 "forfeited": 14,
+                "playtime": 128670334,
                 "finishtime": 61107765
             },
             "matches": [
@@ -26939,6 +26953,7 @@
                 "won": 76,
                 "lost": 46,
                 "forfeited": 15,
+                "playtime": 83235810,
                 "finishtime": 39339407
             },
             "matches": [
@@ -27338,6 +27353,7 @@
                 "won": 163,
                 "lost": 121,
                 "forfeited": 50,
+                "playtime": 199236802,
                 "finishtime": 97346566
             },
             "matches": [
@@ -29137,6 +29153,7 @@
                 "won": 308,
                 "lost": 240,
                 "forfeited": 125,
+                "playtime": 380009931,
                 "finishtime": 172955708
             },
             "matches": [
@@ -31720,6 +31737,7 @@
                 "won": 46,
                 "lost": 18,
                 "forfeited": 1,
+                "playtime": 51513301,
                 "finishtime": 26813697
             },
             "matches": [
@@ -32651,6 +32669,7 @@
                 "won": 77,
                 "lost": 48,
                 "forfeited": 27,
+                "playtime": 86478147,
                 "finishtime": 39446228
             },
             "matches": [
@@ -33246,6 +33265,7 @@
                 "won": 58,
                 "lost": 27,
                 "forfeited": 16,
+                "playtime": 56395461,
                 "finishtime": 29319999
             },
             "matches": [
@@ -34093,6 +34113,7 @@
                 "won": 74,
                 "lost": 52,
                 "forfeited": 2,
+                "playtime": 104241444,
                 "finishtime": 47879671
             },
             "matches": [
@@ -34940,6 +34961,7 @@
                 "won": 348,
                 "lost": 297,
                 "forfeited": 46,
+                "playtime": 521759136,
                 "finishtime": 213799627
             },
             "matches": [
@@ -38251,6 +38273,7 @@
                 "won": 160,
                 "lost": 114,
                 "forfeited": 26,
+                "playtime": 200652042,
                 "finishtime": 87612794
             },
             "matches": [
@@ -39406,6 +39429,7 @@
                 "won": 203,
                 "lost": 159,
                 "forfeited": 17,
+                "playtime": 298365661,
                 "finishtime": 129922270
             },
             "matches": [
@@ -42914,7 +42938,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": null,
                     "result": "lost",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1502,
                     "change": -22,
                     "oelo": 1501,
@@ -43222,7 +43246,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1565,
                     "change": 16,
                     "oelo": 1434,
@@ -44131,6 +44155,7 @@
                 "won": 123,
                 "lost": 92,
                 "forfeited": 50,
+                "playtime": 158211079,
                 "finishtime": 65037865
             },
             "matches": [
@@ -44992,6 +45017,7 @@
                 "won": 108,
                 "lost": 84,
                 "forfeited": 22,
+                "playtime": 153240002,
                 "finishtime": 66845616
             },
             "matches": [
@@ -47085,6 +47111,7 @@
                 "won": 78,
                 "lost": 55,
                 "forfeited": 0,
+                "playtime": 111251250,
                 "finishtime": 40721246
             },
             "matches": [
@@ -47820,6 +47847,7 @@
                 "won": 412,
                 "lost": 349,
                 "forfeited": 128,
+                "playtime": 577063790,
                 "finishtime": 233986746
             },
             "matches": [
@@ -52462,7 +52490,7 @@
                     "type": "SHIPWRECK",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "MultiPori",
+                    "opponent": "mcsrsteve",
                     "elo": 1564,
                     "change": 12,
                     "oelo": 1296,
@@ -52840,7 +52868,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1685,
                     "change": 13,
                     "oelo": 1444,
@@ -54617,6 +54645,7 @@
                 "won": 56,
                 "lost": 33,
                 "forfeited": 6,
+                "playtime": 65070167,
                 "finishtime": 35549822
             },
             "matches": [
@@ -55100,6 +55129,7 @@
                 "won": 55,
                 "lost": 14,
                 "forfeited": 4,
+                "playtime": 43271024,
                 "finishtime": 24507698
             },
             "matches": [
@@ -55821,6 +55851,7 @@
                 "won": 139,
                 "lost": 101,
                 "forfeited": 4,
+                "playtime": 180448680,
                 "finishtime": 73295681
             },
             "matches": [
@@ -56556,6 +56587,7 @@
                 "won": 53,
                 "lost": 26,
                 "forfeited": 10,
+                "playtime": 55460843,
                 "finishtime": 31902042
             },
             "matches": [
@@ -57669,6 +57701,7 @@
                 "won": 72,
                 "lost": 51,
                 "forfeited": 24,
+                "playtime": 88745768,
                 "finishtime": 37748107
             },
             "matches": [
@@ -58824,6 +58857,7 @@
                 "won": 45,
                 "lost": 18,
                 "forfeited": 2,
+                "playtime": 49615382,
                 "finishtime": 27834467
             },
             "matches": [
@@ -59195,6 +59229,7 @@
                 "won": 125,
                 "lost": 104,
                 "forfeited": 26,
+                "playtime": 166125595,
                 "finishtime": 65418532
             },
             "matches": [
@@ -60113,7 +60148,7 @@
                     "type": "VILLAGE",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1685,
                     "change": 12,
                     "oelo": 1428,
@@ -61498,6 +61533,7 @@
                 "won": 119,
                 "lost": 94,
                 "forfeited": 35,
+                "playtime": 164083088,
                 "finishtime": 68934237
             },
             "matches": [
@@ -63003,6 +63039,7 @@
                 "won": 63,
                 "lost": 25,
                 "forfeited": 8,
+                "playtime": 67681064,
                 "finishtime": 36901987
             },
             "matches": [
@@ -64326,6 +64363,7 @@
                 "won": 43,
                 "lost": 24,
                 "forfeited": 17,
+                "playtime": 44544379,
                 "finishtime": 21048653
             },
             "matches": [
@@ -64921,6 +64959,7 @@
                 "won": 189,
                 "lost": 156,
                 "forfeited": 86,
+                "playtime": 236991840,
                 "finishtime": 98042192
             },
             "matches": [
@@ -66049,7 +66088,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "SPEZYY",
+                    "opponent": "SpeZyy",
                     "elo": 1467,
                     "change": 13,
                     "oelo": 1233,
@@ -66818,6 +66857,7 @@
                 "won": 40,
                 "lost": 31,
                 "forfeited": 13,
+                "playtime": 48084067,
                 "finishtime": 17728068
             },
             "matches": [
@@ -67791,6 +67831,7 @@
                 "won": 142,
                 "lost": 120,
                 "forfeited": 69,
+                "playtime": 169966117,
                 "finishtime": 83457300
             },
             "matches": [
@@ -68750,6 +68791,7 @@
                 "won": 42,
                 "lost": 15,
                 "forfeited": 2,
+                "playtime": 41249887,
                 "finishtime": 24102404
             },
             "matches": [
@@ -69597,6 +69639,7 @@
                 "won": 161,
                 "lost": 139,
                 "forfeited": 63,
+                "playtime": 219539381,
                 "finishtime": 79502553
             },
             "matches": [
@@ -70081,7 +70124,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1626,
                     "change": 15,
                     "oelo": 1452,
@@ -71662,6 +71705,7 @@
                 "won": 133,
                 "lost": 99,
                 "forfeited": 63,
+                "playtime": 160229879,
                 "finishtime": 79566812
             },
             "matches": [
@@ -73447,6 +73491,7 @@
                 "won": 60,
                 "lost": 36,
                 "forfeited": 4,
+                "playtime": 75815939,
                 "finishtime": 31037659
             },
             "matches": [
@@ -74379,7 +74424,7 @@
                     "type": "SHIPWRECK",
                     "bastion": null,
                     "result": "lost",
-                    "opponent": "zBlxckie_",
+                    "opponent": "nof3zerocycle",
                     "elo": 1550,
                     "change": -28,
                     "oelo": 1368,
@@ -74952,6 +74997,7 @@
                 "won": 142,
                 "lost": 101,
                 "forfeited": 14,
+                "playtime": 194051510,
                 "finishtime": 81756614
             },
             "matches": [
@@ -76471,6 +76517,7 @@
                 "won": 129,
                 "lost": 102,
                 "forfeited": 29,
+                "playtime": 182230254,
                 "finishtime": 84649996
             },
             "matches": [
@@ -77794,6 +77841,7 @@
                 "won": 77,
                 "lost": 51,
                 "forfeited": 4,
+                "playtime": 103383638,
                 "finishtime": 47418404
             },
             "matches": [
@@ -78291,6 +78339,7 @@
                 "won": 90,
                 "lost": 59,
                 "forfeited": 21,
+                "playtime": 119180987,
                 "finishtime": 55272833
             },
             "matches": [
@@ -78802,6 +78851,7 @@
                 "won": 134,
                 "lost": 105,
                 "forfeited": 39,
+                "playtime": 187871165,
                 "finishtime": 69401404
             },
             "matches": [
