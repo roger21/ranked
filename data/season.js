@@ -1,5 +1,5 @@
 {
-    "date": 1734939106000,
+    "date": 1734939959000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -5807,21 +5807,35 @@
             "nickname": "romuxii",
             "stats": {
                 "rank": 14,
-                "elo": 1530,
+                "elo": 1529,
                 "peak": 1533,
                 "points": 0,
                 "current": 1,
                 "streak": 4,
                 "pb": 458426,
-                "matches": 33,
+                "matches": 34,
                 "finished": 17,
                 "won": 19,
                 "lost": 14,
                 "forfeited": 0,
-                "playtime": 22617367,
+                "playtime": 23393653,
                 "finishtime": 10841370
             },
             "matches": [
+                {
+                    "date": 1734939890000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "nahhann",
+                    "elo": 1529,
+                    "change": -1,
+                    "oelo": 1477,
+                    "ochange": 1,
+                    "time": 776286,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1734938837000,
                     "type": "VILLAGE",
@@ -9295,21 +9309,35 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 25,
-                "elo": 1476,
+                "elo": 1477,
                 "peak": 1559,
                 "points": 0,
                 "current": 0,
                 "streak": 6,
                 "pb": 451750,
-                "matches": 94,
+                "matches": 95,
                 "finished": 38,
                 "won": 48,
                 "lost": 38,
                 "forfeited": 19,
-                "playtime": 53228347,
+                "playtime": 54004633,
                 "finishtime": 23413085
             },
             "matches": [
+                {
+                    "date": 1734939890000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "romuxii",
+                    "elo": 1477,
+                    "change": 1,
+                    "oelo": 1529,
+                    "ochange": -1,
+                    "time": 776286,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1734925678000,
                     "type": "BURIED_TREASURE",
