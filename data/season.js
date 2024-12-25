@@ -1,5 +1,5 @@
 {
-    "date": 1735126587000,
+    "date": 1735127364000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -16672,7 +16672,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0tic2030",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1470,
                 "peak": 1470,
                 "points": 0,
@@ -16862,22 +16862,36 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "Cornflakes267",
             "stats": {
-                "rank": 33,
-                "elo": 1469,
+                "rank": 28,
+                "elo": 1486,
                 "peak": 1604,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
                 "pb": 511200,
-                "matches": 57,
+                "matches": 58,
                 "finished": 24,
-                "won": 32,
+                "won": 33,
                 "lost": 23,
                 "forfeited": 0,
-                "playtime": 36657628,
+                "playtime": 36848204,
                 "finishtime": 16031859
             },
             "matches": [
+                {
+                    "date": 1735127393000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "jonahhhhhhhh",
+                    "elo": 1486,
+                    "change": 17,
+                    "oelo": 1382,
+                    "ochange": -17,
+                    "time": 190576,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1735125126000,
                     "type": "SHIPWRECK",
