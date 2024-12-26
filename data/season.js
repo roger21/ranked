@@ -1,5 +1,5 @@
 {
-    "date": 1735198255000,
+    "date": 1735199162000,
     "players": [
         {
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
@@ -17837,7 +17837,7 @@
             "uuid": "9a61b87c6a16403da56541258e74ed3e",
             "nickname": "Blad_d",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 1499,
                 "peak": 1522,
                 "points": 0,
@@ -19049,7 +19049,7 @@
             "uuid": "56714245be364bd1a469d0853552c109",
             "nickname": "orachi_",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 1498,
                 "peak": 1517,
                 "points": 0,
@@ -19365,7 +19365,7 @@
             "uuid": "8fc93aecda5b4f699cf76694116eaf11",
             "nickname": "rekrap2",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 1493,
                 "peak": 1493,
                 "points": 0,
@@ -19386,22 +19386,36 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 30,
-                "elo": 1492,
+                "rank": 27,
+                "elo": 1504,
                 "peak": 1520,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
                 "pb": 512768,
-                "matches": 187,
-                "finished": 68,
-                "won": 97,
+                "matches": 188,
+                "finished": 69,
+                "won": 98,
                 "lost": 89,
                 "forfeited": 54,
-                "playtime": 101688988,
-                "finishtime": 45618161
+                "playtime": 102309411,
+                "finishtime": 46238584
             },
             "matches": [
+                {
+                    "date": 1735199182000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "centuriee",
+                    "elo": 1504,
+                    "change": 12,
+                    "oelo": 1240,
+                    "ochange": -12,
+                    "time": 620423,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735198111000,
                     "type": "RUINED_PORTAL",
