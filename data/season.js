@@ -1,5 +1,5 @@
 {
-    "date": 1735248267000,
+    "date": 1735249558000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -24046,10 +24046,74 @@
             ]
         },
         {
+            "uuid": "8fc93aecda5b4f699cf76694116eaf11",
+            "nickname": "rekrap2",
+            "stats": {
+                "rank": 30,
+                "elo": 1504,
+                "peak": 1504,
+                "points": 0,
+                "current": 2,
+                "streak": 5,
+                "pb": 582346,
+                "matches": 8,
+                "finished": 6,
+                "won": 7,
+                "lost": 1,
+                "forfeited": 0,
+                "playtime": 5492731,
+                "finishtime": 4364172
+            },
+            "matches": [
+                {
+                    "date": 1735248947000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Elekid1",
+                    "elo": 1504,
+                    "change": 16,
+                    "oelo": 1365,
+                    "ochange": -16,
+                    "time": 635464,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1735248163000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Bodek",
+                    "elo": 1488,
+                    "change": 16,
+                    "oelo": 1332,
+                    "ochange": -16,
+                    "time": 672966,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1735247001000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "MIKU_LUVR_998",
+                    "elo": 1472,
+                    "change": -21,
+                    "oelo": 1478,
+                    "ochange": 21,
+                    "time": 611488,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "07cce518e5b2475881a09963f36775d8",
             "nickname": "superman_J",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 1503,
                 "peak": 1503,
                 "points": 0,
@@ -24813,7 +24877,7 @@
             "uuid": "56714245be364bd1a469d0853552c109",
             "nickname": "orachi_",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 1498,
                 "peak": 1517,
                 "points": 0,
@@ -25129,7 +25193,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1490,
                 "peak": 1490,
                 "points": 0,
@@ -25347,7 +25411,7 @@
             "uuid": "6135d13bce2841f8b7e8d37d91c6edfe",
             "nickname": "boywithcards",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1489,
                 "peak": 1508,
                 "points": 0,
@@ -25780,56 +25844,6 @@
                     "oelo": 1419,
                     "ochange": -20,
                     "time": 636517,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "8fc93aecda5b4f699cf76694116eaf11",
-            "nickname": "rekrap2",
-            "stats": {
-                "rank": 34,
-                "elo": 1488,
-                "peak": 1493,
-                "points": 0,
-                "current": 1,
-                "streak": 5,
-                "pb": 582346,
-                "matches": 7,
-                "finished": 5,
-                "won": 6,
-                "lost": 1,
-                "forfeited": 0,
-                "playtime": 4857267,
-                "finishtime": 3728708
-            },
-            "matches": [
-                {
-                    "date": 1735248163000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Bodek",
-                    "elo": 1488,
-                    "change": 16,
-                    "oelo": 1332,
-                    "ochange": -16,
-                    "time": 672966,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1735247001000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "MIKU_LUVR_998",
-                    "elo": 1472,
-                    "change": -21,
-                    "oelo": 1478,
-                    "ochange": 21,
-                    "time": 611488,
                     "forfeited": false,
                     "decayed": false
                 }
