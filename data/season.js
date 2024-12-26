@@ -1,5 +1,5 @@
 {
-    "date": 1735224361000,
+    "date": 1735225262000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -1632,21 +1632,35 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 3,
-                "elo": 1745,
+                "elo": 1761,
                 "peak": 1819,
                 "points": 0,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
                 "pb": 448345,
-                "matches": 112,
-                "finished": 63,
-                "won": 74,
+                "matches": 113,
+                "finished": 64,
+                "won": 75,
                 "lost": 37,
                 "forfeited": 0,
-                "playtime": 67048847,
-                "finishtime": 38756265
+                "playtime": 67668765,
+                "finishtime": 39376183
             },
             "matches": [
+                {
+                    "date": 1735224485000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "paplerr",
+                    "elo": 1761,
+                    "change": 16,
+                    "oelo": 1631,
+                    "ochange": -16,
+                    "time": 619918,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735222022000,
                     "type": "BURIED_TREASURE",
@@ -3342,21 +3356,35 @@
             "nickname": "paplerr",
             "stats": {
                 "rank": 5,
-                "elo": 1647,
+                "elo": 1631,
                 "peak": 1662,
                 "points": 0,
                 "current": 0,
                 "streak": 6,
                 "pb": 584514,
-                "matches": 31,
+                "matches": 32,
                 "finished": 14,
                 "won": 20,
-                "lost": 11,
+                "lost": 12,
                 "forfeited": 0,
-                "playtime": 19033297,
+                "playtime": 19653215,
                 "finishtime": 9813737
             },
             "matches": [
+                {
+                    "date": 1735224485000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1631,
+                    "change": -16,
+                    "oelo": 1761,
+                    "ochange": 16,
+                    "time": 619918,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735223810000,
                     "type": "SHIPWRECK",
