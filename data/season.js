@@ -1,5 +1,5 @@
 {
-    "date": 1735335972000,
+    "date": 1735336870000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -6396,21 +6396,35 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 7,
-                "elo": 1672,
+                "elo": 1691,
                 "peak": 1704,
                 "points": 0,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
                 "pb": 478724,
-                "matches": 111,
-                "finished": 52,
-                "won": 63,
+                "matches": 112,
+                "finished": 53,
+                "won": 64,
                 "lost": 45,
                 "forfeited": 7,
-                "playtime": 64110000,
-                "finishtime": 32874136
+                "playtime": 64846651,
+                "finishtime": 33610787
             },
             "matches": [
+                {
+                    "date": 1735336317000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "ANJOUU",
+                    "elo": 1691,
+                    "change": 19,
+                    "oelo": 1617,
+                    "ochange": -19,
+                    "time": 736651,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735335537000,
                     "type": "BURIED_TREASURE",
@@ -12890,21 +12904,35 @@
             "nickname": "ANJOUU",
             "stats": {
                 "rank": 12,
-                "elo": 1636,
+                "elo": 1617,
                 "peak": 1660,
                 "points": 0,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
                 "pb": 518511,
-                "matches": 23,
+                "matches": 24,
                 "finished": 12,
                 "won": 15,
-                "lost": 6,
+                "lost": 7,
                 "forfeited": 0,
-                "playtime": 13424663,
+                "playtime": 14161314,
                 "finishtime": 7548407
             },
             "matches": [
+                {
+                    "date": 1735336317000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1617,
+                    "change": -19,
+                    "oelo": 1691,
+                    "ochange": 19,
+                    "time": 736651,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735335057000,
                     "type": "RUINED_PORTAL",
