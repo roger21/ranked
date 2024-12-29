@@ -1,5 +1,5 @@
 {
-    "date": 1735472848000,
+    "date": 1735473657000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -11382,21 +11382,35 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 9,
-                "elo": 1665,
+                "elo": 1662,
                 "peak": 1665,
                 "points": 0,
                 "current": 3,
                 "streak": 7,
                 "pb": 469079,
-                "matches": 74,
+                "matches": 75,
                 "finished": 41,
                 "won": 46,
                 "lost": 28,
                 "forfeited": 13,
-                "playtime": 42720039,
+                "playtime": 43416538,
                 "finishtime": 25404483
             },
             "matches": [
+                {
+                    "date": 1735473254000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "JustAltoid",
+                    "elo": 1662,
+                    "change": -3,
+                    "oelo": 1425,
+                    "ochange": 3,
+                    "time": 696499,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1735468951000,
                     "type": "SHIPWRECK",
