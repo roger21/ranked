@@ -1,5 +1,5 @@
 {
-    "date": 1735540631000,
+    "date": 1735541548000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -32281,7 +32281,7 @@
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "4antoo",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 1528,
                 "peak": 1547,
                 "points": 0,
@@ -33997,7 +33997,7 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 1524,
                 "peak": 1534,
                 "points": 0,
@@ -34313,22 +34313,36 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 29,
-                "elo": 1524,
+                "rank": 28,
+                "elo": 1541,
                 "peak": 1594,
                 "points": 0,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
                 "pb": 476393,
-                "matches": 89,
-                "finished": 41,
-                "won": 47,
+                "matches": 90,
+                "finished": 42,
+                "won": 48,
                 "lost": 40,
                 "forfeited": 9,
-                "playtime": 60117161,
-                "finishtime": 29270484
+                "playtime": 60725321,
+                "finishtime": 29878644
             },
             "matches": [
+                {
+                    "date": 1735541557000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Frigbob",
+                    "elo": 1541,
+                    "change": 17,
+                    "oelo": 1414,
+                    "ochange": -17,
+                    "time": 608160,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735540606000,
                     "type": "DESERT_TEMPLE",
