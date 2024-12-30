@@ -1,5 +1,5 @@
 {
-    "date": 1735557758000,
+    "date": 1735558621000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -31609,21 +31609,35 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 28,
-                "elo": 1532,
+                "elo": 1545,
                 "peak": 1604,
                 "points": 0,
-                "current": 2,
+                "current": 3,
                 "streak": 6,
                 "pb": 449909,
-                "matches": 81,
-                "finished": 33,
-                "won": 44,
+                "matches": 82,
+                "finished": 34,
+                "won": 45,
                 "lost": 34,
                 "forfeited": 8,
-                "playtime": 48631092,
-                "finishtime": 22083808
+                "playtime": 49210559,
+                "finishtime": 22663275
             },
             "matches": [
+                {
+                    "date": 1735557891000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "nonsochiamaa",
+                    "elo": 1545,
+                    "change": 13,
+                    "oelo": 1318,
+                    "ochange": -13,
+                    "time": 579467,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735556303000,
                     "type": "BURIED_TREASURE",
@@ -44840,7 +44854,7 @@
             "uuid": "8d52ed9bf12146c68321f1729e28cbf5",
             "nickname": "MIKU_LUVR_998",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1486,
                 "peak": 1540,
                 "points": 0,
@@ -46010,7 +46024,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "big_pizu",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1485,
                 "peak": 1500,
                 "points": 0,
@@ -46340,7 +46354,7 @@
             "uuid": "7e7bea2031764e74ada950a5dcb5a0bc",
             "nickname": "OG_MineMan",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1483,
                 "peak": 1483,
                 "points": 0,
@@ -47384,7 +47398,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1482,
                 "peak": 1782,
                 "points": 0,
@@ -50822,7 +50836,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1478,
                 "peak": 1520,
                 "points": 0,
@@ -50900,7 +50914,7 @@
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1476,
                 "peak": 1476,
                 "points": 0,
@@ -51398,7 +51412,7 @@
             "uuid": "8fc93aecda5b4f699cf76694116eaf11",
             "nickname": "rekrap2",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1475,
                 "peak": 1569,
                 "points": 0,
