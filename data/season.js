@@ -1,5 +1,5 @@
 {
-    "date": 1735635703000,
+    "date": 1735637237000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -41731,7 +41731,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "zeekay0",
+                    "opponent": "zk0_",
                     "elo": 1552,
                     "change": 14,
                     "oelo": 1349,
@@ -41829,7 +41829,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "zeekay0",
+                    "opponent": "zk0_",
                     "elo": 1474,
                     "change": 17,
                     "oelo": 1344,
