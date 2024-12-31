@@ -1,5 +1,5 @@
 {
-    "date": 1735620417000,
+    "date": 1735621258000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -50392,7 +50392,7 @@
             "uuid": "5a2cb29136eb46529adc03aa4583a2d2",
             "nickname": "GradientGray",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1497,
                 "peak": 1497,
                 "points": 0,
@@ -50624,7 +50624,7 @@
             "uuid": "70e94474db714b489b03af782a4140e9",
             "nickname": "KaaziTheCreeper",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1492,
                 "peak": 1515,
                 "points": 0,
@@ -50954,22 +50954,36 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 47,
-                "elo": 1491,
+                "rank": 43,
+                "elo": 1504,
                 "peak": 1594,
                 "points": 0,
-                "current": 2,
+                "current": 3,
                 "streak": 7,
                 "pb": 476393,
-                "matches": 110,
-                "finished": 46,
-                "won": 57,
+                "matches": 111,
+                "finished": 47,
+                "won": 58,
                 "lost": 51,
                 "forfeited": 13,
-                "playtime": 72399410,
-                "finishtime": 32812150
+                "playtime": 73107311,
+                "finishtime": 33520051
             },
             "matches": [
+                {
+                    "date": 1735621309000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "MCvsIrone",
+                    "elo": 1504,
+                    "change": 13,
+                    "oelo": 1286,
+                    "ochange": -13,
+                    "time": 707901,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735619579000,
                     "type": "DESERT_TEMPLE",
