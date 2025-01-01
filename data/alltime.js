@@ -1358,7 +1358,7 @@
             "4": 1759,
             "5": 1821,
             "6": 1796,
-            "7": 1437
+            "7": 1439
         },
         "points": {
             "1": 0,
@@ -1371,11 +1371,11 @@
         },
         "pb": 507044,
         "streak": 10,
-        "matches": 1886,
-        "playtime": 1159462345,
+        "matches": 1887,
+        "playtime": 1160157909,
         "finished": 606,
         "finishtime": 477017048,
-        "won": 945,
+        "won": 946,
         "lost": 798,
         "forfeited": 366
     },
@@ -2211,13 +2211,13 @@
         },
         "pb": 503950,
         "streak": 9,
-        "matches": 2084,
-        "playtime": 1467166565,
+        "matches": 2086,
+        "playtime": 1468204054,
         "finished": 655,
         "finishtime": 557237509,
         "won": 1081,
-        "lost": 915,
-        "forfeited": 292
+        "lost": 917,
+        "forfeited": 293
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
@@ -3681,13 +3681,13 @@
         },
         "pb": 481444,
         "streak": 9,
-        "matches": 2604,
-        "playtime": 1498997550,
-        "finished": 895,
-        "finishtime": 631401626,
-        "won": 1324,
-        "lost": 1219,
-        "forfeited": 757
+        "matches": 2606,
+        "playtime": 1500182629,
+        "finished": 896,
+        "finishtime": 631917004,
+        "won": 1325,
+        "lost": 1220,
+        "forfeited": 758
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
