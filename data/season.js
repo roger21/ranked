@@ -1,5 +1,5 @@
 {
-    "date": 1735745160000,
+    "date": 1735746131000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -1926,21 +1926,35 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 3,
-                "elo": 1800,
+                "elo": 1817,
                 "peak": 1819,
                 "points": 0,
                 "pb": 448345,
-                "current": 4,
+                "current": 5,
                 "streak": 10,
-                "matches": 218,
-                "playtime": 128898261,
-                "finished": 108,
-                "finishtime": 66914075,
-                "won": 134,
+                "matches": 219,
+                "playtime": 129564943,
+                "finished": 109,
+                "finishtime": 67580757,
+                "won": 135,
                 "lost": 81,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1735746107000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "7rowl",
+                    "elo": 1817,
+                    "change": 17,
+                    "oelo": 1713,
+                    "ochange": -17,
+                    "time": 666682,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735743285000,
                     "type": "VILLAGE",
@@ -14392,21 +14406,35 @@
             "nickname": "7rowl",
             "stats": {
                 "rank": 9,
-                "elo": 1730,
+                "elo": 1713,
                 "peak": 1730,
                 "points": 0,
                 "pb": 486367,
-                "current": 5,
+                "current": 0,
                 "streak": 9,
-                "matches": 49,
-                "playtime": 30078119,
+                "matches": 50,
+                "playtime": 30744801,
                 "finished": 28,
                 "finishtime": 17737642,
                 "won": 33,
-                "lost": 16,
+                "lost": 17,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1735746107000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1713,
+                    "change": -17,
+                    "oelo": 1817,
+                    "ochange": 17,
+                    "time": 666682,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735576696000,
                     "type": "DESERT_TEMPLE",
@@ -20494,14 +20522,14 @@
             "nickname": "loodlow",
             "stats": {
                 "rank": 14,
-                "elo": 1644,
+                "elo": 1642,
                 "peak": 1683,
                 "points": 0,
                 "pb": 522294,
                 "current": 0,
                 "streak": 8,
-                "matches": 60,
-                "playtime": 36407159,
+                "matches": 61,
+                "playtime": 36838422,
                 "finished": 28,
                 "finishtime": 19363562,
                 "won": 34,
@@ -20509,6 +20537,20 @@
                 "forfeited": 4
             },
             "matches": [
+                {
+                    "date": 1735745586000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "wxhnhjy",
+                    "elo": 1642,
+                    "change": -2,
+                    "oelo": 1455,
+                    "ochange": 2,
+                    "time": 431263,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1735743285000,
                     "type": "VILLAGE",
