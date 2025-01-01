@@ -1,5 +1,5 @@
 {
-    "date": 1735770968000,
+    "date": 1735771421000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -30338,14 +30338,14 @@
             "nickname": "Waluyoshi",
             "stats": {
                 "rank": 23,
-                "elo": 1583,
+                "elo": 1582,
                 "peak": 1677,
                 "points": 0,
                 "pb": 411251,
                 "current": 2,
                 "streak": 6,
-                "matches": 208,
-                "playtime": 126032764,
+                "matches": 209,
+                "playtime": 126764301,
                 "finished": 81,
                 "finishtime": 56310993,
                 "won": 107,
@@ -30353,6 +30353,20 @@
                 "forfeited": 32
             },
             "matches": [
+                {
+                    "date": 1735771051000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "MIKU_LUVR_998",
+                    "elo": 1582,
+                    "change": -1,
+                    "oelo": 1483,
+                    "ochange": 1,
+                    "time": 731537,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1735758949000,
                     "type": "SHIPWRECK",
