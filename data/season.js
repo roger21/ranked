@@ -1,5 +1,5 @@
 {
-    "date": 1735738388000,
+    "date": 1735738896000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -16312,21 +16312,35 @@
             "nickname": "loodlow",
             "stats": {
                 "rank": 11,
-                "elo": 1664,
+                "elo": 1678,
                 "peak": 1683,
                 "points": 0,
-                "pb": 574397,
-                "current": 0,
+                "pb": 522294,
+                "current": 1,
                 "streak": 8,
-                "matches": 54,
-                "playtime": 32771242,
-                "finished": 26,
-                "finishtime": 18125190,
-                "won": 32,
+                "matches": 55,
+                "playtime": 33293536,
+                "finished": 27,
+                "finishtime": 18647484,
+                "won": 33,
                 "lost": 19,
                 "forfeited": 4
             },
             "matches": [
+                {
+                    "date": 1735738781000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Launey_",
+                    "elo": 1678,
+                    "change": 14,
+                    "oelo": 1488,
+                    "ochange": -14,
+                    "time": 522294,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735738088000,
                     "type": "RUINED_PORTAL",
