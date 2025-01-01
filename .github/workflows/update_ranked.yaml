@@ -5,7 +5,7 @@ run-name: 'run #${{ github.run_number }} on ${{ github.event_name }}'
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '6,21,36,51 * * * *'
+    - cron:  '7,22,37,52 * * * *'
 
 env:
   API_KEY: ${{ secrets.API_KEY }}
