@@ -1,5 +1,5 @@
 {
-    "date": 1735789638000,
+    "date": 1735790181000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -29537,7 +29537,7 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1597,
                 "peak": 1597,
                 "points": 0,
@@ -30035,7 +30035,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 1586,
                 "peak": 1711,
                 "points": 0,
@@ -32591,22 +32591,36 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 22,
-                "elo": 1586,
-                "peak": 1586,
+                "rank": 21,
+                "elo": 1605,
+                "peak": 1605,
                 "points": 0,
                 "pb": 571406,
-                "current": 2,
+                "current": 3,
                 "streak": 6,
-                "matches": 62,
-                "playtime": 43852798,
-                "finished": 30,
-                "finishtime": 23146648,
-                "won": 35,
+                "matches": 63,
+                "playtime": 44501360,
+                "finished": 31,
+                "finishtime": 23795210,
+                "won": 36,
                 "lost": 26,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1735790183000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "rekrap2",
+                    "elo": 1605,
+                    "change": 19,
+                    "oelo": 1542,
+                    "ochange": -19,
+                    "time": 648562,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735789261000,
                     "type": "BURIED_TREASURE",
@@ -42099,22 +42113,36 @@
             "uuid": "8fc93aecda5b4f699cf76694116eaf11",
             "nickname": "rekrap2",
             "stats": {
-                "rank": 32,
-                "elo": 1561,
+                "rank": 34,
+                "elo": 1542,
                 "peak": 1569,
                 "points": 0,
                 "pb": 500911,
-                "current": 1,
+                "current": 0,
                 "streak": 5,
-                "matches": 56,
-                "playtime": 36673363,
+                "matches": 57,
+                "playtime": 37321925,
                 "finished": 27,
                 "finishtime": 19187687,
                 "won": 32,
-                "lost": 23,
+                "lost": 24,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1735790183000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "danterus",
+                    "elo": 1542,
+                    "change": -19,
+                    "oelo": 1605,
+                    "ochange": 19,
+                    "time": 648562,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735789211000,
                     "type": "VILLAGE",
@@ -42835,7 +42863,7 @@
             "uuid": "0f48f3d94d154d38b0ec3fa17f9f51b9",
             "nickname": "AntiCheeat",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 1559,
                 "peak": 1559,
                 "points": 0,
@@ -42856,7 +42884,7 @@
             "uuid": "6135d13bce2841f8b7e8d37d91c6edfe",
             "nickname": "boywithcards",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 1550,
                 "peak": 1561,
                 "points": 0,
