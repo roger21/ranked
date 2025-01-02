@@ -1,5 +1,5 @@
 {
-    "date": 1735822090000,
+    "date": 1735823544000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -4132,14 +4132,14 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 4,
-                "elo": 1825,
+                "elo": 1824,
                 "peak": 1838,
                 "points": 0,
                 "pb": 448345,
                 "current": 3,
                 "streak": 10,
-                "matches": 233,
-                "playtime": 136988929,
+                "matches": 234,
+                "playtime": 137723751,
                 "finished": 115,
                 "finishtime": 71452204,
                 "won": 144,
@@ -4147,6 +4147,20 @@
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1735823202000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "Infume",
+                    "elo": 1824,
+                    "change": -1,
+                    "oelo": 1721,
+                    "ochange": 1,
+                    "time": 734822,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1735758162000,
                     "type": "DESERT_TEMPLE",
@@ -14420,14 +14434,14 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 9,
-                "elo": 1720,
+                "elo": 1721,
                 "peak": 1810,
                 "points": 0,
                 "pb": 513346,
                 "current": 1,
                 "streak": 9,
-                "matches": 126,
-                "playtime": 78672872,
+                "matches": 127,
+                "playtime": 79407694,
                 "finished": 66,
                 "finishtime": 43082395,
                 "won": 74,
@@ -14435,6 +14449,20 @@
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1735823202000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "bing_pigs",
+                    "elo": 1721,
+                    "change": 1,
+                    "oelo": 1824,
+                    "ochange": -1,
+                    "time": 734822,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1735820731000,
                     "type": "VILLAGE",
