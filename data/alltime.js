@@ -2241,13 +2241,13 @@
         },
         "pb": 417055,
         "streak": 17,
-        "matches": 4269,
-        "playtime": 2751190516,
+        "matches": 4270,
+        "playtime": 2751449720,
         "finished": 1482,
         "finishtime": 1100523915,
         "won": 2103,
-        "lost": 1970,
-        "forfeited": 507
+        "lost": 1971,
+        "forfeited": 508
     },
     "2988fcfbc6b141a497faa915e13b6592": {
         "nickname": "DziabaDziuba",
@@ -3531,11 +3531,11 @@
         },
         "pb": 474200,
         "streak": 11,
-        "matches": 718,
-        "playtime": 461811216,
+        "matches": 719,
+        "playtime": 462070420,
         "finished": 302,
         "finishtime": 211418459,
-        "won": 404,
+        "won": 405,
         "lost": 299,
         "forfeited": 31
     },
