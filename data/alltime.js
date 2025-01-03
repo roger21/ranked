@@ -668,7 +668,7 @@
             "4": 2276,
             "5": 2273,
             "6": 2470,
-            "7": 1779
+            "7": 1795
         },
         "points": {
             "1": 0,
@@ -681,11 +681,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 2787,
-        "playtime": 1721010450,
-        "finished": 1246,
-        "finishtime": 842633508,
-        "won": 1690,
+        "matches": 2788,
+        "playtime": 1721547599,
+        "finished": 1247,
+        "finishtime": 843170657,
+        "won": 1691,
         "lost": 1029,
         "forfeited": 266
     },
@@ -818,7 +818,7 @@
             "4": 1891,
             "5": 1546,
             "6": 1827,
-            "7": 1355
+            "7": 1375
         },
         "points": {
             "1": 0,
@@ -831,11 +831,11 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 2680,
-        "playtime": 1663868640,
-        "finished": 922,
-        "finishtime": 732677287,
-        "won": 1414,
+        "matches": 2681,
+        "playtime": 1664540322,
+        "finished": 923,
+        "finishtime": 733348969,
+        "won": 1415,
         "lost": 1198,
         "forfeited": 593
     },
@@ -1761,12 +1761,12 @@
         },
         "pb": 560752,
         "streak": 12,
-        "matches": 1164,
-        "playtime": 864707711,
+        "matches": 1166,
+        "playtime": 865999799,
         "finished": 392,
         "finishtime": 343049178,
-        "won": 631,
-        "lost": 498,
+        "won": 632,
+        "lost": 499,
         "forfeited": 87
     },
     "e691063a2afc4c47ac987c0f307297ad": {
@@ -2871,13 +2871,13 @@
         },
         "pb": 441118,
         "streak": 10,
-        "matches": 4669,
-        "playtime": 2936578067,
+        "matches": 4671,
+        "playtime": 2937636115,
         "finished": 1597,
         "finishtime": 1198077389,
         "won": 2351,
-        "lost": 2090,
-        "forfeited": 787
+        "lost": 2092,
+        "forfeited": 788
     },
     "00f996cd910f479ba0903d85c2bdb1e0": {
         "nickname": "Bloonskiller",
