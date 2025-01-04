@@ -1975,13 +1975,13 @@
         },
         "pb": 467274,
         "streak": 9,
-        "matches": 888,
-        "playtime": 586607643,
+        "matches": 889,
+        "playtime": 587184447,
         "finished": 395,
         "finishtime": 285614423,
         "won": 520,
-        "lost": 342,
-        "forfeited": 26
+        "lost": 343,
+        "forfeited": 27
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
