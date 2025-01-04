@@ -1,5 +1,5 @@
 {
-    "date": 1735986343000,
+    "date": 1735987413000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -1302,21 +1302,35 @@
             "nickname": "7rowl",
             "stats": {
                 "rank": 2,
-                "elo": 1843,
-                "peak": 1843,
+                "elo": 1853,
+                "peak": 1853,
                 "points": 0,
                 "pb": 486367,
-                "current": 6,
+                "current": 7,
                 "streak": 9,
-                "matches": 72,
-                "playtime": 45199906,
-                "finished": 44,
-                "finishtime": 28245869,
-                "won": 49,
+                "matches": 73,
+                "playtime": 45824038,
+                "finished": 45,
+                "finishtime": 28870001,
+                "won": 50,
                 "lost": 23,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1735987410000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "AntiCheeat",
+                    "elo": 1853,
+                    "change": 10,
+                    "oelo": 1509,
+                    "ochange": -10,
+                    "time": 624132,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1735816255000,
                     "type": "DESERT_TEMPLE",
