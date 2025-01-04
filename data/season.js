@@ -1,5 +1,5 @@
 {
-    "date": 1736018804000,
+    "date": 1736019705000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -62615,7 +62615,7 @@
             "uuid": "11dd5549074b4cb1830d7ca103a01cc7",
             "nickname": "mxkky_",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1520,
                 "peak": 1520,
                 "points": 0,
@@ -64331,7 +64331,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "wxhnhjy",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1520,
                 "peak": 1520,
                 "points": 0,
@@ -65221,7 +65221,7 @@
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "4antoo",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1518,
                 "peak": 1547,
                 "points": 0,
@@ -67021,7 +67021,7 @@
             "uuid": "cbf4ef2b7bd744cba9a815fe4b9dd478",
             "nickname": "Launey_",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1518,
                 "peak": 1518,
                 "points": 0,
@@ -67617,7 +67617,7 @@
             "uuid": "0b6c44a481e14c7e88ac836c92499ff4",
             "nickname": "NOHACKSJUSTTIGER",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1516,
                 "peak": 1516,
                 "points": 0,
@@ -67653,22 +67653,36 @@
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
-                "rank": 49,
-                "elo": 1516,
-                "peak": 1520,
+                "rank": 40,
+                "elo": 1532,
+                "peak": 1532,
                 "points": 0,
                 "pb": 634486,
-                "current": 1,
+                "current": 2,
                 "streak": 3,
-                "matches": 58,
-                "playtime": 40631760,
+                "matches": 59,
+                "playtime": 41156349,
                 "finished": 24,
                 "finishtime": 18763898,
-                "won": 31,
+                "won": 32,
                 "lost": 24,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736019816000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "sxtom_",
+                    "elo": 1532,
+                    "change": 16,
+                    "oelo": 1389,
+                    "ochange": -16,
+                    "time": 524589,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1735936591000,
                     "type": "BURIED_TREASURE",
