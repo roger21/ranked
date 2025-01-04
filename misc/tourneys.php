@@ -78,6 +78,7 @@
 <head>
 <meta charset="utf-8">
 <title><?=$url?></title>
+<link rel="icon" href="favicon.ico" type="image/png">
 <style type="text/css">
   html,body,table,tr,td{
     margin:0;
