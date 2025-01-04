@@ -89,7 +89,7 @@
     unset($stats);
     $stats=(file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}{$season_p1}",
                               false, $context));
-    echo "(".(++$request_counter).") {$p["nickname"]} stats\n";
+    echo "(".(++$request_counter).") {$p["nickname"]} stats season {$sss}\n";
     unset($ss);
     $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
@@ -199,7 +199,7 @@
       unset($stats);
       $stats=(file_get_contents("https://mcsrranked.com/api/users/{$uuid}{$season_p1}",
                                 false, $context));
-      echo "(".(++$request_counter).") old {$uuid} stats\n";
+      echo "(".(++$request_counter).") old {$uuid} stats season {$sss}\n";
       unset($ss);
       $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
