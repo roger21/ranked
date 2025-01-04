@@ -12,8 +12,16 @@
   ini_set("log_errors", "0");
 
 
-  $url="s6";
-  $caca=file_get_contents("https://mcsrranked.com/api/tourneys/showdown_$url");
+  if($argc === 3 && isset($argv[1]) && isset($argv[2]) &&
+     ($argv[1] === "q" || $argv[1] === "s") &&
+     ctype_digit($argv[2]) && $argv[2] >= 5){
+    $type=$argv[1] === "q" ? "qualifiers" : "showdown";
+    $url="s".$argv[2];
+  }else{
+    die(1);
+  }
+
+  $caca=file_get_contents("https://mcsrranked.com/api/tourneys/{$type}_{$url}");
   $cucu=json_decode($caca, true, 512, JSON_OBJECT_AS_ARRAY);
   $seeds=count($cucu["data"]["matches"]);
   $players=$cucu["data"]["players"];
@@ -26,6 +34,7 @@
   foreach($brackets as $b){
     $table[$pp[$b["uuid"]]]=["rank" => $b["rank"],
                              "comp" => $b["completions"],
+                             "bonus" => $b["bonus"],
                              "total" => $b["point"],
                              "out" => $b["eliminated"]];
   }
@@ -34,9 +43,9 @@
   for($i=1; $i <= $seeds; ++$i){
     $tbl.="<td>seed $i</td>";
   }
-  $tbl.="<td>points</td><td>eliminated</td></tr>\n";
+  $tbl.="<td>bonus</td><td>points</td><td>eliminated</td></tr>\n";
   foreach($table as $nick => $row){
-    $tbl.="<tr><td class=\"rank\">{$row["rank"]} / ".count($table)."</td><td class=\"nick\">$nick</td>";
+    $tbl.="<tr><td class=\"right\">{$row["rank"]} / ".count($table)."</td><td class=\"nick\">$nick</td>";
     for($i=0; $i < $seeds; ++$i){
       if($row["comp"][$i] === null){
         $place="-";
@@ -50,13 +59,13 @@
         $points=$row["comp"][$i]["score"];
         $points=$points." pts";
       }
-      $tbl.="<td class=\"points\">$place / $points</td>";
+      $tbl.="<td class=\"right\">$place / $points</td>";
     }
-    $total=$row["total"];
-    $total=$total." pts";
+    $bonus=$row["bonus"]." pts";
+    $total=$row["total"]." pts";
     $out=$row["out"] ? "eliminated" : "still alive";
     $class=$row["out"] ? "bad" : "good";
-    $tbl.="<td class=\"total\">$total</td><td class=\"out $class\">$out</td></tr>\n";
+    $tbl.="<td class=\"right\">$bonus</td><td class=\"right\">$total</td><td class=\"out $class\">$out</td></tr>\n";
   }
   $tbl.="</table>\n";
 
@@ -93,13 +102,7 @@
     text-align:center;
     font-weight:bold;
   }
-  td.rank{
-    text-align:right;
-  }
-  td.points{
-    text-align:right;
-  }
-  td.total{
+  td.right{
     text-align:right;
   }
   td.out{
