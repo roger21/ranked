@@ -1,6 +1,6 @@
 {
     "17e787d1d6374f818b294f2319db370d": {
-        "nickname": null,
+        "nickname": "silverrruns",
         "peak": {
             "": 0,
             "1": 2309,
@@ -21,18 +21,18 @@
             "6": 130,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 436863,
+        "streak": 23,
+        "matches": 1856,
+        "playtime": 1172227789,
+        "finished": 883,
+        "finishtime": 602205649,
+        "won": 1180,
+        "lost": 626,
+        "forfeited": 60
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
-        "nickname": null,
+        "nickname": "Feinberg",
         "peak": {
             "": 0,
             "1": 2309,
@@ -53,18 +53,18 @@
             "6": 125,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 457911,
+        "streak": 29,
+        "matches": 1076,
+        "playtime": 658672322,
+        "finished": 546,
+        "finishtime": 372216075,
+        "won": 737,
+        "lost": 330,
+        "forfeited": 80
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
-        "nickname": null,
+        "nickname": "7rowl",
         "peak": {
             "": 0,
             "1": 2230,
@@ -85,18 +85,18 @@
             "6": 145,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 414674,
+        "streak": 35,
+        "matches": 5389,
+        "playtime": 3156029833,
+        "finished": 2538,
+        "finishtime": 1762313147,
+        "won": 3389,
+        "lost": 1948,
+        "forfeited": 964
     },
     "56714245be364bd1a469d0853552c109": {
-        "nickname": null,
+        "nickname": "orachi_",
         "peak": {
             "": 0,
             "1": 2169,
@@ -117,18 +117,18 @@
             "6": 50,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 508568,
+        "streak": 19,
+        "matches": 580,
+        "playtime": 383969644,
+        "finished": 223,
+        "finishtime": 173323538,
+        "won": 363,
+        "lost": 200,
+        "forfeited": 55
     },
     "562a308be86c4ec09438387860e792cc": {
-        "nickname": null,
+        "nickname": "Oxidiot",
         "peak": {
             "": 0,
             "1": 2088,
@@ -149,18 +149,18 @@
             "6": 145,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 438656,
+        "streak": 20,
+        "matches": 1982,
+        "playtime": 1301985163,
+        "finished": 1004,
+        "finishtime": 701442368,
+        "won": 1284,
+        "lost": 675,
+        "forfeited": 43
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
-        "nickname": null,
+        "nickname": "priffie",
         "peak": {
             "": 0,
             "1": 2146,
@@ -181,18 +181,18 @@
             "6": 25,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 465717,
+        "streak": 17,
+        "matches": 2504,
+        "playtime": 1607360091,
+        "finished": 1102,
+        "finishtime": 825391956,
+        "won": 1545,
+        "lost": 918,
+        "forfeited": 315
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
-        "nickname": null,
+        "nickname": "dandannyboy",
         "peak": {
             "": 0,
             "1": 2042,
@@ -213,18 +213,18 @@
             "6": 90,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 451470,
+        "streak": 14,
+        "matches": 4040,
+        "playtime": 2586574449,
+        "finished": 1695,
+        "finishtime": 1216698504,
+        "won": 2214,
+        "lost": 1763,
+        "forfeited": 560
     },
     "7665f76f431b41c6b321bea16aff913b": {
-        "nickname": null,
+        "nickname": "lowk3y_",
         "peak": {
             "": 0,
             "1": 2072,
@@ -245,18 +245,18 @@
             "6": 250,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 380341,
+        "streak": 21,
+        "matches": 5066,
+        "playtime": 3264894280,
+        "finished": 2587,
+        "finishtime": 1763712627,
+        "won": 3321,
+        "lost": 1599,
+        "forfeited": 181
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
-        "nickname": null,
+        "nickname": "Reignex",
         "peak": {
             "": 0,
             "1": 2012,
@@ -277,18 +277,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 461458,
+        "streak": 12,
+        "matches": 300,
+        "playtime": 202995486,
+        "finished": 138,
+        "finishtime": 108081541,
+        "won": 200,
+        "lost": 96,
+        "forfeited": 38
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
-        "nickname": null,
+        "nickname": "doogile",
         "peak": {
             "": 0,
             "1": 2096,
@@ -309,18 +309,18 @@
             "6": 260,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 435508,
+        "streak": 22,
+        "matches": 2800,
+        "playtime": 1740943208,
+        "finished": 1569,
+        "finishtime": 1033265656,
+        "won": 1985,
+        "lost": 736,
+        "forfeited": 31
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
-        "nickname": null,
+        "nickname": "bing_pigs",
         "peak": {
             "": 0,
             "1": 2065,
@@ -341,18 +341,18 @@
             "6": 165,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 427007,
+        "streak": 20,
+        "matches": 7918,
+        "playtime": 4790213009,
+        "finished": 3252,
+        "finishtime": 2270109563,
+        "won": 4366,
+        "lost": 3375,
+        "forfeited": 1186
     },
     "278f495d4e944ebe94ab01c571ac188e": {
-        "nickname": null,
+        "nickname": "Thunderstorming",
         "peak": {
             "": 0,
             "1": 1990,
@@ -373,18 +373,18 @@
             "6": 10,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 585048,
+        "streak": 11,
+        "matches": 540,
+        "playtime": 388233231,
+        "finished": 237,
+        "finishtime": 193003740,
+        "won": 326,
+        "lost": 198,
+        "forfeited": 33
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
-        "nickname": null,
+        "nickname": "ulsah1n",
         "peak": {
             "": 0,
             "1": 2000,
@@ -405,18 +405,18 @@
             "6": 80,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 449909,
+        "streak": 11,
+        "matches": 2454,
+        "playtime": 1664978265,
+        "finished": 937,
+        "finishtime": 725936754,
+        "won": 1316,
+        "lost": 1078,
+        "forfeited": 248
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
-        "nickname": null,
+        "nickname": "meebie",
         "peak": {
             "": 0,
             "1": 1909,
@@ -437,18 +437,18 @@
             "6": 80,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 454009,
+        "streak": 12,
+        "matches": 2439,
+        "playtime": 1478418940,
+        "finished": 913,
+        "finishtime": 669565906,
+        "won": 1312,
+        "lost": 1095,
+        "forfeited": 559
     },
     "bc80af38933f4ae19b0494681a54422b": {
-        "nickname": null,
+        "nickname": "Ancoboyy",
         "peak": {
             "": 0,
             "1": 2099,
@@ -469,18 +469,18 @@
             "6": 75,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 438525,
+        "streak": 18,
+        "matches": 3781,
+        "playtime": 2176248021,
+        "finished": 1568,
+        "finishtime": 1076856412,
+        "won": 2107,
+        "lost": 1529,
+        "forfeited": 936
     },
     "be7a79f3331042f19c07230752b26725": {
-        "nickname": null,
+        "nickname": "dinonuggieboi",
         "peak": {
             "": 0,
             "1": 1899,
@@ -501,18 +501,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 516276,
+        "streak": 12,
+        "matches": 313,
+        "playtime": 219867015,
+        "finished": 129,
+        "finishtime": 106051898,
+        "won": 214,
+        "lost": 87,
+        "forfeited": 13
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
-        "nickname": null,
+        "nickname": "Dimeax",
         "peak": {
             "": 0,
             "1": 1973,
@@ -533,18 +533,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 520075,
+        "streak": 13,
+        "matches": 1244,
+        "playtime": 885351864,
+        "finished": 459,
+        "finishtime": 372783192,
+        "won": 673,
+        "lost": 535,
+        "forfeited": 102
     },
     "82a111625c614f31a44789d5464a969a": {
-        "nickname": null,
+        "nickname": "DECTHEELITE",
         "peak": {
             "": 0,
             "1": 2004,
@@ -565,18 +565,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 615205,
+        "streak": 25,
+        "matches": 358,
+        "playtime": 259291191,
+        "finished": 129,
+        "finishtime": 104800905,
+        "won": 217,
+        "lost": 135,
+        "forfeited": 19
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
-        "nickname": null,
+        "nickname": "Zylenox",
         "peak": {
             "": 0,
             "1": 1934,
@@ -597,18 +597,18 @@
             "6": 35,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 433388,
+        "streak": 14,
+        "matches": 442,
+        "playtime": 276143883,
+        "finished": 198,
+        "finishtime": 138878763,
+        "won": 271,
+        "lost": 161,
+        "forfeited": 42
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
-        "nickname": null,
+        "nickname": "Mar1n",
         "peak": {
             "": 0,
             "1": 1932,
@@ -629,18 +629,18 @@
             "6": 55,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 488067,
+        "streak": 8,
+        "matches": 1241,
+        "playtime": 822299233,
+        "finished": 488,
+        "finishtime": 367148696,
+        "won": 685,
+        "lost": 522,
+        "forfeited": 114
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
-        "nickname": null,
+        "nickname": "90Tom",
         "peak": {
             "": 0,
             "1": 1925,
@@ -661,18 +661,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 544865,
+        "streak": 13,
+        "matches": 1506,
+        "playtime": 1133989511,
+        "finished": 544,
+        "finishtime": 458526783,
+        "won": 822,
+        "lost": 653,
+        "forfeited": 8
     },
     "182a4a03fae54aa7aed4de1cf1f93d2b": {
-        "nickname": null,
+        "nickname": "_BiBinka_",
         "peak": {
             "": 0,
             "1": 1925,
@@ -693,18 +693,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 561708,
+        "streak": 11,
+        "matches": 385,
+        "playtime": 278036789,
+        "finished": 162,
+        "finishtime": 135332562,
+        "won": 238,
+        "lost": 138,
+        "forfeited": 34
     },
     "7c92678742eb4e819f3122017697ae3d": {
-        "nickname": null,
+        "nickname": "hackingnoises",
         "peak": {
             "": 0,
             "1": 2168,
@@ -725,18 +725,18 @@
             "6": 195,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 395129,
+        "streak": 18,
+        "matches": 2789,
+        "playtime": 1722361959,
+        "finished": 1248,
+        "finishtime": 843985017,
+        "won": 1692,
+        "lost": 1029,
+        "forfeited": 266
     },
     "2f59967f6a7841ab840e2cb032589a04": {
-        "nickname": null,
+        "nickname": "Dylqn",
         "peak": {
             "": 0,
             "1": 1938,
@@ -757,18 +757,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 534284,
+        "streak": 15,
+        "matches": 684,
+        "playtime": 488412010,
+        "finished": 274,
+        "finishtime": 223131829,
+        "won": 402,
+        "lost": 272,
+        "forfeited": 30
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
-        "nickname": null,
+        "nickname": "druppelen",
         "peak": {
             "": 0,
             "1": 1831,
@@ -789,18 +789,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 526792,
+        "streak": 12,
+        "matches": 1091,
+        "playtime": 724465800,
+        "finished": 363,
+        "finishtime": 298528675,
+        "won": 574,
+        "lost": 474,
+        "forfeited": 169
     },
     "e43dad544b244da9b690a12fdc8626dc": {
-        "nickname": null,
+        "nickname": "NiceTwice",
         "peak": {
             "": 0,
             "1": 1812,
@@ -821,18 +821,18 @@
             "6": 10,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 566523,
+        "streak": 10,
+        "matches": 1558,
+        "playtime": 1159310246,
+        "finished": 554,
+        "finishtime": 473572355,
+        "won": 838,
+        "lost": 694,
+        "forfeited": 81
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
-        "nickname": null,
+        "nickname": "SuperC_",
         "peak": {
             "": 0,
             "1": 1808,
@@ -853,18 +853,18 @@
             "6": 70,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 470188,
+        "streak": 11,
+        "matches": 2319,
+        "playtime": 1589612716,
+        "finished": 868,
+        "finishtime": 670774386,
+        "won": 1229,
+        "lost": 1035,
+        "forfeited": 138
     },
     "7d320034571e405a9b6889104489a3c4": {
-        "nickname": null,
+        "nickname": "kohout135",
         "peak": {
             "": 0,
             "1": 1995,
@@ -885,18 +885,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 484494,
+        "streak": 12,
+        "matches": 2681,
+        "playtime": 1664540322,
+        "finished": 923,
+        "finishtime": 733348969,
+        "won": 1415,
+        "lost": 1198,
+        "forfeited": 593
     },
     "31f96d84ed9844bcabbd07f828001290": {
-        "nickname": null,
+        "nickname": "Aquaface",
         "peak": {
             "": 0,
             "1": 1804,
@@ -917,18 +917,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 657866,
+        "streak": 10,
+        "matches": 922,
+        "playtime": 662373059,
+        "finished": 271,
+        "finishtime": 260322773,
+        "won": 491,
+        "lost": 411,
+        "forfeited": 187
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
-        "nickname": null,
+        "nickname": "emia",
         "peak": {
             "": 0,
             "1": 1803,
@@ -949,18 +949,18 @@
             "6": 35,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 441689,
+        "streak": 14,
+        "matches": 4690,
+        "playtime": 3258016854,
+        "finished": 1516,
+        "finishtime": 1256151174,
+        "won": 2355,
+        "lost": 2206,
+        "forfeited": 550
     },
     "3910d98bea254b488a10d6e91e469f7e": {
-        "nickname": null,
+        "nickname": "dwoh",
         "peak": {
             "": 0,
             "1": 1802,
@@ -981,18 +981,18 @@
             "6": 50,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 484755,
+        "streak": 22,
+        "matches": 1202,
+        "playtime": 795254475,
+        "finished": 459,
+        "finishtime": 352002624,
+        "won": 641,
+        "lost": 515,
+        "forfeited": 132
     },
     "43a6669e11474827802de8401a373169": {
-        "nickname": null,
+        "nickname": "SunOmega",
         "peak": {
             "": 0,
             "1": 1801,
@@ -1013,18 +1013,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 638714,
+        "streak": 13,
+        "matches": 840,
+        "playtime": 622641378,
+        "finished": 256,
+        "finishtime": 231785927,
+        "won": 451,
+        "lost": 362,
+        "forfeited": 109
     },
     "879c8136d42c4222b42f1c090616fa5e": {
-        "nickname": null,
+        "nickname": "yummycelery",
         "peak": {
             "": 0,
             "1": 1829,
@@ -1045,18 +1045,18 @@
             "6": 15,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 534921,
+        "streak": 10,
+        "matches": 1135,
+        "playtime": 738044734,
+        "finished": 404,
+        "finishtime": 316447564,
+        "won": 620,
+        "lost": 453,
+        "forfeited": 151
     },
     "4427794ee7ad48bc9b53c156fa4092e1": {
-        "nickname": null,
+        "nickname": "kW1st",
         "peak": {
             "": 0,
             "1": 1942,
@@ -1077,18 +1077,18 @@
             "6": 30,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 479650,
+        "streak": 12,
+        "matches": 1678,
+        "playtime": 1164963509,
+        "finished": 598,
+        "finishtime": 497221500,
+        "won": 897,
+        "lost": 728,
+        "forfeited": 199
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
-        "nickname": null,
+        "nickname": "Ale267",
         "peak": {
             "": 0,
             "1": 1823,
@@ -1109,18 +1109,18 @@
             "6": 30,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 489574,
+        "streak": 10,
+        "matches": 1537,
+        "playtime": 1000068246,
+        "finished": 494,
+        "finishtime": 395523901,
+        "won": 789,
+        "lost": 685,
+        "forfeited": 275
     },
     "744f344f2f5a4610aa8fe30053312812": {
-        "nickname": null,
+        "nickname": "TheBlazer97",
         "peak": {
             "": 0,
             "1": 1782,
@@ -1141,18 +1141,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 596380,
+        "streak": 9,
+        "matches": 1131,
+        "playtime": 809955782,
+        "finished": 389,
+        "finishtime": 335871091,
+        "won": 609,
+        "lost": 478,
+        "forfeited": 162
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
-        "nickname": null,
+        "nickname": "xLourx",
         "peak": {
             "": 0,
             "1": 1808,
@@ -1173,18 +1173,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 624186,
+        "streak": 16,
+        "matches": 558,
+        "playtime": 421547971,
+        "finished": 203,
+        "finishtime": 178989864,
+        "won": 315,
+        "lost": 230,
+        "forfeited": 20
     },
     "388533d5a2ad4b349a31db4738670a4b": {
-        "nickname": null,
+        "nickname": "v_strid",
         "peak": {
             "": 0,
             "1": 1765,
@@ -1205,18 +1205,18 @@
             "6": 80,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 441131,
+        "streak": 17,
+        "matches": 9788,
+        "playtime": 6495085724,
+        "finished": 3959,
+        "finishtime": 2903364314,
+        "won": 5433,
+        "lost": 4156,
+        "forfeited": 650
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
-        "nickname": null,
+        "nickname": "Ranik_",
         "peak": {
             "": 0,
             "1": 1798,
@@ -1237,18 +1237,18 @@
             "6": 75,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 474179,
+        "streak": 18,
+        "matches": 3844,
+        "playtime": 2524140918,
+        "finished": 1417,
+        "finishtime": 1070756781,
+        "won": 2001,
+        "lost": 1758,
+        "forfeited": 538
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
-        "nickname": null,
+        "nickname": "nwolc",
         "peak": {
             "": 0,
             "1": 1882,
@@ -1269,18 +1269,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 548155,
+        "streak": 13,
+        "matches": 1236,
+        "playtime": 865959260,
+        "finished": 395,
+        "finishtime": 329609537,
+        "won": 679,
+        "lost": 515,
+        "forfeited": 185
     },
     "c32cdd142a0147dcb91771319d745194": {
-        "nickname": null,
+        "nickname": "Erikfzf",
         "peak": {
             "": 0,
             "1": 1748,
@@ -1301,18 +1301,18 @@
             "6": 90,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 422817,
+        "streak": 12,
+        "matches": 1952,
+        "playtime": 1264490139,
+        "finished": 775,
+        "finishtime": 573300437,
+        "won": 1058,
+        "lost": 846,
+        "forfeited": 223
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
-        "nickname": null,
+        "nickname": "MoleyG",
         "peak": {
             "": 0,
             "1": 2000,
@@ -1333,18 +1333,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 485698,
+        "streak": 11,
+        "matches": 1658,
+        "playtime": 1132470244,
+        "finished": 621,
+        "finishtime": 508616315,
+        "won": 925,
+        "lost": 707,
+        "forfeited": 276
     },
     "939ddf85303441de901d60bfa4109318": {
-        "nickname": null,
+        "nickname": "thecamo6",
         "peak": {
             "": 0,
             "1": 1744,
@@ -1365,18 +1365,18 @@
             "6": 60,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 443122,
+        "streak": 14,
+        "matches": 3252,
+        "playtime": 2120447483,
+        "finished": 1194,
+        "finishtime": 884805288,
+        "won": 1664,
+        "lost": 1496,
+        "forfeited": 443
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
-        "nickname": null,
+        "nickname": "NOHACKSJUSTTIGER",
         "peak": {
             "": 0,
             "1": 1741,
@@ -1397,18 +1397,18 @@
             "6": 40,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 443566,
+        "streak": 10,
+        "matches": 1357,
+        "playtime": 817728050,
+        "finished": 487,
+        "finishtime": 370146615,
+        "won": 711,
+        "lost": 593,
+        "forfeited": 325
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
-        "nickname": null,
+        "nickname": "teddiursa1234",
         "peak": {
             "": 0,
             "1": 1739,
@@ -1429,18 +1429,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 551654,
+        "streak": 10,
+        "matches": 330,
+        "playtime": 234685708,
+        "finished": 125,
+        "finishtime": 103925689,
+        "won": 193,
+        "lost": 126,
+        "forfeited": 53
     },
     "48d9df3377554043ba39a8500c7ad702": {
-        "nickname": null,
+        "nickname": "wxhnhjy",
         "peak": {
             "": 0,
             "1": 1735,
@@ -1461,18 +1461,18 @@
             "6": 15,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 507044,
+        "streak": 10,
+        "matches": 1903,
+        "playtime": 1169811466,
+        "finished": 612,
+        "finishtime": 481840268,
+        "won": 956,
+        "lost": 803,
+        "forfeited": 368
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
-        "nickname": null,
+        "nickname": "Tompas_",
         "peak": {
             "": 0,
             "1": 1788,
@@ -1493,18 +1493,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 580860,
+        "streak": 11,
+        "matches": 2514,
+        "playtime": 1889230264,
+        "finished": 757,
+        "finishtime": 691200366,
+        "won": 1281,
+        "lost": 1129,
+        "forfeited": 231
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
-        "nickname": null,
+        "nickname": "Hinart",
         "peak": {
             "": 0,
             "1": 1871,
@@ -1525,18 +1525,18 @@
             "6": 85,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 467855,
+        "streak": 11,
+        "matches": 2711,
+        "playtime": 1784442887,
+        "finished": 1012,
+        "finishtime": 744885003,
+        "won": 1441,
+        "lost": 1215,
+        "forfeited": 138
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
-        "nickname": null,
+        "nickname": "dillrice",
         "peak": {
             "": 0,
             "1": 1721,
@@ -1557,18 +1557,18 @@
             "6": 5,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 526564,
+        "streak": 11,
+        "matches": 1610,
+        "playtime": 1206741687,
+        "finished": 518,
+        "finishtime": 456163405,
+        "won": 833,
+        "lost": 701,
+        "forfeited": 167
     },
     "d0acbca0d50e4824bc38a44395cce096": {
-        "nickname": null,
+        "nickname": "Fyroah",
         "peak": {
             "": 0,
             "1": 1819,
@@ -1589,18 +1589,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 564429,
+        "streak": 13,
+        "matches": 420,
+        "playtime": 336190650,
+        "finished": 161,
+        "finishtime": 141113673,
+        "won": 239,
+        "lost": 176,
+        "forfeited": 7
     },
     "59f81e4943014bffa80513d56de77728": {
-        "nickname": null,
+        "nickname": "DougThePig",
         "peak": {
             "": 0,
             "1": 1799,
@@ -1621,18 +1621,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 611063,
+        "streak": 10,
+        "matches": 799,
+        "playtime": 624227526,
+        "finished": 300,
+        "finishtime": 275049816,
+        "won": 452,
+        "lost": 334,
+        "forfeited": 68
     },
     "3b01d4b4fef14f178b75f05c04dd34ef": {
-        "nickname": null,
+        "nickname": "BeefSalad",
         "peak": {
             "": 0,
             "1": 1817,
@@ -1653,18 +1653,18 @@
             "6": 140,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 442834,
+        "streak": 14,
+        "matches": 7733,
+        "playtime": 4856091833,
+        "finished": 3054,
+        "finishtime": 2191933523,
+        "won": 4129,
+        "lost": 3452,
+        "forfeited": 1126
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
-        "nickname": null,
+        "nickname": "VDPineapple",
         "peak": {
             "": 0,
             "1": 1528,
@@ -1685,18 +1685,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 657137,
+        "streak": 9,
+        "matches": 163,
+        "playtime": 121525658,
+        "finished": 62,
+        "finishtime": 56778238,
+        "won": 112,
+        "lost": 46,
+        "forfeited": 7
     },
     "804da783a9e14f5f8e97c6dd8b045595": {
-        "nickname": null,
+        "nickname": "AceRPx",
         "peak": {
             "": 0,
             "1": 1891,
@@ -1717,18 +1717,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 493794,
+        "streak": 9,
+        "matches": 691,
+        "playtime": 473180599,
+        "finished": 243,
+        "finishtime": 207147396,
+        "won": 391,
+        "lost": 292,
+        "forfeited": 141
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
-        "nickname": null,
+        "nickname": "55crimson",
         "peak": {
             "": 0,
             "1": 1771,
@@ -1749,18 +1749,18 @@
             "6": 90,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 431368,
+        "streak": 20,
+        "matches": 1477,
+        "playtime": 926814450,
+        "finished": 588,
+        "finishtime": 411716151,
+        "won": 814,
+        "lost": 603,
+        "forfeited": 117
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
-        "nickname": null,
+        "nickname": "xShatter",
         "peak": {
             "": 0,
             "1": 1701,
@@ -1781,18 +1781,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 542711,
+        "streak": 10,
+        "matches": 2104,
+        "playtime": 1619438379,
+        "finished": 694,
+        "finishtime": 638157373,
+        "won": 1105,
+        "lost": 947,
+        "forfeited": 213
     },
     "2e12870c08ec4337bc2e8fbf54e79853": {
-        "nickname": null,
+        "nickname": "TapL",
         "peak": {
             "": 0,
             "1": 1748,
@@ -1813,18 +1813,18 @@
             "6": 10,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 536591,
+        "streak": 11,
+        "matches": 4530,
+        "playtime": 3398351361,
+        "finished": 1538,
+        "finishtime": 1328195445,
+        "won": 2323,
+        "lost": 2088,
+        "forfeited": 227
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
-        "nickname": null,
+        "nickname": "karatebaby_",
         "peak": {
             "": 0,
             "1": 1649,
@@ -1845,18 +1845,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 490557,
+        "streak": 11,
+        "matches": 2259,
+        "playtime": 1501436921,
+        "finished": 688,
+        "finishtime": 568383844,
+        "won": 1176,
+        "lost": 1016,
+        "forfeited": 539
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
-        "nickname": null,
+        "nickname": "ThaShape",
         "peak": {
             "": 0,
             "1": 1775,
@@ -1877,18 +1877,18 @@
             "6": 15,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 560752,
+        "streak": 12,
+        "matches": 1172,
+        "playtime": 870202552,
+        "finished": 394,
+        "finishtime": 344448072,
+        "won": 634,
+        "lost": 503,
+        "forfeited": 88
     },
     "e691063a2afc4c47ac987c0f307297ad": {
-        "nickname": null,
+        "nickname": "VMiZ",
         "peak": {
             "": 0,
             "1": 1699,
@@ -1909,18 +1909,18 @@
             "6": 45,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 569335,
+        "streak": 10,
+        "matches": 1115,
+        "playtime": 841211079,
+        "finished": 353,
+        "finishtime": 301431381,
+        "won": 600,
+        "lost": 476,
+        "forfeited": 11
     },
     "736dbdc44a3e452fa489f5344565835e": {
-        "nickname": null,
+        "nickname": "drx6",
         "peak": {
             "": 0,
             "1": 1644,
@@ -1941,18 +1941,18 @@
             "6": 50,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 501203,
+        "streak": 12,
+        "matches": 1480,
+        "playtime": 1020532565,
+        "finished": 547,
+        "finishtime": 422619409,
+        "won": 787,
+        "lost": 620,
+        "forfeited": 25
     },
     "3da9e8cec2d348f781a98d095b1d0325": {
-        "nickname": null,
+        "nickname": "dolqhin",
         "peak": {
             "": 0,
             "1": 1414,
@@ -1973,18 +1973,18 @@
             "6": 70,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 467274,
+        "streak": 9,
+        "matches": 881,
+        "playtime": 583680665,
+        "finished": 393,
+        "finishtime": 284411194,
+        "won": 517,
+        "lost": 338,
+        "forfeited": 23
     },
     "8e662c4655534e00802d563043cd8739": {
-        "nickname": null,
+        "nickname": "Parkertwo",
         "peak": {
             "": 0,
             "1": 1675,
@@ -2005,18 +2005,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 518851,
+        "streak": 6,
+        "matches": 501,
+        "playtime": 386572862,
+        "finished": 161,
+        "finishtime": 145603800,
+        "won": 276,
+        "lost": 211,
+        "forfeited": 68
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
-        "nickname": null,
+        "nickname": "MrBudgiee",
         "peak": {
             "": 0,
             "1": 0,
@@ -2037,18 +2037,18 @@
             "6": 110,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 447046,
+        "streak": 14,
+        "matches": 2080,
+        "playtime": 1297340486,
+        "finished": 904,
+        "finishtime": 631788296,
+        "won": 1142,
+        "lost": 893,
+        "forfeited": 281
     },
     "4cf401d7b9474756b06a653867d22fca": {
-        "nickname": null,
+        "nickname": "BadGamer",
         "peak": {
             "": 0,
             "1": 1686,
@@ -2069,18 +2069,18 @@
             "6": 95,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 429154,
+        "streak": 13,
+        "matches": 2185,
+        "playtime": 1275128565,
+        "finished": 838,
+        "finishtime": 576231906,
+        "won": 1135,
+        "lost": 971,
+        "forfeited": 583
     },
     "4863326cccf043ecbb8ff88628bed781": {
-        "nickname": null,
+        "nickname": "pulsar32",
         "peak": {
             "": 0,
             "1": 1829,
@@ -2101,18 +2101,18 @@
             "6": 60,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 426361,
+        "streak": 16,
+        "matches": 4305,
+        "playtime": 2584941111,
+        "finished": 1442,
+        "finishtime": 1073158275,
+        "won": 2206,
+        "lost": 1943,
+        "forfeited": 1145
     },
     "478b956844414cba9cfccb2977b71962": {
-        "nickname": null,
+        "nickname": "B0g0sB1nted",
         "peak": {
             "": 0,
             "1": 1649,
@@ -2133,18 +2133,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 534504,
+        "streak": 11,
+        "matches": 1043,
+        "playtime": 734627400,
+        "finished": 281,
+        "finishtime": 257329788,
+        "won": 537,
+        "lost": 457,
+        "forfeited": 212
     },
     "4894c631e820409ebe4447e4e9835e90": {
-        "nickname": null,
+        "nickname": "EvanKeen",
         "peak": {
             "": 0,
             "1": 1797,
@@ -2165,18 +2165,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 492739,
+        "streak": 9,
+        "matches": 2097,
+        "playtime": 1333626078,
+        "finished": 742,
+        "finishtime": 587066324,
+        "won": 1118,
+        "lost": 933,
+        "forfeited": 602
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
-        "nickname": null,
+        "nickname": "Aquacorde",
         "peak": {
             "": 0,
             "1": 1439,
@@ -2197,18 +2197,18 @@
             "6": 95,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 467636,
+        "streak": 12,
+        "matches": 974,
+        "playtime": 653798090,
+        "finished": 440,
+        "finishtime": 312097544,
+        "won": 562,
+        "lost": 383,
+        "forfeited": 38
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
-        "nickname": null,
+        "nickname": "temp_gd",
         "peak": {
             "": 0,
             "1": 1531,
@@ -2229,18 +2229,18 @@
             "6": 5,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 491433,
+        "streak": 12,
+        "matches": 1255,
+        "playtime": 928244886,
+        "finished": 420,
+        "finishtime": 364966704,
+        "won": 652,
+        "lost": 534,
+        "forfeited": 59
     },
     "99aa9e0e8034479a90259e244dfb9029": {
-        "nickname": null,
+        "nickname": "Emillk",
         "peak": {
             "": 0,
             "1": 1646,
@@ -2261,18 +2261,18 @@
             "6": 20,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 468028,
+        "streak": 9,
+        "matches": 3106,
+        "playtime": 2055887896,
+        "finished": 1091,
+        "finishtime": 852477757,
+        "won": 1585,
+        "lost": 1425,
+        "forfeited": 547
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
-        "nickname": null,
+        "nickname": "jamyreaf",
         "peak": {
             "": 0,
             "1": 1792,
@@ -2293,18 +2293,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 483075,
+        "streak": 11,
+        "matches": 1176,
+        "playtime": 867431424,
+        "finished": 432,
+        "finishtime": 359648677,
+        "won": 649,
+        "lost": 487,
+        "forfeited": 13
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
-        "nickname": null,
+        "nickname": "zidouri",
         "peak": {
             "": 0,
             "1": 1480,
@@ -2325,18 +2325,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 572104,
+        "streak": 8,
+        "matches": 863,
+        "playtime": 611818965,
+        "finished": 279,
+        "finishtime": 253594988,
+        "won": 443,
+        "lost": 366,
+        "forfeited": 127
     },
     "b39f5648c91d42dfb121655f2aa52970": {
-        "nickname": null,
+        "nickname": "dimowo",
         "peak": {
             "": 0,
             "1": 1520,
@@ -2357,18 +2357,18 @@
             "6": 5,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 468498,
+        "streak": 9,
+        "matches": 2181,
+        "playtime": 1521563874,
+        "finished": 684,
+        "finishtime": 578418863,
+        "won": 1129,
+        "lost": 959,
+        "forfeited": 325
     },
     "25349f93cf194f3baeee93d024eccc21": {
-        "nickname": null,
+        "nickname": "retropog",
         "peak": {
             "": 0,
             "1": 1839,
@@ -2389,18 +2389,18 @@
             "6": 70,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 417055,
+        "streak": 17,
+        "matches": 4279,
+        "playtime": 2756919837,
+        "finished": 1487,
+        "finishtime": 1103857232,
+        "won": 2109,
+        "lost": 1974,
+        "forfeited": 508
     },
     "2988fcfbc6b141a497faa915e13b6592": {
-        "nickname": null,
+        "nickname": "DziabaDziuba",
         "peak": {
             "": 0,
             "1": 1644,
@@ -2421,18 +2421,18 @@
             "6": 110,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 495168,
+        "streak": 14,
+        "matches": 894,
+        "playtime": 585945853,
+        "finished": 447,
+        "finishtime": 317678798,
+        "won": 560,
+        "lost": 317,
+        "forfeited": 3
     },
     "a20541925b5648e1ae88a141ca37911e": {
-        "nickname": null,
+        "nickname": "xiamoys",
         "peak": {
             "": 0,
             "1": 1539,
@@ -2453,18 +2453,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 576358,
+        "streak": 20,
+        "matches": 532,
+        "playtime": 339819393,
+        "finished": 163,
+        "finishtime": 143002452,
+        "won": 287,
+        "lost": 217,
+        "forfeited": 123
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
-        "nickname": null,
+        "nickname": "Launey_",
         "peak": {
             "": 0,
             "1": 1697,
@@ -2485,18 +2485,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 506326,
+        "streak": 10,
+        "matches": 2462,
+        "playtime": 1628295270,
+        "finished": 778,
+        "finishtime": 641411155,
+        "won": 1276,
+        "lost": 1086,
+        "forfeited": 521
     },
     "a53540ad086c490e9a0405171f0e0e58": {
-        "nickname": null,
+        "nickname": "aleen",
         "peak": {
             "": 0,
             "1": 1673,
@@ -2517,18 +2517,18 @@
             "6": 40,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 498416,
+        "streak": 9,
+        "matches": 516,
+        "playtime": 330958265,
+        "finished": 219,
+        "finishtime": 165288117,
+        "won": 318,
+        "lost": 177,
+        "forfeited": 46
     },
     "0b164a03002048d3955715422179eedf": {
-        "nickname": null,
+        "nickname": "KenanKardes",
         "peak": {
             "": 0,
             "1": 1851,
@@ -2549,18 +2549,18 @@
             "6": 70,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 477032,
+        "streak": 12,
+        "matches": 3221,
+        "playtime": 2162445374,
+        "finished": 1165,
+        "finishtime": 890612446,
+        "won": 1610,
+        "lost": 1488,
+        "forfeited": 336
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
-        "nickname": null,
+        "nickname": "sanjinhu",
         "peak": {
             "": 0,
             "1": 1678,
@@ -2581,18 +2581,18 @@
             "6": 45,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 468160,
+        "streak": 13,
+        "matches": 6553,
+        "playtime": 4237127358,
+        "finished": 2284,
+        "finishtime": 1785237078,
+        "won": 3254,
+        "lost": 3076,
+        "forfeited": 1121
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
-        "nickname": null,
+        "nickname": "HDMICables",
         "peak": {
             "": 0,
             "1": 1500,
@@ -2613,18 +2613,18 @@
             "6": 25,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 444221,
+        "streak": 12,
+        "matches": 1359,
+        "playtime": 847755900,
+        "finished": 521,
+        "finishtime": 391301285,
+        "won": 720,
+        "lost": 578,
+        "forfeited": 307
     },
     "745a819973974fe1bb1608e57fd439b6": {
-        "nickname": null,
+        "nickname": "centuriee",
         "peak": {
             "": 0,
             "1": 1532,
@@ -2645,18 +2645,18 @@
             "6": 10,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 519203,
+        "streak": 12,
+        "matches": 1415,
+        "playtime": 947635369,
+        "finished": 475,
+        "finishtime": 391249694,
+        "won": 749,
+        "lost": 621,
+        "forfeited": 245
     },
     "83518e9927244f319f7175f3ff7609a1": {
-        "nickname": null,
+        "nickname": "furk1e",
         "peak": {
             "": 0,
             "1": 1367,
@@ -2677,18 +2677,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 523567,
+        "streak": 9,
+        "matches": 2274,
+        "playtime": 1561387267,
+        "finished": 628,
+        "finishtime": 546220352,
+        "won": 1122,
+        "lost": 1044,
+        "forfeited": 438
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
-        "nickname": null,
+        "nickname": "PEDRAOIMENSO",
         "peak": {
             "": 0,
             "1": 1759,
@@ -2709,18 +2709,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 516881,
+        "streak": 9,
+        "matches": 762,
+        "playtime": 542712308,
+        "finished": 290,
+        "finishtime": 236663894,
+        "won": 427,
+        "lost": 318,
+        "forfeited": 82
     },
     "625146b684804a29af2eaeb483a59ddf": {
-        "nickname": null,
+        "nickname": "ANJOUU",
         "peak": {
             "": 0,
             "1": 1630,
@@ -2741,18 +2741,18 @@
             "6": 100,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 427940,
+        "streak": 13,
+        "matches": 2200,
+        "playtime": 1377449827,
+        "finished": 845,
+        "finishtime": 608641515,
+        "won": 1156,
+        "lost": 949,
+        "forfeited": 286
     },
     "c670041ed84c480cab4a6ee904905b5f": {
-        "nickname": null,
+        "nickname": "paplerr",
         "peak": {
             "": 0,
             "1": 1389,
@@ -2773,18 +2773,18 @@
             "6": 70,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 422356,
+        "streak": 14,
+        "matches": 4168,
+        "playtime": 2745259993,
+        "finished": 1542,
+        "finishtime": 1153675431,
+        "won": 2159,
+        "lost": 1923,
+        "forfeited": 590
     },
     "8fc93aecda5b4f699cf76694116eaf11": {
-        "nickname": null,
+        "nickname": "rekrap2",
         "peak": {
             "": 0,
             "1": 0,
@@ -2805,18 +2805,18 @@
             "6": 35,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 493439,
+        "streak": 8,
+        "matches": 1586,
+        "playtime": 1076050719,
+        "finished": 568,
+        "finishtime": 427548265,
+        "won": 808,
+        "lost": 711,
+        "forfeited": 66
     },
     "e4cd494a4e0a423b9988618b86858c96": {
-        "nickname": null,
+        "nickname": "NoFearr1337",
         "peak": {
             "": 0,
             "1": 0,
@@ -2837,18 +2837,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 477474,
+        "streak": 12,
+        "matches": 362,
+        "playtime": 203534037,
+        "finished": 139,
+        "finishtime": 101702243,
+        "won": 206,
+        "lost": 143,
+        "forfeited": 98
     },
     "f1611fd339b1401f84154afee3a5f14a": {
-        "nickname": null,
+        "nickname": "Blooopy",
         "peak": {
             "": 0,
             "1": 1542,
@@ -2869,18 +2869,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 564197,
+        "streak": 17,
+        "matches": 692,
+        "playtime": 520637437,
+        "finished": 256,
+        "finishtime": 224748995,
+        "won": 383,
+        "lost": 288,
+        "forfeited": 45
     },
     "1ae14cb96a2f4357a71efac6f7012b59": {
-        "nickname": null,
+        "nickname": "Cube1337x",
         "peak": {
             "": 0,
             "1": 0,
@@ -2901,18 +2901,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 508207,
+        "streak": 19,
+        "matches": 367,
+        "playtime": 233545196,
+        "finished": 162,
+        "finishtime": 113537496,
+        "won": 228,
+        "lost": 134,
+        "forfeited": 18
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
-        "nickname": null,
+        "nickname": "_misf1t_",
         "peak": {
             "": 0,
             "1": 1520,
@@ -2933,18 +2933,18 @@
             "6": 35,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 501159,
+        "streak": 8,
+        "matches": 3084,
+        "playtime": 2099877351,
+        "finished": 987,
+        "finishtime": 785376175,
+        "won": 1557,
+        "lost": 1445,
+        "forfeited": 454
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
-        "nickname": null,
+        "nickname": "Waluyoshi",
         "peak": {
             "": 0,
             "1": 1697,
@@ -2965,18 +2965,18 @@
             "6": 35,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 411251,
+        "streak": 12,
+        "matches": 7009,
+        "playtime": 4681157269,
+        "finished": 2436,
+        "finishtime": 1878712210,
+        "won": 3436,
+        "lost": 3179,
+        "forfeited": 804
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
-        "nickname": null,
+        "nickname": "Kxpow",
         "peak": {
             "": 0,
             "1": 1432,
@@ -2997,18 +2997,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 475558,
+        "streak": 12,
+        "matches": 313,
+        "playtime": 200749747,
+        "finished": 150,
+        "finishtime": 110187880,
+        "won": 204,
+        "lost": 102,
+        "forfeited": 47
     },
     "9c724d7793094a76a8bc9d30f397df92": {
-        "nickname": null,
+        "nickname": "Javierixmon",
         "peak": {
             "": 0,
             "1": 1924,
@@ -3029,18 +3029,18 @@
             "6": 10,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 504184,
+        "streak": 18,
+        "matches": 2764,
+        "playtime": 1830637122,
+        "finished": 896,
+        "finishtime": 725581924,
+        "won": 1443,
+        "lost": 1242,
+        "forfeited": 564
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
-        "nickname": null,
+        "nickname": "TUDORULE",
         "peak": {
             "": 0,
             "1": 1633,
@@ -3061,18 +3061,18 @@
             "6": 110,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 441118,
+        "streak": 10,
+        "matches": 4674,
+        "playtime": 2939121375,
+        "finished": 1599,
+        "finishtime": 1199234683,
+        "won": 2353,
+        "lost": 2093,
+        "forfeited": 789
     },
     "00f996cd910f479ba0903d85c2bdb1e0": {
-        "nickname": null,
+        "nickname": "Bloonskiller",
         "peak": {
             "": 0,
             "1": 1544,
@@ -3093,18 +3093,18 @@
             "6": 75,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 427728,
+        "streak": 13,
+        "matches": 2837,
+        "playtime": 1851599690,
+        "finished": 1022,
+        "finishtime": 774384877,
+        "won": 1438,
+        "lost": 1333,
+        "forfeited": 385
     },
     "da1d85337d244f789d60b009e1e2b346": {
-        "nickname": null,
+        "nickname": "Mauvu",
         "peak": {
             "": 0,
             "1": 1649,
@@ -3125,18 +3125,18 @@
             "6": 0,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 519860,
+        "streak": 12,
+        "matches": 197,
+        "playtime": 121098772,
+        "finished": 95,
+        "finishtime": 69147917,
+        "won": 139,
+        "lost": 54,
+        "forfeited": 33
     },
     "fdff6a3e88054664974dbcd30583fe81": {
-        "nickname": null,
+        "nickname": "Finnitzko",
         "peak": {
             "": 0,
             "1": 1617,
@@ -3157,15 +3157,15 @@
             "6": 40,
             "7": 0
         },
-        "pb": null,
-        "streak": null,
-        "matches": null,
-        "playtime": null,
-        "finished": null,
-        "finishtime": null,
-        "won": null,
-        "lost": null,
-        "forfeited": null
+        "pb": 443342,
+        "streak": 10,
+        "matches": 4341,
+        "playtime": 2971998520,
+        "finished": 1409,
+        "finishtime": 1134906671,
+        "won": 2171,
+        "lost": 2006,
+        "forfeited": 491
     },
     "0b08bb3e9b4f4e3c9bbdbf32c8f046b0": {
         "nickname": "_loro1",
