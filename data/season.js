@@ -1,5 +1,5 @@
 {
-    "date": 1736113293000,
+    "date": 1736114177000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -17430,21 +17430,35 @@
             "nickname": "Waluyoshi",
             "stats": {
                 "rank": 9,
-                "elo": 1718,
+                "elo": 1731,
                 "peak": 1783,
                 "points": 0,
                 "pb": 411251,
-                "current": 3,
+                "current": 4,
                 "streak": 6,
-                "matches": 258,
-                "playtime": 157549809,
-                "finished": 108,
-                "finishtime": 74948387,
-                "won": 136,
+                "matches": 259,
+                "playtime": 158149949,
+                "finished": 109,
+                "finishtime": 75548527,
+                "won": 137,
                 "lost": 105,
                 "forfeited": 35
             },
             "matches": [
+                {
+                    "date": 1736113875000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "AntiCheeat",
+                    "elo": 1731,
+                    "change": 13,
+                    "oelo": 1510,
+                    "ochange": -13,
+                    "time": 600140,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736112210000,
                     "type": "DESERT_TEMPLE",
