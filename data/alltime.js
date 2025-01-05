@@ -771,12 +771,12 @@
         },
         "pb": 566523,
         "streak": 10,
-        "matches": 1566,
-        "playtime": 1164988192,
+        "matches": 1567,
+        "playtime": 1165761663,
         "finished": 555,
         "finishtime": 474349694,
         "won": 840,
-        "lost": 700,
+        "lost": 701,
         "forfeited": 82
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
@@ -1791,12 +1791,12 @@
         },
         "pb": 569335,
         "streak": 10,
-        "matches": 1118,
-        "playtime": 843075463,
+        "matches": 1119,
+        "playtime": 843704455,
         "finished": 354,
         "finishtime": 302132326,
         "won": 602,
-        "lost": 477,
+        "lost": 478,
         "forfeited": 11
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -2348,7 +2348,7 @@
             "4": 1861,
             "5": 1814,
             "6": 2035,
-            "7": 1431
+            "7": 1455
         },
         "points": {
             "1": 0,
@@ -2361,11 +2361,11 @@
         },
         "pb": 498416,
         "streak": 9,
-        "matches": 516,
-        "playtime": 330958265,
-        "finished": 219,
-        "finishtime": 165288117,
-        "won": 318,
+        "matches": 517,
+        "playtime": 331587257,
+        "finished": 220,
+        "finishtime": 165917109,
+        "won": 319,
         "lost": 177,
         "forfeited": 46
     },
@@ -2421,13 +2421,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 6574,
-        "playtime": 4248881674,
+        "matches": 6575,
+        "playtime": 4249107464,
         "finished": 2291,
         "finishtime": 1789944216,
         "won": 3263,
-        "lost": 3088,
-        "forfeited": 1126
+        "lost": 3089,
+        "forfeited": 1127
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
@@ -2511,13 +2511,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2283,
-        "playtime": 1567492408,
+        "matches": 2285,
+        "playtime": 1568181428,
         "finished": 629,
         "finishtime": 546930631,
-        "won": 1125,
-        "lost": 1050,
-        "forfeited": 441
+        "won": 1126,
+        "lost": 1051,
+        "forfeited": 442
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
         "nickname": "PEDRAOIMENSO",
@@ -2798,7 +2798,7 @@
             "4": 2019,
             "5": 1790,
             "6": 0,
-            "7": 1510
+            "7": 1526
         },
         "points": {
             "1": 0,
@@ -2811,11 +2811,11 @@
         },
         "pb": 475558,
         "streak": 12,
-        "matches": 327,
-        "playtime": 207301865,
-        "finished": 155,
-        "finishtime": 113548172,
-        "won": 213,
+        "matches": 328,
+        "playtime": 207906932,
+        "finished": 156,
+        "finishtime": 114153239,
+        "won": 214,
         "lost": 106,
         "forfeited": 50
     },
@@ -3561,12 +3561,12 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 3946,
-        "playtime": 2719621433,
+        "matches": 3947,
+        "playtime": 2720295073,
         "finished": 1298,
         "finishtime": 1036999142,
         "won": 1977,
-        "lost": 1830,
+        "lost": 1831,
         "forfeited": 410
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
@@ -4071,11 +4071,11 @@
         },
         "pb": 489082,
         "streak": 13,
-        "matches": 1740,
-        "playtime": 1040018288,
+        "matches": 1741,
+        "playtime": 1040022249,
         "finished": 389,
         "finishtime": 327801552,
-        "won": 879,
+        "won": 880,
         "lost": 804,
         "forfeited": 635
     },
@@ -4131,12 +4131,12 @@
         },
         "pb": 486779,
         "streak": 13,
-        "matches": 2026,
-        "playtime": 1409111629,
+        "matches": 2028,
+        "playtime": 1409935894,
         "finished": 594,
         "finishtime": 499125708,
-        "won": 989,
-        "lost": 919,
+        "won": 990,
+        "lost": 920,
         "forfeited": 215
     },
     "70e94474db714b489b03af782a4140e9": {
