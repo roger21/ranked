@@ -981,13 +981,13 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1146,
-        "playtime": 742463387,
+        "matches": 1147,
+        "playtime": 742729667,
         "finished": 406,
         "finishtime": 317776418,
         "won": 625,
-        "lost": 459,
-        "forfeited": 157
+        "lost": 460,
+        "forfeited": 158
     },
     "4427794ee7ad48bc9b53c156fa4092e1": {
         "nickname": "kW1st",
@@ -3531,11 +3531,11 @@
         },
         "pb": 455363,
         "streak": 11,
-        "matches": 774,
-        "playtime": 495452673,
-        "finished": 326,
-        "finishtime": 226213751,
-        "won": 434,
+        "matches": 775,
+        "playtime": 496182686,
+        "finished": 327,
+        "finishtime": 226943764,
+        "won": 435,
         "lost": 324,
         "forfeited": 31
     },
@@ -3681,12 +3681,12 @@
         },
         "pb": 481444,
         "streak": 9,
-        "matches": 2729,
-        "playtime": 1565034481,
+        "matches": 2730,
+        "playtime": 1565764494,
         "finished": 943,
         "finishtime": 663361582,
         "won": 1391,
-        "lost": 1275,
+        "lost": 1276,
         "forfeited": 798
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
@@ -4238,7 +4238,7 @@
             "4": 1558,
             "5": 1627,
             "6": 1849,
-            "7": 1537
+            "7": 1547
         },
         "points": {
             "1": 0,
@@ -4251,11 +4251,11 @@
         },
         "pb": 484915,
         "streak": 14,
-        "matches": 3756,
-        "playtime": 2313542288,
+        "matches": 3757,
+        "playtime": 2313808568,
         "finished": 1087,
         "finishtime": 923136996,
-        "won": 1867,
+        "won": 1868,
         "lost": 1713,
         "forfeited": 1020
     }
