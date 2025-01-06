@@ -1,5 +1,5 @@
 {
-    "date": 1736191630000,
+    "date": 1736192498000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -6190,21 +6190,35 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 4,
-                "elo": 1839,
-                "peak": 1839,
+                "elo": 1853,
+                "peak": 1853,
                 "points": 0,
                 "pb": 478724,
-                "current": 6,
+                "current": 7,
                 "streak": 7,
-                "matches": 286,
-                "playtime": 166755955,
-                "finished": 139,
-                "finishtime": 87882045,
-                "won": 157,
+                "matches": 287,
+                "playtime": 167300198,
+                "finished": 140,
+                "finishtime": 88426288,
+                "won": 158,
                 "lost": 120,
                 "forfeited": 27
             },
             "matches": [
+                {
+                    "date": 1736192137000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "romuxii",
+                    "elo": 1853,
+                    "change": 14,
+                    "oelo": 1661,
+                    "ochange": -14,
+                    "time": 544243,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736190019000,
                     "type": "RUINED_PORTAL",
@@ -26493,22 +26507,36 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 14,
-                "elo": 1675,
+                "rank": 15,
+                "elo": 1661,
                 "peak": 1826,
                 "points": 0,
                 "pb": 458426,
                 "current": 0,
                 "streak": 8,
-                "matches": 282,
-                "playtime": 179310997,
+                "matches": 283,
+                "playtime": 179855240,
                 "finished": 122,
                 "finishtime": 77166413,
                 "won": 141,
-                "lost": 119,
+                "lost": 120,
                 "forfeited": 1
             },
             "matches": [
+                {
+                    "date": 1736192137000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1661,
+                    "change": -14,
+                    "oelo": 1853,
+                    "ochange": 14,
+                    "time": 544243,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736191484000,
                     "type": "BURIED_TREASURE",
