@@ -981,13 +981,13 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1147,
-        "playtime": 742729667,
-        "finished": 406,
-        "finishtime": 317776418,
-        "won": 625,
-        "lost": 460,
-        "forfeited": 158
+        "matches": 1150,
+        "playtime": 744485555,
+        "finished": 408,
+        "finishtime": 319377269,
+        "won": 627,
+        "lost": 461,
+        "forfeited": 159
     },
     "4427794ee7ad48bc9b53c156fa4092e1": {
         "nickname": "kW1st",
