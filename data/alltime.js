@@ -1161,13 +1161,13 @@
         },
         "pb": 474179,
         "streak": 18,
-        "matches": 3861,
-        "playtime": 2534005892,
+        "matches": 3862,
+        "playtime": 2534412058,
         "finished": 1423,
         "finishtime": 1074941196,
         "won": 2010,
-        "lost": 1766,
-        "forfeited": 541
+        "lost": 1767,
+        "forfeited": 542
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "nwolc",
