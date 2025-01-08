@@ -1,5 +1,5 @@
 {
-    "date": 1736357642000,
+    "date": 1736358142000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -81004,8 +81004,8 @@
                 "pb": 570643,
                 "current": 1,
                 "streak": 6,
-                "matches": 127,
-                "playtime": 89005437,
+                "matches": 128,
+                "playtime": 89410388,
                 "finished": 49,
                 "finishtime": 38749072,
                 "won": 67,
@@ -81013,6 +81013,20 @@
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736358168000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "Maraico",
+                    "elo": 1561,
+                    "change": 0,
+                    "oelo": 1537,
+                    "ochange": 0,
+                    "time": 404951,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1736357454000,
                     "type": "VILLAGE",
