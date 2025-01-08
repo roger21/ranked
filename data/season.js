@@ -1,5 +1,5 @@
 {
-    "date": 1736332084000,
+    "date": 1736333034000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -1470,21 +1470,35 @@
             "nickname": "7rowl",
             "stats": {
                 "rank": 2,
-                "elo": 1925,
-                "peak": 1925,
+                "elo": 1938,
+                "peak": 1938,
                 "points": 0,
                 "pb": 486367,
-                "current": 5,
+                "current": 6,
                 "streak": 11,
-                "matches": 83,
-                "playtime": 51529994,
-                "finished": 53,
-                "finishtime": 33878613,
-                "won": 59,
+                "matches": 84,
+                "playtime": 52210426,
+                "finished": 54,
+                "finishtime": 34559045,
+                "won": 60,
                 "lost": 24,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736332397000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 1938,
+                    "change": 13,
+                    "oelo": 1701,
+                    "ochange": -13,
+                    "time": 680432,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736180159000,
                     "type": "RUINED_PORTAL",
@@ -23578,21 +23592,35 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 11,
-                "elo": 1714,
+                "elo": 1701,
                 "peak": 1722,
                 "points": 0,
                 "pb": 449909,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
-                "matches": 112,
-                "playtime": 67889971,
+                "matches": 113,
+                "playtime": 68570403,
                 "finished": 52,
                 "finishtime": 34871042,
                 "won": 64,
-                "lost": 44,
+                "lost": 45,
                 "forfeited": 10
             },
             "matches": [
+                {
+                    "date": 1736332397000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "7rowl",
+                    "elo": 1701,
+                    "change": -13,
+                    "oelo": 1938,
+                    "ochange": 13,
+                    "time": 680432,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736331480000,
                     "type": "RUINED_PORTAL",
