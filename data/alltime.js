@@ -2511,13 +2511,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2333,
-        "playtime": 1596903537,
+        "matches": 2334,
+        "playtime": 1597581656,
         "finished": 638,
         "finishtime": 554198536,
         "won": 1145,
-        "lost": 1076,
-        "forfeited": 456
+        "lost": 1077,
+        "forfeited": 457
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
         "nickname": "PEDRAOIMENSO",
@@ -3891,12 +3891,12 @@
         },
         "pb": 439581,
         "streak": 12,
-        "matches": 3310,
-        "playtime": 2039995609,
+        "matches": 3311,
+        "playtime": 2040919745,
         "finished": 1076,
         "finishtime": 829370031,
         "won": 1621,
-        "lost": 1537,
+        "lost": 1538,
         "forfeited": 907
     },
     "a0a672a0bc194540bc195220dc170dba": {
