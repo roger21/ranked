@@ -1,5 +1,5 @@
 {
-    "date": 1736330173000,
+    "date": 1736332084000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -23578,21 +23578,35 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 11,
-                "elo": 1701,
+                "elo": 1714,
                 "peak": 1722,
                 "points": 0,
                 "pb": 449909,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 111,
-                "playtime": 67371951,
-                "finished": 51,
-                "finishtime": 34353022,
-                "won": 63,
+                "matches": 112,
+                "playtime": 67889971,
+                "finished": 52,
+                "finishtime": 34871042,
+                "won": 64,
                 "lost": 44,
                 "forfeited": 10
             },
             "matches": [
+                {
+                    "date": 1736331480000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ThaShape",
+                    "elo": 1714,
+                    "change": 13,
+                    "oelo": 1480,
+                    "ochange": -13,
+                    "time": 518020,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736076099000,
                     "type": "BURIED_TREASURE",
