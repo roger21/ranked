@@ -81,12 +81,12 @@
         },
         "pb": 414674,
         "streak": 35,
-        "matches": 5401,
-        "playtime": 3163040353,
-        "finished": 2548,
-        "finishtime": 1768626323,
-        "won": 3400,
-        "lost": 1949,
+        "matches": 5403,
+        "playtime": 3164289003,
+        "finished": 2549,
+        "finishtime": 1769192302,
+        "won": 3401,
+        "lost": 1950,
         "forfeited": 964
     },
     "56714245be364bd1a469d0853552c109": {
@@ -1761,12 +1761,12 @@
         },
         "pb": 560752,
         "streak": 12,
-        "matches": 1196,
-        "playtime": 884927654,
+        "matches": 1197,
+        "playtime": 885642734,
         "finished": 400,
         "finishtime": 348907419,
         "won": 647,
-        "lost": 513,
+        "lost": 514,
         "forfeited": 89
     },
     "e691063a2afc4c47ac987c0f307297ad": {
@@ -2511,13 +2511,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2326,
-        "playtime": 1592887013,
-        "finished": 636,
-        "finishtime": 552689594,
-        "won": 1143,
-        "lost": 1074,
-        "forfeited": 454
+        "matches": 2328,
+        "playtime": 1594026438,
+        "finished": 637,
+        "finishtime": 553312836,
+        "won": 1144,
+        "lost": 1075,
+        "forfeited": 455
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
         "nickname": "PEDRAOIMENSO",
@@ -3231,12 +3231,12 @@
         },
         "pb": 499502,
         "streak": 11,
-        "matches": 2876,
-        "playtime": 1998154803,
+        "matches": 2877,
+        "playtime": 1998720782,
         "finished": 844,
         "finishtime": 687960088,
         "won": 1418,
-        "lost": 1315,
+        "lost": 1316,
         "forfeited": 282
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -3998,7 +3998,7 @@
             "4": 1710,
             "5": 1618,
             "6": 1633,
-            "7": 1606
+            "7": 1649
         },
         "points": {
             "1": 0,
@@ -4011,11 +4011,11 @@
         },
         "pb": 481051,
         "streak": 14,
-        "matches": 1692,
-        "playtime": 1208139264,
-        "finished": 502,
-        "finishtime": 434895000,
-        "won": 865,
+        "matches": 1694,
+        "playtime": 1208986580,
+        "finished": 503,
+        "finishtime": 435577671,
+        "won": 867,
         "lost": 754,
         "forfeited": 202
     },
