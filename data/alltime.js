@@ -2481,13 +2481,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1428,
-        "playtime": 956257347,
-        "finished": 479,
-        "finishtime": 394573995,
-        "won": 755,
-        "lost": 628,
-        "forfeited": 249
+        "matches": 1430,
+        "playtime": 957618383,
+        "finished": 480,
+        "finishtime": 395379684,
+        "won": 756,
+        "lost": 629,
+        "forfeited": 250
     },
     "83518e9927244f319f7175f3ff7609a1": {
         "nickname": "furk1e",
@@ -3981,12 +3981,12 @@
         },
         "pb": 473760,
         "streak": 12,
-        "matches": 1874,
-        "playtime": 1207524487,
+        "matches": 1876,
+        "playtime": 1209309215,
         "finished": 511,
         "finishtime": 402087790,
         "won": 941,
-        "lost": 842,
+        "lost": 843,
         "forfeited": 278
     },
     "fe6771646c5d43c1b713023fb69c10c6": {
