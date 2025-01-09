@@ -2348,7 +2348,7 @@
             "4": 1861,
             "5": 1814,
             "6": 2035,
-            "7": 1472
+            "7": 1491
         },
         "points": {
             "1": 0,
@@ -2361,13 +2361,13 @@
         },
         "pb": 498416,
         "streak": 9,
-        "matches": 522,
-        "playtime": 335049906,
-        "finished": 223,
-        "finishtime": 168169259,
-        "won": 322,
-        "lost": 179,
-        "forfeited": 47
+        "matches": 524,
+        "playtime": 336540483,
+        "finished": 224,
+        "finishtime": 168806615,
+        "won": 323,
+        "lost": 180,
+        "forfeited": 48
     },
     "0b164a03002048d3955715422179eedf": {
         "nickname": "KenanKardes",
@@ -3231,11 +3231,11 @@
         },
         "pb": 499502,
         "streak": 11,
-        "matches": 2880,
-        "playtime": 2000559872,
+        "matches": 2881,
+        "playtime": 2001413093,
         "finished": 845,
         "finishtime": 688586658,
-        "won": 1420,
+        "won": 1421,
         "lost": 1317,
         "forfeited": 282
     },
@@ -4101,12 +4101,12 @@
         },
         "pb": 500885,
         "streak": 13,
-        "matches": 3518,
-        "playtime": 2410916797,
+        "matches": 3520,
+        "playtime": 2411784812,
         "finished": 971,
         "finishtime": 829537771,
-        "won": 1731,
-        "lost": 1605,
+        "won": 1732,
+        "lost": 1606,
         "forfeited": 703
     },
     "7d3a6bb9f62645ae80cf40840ca84c50": {
