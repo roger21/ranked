@@ -4251,13 +4251,13 @@
         },
         "pb": 484915,
         "streak": 14,
-        "matches": 3768,
-        "playtime": 2320665935,
-        "finished": 1091,
-        "finishtime": 925729187,
-        "won": 1874,
-        "lost": 1718,
-        "forfeited": 1021
+        "matches": 3771,
+        "playtime": 2321502884,
+        "finished": 1092,
+        "finishtime": 926374867,
+        "won": 1876,
+        "lost": 1719,
+        "forfeited": 1022
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
