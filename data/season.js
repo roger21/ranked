@@ -1,5 +1,5 @@
 {
-    "date": 1736421674000,
+    "date": 1736422150000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -57607,22 +57607,36 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 28,
-                "elo": 1629,
+                "rank": 30,
+                "elo": 1615,
                 "peak": 1687,
                 "points": 0,
                 "pb": 499502,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
-                "matches": 109,
-                "playtime": 69760033,
+                "matches": 110,
+                "playtime": 70262217,
                 "finished": 38,
                 "finishtime": 25412420,
                 "won": 55,
-                "lost": 46,
+                "lost": 47,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736422230000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 1615,
+                    "change": -14,
+                    "oelo": 1825,
+                    "ochange": 14,
+                    "time": 502184,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736421604000,
                     "type": "SHIPWRECK",
@@ -59085,7 +59099,7 @@
             "uuid": "540de983ca7d40728a344ee5f8c7a95b",
             "nickname": "C9_H13_NO3_",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1628,
                 "peak": 1628,
                 "points": 0,
@@ -59555,7 +59569,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 1622,
                 "peak": 1642,
                 "points": 0,
