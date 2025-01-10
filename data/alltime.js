@@ -3038,7 +3038,7 @@
             "4": 1906,
             "5": 1703,
             "6": 1768,
-            "7": 1490
+            "7": 1505
         },
         "points": {
             "1": 0,
@@ -3051,11 +3051,11 @@
         },
         "pb": 521587,
         "streak": 11,
-        "matches": 603,
-        "playtime": 418055172,
-        "finished": 249,
-        "finishtime": 192124116,
-        "won": 351,
+        "matches": 604,
+        "playtime": 418779994,
+        "finished": 250,
+        "finishtime": 192848938,
+        "won": 352,
         "lost": 237,
         "forfeited": 34
     },
@@ -3111,11 +3111,11 @@
         },
         "pb": 484180,
         "streak": 13,
-        "matches": 7287,
-        "playtime": 4780615936,
-        "finished": 2383,
-        "finishtime": 1986188371,
-        "won": 3711,
+        "matches": 7288,
+        "playtime": 4781450998,
+        "finished": 2384,
+        "finishtime": 1987023433,
+        "won": 3712,
         "lost": 3424,
         "forfeited": 1797
     },
@@ -4101,13 +4101,13 @@
         },
         "pb": 500885,
         "streak": 13,
-        "matches": 3536,
-        "playtime": 2422236852,
+        "matches": 3537,
+        "playtime": 2422938454,
         "finished": 975,
         "finishtime": 832440680,
         "won": 1737,
-        "lost": 1617,
-        "forfeited": 703
+        "lost": 1618,
+        "forfeited": 704
     },
     "7d3a6bb9f62645ae80cf40840ca84c50": {
         "nickname": "Frigbob",
