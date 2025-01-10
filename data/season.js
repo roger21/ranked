@@ -1,5 +1,5 @@
 {
-    "date": 1736544203000,
+    "date": 1736544698000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -72829,7 +72829,7 @@
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1578,
                 "peak": 1582,
                 "points": 0,
@@ -73775,7 +73775,7 @@
             "uuid": "0388b80ebe6c4216b4a8305c0cd27894",
             "nickname": "tommorerow",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1576,
                 "peak": 1623,
                 "points": 0,
@@ -75337,7 +75337,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1576,
                 "peak": 1629,
                 "points": 0,
@@ -75653,22 +75653,36 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 42,
-                "elo": 1574,
+                "rank": 50,
+                "elo": 1554,
                 "peak": 1606,
                 "points": 0,
                 "pb": 560372,
-                "current": 2,
+                "current": 0,
                 "streak": 6,
-                "matches": 102,
-                "playtime": 71737729,
+                "matches": 103,
+                "playtime": 72356352,
                 "finished": 47,
                 "finishtime": 36397677,
                 "won": 54,
-                "lost": 46,
+                "lost": 47,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736544729000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "jonahhhhhhhh",
+                    "elo": 1554,
+                    "change": -20,
+                    "oelo": 1581,
+                    "ochange": 20,
+                    "time": 618623,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736543960000,
                     "type": "SHIPWRECK",
@@ -81895,22 +81909,36 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 47,
-                "elo": 1561,
+                "rank": 39,
+                "elo": 1581,
                 "peak": 1632,
                 "points": 0,
                 "pb": 490949,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 481,
-                "playtime": 255884490,
-                "finished": 185,
-                "finishtime": 123790404,
-                "won": 248,
+                "matches": 482,
+                "playtime": 256503113,
+                "finished": 186,
+                "finishtime": 124409027,
+                "won": 249,
                 "lost": 227,
                 "forfeited": 151
             },
             "matches": [
+                {
+                    "date": 1736544729000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "danterus",
+                    "elo": 1581,
+                    "change": 20,
+                    "oelo": 1554,
+                    "ochange": -20,
+                    "time": 618623,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736544063000,
                     "type": "BURIED_TREASURE",
@@ -88581,7 +88609,7 @@
             "uuid": "4eea0516cb0c4c528cefe85448cac786",
             "nickname": "blobserr",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1558,
                 "peak": 1558,
                 "points": 0,
@@ -90297,7 +90325,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1558,
                 "peak": 1558,
                 "points": 0,
@@ -90823,7 +90851,7 @@
             "uuid": "b1e69ebb9854410dacd114526c7e2775",
             "nickname": "Elekid1",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1558,
                 "peak": 1641,
                 "points": 0,
