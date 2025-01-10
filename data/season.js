@@ -1,5 +1,5 @@
 {
-    "date": 1736534045000,
+    "date": 1736534861000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -90165,7 +90165,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "Squitsy",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1550,
                 "peak": 1550,
                 "points": 0,
