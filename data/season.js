@@ -1,5 +1,5 @@
 {
-    "date": 1736481379000,
+    "date": 1736483383000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -16197,7 +16197,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 9,
+                "rank": 8,
                 "elo": 1768,
                 "peak": 1797,
                 "points": 0,
@@ -17843,7 +17843,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 10,
+                "rank": 11,
                 "elo": 1763,
                 "peak": 1819,
                 "points": 0,
@@ -19335,22 +19335,36 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 11,
-                "elo": 1745,
+                "rank": 9,
+                "elo": 1767,
                 "peak": 1864,
                 "points": 0,
                 "pb": 474737,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 166,
-                "playtime": 102850894,
+                "matches": 167,
+                "playtime": 103441205,
                 "finished": 84,
                 "finishtime": 53302757,
-                "won": 101,
+                "won": 102,
                 "lost": 60,
                 "forfeited": 1
             },
             "matches": [
+                {
+                    "date": 1736483401000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Ancoboyy",
+                    "elo": 1767,
+                    "change": 22,
+                    "oelo": 1767,
+                    "ochange": -22,
+                    "time": 590311,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1736480593000,
                     "type": "VILLAGE",
@@ -21612,21 +21626,35 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 12,
-                "elo": 1725,
+                "elo": 1738,
                 "peak": 1878,
                 "points": 0,
                 "pb": 447751,
-                "current": 4,
+                "current": 5,
                 "streak": 9,
-                "matches": 375,
-                "playtime": 218274457,
-                "finished": 183,
-                "finishtime": 116320929,
-                "won": 206,
+                "matches": 376,
+                "playtime": 218866880,
+                "finished": 184,
+                "finishtime": 116913352,
+                "won": 207,
                 "lost": 159,
                 "forfeited": 41
             },
             "matches": [
+                {
+                    "date": 1736481901000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Voxio",
+                    "elo": 1738,
+                    "change": 13,
+                    "oelo": 1500,
+                    "ochange": -13,
+                    "time": 592423,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736480593000,
                     "type": "VILLAGE",
