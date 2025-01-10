@@ -1,5 +1,5 @@
 {
-    "date": 1736552502000,
+    "date": 1736553379000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -27752,21 +27752,35 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 13,
-                "elo": 1727,
-                "peak": 1738,
+                "elo": 1740,
+                "peak": 1740,
                 "points": 0,
                 "pb": 499115,
-                "current": 3,
+                "current": 4,
                 "streak": 4,
-                "matches": 51,
-                "playtime": 29548092,
-                "finished": 24,
-                "finishtime": 14878402,
-                "won": 32,
+                "matches": 52,
+                "playtime": 30124576,
+                "finished": 25,
+                "finishtime": 15454886,
+                "won": 33,
                 "lost": 18,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736552737000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "danterus",
+                    "elo": 1740,
+                    "change": 13,
+                    "oelo": 1497,
+                    "ochange": -13,
+                    "time": 576484,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736551995000,
                     "type": "RUINED_PORTAL",
@@ -58958,21 +58972,35 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 27,
-                "elo": 1630,
+                "elo": 1644,
                 "peak": 1767,
                 "points": 0,
                 "pb": 498625,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 71,
-                "playtime": 44958219,
-                "finished": 33,
-                "finishtime": 21766565,
-                "won": 38,
+                "matches": 72,
+                "playtime": 45539801,
+                "finished": 34,
+                "finishtime": 22348147,
+                "won": 39,
                 "lost": 29,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736552618000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Voxio",
+                    "elo": 1644,
+                    "change": 14,
+                    "oelo": 1455,
+                    "ochange": -14,
+                    "time": 581582,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736551690000,
                     "type": "BURIED_TREASURE",
