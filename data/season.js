@@ -1,5 +1,5 @@
 {
-    "date": 1736605995000,
+    "date": 1736606508000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -93946,14 +93946,14 @@
             "nickname": "JustAltoid",
             "stats": {
                 "rank": 50,
-                "elo": 1565,
+                "elo": 1564,
                 "peak": 1597,
                 "points": 0,
                 "pb": 500885,
                 "current": 1,
                 "streak": 8,
-                "matches": 261,
-                "playtime": 180898340,
+                "matches": 262,
+                "playtime": 181520310,
                 "finished": 111,
                 "finishtime": 80285114,
                 "won": 136,
@@ -93961,6 +93961,20 @@
                 "forfeited": 9
             },
             "matches": [
+                {
+                    "date": 1736606348000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "Japonk86",
+                    "elo": 1564,
+                    "change": -1,
+                    "oelo": 1469,
+                    "ochange": 1,
+                    "time": 621970,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1736604968000,
                     "type": "SHIPWRECK",
