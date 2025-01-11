@@ -1,5 +1,5 @@
 {
-    "date": 1736573049000,
+    "date": 1736573716000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -36856,21 +36856,35 @@
             "nickname": "SammmyG",
             "stats": {
                 "rank": 17,
-                "elo": 1678,
-                "peak": 1678,
+                "elo": 1690,
+                "peak": 1690,
                 "points": 0,
                 "pb": 470930,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 125,
-                "playtime": 83266584,
-                "finished": 51,
-                "finishtime": 36036632,
-                "won": 69,
+                "matches": 126,
+                "playtime": 83939332,
+                "finished": 52,
+                "finishtime": 36709380,
+                "won": 70,
                 "lost": 47,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736573615000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "centuriee",
+                    "elo": 1690,
+                    "change": 12,
+                    "oelo": 1446,
+                    "ochange": -12,
+                    "time": 672748,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736415996000,
                     "type": "RUINED_PORTAL",
@@ -38557,7 +38571,7 @@
             "uuid": "0f48f3d94d154d38b0ec3fa17f9f51b9",
             "nickname": "AntiCheeat",
             "stats": {
-                "rank": 17,
+                "rank": 18,
                 "elo": 1678,
                 "peak": 1678,
                 "points": 0,
