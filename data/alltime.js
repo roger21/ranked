@@ -2511,12 +2511,12 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2347,
-        "playtime": 1608456569,
+        "matches": 2348,
+        "playtime": 1609290960,
         "finished": 647,
         "finishtime": 562113018,
         "won": 1155,
-        "lost": 1079,
+        "lost": 1080,
         "forfeited": 458
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
@@ -4221,13 +4221,13 @@
         },
         "pb": 511216,
         "streak": 10,
-        "matches": 3018,
-        "playtime": 2153932243,
+        "matches": 3019,
+        "playtime": 2154531898,
         "finished": 940,
         "finishtime": 842867999,
         "won": 1534,
-        "lost": 1379,
-        "forfeited": 538
+        "lost": 1380,
+        "forfeited": 539
     },
     "f2e05ad464b54d288fa18da14e9a2786": {
         "nickname": "LEC666888",
