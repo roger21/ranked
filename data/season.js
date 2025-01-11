@@ -1,5 +1,5 @@
 {
-    "date": 1736567782000,
+    "date": 1736569738000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -23858,21 +23858,35 @@
             "nickname": "MrBudgiee",
             "stats": {
                 "rank": 11,
-                "elo": 1754,
+                "elo": 1767,
                 "peak": 1864,
                 "points": 0,
                 "pb": 474737,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 175,
-                "playtime": 108300390,
-                "finished": 87,
-                "finishtime": 55082597,
-                "won": 106,
+                "matches": 176,
+                "playtime": 109069826,
+                "finished": 88,
+                "finishtime": 55852033,
+                "won": 107,
                 "lost": 63,
                 "forfeited": 1
             },
             "matches": [
+                {
+                    "date": 1736568491000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "BlazeMind",
+                    "elo": 1767,
+                    "change": 13,
+                    "oelo": 1534,
+                    "ochange": -13,
+                    "time": 769436,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736567019000,
                     "type": "BURIED_TREASURE",
