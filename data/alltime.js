@@ -218,7 +218,7 @@
             "4": 2322,
             "5": 2338,
             "6": 2475,
-            "7": 2084
+            "7": 2091
         },
         "points": {
             "1": 0,
@@ -231,11 +231,11 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5084,
-        "playtime": 3275344161,
+        "matches": 5085,
+        "playtime": 3275614809,
         "finished": 2600,
         "finishtime": 1771538036,
-        "won": 3337,
+        "won": 3338,
         "lost": 1601,
         "forfeited": 181
     },
@@ -1161,13 +1161,13 @@
         },
         "pb": 474179,
         "streak": 18,
-        "matches": 3913,
-        "playtime": 2566426716,
+        "matches": 3914,
+        "playtime": 2566697364,
         "finished": 1445,
         "finishtime": 1089438187,
         "won": 2039,
-        "lost": 1788,
-        "forfeited": 545
+        "lost": 1789,
+        "forfeited": 546
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "nwolc",

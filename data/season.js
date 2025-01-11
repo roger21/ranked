@@ -1,26 +1,40 @@
 {
-    "date": 1736587441000,
+    "date": 1736587913000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 1,
-                "elo": 2084,
-                "peak": 2084,
+                "elo": 2091,
+                "peak": 2091,
                 "points": 0,
                 "pb": 437634,
-                "current": 9,
-                "streak": 9,
-                "matches": 114,
-                "playtime": 66018121,
+                "current": 10,
+                "streak": 10,
+                "matches": 115,
+                "playtime": 66288769,
                 "finished": 82,
                 "finishtime": 47694175,
-                "won": 89,
+                "won": 90,
                 "lost": 23,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736587681000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Ranik_",
+                    "elo": 2091,
+                    "change": 7,
+                    "oelo": 1637,
+                    "ochange": -7,
+                    "time": 270648,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1736587303000,
                     "type": "BURIED_TREASURE",
@@ -50100,21 +50114,35 @@
             "nickname": "Ranik_",
             "stats": {
                 "rank": 24,
-                "elo": 1644,
+                "elo": 1637,
                 "peak": 1715,
                 "points": 0,
                 "pb": 499857,
                 "current": 0,
                 "streak": 6,
-                "matches": 230,
-                "playtime": 138202186,
+                "matches": 231,
+                "playtime": 138472834,
                 "finished": 97,
                 "finishtime": 63343486,
                 "won": 120,
-                "lost": 108,
-                "forfeited": 27
+                "lost": 109,
+                "forfeited": 28
             },
             "matches": [
+                {
+                    "date": 1736587681000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 1637,
+                    "change": -7,
+                    "oelo": 2091,
+                    "ochange": 7,
+                    "time": 270648,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1736586995000,
                     "type": "DESERT_TEMPLE",
