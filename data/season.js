@@ -1,5 +1,5 @@
 {
-    "date": 1736580116000,
+    "date": 1736580543000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -36870,21 +36870,35 @@
             "nickname": "dandannyboy",
             "stats": {
                 "rank": 17,
-                "elo": 1679,
+                "elo": 1691,
                 "peak": 1775,
                 "points": 0,
                 "pb": 474254,
-                "current": 1,
+                "current": 2,
                 "streak": 6,
-                "matches": 206,
-                "playtime": 131406191,
-                "finished": 101,
-                "finishtime": 66791931,
-                "won": 114,
+                "matches": 207,
+                "playtime": 132092628,
+                "finished": 102,
+                "finishtime": 67478368,
+                "won": 115,
                 "lost": 89,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736580160000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "TrashResolution",
+                    "elo": 1691,
+                    "change": 12,
+                    "oelo": 1424,
+                    "ochange": -12,
+                    "time": 686437,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736578995000,
                     "type": "BURIED_TREASURE",
