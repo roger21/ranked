@@ -1131,11 +1131,11 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 9843,
-        "playtime": 6529327841,
+        "matches": 9844,
+        "playtime": 6529862658,
         "finished": 3990,
         "finishtime": 2923569071,
-        "won": 5466,
+        "won": 5467,
         "lost": 4178,
         "forfeited": 651
     },
@@ -4071,13 +4071,13 @@
         },
         "pb": 470445,
         "streak": 13,
-        "matches": 1793,
-        "playtime": 1067442560,
+        "matches": 1794,
+        "playtime": 1067977377,
         "finished": 407,
         "finishtime": 339134730,
         "won": 907,
-        "lost": 828,
-        "forfeited": 647
+        "lost": 829,
+        "forfeited": 648
     },
     "d7d0b271136647fea7398a444ab51c13": {
         "nickname": "JustAltoid",
