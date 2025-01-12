@@ -2421,13 +2421,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 6638,
-        "playtime": 4285085640,
+        "matches": 6639,
+        "playtime": 4285295037,
         "finished": 2317,
         "finishtime": 1808782503,
         "won": 3299,
-        "lost": 3113,
-        "forfeited": 1143
+        "lost": 3114,
+        "forfeited": 1144
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
@@ -2751,11 +2751,11 @@
         },
         "pb": 489071,
         "streak": 8,
-        "matches": 3107,
-        "playtime": 2112431744,
+        "matches": 3108,
+        "playtime": 2112796337,
         "finished": 994,
         "finishtime": 790307736,
-        "won": 1570,
+        "won": 1571,
         "lost": 1455,
         "forfeited": 462
     },
@@ -3248,7 +3248,7 @@
             "4": 0,
             "5": 1916,
             "6": 2022,
-            "7": 1630
+            "7": 1652
         },
         "points": {
             "1": 0,
@@ -3261,11 +3261,11 @@
         },
         "pb": 455421,
         "streak": 11,
-        "matches": 989,
-        "playtime": 589125616,
+        "matches": 990,
+        "playtime": 589380425,
         "finished": 400,
         "finishtime": 284956854,
-        "won": 531,
+        "won": 532,
         "lost": 440,
         "forfeited": 244
     },
@@ -3591,11 +3591,11 @@
         },
         "pb": 495225,
         "streak": 11,
-        "matches": 2190,
-        "playtime": 1587039594,
+        "matches": 2191,
+        "playtime": 1587248991,
         "finished": 674,
         "finishtime": 585077632,
-        "won": 1098,
+        "won": 1099,
         "lost": 979,
         "forfeited": 201
     },
@@ -3681,13 +3681,13 @@
         },
         "pb": 481444,
         "streak": 9,
-        "matches": 2851,
-        "playtime": 1628134099,
+        "matches": 2852,
+        "playtime": 1628388908,
         "finished": 992,
         "finishtime": 695189635,
         "won": 1458,
-        "lost": 1330,
-        "forfeited": 835
+        "lost": 1331,
+        "forfeited": 836
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
