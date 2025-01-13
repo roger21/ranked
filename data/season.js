@@ -1,5 +1,5 @@
 {
-    "date": 1736775344000,
+    "date": 1736775869000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -79532,14 +79532,14 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 35,
-                "elo": 1609,
+                "elo": 1608,
                 "peak": 1626,
                 "points": 0,
                 "pb": 446358,
                 "current": 1,
                 "streak": 5,
-                "matches": 152,
-                "playtime": 90948414,
+                "matches": 153,
+                "playtime": 91389189,
                 "finished": 57,
                 "finishtime": 38645160,
                 "won": 78,
@@ -79547,6 +79547,20 @@
                 "forfeited": 16
             },
             "matches": [
+                {
+                    "date": 1736775452000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "LEC666888",
+                    "elo": 1608,
+                    "change": -1,
+                    "oelo": 1541,
+                    "ochange": 1,
+                    "time": 440775,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1736774898000,
                     "type": "DESERT_TEMPLE",
@@ -81611,7 +81625,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1608,
                 "peak": 1680,
                 "points": 0,
@@ -82739,7 +82753,7 @@
             "uuid": "7e7bea2031764e74ada950a5dcb5a0bc",
             "nickname": "OG_MineMan",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1608,
                 "peak": 1630,
                 "points": 0,
@@ -84161,7 +84175,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "AkaStu",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1608,
                 "peak": 1608,
                 "points": 0,
