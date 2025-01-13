@@ -201,12 +201,12 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 4112,
-        "playtime": 2631998250,
+        "matches": 4114,
+        "playtime": 2633309519,
         "finished": 1729,
         "finishtime": 1239601683,
         "won": 2253,
-        "lost": 1794,
+        "lost": 1796,
         "forfeited": 560
     },
     "7665f76f431b41c6b321bea16aff913b": {
@@ -3308,7 +3308,7 @@
             "4": 1771,
             "5": 2018,
             "6": 2116,
-            "7": 1729
+            "7": 1735
         },
         "points": {
             "1": 0,
@@ -3321,11 +3321,11 @@
         },
         "pb": 439961,
         "streak": 9,
-        "matches": 2692,
-        "playtime": 1614615115,
-        "finished": 999,
-        "finishtime": 696630271,
-        "won": 1339,
+        "matches": 2693,
+        "playtime": 1615274871,
+        "finished": 1000,
+        "finishtime": 697290027,
+        "won": 1340,
         "lost": 1215,
         "forfeited": 541
     },
@@ -4251,13 +4251,13 @@
         },
         "pb": 484915,
         "streak": 14,
-        "matches": 3836,
-        "playtime": 2357888109,
-        "finished": 1115,
-        "finishtime": 943936476,
-        "won": 1905,
-        "lost": 1753,
-        "forfeited": 1039
+        "matches": 3838,
+        "playtime": 2359007177,
+        "finished": 1116,
+        "finishtime": 944566480,
+        "won": 1906,
+        "lost": 1754,
+        "forfeited": 1040
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
