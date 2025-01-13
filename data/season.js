@@ -1,5 +1,5 @@
 {
-    "date": 1736743568000,
+    "date": 1736744180000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -35874,21 +35874,35 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 15,
-                "elo": 1713,
+                "elo": 1726,
                 "peak": 1729,
                 "points": 0,
                 "pb": 451750,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 211,
-                "playtime": 124820729,
-                "finished": 86,
-                "finishtime": 53871095,
-                "won": 104,
+                "matches": 212,
+                "playtime": 125375808,
+                "finished": 87,
+                "finishtime": 54426174,
+                "won": 105,
                 "lost": 80,
                 "forfeited": 21
             },
             "matches": [
+                {
+                    "date": 1736743699000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "tommorerow",
+                    "elo": 1726,
+                    "change": 13,
+                    "oelo": 1510,
+                    "ochange": -13,
+                    "time": 555079,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736742642000,
                     "type": "DESERT_TEMPLE",
