@@ -1,5 +1,5 @@
 {
-    "date": 1736864657000,
+    "date": 1736865419000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -58093,7 +58093,7 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 1656,
                 "peak": 1775,
                 "points": 0,
@@ -61265,7 +61265,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1642,
                 "peak": 1767,
                 "points": 0,
@@ -62533,22 +62533,36 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 26,
-                "elo": 1638,
-                "peak": 1660,
+                "rank": 23,
+                "elo": 1665,
+                "peak": 1665,
                 "points": 0,
                 "pb": 516982,
-                "current": 3,
+                "current": 4,
                 "streak": 6,
-                "matches": 85,
-                "playtime": 51061579,
-                "finished": 36,
-                "finishtime": 23246057,
-                "won": 42,
+                "matches": 86,
+                "playtime": 51821523,
+                "finished": 37,
+                "finishtime": 24006001,
+                "won": 43,
                 "lost": 35,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736865485000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "v_strid",
+                    "elo": 1665,
+                    "change": 27,
+                    "oelo": 1807,
+                    "ochange": -27,
+                    "time": 759944,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736864528000,
                     "type": "SHIPWRECK",
