@@ -1,5 +1,5 @@
 {
-    "date": 1736844343000,
+    "date": 1736844991000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -76221,7 +76221,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1608,
                 "peak": 1680,
                 "points": 0,
@@ -77349,7 +77349,7 @@
             "uuid": "7e7bea2031764e74ada950a5dcb5a0bc",
             "nickname": "OG_MineMan",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1608,
                 "peak": 1630,
                 "points": 0,
@@ -78771,7 +78771,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "AkaStu",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1608,
                 "peak": 1608,
                 "points": 0,
@@ -79339,7 +79339,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1607,
                 "peak": 1637,
                 "points": 0,
@@ -79711,7 +79711,7 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1606,
                 "peak": 1735,
                 "points": 0,
@@ -81959,7 +81959,7 @@
             "uuid": "d41f0f3caebe45e1bc6a380fedf54ca9",
             "nickname": "boosterruns",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1601,
                 "peak": 1612,
                 "points": 0,
@@ -83073,7 +83073,7 @@
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1598,
                 "peak": 1598,
                 "points": 0,
@@ -84033,7 +84033,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "DziabaDziuba",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1598,
                 "peak": 1668,
                 "points": 0,
@@ -84517,22 +84517,36 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 44,
-                "elo": 1597,
+                "rank": 36,
+                "elo": 1609,
                 "peak": 1767,
                 "points": 0,
                 "pb": 498625,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 91,
-                "playtime": 58162864,
-                "finished": 41,
-                "finishtime": 27266391,
-                "won": 47,
+                "matches": 92,
+                "playtime": 58753114,
+                "finished": 42,
+                "finishtime": 27856641,
+                "won": 48,
                 "lost": 40,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736845086000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "sountse",
+                    "elo": 1609,
+                    "change": 12,
+                    "oelo": 1352,
+                    "ochange": -12,
+                    "time": 590250,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736843667000,
                     "type": "VILLAGE",
