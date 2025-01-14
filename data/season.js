@@ -1,5 +1,5 @@
 {
-    "date": 1736872247000,
+    "date": 1736873215000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -54891,7 +54891,7 @@
             "uuid": "4129d8d1aafb4e73b97b9999db248060",
             "nickname": "CroProYT",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1676,
                 "peak": 1676,
                 "points": 0,
@@ -55375,7 +55375,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1676,
                 "peak": 1676,
                 "points": 0,
@@ -56293,7 +56293,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1665,
                 "peak": 1690,
                 "points": 0,
@@ -58387,7 +58387,7 @@
             "uuid": "0b863352af474dd389ec64e9eb1a38c0",
             "nickname": "90Tom",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 1662,
                 "peak": 1662,
                 "points": 0,
@@ -58983,22 +58983,36 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 25,
-                "elo": 1660,
+                "rank": 20,
+                "elo": 1678,
                 "peak": 1680,
                 "points": 0,
                 "pb": 516982,
-                "current": 1,
+                "current": 2,
                 "streak": 6,
-                "matches": 92,
-                "playtime": 56371689,
-                "finished": 40,
-                "finishtime": 25956740,
-                "won": 46,
+                "matches": 93,
+                "playtime": 56974788,
+                "finished": 41,
+                "finishtime": 26559839,
+                "won": 47,
                 "lost": 38,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736873253000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "AkaStu",
+                    "elo": 1678,
+                    "change": 18,
+                    "oelo": 1590,
+                    "ochange": -18,
+                    "time": 603099,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736872182000,
                     "type": "VILLAGE",
@@ -82189,22 +82203,36 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "AkaStu",
             "stats": {
-                "rank": 38,
-                "elo": 1608,
+                "rank": 47,
+                "elo": 1590,
                 "peak": 1608,
                 "points": 0,
                 "pb": 529715,
-                "current": 4,
+                "current": 0,
                 "streak": 6,
-                "matches": 44,
-                "playtime": 29517731,
+                "matches": 45,
+                "playtime": 30120830,
                 "finished": 23,
                 "finishtime": 16239130,
                 "won": 28,
-                "lost": 16,
+                "lost": 17,
                 "forfeited": 4
             },
             "matches": [
+                {
+                    "date": 1736873253000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "ANJOUU",
+                    "elo": 1590,
+                    "change": -18,
+                    "oelo": 1678,
+                    "ochange": 18,
+                    "time": 603099,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736687921000,
                     "type": "RUINED_PORTAL",
@@ -82757,7 +82785,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1607,
                 "peak": 1637,
                 "points": 0,
@@ -83129,7 +83157,7 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1606,
                 "peak": 1735,
                 "points": 0,
@@ -85377,7 +85405,7 @@
             "uuid": "d41f0f3caebe45e1bc6a380fedf54ca9",
             "nickname": "boosterruns",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1601,
                 "peak": 1612,
                 "points": 0,
@@ -86491,7 +86519,7 @@
             "uuid": "e691063a2afc4c47ac987c0f307297ad",
             "nickname": "VMiZ",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1598,
                 "peak": 1598,
                 "points": 0,
@@ -87451,7 +87479,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "DziabaDziuba",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1598,
                 "peak": 1668,
                 "points": 0,
@@ -87935,7 +87963,7 @@
             "uuid": "b0dea0d890de4eecb781481130c3c1d1",
             "nickname": "Mixray_",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1593,
                 "peak": 1651,
                 "points": 0,
@@ -88475,7 +88503,7 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1593,
                 "peak": 1783,
                 "points": 0,
