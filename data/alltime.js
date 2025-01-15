@@ -201,11 +201,11 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 4122,
-        "playtime": 2638204788,
-        "finished": 1732,
-        "finishtime": 1241607198,
-        "won": 2256,
+        "matches": 4123,
+        "playtime": 2639093477,
+        "finished": 1733,
+        "finishtime": 1242495887,
+        "won": 2257,
         "lost": 1801,
         "forfeited": 561
     },
@@ -2228,7 +2228,7 @@
             "4": 2082,
             "5": 1994,
             "6": 2080,
-            "7": 1658
+            "7": 1674
         },
         "points": {
             "1": 0,
@@ -2241,11 +2241,11 @@
         },
         "pb": 417055,
         "streak": 17,
-        "matches": 4410,
-        "playtime": 2833931506,
-        "finished": 1532,
-        "finishtime": 1133915399,
-        "won": 2175,
+        "matches": 4411,
+        "playtime": 2834820361,
+        "finished": 1533,
+        "finishtime": 1134804254,
+        "won": 2176,
         "lost": 2034,
         "forfeited": 522
     },
@@ -3921,12 +3921,12 @@
         },
         "pb": 471734,
         "streak": 24,
-        "matches": 4185,
-        "playtime": 2619511215,
+        "matches": 4186,
+        "playtime": 2620400070,
         "finished": 1236,
         "finishtime": 1001322008,
         "won": 2080,
-        "lost": 1941,
+        "lost": 1942,
         "forfeited": 1153
     },
     "9a61b87c6a16403da56541258e74ed3e": {
@@ -4251,13 +4251,13 @@
         },
         "pb": 484915,
         "streak": 14,
-        "matches": 3894,
-        "playtime": 2392642096,
+        "matches": 3895,
+        "playtime": 2393372200,
         "finished": 1135,
         "finishtime": 958669255,
         "won": 1933,
-        "lost": 1781,
-        "forfeited": 1048
+        "lost": 1782,
+        "forfeited": 1049
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
