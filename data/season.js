@@ -1,5 +1,5 @@
 {
-    "date": 1736979823000,
+    "date": 1736980488000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -86165,7 +86165,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1608,
                 "peak": 1680,
                 "points": 0,
@@ -87293,7 +87293,7 @@
             "uuid": "7e7bea2031764e74ada950a5dcb5a0bc",
             "nickname": "OG_MineMan",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1608,
                 "peak": 1630,
                 "points": 0,
@@ -88715,7 +88715,7 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1606,
                 "peak": 1735,
                 "points": 0,
@@ -90963,7 +90963,7 @@
             "uuid": "d41f0f3caebe45e1bc6a380fedf54ca9",
             "nickname": "boosterruns",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1601,
                 "peak": 1612,
                 "points": 0,
@@ -92077,7 +92077,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1600,
                 "peak": 1638,
                 "points": 0,
@@ -93275,7 +93275,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "AkaStu",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1594,
                 "peak": 1608,
                 "points": 0,
@@ -93913,7 +93913,7 @@
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "pulsar32",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1593,
                 "peak": 1600,
                 "points": 0,
@@ -94341,22 +94341,36 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "Waluyoshi",
             "stats": {
-                "rank": 46,
-                "elo": 1593,
+                "rank": 40,
+                "elo": 1609,
                 "peak": 1783,
                 "points": 0,
                 "pb": 411251,
-                "current": 4,
+                "current": 5,
                 "streak": 8,
-                "matches": 384,
-                "playtime": 230641980,
-                "finished": 143,
-                "finishtime": 98716307,
-                "won": 190,
+                "matches": 385,
+                "playtime": 231379801,
+                "finished": 144,
+                "finishtime": 99454128,
+                "won": 191,
                 "lost": 164,
                 "forfeited": 53
             },
             "matches": [
+                {
+                    "date": 1736980492000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "CountryFlagsPls",
+                    "elo": 1609,
+                    "change": 16,
+                    "oelo": 1462,
+                    "ochange": -16,
+                    "time": 737821,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736979602000,
                     "type": "VILLAGE",
