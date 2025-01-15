@@ -3368,7 +3368,7 @@
             "4": 1743,
             "5": 1817,
             "6": 1813,
-            "7": 1443
+            "7": 1475
         },
         "points": {
             "1": 0,
@@ -3381,11 +3381,11 @@
         },
         "pb": 495453,
         "streak": 12,
-        "matches": 547,
-        "playtime": 394910790,
-        "finished": 197,
-        "finishtime": 172520607,
-        "won": 314,
+        "matches": 549,
+        "playtime": 396065010,
+        "finished": 198,
+        "finishtime": 173187111,
+        "won": 316,
         "lost": 209,
         "forfeited": 55
     },
@@ -4251,13 +4251,13 @@
         },
         "pb": 484915,
         "streak": 14,
-        "matches": 3898,
-        "playtime": 2395410089,
+        "matches": 3901,
+        "playtime": 2396167789,
         "finished": 1136,
         "finishtime": 959750061,
         "won": 1934,
-        "lost": 1784,
-        "forfeited": 1051
+        "lost": 1787,
+        "forfeited": 1054
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
