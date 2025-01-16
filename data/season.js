@@ -1,5 +1,5 @@
 {
-    "date": 1736995092000,
+    "date": 1736996416000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -78179,7 +78179,7 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1635,
                 "peak": 1775,
                 "points": 0,
@@ -81505,7 +81505,7 @@
             "uuid": "6135d13bce2841f8b7e8d37d91c6edfe",
             "nickname": "boywithcards",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1626,
                 "peak": 1626,
                 "points": 0,
@@ -83053,7 +83053,7 @@
             "uuid": "5a2cb29136eb46529adc03aa4583a2d2",
             "nickname": "GradientGray",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1619,
                 "peak": 1619,
                 "points": 0,
@@ -84391,7 +84391,7 @@
             "uuid": "0fd702facc204e4d81f8261f95f680a2",
             "nickname": "RegalAcorn37744",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1619,
                 "peak": 1651,
                 "points": 0,
@@ -84987,7 +84987,7 @@
             "uuid": "540de983ca7d40728a344ee5f8c7a95b",
             "nickname": "C9_H13_NO3_",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1618,
                 "peak": 1628,
                 "points": 0,
@@ -85485,22 +85485,36 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 39,
-                "elo": 1616,
-                "peak": 1616,
+                "rank": 34,
+                "elo": 1636,
+                "peak": 1636,
                 "points": 0,
                 "pb": 567772,
-                "current": 7,
-                "streak": 7,
-                "matches": 14,
-                "playtime": 9455492,
-                "finished": 11,
-                "finishtime": 7602044,
-                "won": 12,
+                "current": 8,
+                "streak": 8,
+                "matches": 15,
+                "playtime": 10254310,
+                "finished": 12,
+                "finishtime": 8400862,
+                "won": 13,
                 "lost": 2,
                 "forfeited": 0
             },
             "matches": [
+                {
+                    "date": 1736996491000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Ayreliaa",
+                    "elo": 1636,
+                    "change": 20,
+                    "oelo": 1595,
+                    "ochange": -20,
+                    "time": 798818,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736994833000,
                     "type": "BURIED_TREASURE",
@@ -85633,22 +85647,36 @@
             "uuid": "b5ae858c09384b79989ea305a4b5cedf",
             "nickname": "Ayreliaa",
             "stats": {
-                "rank": 40,
-                "elo": 1615,
+                "rank": 46,
+                "elo": 1595,
                 "peak": 1790,
                 "points": 0,
                 "pb": 463742,
                 "current": 0,
                 "streak": 10,
-                "matches": 167,
-                "playtime": 106022514,
+                "matches": 168,
+                "playtime": 106821332,
                 "finished": 70,
                 "finishtime": 46350967,
                 "won": 84,
-                "lost": 73,
+                "lost": 74,
                 "forfeited": 2
             },
             "matches": [
+                {
+                    "date": 1736996491000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "priffie",
+                    "elo": 1595,
+                    "change": -20,
+                    "oelo": 1636,
+                    "ochange": 20,
+                    "time": 798818,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1736993627000,
                     "type": "DESERT_TEMPLE",
@@ -87937,7 +87965,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1608,
                 "peak": 1680,
                 "points": 0,
@@ -89065,7 +89093,7 @@
             "uuid": "7e7bea2031764e74ada950a5dcb5a0bc",
             "nickname": "OG_MineMan",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1608,
                 "peak": 1630,
                 "points": 0,
@@ -97147,7 +97175,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "AkaStu",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1594,
                 "peak": 1608,
                 "points": 0,
@@ -97785,7 +97813,7 @@
             "uuid": "4863326cccf043ecbb8ff88628bed781",
             "nickname": "pulsar32",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1593,
                 "peak": 1600,
                 "points": 0,
@@ -98213,7 +98241,7 @@
             "uuid": "36a441538cbc463da6a877e6ebc8af91",
             "nickname": "megelimc",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1592,
                 "peak": 1592,
                 "points": 0,
@@ -98977,7 +99005,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1588,
                 "peak": 1687,
                 "points": 0,
@@ -100945,7 +100973,7 @@
             "uuid": "728fdcab24b249b686c081a7fc53176e",
             "nickname": "ContraVz",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1585,
                 "peak": 1617,
                 "points": 0,
