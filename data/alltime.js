@@ -3021,12 +3021,12 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2600,
-        "playtime": 1789375478,
+        "matches": 2601,
+        "playtime": 1790005421,
         "finished": 774,
         "finishtime": 673958723,
         "won": 1324,
-        "lost": 1168,
+        "lost": 1169,
         "forfeited": 487
     },
     "36a441538cbc463da6a877e6ebc8af91": {
@@ -3231,8 +3231,8 @@
         },
         "pb": 499502,
         "streak": 11,
-        "matches": 2917,
-        "playtime": 2023381844,
+        "matches": 2918,
+        "playtime": 2023983795,
         "finished": 856,
         "finishtime": 696100143,
         "won": 1438,
@@ -3321,12 +3321,12 @@
         },
         "pb": 439961,
         "streak": 9,
-        "matches": 2743,
-        "playtime": 1645701383,
+        "matches": 2745,
+        "playtime": 1647098526,
         "finished": 1013,
         "finishtime": 705518829,
         "won": 1361,
-        "lost": 1239,
+        "lost": 1240,
         "forfeited": 541
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
@@ -3681,13 +3681,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 2958,
-        "playtime": 1682633000,
-        "finished": 1029,
-        "finishtime": 719481180,
-        "won": 1507,
-        "lost": 1385,
-        "forfeited": 879
+        "matches": 2960,
+        "playtime": 1683996342,
+        "finished": 1030,
+        "finishtime": 720243514,
+        "won": 1508,
+        "lost": 1386,
+        "forfeited": 880
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
@@ -3801,13 +3801,13 @@
         },
         "pb": 470061,
         "streak": 9,
-        "matches": 1923,
-        "playtime": 1258409430,
+        "matches": 1924,
+        "playtime": 1258972785,
         "finished": 633,
         "finishtime": 525371968,
         "won": 997,
-        "lost": 840,
-        "forfeited": 388
+        "lost": 841,
+        "forfeited": 389
     },
     "b1e69ebb9854410dacd114526c7e2775": {
         "nickname": "Elekid1",
@@ -4148,7 +4148,7 @@
             "4": 1445,
             "5": 1700,
             "6": 1715,
-            "7": 1540
+            "7": 1543
         },
         "points": {
             "1": 0,
@@ -4161,11 +4161,11 @@
         },
         "pb": 569096,
         "streak": 8,
-        "matches": 1223,
-        "playtime": 954123711,
-        "finished": 368,
-        "finishtime": 338869640,
-        "won": 640,
+        "matches": 1225,
+        "playtime": 955519911,
+        "finished": 369,
+        "finishtime": 339664832,
+        "won": 642,
         "lost": 527,
         "forfeited": 49
     },
