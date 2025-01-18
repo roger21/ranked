@@ -1,5 +1,5 @@
 {
-    "date": 1737186995000,
+    "date": 1737188860000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -49934,14 +49934,14 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 19,
-                "elo": 1730,
+                "elo": 1728,
                 "peak": 1771,
                 "points": 0,
                 "pb": 451750,
                 "current": 2,
                 "streak": 8,
-                "matches": 297,
-                "playtime": 174862499,
+                "matches": 298,
+                "playtime": 175457775,
                 "finished": 114,
                 "finishtime": 71534679,
                 "won": 146,
@@ -49949,6 +49949,20 @@
                 "forfeited": 25
             },
             "matches": [
+                {
+                    "date": 1737187978000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "Ayreliaa",
+                    "elo": 1728,
+                    "change": -2,
+                    "oelo": 1533,
+                    "ochange": 2,
+                    "time": 595276,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1737186409000,
                     "type": "SHIPWRECK",
