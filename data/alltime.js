@@ -2961,11 +2961,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4458,
-        "playtime": 3039001187,
+        "matches": 4459,
+        "playtime": 3039288486,
         "finished": 1446,
         "finishtime": 1160956516,
-        "won": 2231,
+        "won": 2232,
         "lost": 2059,
         "forfeited": 523
     },
@@ -3861,13 +3861,13 @@
         },
         "pb": 438416,
         "streak": 9,
-        "matches": 3165,
-        "playtime": 2035974841,
+        "matches": 3166,
+        "playtime": 2036262140,
         "finished": 869,
         "finishtime": 707163815,
         "won": 1493,
-        "lost": 1422,
-        "forfeited": 687
+        "lost": 1423,
+        "forfeited": 688
     },
     "728fdcab24b249b686c081a7fc53176e": {
         "nickname": "ContraVz",
