@@ -3861,13 +3861,13 @@
         },
         "pb": 438416,
         "streak": 9,
-        "matches": 3159,
-        "playtime": 2031704730,
+        "matches": 3160,
+        "playtime": 2032553126,
         "finished": 866,
         "finishtime": 704719226,
         "won": 1489,
-        "lost": 1420,
-        "forfeited": 686
+        "lost": 1421,
+        "forfeited": 687
     },
     "728fdcab24b249b686c081a7fc53176e": {
         "nickname": "ContraVz",
