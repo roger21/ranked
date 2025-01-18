@@ -1041,12 +1041,12 @@
         },
         "pb": 489574,
         "streak": 10,
-        "matches": 1554,
-        "playtime": 1010723768,
+        "matches": 1555,
+        "playtime": 1011691464,
         "finished": 497,
         "finishtime": 397822647,
         "won": 797,
-        "lost": 694,
+        "lost": 695,
         "forfeited": 280
     },
     "744f344f2f5a4610aa8fe30053312812": {
@@ -2858,7 +2858,7 @@
             "4": 2026,
             "5": 2174,
             "6": 2273,
-            "7": 1819
+            "7": 1826
         },
         "points": {
             "1": 0,
@@ -2871,11 +2871,11 @@
         },
         "pb": 441118,
         "streak": 10,
-        "matches": 4717,
-        "playtime": 2965429624,
-        "finished": 1621,
-        "finishtime": 1212780163,
-        "won": 2380,
+        "matches": 4718,
+        "playtime": 2966124341,
+        "finished": 1622,
+        "finishtime": 1213474880,
+        "won": 2381,
         "lost": 2109,
         "forfeited": 789
     },
@@ -3441,11 +3441,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 5236,
-        "playtime": 3486279339,
+        "matches": 5237,
+        "playtime": 3486669789,
         "finished": 1737,
         "finishtime": 1377267454,
-        "won": 2588,
+        "won": 2589,
         "lost": 2439,
         "forfeited": 925
     },
@@ -3981,12 +3981,12 @@
         },
         "pb": 473760,
         "streak": 12,
-        "matches": 1890,
-        "playtime": 1218109237,
+        "matches": 1891,
+        "playtime": 1218803954,
         "finished": 517,
         "finishtime": 407072948,
         "won": 950,
-        "lost": 847,
+        "lost": 848,
         "forfeited": 279
     },
     "fe6771646c5d43c1b713023fb69c10c6": {
@@ -4641,13 +4641,13 @@
         },
         "pb": 495468,
         "streak": 11,
-        "matches": 4221,
-        "playtime": 2756058607,
+        "matches": 4222,
+        "playtime": 2756449057,
         "finished": 1143,
         "finishtime": 954010055,
         "won": 2037,
-        "lost": 1978,
-        "forfeited": 1025
+        "lost": 1979,
+        "forfeited": 1026
     },
     "acf90f097a544ab8b25d238b3ab4549c": {
         "nickname": "CountryFlagsPls",
