@@ -2811,13 +2811,13 @@
         },
         "pb": 475558,
         "streak": 12,
-        "matches": 364,
-        "playtime": 226923724,
+        "matches": 365,
+        "playtime": 227064115,
         "finished": 170,
         "finishtime": 122661364,
         "won": 233,
-        "lost": 121,
-        "forfeited": 58
+        "lost": 122,
+        "forfeited": 59
     },
     "9c724d7793094a76a8bc9d30f397df92": {
         "nickname": "Javierixmon",
