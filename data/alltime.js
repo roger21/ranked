@@ -171,11 +171,11 @@
         },
         "pb": 465717,
         "streak": 17,
-        "matches": 2609,
-        "playtime": 1674840923,
+        "matches": 2610,
+        "playtime": 1674942438,
         "finished": 1162,
         "finishtime": 865622024,
-        "won": 1614,
+        "won": 1615,
         "lost": 952,
         "forfeited": 315
     },
@@ -3681,13 +3681,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3044,
-        "playtime": 1726470434,
+        "matches": 3045,
+        "playtime": 1726571949,
         "finished": 1061,
         "finishtime": 739593286,
         "won": 1554,
-        "lost": 1421,
-        "forfeited": 904
+        "lost": 1422,
+        "forfeited": 905
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
