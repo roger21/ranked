@@ -171,12 +171,12 @@
         },
         "pb": 465717,
         "streak": 17,
-        "matches": 2606,
-        "playtime": 1673086679,
+        "matches": 2607,
+        "playtime": 1673611622,
         "finished": 1162,
         "finishtime": 865622024,
         "won": 1613,
-        "lost": 950,
+        "lost": 951,
         "forfeited": 315
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
@@ -921,11 +921,11 @@
         },
         "pb": 484755,
         "streak": 22,
-        "matches": 1217,
-        "playtime": 807002000,
+        "matches": 1218,
+        "playtime": 807190220,
         "finished": 464,
         "finishtime": 355680242,
-        "won": 646,
+        "won": 647,
         "lost": 524,
         "forfeited": 132
     },
@@ -2888,7 +2888,7 @@
             "4": 1867,
             "5": 1941,
             "6": 2032,
-            "7": 1780
+            "7": 1804
         },
         "points": {
             "1": 0,
@@ -2901,11 +2901,11 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 2966,
-        "playtime": 1932132546,
-        "finished": 1075,
-        "finishtime": 811896036,
-        "won": 1507,
+        "matches": 2967,
+        "playtime": 1932657489,
+        "finished": 1076,
+        "finishtime": 812420979,
+        "won": 1508,
         "lost": 1391,
         "forfeited": 385
     },
@@ -3021,13 +3021,13 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2675,
-        "playtime": 1834892845,
+        "matches": 2677,
+        "playtime": 1835793920,
         "finished": 795,
         "finishtime": 690080925,
         "won": 1366,
-        "lost": 1198,
-        "forfeited": 496
+        "lost": 1200,
+        "forfeited": 497
     },
     "36a441538cbc463da6a877e6ebc8af91": {
         "nickname": "megelimc",
