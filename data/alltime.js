@@ -2481,13 +2481,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1482,
-        "playtime": 992304491,
-        "finished": 501,
-        "finishtime": 411958202,
-        "won": 782,
-        "lost": 652,
-        "forfeited": 257
+        "matches": 1485,
+        "playtime": 994005131,
+        "finished": 502,
+        "finishtime": 412655545,
+        "won": 783,
+        "lost": 654,
+        "forfeited": 259
     },
     "83518e9927244f319f7175f3ff7609a1": {
         "nickname": "furk1e",
@@ -3008,7 +3008,7 @@
             "4": 1875,
             "5": 1647,
             "6": 1520,
-            "7": 1489
+            "7": 1501
         },
         "points": {
             "1": 0,
@@ -3021,11 +3021,11 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2685,
-        "playtime": 1840276791,
-        "finished": 797,
-        "finishtime": 691846681,
-        "won": 1371,
+        "matches": 2687,
+        "playtime": 1841676071,
+        "finished": 799,
+        "finishtime": 693245961,
+        "won": 1373,
         "lost": 1203,
         "forfeited": 498
     },
@@ -3128,7 +3128,7 @@
             "4": 1898,
             "5": 1728,
             "6": 1915,
-            "7": 1639
+            "7": 1653
         },
         "points": {
             "1": 0,
@@ -3141,11 +3141,11 @@
         },
         "pb": 481651,
         "streak": 11,
-        "matches": 2468,
-        "playtime": 1637025188,
+        "matches": 2470,
+        "playtime": 1637783894,
         "finished": 868,
         "finishtime": 691194058,
-        "won": 1272,
+        "won": 1274,
         "lost": 1119,
         "forfeited": 352
     },
