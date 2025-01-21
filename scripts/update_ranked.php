@@ -95,7 +95,7 @@
 
     $p["stats"]["rank"]=$ss["data"]["seasonResult"]["last"]["eloRank"];
     $p["stats"]["elo"]=$ss["data"]["seasonResult"]["last"]["eloRate"];
-    $p["stats"]["peak"]=$ss["data"]["seasonResult"]["highest"];
+    $p["stats"]["top"]=$ss["data"]["seasonResult"]["highest"];
     $p["stats"]["points"]=$ss["data"]["seasonResult"]["last"]["phasePoint"];
     $p["stats"]["pb"]=$ss["data"]["statistics"]["season"]["bestTime"]["ranked"];
     $p["stats"]["current"]=$ss["data"]["statistics"]["season"]["currentWinStreak"]["ranked"];
@@ -109,8 +109,8 @@
     $p["stats"]["forfeited"]=$ss["data"]["statistics"]["season"]["forfeits"]["ranked"];
 
     $at[$p["uuid"]]["nickname"]=$ss["data"]["nickname"];
-    $at[$p["uuid"]]["peak"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
-    ksort($at[$p["uuid"]]["peak"], SORT_NUMERIC);
+    $at[$p["uuid"]]["top"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
+    ksort($at[$p["uuid"]]["top"], SORT_NUMERIC);
     $at[$p["uuid"]]["points"][$sss]=$ss["data"]["seasonResult"]["last"]["phasePoint"] ?? 0;
     ksort($at[$p["uuid"]]["points"], SORT_NUMERIC);
     $at[$p["uuid"]]["pb"]=$ss["data"]["statistics"]["total"]["bestTime"]["ranked"];
@@ -204,8 +204,8 @@
       $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
       $a["nickname"]=$ss["data"]["nickname"];
-      $a["peak"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
-      ksort($a["peak"], SORT_NUMERIC);
+      $a["top"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
+      ksort($a["top"], SORT_NUMERIC);
       $a["points"][$sss]=$ss["data"]["seasonResult"]["last"]["phasePoint"] ?? 0;
       ksort($a["points"], SORT_NUMERIC);
       $a["pb"]=$ss["data"]["statistics"]["total"]["bestTime"]["ranked"];
@@ -236,11 +236,11 @@
       unset($ss);
       $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
-      $at[$uuid]["peak"][$s]=$ss["data"]["seasonResult"]["highest"] ?? 0;
+      $at[$uuid]["top"][$s]=$ss["data"]["seasonResult"]["highest"] ?? 0;
       $at[$uuid]["points"][$s]=$ss["data"]["seasonResult"]["last"]["phasePoint"] ?? 0;
 
     }
-    ksort($at[$uuid]["peak"], SORT_NUMERIC);
+    ksort($at[$uuid]["top"], SORT_NUMERIC);
     ksort($at[$uuid]["points"], SORT_NUMERIC);
     ++$new_cpt;
   }
