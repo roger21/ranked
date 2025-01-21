@@ -3321,13 +3321,13 @@
         },
         "pb": 439961,
         "streak": 9,
-        "matches": 2839,
-        "playtime": 1698873137,
+        "matches": 2840,
+        "playtime": 1699486668,
         "finished": 1048,
         "finishtime": 726836848,
         "won": 1407,
-        "lost": 1278,
-        "forfeited": 556
+        "lost": 1279,
+        "forfeited": 557
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
         "nickname": "iKme_",
