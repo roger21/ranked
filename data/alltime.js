@@ -2121,11 +2121,11 @@
         },
         "pb": 447308,
         "streak": 9,
-        "matches": 3327,
-        "playtime": 2188906151,
+        "matches": 3328,
+        "playtime": 2189296010,
         "finished": 1183,
         "finishtime": 914864294,
-        "won": 1697,
+        "won": 1698,
         "lost": 1526,
         "forfeited": 574
     },
@@ -2378,7 +2378,7 @@
             "4": 1941,
             "5": 1994,
             "6": 1999,
-            "7": 1705
+            "7": 1721
         },
         "points": {
             "1": 0,
@@ -2391,12 +2391,12 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 6713,
-        "playtime": 4330004477,
+        "matches": 6716,
+        "playtime": 4331989097,
         "finished": 2345,
         "finishtime": 1828883102,
-        "won": 3339,
-        "lost": 3145,
+        "won": 3340,
+        "lost": 3147,
         "forfeited": 1155
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
@@ -3128,7 +3128,7 @@
             "4": 1898,
             "5": 1728,
             "6": 1915,
-            "7": 1669
+            "7": 1690
         },
         "points": {
             "1": 0,
@@ -3141,11 +3141,11 @@
         },
         "pb": 481651,
         "streak": 11,
-        "matches": 2471,
-        "playtime": 1638451397,
-        "finished": 869,
-        "finishtime": 691861561,
-        "won": 1275,
+        "matches": 2472,
+        "playtime": 1639221479,
+        "finished": 870,
+        "finishtime": 692631643,
+        "won": 1276,
         "lost": 1119,
         "forfeited": 352
     },
@@ -3981,13 +3981,13 @@
         },
         "pb": 500885,
         "streak": 13,
-        "matches": 3656,
-        "playtime": 2500465460,
-        "finished": 1020,
-        "finishtime": 863793819,
-        "won": 1799,
-        "lost": 1668,
-        "forfeited": 712
+        "matches": 3660,
+        "playtime": 2503320734,
+        "finished": 1021,
+        "finishtime": 864579720,
+        "won": 1800,
+        "lost": 1671,
+        "forfeited": 713
     },
     "7e7bea2031764e74ada950a5dcb5a0bc": {
         "nickname": "OG_MineMan",
