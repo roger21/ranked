@@ -1311,12 +1311,12 @@
         },
         "pb": 443372,
         "streak": 10,
-        "matches": 1441,
-        "playtime": 871230918,
+        "matches": 1442,
+        "playtime": 871930809,
         "finished": 520,
         "finishtime": 392330844,
         "won": 754,
-        "lost": 629,
+        "lost": 630,
         "forfeited": 328
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
@@ -1538,7 +1538,7 @@
             "4": 2122,
             "5": 2266,
             "6": 2329,
-            "7": 1950
+            "7": 1957
         },
         "points": {
             "1": 0,
@@ -1551,11 +1551,11 @@
         },
         "pb": 442834,
         "streak": 16,
-        "matches": 7942,
-        "playtime": 4977403539,
+        "matches": 7943,
+        "playtime": 4977624421,
         "finished": 3165,
         "finishtime": 2262035848,
-        "won": 4258,
+        "won": 4259,
         "lost": 3529,
         "forfeited": 1146
     },
@@ -2571,13 +2571,13 @@
         },
         "pb": 422356,
         "streak": 14,
-        "matches": 4288,
-        "playtime": 2817657624,
+        "matches": 4289,
+        "playtime": 2817878506,
         "finished": 1600,
         "finishtime": 1190085703,
         "won": 2228,
-        "lost": 1972,
-        "forfeited": 597
+        "lost": 1973,
+        "forfeited": 598
     },
     "8fc93aecda5b4f699cf76694116eaf11": {
         "nickname": "rekrap2",
