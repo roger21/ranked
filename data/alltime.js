@@ -2811,11 +2811,11 @@
         },
         "pb": 475558,
         "streak": 12,
-        "matches": 403,
-        "playtime": 247134776,
+        "matches": 404,
+        "playtime": 247429268,
         "finished": 185,
         "finishtime": 132415709,
-        "won": 251,
+        "won": 252,
         "lost": 141,
         "forfeited": 71
     },
@@ -3561,12 +3561,12 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4106,
-        "playtime": 2820234568,
+        "matches": 4107,
+        "playtime": 2821143755,
         "finished": 1350,
         "finishtime": 1073350358,
         "won": 2055,
-        "lost": 1904,
+        "lost": 1905,
         "forfeited": 414
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
@@ -3801,13 +3801,13 @@
         },
         "pb": 479830,
         "streak": 13,
-        "matches": 2660,
-        "playtime": 1684060718,
+        "matches": 2661,
+        "playtime": 1684355210,
         "finished": 781,
         "finishtime": 602096963,
         "won": 1302,
-        "lost": 1222,
-        "forfeited": 546
+        "lost": 1223,
+        "forfeited": 547
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
