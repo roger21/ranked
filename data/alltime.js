@@ -1028,7 +1028,7 @@
             "4": 1840,
             "5": 1649,
             "6": 1843,
-            "7": 1423
+            "7": 1425
         },
         "points": {
             "1": 0,
@@ -1041,11 +1041,11 @@
         },
         "pb": 489574,
         "streak": 10,
-        "matches": 1582,
-        "playtime": 1027617748,
+        "matches": 1583,
+        "playtime": 1028446276,
         "finished": 507,
         "finishtime": 404540748,
-        "won": 812,
+        "won": 813,
         "lost": 703,
         "forfeited": 284
     },
@@ -2481,13 +2481,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2381,
-        "playtime": 1632045066,
-        "finished": 657,
-        "finishtime": 570186610,
-        "won": 1171,
-        "lost": 1095,
-        "forfeited": 465
+        "matches": 2383,
+        "playtime": 1633066947,
+        "finished": 658,
+        "finishtime": 570879493,
+        "won": 1172,
+        "lost": 1096,
+        "forfeited": 466
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
         "nickname": "PEDRAOIMENSO",
@@ -3021,13 +3021,13 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2712,
-        "playtime": 1858803004,
-        "finished": 808,
-        "finishtime": 700314234,
-        "won": 1386,
-        "lost": 1214,
-        "forfeited": 500
+        "matches": 2714,
+        "playtime": 1860138319,
+        "finished": 809,
+        "finishtime": 701255348,
+        "won": 1387,
+        "lost": 1215,
+        "forfeited": 501
     },
     "36a441538cbc463da6a877e6ebc8af91": {
         "nickname": "megelimc",
