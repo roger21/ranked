@@ -1271,12 +1271,12 @@
         },
         "pb": 548155,
         "streak": 13,
-        "matches": 1271,
-        "playtime": 890923506,
+        "matches": 1273,
+        "playtime": 892225778,
         "finished": 409,
         "finishtime": 341216492,
-        "won": 699,
-        "lost": 528,
+        "won": 700,
+        "lost": 529,
         "forfeited": 185
     },
     "c32cdd142a0147dcb91771319d745194": {
@@ -3063,13 +3063,13 @@
         },
         "pb": 441118,
         "streak": 10,
-        "matches": 4755,
-        "playtime": 2989302638,
-        "finished": 1637,
-        "finishtime": 1223032301,
-        "won": 2398,
-        "lost": 2129,
-        "forfeited": 792
+        "matches": 4757,
+        "playtime": 2990152941,
+        "finished": 1638,
+        "finishtime": 1223638179,
+        "won": 2399,
+        "lost": 2130,
+        "forfeited": 793
     },
     "00f996cd910f479ba0903d85c2bdb1e0": {
         "nickname": "Bloonskiller",
@@ -3273,7 +3273,7 @@
             "4": 1826,
             "5": 1574,
             "6": 1505,
-            "7": 1413
+            "7": 1418
         },
         "points": {
             "": 0,
@@ -3287,11 +3287,11 @@
         },
         "pb": 565910,
         "streak": 10,
-        "matches": 1466,
-        "playtime": 1013872116,
-        "finished": 411,
-        "finishtime": 371775956,
-        "won": 723,
+        "matches": 1467,
+        "playtime": 1014557624,
+        "finished": 412,
+        "finishtime": 372461464,
+        "won": 724,
         "lost": 660,
         "forfeited": 342
     },
