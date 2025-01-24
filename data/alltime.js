@@ -183,11 +183,11 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 2651,
-        "playtime": 1700980825,
-        "finished": 1186,
-        "finishtime": 880779269,
-        "won": 1639,
+        "matches": 2652,
+        "playtime": 1701550449,
+        "finished": 1187,
+        "finishtime": 881348893,
+        "won": 1640,
         "lost": 969,
         "forfeited": 315
     },
@@ -407,11 +407,11 @@
         },
         "pb": 449909,
         "streak": 11,
-        "matches": 2500,
-        "playtime": 1691536494,
+        "matches": 2501,
+        "playtime": 1691825229,
         "finished": 961,
         "finishtime": 740903191,
-        "won": 1345,
+        "won": 1346,
         "lost": 1094,
         "forfeited": 250
     },
@@ -2711,12 +2711,12 @@
         },
         "pb": 427940,
         "streak": 13,
-        "matches": 2336,
-        "playtime": 1461205008,
+        "matches": 2337,
+        "playtime": 1461774632,
         "finished": 907,
         "finishtime": 647890773,
         "won": 1228,
-        "lost": 1007,
+        "lost": 1008,
         "forfeited": 290
     },
     "c670041ed84c480cab4a6ee904905b5f": {
@@ -3063,13 +3063,13 @@
         },
         "pb": 441118,
         "streak": 10,
-        "matches": 4760,
-        "playtime": 2991910611,
+        "matches": 4762,
+        "playtime": 2992643138,
         "finished": 1640,
         "finishtime": 1224874856,
-        "won": 2401,
-        "lost": 2131,
-        "forfeited": 793
+        "won": 2402,
+        "lost": 2132,
+        "forfeited": 794
     },
     "00f996cd910f479ba0903d85c2bdb1e0": {
         "nickname": "Bloonskiller",
@@ -4437,12 +4437,12 @@
         },
         "pb": 473760,
         "streak": 12,
-        "matches": 1905,
-        "playtime": 1228050668,
+        "matches": 1907,
+        "playtime": 1229116303,
         "finished": 520,
         "finishtime": 409162873,
         "won": 956,
-        "lost": 855,
-        "forfeited": 279
+        "lost": 857,
+        "forfeited": 280
     }
 }
