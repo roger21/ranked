@@ -4055,11 +4055,11 @@
         },
         "pb": 479830,
         "streak": 13,
-        "matches": 2665,
-        "playtime": 1686390024,
+        "matches": 2666,
+        "playtime": 1686750569,
         "finished": 782,
         "finishtime": 602850620,
-        "won": 1303,
+        "won": 1304,
         "lost": 1226,
         "forfeited": 549
     },
@@ -4407,13 +4407,13 @@
         },
         "pb": 510102,
         "streak": 7,
-        "matches": 539,
-        "playtime": 363558574,
+        "matches": 540,
+        "playtime": 363919119,
         "finished": 191,
         "finishtime": 151425712,
         "won": 279,
-        "lost": 241,
-        "forfeited": 59
+        "lost": 242,
+        "forfeited": 60
     },
     "6135d13bce2841f8b7e8d37d91c6edfe": {
         "nickname": "boywithcards",
