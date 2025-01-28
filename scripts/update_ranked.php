@@ -71,6 +71,10 @@
   $sss=$season;
   if($season === ""){
     $sss=$players["data"]["season"]["number"];
+    if(!$sss){
+      echo "data error no seson\n";
+      die(1);
+    }
     $season_j=["season" => $sss];
     file_put_contents("../data/current.js", json_encode($season_j, JSON_PRETTY_PRINT));
     echo "season $sss\n";
