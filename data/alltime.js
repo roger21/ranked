@@ -2633,7 +2633,7 @@
             "4": 1639,
             "5": 1594,
             "6": 1643,
-            "7": 1467
+            "7": 1484
         },
         "points": {
             "": 0,
@@ -2647,11 +2647,11 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2395,
-        "playtime": 1640851845,
+        "matches": 2396,
+        "playtime": 1641161156,
         "finished": 662,
         "finishtime": 574254041,
-        "won": 1180,
+        "won": 1181,
         "lost": 1100,
         "forfeited": 468
     },
@@ -3927,13 +3927,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3170,
-        "playtime": 1795645081,
+        "matches": 3171,
+        "playtime": 1796105773,
         "finished": 1107,
         "finishtime": 770186303,
         "won": 1616,
-        "lost": 1480,
-        "forfeited": 944
+        "lost": 1481,
+        "forfeited": 945
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
