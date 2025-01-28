@@ -35,6 +35,10 @@
     $last_match=(file_get_contents("https://mcsrranked.com/api/matches?page=0".
                                    "&count=1type=2&includedecay{$season_p}",
                                    false, $context));
+    if($last_match === false || $http_response_header[0] !== "HTTP/1.1 200 OK"){
+      echo "request error {$http_response_header[0]} season {$season}\n";
+      die(1);
+    }
     echo "(".(++$request_counter).") season {$season}\n";
     $last_date=json_decode($last_match, true, 512, JSON_OBJECT_AS_ARRAY);
     $now=((int)$last_date["data"][0]["date"]) * 1000;
@@ -57,6 +61,10 @@
 
   $leaderboard=(file_get_contents("https://mcsrranked.com/api/leaderboard{$season_p1}",
                                   false, $context));
+  if($leaderboard === false || $http_response_header[0] !== "HTTP/1.1 200 OK"){
+    echo "request error {$http_response_header[0]} leaderboard\n";
+    die(1);
+  }
   echo "(".(++$request_counter).") leaderboard\n";
   $players=json_decode($leaderboard, true, 512, JSON_OBJECT_AS_ARRAY);
 
@@ -89,6 +97,10 @@
     unset($stats);
     $stats=(file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}{$season_p1}",
                               false, $context));
+    if($stats === false || $http_response_header[0] !== "HTTP/1.1 200 OK"){
+      echo "request error {$http_response_header[0]} {$p["nickname"]} stats season {$sss}\n";
+      die(1);
+    }
     echo "(".(++$request_counter).") {$p["nickname"]} stats season {$sss}\n";
     unset($ss);
     $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
@@ -131,6 +143,10 @@
       $matches=(file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
                                   "matches?page={$page}&count=50&type=2{$season_p}",
                                   false, $context));
+      if($matches === false || $http_response_header[0] !== "HTTP/1.1 200 OK"){
+        echo "request error {$http_response_header[0]} {$p["nickname"]} page {$page}\n";
+        die(1);
+      }
       echo "(".(++$request_counter).") {$p["nickname"]} page {$page}\n";
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
@@ -199,6 +215,10 @@
       unset($stats);
       $stats=(file_get_contents("https://mcsrranked.com/api/users/{$uuid}{$season_p1}",
                                 false, $context));
+      if($stats === false || $http_response_header[0] !== "HTTP/1.1 200 OK"){
+        echo "request error {$http_response_header[0]} old {$uuid} stats season {$sss}\n";
+        die(1);
+      }
       echo "(".(++$request_counter).") old {$uuid} stats season {$sss}\n";
       unset($ss);
       $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
@@ -232,6 +252,10 @@
       unset($stats);
       $stats=(file_get_contents("https://mcsrranked.com/api/users/{$uuid}{$season_l}",
                                 false, $context));
+      if($stats === false || $http_response_header[0] !== "HTTP/1.1 200 OK"){
+        echo "request error {$http_response_header[0]} new {$uuid} stats season {$s}\n";
+        die(1);
+      }
       echo "(".(++$request_counter).") new {$uuid} stats season {$s}\n";
       unset($ss);
       $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
