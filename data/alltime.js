@@ -1551,12 +1551,12 @@
         },
         "pb": 442834,
         "streak": 16,
-        "matches": 8006,
-        "playtime": 5013789335,
+        "matches": 8008,
+        "playtime": 5014561570,
         "finished": 3195,
         "finishtime": 2280799590,
-        "won": 4297,
-        "lost": 3553,
+        "won": 4298,
+        "lost": 3554,
         "forfeited": 1150
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
@@ -3681,11 +3681,11 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3195,
-        "playtime": 1807313507,
+        "matches": 3197,
+        "playtime": 1808180237,
         "finished": 1113,
         "finishtime": 774125736,
-        "won": 1627,
+        "won": 1628,
         "lost": 1492,
         "forfeited": 953
     },
@@ -3831,13 +3831,13 @@
         },
         "pb": 500885,
         "streak": 13,
-        "matches": 3707,
-        "playtime": 2533454518,
-        "finished": 1038,
-        "finishtime": 876644428,
-        "won": 1824,
-        "lost": 1693,
-        "forfeited": 717
+        "matches": 3710,
+        "playtime": 2535421768,
+        "finished": 1039,
+        "finishtime": 877197406,
+        "won": 1825,
+        "lost": 1695,
+        "forfeited": 718
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
@@ -4011,13 +4011,13 @@
         },
         "pb": 444670,
         "streak": 11,
-        "matches": 3663,
-        "playtime": 2116130457,
-        "finished": 1173,
-        "finishtime": 895529389,
-        "won": 1844,
-        "lost": 1659,
-        "forfeited": 1093
+        "matches": 3666,
+        "playtime": 2117528675,
+        "finished": 1174,
+        "finishtime": 896134484,
+        "won": 1845,
+        "lost": 1661,
+        "forfeited": 1094
     },
     "728fdcab24b249b686c081a7fc53176e": {
         "nickname": "ContraVz",
@@ -4078,5 +4078,35 @@
         "won": 316,
         "lost": 271,
         "forfeited": 66
+    },
+    "7da8a7daee7b45bf844e3fd11e9fd854": {
+        "nickname": "Lathilla",
+        "top": {
+            "1": 1554,
+            "2": 0,
+            "3": 1522,
+            "4": 1542,
+            "5": 1613,
+            "6": 1525,
+            "7": 1647
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 5,
+            "5": 15,
+            "6": 0,
+            "7": 0
+        },
+        "pb": 527656,
+        "streak": 9,
+        "matches": 168,
+        "playtime": 115923262,
+        "finished": 79,
+        "finishtime": 63644380,
+        "won": 118,
+        "lost": 43,
+        "forfeited": 16
     }
 }
