@@ -1808,7 +1808,7 @@
             "4": 1841,
             "5": 1910,
             "6": 1857,
-            "7": 1543
+            "7": 1564
         },
         "points": {
             "1": 0,
@@ -1821,11 +1821,11 @@
         },
         "pb": 501203,
         "streak": 12,
-        "matches": 1508,
-        "playtime": 1039971509,
+        "matches": 1509,
+        "playtime": 1040681732,
         "finished": 559,
         "finishtime": 432249519,
-        "won": 802,
+        "won": 803,
         "lost": 630,
         "forfeited": 25
     },
@@ -3561,13 +3561,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4240,
-        "playtime": 2888529804,
+        "matches": 4241,
+        "playtime": 2888816304,
         "finished": 1391,
         "finishtime": 1104060378,
         "won": 2113,
-        "lost": 1977,
-        "forfeited": 460
+        "lost": 1978,
+        "forfeited": 461
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okrzej_",
