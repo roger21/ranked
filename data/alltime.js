@@ -338,7 +338,7 @@
             "4": 1819,
             "5": 1628,
             "6": 1640,
-            "7": 1598
+            "7": 1614
         },
         "points": {
             "1": 0,
@@ -349,13 +349,13 @@
             "6": 10,
             "7": 0
         },
-        "pb": 585048,
+        "pb": 533603,
         "streak": 11,
-        "matches": 579,
-        "playtime": 414378606,
-        "finished": 257,
-        "finishtime": 207528120,
-        "won": 353,
+        "matches": 580,
+        "playtime": 414912209,
+        "finished": 258,
+        "finishtime": 208061723,
+        "won": 354,
         "lost": 210,
         "forfeited": 33
     },
@@ -4071,13 +4071,13 @@
         },
         "pb": 496245,
         "streak": 7,
-        "matches": 636,
-        "playtime": 421099883,
+        "matches": 637,
+        "playtime": 421507434,
         "finished": 224,
         "finishtime": 173666942,
         "won": 331,
-        "lost": 282,
-        "forfeited": 68
+        "lost": 283,
+        "forfeited": 69
     },
     "7da8a7daee7b45bf844e3fd11e9fd854": {
         "nickname": "Lathilla",
