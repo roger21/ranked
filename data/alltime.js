@@ -351,12 +351,12 @@
         },
         "pb": 533603,
         "streak": 11,
-        "matches": 581,
-        "playtime": 415505975,
+        "matches": 583,
+        "playtime": 416838055,
         "finished": 258,
         "finishtime": 208061723,
         "won": 354,
-        "lost": 211,
+        "lost": 213,
         "forfeited": 33
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
@@ -1388,7 +1388,7 @@
             "4": 1643,
             "5": 1641,
             "6": 1712,
-            "7": 1365
+            "7": 1376
         },
         "points": {
             "1": 0,
@@ -1401,12 +1401,12 @@
         },
         "pb": 580860,
         "streak": 11,
-        "matches": 2527,
-        "playtime": 1898031794,
-        "finished": 764,
-        "finishtime": 697027102,
-        "won": 1290,
-        "lost": 1133,
+        "matches": 2529,
+        "playtime": 1899621691,
+        "finished": 765,
+        "finishtime": 697843965,
+        "won": 1291,
+        "lost": 1134,
         "forfeited": 233
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -2781,13 +2781,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 7376,
-        "playtime": 4901661596,
-        "finished": 2556,
-        "finishtime": 1960757208,
-        "won": 3605,
-        "lost": 3346,
-        "forfeited": 853
+        "matches": 7379,
+        "playtime": 4903141527,
+        "finished": 2557,
+        "finishtime": 1961346707,
+        "won": 3606,
+        "lost": 3348,
+        "forfeited": 854
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
         "nickname": "Kxpow",
@@ -4071,11 +4071,11 @@
         },
         "pb": 496245,
         "streak": 7,
-        "matches": 639,
-        "playtime": 422828052,
+        "matches": 640,
+        "playtime": 423132913,
         "finished": 225,
         "finishtime": 174260708,
-        "won": 332,
+        "won": 333,
         "lost": 284,
         "forfeited": 69
     },
@@ -4138,5 +4138,35 @@
         "won": 1042,
         "lost": 877,
         "forfeited": 399
+    },
+    "5a32f1e5609847c691c07730f973397c": {
+        "nickname": "DARVY__X1",
+        "top": {
+            "1": 1468,
+            "2": 1556,
+            "3": 1574,
+            "4": 1578,
+            "5": 1717,
+            "6": 1783,
+            "7": 1674
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 25,
+            "6": 25,
+            "7": 10
+        },
+        "pb": 472532,
+        "streak": 13,
+        "matches": 903,
+        "playtime": 573273490,
+        "finished": 301,
+        "finishtime": 231061601,
+        "won": 483,
+        "lost": 380,
+        "forfeited": 206
     }
 }
