@@ -2991,13 +2991,13 @@
         },
         "pb": 523054,
         "streak": 11,
-        "matches": 1435,
-        "playtime": 1058271544,
+        "matches": 1437,
+        "playtime": 1059224364,
         "finished": 500,
         "finishtime": 420491226,
-        "won": 725,
-        "lost": 634,
-        "forfeited": 116
+        "won": 726,
+        "lost": 635,
+        "forfeited": 117
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
