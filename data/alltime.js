@@ -1371,13 +1371,13 @@
         },
         "pb": 507044,
         "streak": 10,
-        "matches": 1986,
-        "playtime": 1216068443,
+        "matches": 1988,
+        "playtime": 1216564944,
         "finished": 642,
         "finishtime": 502620800,
-        "won": 993,
-        "lost": 841,
-        "forfeited": 378
+        "won": 994,
+        "lost": 842,
+        "forfeited": 379
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
@@ -1731,12 +1731,12 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 2418,
-        "playtime": 1595485838,
+        "matches": 2420,
+        "playtime": 1596374100,
         "finished": 739,
         "finishtime": 604632103,
-        "won": 1257,
-        "lost": 1088,
+        "won": 1258,
+        "lost": 1089,
         "forfeited": 571
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
