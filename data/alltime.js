@@ -2961,13 +2961,13 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4538,
-        "playtime": 3083658306,
+        "matches": 4539,
+        "playtime": 3083830056,
         "finished": 1468,
         "finishtime": 1176641711,
         "won": 2268,
-        "lost": 2097,
-        "forfeited": 542
+        "lost": 2098,
+        "forfeited": 543
     },
     "0b08bb3e9b4f4e3c9bbdbf32c8f046b0": {
         "nickname": "_loro1",
@@ -3471,12 +3471,12 @@
         },
         "pb": 463742,
         "streak": 11,
-        "matches": 3390,
-        "playtime": 2315010847,
+        "matches": 3391,
+        "playtime": 2315623204,
         "finished": 1191,
         "finishtime": 890763249,
         "won": 1715,
-        "lost": 1542,
+        "lost": 1543,
         "forfeited": 74
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
@@ -3788,7 +3788,7 @@
             "4": 1505,
             "5": 1495,
             "6": 1509,
-            "7": 1835
+            "7": 1853
         },
         "points": {
             "1": 0,
@@ -3801,11 +3801,11 @@
         },
         "pb": 467435,
         "streak": 10,
-        "matches": 266,
-        "playtime": 165945098,
-        "finished": 115,
-        "finishtime": 86503129,
-        "won": 170,
+        "matches": 267,
+        "playtime": 166557455,
+        "finished": 116,
+        "finishtime": 87115486,
+        "won": 171,
         "lost": 88,
         "forfeited": 39
     },
@@ -4041,12 +4041,12 @@
         },
         "pb": 439581,
         "streak": 12,
-        "matches": 3447,
-        "playtime": 2121590666,
+        "matches": 3448,
+        "playtime": 2122379782,
         "finished": 1129,
         "finishtime": 864580644,
         "won": 1690,
-        "lost": 1598,
+        "lost": 1599,
         "forfeited": 925
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
