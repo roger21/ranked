@@ -3681,13 +3681,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3242,
-        "playtime": 1830011701,
+        "matches": 3243,
+        "playtime": 1830452707,
         "finished": 1127,
         "finishtime": 782660120,
         "won": 1650,
-        "lost": 1514,
-        "forfeited": 972
+        "lost": 1515,
+        "forfeited": 973
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
