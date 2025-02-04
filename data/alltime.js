@@ -3231,12 +3231,12 @@
         },
         "pb": 499502,
         "streak": 11,
-        "matches": 3038,
-        "playtime": 2099372198,
+        "matches": 3039,
+        "playtime": 2100217007,
         "finished": 901,
         "finishtime": 725527181,
         "won": 1498,
-        "lost": 1387,
+        "lost": 1388,
         "forfeited": 282
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -4131,13 +4131,13 @@
         },
         "pb": 470061,
         "streak": 9,
-        "matches": 2027,
-        "playtime": 1324660395,
+        "matches": 2028,
+        "playtime": 1324987613,
         "finished": 675,
         "finishtime": 556503633,
         "won": 1051,
-        "lost": 890,
-        "forfeited": 402
+        "lost": 891,
+        "forfeited": 403
     },
     "5a32f1e5609847c691c07730f973397c": {
         "nickname": "DARVY__X1",
