@@ -621,13 +621,13 @@
         },
         "pb": 524331,
         "streak": 13,
-        "matches": 1733,
-        "playtime": 1279892404,
+        "matches": 1734,
+        "playtime": 1280791838,
         "finished": 630,
         "finishtime": 521225052,
         "won": 945,
-        "lost": 751,
-        "forfeited": 23
+        "lost": 752,
+        "forfeited": 24
     },
     "182a4a03fae54aa7aed4de1cf1f93d2b": {
         "nickname": "_BiBinka_",
@@ -3021,11 +3021,11 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2835,
-        "playtime": 1942697832,
+        "matches": 2836,
+        "playtime": 1943597266,
         "finished": 849,
         "finishtime": 732726003,
-        "won": 1448,
+        "won": 1449,
         "lost": 1270,
         "forfeited": 514
     },
