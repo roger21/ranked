@@ -2391,13 +2391,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 6833,
-        "playtime": 4402690765,
+        "matches": 6834,
+        "playtime": 4403336660,
         "finished": 2393,
         "finishtime": 1861893625,
         "won": 3398,
-        "lost": 3205,
-        "forfeited": 1174
+        "lost": 3206,
+        "forfeited": 1175
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
@@ -2781,8 +2781,8 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 7470,
-        "playtime": 4958661649,
+        "matches": 7471,
+        "playtime": 4959832537,
         "finished": 2591,
         "finishtime": 1983645813,
         "won": 3649,
@@ -3788,7 +3788,7 @@
             "4": 1505,
             "5": 1495,
             "6": 1509,
-            "7": 1870
+            "7": 1875
         },
         "points": {
             "1": 0,
@@ -3801,11 +3801,11 @@
         },
         "pb": 453304,
         "streak": 10,
-        "matches": 311,
-        "playtime": 195354410,
+        "matches": 312,
+        "playtime": 196000305,
         "finished": 138,
         "finishtime": 102038147,
-        "won": 195,
+        "won": 196,
         "lost": 107,
         "forfeited": 39
     },
