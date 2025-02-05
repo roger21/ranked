@@ -2781,13 +2781,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 7471,
-        "playtime": 4959832537,
-        "finished": 2591,
-        "finishtime": 1983645813,
-        "won": 3649,
-        "lost": 3389,
-        "forfeited": 860
+        "matches": 7473,
+        "playtime": 4960793732,
+        "finished": 2592,
+        "finishtime": 1984386655,
+        "won": 3650,
+        "lost": 3390,
+        "forfeited": 861
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
         "nickname": "Kxpow",
@@ -3801,12 +3801,12 @@
         },
         "pb": 453304,
         "streak": 10,
-        "matches": 312,
-        "playtime": 196000305,
+        "matches": 313,
+        "playtime": 196627200,
         "finished": 138,
         "finishtime": 102038147,
         "won": 196,
-        "lost": 107,
+        "lost": 108,
         "forfeited": 39
     },
     "d7d0b271136647fea7398a444ab51c13": {
@@ -3938,7 +3938,7 @@
             "4": 1605,
             "5": 1663,
             "6": 1908,
-            "7": 1677
+            "7": 1680
         },
         "points": {
             "1": 0,
@@ -3951,11 +3951,11 @@
         },
         "pb": 473813,
         "streak": 22,
-        "matches": 5065,
-        "playtime": 3396782372,
-        "finished": 1466,
-        "finishtime": 1255941436,
-        "won": 2475,
+        "matches": 5066,
+        "playtime": 3397409267,
+        "finished": 1467,
+        "finishtime": 1256568331,
+        "won": 2476,
         "lost": 2379,
         "forfeited": 1204
     },
