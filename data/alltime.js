@@ -4221,13 +4221,13 @@
         },
         "pb": 508447,
         "streak": 10,
-        "matches": 2016,
-        "playtime": 1318533626,
+        "matches": 2017,
+        "playtime": 1319049970,
         "finished": 632,
         "finishtime": 539157025,
         "won": 1048,
-        "lost": 917,
-        "forfeited": 510
+        "lost": 918,
+        "forfeited": 511
     },
     "542eca51763f42ed925b8a68122a99fd": {
         "nickname": "m3rcury_uwu",
