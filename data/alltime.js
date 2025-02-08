@@ -3308,7 +3308,7 @@
             "4": 1771,
             "5": 2018,
             "6": 2116,
-            "7": 1901
+            "7": 1913
         },
         "points": {
             "1": 0,
@@ -3321,11 +3321,11 @@
         },
         "pb": 439961,
         "streak": 9,
-        "matches": 2916,
-        "playtime": 1742463085,
+        "matches": 2917,
+        "playtime": 1742651767,
         "finished": 1083,
         "finishtime": 748710164,
-        "won": 1451,
+        "won": 1452,
         "lost": 1306,
         "forfeited": 566
     },
@@ -3379,13 +3379,13 @@
             "6": 35,
             "7": 5
         },
-        "pb": 479109,
+        "pb": 460168,
         "streak": 12,
-        "matches": 655,
-        "playtime": 462239017,
-        "finished": 235,
-        "finishtime": 198410892,
-        "won": 373,
+        "matches": 657,
+        "playtime": 463324963,
+        "finished": 237,
+        "finishtime": 199496838,
+        "won": 375,
         "lost": 256,
         "forfeited": 60
     },
@@ -4281,13 +4281,13 @@
         },
         "pb": 433890,
         "streak": 14,
-        "matches": 4294,
-        "playtime": 2621559453,
+        "matches": 4296,
+        "playtime": 2622373913,
         "finished": 1286,
         "finishtime": 1070774764,
         "won": 2141,
-        "lost": 1970,
-        "forfeited": 1156
+        "lost": 1972,
+        "forfeited": 1157
     },
     "6c4b4e74963d40e3b5a7118f3e0b0dc4": {
         "nickname": "LeahSR",
