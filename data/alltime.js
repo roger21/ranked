@@ -218,7 +218,7 @@
             "4": 2322,
             "5": 2338,
             "6": 2475,
-            "7": 2142
+            "7": 2155
         },
         "points": {
             "1": 0,
@@ -231,11 +231,11 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5114,
-        "playtime": 3293336323,
-        "finished": 2619,
-        "finishtime": 1783249762,
-        "won": 3360,
+        "matches": 5116,
+        "playtime": 3294462082,
+        "finished": 2621,
+        "finishtime": 1784375521,
+        "won": 3362,
         "lost": 1607,
         "forfeited": 181
     },
@@ -831,12 +831,12 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 2834,
-        "playtime": 1758096759,
-        "finished": 981,
-        "finishtime": 775056751,
-        "won": 1499,
-        "lost": 1265,
+        "matches": 2836,
+        "playtime": 1759281221,
+        "finished": 982,
+        "finishtime": 775607823,
+        "won": 1500,
+        "lost": 1266,
         "forfeited": 617
     },
     "31f96d84ed9844bcabbd07f828001290": {
@@ -3021,13 +3021,13 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2874,
-        "playtime": 1964498309,
+        "matches": 2876,
+        "playtime": 1965430339,
         "finished": 861,
         "finishtime": 740858759,
         "won": 1469,
-        "lost": 1288,
-        "forfeited": 518
+        "lost": 1290,
+        "forfeited": 519
     },
     "36a441538cbc463da6a877e6ebc8af91": {
         "nickname": "megelimc",
@@ -3171,13 +3171,13 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 2889,
-        "playtime": 2153694492,
-        "finished": 806,
-        "finishtime": 714319445,
-        "won": 1450,
-        "lost": 1289,
-        "forfeited": 340
+        "matches": 2893,
+        "playtime": 2155194786,
+        "finished": 807,
+        "finishtime": 714913991,
+        "won": 1452,
+        "lost": 1290,
+        "forfeited": 341
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
@@ -3831,12 +3831,12 @@
         },
         "pb": 476873,
         "streak": 13,
-        "matches": 3825,
-        "playtime": 2607670545,
-        "finished": 1083,
-        "finishtime": 908042321,
-        "won": 1884,
-        "lost": 1748,
+        "matches": 3827,
+        "playtime": 2608815451,
+        "finished": 1084,
+        "finishtime": 908675711,
+        "won": 1885,
+        "lost": 1749,
         "forfeited": 726
     },
     "a501fd2185d94d3591ac9075880d6350": {
