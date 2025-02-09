@@ -9,6 +9,8 @@
   ini_set("html_errors", "0");
   ini_set("log_errors", "0");
 
+  $api_url="https://api.mcsrranked.com/";
+
   $context=null;
   if(isset($_SERVER["API_KEY"]) && $_SERVER["API_KEY"] !== ""){
     $apikey=$_SERVER["API_KEY"];
@@ -32,7 +34,7 @@
     $season=$argv[1];
     $season_p="&season=$season";
     $season_p1="?season=$season";
-    $last_match=(file_get_contents("https://mcsrranked.com/api/matches?page=0".
+    $last_match=(file_get_contents($api_url."matches?page=0".
                                    "&count=1type=2&includedecay{$season_p}",
                                    false, $context));
     if($last_match === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
@@ -59,7 +61,7 @@
   $visited=[];
   $new=[];
 
-  $leaderboard=(file_get_contents("https://mcsrranked.com/api/leaderboard{$season_p1}",
+  $leaderboard=(file_get_contents($api_url."leaderboard{$season_p1}",
                                   false, $context));
   if($leaderboard === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
     echo "request error ".($http_response_header[0] ?? "no header")." leaderboard\n";
@@ -99,7 +101,7 @@
     $visited[]=$p["uuid"];
     $p["stats"]=[];
     unset($stats);
-    $stats=(file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}{$season_p1}",
+    $stats=(file_get_contents($api_url."users/{$p["uuid"]}{$season_p1}",
                               false, $context));
     if($stats === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
       echo "request error ".($http_response_header[0] ?? "no header")." {$p["nickname"]} stats season {$sss}\n";
@@ -144,7 +146,7 @@
     $done=false;
     while(!$done){
       unset($matches);
-      $matches=(file_get_contents("https://mcsrranked.com/api/users/{$p["uuid"]}/".
+      $matches=(file_get_contents($api_url."users/{$p["uuid"]}/".
                                   "matches?page={$page}&count=50&type=2{$season_p}",
                                   false, $context));
       if($matches === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
@@ -217,7 +219,7 @@
   foreach($at as $uuid => &$a){
     if(!in_array($uuid, $visited, true)){
       unset($stats);
-      $stats=(file_get_contents("https://mcsrranked.com/api/users/{$uuid}{$season_p1}",
+      $stats=(file_get_contents($api_url."users/{$uuid}{$season_p1}",
                                 false, $context));
       if($stats === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
         echo "request error ".($http_response_header[0] ?? "no header")." old {$uuid} stats season {$sss}\n";
@@ -254,7 +256,7 @@
     for($s=1; $s < $sss; ++$s){
       $season_l="?season=".$s;
       unset($stats);
-      $stats=(file_get_contents("https://mcsrranked.com/api/users/{$uuid}{$season_l}",
+      $stats=(file_get_contents($api_url."users/{$uuid}{$season_l}",
                                 false, $context));
       if($stats === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
         echo "request error ".($http_response_header[0] ?? "no header")." new {$uuid} stats season {$s}\n";

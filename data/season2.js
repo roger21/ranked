@@ -54212,7 +54212,7 @@
                     "type": "SHIPWRECK",
                     "bastion": null,
                     "result": "won",
-                    "opponent": "marisakitty",
+                    "opponent": "PuppyBoyASMR",
                     "elo": 1478,
                     "change": 13,
                     "oelo": 1247,
