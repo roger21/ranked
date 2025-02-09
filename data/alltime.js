@@ -2078,7 +2078,7 @@
             "4": 1850,
             "5": 1662,
             "6": 1538,
-            "7": 1257
+            "7": 1282
         },
         "points": {
             "1": 0,
@@ -2091,11 +2091,11 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 1261,
-        "playtime": 933138257,
-        "finished": 422,
-        "finishtime": 366842475,
-        "won": 654,
+        "matches": 1263,
+        "playtime": 934143219,
+        "finished": 423,
+        "finishtime": 367618202,
+        "won": 656,
         "lost": 537,
         "forfeited": 59
     },
@@ -2228,7 +2228,7 @@
             "4": 2082,
             "5": 1994,
             "6": 2080,
-            "7": 1824
+            "7": 1827
         },
         "points": {
             "1": 0,
@@ -2241,11 +2241,11 @@
         },
         "pb": 417055,
         "streak": 17,
-        "matches": 4573,
-        "playtime": 2929809482,
-        "finished": 1596,
-        "finishtime": 1174251780,
-        "won": 2261,
+        "matches": 4574,
+        "playtime": 2930452956,
+        "finished": 1597,
+        "finishtime": 1174895254,
+        "won": 2262,
         "lost": 2105,
         "forfeited": 532
     },
@@ -3831,12 +3831,12 @@
         },
         "pb": 476873,
         "streak": 13,
-        "matches": 3841,
-        "playtime": 2617963556,
+        "matches": 3842,
+        "playtime": 2618607030,
         "finished": 1092,
         "finishtime": 914567270,
         "won": 1895,
-        "lost": 1753,
+        "lost": 1754,
         "forfeited": 726
     },
     "a501fd2185d94d3591ac9075880d6350": {
@@ -4251,13 +4251,13 @@
         },
         "pb": 487316,
         "streak": 9,
-        "matches": 3816,
-        "playtime": 2329689636,
+        "matches": 3817,
+        "playtime": 2330323029,
         "finished": 1031,
         "finishtime": 839301468,
         "won": 1858,
-        "lost": 1730,
-        "forfeited": 1063
+        "lost": 1731,
+        "forfeited": 1064
     },
     "f2e05ad464b54d288fa18da14e9a2786": {
         "nickname": "LEC666888",
@@ -4281,11 +4281,11 @@
         },
         "pb": 433890,
         "streak": 14,
-        "matches": 4314,
-        "playtime": 2632598842,
-        "finished": 1292,
-        "finishtime": 1075053591,
-        "won": 2150,
+        "matches": 4315,
+        "playtime": 2633341419,
+        "finished": 1293,
+        "finishtime": 1075796168,
+        "won": 2151,
         "lost": 1980,
         "forfeited": 1161
     },
