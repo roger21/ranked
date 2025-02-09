@@ -171,12 +171,12 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 2860,
-        "playtime": 1829528652,
+        "matches": 2861,
+        "playtime": 1830206918,
         "finished": 1305,
         "finishtime": 957177348,
         "won": 1775,
-        "lost": 1038,
+        "lost": 1039,
         "forfeited": 315
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
@@ -3081,13 +3081,13 @@
         },
         "pb": 565910,
         "streak": 10,
-        "matches": 1492,
-        "playtime": 1032518647,
+        "matches": 1493,
+        "playtime": 1032823570,
         "finished": 417,
         "finishtime": 376569367,
         "won": 734,
-        "lost": 671,
-        "forfeited": 343
+        "lost": 672,
+        "forfeited": 344
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
         "nickname": "MIKU_LUVR_998",
@@ -3818,7 +3818,7 @@
             "4": 1580,
             "5": 1713,
             "6": 1701,
-            "7": 1815
+            "7": 1845
         },
         "points": {
             "1": 0,
@@ -3831,11 +3831,11 @@
         },
         "pb": 476873,
         "streak": 13,
-        "matches": 3839,
-        "playtime": 2616546976,
-        "finished": 1091,
-        "finishtime": 913889004,
-        "won": 1894,
+        "matches": 3840,
+        "playtime": 2617225242,
+        "finished": 1092,
+        "finishtime": 914567270,
+        "won": 1895,
         "lost": 1752,
         "forfeited": 726
     },
