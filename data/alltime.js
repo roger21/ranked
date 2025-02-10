@@ -771,13 +771,13 @@
         },
         "pb": 566523,
         "streak": 10,
-        "matches": 1617,
-        "playtime": 1202220700,
+        "matches": 1618,
+        "playtime": 1202912688,
         "finished": 576,
         "finishtime": 490578070,
         "won": 869,
-        "lost": 722,
-        "forfeited": 85
+        "lost": 723,
+        "forfeited": 86
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
         "nickname": "SuperC_",
