@@ -728,7 +728,7 @@
             "4": 1856,
             "5": 1663,
             "6": 1727,
-            "7": 1475
+            "7": 1491
         },
         "points": {
             "1": 0,
@@ -741,11 +741,11 @@
         },
         "pb": 526792,
         "streak": 12,
-        "matches": 1147,
-        "playtime": 759715717,
+        "matches": 1148,
+        "playtime": 760306246,
         "finished": 380,
         "finishtime": 311700103,
-        "won": 604,
+        "won": 605,
         "lost": 495,
         "forfeited": 169
     },
@@ -1041,13 +1041,13 @@
         },
         "pb": 489574,
         "streak": 10,
-        "matches": 1648,
-        "playtime": 1070040748,
+        "matches": 1650,
+        "playtime": 1071232340,
         "finished": 528,
         "finishtime": 420063327,
         "won": 845,
-        "lost": 734,
-        "forfeited": 293
+        "lost": 736,
+        "forfeited": 294
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
@@ -3021,13 +3021,13 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2891,
-        "playtime": 1974922576,
+        "matches": 2893,
+        "playtime": 1975831620,
         "finished": 865,
         "finishtime": 744074507,
-        "won": 1476,
-        "lost": 1298,
-        "forfeited": 522
+        "won": 1477,
+        "lost": 1299,
+        "forfeited": 523
     },
     "36a441538cbc463da6a877e6ebc8af91": {
         "nickname": "megelimc",
