@@ -831,12 +831,12 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 2889,
-        "playtime": 1788907162,
+        "matches": 2890,
+        "playtime": 1789539982,
         "finished": 1002,
         "finishtime": 789350912,
         "won": 1527,
-        "lost": 1292,
+        "lost": 1293,
         "forfeited": 630
     },
     "31f96d84ed9844bcabbd07f828001290": {
@@ -3338,7 +3338,7 @@
             "4": 1708,
             "5": 1808,
             "6": 2042,
-            "7": 1877
+            "7": 1889
         },
         "points": {
             "1": 0,
@@ -3351,11 +3351,11 @@
         },
         "pb": 445393,
         "streak": 11,
-        "matches": 3212,
-        "playtime": 2021138724,
-        "finished": 995,
-        "finishtime": 745914994,
-        "won": 1580,
+        "matches": 3213,
+        "playtime": 2021771544,
+        "finished": 996,
+        "finishtime": 746547814,
+        "won": 1581,
         "lost": 1459,
         "forfeited": 642
     },
@@ -3981,13 +3981,13 @@
         },
         "pb": 433890,
         "streak": 14,
-        "matches": 4369,
-        "playtime": 2663855071,
+        "matches": 4370,
+        "playtime": 2664629275,
         "finished": 1313,
         "finishtime": 1090038117,
         "won": 2176,
-        "lost": 2008,
-        "forfeited": 1173
+        "lost": 2009,
+        "forfeited": 1174
     },
     "addd890764404097b3f12acdde2adf33": {
         "nickname": "Hypn0tic2030",
