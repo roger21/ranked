@@ -240,7 +240,7 @@
   file_put_contents("../data/season{$season}.js",
                     json_encode($data, JSON_PRETTY_PRINT));
 
-  ksort($visited, SORT_STRING);
+  sort($visited, SORT_STRING);
   $ot[$sss]=$visited;
   ksort($ot, SORT_NUMERIC);
   file_put_contents("../data/oldtime.js",
