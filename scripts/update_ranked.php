@@ -15,7 +15,8 @@
   if(isset($_SERVER["API_KEY"]) && $_SERVER["API_KEY"] !== ""){
     $apikey=$_SERVER["API_KEY"];
     $context=stream_context_create(["http" => ["method" => "GET",
-                                               "header" => "API-Key: ".$apikey."\r\n"]]);
+                                               "header" => "API-Key: ".
+                                               $apikey."\r\n"]]);
     echo "apikey ok ".(strlen($apikey))."\n"; // 64
   }else{
     echo "no apikey\n";
@@ -34,11 +35,14 @@
     $season=$argv[1];
     $season_p="&season=$season";
     $season_p1="?season=$season";
-    $last_match=(file_get_contents($api_url."matches?page=0".
-                                   "&count=1type=2&includedecay{$season_p}",
+    $last_match=(file_get_contents($api_url."matches?page=0&count=1&".
+                                   "type=2&includedecay{$season_p}",
                                    false, $context));
-    if($last_match === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
-      echo "request error ".($http_response_header[0] ?? "no header")." season {$season}\n";
+    if($last_match === false ||
+       !isset($http_response_header[0]) ||
+       $http_response_header[0] !== "HTTP/1.1 200 OK"){
+      echo "request error ".($http_response_header[0] ?? "no header").
+                           " season {$season}\n";
       die(1);
     }
     echo "(".(++$request_counter).") season {$season}\n";
@@ -58,13 +62,23 @@
   }else{
     $at=json_decode($alltime, true, 512, JSON_OBJECT_AS_ARRAY);
   }
+  $oldtime=@file_get_contents("../data/oldtime.js");
+  if($oldtime === false){
+    $ot=[];
+    echo "new old time\n";
+  }else{
+    $ot=json_decode($oldtime, true, 512, JSON_OBJECT_AS_ARRAY);
+  }
   $visited=[];
   $new=[];
 
   $leaderboard=(file_get_contents($api_url."leaderboard{$season_p1}",
                                   false, $context));
-  if($leaderboard === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
-    echo "request error ".($http_response_header[0] ?? "no header")." leaderboard\n";
+  if($leaderboard === false ||
+     !isset($http_response_header[0]) ||
+     $http_response_header[0] !== "HTTP/1.1 200 OK"){
+    echo "request error ".($http_response_header[0] ?? "no header").
+                         " leaderboard\n";
     die(1);
   }
   echo "(".(++$request_counter).") leaderboard\n";
@@ -78,7 +92,8 @@
       die(1);
     }
     $season_j=["season" => $sss];
-    file_put_contents("../data/current.js", json_encode($season_j, JSON_PRETTY_PRINT));
+    file_put_contents("../data/current.js",
+                      json_encode($season_j, JSON_PRETTY_PRINT));
     echo "season $sss\n";
   }
 
@@ -103,11 +118,15 @@
     unset($stats);
     $stats=(file_get_contents($api_url."users/{$p["uuid"]}{$season_p1}",
                               false, $context));
-    if($stats === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
-      echo "request error ".($http_response_header[0] ?? "no header")." {$p["nickname"]} stats season {$sss}\n";
+    if($stats === false ||
+       !isset($http_response_header[0]) ||
+       $http_response_header[0] !== "HTTP/1.1 200 OK"){
+      echo "request error ".($http_response_header[0] ?? "no header").
+                           " {$p["nickname"]} stats season {$sss}\n";
       die(1);
     }
-    echo "(".(++$request_counter).") {$p["nickname"]} stats season {$sss}\n";
+    echo "(".(++$request_counter).
+            ") {$p["nickname"]} stats season {$sss}\n";
     unset($ss);
     $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
@@ -147,10 +166,14 @@
     while(!$done){
       unset($matches);
       $matches=(file_get_contents($api_url."users/{$p["uuid"]}/".
-                                  "matches?page={$page}&count=50&type=2{$season_p}",
+                                  "matches?page={$page}&".
+                                  "count=50&type=2{$season_p}",
                                   false, $context));
-      if($matches === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
-        echo "request error ".($http_response_header[0] ?? "no header")." {$p["nickname"]} page {$page}\n";
+      if($matches === false ||
+         !isset($http_response_header[0]) ||
+         $http_response_header[0] !== "HTTP/1.1 200 OK"){
+        echo "request error ".($http_response_header[0] ?? "no header").
+                             " {$p["nickname"]} page {$page}\n";
         die(1);
       }
       echo "(".(++$request_counter).") {$p["nickname"]} page {$page}\n";
@@ -194,7 +217,8 @@
                            "change" => $change,
                            "oelo" => $oelo,
                            "ochange" => $ochange,
-                           "time" => $m["result"] === null ? 0 : $m["result"]["time"],
+                           "time" => $m["result"] === null ?
+                           0 : $m["result"]["time"],
                            "forfeited" => $m["forfeited"],
                            "decayed" => $m["decayed"],];
         }else{
@@ -207,22 +231,46 @@
         $done=true;
       }
     }
-    echo "#".(++$player_counter)." {$p["nickname"]} ".(count($p["matches"]))." matches\n";
+    echo "#".(++$player_counter)." {$p["nickname"]} ".
+            (count($p["matches"]))." matches\n";
     unset($p);
   }
 
   $data=["date" => $now, "players" => $pp];
-  file_put_contents("../data/season{$season}.js", json_encode($data, JSON_PRETTY_PRINT));
+  file_put_contents("../data/season{$season}.js",
+                    json_encode($data, JSON_PRETTY_PRINT));
 
-  // mise à jour des all time pour les joueurs déjà présents mais pas sur cette saison (les old)
+  ksort($visited, SORT_STRING);
+  $ot[$sss]=$visited;
+  ksort($ot, SORT_NUMERIC);
+  file_put_contents("../data/oldtime.js",
+                    json_encode($ot, JSON_PRETTY_PRINT));
+
+  $ooo=[];
+  echo "count(\$ooo) ".count($ooo)."\n";
+  foreach($ot as $o){
+    $ooo=array_merge($ooo, $o);
+    echo "count(\$ooo) ".count($ooo)."\n";
+  }
+  $ooo=array_unique($ooo, SORT_STRING);
+  echo "unique(\$ooo) ".count($ooo)."\n";
+
+  // mise à jour des all time pour les joueurs
+  // déjà présents mais pas sur cette saison (les old)
   $old_cpt=0;
   foreach($at as $uuid => &$a){
-    if(!in_array($uuid, $visited, true)){
+    if(!in_array($uuid, $ooo, true)){
+      unset($at[$uuid]);
+      echo "removed {$uuid} from alltime";
+    }elseif(!in_array($uuid, $visited, true)){
       unset($stats);
       $stats=(file_get_contents($api_url."users/{$uuid}{$season_p1}",
                                 false, $context));
-      if($stats === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
-        echo "request error ".($http_response_header[0] ?? "no header")." old {$uuid} stats season {$sss}\n";
+      if($stats === false ||
+         !isset($http_response_header[0]) ||
+         $http_response_header[0] !== "HTTP/1.1 200 OK"){
+        echo "request error ".($http_response_header[0] ?? "no header").
+                             " old {$uuid} stats season {$sss}\n";
         die(1);
       }
       echo "(".(++$request_counter).") old {$uuid} stats season {$sss}\n";
@@ -250,24 +298,27 @@
   }
   echo "{$old_cpt} old\n";
 
-  // mise à jour des all time pour les nouveaux joueurs sur cette saison (les new)
+  // mise à jour des all time pour les nouveaux joueurs
+  // sur cette saison (les new)
   $new_cpt=0;
   foreach($new as $uuid){
-    for($s=1; $s < $sss; ++$s){
-      $season_l="?season=".$s;
-      unset($stats);
-      $stats=(file_get_contents($api_url."users/{$uuid}{$season_l}",
-                                false, $context));
-      if($stats === false || !isset($http_response_header[0]) || $http_response_header[0] !== "HTTP/1.1 200 OK"){
-        echo "request error ".($http_response_header[0] ?? "no header")." new {$uuid} stats season {$s}\n";
-        die(1);
-      }
-      echo "(".(++$request_counter).") new {$uuid} stats season {$s}\n";
-      unset($ss);
-      $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
+    unset($stats);
+    $stats=(file_get_contents($api_url."users/{$uuid}/seasons",
+                              false, $context));
+    if($stats === false ||
+       !isset($http_response_header[0]) ||
+       $http_response_header[0] !== "HTTP/1.1 200 OK"){
+      echo "request error ".($http_response_header[0] ?? "no header").
+                           " new {$uuid} stats seasons\n";
+      die(1);
+    }
+    echo "(".(++$request_counter).") new {$uuid} stats seasons\n";
+    unset($ss);
+    $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
+    foreach($ss["data"]["seasonResults"] as $s => $sr){
 
-      $at[$uuid]["top"][$s]=$ss["data"]["seasonResult"]["highest"] ?? 0;
-      $at[$uuid]["points"][$s]=$ss["data"]["seasonResult"]["last"]["phasePoint"] ?? 0;
+      $at[$uuid]["top"][$s]=$sr["highest"] ?? 0;
+      $at[$uuid]["points"][$s]=$sr["last"]["phasePoint"] ?? 0;
 
     }
     ksort($at[$uuid]["top"], SORT_NUMERIC);
@@ -276,7 +327,9 @@
   }
   echo "{$new_cpt} new\n";
 
-  file_put_contents("../data/alltime.js", json_encode($at, JSON_PRETTY_PRINT));
+  ksort($at, SORT_STRING);
+  file_put_contents("../data/alltime.js",
+                    json_encode($at, JSON_PRETTY_PRINT));
 
 }
 
