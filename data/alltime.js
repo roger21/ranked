@@ -1,6 +1,7 @@
 {
     "00f996cd910f479ba0903d85c2bdb1e0": {
         "nickname": "Bloonskiller",
+        "country": null,
         "top": {
             "1": 1544,
             "2": 1739,
@@ -31,6 +32,7 @@
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
+        "country": "mn",
         "top": {
             "2": 1584,
             "3": 1570,
@@ -59,6 +61,7 @@
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
+        "country": "im",
         "top": {
             "1": 1831,
             "2": 1585,
@@ -89,6 +92,7 @@
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
+        "country": null,
         "top": {
             "1": 1934,
             "2": 0,
@@ -119,6 +123,7 @@
     },
     "0b08bb3e9b4f4e3c9bbdbf32c8f046b0": {
         "nickname": "_loro1",
+        "country": null,
         "top": {
             "3": 1482,
             "4": 1816,
@@ -145,6 +150,7 @@
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
         "nickname": "NOHACKSJUSTTIGER",
+        "country": "pt",
         "top": {
             "1": 1741,
             "2": 1583,
@@ -175,6 +181,7 @@
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
         "nickname": "90Tom",
+        "country": null,
         "top": {
             "1": 1925,
             "2": 1726,
@@ -205,6 +212,7 @@
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
+        "country": null,
         "top": {
             "1": 1500,
             "2": 1668,
@@ -235,6 +243,7 @@
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
         "nickname": "MrBudgiee",
+        "country": "ca",
         "top": {
             "2": 1805,
             "3": 1904,
@@ -263,6 +272,7 @@
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
         "nickname": "xLourx",
+        "country": null,
         "top": {
             "1": 1808,
             "2": 1693,
@@ -293,6 +303,7 @@
     },
     "0f48f3d94d154d38b0ec3fa17f9f51b9": {
         "nickname": "AntiCheeat",
+        "country": null,
         "top": {
             "5": 1307,
             "6": 1910,
@@ -315,6 +326,7 @@
     },
     "11dd5549074b4cb1830d7ca103a01cc7": {
         "nickname": "mxkky_",
+        "country": null,
         "top": {
             "1": 1447,
             "2": 1642,
@@ -345,6 +357,7 @@
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
+        "country": null,
         "top": {
             "1": 1528,
             "2": 1820,
@@ -375,6 +388,7 @@
     },
     "17e787d1d6374f818b294f2319db370d": {
         "nickname": "silverrruns",
+        "country": null,
         "top": {
             "1": 2309,
             "2": 2114,
@@ -405,6 +419,7 @@
     },
     "182a4a03fae54aa7aed4de1cf1f93d2b": {
         "nickname": "_BiBinka_",
+        "country": null,
         "top": {
             "1": 1925,
             "2": 1646,
@@ -435,6 +450,7 @@
     },
     "1ae14cb96a2f4357a71efac6f7012b59": {
         "nickname": "Cube1337x",
+        "country": null,
         "top": {
             "4": 2038,
             "5": 1964,
@@ -459,6 +475,7 @@
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
+        "country": "au",
         "top": {
             "1": 1839,
             "2": 1676,
@@ -489,6 +506,7 @@
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
+        "country": "ca",
         "top": {
             "1": 1439,
             "2": 1698,
@@ -519,6 +537,7 @@
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
         "nickname": "temp_gd",
+        "country": null,
         "top": {
             "1": 1531,
             "2": 1644,
@@ -549,6 +568,7 @@
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
         "nickname": "Hinart",
+        "country": "ua",
         "top": {
             "1": 1871,
             "2": 1626.5,
@@ -579,6 +599,7 @@
     },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
+        "country": null,
         "top": {
             "1": 1990,
             "2": 1818,
@@ -609,6 +630,7 @@
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
         "nickname": "SuperC_",
+        "country": "au",
         "top": {
             "1": 1808,
             "2": 1676,
@@ -639,6 +661,7 @@
     },
     "2988fcfbc6b141a497faa915e13b6592": {
         "nickname": "DziabaDziuba",
+        "country": "pl",
         "top": {
             "1": 1644,
             "2": 1587,
@@ -669,6 +692,7 @@
     },
     "2e12870c08ec4337bc2e8fbf54e79853": {
         "nickname": "TapL",
+        "country": null,
         "top": {
             "1": 1748,
             "2": 1757,
@@ -699,6 +723,7 @@
     },
     "2ef2bfed3d084649b56290328970ace9": {
         "nickname": "nahhann",
+        "country": null,
         "top": {
             "2": 1401,
             "3": 1503,
@@ -727,6 +752,7 @@
     },
     "2f59967f6a7841ab840e2cb032589a04": {
         "nickname": "Dylqn",
+        "country": null,
         "top": {
             "1": 1938,
             "2": 1820,
@@ -757,6 +783,7 @@
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
+        "country": null,
         "top": {
             "1": 1804,
             "2": 1604,
@@ -787,6 +814,7 @@
     },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "big_pizu",
+        "country": "us",
         "top": {
             "1": 980,
             "3": 1037,
@@ -815,6 +843,7 @@
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
+        "country": null,
         "top": {
             "1": 1721,
             "2": 1699,
@@ -845,6 +874,7 @@
     },
     "36a441538cbc463da6a877e6ebc8af91": {
         "nickname": "megelimc",
+        "country": "fi",
         "top": {
             "1": 1681,
             "2": 1584,
@@ -875,6 +905,7 @@
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
+        "country": "se",
         "top": {
             "1": 1765,
             "2": 1800,
@@ -905,6 +936,7 @@
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "dwoh",
+        "country": "kr",
         "top": {
             "1": 1802,
             "2": 1813,
@@ -935,6 +967,7 @@
     },
     "3b01d4b4fef14f178b75f05c04dd34ef": {
         "nickname": "BeefSalad",
+        "country": "gb",
         "top": {
             "1": 1817,
             "2": 1963,
@@ -955,16 +988,17 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8270,
-        "playtime": 5169962517,
-        "finished": 3337,
-        "finishtime": 2365503946,
-        "won": 4455,
+        "matches": 8272,
+        "playtime": 5171140626,
+        "finished": 3339,
+        "finishtime": 2366682055,
+        "won": 4457,
         "lost": 3647,
         "forfeited": 1163
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
+        "country": null,
         "top": {
             "1": 1775,
             "2": 1823,
@@ -995,6 +1029,7 @@
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
         "nickname": "doogile",
+        "country": "us",
         "top": {
             "1": 2096,
             "2": 1974,
@@ -1025,6 +1060,7 @@
     },
     "3da9e8cec2d348f781a98d095b1d0325": {
         "nickname": "dolqhin",
+        "country": null,
         "top": {
             "1": 1414,
             "2": 1676,
@@ -1055,6 +1091,7 @@
     },
     "410e5776b03a424d8740557bac2d9014": {
         "nickname": "JoomzMonkey",
+        "country": "us",
         "top": {
             "1": 1497,
             "2": 1694,
@@ -1085,6 +1122,7 @@
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
+        "country": "hr",
         "top": {
             "1": 1667,
             "2": 1581,
@@ -1113,6 +1151,7 @@
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okrzej_",
+        "country": "pl",
         "top": {
             "1": 1434,
             "2": 1455,
@@ -1143,6 +1182,7 @@
     },
     "43a6669e11474827802de8401a373169": {
         "nickname": "SunOmega",
+        "country": null,
         "top": {
             "1": 1801,
             "2": 1673,
@@ -1173,6 +1213,7 @@
     },
     "4427794ee7ad48bc9b53c156fa4092e1": {
         "nickname": "kW1st",
+        "country": "ru",
         "top": {
             "1": 1942,
             "2": 1781,
@@ -1203,6 +1244,7 @@
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
         "nickname": "PEDRAOIMENSO",
+        "country": null,
         "top": {
             "1": 1759,
             "2": 1816,
@@ -1233,6 +1275,7 @@
     },
     "478b956844414cba9cfccb2977b71962": {
         "nickname": "B0g0sB1nted",
+        "country": null,
         "top": {
             "1": 1649,
             "2": 1670,
@@ -1263,6 +1306,7 @@
     },
     "4863326cccf043ecbb8ff88628bed781": {
         "nickname": "pulsar32",
+        "country": null,
         "top": {
             "1": 1829,
             "2": 1836,
@@ -1293,6 +1337,7 @@
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
+        "country": null,
         "top": {
             "1": 1797,
             "2": 1704,
@@ -1323,6 +1368,7 @@
     },
     "48d9df3377554043ba39a8500c7ad702": {
         "nickname": "DRAW_VOTE",
+        "country": "cn",
         "top": {
             "1": 1735,
             "2": 1747,
@@ -1353,6 +1399,7 @@
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
+        "country": null,
         "top": {
             "1": 1788,
             "2": 1628,
@@ -1373,16 +1420,17 @@
         },
         "pb": 580860,
         "streak": 11,
-        "matches": 2560,
-        "playtime": 1921484781,
-        "finished": 775,
-        "finishtime": 705223032,
-        "won": 1303,
+        "matches": 2561,
+        "playtime": 1922215091,
+        "finished": 776,
+        "finishtime": 705953342,
+        "won": 1304,
         "lost": 1148,
         "forfeited": 238
     },
     "4cf401d7b9474756b06a653867d22fca": {
         "nickname": "BadGamer",
+        "country": null,
         "top": {
             "1": 1686,
             "2": 1684,
@@ -1413,6 +1461,7 @@
     },
     "540de983ca7d40728a344ee5f8c7a95b": {
         "nickname": "C9_H13_NO3_",
+        "country": null,
         "top": {
             "5": 1316,
             "6": 1530,
@@ -1435,6 +1484,7 @@
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
+        "country": "tr",
         "top": {
             "1": 2000,
             "2": 1967,
@@ -1465,6 +1515,7 @@
     },
     "562a308be86c4ec09438387860e792cc": {
         "nickname": "Oxidiot",
+        "country": null,
         "top": {
             "1": 2088,
             "2": 2179,
@@ -1495,6 +1546,7 @@
     },
     "56714245be364bd1a469d0853552c109": {
         "nickname": "orachi_",
+        "country": null,
         "top": {
             "1": 2169,
             "2": 1995,
@@ -1525,6 +1577,7 @@
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
+        "country": null,
         "top": {
             "1": 1799,
             "2": 1807,
@@ -1555,6 +1608,7 @@
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
+        "country": "il",
         "top": {
             "1": 1798,
             "2": 1949,
@@ -1575,16 +1629,17 @@
         },
         "pb": 474179,
         "streak": 18,
-        "matches": 4036,
-        "playtime": 2635541189,
-        "finished": 1490,
-        "finishtime": 1120338793,
-        "won": 2099,
-        "lost": 1848,
+        "matches": 4038,
+        "playtime": 2636863315,
+        "finished": 1491,
+        "finishtime": 1121048134,
+        "won": 2100,
+        "lost": 1849,
         "forfeited": 570
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
+        "country": "br",
         "top": {
             "1": 1678,
             "2": 1661,
@@ -1615,6 +1670,7 @@
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
+        "country": null,
         "top": {
             "1": 1630,
             "2": 1482,
@@ -1645,6 +1701,7 @@
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
         "nickname": "edcr",
+        "country": "gb",
         "top": {
             "6": 1582,
             "7": 1902
@@ -1665,6 +1722,7 @@
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
+        "country": "it",
         "top": {
             "1": 1823,
             "2": 1516,
@@ -1695,6 +1753,7 @@
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
+        "country": null,
         "top": {
             "1": 1480,
             "2": 1656,
@@ -1725,6 +1784,7 @@
     },
     "70e94474db714b489b03af782a4140e9": {
         "nickname": "KaaziTheCreeper",
+        "country": "au",
         "top": {
             "1": 1213,
             "2": 1337,
@@ -1755,6 +1815,7 @@
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
         "nickname": "7rowl",
+        "country": "ua",
         "top": {
             "1": 2230,
             "2": 1977,
@@ -1785,6 +1846,7 @@
     },
     "728fdcab24b249b686c081a7fc53176e": {
         "nickname": "ContraVz",
+        "country": "ie",
         "top": {
             "1": 1384,
             "2": 1254,
@@ -1815,6 +1877,7 @@
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
+        "country": "kr",
         "top": {
             "1": 1477,
             "2": 1466,
@@ -1845,6 +1908,7 @@
     },
     "736dbdc44a3e452fa489f5344565835e": {
         "nickname": "drx6",
+        "country": "nz",
         "top": {
             "1": 1644,
             "2": 1854,
@@ -1875,6 +1939,7 @@
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
         "nickname": "Kxpow",
+        "country": "tz",
         "top": {
             "1": 1432,
             "3": 1703,
@@ -1903,6 +1968,7 @@
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
+        "country": "ar",
         "top": {
             "1": 1782,
             "2": 1696,
@@ -1933,6 +1999,7 @@
     },
     "745a819973974fe1bb1608e57fd439b6": {
         "nickname": "centuriee",
+        "country": null,
         "top": {
             "1": 1532,
             "2": 1510,
@@ -1963,6 +2030,7 @@
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
+        "country": "fr",
         "top": {
             "1": 1438,
             "3": 1662,
@@ -1991,6 +2059,7 @@
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
+        "country": null,
         "top": {
             "1": 2072,
             "2": 2147,
@@ -2021,6 +2090,7 @@
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
         "nickname": "TUDORULE",
+        "country": "ro",
         "top": {
             "1": 1633,
             "2": 1598,
@@ -2051,6 +2121,7 @@
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "shimuon",
+        "country": null,
         "top": {
             "4": 1475,
             "5": 1803,
@@ -2075,6 +2146,7 @@
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
+        "country": "hk",
         "top": {
             "1": 2168,
             "2": 2001,
@@ -2105,6 +2177,7 @@
     },
     "7d320034571e405a9b6889104489a3c4": {
         "nickname": "kohout135",
+        "country": "cz",
         "top": {
             "1": 1995,
             "2": 1820,
@@ -2135,6 +2208,7 @@
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
+        "country": null,
         "top": {
             "1": 1973,
             "2": 1850,
@@ -2165,6 +2239,7 @@
     },
     "804da783a9e14f5f8e97c6dd8b045595": {
         "nickname": "AceRPx",
+        "country": null,
         "top": {
             "1": 1891,
             "2": 1742,
@@ -2195,6 +2270,7 @@
     },
     "817a3f2e92da42ab89c64a787ce16d28": {
         "nickname": "Voxio",
+        "country": "fr",
         "top": {
             "1": 1542,
             "2": 1424,
@@ -2225,6 +2301,7 @@
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
+        "country": null,
         "top": {
             "1": 2004,
             "2": 1806,
@@ -2255,6 +2332,7 @@
     },
     "83518e9927244f319f7175f3ff7609a1": {
         "nickname": "furk1e",
+        "country": null,
         "top": {
             "1": 1367,
             "2": 1526,
@@ -2285,6 +2363,7 @@
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
+        "country": null,
         "top": {
             "1": 1649,
             "2": 1730,
@@ -2315,6 +2394,7 @@
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "yummycelery",
+        "country": "ca",
         "top": {
             "1": 1829,
             "2": 1800,
@@ -2345,6 +2425,7 @@
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
         "nickname": "4antoo",
+        "country": "it",
         "top": {
             "2": 1538,
             "3": 1648,
@@ -2373,6 +2454,7 @@
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
         "nickname": "crimso_n",
+        "country": null,
         "top": {
             "1": 1771,
             "2": 1823,
@@ -2403,6 +2485,7 @@
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
         "nickname": "Mar1n",
+        "country": "gs",
         "top": {
             "1": 1932,
             "2": 1625,
@@ -2433,6 +2516,7 @@
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
         "nickname": "MIKU_LUVR_998",
+        "country": "va",
         "top": {
             "1": 1647,
             "2": 1847,
@@ -2463,6 +2547,7 @@
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
+        "country": null,
         "top": {
             "1": 1803,
             "2": 1701,
@@ -2483,16 +2568,17 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 4853,
-        "playtime": 3358971678,
-        "finished": 1571,
-        "finishtime": 1295714406,
-        "won": 2435,
-        "lost": 2283,
-        "forfeited": 562
+        "matches": 4855,
+        "playtime": 3359963759,
+        "finished": 1572,
+        "finishtime": 1296526214,
+        "won": 2436,
+        "lost": 2284,
+        "forfeited": 563
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
+        "country": null,
         "top": {
             "1": 1675,
             "2": 1741,
@@ -2523,6 +2609,7 @@
     },
     "8e94f1731dd74683b62482d90a2a8a1c": {
         "nickname": "idwt_doanything",
+        "country": null,
         "top": {
             "1": 1227,
             "2": 1193,
@@ -2553,6 +2640,7 @@
     },
     "8fc93aecda5b4f699cf76694116eaf11": {
         "nickname": "rekrap2",
+        "country": "us",
         "top": {
             "3": 1734,
             "4": 1713,
@@ -2579,6 +2667,7 @@
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
         "nickname": "bing_pigs",
+        "country": null,
         "top": {
             "1": 2065,
             "2": 2025,
@@ -2609,6 +2698,7 @@
     },
     "939ddf85303441de901d60bfa4109318": {
         "nickname": "thecamo6",
+        "country": "us",
         "top": {
             "1": 1744,
             "2": 1641,
@@ -2639,6 +2729,7 @@
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfituah",
+        "country": "br",
         "top": {
             "1": 1520,
             "2": 1649,
@@ -2659,16 +2750,17 @@
         },
         "pb": 470508,
         "streak": 11,
-        "matches": 3178,
-        "playtime": 2149916019,
-        "finished": 1018,
-        "finishtime": 806750207,
-        "won": 1610,
+        "matches": 3179,
+        "playtime": 2150595985,
+        "finished": 1019,
+        "finishtime": 807430173,
+        "won": 1611,
         "lost": 1485,
         "forfeited": 483
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
+        "country": "se",
         "top": {
             "1": 1646,
             "2": 1765,
@@ -2699,6 +2791,7 @@
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
+        "country": "us",
         "top": {
             "1": 2309,
             "2": 2089,
@@ -2729,6 +2822,7 @@
     },
     "9c724d7793094a76a8bc9d30f397df92": {
         "nickname": "Javierixmon",
+        "country": null,
         "top": {
             "1": 1924,
             "2": 1677,
@@ -2759,6 +2853,7 @@
     },
     "a0a672a0bc194540bc195220dc170dba": {
         "nickname": "JackoWacko62",
+        "country": "us",
         "top": {
             "1": 1585,
             "2": 1590,
@@ -2789,6 +2884,7 @@
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
+        "country": null,
         "top": {
             "1": 1792,
             "2": 1686,
@@ -2819,6 +2915,7 @@
     },
     "a20541925b5648e1ae88a141ca37911e": {
         "nickname": "xiamoys",
+        "country": null,
         "top": {
             "1": 1539,
             "2": 1466,
@@ -2849,6 +2946,7 @@
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
+        "country": "pl",
         "top": {
             "1": 1576,
             "2": 1500,
@@ -2869,16 +2967,17 @@
         },
         "pb": 485592,
         "streak": 12,
-        "matches": 775,
-        "playtime": 558626697,
-        "finished": 258,
-        "finishtime": 221381416,
-        "won": 427,
-        "lost": 309,
+        "matches": 778,
+        "playtime": 560329668,
+        "finished": 259,
+        "finishtime": 221994201,
+        "won": 428,
+        "lost": 311,
         "forfeited": 73
     },
     "a53540ad086c490e9a0405171f0e0e58": {
         "nickname": "aleen",
+        "country": "ru",
         "top": {
             "1": 1673,
             "2": 1745,
@@ -2909,6 +3008,7 @@
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
         "nickname": "Reignex",
+        "country": null,
         "top": {
             "1": 2012,
             "2": 1779,
@@ -2939,6 +3039,7 @@
     },
     "a54e3bc4c6354b07a236b81efbcfe791": {
         "nickname": "Infume",
+        "country": "us",
         "top": {
             "3": 1658,
             "4": 1539,
@@ -2965,6 +3066,7 @@
     },
     "a81886565121479782d42408d94fe97d": {
         "nickname": "affordab1e",
+        "country": "cn",
         "top": {
             "1": 1255,
             "2": 1503,
@@ -2995,6 +3097,7 @@
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
+        "country": null,
         "top": {
             "1": 1739,
             "2": 1567,
@@ -3025,6 +3128,7 @@
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
+        "country": null,
         "top": {
             "1": 1344,
             "2": 1441,
@@ -3053,6 +3157,7 @@
     },
     "ac601ce7376f49cea7ce14cd577dac85": {
         "nickname": "BlazeMind",
+        "country": "au",
         "top": {
             "1": 1248,
             "2": 1332,
@@ -3083,6 +3188,7 @@
     },
     "addd890764404097b3f12acdde2adf33": {
         "nickname": "Hypn0tic2030",
+        "country": "us",
         "top": {
             "4": 1533,
             "5": 1697,
@@ -3107,6 +3213,7 @@
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
+        "country": null,
         "top": {
             "1": 2146,
             "2": 2016,
@@ -3137,6 +3244,7 @@
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
+        "country": null,
         "top": {
             "1": 1520,
             "2": 1684,
@@ -3167,6 +3275,7 @@
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
+        "country": "ru",
         "top": {
             "2": 1730,
             "3": 1716,
@@ -3195,6 +3304,7 @@
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
+        "country": "us",
         "top": {
             "1": 1909,
             "2": 1747,
@@ -3225,6 +3335,7 @@
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
         "nickname": "xShatter",
+        "country": null,
         "top": {
             "1": 1701,
             "2": 1849,
@@ -3255,6 +3366,7 @@
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
         "nickname": "romuxii",
+        "country": "by",
         "top": {
             "4": 1865,
             "5": 1966,
@@ -3269,16 +3381,17 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 5279,
-        "playtime": 3082840228,
-        "finished": 1876,
-        "finishtime": 1331515973,
-        "won": 2639,
-        "lost": 2457,
+        "matches": 5282,
+        "playtime": 3084832710,
+        "finished": 1878,
+        "finishtime": 1332879107,
+        "won": 2641,
+        "lost": 2458,
         "forfeited": 1197
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
         "nickname": "Sadekeppi",
+        "country": "fi",
         "top": {
             "1": 1187,
             "2": 1285,
@@ -3299,16 +3412,17 @@
         },
         "pb": 460168,
         "streak": 12,
-        "matches": 676,
-        "playtime": 474999580,
+        "matches": 677,
+        "playtime": 475708921,
         "finished": 243,
         "finishtime": 203653305,
         "won": 383,
-        "lost": 267,
+        "lost": 268,
         "forfeited": 61
     },
     "bc80af38933f4ae19b0494681a54422b": {
         "nickname": "Ancoboyy",
+        "country": null,
         "top": {
             "1": 2099,
             "2": 1971,
@@ -3339,6 +3453,7 @@
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
+        "country": null,
         "top": {
             "1": 1899,
             "2": 1600,
@@ -3369,6 +3484,7 @@
     },
     "c32cdd142a0147dcb91771319d745194": {
         "nickname": "Erikfzf",
+        "country": "au",
         "top": {
             "1": 1748,
             "2": 1622,
@@ -3399,6 +3515,7 @@
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "nwolc",
+        "country": null,
         "top": {
             "1": 1882,
             "2": 1650,
@@ -3429,6 +3546,7 @@
     },
     "c670041ed84c480cab4a6ee904905b5f": {
         "nickname": "paplerr",
+        "country": null,
         "top": {
             "1": 1389,
             "2": 1629,
@@ -3459,6 +3577,7 @@
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
         "nickname": "iKme_",
+        "country": "hu",
         "top": {
             "1": 1089,
             "2": 1178,
@@ -3479,16 +3598,17 @@
         },
         "pb": 445393,
         "streak": 11,
-        "matches": 3224,
-        "playtime": 2028569738,
-        "finished": 1002,
-        "finishtime": 750139414,
-        "won": 1587,
-        "lost": 1464,
+        "matches": 3227,
+        "playtime": 2030474297,
+        "finished": 1003,
+        "finishtime": 750680839,
+        "won": 1588,
+        "lost": 1466,
         "forfeited": 642
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
+        "country": null,
         "top": {
             "1": 1697,
             "2": 1653,
@@ -3519,6 +3639,7 @@
     },
     "cf2d18b3dad44d9baff4969038ee7b00": {
         "nickname": "slavabeta",
+        "country": null,
         "top": {
             "1": 1273,
             "2": 1614,
@@ -3549,6 +3670,7 @@
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
+        "country": "us",
         "top": {
             "2": 1029,
             "3": 1186,
@@ -3577,6 +3699,7 @@
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
+        "country": null,
         "top": {
             "1": 1819,
             "2": 1718,
@@ -3607,6 +3730,7 @@
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
         "nickname": "boosterruns",
+        "country": null,
         "top": {
             "1": 1624,
             "2": 1595,
@@ -3637,6 +3761,7 @@
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
+        "country": null,
         "top": {
             "1": 1649,
             "2": 1560,
@@ -3667,6 +3792,7 @@
     },
     "da5e15a7d3c04a84b432defd5a15c910": {
         "nickname": "paukll",
+        "country": "us",
         "top": {
             "3": 1088,
             "4": 1727,
@@ -3693,6 +3819,7 @@
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "Waluyoshi",
+        "country": "us",
         "top": {
             "1": 1697,
             "2": 1652,
@@ -3723,6 +3850,7 @@
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
+        "country": "de",
         "top": {
             "1": 1812,
             "2": 1779,
@@ -3753,6 +3881,7 @@
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
         "nickname": "dandannyboy",
+        "country": null,
         "top": {
             "1": 2042,
             "2": 1968,
@@ -3783,6 +3912,7 @@
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
+        "country": null,
         "top": {
             "2": 1337,
             "3": 1884,
@@ -3811,6 +3941,7 @@
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "nickname": "VMiZ",
+        "country": "hu",
         "top": {
             "1": 1699,
             "2": 1714,
@@ -3841,6 +3972,7 @@
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
+        "country": null,
         "top": {
             "2": 1114,
             "3": 1477,
@@ -3869,6 +4001,7 @@
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
+        "country": "de",
         "top": {
             "1": 1478,
             "2": 1524,
@@ -3899,6 +4032,7 @@
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
+        "country": null,
         "top": {
             "1": 1542,
             "2": 1661,
@@ -3929,6 +4063,7 @@
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
+        "country": null,
         "top": {
             "1": 2000,
             "2": 1844,
@@ -3959,6 +4094,7 @@
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
+        "country": null,
         "top": {
             "6": 2085,
             "7": 0
@@ -3979,6 +4115,7 @@
     },
     "fdff6a3e88054664974dbcd30583fe81": {
         "nickname": "Finnitzko",
+        "country": "de",
         "top": {
             "1": 1617,
             "2": 1698,

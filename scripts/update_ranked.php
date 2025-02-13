@@ -130,6 +130,7 @@
     unset($ss);
     $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
+    $p["country"]=$ss["data"]["country"];
     $p["stats"]["rank"]=$ss["data"]["seasonResult"]["last"]["eloRank"];
     $p["stats"]["elo"]=$ss["data"]["seasonResult"]["last"]["eloRate"];
     $p["stats"]["top"]=$ss["data"]["seasonResult"]["highest"];
@@ -146,6 +147,7 @@
     $p["stats"]["forfeited"]=$ss["data"]["statistics"]["season"]["forfeits"]["ranked"];
 
     $at[$p["uuid"]]["nickname"]=$ss["data"]["nickname"];
+    $at[$p["uuid"]]["country"]=$ss["data"]["country"];
     $at[$p["uuid"]]["top"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
     ksort($at[$p["uuid"]]["top"], SORT_NUMERIC);
     $at[$p["uuid"]]["points"][$sss]=$ss["data"]["seasonResult"]["last"]["phasePoint"] ?? 0;
@@ -278,6 +280,7 @@
       $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
       $a["nickname"]=$ss["data"]["nickname"];
+      $a["country"]=$ss["data"]["country"];
       $a["top"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
       ksort($a["top"], SORT_NUMERIC);
       $a["points"][$sss]=$ss["data"]["seasonResult"]["last"]["phasePoint"] ?? 0;
