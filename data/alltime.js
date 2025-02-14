@@ -1399,7 +1399,7 @@
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
-        "country": null,
+        "country": "lt",
         "top": {
             "1": 1788,
             "2": 1628,
@@ -3972,7 +3972,7 @@
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
-        "country": null,
+        "country": "us",
         "top": {
             "2": 1114,
             "3": 1477,
@@ -3991,13 +3991,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3394,
-        "playtime": 1909448885,
+        "matches": 3396,
+        "playtime": 1910236326,
         "finished": 1188,
         "finishtime": 822168850,
         "won": 1730,
-        "lost": 1577,
-        "forfeited": 1010
+        "lost": 1579,
+        "forfeited": 1011
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
