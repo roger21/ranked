@@ -256,6 +256,7 @@
   }
   $ooo=array_unique($ooo, SORT_STRING);
   echo "unique(\$ooo) ".count($ooo)."\n";
+  echo "count(\$at) ".count($at)."\n";
 
   // mise à jour des all time pour les joueurs
   // déjà présents mais pas sur cette saison (les old)
@@ -300,6 +301,7 @@
     unset($a);
   }
   echo "{$old_cpt} old\n";
+  echo "count(\$at) ".count($at)."\n";
 
   // mise à jour des all time pour les nouveaux joueurs
   // sur cette saison (les new)
