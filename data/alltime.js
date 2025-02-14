@@ -171,11 +171,11 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 1489,
-        "playtime": 901630389,
+        "matches": 1490,
+        "playtime": 901791537,
         "finished": 539,
         "finishtime": 405561421,
-        "won": 780,
+        "won": 781,
         "lost": 651,
         "forfeited": 330
     },
@@ -347,11 +347,11 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 2937,
-        "playtime": 2183004508,
+        "matches": 2938,
+        "playtime": 2183174093,
         "finished": 828,
         "finishtime": 730485235,
-        "won": 1481,
+        "won": 1482,
         "lost": 1303,
         "forfeited": 347
     },
@@ -1629,13 +1629,13 @@
         },
         "pb": 474179,
         "streak": 18,
-        "matches": 4041,
-        "playtime": 2638507359,
+        "matches": 4042,
+        "playtime": 2638668507,
         "finished": 1492,
         "finishtime": 1121797310,
         "won": 2102,
-        "lost": 1850,
-        "forfeited": 570
+        "lost": 1851,
+        "forfeited": 571
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
@@ -1781,37 +1781,6 @@
         "won": 443,
         "lost": 366,
         "forfeited": 127
-    },
-    "70e94474db714b489b03af782a4140e9": {
-        "nickname": "KaaziTheCreeper",
-        "country": "au",
-        "top": {
-            "1": 1213,
-            "2": 1337,
-            "3": 1755,
-            "4": 1445,
-            "5": 1700,
-            "6": 1715,
-            "7": 1718
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 25,
-            "6": 0,
-            "7": 5
-        },
-        "pb": 545072,
-        "streak": 8,
-        "matches": 1300,
-        "playtime": 1005850856,
-        "finished": 398,
-        "finishtime": 359875983,
-        "won": 683,
-        "lost": 555,
-        "forfeited": 49
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
         "nickname": "7rowl",
