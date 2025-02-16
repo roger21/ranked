@@ -1,3 +1,7 @@
+// url de base pour les données
+const url = "https://raw.githubusercontent.com/roger21/ranked/main/data/";
+//const url = "data/"
+
 // tableau des couleurs pour les courbes
 let colors = [
   [
@@ -50,7 +54,7 @@ let rowStart = 2;
 let colorStart = 0;
 // alpha channel à 0.1 pour les autres courbes sur un mouseover
 let colorHover = " / .1)";
-// couleur de chaque player
+// couleur de chaque joueur
 let playerColors = {};
 
 // paramètres globaux de la langue
@@ -58,46 +62,43 @@ let currentLang = "en";
 let currentLangLocal = "en-US";
 let language;
 
-// paramètre global du mode sombre
-let rankedMode;
-
 // gestion de la correspondance elo - rank label
 function getRankLabel(elo) {
   elo = parseInt(elo, 10);
   if(isNaN(elo) || elo < 0) {
-    return [language["Unrated"], null];
+    return ["unrated", language["Unrated"], null];
   } else if(elo < 400) {
-    return [language["Coal"], "I"];
+    return ["coal", language["Coal"], "I"];
   } else if(elo < 500) {
-    return [language["Coal"], "II"];
+    return ["coal", language["Coal"], "II"];
   } else if(elo < 600) {
-    return [language["Coal"], "III"];
+    return ["coal", language["Coal"], "III"];
   } else if(elo < 700) {
-    return [language["Iron"], "I"];
+    return ["iron", language["Iron"], "I"];
   } else if(elo < 800) {
-    return [language["Iron"], "II"];
+    return ["iron", language["Iron"], "II"];
   } else if(elo < 900) {
-    return [language["Iron"], "III"];
+    return ["iron", language["Iron"], "III"];
   } else if(elo < 1000) {
-    return [language["Gold"], "I"];
+    return ["gold", language["Gold"], "I"];
   } else if(elo < 1100) {
-    return [language["Gold"], "II"];
+    return ["gold", language["Gold"], "II"];
   } else if(elo < 1200) {
-    return [language["Gold"], "III"];
+    return ["gold", language["Gold"], "III"];
   } else if(elo < 1300) {
-    return [language["Emerald"], "I"];
+    return ["emerald", language["Emerald"], "I"];
   } else if(elo < 1400) {
-    return [language["Emerald"], "II"];
+    return ["emerald", language["Emerald"], "II"];
   } else if(elo < 1500) {
-    return [language["Emerald"], "III"];
+    return ["emerald", language["Emerald"], "III"];
   } else if(elo < 1650) {
-    return [language["Diamond"], "I"];
+    return ["diamond", language["Diamond"], "I"];
   } else if(elo < 1800) {
-    return [language["Diamond"], "II"];
+    return ["diamond", language["Diamond"], "II"];
   } else if(elo < 2000) {
-    return [language["Diamond"], "III"];
+    return ["diamond", language["Diamond"], "III"];
   } else {
-    return [language["Netherite"], null];
+    return ["netherite", language["Netherite"], null];
   }
 }
 
@@ -127,24 +128,56 @@ const secFormat = new Intl.NumberFormat(currentLangLocal, {
   style: "decimal",
   minimumIntegerDigits: 2,
   minimumFractionDigits: 3,
+  roundingMode: "trunc",
 });
 
-// gestion du formatage du temps des matchs
-function getTime(time) {
+// formatage des secondes pour le temps moyen des matchs
+const secMeanFormat = new Intl.NumberFormat(currentLangLocal, {
+  style: "decimal",
+  minimumIntegerDigits: 2,
+  maximumFractionDigits: 0,
+  roundingMode: "trunc",
+});
+
+// gestion du formatage des temps
+function formatTime(time, formater) {
   if(time === 0) {
     return language["unknown"];
   }
   let sec = time / 1000;
   if(sec < 60) {
-    return "0:" + secFormat.format(sec);
+    return "0:" + formater.format(sec);
   } else {
     let min = Math.floor(sec / 60);
     // calcul de la soustraction sur les entiers
     // car avec les flotants on a des erreurs
     let msec = time - (min * 60000);
     sec = msec / 1000;
-    return "" + min + ":" + secFormat.format(sec);
+    return "" + min + ":" + formater.format(sec);
   }
+}
+
+// gestion du formatage du temps des matchs
+function getTime(time) {
+  return formatTime(time, secFormat);
+}
+
+// gestion du formatage du temps moyen des matchs
+function getMeanTime(time) {
+  return formatTime(time, secMeanFormat);
+}
+
+// formatage des pourcentages
+const percentFormat = new Intl.NumberFormat(currentLangLocal, {
+  style: "percent",
+  minimumIntegerDigits: 1,
+  minimumFractionDigits: 2,
+  maximumFractionDigits: 2
+});
+
+// gestion du formatage des pourcentages
+function getPercent(percent) {
+  return percentFormat.format(percent);
 }
 
 // date courrante pour le calcule des temps écoulés
@@ -222,6 +255,14 @@ function agoComputeShort(number) {
   }
 }
 
+// url pour l'image de la tête
+function headUrl(uuid) {
+  return "https://vzge.me/head/64/" + uuid + ".webp?y=70";
+}
+
+// images des têtes
+let images = {};
+
 // gestion de la récupération des paramètres dans l'url actuelle
 function getParams(maxSeason) {
   let params = new URL(window.location).searchParams;
@@ -280,13 +321,245 @@ const chartborderandcolor = {
   },
 };
 
+// tooltip sur les éléments de la légende
+const legendTooltip = document.getElementById("legendtooltip");
+
+// timer pour l'affichage de la tooltip sur les éléments de la légende
+let legendTimer;
+const legendTime = 1000;
+
+// gestion de l'affichage de la tooltip sur les éléments de la légende
+function displayLegendTooltip(target, data) {
+  window.clearTimeout(legendTimer);
+  legendTimer = window.setTimeout(function() {
+    // suppression des éléments actuels de la tooltip
+    while(legendTooltip.firstChild) {
+      legendTooltip.removeChild(legendTooltip.firstChild);
+    }
+
+    // données du joueur
+    const stats = data.stats;
+    const alltime = data.alltime;
+
+    // tête du joueur
+    images[data.uuid].alt = currentLang === "en" ?
+      data.label + language["head"] : language["head"] + data.label;
+    legendTooltip.appendChild(images[data.uuid]);
+
+    // bloc global des données du joueur
+    const dataDiv = document.createElement("div");
+    dataDiv.setAttribute("id", "data");
+    legendTooltip.appendChild(dataDiv);
+
+    // ligne joueur / rank / elo / points
+    const dataRankDiv = document.createElement("div");
+    dataDiv.appendChild(dataRankDiv);
+    // rank
+    const rankDiv = document.createElement("div");
+    rankDiv.classList.add("rank");
+    rankDiv.textContent = "#" + stats.rank;
+    dataRankDiv.appendChild(rankDiv);
+    // le joueur
+    const playerDiv = document.createElement("div");
+    playerDiv.classList.add("player");
+    dataRankDiv.appendChild(playerDiv);
+    const colorDiv = document.createElement("div");
+    colorDiv.classList.add("color");
+    colorDiv.style.background = data.backgroundColor;
+    playerDiv.appendChild(colorDiv);
+    const nameDiv = document.createElement("div");
+    nameDiv.classList.add("name");
+    nameDiv.textContent = data.label
+    playerDiv.appendChild(nameDiv);
+    // le drapeau
+    if(data.country) {
+      const flagDiv = document.createElement("div");
+      flagDiv.className = "fi fi-" + data.country;
+      playerDiv.appendChild(flagDiv);
+    }
+    // le rank label
+    const rankLabel = getRankLabel(stats.elo);
+    const label = rankLabel[0];
+    const fullLabel = rankLabel[1] +
+      (rankLabel[2] ? " " + rankLabel[2] : "");
+    const rankLabelDiv = document.createElement("div");
+    rankLabelDiv.classList.add("ranklabel");
+    dataRankDiv.appendChild(rankLabelDiv);
+    const rankIconDiv = document.createElement("div");
+    rankIconDiv.classList.add("rankicon");
+    rankIconDiv.classList.add(label);
+    rankLabelDiv.appendChild(rankIconDiv);
+    const rankNameDiv = document.createElement("div");
+    rankNameDiv.classList.add("rankname");
+    rankNameDiv.textContent = fullLabel;
+    rankLabelDiv.appendChild(rankNameDiv);
+    // elo
+    const toping = (stats.elo === stats.top);
+    const eloDiv = document.createElement("div");
+    eloDiv.classList.add("elo");
+    eloDiv.classList.toggle("toping", toping);
+    eloDiv.textContent = stats.elo + (toping ? " top elo" : " elo");
+    dataRankDiv.appendChild(eloDiv);
+    // top elo
+    if(!toping) {
+      const topEloDiv = document.createElement("div");
+      topEloDiv.classList.add("topelo");
+      topEloDiv.textContent = "(" + stats.top + " top)";
+      dataRankDiv.appendChild(topEloDiv);
+    }
+    // points
+    if(stats.points) {
+      const pointsDiv = document.createElement("div");
+      pointsDiv.classList.add("points");
+      pointsDiv.textContent = stats.points + " pts";
+      dataRankDiv.appendChild(pointsDiv);
+    }
+
+    // ligne matches / pb / streak / temps moyens
+    const dataPbDiv = document.createElement("div");
+    dataDiv.appendChild(dataPbDiv);
+    // pb
+    const pbDiv = document.createElement("div");
+    pbDiv.classList.add("pb");
+    pbDiv.textContent = "pb " + getTime(stats.pb);
+    dataPbDiv.appendChild(pbDiv);
+    // streak
+    const streaking = (stats.current === stats.streak);
+    const streakDiv = document.createElement("div");
+    streakDiv.classList.add("streak");
+    streakDiv.classList.toggle("streaking", streaking);
+    streakDiv.textContent =
+      (streaking ? "top streak " : "streak ") + stats.current;
+    dataPbDiv.appendChild(streakDiv);
+    // top streak
+    if(!streaking) {
+      const topStreakDiv = document.createElement("div");
+      topStreakDiv.classList.add("topstreak");
+      topStreakDiv.textContent = "(" + stats.streak + " top)";
+      dataPbDiv.appendChild(topStreakDiv);
+    }
+    // matches
+    const matchesDiv = document.createElement("div");
+    matchesDiv.classList.add("matches");
+    matchesDiv.textContent = stats.matches + " " + language["matches"];
+    dataPbDiv.appendChild(matchesDiv);
+    // match moyen
+    const matchTimeDiv = document.createElement("div");
+    matchTimeDiv.classList.add("meantime");
+    matchTimeDiv.textContent = language["mean_match"] + " " +
+      getMeanTime(stats.playtime / stats.matches);
+    dataPbDiv.appendChild(matchTimeDiv);
+    // completion moyenne
+    const completionTimeDiv = document.createElement("div");
+    completionTimeDiv.classList.add("meantime");
+    completionTimeDiv.textContent = language["mean_completion"] + " " +
+      getMeanTime(stats.finishtime / stats.finished);
+    dataPbDiv.appendChild(completionTimeDiv);
+
+    // ligne stats
+    const statsDiv = document.createElement("div");
+    dataDiv.appendChild(statsDiv);
+    // victoires
+    const wonDiv = document.createElement("div");
+    wonDiv.classList.add("statsdiv");
+    wonDiv.classList.add("won");
+    statsDiv.appendChild(wonDiv);
+    const wonLabel = document.createElement("div");
+    wonLabel.textContent = language["won"];
+    wonDiv.appendChild(wonLabel);
+    const wonPercent = document.createElement("div");
+    wonPercent.textContent = getPercent(stats.won / stats.matches);
+    wonDiv.appendChild(wonPercent);
+    // completions
+    const completedDiv = document.createElement("div");
+    completedDiv.classList.add("statsdiv");
+    completedDiv.classList.add("completed");
+    statsDiv.appendChild(completedDiv);
+    const completedLabel = document.createElement("div");
+    completedLabel.textContent = language["completion"];
+    completedDiv.appendChild(completedLabel);
+    const completedPercent = document.createElement("div");
+    completedPercent.textContent =
+      getPercent(stats.finished / stats.matches);
+    completedDiv.appendChild(completedPercent);
+    // défaites
+    const lostDiv = document.createElement("div");
+    lostDiv.classList.add("statsdiv");
+    lostDiv.classList.add("lost");
+    statsDiv.appendChild(lostDiv);
+    const lostLabel = document.createElement("div");
+    lostLabel.textContent = language["lost"];
+    lostDiv.appendChild(lostLabel);
+    const lostPercent = document.createElement("div");
+    lostPercent.textContent = getPercent(stats.lost / stats.matches);
+    lostDiv.appendChild(lostPercent);
+    // fofaits
+    const forfeitedDiv = document.createElement("div");
+    forfeitedDiv.classList.add("statsdiv");
+    forfeitedDiv.classList.add("forfeited");
+    statsDiv.appendChild(forfeitedDiv);
+    const forfeitedLabel = document.createElement("div");
+    forfeitedLabel.textContent = language["forfeited"];
+    forfeitedDiv.appendChild(forfeitedLabel);
+    const forfeitedPercent = document.createElement("div");
+    forfeitedPercent.textContent =
+      getPercent(stats.forfeited / stats.matches);
+    forfeitedDiv.appendChild(forfeitedPercent);
+    // égalités
+    const drawDiv = document.createElement("div");
+    drawDiv.classList.add("statsdiv");
+    drawDiv.classList.add("draw");
+    statsDiv.appendChild(drawDiv);
+    const drawLabel = document.createElement("div");
+    drawLabel.textContent = language["draw"];
+    drawDiv.appendChild(drawLabel);
+    const drawPercent = document.createElement("div");
+    drawPercent.textContent = getPercent((stats.matches -
+      (stats.won + stats.lost)) / stats.matches);
+    drawDiv.appendChild(drawPercent);
+
+    // affichage de la tooltip
+    legendTooltip.style.display = "flex";
+
+    // positionnement de la tooltip
+    let rect = target.getBoundingClientRect();
+    let posX = Math.floor(rect.x + rect.width / 2);
+    let posY = Math.floor(rect.y);
+    let width = legendTooltip.offsetWidth;
+    let height = legendTooltip.offsetHeight;
+    let pageWidth = document.documentElement.clientWidth;
+    legendTooltip.style.left = "" + posX + "px";
+    legendTooltip.style.top = "" + (posY - height - 60) + "px";
+    // le body, par rapport auquel on positionne la tooltip, est à
+    // 32px du bord de la page (30px de margin du body + 2px de border du
+    // body), on autorise que la tooltip puisse être à 10px du bord de la
+    // page donc on rajoute 22px de débordement
+    if(width / 2 > posX + 22) {
+      let pos = "" + (posX + 22) + "px";
+      legendTooltip.style.setProperty("--pos", pos);
+    } else if(width / 2 > pageWidth - 64 - posX + 22) {
+      let pos = "" + (width - (pageWidth - 64 - posX + 22)) + "px";
+      legendTooltip.style.setProperty("--pos", pos);
+    } else {
+      legendTooltip.style.setProperty("--pos", "50%");
+    }
+  }, legendTime);
+}
+
+// gestion du masquage de la tooltip sur les éléments de la légende
+function hideLegendTooltip() {
+  window.clearTimeout(legendTimer);
+  legendTooltip.style.display = "none";
+}
+
 // données pour la gestion des clics sur les éléments de la légende en html
 let ctrlMode = false;
 let lastClick = 0;
 let clickTimer;
 const clickTime = 300;
 
-// gestion de la mise en valeur de la courbe et atténuation des autres courbes
+// gestion de la mise en valeur de la courbe et de l'atténuation des autres
+// courbes
 function highlightDataset(datasets, index) {
   datasets.forEach((dataset, i) => {
     if(!dataset.shadow) {
@@ -425,7 +698,7 @@ const htmllegend = {
         text.textContent = legendItem.text;
         itemElement.appendChild(text);
         // gestion du clic, du double-clic et du ctrl + clic
-        // sur les éléments de la légende
+        // sur les éléments présents de la légende
         if(!legendItem.shadow) {
           itemElement.addEventListener("click", function(event) {
             window.clearTimeout(clickTimer);
@@ -472,21 +745,32 @@ const htmllegend = {
             }
             lastClick = currentLastClick;
           }, false);
-          // gestion du mouseenter sur les éléments de la légende :
+          // gestion du mouseenter sur les éléments présents de la légende :
           // mise en valeur de la courbe et atténuation des autres courbes
           itemElement.addEventListener("mouseenter", function(event) {
             let datasets = chart.data.datasets;
             highlightDataset(datasets, itemIndex);
             chart.update();
           }, false);
-          // gestion du mouseleave sur les éléments de la légende :
+          // gestion du mouseleave sur les éléments présents de la légende :
           // remise des courbes en visibilité normale
           itemElement.addEventListener("mouseleave", function(event) {
             let datasets = chart.data.datasets;
-            unHighlightDataset(datasets, index);
+            unHighlightDataset(datasets, itemIndex);
             chart.update();
           }, false);
         }
+        // gestion du mouseenter sur tous les éléments de la légende :
+        // affichage de la tooltip sur les éléments de la légende
+        itemElement.addEventListener("mouseenter", function(event) {
+          displayLegendTooltip(event.currentTarget,
+            chart.data.datasets[itemIndex]);
+        }, false);
+        // gestion du mouseleave sur tous les éléments de la légende :
+        // masquage de la tooltip sur les éléments de la légende
+        itemElement.addEventListener("mouseleave", function(event) {
+          hideLegendTooltip();
+        }, false);
       } // fin de la construction des éléments de la légende
       // mise à jour du style et de la couleur des éléments
       // après la mise à jour du graph
@@ -500,16 +784,16 @@ const htmllegend = {
   },
 };
 
-// gestion du tooltip externe en html
+// gestion de la tooltip externe en html
 function htmltooltip(context) {
-  // récupération du tooltip et du chart
+  // récupération de la tooltip et du chart
   const {
     chart,
     tooltip,
   } = context;
   // le tooltip
   const tooltipDiv = document.getElementById("tooltip");
-  // cache le tooltip si opacity = 0 ou si pas de données
+  // cache la tooltip si opacity = 0 ou si pas de données
   if(tooltip.opacity === 0 || typeof tooltip.dataPoints === "undefined") {
     tooltipDiv.style.display = "none";
     return;
@@ -522,17 +806,17 @@ function htmltooltip(context) {
   let color = chart?.data?.datasets[datasetIndex]?.backgroundColor;
   let opponent = data?.opponent;
   let ocolor = playerColors[opponent];
-  // suppression des éléments actuels du tooltip
+  // suppression des éléments actuels de la tooltip
   while(tooltipDiv.firstChild) {
     tooltipDiv.removeChild(tooltipDiv.firstChild);
   }
   // ajout des lignes
-  // ligne du résultat du player
+  // ligne du résultat du joueur
   const resultPlayer = document.createElement("div");
   resultPlayer.classList.add("resultplayer");
   if(data.decayed) resultPlayer.classList.add("decayed");
   tooltipDiv.appendChild(resultPlayer);
-  // le player
+  // le joueur
   const playerDiv = document.createElement("div");
   playerDiv.classList.add("player");
   resultPlayer.appendChild(playerDiv);
@@ -544,7 +828,7 @@ function htmltooltip(context) {
   nameDiv.classList.add("name");
   nameDiv.textContent = player
   playerDiv.appendChild(nameDiv);
-  // le résultat du player
+  // le résultat du joueur
   const resultDiv = document.createElement("div");
   resultDiv.classList.add("result");
   resultDiv.classList.add(data.decayed ? "decayed" :
@@ -554,7 +838,7 @@ function htmltooltip(context) {
     (data.result === "lost" && data.forfeited ?
       language["FORFEITED"] : language[data.result.toUpperCase()]);
   resultPlayer.appendChild(resultDiv);
-  // l'elo du player
+  // l'elo du joueur
   const eloDiv = document.createElement("div");
   eloDiv.classList.add("elo");
   resultPlayer.appendChild(eloDiv);
@@ -643,7 +927,7 @@ function htmltooltip(context) {
   agoDiv.classList.add("ago");
   agoDiv.textContent = agoCompute(currentDate - data.date);
   dateLine.appendChild(agoDiv);
-  // affichage et positionnement du tooltip
+  // affichage et positionnement de la tooltip
   const {
     caretX: posX,
     caretY: posY,
@@ -653,10 +937,10 @@ function htmltooltip(context) {
   tooltipDiv.style.top = "" + posY + "px";
   let width = tooltipDiv.offsetWidth;
   let pageWidth = document.documentElement.clientWidth;
-  // la div du canvas, par rapport à laquelle on positionne le tooltip, est à
-  // 62px du bord de la page (30px de margin du body + 2px de border du body +
-  // 30px de padding du body), on autorise que le tooltip puisse être à 10px
-  // du bord de la page donc on rajoute 52px de débordement
+  // la div du canvas, par rapport à laquelle on positionne la tooltip, est
+  // à 62px du bord de la page (30px de margin du body + 2px de border du
+  // body + 30px de padding du body), on autorise que la tooltip puisse être
+  // à 10px du bord de la page donc on rajoute 52px de débordement
   if(width / 2 > posX + 52) {
     let pos = "" + (posX + 52) + "px";
     tooltipDiv.style.setProperty("--pos", pos);
@@ -753,13 +1037,11 @@ const updatemargins = {
   },
 };
 
-// nom des cookies
+// nom du cookie de langue
 let langCookie = "ranked_lang";
-let modeCookie = "ranked_mode";
 
-// valeur des cookies
+// valeur du cookie de langue
 let langCookieValues = ["en", "fr"];
-let modeCookieValues = ["dark", "light"];
 
 // gestion de la lecture d'un cookie
 function readCookie(cookie) {
@@ -814,9 +1096,6 @@ async function setLang(lang) {
   });
 }
 
-// gestion de la récupération du mode sombre
-function getMode() {}
-
 // données pour la gestion du onHover sur le graph
 let lastHoverIndex;
 
@@ -844,8 +1123,9 @@ function onHover(event, elements, chart) {
   }
 }
 
-// plugin pour la gestion du onHover out qui permet de gérer la sortie du graph
-// qui n'est pas gérée par onHover qui ne répond plus en dehors du graph
+// plugin pour la gestion du onHover out qui permet de gérer la sortie du
+// graph qui n'est pas gérée par onHover qui ne répond plus en dehors du
+// graph
 const onhoverout = {
   id: "onhoverout",
   beforeEvent(chart, args, pluginOptions) {
@@ -870,14 +1150,8 @@ async function loadData() {
     language = await loadLang(lang);
   }
 
-  // récupération du mode sombre
-  //getMode();
-
   // récupération de la saison actuelle
-  let urlCurrent =
-    "https://raw.githubusercontent.com/roger21/ranked/main/data/current.js?" +
-    //"data/current.js?" +
-    Date.now();
+  let urlCurrent = url + "current.js?" + Date.now();
   const responseCurrent = await fetch(urlCurrent, {
     cache: "no-store",
   });
@@ -921,14 +1195,18 @@ async function loadData() {
   }
 
   // récupération des données de la saison
-  let urlSeason =
-    "https://raw.githubusercontent.com/roger21/ranked/main/data/season" +
-    //"data/season" +
-    seasonParam + ".js?" + Date.now();
+  let urlSeason = url + "season" + seasonParam + ".js?" + Date.now();
   const responseSeason = await fetch(urlSeason, {
     cache: "no-store",
   });
   const season = await responseSeason.json();
+
+  // récupération des données alltime
+  let urlAlltime = url + "alltime.js?" + Date.now();
+  const responseAlltime = await fetch(urlAlltime, {
+    cache: "no-store",
+  });
+  const alltime = await responseAlltime.json();
 
   // construction de la date et du temps écoulé depuis
   // la compilation des données
@@ -958,7 +1236,8 @@ async function loadData() {
     title.textContent = strTop + (nbPlayers === "1" ? "" : nbPlayers) +
       strPlayers + strLast + (nbDays === "1" ? "" : nbDays) + strDays +
       language["of_season_"] + currentSeason;
-    subtitle.textContent = language["data_updated_on_"] + dateFull(date) + agoCompute(ago);
+    subtitle.textContent = language["data_updated_on_"] +
+      dateFull(date) + agoCompute(ago);
   }
 
   // construction du titre et du sous-titre
@@ -977,9 +1256,9 @@ async function loadData() {
   // construction des données pour les courbes
   for(let p in players) {
 
-    // récupération des matchs du player et détermination
+    // récupération des matchs du joueur et détermination
     // des min et des max globaux et de la présence de données
-    // ou pas pour ce player
+    // ou pas pour ce joueur
     let mm = players[p].matches.reverse().filter((m) => m.date >= past);
     let shadow = false;
     if(mm.length > 0) {
@@ -992,16 +1271,25 @@ async function loadData() {
       m = Math.max(...mm.map(e => e.elo));
       if(m > maxElo) maxElo = m;
     } else {
-      shadow = true; // pas de données sur la periode pour ce player
+      shadow = true; // pas de données sur la periode pour ce joueur
     }
 
     // determination de la couleur pour cette courbe
     let color = colors[cptRows % nbRows][cptColors % nbColors];
     color = shadow ? color.replace(")", colorHover) : color;
 
+    // cache de l'image de la tête du joueur
+    let image = new Image();
+    image.src = headUrl(players[p].uuid);
+    images[players[p].uuid] = image;
+
     // données pour cette courbe
     data.push({
       label: players[p].nickname,
+      uuid: players[p].uuid,
+      country: players[p].country,
+      stats: players[p].stats,
+      alltime: alltime[players[p].uuid],
       // tous les points pour avoir la continuité, mais
       // finalement non, ça encombre le graph pour rien
       //data: players[p].matches.reverse(),
@@ -1028,7 +1316,7 @@ async function loadData() {
     allColors.push(currentColor);
     //console.log("allColors", allColors.length);
 
-    // enregistrement de la couleur du player
+    // enregistrement de la couleur du joueur
     playerColors[players[p].nickname] = color;
 
     // deplacement des curseurs pour la couleur suivante
@@ -1253,7 +1541,7 @@ async function loadData() {
             onPan(o) {
               if(!noData && !onePoint) {
                 canvas.style.cursor = "grabbing";
-                // masquage du tooltip
+                // masquage de la tooltip
                 o.chart.tooltip.setActiveElements([], {
                   x: 0,
                   y: 0,
@@ -1288,7 +1576,7 @@ async function loadData() {
               if(noData || onePoint) {
                 return false;
               }
-              // masquage du tooltip
+              // masquage de la tooltip
               o.chart.tooltip.setActiveElements([], {
                 x: 0,
                 y: 0,
@@ -1314,7 +1602,8 @@ async function loadData() {
                 (scales.y.max - scales.y.min) * 100) / 100;
               zoomtime.textContent = zoomx;
               zoomelo.textContent = zoomy;
-              zoom.classList.toggle("selected", (zoomx !== 1 || zoomy !== 1));
+              zoom.classList.toggle("selected",
+                (zoomx !== 1 || zoomy !== 1));
               zoom.classList.toggle("max",
                 (scales.x.max - scales.x.min) <= maxZoomX &&
                 (scales.y.max - scales.y.min) <= maxZoomY);
@@ -1406,7 +1695,8 @@ async function loadData() {
       await setLang(lang);
       setTitle(title, subtitle, nbPlayers, nbDays, currentSeason);
       chart.options.scales.x.title.text = language["time"];
-      chart.options.scales.x.time.displayFormats = language["displayFormats"];
+      chart.options.scales.x.time.displayFormats =
+        language["displayFormats"];
       chart.options.scales.x.adapters.date.locale = currentLangLocal;
       chart.options.scales.y.ticks.format = currentLangLocal;
       chart.update();
@@ -1414,8 +1704,10 @@ async function loadData() {
   }
 
   // gestion des boutons de langue
-  document.getElementById("en").addEventListener("click", changeLang, false);
-  document.getElementById("fr").addEventListener("click", changeLang, false);
+  document.getElementById("en").addEventListener("click",
+    changeLang, false);
+  document.getElementById("fr").addEventListener("click",
+    changeLang, false);
 
   // fenêtre d'aide
   const helpwindow = document.querySelector("dialog#helpwindow");
@@ -1439,7 +1731,7 @@ async function loadData() {
   // gestion du mouseout sur le graph en complement du plugin onhoverout qui
   // ne fonctionne pas lorsque l'on quite le canvas en même temps que l'on
   // quite le graph et avec une tempo parcequ'il peut être déclanché avant
-  // qu'un onHover ne soit traité ...
+  // qu'un onHover ne soit traité...
   let mouseoutTimer = null;
   graph.addEventListener("mouseout", function() {
     window.clearTimeout(mouseoutTimer);
