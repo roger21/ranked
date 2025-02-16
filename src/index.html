@@ -3,8 +3,9 @@
 <head>
   <meta charset="utf-8">
   <title>rank</title>
-  <link rel="stylesheet" href="style.css" type="text/css">
   <link rel="icon" href="favicon.ico" type="image/png">
+  <link rel="stylesheet" href="style.css" type="text/css">
+  <link rel="stylesheet" href="flags/flags.css" type="text/css">
   <link rel="preload" href="img/badges.png" as="image" type="image/png">
   <link rel="preload" href="img/color.png" as="image" type="image/png">
   <link rel="preload" href="img/seeds.png" as="image" type="image/png">
@@ -20,6 +21,7 @@
   <div id="title"></div>
   <div id="subtitle"></div>
   <div id="legend"></div>
+  <div id="legendtooltip"></div>
   <div id="graph">
     <canvas id="ranked" width="400" height="400" aria-label="elo graph of the top 50 mcsr ranked players over the last 50 days" role="img"><p data-lang="canvasalt">canvas element not supported</p></canvas>
     <div id="tooltip"></div>
@@ -76,12 +78,19 @@
         <div class="subtitle" data-lang="legend">legend</div>
         <div class="point" data-lang="legend1">Click on a name to hide/unhide the corresponding chart.</div>
         <div class="point" data-lang="legend2">Double-click or Ctrl+click on a name to hide/unhide all other charts.</div>
+        <div class="point" data-lang="legend3">Hover over a name for one second to display the player's data and statistics.</div>
         <div class="subtitle" data-lang="graph">graph</div>
         <div class="point" data-lang="graph1">Scroll over the graph area to zoom in or out.</div>
         <div class="point" data-lang="graph2">Scroll over the axes or tick labels to zoom in or out along the corresponding axis only.</div>
         <div class="point" data-lang="graph3">You can drag the graph when it is zoomed in to move the visible part; this is the “pan” mode.</div>
         <div class="point" data-lang="graph4">Use the “rect” button or the Ctrl key to switch to rectangle zoom mode. It will automatically switch back to “pan” mode once used.</div>
         <div class="point" data-lang="graph5">Use the “reset” button to quickly reset the graph to its original state.</div>
+        <div class="subtitle" data-lang="credits">credits</div>
+        <div class="point"><a href="https://docs.mcsrranked.com/" target"_blank">MCSR Ranked</a><span data-lang="credits1"> for the API and the documentation.</span></div>
+        <div class="point"><a href="https://vzge.me/" target"_blank">VZGE</a><span data-lang="credits2"> for the players' head rendering service.</span></div>
+        <div class="point"><a href="https://flagicons.lipis.dev/" target"_blank">flag-icons</a><span data-lang="credits4"> for the country flags.</span></div>
+        <div class="point"><a href="https://discord.com/channels/1056779246728658984/1216853304710140044/1297496735467311154" target"_blank">el3ph4nt</a><span data-lang="credits5"> for the icons of the overworld types.</span></div>
+        <div class="point"><a href="https://github.com/roger21/ranked" target"_blank">GitHub</a><span data-lang="credits3"> for the actions, the pages and the code hosting.</span></div>
       </div>
     </div>
     <span class="close top right" data-lang="close">close</span>

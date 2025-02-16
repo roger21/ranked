@@ -1,4 +1,13 @@
-html, body, div, canvas, p, a, span{
+html{
+  line-height:1.32;
+  --decayed:#ffd060;
+  --won:#90ff90;
+  --completed:#00ffe0;
+  --lost:#ffa0a0;
+  --forfeited:#ff70f0;
+  --draw:#a0a0ff;
+}
+html, body, div, canvas, p, a, span, img{
   margin:0;
   border:0;
   padding:0;
@@ -43,6 +52,7 @@ body.ranked div#legend{
   font-size:12px;
   margin:0 0 1px 0;
   user-select:none;
+  -webkit-user-select:none;
 }
 body.ranked div#legend > div{
   display:flex;
@@ -66,6 +76,145 @@ body.ranked div#legend > div > span.box{
   width:20px;
   height:12px;
   border-radius:2px;
+}
+body.ranked div#legendtooltip{
+  position:absolute;
+  pointer-events:none;
+  display:none;
+  background-color:#303030e8;
+  border-radius:5px;
+  color:#ffffff;
+  padding:5px 10px;
+  font-size:12px;
+  --pos:50%;
+  transform:translate(calc(var(--pos) * -1), 25px);
+  white-space:nowrap;
+  z-index:1000;
+  gap:10px;
+  justify-content:center;
+  align-items:center;
+}
+body.ranked div#legendtooltip > img{
+  display:block;
+}
+body.ranked div#legendtooltip > div#data{
+}
+body.ranked div#legendtooltip > div#data > div{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:10px;
+}
+body.ranked div#legendtooltip > div#data > div > div.rank{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.player{
+  display:flex;
+  align-items:center;
+  gap:5px;
+}
+body.ranked div#legendtooltip > div#data > div > div.player > div.color{
+  width:20px;
+  height:12px;
+  border-radius:2px;
+}
+body.ranked div#legendtooltip > div#data > div > div.player > div.name{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel{
+  display:flex;
+  align-items:center;
+  gap:5px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon{
+  background:url(img/badges.png) no-repeat;
+  filter:drop-shadow(0 0 1.5px #ffffff);
+  width:13px;
+  height:13px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon.netherite{
+  background-position:0 0;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon.diamond{
+  background-position:0 -13px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon.emerald{
+  background-position:0 -26px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon.gold{
+  background-position:0 -39px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon.iron{
+  background-position:0 -52px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon.coal{
+  background-position:0 -65px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankicon.unrated{
+  background-position:0 -78px;
+}
+body.ranked div#legendtooltip > div#data > div > div.ranklabel > div.rankname{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.elo{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.elo.toping{
+  font-weight:bold;
+  color:transparent;
+  background:linear-gradient(165deg,#ff0000,#ffbf00 42%,#ffef00 50%,#ffbf00 58%,#ff0000);
+  background-clip:text;
+}
+body.ranked div#legendtooltip > div#data > div > div.topelo{
+  margin:0 0 0 -5px;
+}
+body.ranked div#legendtooltip > div#data > div > div.points{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.pb{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.streak{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.streak.streaking{
+  font-weight:bold;
+  color:transparent;
+  background:linear-gradient(30deg,#ffff00,#bfff40 28%,#00ffff 50%,#bfff40 72%,#ffff00);
+  background-clip:text;
+}
+body.ranked div#legendtooltip > div#data > div > div.topstreak{
+  margin:0 0 0 -5px;
+}
+body.ranked div#legendtooltip > div#data > div > div.matches{
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.meantime{
+  font-weight:bold;
+  padding:0 0 0 16px;
+  background:url(img/time.svg) left / 12px 12px no-repeat;
+  height:16px;
+}
+body.ranked div#legendtooltip > div#data > div > div.statsdiv{
+  display:flex;
+  align-items:center;
+  gap:5px;
+  font-weight:bold;
+}
+body.ranked div#legendtooltip > div#data > div > div.statsdiv.won{
+  color:var(--won);
+}
+body.ranked div#legendtooltip > div#data > div > div.statsdiv.completed{
+  color:var(--completed);
+}
+body.ranked div#legendtooltip > div#data > div > div.statsdiv.lost{
+  color:var(--lost);
+}
+body.ranked div#legendtooltip > div#data > div > div.statsdiv.forfeited{
+  color:var(--forfeited);
+}
+body.ranked div#legendtooltip > div#data > div > div.statsdiv.draw{
+  color:var(--draw);
 }
 body.ranked div#graph{
   position:relative;
@@ -129,19 +278,19 @@ body.ranked div#tooltip > div > div.result{
   font-weight:bold;
 }
 body.ranked div#tooltip > div > div.result.decayed{
-  color:#ffd060;
-}
-body.ranked div#tooltip > div > div.result.forfeited{
-  color:#ffa0a0;
-}
-body.ranked div#tooltip > div > div.result.lost{
-  color:#ffa0a0;
+  color:var(--decayed);
 }
 body.ranked div#tooltip > div > div.result.won{
-  color:#90ff90;
+  color:var(--won);
+}
+body.ranked div#tooltip > div > div.result.lost{
+  color:var(--lost);
+}
+body.ranked div#tooltip > div > div.result.forfeited{
+  color:var(--forfeited);
 }
 body.ranked div#tooltip > div > div.result.draw{
-  color:#a0a0ff;
+  color:var(--draw);
 }
 body.ranked div#tooltip > div > div.elo{
   display:flex;
@@ -368,4 +517,17 @@ body.ranked > dialog#helpwindow > div > div.content > div.point{
 }
 body.ranked > dialog#helpwindow > div > div.content > div.point + div.subtitle{
   padding:20px 0 0;
+}
+body.ranked > dialog#helpwindow a{
+  color:#505050;
+}
+body.ranked > dialog#helpwindow a:focus{
+  outline:none;
+}
+body.ranked > dialog#helpwindow a:visited{
+  color:#707070;
+}
+body.ranked > dialog#helpwindow a:hover,
+body.ranked > dialog#helpwindow a:visited:hover{
+  color:#909090;
 }
