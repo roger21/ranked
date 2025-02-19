@@ -723,7 +723,7 @@
     },
     "2ef2bfed3d084649b56290328970ace9": {
         "nickname": "nahhann",
-        "country": null,
+        "country": "us",
         "top": {
             "2": 1401,
             "3": 1503,
@@ -742,11 +742,11 @@
         },
         "pb": 439961,
         "streak": 9,
-        "matches": 2933,
-        "playtime": 1751975154,
-        "finished": 1088,
-        "finishtime": 751657386,
-        "won": 1458,
+        "matches": 2934,
+        "playtime": 1752575054,
+        "finished": 1089,
+        "finishtime": 752257286,
+        "won": 1459,
         "lost": 1315,
         "forfeited": 567
     },
@@ -1844,12 +1844,12 @@
         },
         "pb": 540998,
         "streak": 13,
-        "matches": 2994,
-        "playtime": 2037808529,
+        "matches": 2995,
+        "playtime": 2038474822,
         "finished": 895,
         "finishtime": 766566497,
         "won": 1526,
-        "lost": 1347,
+        "lost": 1348,
         "forfeited": 537
     },
     "736dbdc44a3e452fa489f5344565835e": {
