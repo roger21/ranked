@@ -22,12 +22,12 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3089,
-        "playtime": 2009730192,
+        "matches": 3090,
+        "playtime": 2010556152,
         "finished": 1128,
         "finishtime": 846429029,
         "won": 1566,
-        "lost": 1449,
+        "lost": 1450,
         "forfeited": 385
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -39,7 +39,7 @@
             "4": 1773,
             "5": 1729,
             "6": 2075,
-            "7": 1858
+            "7": 1866
         },
         "points": {
             "2": 0,
@@ -51,11 +51,11 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4546,
-        "playtime": 3084146779,
-        "finished": 1527,
-        "finishtime": 1200812578,
-        "won": 2279,
+        "matches": 4547,
+        "playtime": 3084719607,
+        "finished": 1528,
+        "finishtime": 1201385406,
+        "won": 2280,
         "lost": 2113,
         "forfeited": 484
     },
@@ -496,11 +496,11 @@
         },
         "pb": 417055,
         "streak": 17,
-        "matches": 4646,
-        "playtime": 2974035796,
-        "finished": 1629,
-        "finishtime": 1195147900,
-        "won": 2297,
+        "matches": 4647,
+        "playtime": 2974702853,
+        "finished": 1630,
+        "finishtime": 1195814957,
+        "won": 2298,
         "lost": 2137,
         "forfeited": 533
     },
@@ -742,12 +742,12 @@
         },
         "pb": 439961,
         "streak": 9,
-        "matches": 2928,
-        "playtime": 1748981253,
+        "matches": 2929,
+        "playtime": 1749554081,
         "finished": 1086,
         "finishtime": 750498352,
         "won": 1456,
-        "lost": 1312,
+        "lost": 1313,
         "forfeited": 567
     },
     "2f59967f6a7841ab840e2cb032589a04": {
@@ -2214,6 +2214,37 @@
         "lost": 292,
         "forfeited": 141
     },
+    "817a3f2e92da42ab89c64a787ce16d28": {
+        "nickname": "Voxio",
+        "country": "fr",
+        "top": {
+            "1": 1542,
+            "2": 1424,
+            "3": 1550,
+            "4": 1605,
+            "5": 1663,
+            "6": 1908,
+            "7": 1764
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 5
+        },
+        "pb": 473813,
+        "streak": 22,
+        "matches": 5150,
+        "playtime": 3447926717,
+        "finished": 1501,
+        "finishtime": 1280534742,
+        "won": 2516,
+        "lost": 2420,
+        "forfeited": 1221
+    },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
         "country": null,
@@ -2727,12 +2758,12 @@
         },
         "pb": 449254,
         "streak": 29,
-        "matches": 1243,
-        "playtime": 756825115,
+        "matches": 1244,
+        "playtime": 757492172,
         "finished": 635,
         "finishtime": 426424341,
         "won": 844,
-        "lost": 388,
+        "lost": 389,
         "forfeited": 80
     },
     "9c724d7793094a76a8bc9d30f397df92": {
