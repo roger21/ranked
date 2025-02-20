@@ -75,7 +75,7 @@
   },
   "close": "fermer",
   "data": "données",
-  "data1": "Les données sont actualisées toutes les 24 minutes en moyenne mais cela peut varier de 3 minutes à plus de 2 heures…",
+  "data1": "Les données sont actualisées environ toutes les 10 minutes quand tout va bien.",
   "legend": "légende",
   "legend1": "Cliquez sur un nom pour masquer / afficher la courbe correspondante.",
   "legend2": "Double-cliquez ou faites un Ctrl+clic sur un nom pour masquer / afficher les autres courbes.",

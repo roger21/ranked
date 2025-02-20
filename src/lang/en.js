@@ -75,7 +75,7 @@
   },
   "close": "close",
   "data": "data",
-  "data1": "The data are updated every 24 minutes on average, but this may vary from 3 minutes to more than 2 hours…",
+  "data1": "The data are updated about every 10 minutes when everything runs smoothly.",
   "legend": "legend",
   "legend1": "Click on a name to hide/unhide the corresponding chart.",
   "legend2": "Double-click or Ctrl+click on a name to hide/unhide all other charts.",
