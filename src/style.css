@@ -513,9 +513,17 @@ body.ranked > dialog#helpwindow > div > div.content > div.subtitle{
 body.ranked > dialog#helpwindow > div > div.content > div.point{
   padding:10px 0 0 20px;
   display:list-item;
+  list-style-type:disc;
   list-style-position:inside;
 }
-body.ranked > dialog#helpwindow > div > div.content > div.point + div.subtitle{
+body.ranked > dialog#helpwindow > div > div.content > div.point2{
+  padding:10px 0 0 50px;
+  display:list-item;
+  list-style-type:"- ";
+  list-style-position:inside;
+}
+body.ranked > dialog#helpwindow > div > div.content > div.point + div.subtitle,
+body.ranked > dialog#helpwindow > div > div.content > div.point2 + div.subtitle{
   padding:20px 0 0;
 }
 body.ranked > dialog#helpwindow a{
