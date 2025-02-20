@@ -94,6 +94,7 @@
   "credits4": " for the country flags.",
   "credits5": " for the icons of the overworld types.",
   "credits6": " for the actions, the pages and the code hosting.",
+  "and": "and",
   "head": "'s head",
   "mean_match": "M:",
   "mean_completion": "C:",

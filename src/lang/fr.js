@@ -94,6 +94,7 @@
   "credits4": " pour les drapeaux.",
   "credits5": " pour les images des types de monde.",
   "credits6": " pour les actions, les pages et l’hébergement du code.",
+  "and": "et",
   "head": "tête de ",
   "mean_match": "M :",
   "mean_completion": "C :",
