@@ -264,7 +264,7 @@
   foreach($at as $uuid => &$a){
     if(!in_array($uuid, $ooo, true)){
       unset($at[$uuid]);
-      echo "removed {$uuid} from alltime";
+      echo "removed {$uuid} from alltime\n";
     }elseif(!in_array($uuid, $visited, true)){
       unset($stats);
       $stats=(file_get_contents($api_url."users/{$uuid}{$season_p1}",
