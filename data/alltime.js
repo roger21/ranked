@@ -730,7 +730,7 @@
             "4": 1771,
             "5": 2018,
             "6": 2116,
-            "7": 1992
+            "7": 2011
         },
         "points": {
             "2": 0,
@@ -741,12 +741,12 @@
             "7": 30
         },
         "pb": 439961,
-        "streak": 10,
-        "matches": 2982,
-        "playtime": 1777778060,
+        "streak": 11,
+        "matches": 2983,
+        "playtime": 1778092273,
         "finished": 1107,
         "finishtime": 762836395,
-        "won": 1486,
+        "won": 1487,
         "lost": 1332,
         "forfeited": 568
     },
@@ -1112,13 +1112,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 5635,
-        "playtime": 3733858578,
+        "matches": 5636,
+        "playtime": 3734172791,
         "finished": 1901,
         "finishtime": 1485865001,
         "won": 2792,
-        "lost": 2619,
-        "forfeited": 957
+        "lost": 2620,
+        "forfeited": 958
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -1451,13 +1451,13 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2315,
-        "playtime": 1337547761,
+        "matches": 2316,
+        "playtime": 1338094338,
         "finished": 894,
         "finishtime": 610105996,
         "won": 1204,
-        "lost": 1027,
-        "forfeited": 630
+        "lost": 1028,
+        "forfeited": 631
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -2026,11 +2026,11 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1571,
-        "playtime": 1049347824,
+        "matches": 1572,
+        "playtime": 1049927180,
         "finished": 529,
         "finishtime": 433541460,
-        "won": 827,
+        "won": 828,
         "lost": 695,
         "forfeited": 277
     },
