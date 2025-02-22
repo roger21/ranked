@@ -1904,11 +1904,11 @@
         },
         "pb": 486560,
         "streak": 12,
-        "matches": 1569,
-        "playtime": 1081109605,
+        "matches": 1570,
+        "playtime": 1081289030,
         "finished": 587,
         "finishtime": 452755873,
-        "won": 839,
+        "won": 840,
         "lost": 654,
         "forfeited": 25
     },
@@ -2148,13 +2148,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3033,
-        "playtime": 1863491685,
+        "matches": 3035,
+        "playtime": 1863937141,
         "finished": 1048,
         "finishtime": 821753398,
-        "won": 1600,
-        "lost": 1362,
-        "forfeited": 674
+        "won": 1601,
+        "lost": 1363,
+        "forfeited": 675
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -2290,7 +2290,7 @@
             "4": 1639,
             "5": 1789,
             "6": 1719,
-            "7": 1627
+            "7": 1648
         },
         "points": {
             "1": 0,
@@ -2303,11 +2303,11 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 2494,
-        "playtime": 1643294171,
-        "finished": 767,
-        "finishtime": 624285727,
-        "won": 1296,
+        "matches": 2495,
+        "playtime": 1644253418,
+        "finished": 768,
+        "finishtime": 625244974,
+        "won": 1297,
         "lost": 1124,
         "forfeited": 579
     },
