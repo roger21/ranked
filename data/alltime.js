@@ -2148,13 +2148,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3032,
-        "playtime": 1863032803,
+        "matches": 3033,
+        "playtime": 1863491685,
         "finished": 1048,
         "finishtime": 821753398,
         "won": 1600,
-        "lost": 1361,
-        "forfeited": 673
+        "lost": 1362,
+        "forfeited": 674
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -2290,7 +2290,7 @@
             "4": 1639,
             "5": 1789,
             "6": 1719,
-            "7": 1625
+            "7": 1627
         },
         "points": {
             "1": 0,
@@ -2303,11 +2303,11 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 2493,
-        "playtime": 1642681058,
-        "finished": 766,
-        "finishtime": 623672614,
-        "won": 1295,
+        "matches": 2494,
+        "playtime": 1643294171,
+        "finished": 767,
+        "finishtime": 624285727,
+        "won": 1296,
         "lost": 1124,
         "forfeited": 579
     },
@@ -3269,11 +3269,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 5378,
-        "playtime": 3143258372,
+        "matches": 5379,
+        "playtime": 3143403919,
         "finished": 1917,
         "finishtime": 1356892990,
-        "won": 2692,
+        "won": 2693,
         "lost": 2503,
         "forfeited": 1197
     },
@@ -3898,7 +3898,7 @@
             "4": 1216,
             "5": 1584,
             "6": 1953,
-            "7": 1924
+            "7": 1934
         },
         "points": {
             "2": 0,
@@ -3910,13 +3910,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3448,
-        "playtime": 1939429562,
-        "finished": 1215,
-        "finishtime": 839909991,
-        "won": 1762,
-        "lost": 1598,
-        "forfeited": 1017
+        "matches": 3450,
+        "playtime": 1940390183,
+        "finished": 1216,
+        "finishtime": 840725065,
+        "won": 1763,
+        "lost": 1599,
+        "forfeited": 1018
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
