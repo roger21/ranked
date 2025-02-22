@@ -262,12 +262,12 @@
         },
         "pb": 444956,
         "streak": 14,
-        "matches": 2532,
-        "playtime": 1565325579,
+        "matches": 2533,
+        "playtime": 1566069615,
         "finished": 1091,
         "finishtime": 752120078,
         "won": 1372,
-        "lost": 1088,
+        "lost": 1089,
         "forfeited": 325
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
@@ -1019,13 +1019,13 @@
         },
         "pb": 531934,
         "streak": 12,
-        "matches": 1274,
-        "playtime": 940163985,
+        "matches": 1275,
+        "playtime": 940665490,
         "finished": 430,
         "finishtime": 371377571,
         "won": 689,
-        "lost": 547,
-        "forfeited": 89
+        "lost": 548,
+        "forfeited": 90
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
         "nickname": "doogile",
