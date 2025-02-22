@@ -262,11 +262,11 @@
         },
         "pb": 444956,
         "streak": 14,
-        "matches": 2533,
-        "playtime": 1566069615,
+        "matches": 2534,
+        "playtime": 1566758658,
         "finished": 1091,
         "finishtime": 752120078,
-        "won": 1372,
+        "won": 1373,
         "lost": 1089,
         "forfeited": 325
     },
@@ -988,12 +988,12 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8353,
-        "playtime": 5218233219,
+        "matches": 8354,
+        "playtime": 5219042754,
         "finished": 3388,
         "finishtime": 2396495136,
         "won": 4513,
-        "lost": 3671,
+        "lost": 3672,
         "forfeited": 1167
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -1710,7 +1710,7 @@
         "country": "gb",
         "top": {
             "6": 1582,
-            "7": 1994
+            "7": 2018
         },
         "points": {
             "6": 0,
@@ -1718,11 +1718,11 @@
         },
         "pb": 496245,
         "streak": 11,
-        "matches": 823,
-        "playtime": 533234736,
-        "finished": 308,
-        "finishtime": 230632066,
-        "won": 432,
+        "matches": 824,
+        "playtime": 534044271,
+        "finished": 309,
+        "finishtime": 231441601,
+        "won": 433,
         "lost": 366,
         "forfeited": 96
     },
@@ -2148,11 +2148,11 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3046,
-        "playtime": 1870443324,
+        "matches": 3047,
+        "playtime": 1870447226,
         "finished": 1054,
         "finishtime": 825782550,
-        "won": 1607,
+        "won": 1608,
         "lost": 1368,
         "forfeited": 678
     },
@@ -2793,13 +2793,13 @@
         },
         "pb": 462260,
         "streak": 24,
-        "matches": 4686,
-        "playtime": 2903214288,
+        "matches": 4688,
+        "playtime": 2903907233,
         "finished": 1396,
         "finishtime": 1114142941,
         "won": 2329,
-        "lost": 2184,
-        "forfeited": 1273
+        "lost": 2186,
+        "forfeited": 1275
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
