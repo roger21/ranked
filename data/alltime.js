@@ -1873,13 +1873,13 @@
         },
         "pb": 527507,
         "streak": 13,
-        "matches": 3072,
-        "playtime": 2085156011,
+        "matches": 3073,
+        "playtime": 2085719378,
         "finished": 924,
         "finishtime": 786885887,
         "won": 1566,
-        "lost": 1381,
-        "forfeited": 545
+        "lost": 1382,
+        "forfeited": 546
     },
     "736dbdc44a3e452fa489f5344565835e": {
         "nickname": "drx6",
