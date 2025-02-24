@@ -2123,6 +2123,31 @@
         "lost": 2201,
         "forfeited": 804
     },
+    "78ea25c3db9a4830ba7e78074bd6fd10": {
+        "nickname": "ELO_THANOS4444",
+        "country": null,
+        "top": {
+            "4": 1475,
+            "5": 1803,
+            "6": 2153,
+            "7": 1870
+        },
+        "points": {
+            "4": 0,
+            "5": 15,
+            "6": 20,
+            "7": 10
+        },
+        "pb": 432879,
+        "streak": 12,
+        "matches": 4000,
+        "playtime": 2394739996,
+        "finished": 1119,
+        "finishtime": 792284322,
+        "won": 1835,
+        "lost": 1792,
+        "forfeited": 950
+    },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
         "country": "hk",
@@ -3883,12 +3908,12 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3508,
-        "playtime": 1969522008,
+        "matches": 3509,
+        "playtime": 1970154658,
         "finished": 1231,
         "finishtime": 850133969,
         "won": 1784,
-        "lost": 1633,
+        "lost": 1634,
         "forfeited": 1039
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
