@@ -1900,13 +1900,13 @@
         },
         "pb": 439581,
         "streak": 12,
-        "matches": 3477,
-        "playtime": 2138563902,
+        "matches": 3478,
+        "playtime": 2139130806,
         "finished": 1144,
         "finishtime": 874487240,
         "won": 1710,
-        "lost": 1608,
-        "forfeited": 929
+        "lost": 1609,
+        "forfeited": 930
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -2434,7 +2434,7 @@
             "4": 1850,
             "5": 1792,
             "6": 1952,
-            "7": 1834
+            "7": 1835
         },
         "points": {
             "2": 0,
@@ -2446,11 +2446,11 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2205,
-        "playtime": 1506483860,
+        "matches": 2206,
+        "playtime": 1507050764,
         "finished": 727,
         "finishtime": 560650137,
-        "won": 1079,
+        "won": 1080,
         "lost": 939,
         "forfeited": 68
     },
