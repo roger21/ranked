@@ -1017,13 +1017,13 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8429,
-        "playtime": 5258211694,
+        "matches": 8430,
+        "playtime": 5258846433,
         "finished": 3411,
         "finishtime": 2410980779,
         "won": 4553,
-        "lost": 3706,
-        "forfeited": 1179
+        "lost": 3707,
+        "forfeited": 1180
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1664,11 +1664,11 @@
         },
         "pb": 443043,
         "streak": 18,
-        "matches": 4221,
-        "playtime": 2745435295,
-        "finished": 1573,
-        "finishtime": 1175123756,
-        "won": 2194,
+        "matches": 4222,
+        "playtime": 2746082688,
+        "finished": 1574,
+        "finishtime": 1175771149,
+        "won": 2195,
         "lost": 1937,
         "forfeited": 598
     },
@@ -2454,11 +2454,11 @@
         },
         "pb": 459908,
         "streak": 13,
-        "matches": 7738,
-        "playtime": 5062192733,
+        "matches": 7739,
+        "playtime": 5062362736,
         "finished": 2531,
         "finishtime": 2095294668,
-        "won": 3933,
+        "won": 3934,
         "lost": 3639,
         "forfeited": 1874
     },
@@ -3137,7 +3137,7 @@
             "4": 1920,
             "5": 1971,
             "6": 2275,
-            "7": 2056
+            "7": 2074
         },
         "points": {
             "2": 0,
@@ -3149,11 +3149,11 @@
         },
         "pb": 463742,
         "streak": 11,
-        "matches": 3692,
-        "playtime": 2499441075,
+        "matches": 3693,
+        "playtime": 2500075814,
         "finished": 1320,
         "finishtime": 973295029,
-        "won": 1876,
+        "won": 1877,
         "lost": 1676,
         "forfeited": 75
     },
