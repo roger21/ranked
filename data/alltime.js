@@ -51,12 +51,12 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4738,
-        "playtime": 3195478332,
+        "matches": 4739,
+        "playtime": 3196063583,
         "finished": 1589,
         "finishtime": 1242751039,
         "won": 2373,
-        "lost": 2208,
+        "lost": 2209,
         "forfeited": 508
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -483,7 +483,7 @@
             "4": 2082,
             "5": 1994,
             "6": 2080,
-            "7": 1995
+            "7": 2001
         },
         "points": {
             "1": 0,
@@ -496,11 +496,11 @@
         },
         "pb": 417055,
         "streak": 17,
-        "matches": 4733,
-        "playtime": 3026622658,
-        "finished": 1669,
-        "finishtime": 1220345360,
-        "won": 2345,
+        "matches": 4734,
+        "playtime": 3027207909,
+        "finished": 1670,
+        "finishtime": 1220930611,
+        "won": 2346,
         "lost": 2172,
         "forfeited": 537
     },
@@ -1451,13 +1451,13 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2420,
-        "playtime": 1385990348,
+        "matches": 2421,
+        "playtime": 1386150374,
         "finished": 932,
         "finishtime": 632603560,
         "won": 1255,
-        "lost": 1079,
-        "forfeited": 672
+        "lost": 1080,
+        "forfeited": 673
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
