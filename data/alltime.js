@@ -1451,11 +1451,11 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2417,
-        "playtime": 1384947025,
-        "finished": 931,
-        "finishtime": 631993244,
-        "won": 1253,
+        "matches": 2418,
+        "playtime": 1385557341,
+        "finished": 932,
+        "finishtime": 632603560,
+        "won": 1254,
         "lost": 1078,
         "forfeited": 671
     },
@@ -1735,27 +1735,6 @@
         "won": 1234,
         "lost": 1015,
         "forfeited": 293
-    },
-    "635f35ee69ed4f0c94ff26ece4818956": {
-        "nickname": "edcr",
-        "country": "gb",
-        "top": {
-            "6": 1582,
-            "7": 2018
-        },
-        "points": {
-            "6": 0,
-            "7": 25
-        },
-        "pb": 496245,
-        "streak": 11,
-        "matches": 917,
-        "playtime": 582804732,
-        "finished": 343,
-        "finishtime": 253248074,
-        "won": 474,
-        "lost": 418,
-        "forfeited": 119
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -3655,7 +3634,7 @@
             "4": 1727,
             "5": 1745,
             "6": 1993,
-            "7": 1776
+            "7": 1794
         },
         "points": {
             "3": 0,
@@ -3666,11 +3645,11 @@
         },
         "pb": 469319,
         "streak": 8,
-        "matches": 491,
-        "playtime": 345360267,
-        "finished": 188,
-        "finishtime": 146412580,
-        "won": 274,
+        "matches": 492,
+        "playtime": 345887478,
+        "finished": 189,
+        "finishtime": 146939791,
+        "won": 275,
         "lost": 187,
         "forfeited": 20
     },
@@ -3759,12 +3738,12 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 4521,
-        "playtime": 2874095551,
+        "matches": 4522,
+        "playtime": 2874635959,
         "finished": 1911,
         "finishtime": 1359426375,
         "won": 2474,
-        "lost": 1978,
+        "lost": 1979,
         "forfeited": 620
     },
     "e4cd494a4e0a423b9988618b86858c96": {
@@ -3848,13 +3827,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3586,
-        "playtime": 2006151761,
+        "matches": 3587,
+        "playtime": 2006368468,
         "finished": 1256,
         "finishtime": 867126022,
         "won": 1824,
-        "lost": 1669,
-        "forfeited": 1071
+        "lost": 1670,
+        "forfeited": 1072
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
