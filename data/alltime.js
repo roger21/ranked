@@ -1451,13 +1451,13 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2402,
-        "playtime": 1378550705,
+        "matches": 2403,
+        "playtime": 1378854860,
         "finished": 926,
         "finishtime": 629298478,
         "won": 1246,
-        "lost": 1070,
-        "forfeited": 664
+        "lost": 1071,
+        "forfeited": 665
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -1749,11 +1749,11 @@
         },
         "pb": 496245,
         "streak": 11,
-        "matches": 901,
-        "playtime": 574949983,
+        "matches": 902,
+        "playtime": 575254138,
         "finished": 338,
         "finishtime": 249989106,
-        "won": 467,
+        "won": 468,
         "lost": 409,
         "forfeited": 115
     },
@@ -2487,12 +2487,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 4986,
-        "playtime": 3444740183,
+        "matches": 4987,
+        "playtime": 3445402289,
         "finished": 1614,
         "finishtime": 1326989193,
         "won": 2501,
-        "lost": 2345,
+        "lost": 2346,
         "forfeited": 566
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -2917,11 +2917,11 @@
         },
         "pb": 461458,
         "streak": 12,
-        "matches": 541,
-        "playtime": 351069418,
-        "finished": 244,
-        "finishtime": 179295781,
-        "won": 328,
+        "matches": 542,
+        "playtime": 351699714,
+        "finished": 245,
+        "finishtime": 179926077,
+        "won": 329,
         "lost": 199,
         "forfeited": 67
     },
@@ -3615,37 +3615,6 @@
         "won": 1353,
         "lost": 1193,
         "forfeited": 358
-    },
-    "d7d0b271136647fea7398a444ab51c13": {
-        "nickname": "JustAltoid",
-        "country": "us",
-        "top": {
-            "1": 1194,
-            "2": 1108,
-            "3": 1402,
-            "4": 1580,
-            "5": 1713,
-            "6": 1701,
-            "7": 1959
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 0,
-            "7": 20
-        },
-        "pb": 476873,
-        "streak": 13,
-        "matches": 4043,
-        "playtime": 2747160162,
-        "finished": 1165,
-        "finishtime": 965626503,
-        "won": 1994,
-        "lost": 1851,
-        "forfeited": 726
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
