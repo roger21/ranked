@@ -1606,13 +1606,13 @@
         },
         "pb": 427987,
         "streak": 13,
-        "matches": 990,
-        "playtime": 626851337,
+        "matches": 991,
+        "playtime": 627197155,
         "finished": 342,
         "finishtime": 258179385,
         "won": 528,
-        "lost": 420,
-        "forfeited": 219
+        "lost": 421,
+        "forfeited": 220
     },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
@@ -1821,11 +1821,11 @@
         },
         "pb": 414674,
         "streak": 22,
-        "matches": 5490,
-        "playtime": 3216129575,
-        "finished": 2593,
-        "finishtime": 1797315087,
-        "won": 3453,
+        "matches": 5491,
+        "playtime": 3216652501,
+        "finished": 2594,
+        "finishtime": 1797838013,
+        "won": 3454,
         "lost": 1985,
         "forfeited": 964
     },
@@ -2072,6 +2072,31 @@
         "won": 2479,
         "lost": 2203,
         "forfeited": 804
+    },
+    "78ea25c3db9a4830ba7e78074bd6fd10": {
+        "nickname": "ELO_THANOS4444",
+        "country": null,
+        "top": {
+            "4": 1475,
+            "5": 1803,
+            "6": 2153,
+            "7": 1870
+        },
+        "points": {
+            "4": 0,
+            "5": 15,
+            "6": 20,
+            "7": 10
+        },
+        "pb": 432879,
+        "streak": 12,
+        "matches": 4066,
+        "playtime": 2428482272,
+        "finished": 1142,
+        "finishtime": 805594475,
+        "won": 1866,
+        "lost": 1822,
+        "forfeited": 968
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
@@ -3084,31 +3109,6 @@
         "lost": 983,
         "forfeited": 333
     },
-    "b516d1d18261467bbb6f447f0c111be7": {
-        "nickname": "Gabryll_",
-        "country": "pl",
-        "top": {
-            "4": 1100,
-            "5": 1461,
-            "6": 1697,
-            "7": 1758
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0
-        },
-        "pb": 531715,
-        "streak": 13,
-        "matches": 2690,
-        "playtime": 1800147581,
-        "finished": 656,
-        "finishtime": 570018798,
-        "won": 1297,
-        "lost": 1228,
-        "forfeited": 511
-    },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
         "country": "ru",
@@ -3858,12 +3858,12 @@
         },
         "pb": 451504,
         "streak": 11,
-        "matches": 2679,
-        "playtime": 1883620339,
+        "matches": 2680,
+        "playtime": 1884179649,
         "finished": 890,
         "finishtime": 711081607,
         "won": 1340,
-        "lost": 1206,
+        "lost": 1207,
         "forfeited": 153
     },
     "f1611fd339b1401f84154afee3a5f14a": {
