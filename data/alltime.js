@@ -1837,7 +1837,7 @@
             "4": 2322,
             "5": 2270,
             "6": 2363,
-            "7": 2062
+            "7": 2072
         },
         "points": {
             "1": 0,
@@ -1850,11 +1850,11 @@
         },
         "pb": 414674,
         "streak": 22,
-        "matches": 5509,
-        "playtime": 3227137831,
+        "matches": 5510,
+        "playtime": 3227431742,
         "finished": 2604,
         "finishtime": 1804028254,
-        "won": 3467,
+        "won": 3468,
         "lost": 1989,
         "forfeited": 964
     },
@@ -3924,13 +3924,13 @@
         },
         "pb": 433890,
         "streak": 14,
-        "matches": 4632,
-        "playtime": 2809564125,
+        "matches": 4633,
+        "playtime": 2809858036,
         "finished": 1409,
         "finishtime": 1159128048,
         "won": 2312,
-        "lost": 2127,
-        "forfeited": 1232
+        "lost": 2128,
+        "forfeited": 1233
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
