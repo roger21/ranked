@@ -1829,6 +1829,37 @@
         "lost": 1989,
         "forfeited": 964
     },
+    "728fdcab24b249b686c081a7fc53176e": {
+        "nickname": "ContraVz",
+        "country": "ie",
+        "top": {
+            "1": 1384,
+            "2": 1254,
+            "3": 1166,
+            "4": 1718,
+            "5": 1755,
+            "6": 2045,
+            "7": 1856
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 20,
+            "5": 25,
+            "6": 55,
+            "7": 30
+        },
+        "pb": 439581,
+        "streak": 12,
+        "matches": 3568,
+        "playtime": 2182704210,
+        "finished": 1175,
+        "finishtime": 895588955,
+        "won": 1753,
+        "lost": 1653,
+        "forfeited": 965
+    },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
         "country": "kr",
@@ -2435,13 +2466,13 @@
         },
         "pb": 459908,
         "streak": 13,
-        "matches": 7808,
-        "playtime": 5101521957,
+        "matches": 7809,
+        "playtime": 5101996837,
         "finished": 2552,
         "finishtime": 2110096364,
         "won": 3971,
-        "lost": 3670,
-        "forfeited": 1887
+        "lost": 3671,
+        "forfeited": 1888
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
