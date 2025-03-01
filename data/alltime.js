@@ -496,12 +496,12 @@
         },
         "pb": 417055,
         "streak": 17,
-        "matches": 4749,
-        "playtime": 3035437856,
+        "matches": 4750,
+        "playtime": 3035979842,
         "finished": 1676,
         "finishtime": 1224605525,
         "won": 2353,
-        "lost": 2180,
+        "lost": 2181,
         "forfeited": 538
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -862,12 +862,12 @@
         },
         "pb": 517153,
         "streak": 9,
-        "matches": 1175,
-        "playtime": 847465940,
+        "matches": 1176,
+        "playtime": 847997487,
         "finished": 410,
         "finishtime": 331974609,
         "won": 607,
-        "lost": 520,
+        "lost": 521,
         "forfeited": 31
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -1480,11 +1480,11 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2445,
-        "playtime": 1397364093,
-        "finished": 939,
-        "finishtime": 636974651,
-        "won": 1265,
+        "matches": 2446,
+        "playtime": 1397895640,
+        "finished": 940,
+        "finishtime": 637506198,
+        "won": 1266,
         "lost": 1093,
         "forfeited": 684
     },
@@ -2101,31 +2101,6 @@
         "won": 2479,
         "lost": 2203,
         "forfeited": 804
-    },
-    "78ea25c3db9a4830ba7e78074bd6fd10": {
-        "nickname": "ELO_THANOS4444",
-        "country": null,
-        "top": {
-            "4": 1475,
-            "5": 1803,
-            "6": 2153,
-            "7": 1870
-        },
-        "points": {
-            "4": 0,
-            "5": 15,
-            "6": 20,
-            "7": 10
-        },
-        "pb": 432879,
-        "streak": 12,
-        "matches": 4076,
-        "playtime": 2434107319,
-        "finished": 1145,
-        "finishtime": 807413557,
-        "won": 1870,
-        "lost": 1828,
-        "forfeited": 971
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
@@ -2977,11 +2952,11 @@
         },
         "pb": 455363,
         "streak": 11,
-        "matches": 1028,
-        "playtime": 645534330,
-        "finished": 488,
-        "finishtime": 326639119,
-        "won": 622,
+        "matches": 1029,
+        "playtime": 646076316,
+        "finished": 489,
+        "finishtime": 327181105,
+        "won": 623,
         "lost": 389,
         "forfeited": 31
     },
@@ -3075,6 +3050,31 @@
         "won": 1600,
         "lost": 1485,
         "forfeited": 282
+    },
+    "addd890764404097b3f12acdde2adf33": {
+        "nickname": "Hypn0tic2030",
+        "country": "us",
+        "top": {
+            "4": 1533,
+            "5": 1697,
+            "6": 1935,
+            "7": 1855
+        },
+        "points": {
+            "4": 0,
+            "5": 35,
+            "6": 65,
+            "7": 25
+        },
+        "pb": 485300,
+        "streak": 11,
+        "matches": 1772,
+        "playtime": 1172326780,
+        "finished": 542,
+        "finishtime": 435282925,
+        "won": 893,
+        "lost": 806,
+        "forfeited": 277
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
