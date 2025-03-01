@@ -375,10 +375,14 @@ function displayLegendTooltip(target, data) {
       data.label + language["head"] : language["head"] + data.label;
     legendTooltip.appendChild(images[data.uuid]);
 
-    // bloc global des données du joueur
+    // bloc global des données de la saison du joueur
     const dataDiv = document.createElement("div");
     dataDiv.setAttribute("id", "data");
     legendTooltip.appendChild(dataDiv);
+    const dataLegend = document.createElement("img");
+    dataLegend.classList.add("legend");
+    dataLegend.src = "img/s.svg"
+    dataDiv.appendChild(dataLegend);
 
     // ligne rank / joueur / country / ranklabel / elo / points
     const dataRankDiv = document.createElement("div");
