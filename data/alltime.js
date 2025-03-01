@@ -802,11 +802,11 @@
         },
         "pb": 438416,
         "streak": 9,
-        "matches": 3456,
-        "playtime": 2184818210,
+        "matches": 3457,
+        "playtime": 2185076220,
         "finished": 964,
         "finishtime": 770725719,
-        "won": 1631,
+        "won": 1632,
         "lost": 1548,
         "forfeited": 768
     },
@@ -2003,13 +2003,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1600,
-        "playtime": 1068376309,
+        "matches": 1602,
+        "playtime": 1069214559,
         "finished": 539,
         "finishtime": 441187526,
         "won": 843,
-        "lost": 708,
-        "forfeited": 282
+        "lost": 710,
+        "forfeited": 283
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
