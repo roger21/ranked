@@ -180,6 +180,35 @@ function getPercent(percent) {
   return percentFormat.format(percent);
 }
 
+// calcul des top alltime
+function getTop(top) {
+  let max = 0;
+  let seasons = [];
+  for(const i in top) {
+    max = max > top[i] ? max : top[i];
+  }
+  for(const i in top) {
+    if(top[i] === max) {
+      seasons.push(i);
+    }
+  }
+  if(max === 0) {
+    return [max, ""];
+  }
+  if(seasons.length === 1) {
+    return [max, language["in_season_"] + seasons[0]];
+  }
+  if(seasons.length === 2) {
+    return [max, language["in_seasons_"] + seasons[0] + language["_and_"] +
+      seasons[1]
+    ];
+  }
+  return [max, language["in_seasons_"] +
+    seasons.slice(0, seasons.length - 1).join(", ") +
+    language["_and_"] + seasons[seasons.length - 1]
+  ];
+}
+
 // date courrante pour le calcule des temps écoulés
 let currentDate = new Date();
 
@@ -351,7 +380,7 @@ function displayLegendTooltip(target, data) {
     dataDiv.setAttribute("id", "data");
     legendTooltip.appendChild(dataDiv);
 
-    // ligne joueur / rank / elo / points
+    // ligne rank / joueur / country / ranklabel / elo / points
     const dataRankDiv = document.createElement("div");
     dataDiv.appendChild(dataRankDiv);
     // rank
@@ -377,6 +406,20 @@ function displayLegendTooltip(target, data) {
       flagDiv.className = "fi fi-" + data.country;
       playerDiv.appendChild(flagDiv);
     }
+    // elo
+    const toping = (stats.elo === stats.top);
+    const eloDiv = document.createElement("div");
+    eloDiv.classList.add("elo");
+    eloDiv.classList.toggle("toping", toping);
+    eloDiv.textContent = stats.elo + (toping ? " top elo" : " elo");
+    dataRankDiv.appendChild(eloDiv);
+    // top elo
+    if(!toping) {
+      const topEloDiv = document.createElement("div");
+      topEloDiv.classList.add("topelo");
+      topEloDiv.textContent = "(" + stats.top + " top)";
+      dataRankDiv.appendChild(topEloDiv);
+    }
     // le rank label
     const rankLabel = getRankLabel(stats.elo);
     const label = rankLabel[0];
@@ -393,20 +436,6 @@ function displayLegendTooltip(target, data) {
     rankNameDiv.classList.add("rankname");
     rankNameDiv.textContent = fullLabel;
     rankLabelDiv.appendChild(rankNameDiv);
-    // elo
-    const toping = (stats.elo === stats.top);
-    const eloDiv = document.createElement("div");
-    eloDiv.classList.add("elo");
-    eloDiv.classList.toggle("toping", toping);
-    eloDiv.textContent = stats.elo + (toping ? " top elo" : " elo");
-    dataRankDiv.appendChild(eloDiv);
-    // top elo
-    if(!toping) {
-      const topEloDiv = document.createElement("div");
-      topEloDiv.classList.add("topelo");
-      topEloDiv.textContent = "(" + stats.top + " top)";
-      dataRankDiv.appendChild(topEloDiv);
-    }
     // points
     if(stats.points) {
       const pointsDiv = document.createElement("div");
@@ -415,7 +444,7 @@ function displayLegendTooltip(target, data) {
       dataRankDiv.appendChild(pointsDiv);
     }
 
-    // ligne matches / pb / streak / temps moyens
+    // ligne pb / streak / matches / temps moyens
     const dataPbDiv = document.createElement("div");
     dataDiv.appendChild(dataPbDiv);
     // pb
@@ -441,19 +470,20 @@ function displayLegendTooltip(target, data) {
     // matches
     const matchesDiv = document.createElement("div");
     matchesDiv.classList.add("matches");
-    matchesDiv.textContent = stats.matches + " " + language["matches"];
+    matchesDiv.textContent = stats.matches +
+      " " + language["matches"];
     dataPbDiv.appendChild(matchesDiv);
     // match moyen
     const matchTimeDiv = document.createElement("div");
     matchTimeDiv.classList.add("meantime");
-    matchTimeDiv.textContent = language["mean_match"] + " " +
-      getMeanTime(stats.playtime / stats.matches);
+    matchTimeDiv.textContent = language["mean_match"] +
+      " " + getMeanTime(stats.playtime / stats.matches);
     dataPbDiv.appendChild(matchTimeDiv);
     // completion moyenne
     const completionTimeDiv = document.createElement("div");
     completionTimeDiv.classList.add("meantime");
-    completionTimeDiv.textContent = language["mean_completion"] + " " +
-      getMeanTime(stats.finishtime / stats.finished);
+    completionTimeDiv.textContent = language["mean_completion"] +
+      " " + getMeanTime(stats.finishtime / stats.finished);
     dataPbDiv.appendChild(completionTimeDiv);
 
     // ligne stats
@@ -468,7 +498,8 @@ function displayLegendTooltip(target, data) {
     wonLabel.textContent = language["won"];
     wonDiv.appendChild(wonLabel);
     const wonPercent = document.createElement("div");
-    wonPercent.textContent = getPercent(stats.won / stats.matches);
+    wonPercent.textContent =
+      getPercent(stats.won / stats.matches);
     wonDiv.appendChild(wonPercent);
     // completions
     const completedDiv = document.createElement("div");
@@ -491,7 +522,8 @@ function displayLegendTooltip(target, data) {
     lostLabel.textContent = language["lost"];
     lostDiv.appendChild(lostLabel);
     const lostPercent = document.createElement("div");
-    lostPercent.textContent = getPercent(stats.lost / stats.matches);
+    lostPercent.textContent =
+      getPercent(stats.lost / stats.matches);
     lostDiv.appendChild(lostPercent);
     // fofaits
     const forfeitedDiv = document.createElement("div");
@@ -517,6 +549,155 @@ function displayLegendTooltip(target, data) {
     drawPercent.textContent = getPercent((stats.matches -
       (stats.won + stats.lost)) / stats.matches);
     drawDiv.appendChild(drawPercent);
+
+    // bloc global des données alltime du joueur
+    const alltimeDiv = document.createElement("div");
+    alltimeDiv.setAttribute("id", "alltime");
+    legendTooltip.appendChild(alltimeDiv);
+    const alltimeLegend = document.createElement("img");
+    alltimeLegend.classList.add("legend");
+    alltimeLegend.src = "img/at.svg"
+    alltimeDiv.appendChild(alltimeLegend);
+
+    // ligne alltime top elo / ranklabel / top points
+    const alltimeDataRankDiv = document.createElement("div");
+    alltimeDiv.appendChild(alltimeDataRankDiv);
+    // alltime top elo
+    const elo = getTop(alltime.top);
+    const alltimeEloDiv = document.createElement("div");
+    alltimeEloDiv.classList.add("elo");
+    alltimeEloDiv.textContent = elo[0] + " top elo";
+    alltimeDataRankDiv.appendChild(alltimeEloDiv);
+    // le rank label
+    const alltimeRankLabel = getRankLabel(elo[0]);
+    const alltimeLabel = alltimeRankLabel[0];
+    const alltimeFullLabel = alltimeRankLabel[1] +
+      (alltimeRankLabel[2] ? " " + alltimeRankLabel[2] : "");
+    const alltimeRankLabelDiv = document.createElement("div");
+    alltimeRankLabelDiv.classList.add("ranklabel");
+    alltimeDataRankDiv.appendChild(alltimeRankLabelDiv);
+    const alltimeRankIconDiv = document.createElement("div");
+    alltimeRankIconDiv.classList.add("rankicon");
+    alltimeRankIconDiv.classList.add(alltimeLabel);
+    alltimeRankLabelDiv.appendChild(alltimeRankIconDiv);
+    const alltimeRankNameDiv = document.createElement("div");
+    alltimeRankNameDiv.classList.add("rankname");
+    alltimeRankNameDiv.textContent = alltimeFullLabel;
+    alltimeRankLabelDiv.appendChild(alltimeRankNameDiv);
+    // alltime top elo seasons
+    const alltimeEloSeasonsDiv = document.createElement("div");
+    alltimeEloSeasonsDiv.classList.add("eloseasons");
+    alltimeEloSeasonsDiv.textContent = "(" + elo[1] + ")";
+    alltimeDataRankDiv.appendChild(alltimeEloSeasonsDiv);
+    // alltime top points
+    const points = getTop(alltime.points);
+    if(points[0]) {
+      const alltimePointsDiv = document.createElement("div");
+      alltimePointsDiv.classList.add("points");
+      alltimePointsDiv.textContent = points[0] + " top pts";
+      alltimeDataRankDiv.appendChild(alltimePointsDiv);
+      // alltime top points seasons
+      const alltimePointsSeasonsDiv = document.createElement("div");
+      alltimePointsSeasonsDiv.classList.add("pointsseasons");
+      alltimePointsSeasonsDiv.textContent = "(" + points[1] + ")";
+      alltimeDataRankDiv.appendChild(alltimePointsSeasonsDiv);
+    }
+
+    // ligne alltime pb / streak / matches / temps moyens
+    const alltimeDataPbDiv = document.createElement("div");
+    alltimeDiv.appendChild(alltimeDataPbDiv);
+    // alltime pb
+    const alltimePbDiv = document.createElement("div");
+    alltimePbDiv.classList.add("pb");
+    alltimePbDiv.textContent = "pb " + getTime(alltime.pb);
+    alltimeDataPbDiv.appendChild(alltimePbDiv);
+    // alltime top streak
+    const alltimeTopStreakDiv = document.createElement("div");
+    alltimeTopStreakDiv.classList.add("streak");
+    alltimeTopStreakDiv.textContent = "top streak " + alltime.streak;
+    alltimeDataPbDiv.appendChild(alltimeTopStreakDiv);
+    // alltime matches
+    const alltimeMatchesDiv = document.createElement("div");
+    alltimeMatchesDiv.classList.add("matches");
+    alltimeMatchesDiv.textContent = alltime.matches +
+      " " + language["matches"];
+    alltimeDataPbDiv.appendChild(alltimeMatchesDiv);
+    // alltime match moyen
+    const alltimeMatchTimeDiv = document.createElement("div");
+    alltimeMatchTimeDiv.classList.add("meantime");
+    alltimeMatchTimeDiv.textContent = language["mean_match"] +
+      " " + getMeanTime(alltime.playtime / alltime.matches);
+    alltimeDataPbDiv.appendChild(alltimeMatchTimeDiv);
+    // alltime completion moyenne
+    const alltimeCompletionTimeDiv = document.createElement("div");
+    alltimeCompletionTimeDiv.classList.add("meantime");
+    alltimeCompletionTimeDiv.textContent = language["mean_completion"] +
+      " " + getMeanTime(alltime.finishtime / alltime.finished);
+    alltimeDataPbDiv.appendChild(alltimeCompletionTimeDiv);
+
+    // ligne alltime stats
+    const alltimeStatsDiv = document.createElement("div");
+    alltimeDiv.appendChild(alltimeStatsDiv);
+    // alltime victoires
+    const alltimeWonDiv = document.createElement("div");
+    alltimeWonDiv.classList.add("alltimestatsdiv");
+    alltimeWonDiv.classList.add("won");
+    alltimeStatsDiv.appendChild(alltimeWonDiv);
+    const alltimeWonLabel = document.createElement("div");
+    alltimeWonLabel.textContent = language["won"];
+    alltimeWonDiv.appendChild(alltimeWonLabel);
+    const alltimeWonPercent = document.createElement("div");
+    alltimeWonPercent.textContent =
+      getPercent(alltime.won / alltime.matches);
+    alltimeWonDiv.appendChild(alltimeWonPercent);
+    // alltime completions
+    const alltimeCompletedDiv = document.createElement("div");
+    alltimeCompletedDiv.classList.add("alltimestatsdiv");
+    alltimeCompletedDiv.classList.add("completed");
+    alltimeStatsDiv.appendChild(alltimeCompletedDiv);
+    const alltimeCompletedLabel = document.createElement("div");
+    alltimeCompletedLabel.textContent = language["completion"];
+    alltimeCompletedDiv.appendChild(alltimeCompletedLabel);
+    const alltimeCompletedPercent = document.createElement("div");
+    alltimeCompletedPercent.textContent =
+      getPercent(alltime.finished / alltime.matches);
+    alltimeCompletedDiv.appendChild(alltimeCompletedPercent);
+    // alltime défaites
+    const alltimeLostDiv = document.createElement("div");
+    alltimeLostDiv.classList.add("alltimestatsdiv");
+    alltimeLostDiv.classList.add("lost");
+    alltimeStatsDiv.appendChild(alltimeLostDiv);
+    const alltimeLostLabel = document.createElement("div");
+    alltimeLostLabel.textContent = language["lost"];
+    alltimeLostDiv.appendChild(alltimeLostLabel);
+    const alltimeLostPercent = document.createElement("div");
+    alltimeLostPercent.textContent =
+      getPercent(alltime.lost / alltime.matches);
+    alltimeLostDiv.appendChild(alltimeLostPercent);
+    // alltime fofaits
+    const alltimeForfeitedDiv = document.createElement("div");
+    alltimeForfeitedDiv.classList.add("alltimestatsdiv");
+    alltimeForfeitedDiv.classList.add("forfeited");
+    alltimeStatsDiv.appendChild(alltimeForfeitedDiv);
+    const alltimeForfeitedLabel = document.createElement("div");
+    alltimeForfeitedLabel.textContent = language["forfeited"];
+    alltimeForfeitedDiv.appendChild(alltimeForfeitedLabel);
+    const alltimeForfeitedPercent = document.createElement("div");
+    alltimeForfeitedPercent.textContent =
+      getPercent(alltime.forfeited / alltime.matches);
+    alltimeForfeitedDiv.appendChild(alltimeForfeitedPercent);
+    // alltime égalités
+    const alltimeDrawDiv = document.createElement("div");
+    alltimeDrawDiv.classList.add("alltimestatsdiv");
+    alltimeDrawDiv.classList.add("draw");
+    alltimeStatsDiv.appendChild(alltimeDrawDiv);
+    const alltimeDrawLabel = document.createElement("div");
+    alltimeDrawLabel.textContent = language["draw"];
+    alltimeDrawDiv.appendChild(alltimeDrawLabel);
+    const alltimeDrawPercent = document.createElement("div");
+    alltimeDrawPercent.textContent = getPercent((alltime.matches -
+      (alltime.won + alltime.lost)) / alltime.matches);
+    alltimeDrawDiv.appendChild(alltimeDrawPercent);
 
     // affichage de la tooltip
     legendTooltip.style.display = "flex";
@@ -1715,6 +1896,10 @@ async function loadData() {
   // gestion du bouton d'ouverture de la fenêtre d'aide
   document.getElementById("help").addEventListener("click", () => {
     helpwindow.showModal();
+    helpwindow.querySelector("div.content").scroll({
+      top: 0,
+      left: 0
+    });
   }, false);
 
   // gestion des boutons de fermeture de la fenêtre de l'aide
