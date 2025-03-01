@@ -802,13 +802,13 @@
         },
         "pb": 438416,
         "streak": 9,
-        "matches": 3444,
-        "playtime": 2179731453,
+        "matches": 3446,
+        "playtime": 2180302587,
         "finished": 960,
         "finishtime": 768369353,
         "won": 1625,
-        "lost": 1542,
-        "forfeited": 763
+        "lost": 1544,
+        "forfeited": 765
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -2402,12 +2402,12 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1559,
-        "playtime": 978392055,
+        "matches": 1560,
+        "playtime": 979207402,
         "finished": 626,
         "finishtime": 436872679,
         "won": 858,
-        "lost": 637,
+        "lost": 638,
         "forfeited": 126
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
@@ -3051,6 +3051,31 @@
         "lost": 1485,
         "forfeited": 282
     },
+    "addd890764404097b3f12acdde2adf33": {
+        "nickname": "Hypn0tic2030",
+        "country": "us",
+        "top": {
+            "4": 1533,
+            "5": 1697,
+            "6": 1935,
+            "7": 1855
+        },
+        "points": {
+            "4": 0,
+            "5": 35,
+            "6": 65,
+            "7": 25
+        },
+        "pb": 485300,
+        "streak": 11,
+        "matches": 1761,
+        "playtime": 1167038665,
+        "finished": 540,
+        "finishtime": 433840008,
+        "won": 887,
+        "lost": 801,
+        "forfeited": 275
+    },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
         "country": null,
@@ -3529,11 +3554,11 @@
         },
         "pb": 496977,
         "streak": 10,
-        "matches": 3011,
-        "playtime": 2194314538,
-        "finished": 913,
-        "finishtime": 767933421,
-        "won": 1495,
+        "matches": 3012,
+        "playtime": 2194965397,
+        "finished": 914,
+        "finishtime": 768584280,
+        "won": 1496,
         "lost": 1398,
         "forfeited": 219
     },
