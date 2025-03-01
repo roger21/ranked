@@ -802,13 +802,13 @@
         },
         "pb": 438416,
         "streak": 9,
-        "matches": 3455,
-        "playtime": 2184185682,
+        "matches": 3456,
+        "playtime": 2184818210,
         "finished": 964,
         "finishtime": 770725719,
         "won": 1631,
-        "lost": 1547,
-        "forfeited": 767
+        "lost": 1548,
+        "forfeited": 768
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -2003,12 +2003,12 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1598,
-        "playtime": 1067397527,
+        "matches": 1599,
+        "playtime": 1068085377,
         "finished": 539,
         "finishtime": 441187526,
         "won": 843,
-        "lost": 706,
+        "lost": 707,
         "forfeited": 281
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
