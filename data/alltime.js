@@ -651,11 +651,11 @@
         },
         "pb": 470188,
         "streak": 11,
-        "matches": 2556,
-        "playtime": 1739266916,
-        "finished": 967,
-        "finishtime": 737575630,
-        "won": 1349,
+        "matches": 2557,
+        "playtime": 1739899907,
+        "finished": 968,
+        "finishtime": 738208621,
+        "won": 1350,
         "lost": 1147,
         "forfeited": 152
     },
@@ -742,11 +742,11 @@
         },
         "pb": 439961,
         "streak": 11,
-        "matches": 3043,
-        "playtime": 1813017694,
+        "matches": 3044,
+        "playtime": 1813718021,
         "finished": 1130,
         "finishtime": 777199935,
-        "won": 1520,
+        "won": 1521,
         "lost": 1354,
         "forfeited": 568
     },
@@ -1141,13 +1141,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 5677,
-        "playtime": 3758255665,
+        "matches": 5678,
+        "playtime": 3758955992,
         "finished": 1919,
         "finishtime": 1497831138,
         "won": 2815,
-        "lost": 2636,
-        "forfeited": 960
+        "lost": 2637,
+        "forfeited": 961
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -1480,11 +1480,11 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2466,
-        "playtime": 1406941573,
-        "finished": 947,
-        "finishtime": 641770556,
-        "won": 1277,
+        "matches": 2467,
+        "playtime": 1407462837,
+        "finished": 948,
+        "finishtime": 642291820,
+        "won": 1278,
         "lost": 1102,
         "forfeited": 691
     },
@@ -2101,31 +2101,6 @@
         "won": 2485,
         "lost": 2211,
         "forfeited": 808
-    },
-    "78ea25c3db9a4830ba7e78074bd6fd10": {
-        "nickname": "ELO_THANOS4444",
-        "country": null,
-        "top": {
-            "4": 1475,
-            "5": 1803,
-            "6": 2153,
-            "7": 1870
-        },
-        "points": {
-            "4": 0,
-            "5": 15,
-            "6": 20,
-            "7": 10
-        },
-        "pb": 432879,
-        "streak": 12,
-        "matches": 4090,
-        "playtime": 2440391835,
-        "finished": 1151,
-        "finishtime": 810966306,
-        "won": 1877,
-        "lost": 1835,
-        "forfeited": 977
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
