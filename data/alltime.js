@@ -1765,6 +1765,27 @@
         "lost": 1015,
         "forfeited": 293
     },
+    "635f35ee69ed4f0c94ff26ece4818956": {
+        "nickname": "edcr",
+        "country": "gb",
+        "top": {
+            "6": 1582,
+            "7": 2018
+        },
+        "points": {
+            "6": 0,
+            "7": 25
+        },
+        "pb": 496245,
+        "streak": 11,
+        "matches": 1000,
+        "playtime": 629462900,
+        "finished": 364,
+        "finishtime": 267997871,
+        "won": 515,
+        "lost": 457,
+        "forfeited": 134
+    },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
         "country": "it",
@@ -3740,12 +3761,12 @@
         },
         "pb": 566523,
         "streak": 10,
-        "matches": 1690,
-        "playtime": 1249830794,
+        "matches": 1691,
+        "playtime": 1250614192,
         "finished": 602,
         "finishtime": 510367540,
         "won": 911,
-        "lost": 751,
+        "lost": 752,
         "forfeited": 89
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
