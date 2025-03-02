@@ -84,34 +84,34 @@ body.ranked div#legendtooltip{
   background-color:#303030;
   border-radius:5px;
   color:#ffffff;
-  padding:5px 10px;
   --pos:50%;
   transform:translate(calc(var(--pos) * -1), 25px);
   white-space:nowrap;
   z-index:1000;
-  gap:10px;
   justify-content:center;
   align-items:center;
-  opacity:.9;
+  opacity:.95;
 }
 body.ranked div#legendtooltip > img{
   display:block;
+  margin:1px 4px 0px 2px;
 }
 body.ranked div#legendtooltip > div#data{
-  border:2px solid #6f6f6f;
+  margin:10px 0;
+  border:1px solid #7f7f7f;
   border-radius:5px;
-  padding:1px 6px;
+  padding:3px 8px;
   position:relative;
   font-size:12px;
 }
 body.ranked div#legendtooltip > div#data > img.legend{
   display:block;
   position:absolute;
-  left:0;
-  bottom:0;
-  border-radius:0 5px 0 0;
-  padding:3px 3px 2px 2px;
-  background:#6f6f6f;
+  left:-1px;
+  bottom:-1px;
+  border-radius:0 5px 0 5px;
+  padding:2px;
+  background:#7f7f7f;
 }
 body.ranked div#legendtooltip > div#data > div{
   display:flex;
@@ -230,10 +230,10 @@ body.ranked div#legendtooltip > div#data > div > div.statsdiv.draw{
   color:var(--draw);
 }
 body.ranked div#legendtooltip > div#alltime{
-  margin:0 5px;
-  border:2px solid #6f6f6f;
+  margin:10px 12px;
+  border:1px solid #7f7f7f;
   border-radius:5px;
-  padding:1px 6px;
+  padding:3px 8px;
   background:#4a4a4a;
   position:relative;
   font-size:12px;
@@ -241,11 +241,11 @@ body.ranked div#legendtooltip > div#alltime{
 body.ranked div#legendtooltip > div#alltime > img.legend{
   display:block;
   position:absolute;
-  left:0;
-  bottom:0;
-  border-radius:0 5px 0 0;
-  padding:3px 3px 1px 1px;
-  background:#6f6f6f;
+  left:-1px;
+  bottom:-1px;
+  border-radius:0 5px 0 5px;
+  padding:2px;
+  background:#7f7f7f;
 }
 body.ranked div#legendtooltip > div#alltime > div{
   display:flex;
@@ -358,7 +358,7 @@ body.ranked div#tooltip{
   transform:translate(calc(var(--pos) * -1), calc(var(--width) + 3px));
   white-space:nowrap;
   z-index:1000;
-  opacity:.85;
+  opacity:.9;
 }
 body.ranked div#tooltip:before{
   content:"";

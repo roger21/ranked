@@ -286,7 +286,7 @@ function agoComputeShort(number) {
 
 // url pour l'image de la tête
 function headUrl(uuid) {
-  return "https://vzge.me/head/64/" + uuid + ".webp?y=70";
+  return "https://vzge.me/head/74/" + uuid + ".webp?y=70";
 }
 
 // images des têtes
@@ -714,7 +714,7 @@ function displayLegendTooltip(target, data) {
     let height = legendTooltip.offsetHeight;
     let pageWidth = document.documentElement.clientWidth;
     legendTooltip.style.left = "" + posX + "px";
-    legendTooltip.style.top = "" + (posY - height - 60) + "px";
+    legendTooltip.style.top = "" + (posY - height - 58) + "px";
     // le body, par rapport auquel on positionne la tooltip, est à
     // 32px du bord de la page (30px de margin du body + 2px de border du
     // body), on autorise que la tooltip puisse être à 10px du bord de la
