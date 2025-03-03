@@ -51,13 +51,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4806,
-        "playtime": 3237263117,
+        "matches": 4807,
+        "playtime": 3237802135,
         "finished": 1610,
         "finishtime": 1257732074,
         "won": 2401,
-        "lost": 2248,
-        "forfeited": 516
+        "lost": 2249,
+        "forfeited": 517
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -651,11 +651,11 @@
         },
         "pb": 470188,
         "streak": 11,
-        "matches": 2578,
-        "playtime": 1752449733,
+        "matches": 2579,
+        "playtime": 1752840456,
         "finished": 976,
         "finishtime": 743427352,
-        "won": 1360,
+        "won": 1361,
         "lost": 1158,
         "forfeited": 154
     },
@@ -2334,13 +2334,13 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1327,
-        "playtime": 848580035,
+        "matches": 1328,
+        "playtime": 848885341,
         "finished": 473,
         "finishtime": 364258795,
         "won": 721,
-        "lost": 539,
-        "forfeited": 191
+        "lost": 540,
+        "forfeited": 192
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
         "nickname": "4antoo",
@@ -2638,11 +2638,11 @@
         },
         "pb": 443122,
         "streak": 14,
-        "matches": 3793,
-        "playtime": 2440577096,
+        "matches": 3794,
+        "playtime": 2441116114,
         "finished": 1400,
         "finishtime": 1024669570,
-        "won": 1930,
+        "won": 1931,
         "lost": 1748,
         "forfeited": 520
     },
@@ -3877,13 +3877,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3659,
-        "playtime": 2042208422,
+        "matches": 3660,
+        "playtime": 2042599145,
         "finished": 1285,
         "finishtime": 885540440,
         "won": 1864,
-        "lost": 1699,
-        "forfeited": 1095
+        "lost": 1700,
+        "forfeited": 1096
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
