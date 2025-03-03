@@ -713,13 +713,13 @@
         },
         "pb": 536591,
         "streak": 11,
-        "matches": 4599,
-        "playtime": 3443309862,
+        "matches": 4600,
+        "playtime": 3443378115,
         "finished": 1559,
         "finishtime": 1343870166,
         "won": 2359,
-        "lost": 2120,
-        "forfeited": 228
+        "lost": 2121,
+        "forfeited": 229
     },
     "2ef2bfed3d084649b56290328970ace9": {
         "nickname": "nahhann",
@@ -1995,13 +1995,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1604,
-        "playtime": 1070574541,
+        "matches": 1605,
+        "playtime": 1071184813,
         "finished": 540,
         "finishtime": 441941438,
         "won": 844,
-        "lost": 711,
-        "forfeited": 284
+        "lost": 712,
+        "forfeited": 285
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
