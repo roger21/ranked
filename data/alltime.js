@@ -51,12 +51,12 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4837,
-        "playtime": 3256292430,
+        "matches": 4838,
+        "playtime": 3256902448,
         "finished": 1623,
         "finishtime": 1267179127,
         "won": 2418,
-        "lost": 2262,
+        "lost": 2263,
         "forfeited": 521
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -2111,11 +2111,11 @@
         },
         "pb": 432879,
         "streak": 12,
-        "matches": 4157,
-        "playtime": 2475796024,
-        "finished": 1172,
-        "finishtime": 824114158,
-        "won": 1908,
+        "matches": 4158,
+        "playtime": 2476352438,
+        "finished": 1173,
+        "finishtime": 824670572,
+        "won": 1909,
         "lost": 1864,
         "forfeited": 995
     },
@@ -3068,6 +3068,31 @@
         "lost": 1498,
         "forfeited": 282
     },
+    "addd890764404097b3f12acdde2adf33": {
+        "nickname": "Hypn0tic2030",
+        "country": "us",
+        "top": {
+            "4": 1533,
+            "5": 1697,
+            "6": 1935,
+            "7": 1855
+        },
+        "points": {
+            "4": 0,
+            "5": 35,
+            "6": 65,
+            "7": 25
+        },
+        "pb": 485300,
+        "streak": 11,
+        "matches": 1843,
+        "playtime": 1211549210,
+        "finished": 563,
+        "finishtime": 450223650,
+        "won": 927,
+        "lost": 841,
+        "forfeited": 296
+    },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
         "country": null,
@@ -3300,13 +3325,13 @@
         },
         "pb": 438525,
         "streak": 18,
-        "matches": 3926,
-        "playtime": 2261405675,
+        "matches": 3928,
+        "playtime": 2262318441,
         "finished": 1642,
         "finishtime": 1124157532,
         "won": 2188,
-        "lost": 1590,
-        "forfeited": 962
+        "lost": 1592,
+        "forfeited": 963
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
