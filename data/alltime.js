@@ -347,13 +347,13 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 2980,
-        "playtime": 2208018198,
+        "matches": 2981,
+        "playtime": 2208673784,
         "finished": 838,
         "finishtime": 736914166,
         "won": 1500,
-        "lost": 1324,
-        "forfeited": 349
+        "lost": 1325,
+        "forfeited": 350
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -589,11 +589,11 @@
         },
         "pb": 467855,
         "streak": 11,
-        "matches": 2955,
-        "playtime": 1942956824,
-        "finished": 1123,
-        "finishtime": 822746105,
-        "won": 1573,
+        "matches": 2956,
+        "playtime": 1943596416,
+        "finished": 1124,
+        "finishtime": 823385697,
+        "won": 1574,
         "lost": 1322,
         "forfeited": 141
     },
@@ -988,11 +988,11 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8533,
-        "playtime": 5317225790,
-        "finished": 3472,
-        "finishtime": 2447806469,
-        "won": 4617,
+        "matches": 8534,
+        "playtime": 5317924871,
+        "finished": 3473,
+        "finishtime": 2448505550,
+        "won": 4618,
         "lost": 3743,
         "forfeited": 1192
     },
@@ -2094,31 +2094,6 @@
         "lost": 2211,
         "forfeited": 808
     },
-    "78ea25c3db9a4830ba7e78074bd6fd10": {
-        "nickname": "ELO_THANOS4444",
-        "country": null,
-        "top": {
-            "4": 1475,
-            "5": 1803,
-            "6": 2153,
-            "7": 1870
-        },
-        "points": {
-            "4": 0,
-            "5": 15,
-            "6": 20,
-            "7": 10
-        },
-        "pb": 432879,
-        "streak": 12,
-        "matches": 4156,
-        "playtime": 2475188075,
-        "finished": 1171,
-        "finishtime": 823506209,
-        "won": 1907,
-        "lost": 1864,
-        "forfeited": 995
-    },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
         "country": "hk",
@@ -2512,12 +2487,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5037,
-        "playtime": 3477078912,
+        "matches": 5038,
+        "playtime": 3477589018,
         "finished": 1630,
         "finishtime": 1338061920,
         "won": 2524,
-        "lost": 2370,
+        "lost": 2371,
         "forfeited": 569
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -3068,6 +3043,31 @@
         "lost": 1498,
         "forfeited": 282
     },
+    "addd890764404097b3f12acdde2adf33": {
+        "nickname": "Hypn0tic2030",
+        "country": "us",
+        "top": {
+            "4": 1533,
+            "5": 1697,
+            "6": 1935,
+            "7": 1855
+        },
+        "points": {
+            "4": 0,
+            "5": 35,
+            "6": 65,
+            "7": 25
+        },
+        "pb": 485300,
+        "streak": 11,
+        "matches": 1843,
+        "playtime": 1211549210,
+        "finished": 563,
+        "finishtime": 450223650,
+        "won": 927,
+        "lost": 841,
+        "forfeited": 296
+    },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
         "country": null,
@@ -3238,12 +3238,12 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 5502,
-        "playtime": 3216562024,
+        "matches": 5503,
+        "playtime": 3217261105,
         "finished": 1971,
         "finishtime": 1389667776,
         "won": 2760,
-        "lost": 2553,
+        "lost": 2554,
         "forfeited": 1197
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
@@ -3300,11 +3300,11 @@
         },
         "pb": 438525,
         "streak": 18,
-        "matches": 3923,
-        "playtime": 2259307472,
-        "finished": 1641,
-        "finishtime": 1123647426,
-        "won": 2186,
+        "matches": 3924,
+        "playtime": 2259817578,
+        "finished": 1642,
+        "finishtime": 1124157532,
+        "won": 2187,
         "lost": 1589,
         "forfeited": 962
     },
