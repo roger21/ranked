@@ -51,13 +51,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4842,
-        "playtime": 3259345628,
+        "matches": 4844,
+        "playtime": 3259738388,
         "finished": 1626,
         "finishtime": 1269028208,
-        "won": 2421,
-        "lost": 2264,
-        "forfeited": 521
+        "won": 2422,
+        "lost": 2265,
+        "forfeited": 522
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -988,13 +988,13 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8539,
-        "playtime": 5320456527,
+        "matches": 8540,
+        "playtime": 5320930555,
         "finished": 3475,
         "finishtime": 2449792921,
         "won": 4620,
-        "lost": 3745,
-        "forfeited": 1192
+        "lost": 3746,
+        "forfeited": 1193
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1749,11 +1749,11 @@
         },
         "pb": 496245,
         "streak": 11,
-        "matches": 1033,
-        "playtime": 647178810,
+        "matches": 1034,
+        "playtime": 647652838,
         "finished": 378,
         "finishtime": 276772121,
-        "won": 535,
+        "won": 536,
         "lost": 469,
         "forfeited": 135
     },
@@ -3068,31 +3068,6 @@
         "lost": 1498,
         "forfeited": 282
     },
-    "addd890764404097b3f12acdde2adf33": {
-        "nickname": "Hypn0tic2030",
-        "country": "us",
-        "top": {
-            "4": 1533,
-            "5": 1697,
-            "6": 1935,
-            "7": 1855
-        },
-        "points": {
-            "4": 0,
-            "5": 35,
-            "6": 65,
-            "7": 25
-        },
-        "pb": 485300,
-        "streak": 11,
-        "matches": 1843,
-        "playtime": 1211549210,
-        "finished": 563,
-        "finishtime": 450223650,
-        "won": 927,
-        "lost": 841,
-        "forfeited": 296
-    },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
         "country": null,
@@ -4078,12 +4053,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4789,
-        "playtime": 3235046167,
+        "matches": 4790,
+        "playtime": 3235235861,
         "finished": 1560,
         "finishtime": 1242188660,
         "won": 2394,
-        "lost": 2211,
-        "forfeited": 599
+        "lost": 2212,
+        "forfeited": 600
     }
 }
