@@ -988,11 +988,11 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8541,
-        "playtime": 5321511545,
-        "finished": 3476,
-        "finishtime": 2450373911,
-        "won": 4621,
+        "matches": 8542,
+        "playtime": 5322075040,
+        "finished": 3477,
+        "finishtime": 2450937406,
+        "won": 4622,
         "lost": 3746,
         "forfeited": 1193
     },
@@ -1697,12 +1697,12 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7083,
-        "playtime": 4543687344,
+        "matches": 7084,
+        "playtime": 4544298327,
         "finished": 2486,
         "finishtime": 1925030322,
         "won": 3518,
-        "lost": 3328,
+        "lost": 3329,
         "forfeited": 1216
     },
     "625146b684804a29af2eaeb483a59ddf": {
@@ -1749,12 +1749,12 @@
         },
         "pb": 496245,
         "streak": 11,
-        "matches": 1035,
-        "playtime": 648282699,
+        "matches": 1036,
+        "playtime": 648846194,
         "finished": 379,
         "finishtime": 277401982,
         "won": 537,
-        "lost": 469,
+        "lost": 470,
         "forfeited": 135
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
@@ -3760,8 +3760,8 @@
         "forfeited": 20
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
-        "nickname": "Waluyoshi",
-        "country": "pn",
+        "nickname": "8in9",
+        "country": "um",
         "top": {
             "1": 1697,
             "2": 1652,
