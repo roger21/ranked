@@ -589,12 +589,12 @@
         },
         "pb": 467855,
         "streak": 11,
-        "matches": 2954,
-        "playtime": 1942321519,
+        "matches": 2955,
+        "playtime": 1942956824,
         "finished": 1123,
         "finishtime": 822746105,
         "won": 1573,
-        "lost": 1321,
+        "lost": 1322,
         "forfeited": 141
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -3068,31 +3068,6 @@
         "lost": 1498,
         "forfeited": 282
     },
-    "addd890764404097b3f12acdde2adf33": {
-        "nickname": "Hypn0tic2030",
-        "country": "us",
-        "top": {
-            "4": 1533,
-            "5": 1697,
-            "6": 1935,
-            "7": 1855
-        },
-        "points": {
-            "4": 0,
-            "5": 35,
-            "6": 65,
-            "7": 25
-        },
-        "pb": 485300,
-        "streak": 11,
-        "matches": 1843,
-        "playtime": 1211549210,
-        "finished": 563,
-        "finishtime": 450223650,
-        "won": 927,
-        "lost": 841,
-        "forfeited": 296
-    },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
         "country": null,
@@ -3263,11 +3238,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 5501,
-        "playtime": 3215926719,
-        "finished": 1970,
-        "finishtime": 1389032471,
-        "won": 2759,
+        "matches": 5502,
+        "playtime": 3216562024,
+        "finished": 1971,
+        "finishtime": 1389667776,
+        "won": 2760,
         "lost": 2553,
         "forfeited": 1197
     },
