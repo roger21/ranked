@@ -2419,13 +2419,13 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1573,
-        "playtime": 987138401,
+        "matches": 1574,
+        "playtime": 987360142,
         "finished": 634,
         "finishtime": 441932401,
         "won": 867,
-        "lost": 641,
-        "forfeited": 127
+        "lost": 642,
+        "forfeited": 128
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
         "nickname": "Mar1n",
@@ -2725,11 +2725,11 @@
         },
         "pb": 447308,
         "streak": 9,
-        "matches": 3776,
-        "playtime": 2450670707,
+        "matches": 3777,
+        "playtime": 2450892448,
         "finished": 1347,
         "finishtime": 1024536315,
-        "won": 1917,
+        "won": 1918,
         "lost": 1740,
         "forfeited": 640
     },
