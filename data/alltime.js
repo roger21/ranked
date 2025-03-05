@@ -3325,13 +3325,13 @@
         },
         "pb": 438525,
         "streak": 18,
-        "matches": 3937,
-        "playtime": 2265663991,
+        "matches": 3938,
+        "playtime": 2266109302,
         "finished": 1645,
         "finishtime": 1126166619,
         "won": 2192,
-        "lost": 1596,
-        "forfeited": 967
+        "lost": 1597,
+        "forfeited": 968
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
