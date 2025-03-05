@@ -713,13 +713,13 @@
         },
         "pb": 536591,
         "streak": 11,
-        "matches": 4622,
-        "playtime": 3457625368,
+        "matches": 4623,
+        "playtime": 3458465993,
         "finished": 1564,
         "finishtime": 1347799788,
         "won": 2369,
-        "lost": 2132,
-        "forfeited": 230
+        "lost": 2133,
+        "forfeited": 231
     },
     "2ef2bfed3d084649b56290328970ace9": {
         "nickname": "nahhann",
