@@ -988,13 +988,13 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8577,
-        "playtime": 5340627728,
+        "matches": 8579,
+        "playtime": 5341430851,
         "finished": 3488,
         "finishtime": 2458420635,
         "won": 4635,
-        "lost": 3767,
-        "forfeited": 1203
+        "lost": 3769,
+        "forfeited": 1205
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1964,11 +1964,11 @@
         },
         "pb": 531005,
         "streak": 9,
-        "matches": 1228,
-        "playtime": 872697666,
+        "matches": 1229,
+        "playtime": 873289460,
         "finished": 425,
         "finishtime": 362370269,
-        "won": 663,
+        "won": 664,
         "lost": 517,
         "forfeited": 166
     },
@@ -3563,7 +3563,7 @@
             "4": 1515,
             "5": 1733,
             "6": 1980,
-            "7": 1882
+            "7": 1889
         },
         "points": {
             "2": 0,
@@ -3575,11 +3575,11 @@
         },
         "pb": 496977,
         "streak": 10,
-        "matches": 3038,
-        "playtime": 2209801785,
+        "matches": 3039,
+        "playtime": 2209969314,
         "finished": 921,
         "finishtime": 774236435,
-        "won": 1514,
+        "won": 1515,
         "lost": 1406,
         "forfeited": 219
     },
@@ -3786,11 +3786,11 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 7928,
-        "playtime": 5243912301,
-        "finished": 2752,
-        "finishtime": 2093234267,
-        "won": 3870,
+        "matches": 7929,
+        "playtime": 5244615279,
+        "finished": 2753,
+        "finishtime": 2093937245,
+        "won": 3871,
         "lost": 3615,
         "forfeited": 884
     },
@@ -4082,12 +4082,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4802,
-        "playtime": 3242322160,
+        "matches": 4803,
+        "playtime": 3242913954,
         "finished": 1565,
         "finishtime": 1245863388,
         "won": 2399,
-        "lost": 2219,
-        "forfeited": 603
+        "lost": 2220,
+        "forfeited": 604
     }
 }
