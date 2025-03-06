@@ -1697,11 +1697,11 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7115,
-        "playtime": 4564093330,
-        "finished": 2497,
-        "finishtime": 1933034259,
-        "won": 3533,
+        "matches": 7116,
+        "playtime": 4564719009,
+        "finished": 2498,
+        "finishtime": 1933659938,
+        "won": 3534,
         "lost": 3343,
         "forfeited": 1218
     },
@@ -2101,7 +2101,7 @@
             "4": 1475,
             "5": 1803,
             "6": 2153,
-            "7": 1870
+            "7": 1871
         },
         "points": {
             "4": 0,
@@ -2111,11 +2111,11 @@
         },
         "pb": 432879,
         "streak": 12,
-        "matches": 4166,
-        "playtime": 2479493673,
+        "matches": 4167,
+        "playtime": 2479678387,
         "finished": 1175,
         "finishtime": 825791897,
-        "won": 1913,
+        "won": 1914,
         "lost": 1866,
         "forfeited": 997
     },
@@ -2971,13 +2971,13 @@
         },
         "pb": 461458,
         "streak": 12,
-        "matches": 611,
-        "playtime": 390535110,
+        "matches": 613,
+        "playtime": 391271336,
         "finished": 276,
         "finishtime": 200244475,
         "won": 368,
-        "lost": 229,
-        "forfeited": 76
+        "lost": 231,
+        "forfeited": 77
     },
     "a54e3bc4c6354b07a236b81efbcfe791": {
         "nickname": "Infume",
@@ -3697,12 +3697,12 @@
         },
         "pb": 476873,
         "streak": 13,
-        "matches": 4153,
-        "playtime": 2817602240,
+        "matches": 4154,
+        "playtime": 2818227919,
         "finished": 1208,
         "finishtime": 994997882,
         "won": 2049,
-        "lost": 1903,
+        "lost": 1904,
         "forfeited": 730
     },
     "da1d85337d244f789d60b009e1e2b346": {
