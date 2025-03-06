@@ -1009,11 +1009,11 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8623,
-        "playtime": 5365183255,
-        "finished": 3510,
-        "finishtime": 2471611365,
-        "won": 4662,
+        "matches": 8624,
+        "playtime": 5365764290,
+        "finished": 3511,
+        "finishtime": 2472192400,
+        "won": 4663,
         "lost": 3786,
         "forfeited": 1211
     },
@@ -2816,35 +2816,6 @@
         "lost": 1292,
         "forfeited": 600
     },
-    "9dcb17d831b24df2bae778cfd750ab1b": {
-        "nickname": "loodlow",
-        "country": "ua",
-        "top": {
-            "2": 1597,
-            "3": 1777,
-            "4": 1807,
-            "5": 2003,
-            "6": 1815,
-            "7": 1796
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 65,
-            "6": 20,
-            "7": 0
-        },
-        "pb": 441075,
-        "streak": 15,
-        "matches": 1818,
-        "playtime": 1104755530,
-        "finished": 659,
-        "finishtime": 489174459,
-        "won": 937,
-        "lost": 820,
-        "forfeited": 396
-    },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
         "country": null,
@@ -4072,11 +4043,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4829,
-        "playtime": 3257988503,
+        "matches": 4830,
+        "playtime": 3258498790,
         "finished": 1571,
         "finishtime": 1250506150,
-        "won": 2412,
+        "won": 2413,
         "lost": 2233,
         "forfeited": 609
     }
