@@ -610,11 +610,11 @@
         },
         "pb": 467855,
         "streak": 11,
-        "matches": 3011,
-        "playtime": 1976017927,
+        "matches": 3012,
+        "playtime": 1976340200,
         "finished": 1145,
         "finishtime": 837420835,
-        "won": 1599,
+        "won": 1600,
         "lost": 1347,
         "forfeited": 141
     },
@@ -1627,11 +1627,11 @@
         },
         "pb": 427987,
         "streak": 13,
-        "matches": 1003,
-        "playtime": 634363759,
+        "matches": 1004,
+        "playtime": 634793235,
         "finished": 348,
         "finishtime": 262101664,
-        "won": 535,
+        "won": 536,
         "lost": 426,
         "forfeited": 221
     },
@@ -1756,27 +1756,6 @@
         "won": 1278,
         "lost": 1038,
         "forfeited": 299
-    },
-    "635f35ee69ed4f0c94ff26ece4818956": {
-        "nickname": "edcr",
-        "country": "gb",
-        "top": {
-            "6": 1582,
-            "7": 2018
-        },
-        "points": {
-            "6": 0,
-            "7": 25
-        },
-        "pb": 496245,
-        "streak": 11,
-        "matches": 1081,
-        "playtime": 675302418,
-        "finished": 392,
-        "finishtime": 285511948,
-        "won": 556,
-        "lost": 496,
-        "forfeited": 140
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
