@@ -2427,7 +2427,7 @@
             "4": 0,
             "5": 2077,
             "6": 2187,
-            "7": 1814
+            "7": 1834
         },
         "points": {
             "1": 0,
@@ -2440,11 +2440,11 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1584,
-        "playtime": 992137448,
+        "matches": 1585,
+        "playtime": 992687628,
         "finished": 635,
         "finishtime": 442486519,
-        "won": 873,
+        "won": 874,
         "lost": 646,
         "forfeited": 128
     },
@@ -2684,13 +2684,13 @@
         },
         "pb": 443122,
         "streak": 14,
-        "matches": 3826,
-        "playtime": 2462228093,
+        "matches": 3827,
+        "playtime": 2462778273,
         "finished": 1416,
         "finishtime": 1035791284,
         "won": 1952,
-        "lost": 1759,
-        "forfeited": 521
+        "lost": 1760,
+        "forfeited": 522
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfituah",
@@ -4072,11 +4072,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4835,
-        "playtime": 3260697867,
+        "matches": 4836,
+        "playtime": 3261401195,
         "finished": 1573,
         "finishtime": 1251753756,
-        "won": 2415,
+        "won": 2416,
         "lost": 2236,
         "forfeited": 611
     }
