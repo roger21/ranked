@@ -1009,11 +1009,11 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8638,
-        "playtime": 5374129571,
+        "matches": 8639,
+        "playtime": 5374570593,
         "finished": 3517,
         "finishtime": 2476090705,
-        "won": 4670,
+        "won": 4671,
         "lost": 3793,
         "forfeited": 1213
     },
@@ -1756,27 +1756,6 @@
         "won": 1278,
         "lost": 1038,
         "forfeited": 299
-    },
-    "635f35ee69ed4f0c94ff26ece4818956": {
-        "nickname": "edcr",
-        "country": "gb",
-        "top": {
-            "6": 1582,
-            "7": 2018
-        },
-        "points": {
-            "6": 0,
-            "7": 25
-        },
-        "pb": 496245,
-        "streak": 11,
-        "matches": 1079,
-        "playtime": 673953815,
-        "finished": 391,
-        "finishtime": 284786078,
-        "won": 555,
-        "lost": 495,
-        "forfeited": 140
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -3350,13 +3329,13 @@
         },
         "pb": 438525,
         "streak": 18,
-        "matches": 4008,
-        "playtime": 2303762726,
+        "matches": 4009,
+        "playtime": 2304203748,
         "finished": 1673,
         "finishtime": 1143837820,
         "won": 2227,
-        "lost": 1628,
-        "forfeited": 986
+        "lost": 1629,
+        "forfeited": 987
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
