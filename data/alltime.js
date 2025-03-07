@@ -368,13 +368,13 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3011,
-        "playtime": 2229067432,
+        "matches": 3012,
+        "playtime": 2229299427,
         "finished": 843,
         "finishtime": 740844113,
         "won": 1510,
-        "lost": 1342,
-        "forfeited": 357
+        "lost": 1343,
+        "forfeited": 358
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -2349,12 +2349,12 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 2535,
-        "playtime": 1672314721,
+        "matches": 2536,
+        "playtime": 1672849209,
         "finished": 780,
         "finishtime": 634917742,
         "won": 1315,
-        "lost": 1144,
+        "lost": 1145,
         "forfeited": 579
     },
     "879c8136d42c4222b42f1c090616fa5e": {
