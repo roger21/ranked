@@ -120,7 +120,7 @@ function dateShort(date) {
   return date.toLocaleString(currentLangLocal, {
     dateStyle: "long",
     timeStyle: "medium",
-  });
+  })/*.replace(" 0", " ")*/;
 }
 
 // formatage des secondes pour le temps des matchs
