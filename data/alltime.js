@@ -1009,11 +1009,11 @@
         },
         "pb": 432859,
         "streak": 16,
-        "matches": 8676,
-        "playtime": 5395786890,
-        "finished": 3534,
-        "finishtime": 2487001965,
-        "won": 4689,
+        "matches": 8677,
+        "playtime": 5396331079,
+        "finished": 3535,
+        "finishtime": 2487546154,
+        "won": 4690,
         "lost": 3811,
         "forfeited": 1221
     },
@@ -1410,11 +1410,11 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2138,
-        "playtime": 1305943277,
-        "finished": 699,
-        "finishtime": 544725931,
-        "won": 1066,
+        "matches": 2139,
+        "playtime": 1306597962,
+        "finished": 700,
+        "finishtime": 545380616,
+        "won": 1067,
         "lost": 900,
         "forfeited": 399
     },
@@ -1472,12 +1472,12 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2502,
-        "playtime": 1427228410,
+        "matches": 2503,
+        "playtime": 1427772599,
         "finished": 970,
         "finishtime": 655372513,
         "won": 1302,
-        "lost": 1111,
+        "lost": 1112,
         "forfeited": 693
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
@@ -2094,6 +2094,31 @@
         "lost": 2213,
         "forfeited": 809
     },
+    "78ea25c3db9a4830ba7e78074bd6fd10": {
+        "nickname": "ELO_THANOS4444",
+        "country": null,
+        "top": {
+            "4": 1475,
+            "5": 1803,
+            "6": 2153,
+            "7": 1909
+        },
+        "points": {
+            "4": 0,
+            "5": 15,
+            "6": 20,
+            "7": 10
+        },
+        "pb": 432879,
+        "streak": 12,
+        "matches": 4194,
+        "playtime": 2493647958,
+        "finished": 1182,
+        "finishtime": 829987482,
+        "won": 1924,
+        "lost": 1881,
+        "forfeited": 1004
+    },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
         "country": "hk",
@@ -2487,12 +2512,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5089,
-        "playtime": 3510510258,
+        "matches": 5090,
+        "playtime": 3511093085,
         "finished": 1646,
         "finishtime": 1350573119,
         "won": 2553,
-        "lost": 2390,
+        "lost": 2391,
         "forfeited": 573
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -3575,11 +3600,11 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3062,
-        "playtime": 2224507169,
-        "finished": 928,
-        "finishtime": 779437219,
-        "won": 1526,
+        "matches": 3063,
+        "playtime": 2225089996,
+        "finished": 929,
+        "finishtime": 780020046,
+        "won": 1527,
         "lost": 1417,
         "forfeited": 219
     },
@@ -3674,37 +3699,6 @@
         "lost": 1209,
         "forfeited": 359
     },
-    "d7d0b271136647fea7398a444ab51c13": {
-        "nickname": "JustAltoid",
-        "country": "us",
-        "top": {
-            "1": 1194,
-            "2": 1108,
-            "3": 1402,
-            "4": 1580,
-            "5": 1713,
-            "6": 1701,
-            "7": 1959
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 0,
-            "7": 20
-        },
-        "pb": 476873,
-        "streak": 13,
-        "matches": 4227,
-        "playtime": 2862516919,
-        "finished": 1230,
-        "finishtime": 1009744094,
-        "won": 2083,
-        "lost": 1942,
-        "forfeited": 732
-    },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
         "country": null,
@@ -3786,12 +3780,12 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 7980,
-        "playtime": 5275160593,
+        "matches": 7981,
+        "playtime": 5275815278,
         "finished": 2769,
         "finishtime": 2104970273,
         "won": 3895,
-        "lost": 3640,
+        "lost": 3641,
         "forfeited": 890
     },
     "e43dad544b244da9b690a12fdc8626dc": {
