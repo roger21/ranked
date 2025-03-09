@@ -494,6 +494,33 @@
         "lost": 134,
         "forfeited": 18
     },
+    "1f88c82f9cc84c9885a5d38dd531f4c6": {
+        "nickname": "RRed",
+        "country": "us",
+        "top": {
+            "3": 1693,
+            "4": 1732,
+            "5": 1660,
+            "6": 1662,
+            "7": 1784
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 0,
+            "7": 0
+        },
+        "pb": 487584,
+        "streak": 9,
+        "matches": 1671,
+        "playtime": 1164360935,
+        "finished": 517,
+        "finishtime": 436776783,
+        "won": 849,
+        "lost": 743,
+        "forfeited": 184
+    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -1133,11 +1160,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 5803,
-        "playtime": 3833867963,
+        "matches": 5804,
+        "playtime": 3834446834,
         "finished": 1961,
         "finishtime": 1526442164,
-        "won": 2869,
+        "won": 2870,
         "lost": 2704,
         "forfeited": 977
     },
@@ -1472,11 +1499,11 @@
         },
         "pb": 429154,
         "streak": 13,
-        "matches": 2511,
-        "playtime": 1431641859,
+        "matches": 2512,
+        "playtime": 1431988417,
         "finished": 974,
         "finishtime": 657651938,
-        "won": 1308,
+        "won": 1309,
         "lost": 1113,
         "forfeited": 693
     },
@@ -2845,37 +2872,6 @@
         "lost": 826,
         "forfeited": 397
     },
-    "a0a672a0bc194540bc195220dc170dba": {
-        "nickname": "JackoWacko62",
-        "country": "us",
-        "top": {
-            "1": 1585,
-            "2": 1590,
-            "3": 1607,
-            "4": 1652,
-            "5": 1767,
-            "6": 1802,
-            "7": 1925
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 15,
-            "5": 10,
-            "6": 30,
-            "7": 20
-        },
-        "pb": 462260,
-        "streak": 24,
-        "matches": 5077,
-        "playtime": 3100471702,
-        "finished": 1514,
-        "finishtime": 1194237887,
-        "won": 2518,
-        "lost": 2372,
-        "forfeited": 1405
-    },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
         "country": null,
@@ -3023,11 +3019,11 @@
         },
         "pb": 461458,
         "streak": 12,
-        "matches": 670,
-        "playtime": 420428319,
-        "finished": 298,
-        "finishtime": 213896618,
-        "won": 395,
+        "matches": 671,
+        "playtime": 421000543,
+        "finished": 299,
+        "finishtime": 214468842,
+        "won": 396,
         "lost": 259,
         "forfeited": 88
     },
@@ -3294,11 +3290,11 @@
         },
         "pb": 542711,
         "streak": 10,
-        "matches": 2139,
-        "playtime": 1642966138,
-        "finished": 707,
-        "finishtime": 649310880,
-        "won": 1124,
+        "matches": 2140,
+        "playtime": 1643667991,
+        "finished": 708,
+        "finishtime": 650012733,
+        "won": 1125,
         "lost": 963,
         "forfeited": 219
     },
@@ -3807,13 +3803,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8006,
-        "playtime": 5291249489,
+        "matches": 8007,
+        "playtime": 5291828360,
         "finished": 2780,
         "finishtime": 2112172942,
         "won": 3910,
-        "lost": 3650,
-        "forfeited": 891
+        "lost": 3651,
+        "forfeited": 892
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
@@ -3869,13 +3865,13 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 4599,
-        "playtime": 2919201659,
+        "matches": 4600,
+        "playtime": 2919548217,
         "finished": 1939,
         "finishtime": 1376962042,
         "won": 2513,
-        "lost": 2017,
-        "forfeited": 625
+        "lost": 2018,
+        "forfeited": 626
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
