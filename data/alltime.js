@@ -1627,13 +1627,13 @@
         },
         "pb": 427987,
         "streak": 13,
-        "matches": 1026,
-        "playtime": 648844414,
+        "matches": 1027,
+        "playtime": 649333796,
         "finished": 359,
         "finishtime": 269833891,
         "won": 547,
-        "lost": 436,
-        "forfeited": 224
+        "lost": 437,
+        "forfeited": 225
     },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
