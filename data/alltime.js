@@ -494,6 +494,33 @@
         "lost": 134,
         "forfeited": 18
     },
+    "1f88c82f9cc84c9885a5d38dd531f4c6": {
+        "nickname": "RRed",
+        "country": "us",
+        "top": {
+            "3": 1693,
+            "4": 1732,
+            "5": 1660,
+            "6": 1662,
+            "7": 1784
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 0,
+            "7": 0
+        },
+        "pb": 487584,
+        "streak": 9,
+        "matches": 1671,
+        "playtime": 1164360935,
+        "finished": 517,
+        "finishtime": 436776783,
+        "won": 849,
+        "lost": 743,
+        "forfeited": 184
+    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -947,12 +974,12 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 10634,
-        "playtime": 7023453040,
+        "matches": 10635,
+        "playtime": 7024161900,
         "finished": 4367,
         "finishtime": 3169353968,
         "won": 5912,
-        "lost": 4517,
+        "lost": 4518,
         "forfeited": 656
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1603,37 +1630,6 @@
         "won": 452,
         "lost": 334,
         "forfeited": 68
-    },
-    "5a32f1e5609847c691c07730f973397c": {
-        "nickname": "DARVY__X1",
-        "country": "vg",
-        "top": {
-            "1": 1468,
-            "2": 1556,
-            "3": 1574,
-            "4": 1578,
-            "5": 1717,
-            "6": 1783,
-            "7": 1977
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 25,
-            "6": 25,
-            "7": 20
-        },
-        "pb": 427987,
-        "streak": 13,
-        "matches": 1038,
-        "playtime": 655330486,
-        "finished": 363,
-        "finishtime": 272479915,
-        "won": 551,
-        "lost": 444,
-        "forfeited": 227
     },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
@@ -3571,11 +3567,11 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3109,
-        "playtime": 2253934933,
-        "finished": 945,
-        "finishtime": 790877756,
-        "won": 1547,
+        "matches": 3110,
+        "playtime": 2254984681,
+        "finished": 946,
+        "finishtime": 791927504,
+        "won": 1548,
         "lost": 1441,
         "forfeited": 219
     },
@@ -3631,11 +3627,11 @@
         },
         "pb": 506496,
         "streak": 12,
-        "matches": 1658,
-        "playtime": 1046768122,
-        "finished": 537,
-        "finishtime": 417654964,
-        "won": 838,
+        "matches": 1659,
+        "playtime": 1047416311,
+        "finished": 538,
+        "finishtime": 418303153,
+        "won": 839,
         "lost": 765,
         "forfeited": 352
     },
