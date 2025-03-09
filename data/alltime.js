@@ -1770,12 +1770,12 @@
         },
         "pb": 496245,
         "streak": 11,
-        "matches": 1137,
-        "playtime": 708864459,
+        "matches": 1138,
+        "playtime": 709532520,
         "finished": 418,
         "finishtime": 303693430,
         "won": 587,
-        "lost": 520,
+        "lost": 521,
         "forfeited": 148
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
@@ -3023,11 +3023,11 @@
         },
         "pb": 461458,
         "streak": 12,
-        "matches": 663,
-        "playtime": 416377824,
-        "finished": 294,
-        "finishtime": 211346742,
-        "won": 391,
+        "matches": 664,
+        "playtime": 416960043,
+        "finished": 295,
+        "finishtime": 211928961,
+        "won": 392,
         "lost": 257,
         "forfeited": 88
     },
@@ -3294,12 +3294,12 @@
         },
         "pb": 542711,
         "streak": 10,
-        "matches": 2132,
-        "playtime": 1637990461,
+        "matches": 2133,
+        "playtime": 1638964931,
         "finished": 703,
         "finishtime": 646103026,
         "won": 1120,
-        "lost": 960,
+        "lost": 961,
         "forfeited": 218
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
@@ -3958,13 +3958,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3770,
-        "playtime": 2099464492,
+        "matches": 3772,
+        "playtime": 2099753599,
         "finished": 1322,
         "finishtime": 910136037,
-        "won": 1916,
-        "lost": 1755,
-        "forfeited": 1129
+        "won": 1917,
+        "lost": 1756,
+        "forfeited": 1130
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
@@ -4103,12 +4103,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4871,
-        "playtime": 3282834500,
+        "matches": 4873,
+        "playtime": 3283461318,
         "finished": 1584,
         "finishtime": 1259999919,
         "won": 2434,
-        "lost": 2252,
-        "forfeited": 619
+        "lost": 2254,
+        "forfeited": 620
     }
 }
