@@ -494,33 +494,6 @@
         "lost": 134,
         "forfeited": 18
     },
-    "1f88c82f9cc84c9885a5d38dd531f4c6": {
-        "nickname": "RRed",
-        "country": "us",
-        "top": {
-            "3": 1693,
-            "4": 1732,
-            "5": 1660,
-            "6": 1662,
-            "7": 1784
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 0,
-            "7": 0
-        },
-        "pb": 487584,
-        "streak": 9,
-        "matches": 1671,
-        "playtime": 1164360935,
-        "finished": 517,
-        "finishtime": 436776783,
-        "won": 849,
-        "lost": 743,
-        "forfeited": 184
-    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -790,11 +763,11 @@
         },
         "pb": 439961,
         "streak": 11,
-        "matches": 3059,
-        "playtime": 1823167133,
+        "matches": 3060,
+        "playtime": 1823329606,
         "finished": 1135,
         "finishtime": 780277701,
-        "won": 1527,
+        "won": 1528,
         "lost": 1362,
         "forfeited": 568
     },
@@ -828,6 +801,35 @@
         "won": 402,
         "lost": 272,
         "forfeited": 30
+    },
+    "2fe70934e7be458dba747c4ac830391c": {
+        "nickname": "nhb_",
+        "country": "us",
+        "top": {
+            "2": 793,
+            "3": 1302,
+            "4": 1419,
+            "5": 1698,
+            "6": 1985,
+            "7": 1829
+        },
+        "points": {
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 25,
+            "7": 0
+        },
+        "pb": 438416,
+        "streak": 9,
+        "matches": 3544,
+        "playtime": 2228741421,
+        "finished": 983,
+        "finishtime": 783309381,
+        "won": 1671,
+        "lost": 1587,
+        "forfeited": 786
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -3865,13 +3867,13 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 4600,
-        "playtime": 2919548217,
+        "matches": 4602,
+        "playtime": 2920491212,
         "finished": 1939,
         "finishtime": 1376962042,
         "won": 2513,
-        "lost": 2018,
-        "forfeited": 626
+        "lost": 2020,
+        "forfeited": 627
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
@@ -3954,12 +3956,12 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3773,
-        "playtime": 2099975089,
+        "matches": 3774,
+        "playtime": 2100608899,
         "finished": 1322,
         "finishtime": 910136037,
         "won": 1917,
-        "lost": 1757,
+        "lost": 1758,
         "forfeited": 1131
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
