@@ -494,6 +494,33 @@
         "lost": 134,
         "forfeited": 18
     },
+    "1f88c82f9cc84c9885a5d38dd531f4c6": {
+        "nickname": "RRed",
+        "country": "us",
+        "top": {
+            "3": 1693,
+            "4": 1732,
+            "5": 1660,
+            "6": 1662,
+            "7": 1784
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 0,
+            "7": 0
+        },
+        "pb": 487584,
+        "streak": 9,
+        "matches": 1671,
+        "playtime": 1164360935,
+        "finished": 517,
+        "finishtime": 436776783,
+        "won": 849,
+        "lost": 743,
+        "forfeited": 184
+    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -1162,12 +1189,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 5823,
-        "playtime": 3844875027,
+        "matches": 5824,
+        "playtime": 3845640077,
         "finished": 1969,
         "finishtime": 1531472613,
         "won": 2881,
-        "lost": 2712,
+        "lost": 2713,
         "forfeited": 979
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -2475,13 +2502,13 @@
         },
         "pb": 459908,
         "streak": 13,
-        "matches": 7884,
-        "playtime": 5143378231,
+        "matches": 7885,
+        "playtime": 5144044867,
         "finished": 2569,
         "finishtime": 2121675333,
         "won": 4005,
-        "lost": 3710,
-        "forfeited": 1910
+        "lost": 3711,
+        "forfeited": 1911
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
