@@ -802,35 +802,6 @@
         "lost": 272,
         "forfeited": 30
     },
-    "2fe70934e7be458dba747c4ac830391c": {
-        "nickname": "nhb_",
-        "country": "us",
-        "top": {
-            "2": 793,
-            "3": 1302,
-            "4": 1419,
-            "5": 1698,
-            "6": 1985,
-            "7": 1829
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 25,
-            "7": 0
-        },
-        "pb": 438416,
-        "streak": 9,
-        "matches": 3544,
-        "playtime": 2228741421,
-        "finished": 983,
-        "finishtime": 783309381,
-        "won": 1671,
-        "lost": 1587,
-        "forfeited": 786
-    },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
         "country": null,
@@ -1747,11 +1718,11 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7132,
-        "playtime": 4574569381,
-        "finished": 2501,
-        "finishtime": 1935614954,
-        "won": 3540,
+        "matches": 7133,
+        "playtime": 4575498698,
+        "finished": 2502,
+        "finishtime": 1936544271,
+        "won": 3541,
         "lost": 3352,
         "forfeited": 1221
     },
