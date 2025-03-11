@@ -51,13 +51,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4868,
-        "playtime": 3273230528,
+        "matches": 4869,
+        "playtime": 3273918058,
         "finished": 1631,
         "finishtime": 1272524886,
         "won": 2430,
-        "lost": 2281,
-        "forfeited": 529
+        "lost": 2282,
+        "forfeited": 530
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
