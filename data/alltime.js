@@ -672,11 +672,11 @@
         },
         "pb": 470188,
         "streak": 11,
-        "matches": 2599,
-        "playtime": 1766955119,
+        "matches": 2600,
+        "playtime": 1767306906,
         "finished": 985,
         "finishtime": 750205311,
-        "won": 1372,
+        "won": 1373,
         "lost": 1167,
         "forfeited": 154
     },
@@ -3294,13 +3294,13 @@
         },
         "pb": 460168,
         "streak": 12,
-        "matches": 704,
-        "playtime": 493260961,
+        "matches": 705,
+        "playtime": 493612748,
         "finished": 258,
         "finishtime": 213900427,
         "won": 400,
-        "lost": 277,
-        "forfeited": 61
+        "lost": 278,
+        "forfeited": 62
     },
     "bc80af38933f4ae19b0494681a54422b": {
         "nickname": "Ancoboyy",
