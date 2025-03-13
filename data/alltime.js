@@ -368,12 +368,12 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3128,
-        "playtime": 2302155966,
+        "matches": 3129,
+        "playtime": 2302927786,
         "finished": 887,
         "finishtime": 771394417,
         "won": 1569,
-        "lost": 1394,
+        "lost": 1395,
         "forfeited": 379
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
@@ -1863,13 +1863,13 @@
         },
         "pb": 414674,
         "streak": 22,
-        "matches": 5578,
-        "playtime": 3267594429,
+        "matches": 5579,
+        "playtime": 3267705526,
         "finished": 2634,
         "finishtime": 1823266541,
         "won": 3503,
-        "lost": 2022,
-        "forfeited": 974
+        "lost": 2023,
+        "forfeited": 975
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -3176,11 +3176,11 @@
         },
         "pb": 463742,
         "streak": 11,
-        "matches": 3846,
-        "playtime": 2591742281,
+        "matches": 3847,
+        "playtime": 2591853378,
         "finished": 1381,
         "finishtime": 1013645373,
-        "won": 1959,
+        "won": 1960,
         "lost": 1743,
         "forfeited": 75
     },
