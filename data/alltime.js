@@ -22,12 +22,12 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3251,
-        "playtime": 2114141252,
+        "matches": 3252,
+        "playtime": 2115001223,
         "finished": 1191,
         "finishtime": 890758945,
         "won": 1641,
-        "lost": 1531,
+        "lost": 1532,
         "forfeited": 388
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -1133,11 +1133,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 5878,
-        "playtime": 3877287073,
-        "finished": 1991,
-        "finishtime": 1546153654,
-        "won": 2910,
+        "matches": 5879,
+        "playtime": 3877909813,
+        "finished": 1992,
+        "finishtime": 1546776394,
+        "won": 2911,
         "lost": 2737,
         "forfeited": 986
     },
@@ -2721,13 +2721,13 @@
         },
         "pb": 447308,
         "streak": 9,
-        "matches": 3881,
-        "playtime": 2513997483,
+        "matches": 3882,
+        "playtime": 2514500974,
         "finished": 1389,
         "finishtime": 1052823473,
         "won": 1966,
-        "lost": 1789,
-        "forfeited": 650
+        "lost": 1790,
+        "forfeited": 651
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -3269,13 +3269,13 @@
         },
         "pb": 542711,
         "streak": 11,
-        "matches": 2150,
-        "playtime": 1650147603,
+        "matches": 2151,
+        "playtime": 1650518350,
         "finished": 714,
         "finishtime": 654812020,
         "won": 1135,
-        "lost": 963,
-        "forfeited": 219
+        "lost": 964,
+        "forfeited": 220
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
         "nickname": "romuxii",
