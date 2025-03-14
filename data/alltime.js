@@ -2882,37 +2882,6 @@
         "lost": 217,
         "forfeited": 123
     },
-    "a3165d3bf73a4eb6a69c110f2fdd58a9": {
-        "nickname": "Frankey32",
-        "country": "ru",
-        "top": {
-            "1": 1332,
-            "2": 1401,
-            "3": 1591,
-            "4": 1713,
-            "5": 1647,
-            "6": 1764,
-            "7": 1761
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 10,
-            "6": 35,
-            "7": 10
-        },
-        "pb": 517793,
-        "streak": 18,
-        "matches": 2354,
-        "playtime": 1719786059,
-        "finished": 705,
-        "finishtime": 643621909,
-        "won": 1227,
-        "lost": 1081,
-        "forfeited": 425
-    },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
         "country": "pl",
@@ -3933,13 +3902,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3903,
-        "playtime": 2168772244,
+        "matches": 3904,
+        "playtime": 2169395372,
         "finished": 1372,
         "finishtime": 942809483,
         "won": 1986,
-        "lost": 1818,
-        "forfeited": 1176
+        "lost": 1819,
+        "forfeited": 1177
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
