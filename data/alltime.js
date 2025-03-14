@@ -1133,13 +1133,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 5941,
-        "playtime": 3910644851,
+        "matches": 5943,
+        "playtime": 3911132060,
         "finished": 2011,
         "finishtime": 1559100961,
         "won": 2937,
-        "lost": 2772,
-        "forfeited": 1001
+        "lost": 2774,
+        "forfeited": 1003
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -1335,7 +1335,7 @@
             "4": 2136,
             "5": 2118,
             "6": 2147,
-            "7": 1609
+            "7": 1625
         },
         "points": {
             "1": 0,
@@ -1348,13 +1348,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4454,
-        "playtime": 2667737851,
+        "matches": 4456,
+        "playtime": 2668155072,
         "finished": 1487,
         "finishtime": 1104727093,
-        "won": 2289,
-        "lost": 2005,
-        "forfeited": 1189
+        "won": 2290,
+        "lost": 2006,
+        "forfeited": 1190
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -2690,13 +2690,13 @@
         },
         "pb": 470508,
         "streak": 11,
-        "matches": 3217,
-        "playtime": 2172001990,
+        "matches": 3218,
+        "playtime": 2172605206,
         "finished": 1030,
         "finishtime": 815576892,
         "won": 1630,
-        "lost": 1502,
-        "forfeited": 492
+        "lost": 1503,
+        "forfeited": 493
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -2837,11 +2837,11 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 1921,
-        "playtime": 1166318371,
+        "matches": 1922,
+        "playtime": 1166595819,
         "finished": 701,
         "finishtime": 517927487,
-        "won": 990,
+        "won": 991,
         "lost": 868,
         "forfeited": 407
     },
