@@ -641,13 +641,13 @@
         },
         "pb": 533603,
         "streak": 11,
-        "matches": 623,
-        "playtime": 442525409,
+        "matches": 624,
+        "playtime": 442765296,
         "finished": 274,
         "finishtime": 219832886,
         "won": 374,
-        "lost": 233,
-        "forfeited": 36
+        "lost": 234,
+        "forfeited": 37
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
         "nickname": "SuperC_",
@@ -2837,13 +2837,13 @@
         },
         "pb": 424299,
         "streak": 24,
-        "matches": 5225,
-        "playtime": 3180056833,
+        "matches": 5226,
+        "playtime": 3180518580,
         "finished": 1566,
         "finishtime": 1229777180,
         "won": 2591,
-        "lost": 2446,
-        "forfeited": 1443
+        "lost": 2447,
+        "forfeited": 1444
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -3927,11 +3927,11 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3915,
-        "playtime": 2176138226,
-        "finished": 1375,
-        "finishtime": 944912108,
-        "won": 1989,
+        "matches": 3916,
+        "playtime": 2176876749,
+        "finished": 1376,
+        "finishtime": 945650631,
+        "won": 1990,
         "lost": 1827,
         "forfeited": 1182
     },
