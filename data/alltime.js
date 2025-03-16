@@ -1418,13 +1418,13 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2241,
-        "playtime": 1359625569,
+        "matches": 2242,
+        "playtime": 1360286701,
         "finished": 728,
         "finishtime": 565522867,
         "won": 1109,
-        "lost": 943,
-        "forfeited": 419
+        "lost": 944,
+        "forfeited": 420
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
@@ -1682,7 +1682,7 @@
             "4": 2014,
             "5": 2011,
             "6": 2207,
-            "7": 2003
+            "7": 2008
         },
         "points": {
             "1": 0,
@@ -1695,11 +1695,11 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 4492,
-        "playtime": 2905186005,
-        "finished": 1688,
-        "finishtime": 1248165875,
-        "won": 2327,
+        "matches": 4493,
+        "playtime": 2905765652,
+        "finished": 1689,
+        "finishtime": 1248745522,
+        "won": 2328,
         "lost": 2067,
         "forfeited": 630
     },
@@ -1902,11 +1902,11 @@
         },
         "pb": 505875,
         "streak": 13,
-        "matches": 3246,
-        "playtime": 2186437737,
-        "finished": 978,
-        "finishtime": 824759032,
-        "won": 1650,
+        "matches": 3247,
+        "playtime": 2187162590,
+        "finished": 979,
+        "finishtime": 825483885,
+        "won": 1651,
         "lost": 1465,
         "forfeited": 568
     },
@@ -1933,11 +1933,11 @@
         },
         "pb": 486560,
         "streak": 12,
-        "matches": 1630,
-        "playtime": 1119149616,
-        "finished": 608,
-        "finishtime": 467271271,
-        "won": 870,
+        "matches": 1631,
+        "playtime": 1119950108,
+        "finished": 609,
+        "finishtime": 468071763,
+        "won": 871,
         "lost": 682,
         "forfeited": 25
     },
@@ -2115,12 +2115,12 @@
         },
         "pb": 441118,
         "streak": 11,
-        "matches": 4986,
-        "playtime": 3124450342,
+        "matches": 4987,
+        "playtime": 3125029989,
         "finished": 1747,
         "finishtime": 1291004248,
         "won": 2523,
-        "lost": 2234,
+        "lost": 2235,
         "forfeited": 812
     },
     "7c92678742eb4e819f3122017697ae3d": {
@@ -2736,6 +2736,31 @@
         "won": 1988,
         "lost": 1820,
         "forfeited": 664
+    },
+    "9a61b87c6a16403da56541258e74ed3e": {
+        "nickname": "Blad_d",
+        "country": "de",
+        "top": {
+            "4": 935,
+            "5": 1617,
+            "6": 1877,
+            "7": 1804
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 45,
+            "7": 25
+        },
+        "pb": 479830,
+        "streak": 13,
+        "matches": 3077,
+        "playtime": 1916589673,
+        "finished": 921,
+        "finishtime": 698648979,
+        "won": 1508,
+        "lost": 1416,
+        "forfeited": 659
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
