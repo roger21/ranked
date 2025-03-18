@@ -3670,12 +3670,12 @@
         },
         "pb": 506496,
         "streak": 12,
-        "matches": 1666,
-        "playtime": 1051863494,
+        "matches": 1667,
+        "playtime": 1052896459,
         "finished": 542,
         "finishtime": 421194323,
         "won": 843,
-        "lost": 768,
+        "lost": 769,
         "forfeited": 353
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
@@ -3941,13 +3941,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 3972,
-        "playtime": 2204610818,
+        "matches": 3973,
+        "playtime": 2204950489,
         "finished": 1400,
         "finishtime": 961050983,
         "won": 2020,
-        "lost": 1852,
-        "forfeited": 1201
+        "lost": 1853,
+        "forfeited": 1202
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
