@@ -2190,11 +2190,11 @@
         },
         "pb": 432879,
         "streak": 12,
-        "matches": 4389,
-        "playtime": 2614025027,
+        "matches": 4390,
+        "playtime": 2614325155,
         "finished": 1256,
         "finishtime": 872355497,
-        "won": 2015,
+        "won": 2016,
         "lost": 1970,
         "forfeited": 1054
     },
@@ -2804,13 +2804,13 @@
         },
         "pb": 447308,
         "streak": 9,
-        "matches": 4024,
-        "playtime": 2596202301,
+        "matches": 4025,
+        "playtime": 2596642577,
         "finished": 1436,
         "finishtime": 1084499930,
         "won": 2029,
-        "lost": 1859,
-        "forfeited": 681
+        "lost": 1860,
+        "forfeited": 682
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -3050,13 +3050,13 @@
         },
         "pb": 461458,
         "streak": 12,
-        "matches": 759,
-        "playtime": 466429530,
+        "matches": 760,
+        "playtime": 466729658,
         "finished": 328,
         "finishtime": 232470203,
         "won": 438,
-        "lost": 303,
-        "forfeited": 112
+        "lost": 304,
+        "forfeited": 113
     },
     "a54e3bc4c6354b07a236b81efbcfe791": {
         "nickname": "Infume",
