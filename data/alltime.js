@@ -347,11 +347,11 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3158,
-        "playtime": 2321733765,
-        "finished": 902,
-        "finishtime": 781802743,
-        "won": 1587,
+        "matches": 3159,
+        "playtime": 2322332665,
+        "finished": 903,
+        "finishtime": 782401643,
+        "won": 1588,
         "lost": 1405,
         "forfeited": 379
     },
@@ -527,11 +527,11 @@
         },
         "pb": 467636,
         "streak": 12,
-        "matches": 1219,
-        "playtime": 805933640,
-        "finished": 558,
-        "finishtime": 386608474,
-        "won": 696,
+        "matches": 1220,
+        "playtime": 806478224,
+        "finished": 559,
+        "finishtime": 387153058,
+        "won": 697,
         "lost": 489,
         "forfeited": 38
     },
@@ -955,12 +955,12 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 10879,
-        "playtime": 7165944798,
+        "matches": 10880,
+        "playtime": 7166489382,
         "finished": 4472,
         "finishtime": 3234805089,
         "won": 6049,
-        "lost": 4621,
+        "lost": 4622,
         "forfeited": 664
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1017,11 +1017,11 @@
         },
         "pb": 429341,
         "streak": 16,
-        "matches": 9000,
-        "playtime": 5572328892,
-        "finished": 3690,
-        "finishtime": 2578332739,
-        "won": 4870,
+        "matches": 9001,
+        "playtime": 5572917273,
+        "finished": 3691,
+        "finishtime": 2578921120,
+        "won": 4871,
         "lost": 3946,
         "forfeited": 1266
     },
@@ -1902,12 +1902,12 @@
         },
         "pb": 412544,
         "streak": 22,
-        "matches": 5728,
-        "playtime": 3341887891,
+        "matches": 5729,
+        "playtime": 3342476272,
         "finished": 2697,
         "finishtime": 1860660870,
         "won": 3583,
-        "lost": 2092,
+        "lost": 2093,
         "forfeited": 1009
     },
     "734a1c6118754829acc234135470152c": {
@@ -2454,12 +2454,12 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2341,
-        "playtime": 1596680885,
+        "matches": 2342,
+        "playtime": 1597279785,
         "finished": 773,
         "finishtime": 592405963,
         "won": 1142,
-        "lost": 1006,
+        "lost": 1007,
         "forfeited": 71
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -2799,6 +2799,31 @@
         "lost": 1869,
         "forfeited": 685
     },
+    "9a61b87c6a16403da56541258e74ed3e": {
+        "nickname": "Blad_d",
+        "country": "de",
+        "top": {
+            "4": 935,
+            "5": 1617,
+            "6": 1877,
+            "7": 1804
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 45,
+            "7": 25
+        },
+        "pb": 479830,
+        "streak": 13,
+        "matches": 3077,
+        "playtime": 1916589673,
+        "finished": 921,
+        "finishtime": 698648979,
+        "won": 1508,
+        "lost": 1416,
+        "forfeited": 659
+    },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
         "country": "us",
@@ -2860,35 +2885,6 @@
         "won": 1492,
         "lost": 1294,
         "forfeited": 601
-    },
-    "9dcb17d831b24df2bae778cfd750ab1b": {
-        "nickname": "loodlow",
-        "country": "ua",
-        "top": {
-            "2": 1597,
-            "3": 1777,
-            "4": 1807,
-            "5": 2003,
-            "6": 1815,
-            "7": 2026
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 65,
-            "6": 20,
-            "7": 0
-        },
-        "pb": 441075,
-        "streak": 15,
-        "matches": 1995,
-        "playtime": 1207918359,
-        "finished": 724,
-        "finishtime": 532807455,
-        "won": 1025,
-        "lost": 907,
-        "forfeited": 421
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
