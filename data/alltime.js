@@ -171,11 +171,11 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 1599,
-        "playtime": 967160611,
+        "matches": 1600,
+        "playtime": 967569500,
         "finished": 582,
         "finishtime": 432739707,
-        "won": 833,
+        "won": 834,
         "lost": 705,
         "forfeited": 338
     },
@@ -2427,13 +2427,13 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1344,
-        "playtime": 859437489,
+        "matches": 1345,
+        "playtime": 859846378,
         "finished": 482,
         "finishtime": 370571215,
         "won": 733,
-        "lost": 544,
-        "forfeited": 192
+        "lost": 545,
+        "forfeited": 193
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
         "nickname": "4antoo",
@@ -2580,12 +2580,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5284,
-        "playtime": 3636915065,
+        "matches": 5285,
+        "playtime": 3637573658,
         "finished": 1714,
         "finishtime": 1400294106,
         "won": 2648,
-        "lost": 2485,
+        "lost": 2486,
         "forfeited": 584
     },
     "8e662c4655534e00802d563043cd8739": {
