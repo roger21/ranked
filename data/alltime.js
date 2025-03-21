@@ -2801,31 +2801,6 @@
         "lost": 1880,
         "forfeited": 689
     },
-    "9a61b87c6a16403da56541258e74ed3e": {
-        "nickname": "Blad_d",
-        "country": "de",
-        "top": {
-            "4": 935,
-            "5": 1617,
-            "6": 1877,
-            "7": 1804
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 45,
-            "7": 35
-        },
-        "pb": 479830,
-        "streak": 13,
-        "matches": 3077,
-        "playtime": 1916589673,
-        "finished": 921,
-        "finishtime": 698648979,
-        "won": 1508,
-        "lost": 1416,
-        "forfeited": 659
-    },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
         "country": "us",
@@ -4123,12 +4098,12 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 1917,
-        "playtime": 1299629052,
+        "matches": 1918,
+        "playtime": 1300418071,
         "finished": 708,
         "finishtime": 577557330,
         "won": 1060,
-        "lost": 829,
+        "lost": 830,
         "forfeited": 315
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
