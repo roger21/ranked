@@ -1879,6 +1879,37 @@
         "lost": 366,
         "forfeited": 127
     },
+    "70e94474db714b489b03af782a4140e9": {
+        "nickname": "KaaziTheCreeper",
+        "country": "au",
+        "top": {
+            "1": 1213,
+            "2": 1337,
+            "3": 1755,
+            "4": 1445,
+            "5": 1700,
+            "6": 1715,
+            "7": 1808
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 25,
+            "6": 0,
+            "7": 30
+        },
+        "pb": 485632,
+        "streak": 8,
+        "matches": 1525,
+        "playtime": 1150863403,
+        "finished": 469,
+        "finishtime": 412767634,
+        "won": 795,
+        "lost": 659,
+        "forfeited": 57
+    },
     "70eb9286e3e24153a8b37c8f884f1292": {
         "nickname": "7rowl",
         "country": "ua",
