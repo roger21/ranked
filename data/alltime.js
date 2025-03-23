@@ -955,12 +955,12 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 10949,
-        "playtime": 7208490244,
+        "matches": 10950,
+        "playtime": 7209001221,
         "finished": 4506,
         "finishtime": 3256037224,
         "won": 6087,
-        "lost": 4652,
+        "lost": 4653,
         "forfeited": 664
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1920,7 +1920,7 @@
             "4": 2322,
             "5": 2270,
             "6": 2363,
-            "7": 2110
+            "7": 2119
         },
         "points": {
             "1": 0,
@@ -1933,11 +1933,11 @@
         },
         "pb": 412544,
         "streak": 22,
-        "matches": 5766,
-        "playtime": 3363530139,
-        "finished": 2720,
-        "finishtime": 1874568482,
-        "won": 3608,
+        "matches": 5767,
+        "playtime": 3364054074,
+        "finished": 2721,
+        "finishtime": 1875092417,
+        "won": 3609,
         "lost": 2105,
         "forfeited": 1013
     },
@@ -2195,7 +2195,7 @@
             "4": 2276,
             "5": 2273,
             "6": 2470,
-            "7": 1870
+            "7": 1894
         },
         "points": {
             "1": 0,
@@ -2208,11 +2208,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 2825,
-        "playtime": 1743152185,
-        "finished": 1269,
-        "finishtime": 857028791,
-        "won": 1718,
+        "matches": 2826,
+        "playtime": 1743663162,
+        "finished": 1270,
+        "finishtime": 857539768,
+        "won": 1719,
         "lost": 1039,
         "forfeited": 269
     },
@@ -3945,12 +3945,12 @@
         },
         "pb": 451504,
         "streak": 11,
-        "matches": 2775,
-        "playtime": 1942830064,
+        "matches": 2776,
+        "playtime": 1943353999,
         "finished": 931,
         "finishtime": 737634019,
         "won": 1388,
-        "lost": 1254,
+        "lost": 1255,
         "forfeited": 155
     },
     "f1611fd339b1401f84154afee3a5f14a": {
