@@ -2086,13 +2086,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1683,
-        "playtime": 1117217750,
+        "matches": 1684,
+        "playtime": 1117521507,
         "finished": 564,
         "finishtime": 460638967,
         "won": 884,
-        "lost": 749,
-        "forfeited": 305
+        "lost": 750,
+        "forfeited": 306
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -2195,7 +2195,7 @@
             "4": 2276,
             "5": 2273,
             "6": 2470,
-            "7": 2012
+            "7": 2020
         },
         "points": {
             "1": 0,
@@ -2208,11 +2208,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 2839,
-        "playtime": 1749776677,
+        "matches": 2840,
+        "playtime": 1750293835,
         "finished": 1276,
         "finishtime": 860584606,
-        "won": 1728,
+        "won": 1729,
         "lost": 1043,
         "forfeited": 269
     },
@@ -2454,12 +2454,12 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2393,
-        "playtime": 1630364975,
+        "matches": 2394,
+        "playtime": 1631023443,
         "finished": 795,
         "finishtime": 607259362,
         "won": 1170,
-        "lost": 1029,
+        "lost": 1030,
         "forfeited": 71
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -2791,11 +2791,11 @@
         },
         "pb": 447308,
         "streak": 9,
-        "matches": 4094,
-        "playtime": 2633167826,
-        "finished": 1467,
-        "finishtime": 1103291696,
-        "won": 2069,
+        "matches": 4095,
+        "playtime": 2633726950,
+        "finished": 1468,
+        "finishtime": 1103850820,
+        "won": 2070,
         "lost": 1889,
         "forfeited": 696
     },
@@ -3763,13 +3763,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8300,
-        "playtime": 5460712437,
+        "matches": 8301,
+        "playtime": 5461229595,
         "finished": 2883,
         "finishtime": 2179238884,
         "won": 4054,
-        "lost": 3791,
-        "forfeited": 921
+        "lost": 3792,
+        "forfeited": 922
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
