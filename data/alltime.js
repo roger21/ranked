@@ -1519,37 +1519,6 @@
         "lost": 1141,
         "forfeited": 709
     },
-    "529c478ae270415ba12044771a99249a": {
-        "nickname": "muksl",
-        "country": "in",
-        "top": {
-            "1": 1198,
-            "2": 1173,
-            "3": 1170,
-            "4": 1283,
-            "5": 1311,
-            "6": 1359,
-            "7": 1802
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 20
-        },
-        "pb": 529372,
-        "streak": 7,
-        "matches": 737,
-        "playtime": 487835383,
-        "finished": 215,
-        "finishtime": 178083363,
-        "won": 377,
-        "lost": 324,
-        "forfeited": 110
-    },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
         "country": "tr",
@@ -1964,13 +1933,13 @@
         },
         "pb": 412544,
         "streak": 22,
-        "matches": 5762,
-        "playtime": 3361171016,
+        "matches": 5763,
+        "playtime": 3361612620,
         "finished": 2717,
         "finishtime": 1872650963,
         "won": 3605,
-        "lost": 2104,
-        "forfeited": 1012
+        "lost": 2105,
+        "forfeited": 1013
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -2226,7 +2195,7 @@
             "4": 2276,
             "5": 2273,
             "6": 2470,
-            "7": 1827
+            "7": 1828
         },
         "points": {
             "1": 0,
@@ -2239,11 +2208,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 2820,
-        "playtime": 1740410475,
+        "matches": 2821,
+        "playtime": 1740852079,
         "finished": 1267,
         "finishtime": 855748456,
-        "won": 1714,
+        "won": 1715,
         "lost": 1038,
         "forfeited": 269
     },
