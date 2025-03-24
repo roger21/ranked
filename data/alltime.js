@@ -158,7 +158,7 @@
             "4": 1768,
             "5": 1995,
             "6": 2057,
-            "7": 1923
+            "7": 1937
         },
         "points": {
             "1": 0,
@@ -171,11 +171,11 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 1645,
-        "playtime": 994647330,
+        "matches": 1646,
+        "playtime": 995348617,
         "finished": 603,
         "finishtime": 446516457,
-        "won": 861,
+        "won": 862,
         "lost": 723,
         "forfeited": 343
     },
@@ -2851,13 +2851,13 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 2060,
-        "playtime": 1245079795,
+        "matches": 2061,
+        "playtime": 1245781082,
         "finished": 752,
         "finishtime": 551340661,
         "won": 1059,
-        "lost": 938,
-        "forfeited": 443
+        "lost": 939,
+        "forfeited": 444
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -3883,11 +3883,11 @@
         },
         "pb": 543042,
         "streak": 10,
-        "matches": 1178,
-        "playtime": 883628212,
-        "finished": 375,
-        "finishtime": 316662836,
-        "won": 631,
+        "matches": 1179,
+        "playtime": 884362432,
+        "finished": 376,
+        "finishtime": 317397056,
+        "won": 632,
         "lost": 505,
         "forfeited": 11
     },
