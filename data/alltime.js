@@ -171,13 +171,13 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 1650,
-        "playtime": 998133314,
+        "matches": 1651,
+        "playtime": 998646303,
         "finished": 606,
         "finishtime": 448719077,
         "won": 865,
-        "lost": 724,
-        "forfeited": 343
+        "lost": 725,
+        "forfeited": 344
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
         "nickname": "90Tom",
@@ -1201,11 +1201,11 @@
         },
         "pb": 455813,
         "streak": 11,
-        "matches": 2559,
-        "playtime": 1821952646,
+        "matches": 2560,
+        "playtime": 1822465635,
         "finished": 827,
         "finishtime": 691328859,
-        "won": 1289,
+        "won": 1290,
         "lost": 1146,
         "forfeited": 202
     },
@@ -2729,11 +2729,11 @@
         },
         "pb": 418963,
         "streak": 14,
-        "matches": 4017,
-        "playtime": 2579410643,
-        "finished": 1490,
-        "finishtime": 1086875077,
-        "won": 2048,
+        "matches": 4018,
+        "playtime": 2580224023,
+        "finished": 1491,
+        "finishtime": 1087688457,
+        "won": 2049,
         "lost": 1852,
         "forfeited": 534
     },
@@ -3763,13 +3763,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8326,
-        "playtime": 5475723253,
+        "matches": 8327,
+        "playtime": 5476340950,
         "finished": 2891,
         "finishtime": 2184520485,
         "won": 4063,
-        "lost": 3808,
-        "forfeited": 928
+        "lost": 3809,
+        "forfeited": 929
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
@@ -4059,12 +4059,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4988,
-        "playtime": 3353048370,
+        "matches": 4989,
+        "playtime": 3353861750,
         "finished": 1628,
         "finishtime": 1290670578,
         "won": 2498,
-        "lost": 2301,
+        "lost": 2302,
         "forfeited": 629
     }
 }
