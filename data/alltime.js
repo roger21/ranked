@@ -1356,13 +1356,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4497,
-        "playtime": 2692714475,
+        "matches": 4498,
+        "playtime": 2693189801,
         "finished": 1502,
         "finishtime": 1116069167,
         "won": 2311,
-        "lost": 2026,
-        "forfeited": 1203
+        "lost": 2027,
+        "forfeited": 1204
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
