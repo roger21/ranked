@@ -1201,11 +1201,11 @@
         },
         "pb": 455813,
         "streak": 11,
-        "matches": 2546,
-        "playtime": 1814363126,
+        "matches": 2547,
+        "playtime": 1814629042,
         "finished": 821,
         "finishtime": 687235554,
-        "won": 1281,
+        "won": 1282,
         "lost": 1141,
         "forfeited": 202
     },
@@ -1964,13 +1964,13 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 3308,
-        "playtime": 2223401451,
+        "matches": 3309,
+        "playtime": 2223954153,
         "finished": 1002,
         "finishtime": 841908313,
         "won": 1684,
-        "lost": 1489,
-        "forfeited": 580
+        "lost": 1490,
+        "forfeited": 581
     },
     "736dbdc44a3e452fa489f5344565835e": {
         "nickname": "drx6",
@@ -2086,13 +2086,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1685,
-        "playtime": 1118131220,
+        "matches": 1687,
+        "playtime": 1118924840,
         "finished": 564,
         "finishtime": 460638967,
         "won": 885,
-        "lost": 750,
-        "forfeited": 306
+        "lost": 752,
+        "forfeited": 307
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -2791,13 +2791,13 @@
         },
         "pb": 447308,
         "streak": 9,
-        "matches": 4119,
-        "playtime": 2647366787,
+        "matches": 4120,
+        "playtime": 2647632703,
         "finished": 1477,
         "finishtime": 1109854184,
         "won": 2083,
-        "lost": 1899,
-        "forfeited": 700
+        "lost": 1900,
+        "forfeited": 701
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
