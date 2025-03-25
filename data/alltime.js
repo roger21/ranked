@@ -1734,6 +1734,35 @@
         "lost": 3407,
         "forfeited": 1236
     },
+    "6135d13bce2841f8b7e8d37d91c6edfe": {
+        "nickname": "boywithcards",
+        "country": "de",
+        "top": {
+            "1": 1412,
+            "3": 1455,
+            "4": 1542,
+            "5": 1746,
+            "6": 1790,
+            "7": 1810
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 5,
+            "7": 25
+        },
+        "pb": 473760,
+        "streak": 12,
+        "matches": 2134,
+        "playtime": 1376121222,
+        "finished": 599,
+        "finishtime": 466199469,
+        "won": 1075,
+        "lost": 959,
+        "forfeited": 295
+    },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
         "country": "se",
@@ -1778,13 +1807,13 @@
         },
         "pb": 468892,
         "streak": 11,
-        "matches": 1232,
-        "playtime": 762344047,
+        "matches": 1233,
+        "playtime": 762589605,
         "finished": 463,
         "finishtime": 331344162,
         "won": 637,
-        "lost": 564,
-        "forfeited": 158
+        "lost": 565,
+        "forfeited": 159
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -2667,12 +2696,12 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8171,
-        "playtime": 4942916804,
+        "matches": 8172,
+        "playtime": 4943573149,
         "finished": 3388,
         "finishtime": 2353173410,
         "won": 4521,
-        "lost": 3464,
+        "lost": 3465,
         "forfeited": 1186
     },
     "939ddf85303441de901d60bfa4109318": {
@@ -4028,11 +4057,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 4998,
-        "playtime": 3359210216,
-        "finished": 1631,
-        "finishtime": 1292607106,
-        "won": 2502,
+        "matches": 4999,
+        "playtime": 3359866561,
+        "finished": 1632,
+        "finishtime": 1293263451,
+        "won": 2503,
         "lost": 2307,
         "forfeited": 630
     }
