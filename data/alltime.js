@@ -158,7 +158,7 @@
             "4": 1768,
             "5": 1995,
             "6": 2057,
-            "7": 1971
+            "7": 1983
         },
         "points": {
             "1": 0,
@@ -171,11 +171,11 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 1658,
-        "playtime": 1002296043,
-        "finished": 609,
-        "finishtime": 450551518,
-        "won": 868,
+        "matches": 1659,
+        "playtime": 1003111498,
+        "finished": 610,
+        "finishtime": 451366973,
+        "won": 869,
         "lost": 727,
         "forfeited": 345
     },
@@ -1356,11 +1356,11 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4500,
-        "playtime": 2694333221,
+        "matches": 4502,
+        "playtime": 2695100038,
         "finished": 1502,
         "finishtime": 1116069167,
-        "won": 2312,
+        "won": 2314,
         "lost": 2028,
         "forfeited": 1204
     },
@@ -2423,13 +2423,13 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1361,
-        "playtime": 869641516,
+        "matches": 1362,
+        "playtime": 870163199,
         "finished": 488,
         "finishtime": 374807673,
         "won": 742,
-        "lost": 552,
-        "forfeited": 196
+        "lost": 553,
+        "forfeited": 197
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
         "nickname": "4antoo",
@@ -2851,13 +2851,13 @@
         },
         "pb": 504184,
         "streak": 18,
-        "matches": 2877,
-        "playtime": 1901253103,
+        "matches": 2879,
+        "playtime": 1901956132,
         "finished": 923,
         "finishtime": 746764761,
         "won": 1495,
-        "lost": 1297,
-        "forfeited": 603
+        "lost": 1299,
+        "forfeited": 605
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -3792,8 +3792,8 @@
         },
         "pb": 566523,
         "streak": 10,
-        "matches": 1781,
-        "playtime": 1313970124,
+        "matches": 1782,
+        "playtime": 1314912392,
         "finished": 630,
         "finishtime": 533449087,
         "won": 951,
