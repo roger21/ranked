@@ -1017,13 +1017,13 @@
         },
         "pb": 423849,
         "streak": 16,
-        "matches": 9099,
-        "playtime": 5626868423,
+        "matches": 9101,
+        "playtime": 5627707217,
         "finished": 3731,
         "finishtime": 2602533014,
         "won": 4920,
-        "lost": 3992,
-        "forfeited": 1279
+        "lost": 3994,
+        "forfeited": 1280
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -2084,13 +2084,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1698,
-        "playtime": 1125713652,
+        "matches": 1699,
+        "playtime": 1126417381,
         "finished": 568,
         "finishtime": 463837706,
         "won": 890,
-        "lost": 758,
-        "forfeited": 310
+        "lost": 759,
+        "forfeited": 311
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -2696,11 +2696,11 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8174,
-        "playtime": 4944704932,
-        "finished": 3389,
-        "finishtime": 2353813023,
-        "won": 4522,
+        "matches": 8175,
+        "playtime": 4945292087,
+        "finished": 3390,
+        "finishtime": 2354400178,
+        "won": 4523,
         "lost": 3466,
         "forfeited": 1186
     },
@@ -4057,11 +4057,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5003,
-        "playtime": 3361780102,
+        "matches": 5004,
+        "playtime": 3362031741,
         "finished": 1633,
         "finishtime": 1293842672,
-        "won": 2505,
+        "won": 2506,
         "lost": 2309,
         "forfeited": 631
     }
