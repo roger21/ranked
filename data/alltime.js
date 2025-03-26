@@ -1017,11 +1017,11 @@
         },
         "pb": 422335,
         "streak": 16,
-        "matches": 9153,
-        "playtime": 5655274749,
-        "finished": 3750,
-        "finishtime": 2613994290,
-        "won": 4941,
+        "matches": 9154,
+        "playtime": 5655876256,
+        "finished": 3751,
+        "finishtime": 2614595797,
+        "won": 4942,
         "lost": 4024,
         "forfeited": 1292
     },
@@ -1931,12 +1931,12 @@
         },
         "pb": 412544,
         "streak": 22,
-        "matches": 5813,
-        "playtime": 3382075239,
+        "matches": 5814,
+        "playtime": 3382676746,
         "finished": 2736,
         "finishtime": 1884075643,
         "won": 3626,
-        "lost": 2134,
+        "lost": 2135,
         "forfeited": 1039
     },
     "734a1c6118754829acc234135470152c": {
@@ -2153,8 +2153,8 @@
         "forfeited": 181
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
-        "nickname": "TUDORULE",
-        "country": "ro",
+        "nickname": "RambuncGamingX89",
+        "country": null,
         "top": {
             "1": 1633,
             "2": 1598,
