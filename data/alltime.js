@@ -22,12 +22,12 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3405,
-        "playtime": 2206698144,
+        "matches": 3406,
+        "playtime": 2207620452,
         "finished": 1241,
         "finishtime": 924389034,
         "won": 1719,
-        "lost": 1607,
+        "lost": 1608,
         "forfeited": 402
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -1017,12 +1017,12 @@
         },
         "pb": 422335,
         "streak": 16,
-        "matches": 9123,
-        "playtime": 5639738286,
+        "matches": 9124,
+        "playtime": 5640314704,
         "finished": 3737,
         "finishtime": 2606378483,
         "won": 4927,
-        "lost": 4008,
+        "lost": 4009,
         "forfeited": 1285
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -1141,13 +1141,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6137,
-        "playtime": 4025580571,
+        "matches": 6138,
+        "playtime": 4026194246,
         "finished": 2092,
         "finishtime": 1611308236,
         "won": 3038,
-        "lost": 2864,
-        "forfeited": 1027
+        "lost": 2865,
+        "forfeited": 1028
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -2760,11 +2760,11 @@
         },
         "pb": 447308,
         "streak": 9,
-        "matches": 4144,
-        "playtime": 2661410633,
-        "finished": 1484,
-        "finishtime": 1114280631,
-        "won": 2093,
+        "matches": 4145,
+        "playtime": 2661987051,
+        "finished": 1485,
+        "finishtime": 1114857049,
+        "won": 2094,
         "lost": 1913,
         "forfeited": 705
     },
@@ -4015,7 +4015,7 @@
             "4": 1915,
             "5": 1859,
             "6": 2003,
-            "7": 1900
+            "7": 1923
         },
         "points": {
             "1": 0,
@@ -4028,11 +4028,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5008,
-        "playtime": 3364355276,
+        "matches": 5009,
+        "playtime": 3364968951,
         "finished": 1634,
         "finishtime": 1294383853,
-        "won": 2508,
+        "won": 2509,
         "lost": 2311,
         "forfeited": 631
     }
