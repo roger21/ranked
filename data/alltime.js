@@ -1234,11 +1234,11 @@
         },
         "pb": 479650,
         "streak": 12,
-        "matches": 1775,
-        "playtime": 1232745573,
-        "finished": 635,
-        "finishtime": 526084809,
-        "won": 949,
+        "matches": 1776,
+        "playtime": 1233409565,
+        "finished": 636,
+        "finishtime": 526748801,
+        "won": 950,
         "lost": 771,
         "forfeited": 206
     },
@@ -2044,7 +2044,7 @@
             "4": 1712,
             "5": 1586,
             "6": 1757,
-            "7": 1683
+            "7": 1702
         },
         "points": {
             "1": 0,
@@ -2057,11 +2057,11 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1762,
-        "playtime": 1167843620,
-        "finished": 591,
-        "finishtime": 480495440,
-        "won": 926,
+        "matches": 1763,
+        "playtime": 1168573863,
+        "finished": 592,
+        "finishtime": 481225683,
+        "won": 927,
         "lost": 784,
         "forfeited": 317
     },
@@ -3032,37 +3032,6 @@
         "won": 764,
         "lost": 441,
         "forfeited": 34
-    },
-    "a81886565121479782d42408d94fe97d": {
-        "nickname": "Tenes9999",
-        "country": "cn",
-        "top": {
-            "1": 1255,
-            "2": 1503,
-            "3": 1456,
-            "4": 1640,
-            "5": 1736,
-            "6": 1839,
-            "7": 1859
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 25,
-            "6": 40,
-            "7": 10
-        },
-        "pb": 456658,
-        "streak": 7,
-        "matches": 1931,
-        "playtime": 1143281018,
-        "finished": 586,
-        "finishtime": 460084124,
-        "won": 959,
-        "lost": 816,
-        "forfeited": 537
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
