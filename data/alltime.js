@@ -3834,13 +3834,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8389,
-        "playtime": 5511242135,
+        "matches": 8390,
+        "playtime": 5511529516,
         "finished": 2909,
         "finishtime": 2196374672,
         "won": 4097,
-        "lost": 3833,
-        "forfeited": 932
+        "lost": 3834,
+        "forfeited": 933
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
