@@ -926,11 +926,11 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11031,
-        "playtime": 7254897490,
+        "matches": 11032,
+        "playtime": 7255228323,
         "finished": 4544,
         "finishtime": 3279529986,
-        "won": 6137,
+        "won": 6138,
         "lost": 4683,
         "forfeited": 666
     },
@@ -3056,13 +3056,13 @@
         },
         "pb": 456658,
         "streak": 7,
-        "matches": 1935,
-        "playtime": 1145554337,
+        "matches": 1936,
+        "playtime": 1145885170,
         "finished": 588,
         "finishtime": 461419682,
         "won": 961,
-        "lost": 817,
-        "forfeited": 537
+        "lost": 818,
+        "forfeited": 538
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
