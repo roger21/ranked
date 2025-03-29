@@ -2160,18 +2160,18 @@
         "nickname": "lumeh",
         "country": "gb",
         "top": {
-            "7": 1904
+            "7": 1917
         },
         "points": {
             "7": 10
         },
         "pb": 517004,
         "streak": 10,
-        "matches": 1321,
-        "playtime": 873211704,
+        "matches": 1322,
+        "playtime": 873567313,
         "finished": 355,
         "finishtime": 297469856,
-        "won": 657,
+        "won": 658,
         "lost": 594,
         "forfeited": 265
     },
@@ -2415,12 +2415,12 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 2852,
-        "playtime": 1845853621,
+        "matches": 2853,
+        "playtime": 1846755391,
         "finished": 893,
         "finishtime": 714294359,
         "won": 1469,
-        "lost": 1295,
+        "lost": 1296,
         "forfeited": 686
     },
     "879c8136d42c4222b42f1c090616fa5e": {
