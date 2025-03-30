@@ -1511,12 +1511,12 @@
         },
         "pb": 529372,
         "streak": 7,
-        "matches": 749,
-        "playtime": 494561530,
+        "matches": 750,
+        "playtime": 495174355,
         "finished": 219,
         "finishtime": 181004608,
         "won": 385,
-        "lost": 328,
+        "lost": 329,
         "forfeited": 110
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
@@ -3215,29 +3215,6 @@
         "lost": 1574,
         "forfeited": 283
     },
-    "acf90f097a544ab8b25d238b3ab4549c": {
-        "nickname": "timmyturner79",
-        "country": "af",
-        "top": {
-            "5": 1604,
-            "6": 1692,
-            "7": 1838
-        },
-        "points": {
-            "5": 0,
-            "6": 25,
-            "7": 0
-        },
-        "pb": 463712,
-        "streak": 13,
-        "matches": 616,
-        "playtime": 420876725,
-        "finished": 240,
-        "finishtime": 175509949,
-        "won": 328,
-        "lost": 257,
-        "forfeited": 44
-    },
     "addd890764404097b3f12acdde2adf33": {
         "nickname": "Hypn0tic2030",
         "country": "us",
@@ -3433,11 +3410,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 5814,
-        "playtime": 3395251349,
-        "finished": 2095,
-        "finishtime": 1467438933,
-        "won": 2916,
+        "matches": 5815,
+        "playtime": 3395864174,
+        "finished": 2096,
+        "finishtime": 1468051758,
+        "won": 2917,
         "lost": 2704,
         "forfeited": 1222
     },
@@ -4043,13 +4020,13 @@
         },
         "pb": 471067,
         "streak": 9,
-        "matches": 4094,
-        "playtime": 2269999424,
+        "matches": 4095,
+        "playtime": 2270237270,
         "finished": 1455,
         "finishtime": 995855190,
         "won": 2080,
-        "lost": 1909,
-        "forfeited": 1237
+        "lost": 1910,
+        "forfeited": 1238
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
