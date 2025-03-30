@@ -973,7 +973,7 @@
             "4": 1924,
             "5": 1721,
             "6": 1836,
-            "7": 1745
+            "7": 1767
         },
         "points": {
             "1": 0,
@@ -986,11 +986,11 @@
         },
         "pb": 484755,
         "streak": 22,
-        "matches": 1277,
-        "playtime": 844933970,
-        "finished": 488,
-        "finishtime": 372203651,
-        "won": 684,
+        "matches": 1278,
+        "playtime": 845636410,
+        "finished": 489,
+        "finishtime": 372906091,
+        "won": 685,
         "lost": 544,
         "forfeited": 134
     },
@@ -2165,13 +2165,13 @@
         },
         "pb": 517004,
         "streak": 10,
-        "matches": 1327,
-        "playtime": 876984251,
-        "finished": 357,
-        "finishtime": 299007441,
-        "won": 660,
-        "lost": 597,
-        "forfeited": 265
+        "matches": 1329,
+        "playtime": 877990854,
+        "finished": 358,
+        "finishtime": 299762179,
+        "won": 661,
+        "lost": 598,
+        "forfeited": 266
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
         "nickname": "RambuncGamingX89",
@@ -3402,11 +3402,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 5819,
-        "playtime": 3398632579,
+        "matches": 5820,
+        "playtime": 3398884444,
         "finished": 2099,
         "finishtime": 1469816451,
-        "won": 2920,
+        "won": 2921,
         "lost": 2705,
         "forfeited": 1222
     },
