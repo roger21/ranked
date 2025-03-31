@@ -2872,12 +2872,12 @@
         },
         "pb": 449254,
         "streak": 29,
-        "matches": 1342,
-        "playtime": 817896177,
+        "matches": 1343,
+        "playtime": 818430772,
         "finished": 696,
         "finishtime": 464326272,
         "won": 908,
-        "lost": 421,
+        "lost": 422,
         "forfeited": 80
     },
     "9c724d7793094a76a8bc9d30f397df92": {
@@ -3103,7 +3103,7 @@
             "4": 1539,
             "5": 1376,
             "6": 2213,
-            "7": 2463
+            "7": 2472
         },
         "points": {
             "3": 0,
@@ -3114,11 +3114,11 @@
         },
         "pb": 440964,
         "streak": 18,
-        "matches": 1287,
-        "playtime": 783507384,
-        "finished": 644,
-        "finishtime": 417039674,
-        "won": 816,
+        "matches": 1288,
+        "playtime": 784041979,
+        "finished": 645,
+        "finishtime": 417574269,
+        "won": 817,
         "lost": 449,
         "forfeited": 34
     },
@@ -3243,29 +3243,6 @@
         "won": 1692,
         "lost": 1574,
         "forfeited": 283
-    },
-    "acf90f097a544ab8b25d238b3ab4549c": {
-        "nickname": "timmyturner79",
-        "country": "af",
-        "top": {
-            "5": 1604,
-            "6": 1692,
-            "7": 1851
-        },
-        "points": {
-            "5": 0,
-            "6": 25,
-            "7": 0
-        },
-        "pb": 463712,
-        "streak": 13,
-        "matches": 620,
-        "playtime": 423339043,
-        "finished": 242,
-        "finishtime": 177232686,
-        "won": 330,
-        "lost": 258,
-        "forfeited": 44
     },
     "addd890764404097b3f12acdde2adf33": {
         "nickname": "Hypn0tic2030",
@@ -3890,11 +3867,11 @@
         },
         "pb": 469319,
         "streak": 8,
-        "matches": 556,
-        "playtime": 383690242,
-        "finished": 210,
-        "finishtime": 160227355,
-        "won": 305,
+        "matches": 557,
+        "playtime": 384436232,
+        "finished": 211,
+        "finishtime": 160973345,
+        "won": 306,
         "lost": 216,
         "forfeited": 20
     },
