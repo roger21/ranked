@@ -1757,13 +1757,13 @@
         },
         "pb": 427940,
         "streak": 13,
-        "matches": 2580,
-        "playtime": 1600643039,
+        "matches": 2581,
+        "playtime": 1600830061,
         "finished": 1018,
         "finishtime": 715657932,
         "won": 1362,
-        "lost": 1112,
-        "forfeited": 319
+        "lost": 1113,
+        "forfeited": 320
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
         "nickname": "edcr",
@@ -2818,6 +2818,31 @@
         "lost": 1938,
         "forfeited": 712
     },
+    "9a61b87c6a16403da56541258e74ed3e": {
+        "nickname": "Blad_d",
+        "country": "de",
+        "top": {
+            "4": 935,
+            "5": 1617,
+            "6": 1877,
+            "7": 1843
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 45,
+            "7": 35
+        },
+        "pb": 437362,
+        "streak": 13,
+        "matches": 3125,
+        "playtime": 1941328474,
+        "finished": 939,
+        "finishtime": 710121727,
+        "won": 1533,
+        "lost": 1437,
+        "forfeited": 670
+    },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
         "country": "us",
@@ -2879,35 +2904,6 @@
         "won": 1496,
         "lost": 1300,
         "forfeited": 606
-    },
-    "a00913f1079c4b0c9d68d32f57dfbe73": {
-        "nickname": "sevensix_",
-        "country": "hk",
-        "top": {
-            "1": 1248,
-            "2": 1108,
-            "4": 1637,
-            "5": 1710,
-            "6": 1892,
-            "7": 1879
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 10,
-            "5": 10,
-            "6": 20,
-            "7": 15
-        },
-        "pb": 466425,
-        "streak": 13,
-        "matches": 4182,
-        "playtime": 2519379999,
-        "finished": 1258,
-        "finishtime": 977931973,
-        "won": 2036,
-        "lost": 1930,
-        "forfeited": 1217
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -3219,7 +3215,7 @@
         "top": {
             "5": 1604,
             "6": 1692,
-            "7": 1858
+            "7": 1876
         },
         "points": {
             "5": 0,
@@ -3228,11 +3224,11 @@
         },
         "pb": 463712,
         "streak": 13,
-        "matches": 623,
-        "playtime": 425232116,
+        "matches": 624,
+        "playtime": 425419138,
         "finished": 243,
         "finishtime": 177883384,
-        "won": 332,
+        "won": 333,
         "lost": 259,
         "forfeited": 44
     },
