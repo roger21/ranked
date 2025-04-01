@@ -1933,12 +1933,12 @@
         },
         "pb": 486560,
         "streak": 12,
-        "matches": 1714,
-        "playtime": 1170023973,
+        "matches": 1715,
+        "playtime": 1170795258,
         "finished": 631,
         "finishtime": 483021176,
         "won": 906,
-        "lost": 721,
+        "lost": 722,
         "forfeited": 26
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
@@ -3139,36 +3139,13 @@
         },
         "pb": 460148,
         "streak": 12,
-        "matches": 3439,
-        "playtime": 2348007814,
-        "finished": 1064,
-        "finishtime": 831342919,
-        "won": 1694,
+        "matches": 3440,
+        "playtime": 2348779099,
+        "finished": 1065,
+        "finishtime": 832114204,
+        "won": 1695,
         "lost": 1578,
         "forfeited": 283
-    },
-    "acf90f097a544ab8b25d238b3ab4549c": {
-        "nickname": "timmyturner79",
-        "country": "af",
-        "top": {
-            "5": 1604,
-            "6": 1692,
-            "7": 1876
-        },
-        "points": {
-            "5": 0,
-            "6": 25,
-            "7": 0
-        },
-        "pb": 463712,
-        "streak": 13,
-        "matches": 635,
-        "playtime": 432868309,
-        "finished": 246,
-        "finishtime": 179717695,
-        "won": 337,
-        "lost": 266,
-        "forfeited": 44
     },
     "addd890764404097b3f12acdde2adf33": {
         "nickname": "Hypn0tic2030",
