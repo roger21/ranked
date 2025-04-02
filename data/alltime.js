@@ -262,11 +262,11 @@
         },
         "pb": 444956,
         "streak": 14,
-        "matches": 2801,
-        "playtime": 1715819345,
+        "matches": 2802,
+        "playtime": 1716130091,
         "finished": 1211,
         "finishtime": 825600627,
-        "won": 1515,
+        "won": 1516,
         "lost": 1208,
         "forfeited": 357
     },
@@ -472,33 +472,6 @@
         "won": 228,
         "lost": 134,
         "forfeited": 18
-    },
-    "1f88c82f9cc84c9885a5d38dd531f4c6": {
-        "nickname": "RRed",
-        "country": "us",
-        "top": {
-            "3": 1693,
-            "4": 1732,
-            "5": 1660,
-            "6": 1662,
-            "7": 1871
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 0,
-            "7": 0
-        },
-        "pb": 469453,
-        "streak": 9,
-        "matches": 1812,
-        "playtime": 1251869257,
-        "finished": 565,
-        "finishtime": 470319264,
-        "won": 918,
-        "lost": 812,
-        "forfeited": 191
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
@@ -2531,12 +2504,12 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8100,
-        "playtime": 5271305416,
+        "matches": 8101,
+        "playtime": 5271799390,
         "finished": 2636,
         "finishtime": 2168684262,
         "won": 4117,
-        "lost": 3810,
+        "lost": 3811,
         "forfeited": 1944
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
@@ -2862,11 +2835,11 @@
         },
         "pb": 504184,
         "streak": 18,
-        "matches": 2909,
-        "playtime": 1919585598,
+        "matches": 2910,
+        "playtime": 1920431393,
         "finished": 931,
         "finishtime": 752757595,
-        "won": 1514,
+        "won": 1515,
         "lost": 1309,
         "forfeited": 609
     },
