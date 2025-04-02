@@ -1141,11 +1141,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6277,
-        "playtime": 4101742008,
+        "matches": 6278,
+        "playtime": 4102279627,
         "finished": 2136,
         "finishtime": 1639988378,
-        "won": 3099,
+        "won": 3100,
         "lost": 2940,
         "forfeited": 1057
     },
@@ -1201,12 +1201,12 @@
         },
         "pb": 455813,
         "streak": 11,
-        "matches": 2587,
-        "playtime": 1839280665,
+        "matches": 2588,
+        "playtime": 1839897157,
         "finished": 837,
         "finishtime": 697975911,
         "won": 1302,
-        "lost": 1160,
+        "lost": 1161,
         "forfeited": 202
     },
     "43a6669e11474827802de8401a373169": {
@@ -1356,13 +1356,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4540,
-        "playtime": 2715464222,
+        "matches": 4541,
+        "playtime": 2716292109,
         "finished": 1516,
         "finishtime": 1125368202,
         "won": 2334,
-        "lost": 2044,
-        "forfeited": 1215
+        "lost": 2045,
+        "forfeited": 1216
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -2655,11 +2655,11 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8243,
-        "playtime": 4982149012,
-        "finished": 3418,
-        "finishtime": 2371543966,
-        "won": 4568,
+        "matches": 8244,
+        "playtime": 4982765504,
+        "finished": 3419,
+        "finishtime": 2372160458,
+        "won": 4569,
         "lost": 3489,
         "forfeited": 1186
     },
@@ -4126,12 +4126,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5129,
-        "playtime": 3435992643,
+        "matches": 5130,
+        "playtime": 3436530262,
         "finished": 1664,
         "finishtime": 1314609723,
         "won": 2560,
-        "lost": 2373,
-        "forfeited": 644
+        "lost": 2374,
+        "forfeited": 645
     }
 }
