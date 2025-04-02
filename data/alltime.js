@@ -2791,7 +2791,7 @@
             "4": 0,
             "5": 0,
             "6": 2291,
-            "7": 2316
+            "7": 2328
         },
         "points": {
             "1": 0,
@@ -2804,11 +2804,11 @@
         },
         "pb": 449254,
         "streak": 29,
-        "matches": 1370,
-        "playtime": 833643384,
-        "finished": 711,
-        "finishtime": 473006372,
-        "won": 926,
+        "matches": 1371,
+        "playtime": 834240230,
+        "finished": 712,
+        "finishtime": 473603218,
+        "won": 927,
         "lost": 431,
         "forfeited": 80
     },
@@ -3017,11 +3017,11 @@
         },
         "pb": 440964,
         "streak": 18,
-        "matches": 1348,
-        "playtime": 816649157,
-        "finished": 677,
-        "finishtime": 436551956,
-        "won": 861,
+        "matches": 1349,
+        "playtime": 817161742,
+        "finished": 678,
+        "finishtime": 437064541,
+        "won": 862,
         "lost": 465,
         "forfeited": 34
     },
@@ -3126,7 +3126,7 @@
             "4": 1543,
             "5": 1908,
             "6": 2064,
-            "7": 1949
+            "7": 1970
         },
         "points": {
             "1": 0,
@@ -3139,11 +3139,11 @@
         },
         "pb": 460148,
         "streak": 12,
-        "matches": 3446,
-        "playtime": 2352138778,
-        "finished": 1069,
-        "finishtime": 834398868,
-        "won": 1699,
+        "matches": 3447,
+        "playtime": 2352664400,
+        "finished": 1070,
+        "finishtime": 834924490,
+        "won": 1700,
         "lost": 1579,
         "forfeited": 283
     },
@@ -3466,13 +3466,13 @@
         },
         "pb": 422817,
         "streak": 12,
-        "matches": 2098,
-        "playtime": 1352026175,
+        "matches": 2099,
+        "playtime": 1352794688,
         "finished": 837,
         "finishtime": 612725286,
         "won": 1142,
-        "lost": 907,
-        "forfeited": 229
+        "lost": 908,
+        "forfeited": 230
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "nwolc",
