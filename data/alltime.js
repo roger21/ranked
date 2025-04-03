@@ -955,12 +955,12 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11123,
-        "playtime": 7307356795,
+        "matches": 11124,
+        "playtime": 7307878240,
         "finished": 4580,
         "finishtime": 3302253589,
         "won": 6188,
-        "lost": 4724,
+        "lost": 4725,
         "forfeited": 668
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1017,11 +1017,11 @@
         },
         "pb": 422335,
         "streak": 16,
-        "matches": 9327,
-        "playtime": 5752150620,
-        "finished": 3830,
-        "finishtime": 2663186779,
-        "won": 5035,
+        "matches": 9328,
+        "playtime": 5752875156,
+        "finished": 3831,
+        "finishtime": 2663911315,
+        "won": 5036,
         "lost": 4100,
         "forfeited": 1317
     },
@@ -2032,35 +2032,6 @@
         "lost": 797,
         "forfeited": 319
     },
-    "74ce14cf794b431bb3e10d5311d0777f": {
-        "nickname": "Seauu",
-        "country": "fr",
-        "top": {
-            "1": 1438,
-            "3": 1662,
-            "4": 1505,
-            "5": 1495,
-            "6": 1509,
-            "7": 1934
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 45
-        },
-        "pb": 453304,
-        "streak": 10,
-        "matches": 423,
-        "playtime": 264241061,
-        "finished": 189,
-        "finishtime": 133943940,
-        "won": 252,
-        "lost": 154,
-        "forfeited": 39
-    },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
         "country": null,
@@ -2146,12 +2117,12 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 2911,
-        "playtime": 1790349408,
+        "matches": 2912,
+        "playtime": 1791073944,
         "finished": 1319,
         "finishtime": 885663357,
         "won": 1779,
-        "lost": 1064,
+        "lost": 1065,
         "forfeited": 269
     },
     "7d320034571e405a9b6889104489a3c4": {
