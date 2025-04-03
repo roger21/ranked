@@ -1356,13 +1356,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4566,
-        "playtime": 2729101060,
+        "matches": 4567,
+        "playtime": 2729576167,
         "finished": 1522,
         "finishtime": 1129371857,
         "won": 2346,
-        "lost": 2058,
-        "forfeited": 1223
+        "lost": 2059,
+        "forfeited": 1224
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -1726,12 +1726,12 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7350,
-        "playtime": 4704259642,
+        "matches": 7351,
+        "playtime": 4704969077,
         "finished": 2589,
         "finishtime": 1995060685,
         "won": 3650,
-        "lost": 3458,
+        "lost": 3459,
         "forfeited": 1246
     },
     "625146b684804a29af2eaeb483a59ddf": {
@@ -3760,7 +3760,7 @@
         "forfeited": 20
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
-        "nickname": "8in9",
+        "nickname": "rambunctiouslaw",
         "country": "um",
         "top": {
             "1": 1697,
