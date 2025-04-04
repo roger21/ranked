@@ -262,11 +262,11 @@
         },
         "pb": 444956,
         "streak": 14,
-        "matches": 2819,
-        "playtime": 1723914566,
+        "matches": 2820,
+        "playtime": 1724507025,
         "finished": 1215,
         "finishtime": 827938080,
-        "won": 1523,
+        "won": 1524,
         "lost": 1218,
         "forfeited": 364
     },
@@ -2454,13 +2454,13 @@
         },
         "pb": 488067,
         "streak": 8,
-        "matches": 1308,
-        "playtime": 860164785,
+        "matches": 1309,
+        "playtime": 860757244,
         "finished": 517,
         "finishtime": 386244298,
         "won": 728,
-        "lost": 542,
-        "forfeited": 120
+        "lost": 543,
+        "forfeited": 121
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
         "nickname": "MIKU_LUVR_998",
@@ -3207,13 +3207,13 @@
         },
         "pb": 468498,
         "streak": 9,
-        "matches": 2248,
-        "playtime": 1561733520,
+        "matches": 2249,
+        "playtime": 1561996891,
         "finished": 712,
         "finishtime": 598947253,
         "won": 1168,
-        "lost": 987,
-        "forfeited": 336
+        "lost": 988,
+        "forfeited": 337
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
@@ -4078,12 +4078,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5171,
-        "playtime": 3458752759,
+        "matches": 5172,
+        "playtime": 3459342054,
         "finished": 1675,
         "finishtime": 1322215690,
         "won": 2581,
-        "lost": 2393,
+        "lost": 2394,
         "forfeited": 655
     }
 }
