@@ -3178,13 +3178,13 @@
         },
         "pb": 468498,
         "streak": 9,
-        "matches": 2287,
-        "playtime": 1584139712,
+        "matches": 2288,
+        "playtime": 1584897371,
         "finished": 721,
         "finishtime": 605697848,
         "won": 1187,
-        "lost": 1007,
-        "forfeited": 345
+        "lost": 1008,
+        "forfeited": 346
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
@@ -3573,13 +3573,13 @@
         },
         "pb": 559313,
         "streak": 11,
-        "matches": 2070,
-        "playtime": 1589176574,
+        "matches": 2071,
+        "playtime": 1589500508,
         "finished": 467,
         "finishtime": 490007777,
         "won": 1019,
-        "lost": 955,
-        "forfeited": 453
+        "lost": 956,
+        "forfeited": 454
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
