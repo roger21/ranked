@@ -3178,13 +3178,13 @@
         },
         "pb": 468498,
         "streak": 9,
-        "matches": 2316,
-        "playtime": 1602392372,
+        "matches": 2317,
+        "playtime": 1602723674,
         "finished": 730,
         "finishtime": 612615773,
         "won": 1205,
-        "lost": 1018,
-        "forfeited": 350
+        "lost": 1019,
+        "forfeited": 351
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
