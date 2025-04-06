@@ -1410,12 +1410,12 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2435,
-        "playtime": 1475858242,
+        "matches": 2436,
+        "playtime": 1476642887,
         "finished": 791,
         "finishtime": 609521962,
         "won": 1198,
-        "lost": 1030,
+        "lost": 1031,
         "forfeited": 434
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
@@ -3199,13 +3199,13 @@
         },
         "pb": 468498,
         "streak": 9,
-        "matches": 2357,
-        "playtime": 1628103005,
+        "matches": 2359,
+        "playtime": 1629091370,
         "finished": 740,
         "finishtime": 620006859,
         "won": 1222,
-        "lost": 1041,
-        "forfeited": 358
+        "lost": 1043,
+        "forfeited": 359
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
