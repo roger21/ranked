@@ -22,13 +22,13 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3560,
-        "playtime": 2288083441,
+        "matches": 3561,
+        "playtime": 2288702564,
         "finished": 1294,
         "finishtime": 958929774,
         "won": 1799,
-        "lost": 1681,
-        "forfeited": 438
+        "lost": 1682,
+        "forfeited": 439
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
@@ -2785,12 +2785,12 @@
         },
         "pb": 466425,
         "streak": 13,
-        "matches": 4268,
-        "playtime": 2572802810,
+        "matches": 4269,
+        "playtime": 2573358740,
         "finished": 1291,
         "finishtime": 999873779,
         "won": 2078,
-        "lost": 1972,
+        "lost": 1973,
         "forfeited": 1219
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
@@ -2985,7 +2985,7 @@
             "4": 1640,
             "5": 1736,
             "6": 1839,
-            "7": 1976
+            "7": 1988
         },
         "points": {
             "1": 0,
@@ -2998,11 +2998,11 @@
         },
         "pb": 456658,
         "streak": 7,
-        "matches": 1982,
-        "playtime": 1172140166,
-        "finished": 609,
-        "finishtime": 475270337,
-        "won": 986,
+        "matches": 1983,
+        "playtime": 1172696096,
+        "finished": 610,
+        "finishtime": 475826267,
+        "won": 987,
         "lost": 835,
         "forfeited": 545
     },
