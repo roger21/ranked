@@ -1749,13 +1749,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7391,
-        "playtime": 4728220954,
+        "matches": 7392,
+        "playtime": 4728712419,
         "finished": 2605,
         "finishtime": 2005061595,
         "won": 3669,
-        "lost": 3480,
-        "forfeited": 1252
+        "lost": 3481,
+        "forfeited": 1253
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
@@ -3865,11 +3865,11 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 5074,
-        "playtime": 3196334854,
+        "matches": 5075,
+        "playtime": 3196826319,
         "finished": 2138,
         "finishtime": 1503873839,
-        "won": 2762,
+        "won": 2763,
         "lost": 2241,
         "forfeited": 670
     },
