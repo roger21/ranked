@@ -1388,7 +1388,7 @@
         "forfeited": 608
     },
     "48d9df3377554043ba39a8500c7ad702": {
-        "nickname": "LEC6668888",
+        "nickname": "ELO_FFAWRSEED948",
         "country": "cn",
         "top": {
             "1": 1735,
