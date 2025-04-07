@@ -1133,11 +1133,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6378,
-        "playtime": 4156583818,
+        "matches": 6379,
+        "playtime": 4157099533,
         "finished": 2163,
         "finishtime": 1658606364,
-        "won": 3148,
+        "won": 3149,
         "lost": 2990,
         "forfeited": 1078
     },
@@ -2789,35 +2789,6 @@
         "lost": 1328,
         "forfeited": 617
     },
-    "9dcb17d831b24df2bae778cfd750ab1b": {
-        "nickname": "loodlow",
-        "country": "ua",
-        "top": {
-            "2": 1597,
-            "3": 1777,
-            "4": 1807,
-            "5": 2003,
-            "6": 1815,
-            "7": 2026
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 65,
-            "6": 20,
-            "7": 10
-        },
-        "pb": 441075,
-        "streak": 15,
-        "matches": 2375,
-        "playtime": 1406485101,
-        "finished": 853,
-        "finishtime": 616715205,
-        "won": 1212,
-        "lost": 1088,
-        "forfeited": 517
-    },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "nickname": "sevensix_",
         "country": "hk",
@@ -3648,12 +3619,12 @@
         },
         "pb": 559313,
         "streak": 11,
-        "matches": 2097,
-        "playtime": 1607988692,
+        "matches": 2098,
+        "playtime": 1608717327,
         "finished": 479,
         "finishtime": 500539940,
         "won": 1041,
-        "lost": 960,
+        "lost": 961,
         "forfeited": 454
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
