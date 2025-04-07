@@ -2018,13 +2018,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1816,
-        "playtime": 1203000628,
+        "matches": 1817,
+        "playtime": 1203184670,
         "finished": 611,
         "finishtime": 495234153,
         "won": 953,
-        "lost": 810,
-        "forfeited": 321
+        "lost": 811,
+        "forfeited": 322
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
@@ -2450,11 +2450,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8176,
-        "playtime": 5314535842,
+        "matches": 8178,
+        "playtime": 5314922538,
         "finished": 2662,
         "finishtime": 2187237643,
-        "won": 4154,
+        "won": 4156,
         "lost": 3848,
         "forfeited": 1964
     },
