@@ -1741,13 +1741,13 @@
         },
         "pb": 468892,
         "streak": 11,
-        "matches": 1433,
-        "playtime": 870339855,
+        "matches": 1434,
+        "playtime": 871003030,
         "finished": 542,
         "finishtime": 380960868,
         "won": 737,
-        "lost": 661,
-        "forfeited": 189
+        "lost": 662,
+        "forfeited": 190
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -4093,8 +4093,8 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5211,
-        "playtime": 3483642743,
+        "matches": 5212,
+        "playtime": 3484215305,
         "finished": 1691,
         "finishtime": 1332845609,
         "won": 2600,
