@@ -22,11 +22,11 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3581,
-        "playtime": 2300501030,
+        "matches": 3582,
+        "playtime": 2300748605,
         "finished": 1303,
         "finishtime": 964521032,
-        "won": 1811,
+        "won": 1812,
         "lost": 1690,
         "forfeited": 441
     },
@@ -51,11 +51,11 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 4997,
-        "playtime": 3355602734,
+        "matches": 4998,
+        "playtime": 3355898013,
         "finished": 1681,
         "finishtime": 1311842326,
-        "won": 2496,
+        "won": 2497,
         "lost": 2340,
         "forfeited": 541
     },
@@ -1741,11 +1741,11 @@
         },
         "pb": 468892,
         "streak": 11,
-        "matches": 1479,
-        "playtime": 895736321,
+        "matches": 1480,
+        "playtime": 896190294,
         "finished": 556,
         "finishtime": 390347843,
-        "won": 756,
+        "won": 757,
         "lost": 687,
         "forfeited": 196
     },
@@ -2382,13 +2382,13 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1672,
-        "playtime": 1041605647,
+        "matches": 1673,
+        "playtime": 1042059620,
         "finished": 672,
         "finishtime": 465787620,
         "won": 922,
-        "lost": 682,
-        "forfeited": 139
+        "lost": 683,
+        "forfeited": 140
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
         "nickname": "Mar1n",
@@ -2695,31 +2695,6 @@
         "won": 2152,
         "lost": 1980,
         "forfeited": 730
-    },
-    "9a61b87c6a16403da56541258e74ed3e": {
-        "nickname": "Blad_d",
-        "country": "de",
-        "top": {
-            "4": 935,
-            "5": 1617,
-            "6": 1877,
-            "7": 1945
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 45,
-            "7": 35
-        },
-        "pb": 437362,
-        "streak": 13,
-        "matches": 3208,
-        "playtime": 1986693333,
-        "finished": 967,
-        "finishtime": 728727600,
-        "won": 1573,
-        "lost": 1479,
-        "forfeited": 687
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
