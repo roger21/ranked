@@ -1604,37 +1604,6 @@
         "lost": 334,
         "forfeited": 68
     },
-    "5a32f1e5609847c691c07730f973397c": {
-        "nickname": "DARVY__X1",
-        "country": "vg",
-        "top": {
-            "1": 1468,
-            "2": 1556,
-            "3": 1574,
-            "4": 1578,
-            "5": 1717,
-            "6": 1783,
-            "7": 1977
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 25,
-            "6": 25,
-            "7": 40
-        },
-        "pb": 417004,
-        "streak": 13,
-        "matches": 1202,
-        "playtime": 748561519,
-        "finished": 423,
-        "finishtime": 310462377,
-        "won": 629,
-        "lost": 522,
-        "forfeited": 251
-    },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
         "country": "il",
@@ -2056,6 +2025,31 @@
         "won": 2627,
         "lost": 2333,
         "forfeited": 851
+    },
+    "78ea25c3db9a4830ba7e78074bd6fd10": {
+        "nickname": "ELO_TERRORIST227",
+        "country": null,
+        "top": {
+            "4": 1475,
+            "5": 1803,
+            "6": 2153,
+            "7": 1909
+        },
+        "points": {
+            "4": 0,
+            "5": 15,
+            "6": 20,
+            "7": 10
+        },
+        "pb": 422698,
+        "streak": 12,
+        "matches": 4749,
+        "playtime": 2800785739,
+        "finished": 1373,
+        "finishtime": 940852707,
+        "won": 2174,
+        "lost": 2123,
+        "forfeited": 1167
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
@@ -3402,11 +3396,11 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4256,
-        "playtime": 2439188121,
-        "finished": 1796,
-        "finishtime": 1219304672,
-        "won": 2363,
+        "matches": 4257,
+        "playtime": 2439812126,
+        "finished": 1797,
+        "finishtime": 1219928677,
+        "won": 2364,
         "lost": 1736,
         "forfeited": 1025
     },
