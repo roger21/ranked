@@ -494,33 +494,6 @@
         "lost": 134,
         "forfeited": 18
     },
-    "1f88c82f9cc84c9885a5d38dd531f4c6": {
-        "nickname": "RRed",
-        "country": "us",
-        "top": {
-            "3": 1693,
-            "4": 1732,
-            "5": 1660,
-            "6": 1662,
-            "7": 1871
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 0,
-            "7": 0
-        },
-        "pb": 469453,
-        "streak": 9,
-        "matches": 1877,
-        "playtime": 1289822116,
-        "finished": 583,
-        "finishtime": 483328161,
-        "won": 949,
-        "lost": 840,
-        "forfeited": 198
-    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -761,11 +734,11 @@
         },
         "pb": 536591,
         "streak": 11,
-        "matches": 5020,
-        "playtime": 3730430794,
-        "finished": 1696,
-        "finishtime": 1448155128,
-        "won": 2569,
+        "matches": 5021,
+        "playtime": 3731278088,
+        "finished": 1697,
+        "finishtime": 1449002422,
+        "won": 2570,
         "lost": 2315,
         "forfeited": 237
     },
@@ -2959,11 +2932,11 @@
         },
         "pb": 440964,
         "streak": 18,
-        "matches": 1517,
-        "playtime": 909846765,
-        "finished": 771,
-        "finishtime": 491710166,
-        "won": 978,
+        "matches": 1518,
+        "playtime": 910370188,
+        "finished": 772,
+        "finishtime": 492233589,
+        "won": 979,
         "lost": 515,
         "forfeited": 35
     },
@@ -3774,12 +3747,12 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8631,
-        "playtime": 5651014646,
+        "matches": 8632,
+        "playtime": 5651861940,
         "finished": 2988,
         "finishtime": 2250342723,
         "won": 4214,
-        "lost": 3952,
+        "lost": 3953,
         "forfeited": 968
     },
     "e43dad544b244da9b690a12fdc8626dc": {
