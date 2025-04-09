@@ -517,13 +517,13 @@
         },
         "pb": 409025,
         "streak": 17,
-        "matches": 5252,
-        "playtime": 3331580631,
+        "matches": 5253,
+        "playtime": 3332139166,
         "finished": 1879,
         "finishtime": 1352162316,
         "won": 2598,
-        "lost": 2424,
-        "forfeited": 567
+        "lost": 2425,
+        "forfeited": 568
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
@@ -2892,7 +2892,7 @@
             "4": 1602,
             "5": 1450,
             "6": 1608,
-            "7": 2125
+            "7": 2143
         },
         "points": {
             "1": 0,
@@ -2905,11 +2905,11 @@
         },
         "pb": 461458,
         "streak": 12,
-        "matches": 939,
-        "playtime": 562592659,
+        "matches": 940,
+        "playtime": 563151194,
         "finished": 397,
         "finishtime": 275912603,
-        "won": 529,
+        "won": 530,
         "lost": 386,
         "forfeited": 149
     },
