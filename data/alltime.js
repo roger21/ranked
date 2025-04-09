@@ -3143,7 +3143,7 @@
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "GiratinaEX",
-        "country": null,
+        "country": "de",
         "top": {
             "1": 1520,
             "2": 1684,
