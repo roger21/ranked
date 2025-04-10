@@ -2084,31 +2084,6 @@
         "lost": 2340,
         "forfeited": 851
     },
-    "78ea25c3db9a4830ba7e78074bd6fd10": {
-        "nickname": "ELO_TERRORIST227",
-        "country": null,
-        "top": {
-            "4": 1475,
-            "5": 1803,
-            "6": 2153,
-            "7": 1943
-        },
-        "points": {
-            "4": 0,
-            "5": 15,
-            "6": 20,
-            "7": 10
-        },
-        "pb": 422698,
-        "streak": 12,
-        "matches": 4771,
-        "playtime": 2813784436,
-        "finished": 1383,
-        "finishtime": 946362136,
-        "won": 2184,
-        "lost": 2135,
-        "forfeited": 1168
-    },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
         "country": "hk",
@@ -2440,12 +2415,12 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1681,
-        "playtime": 1047180258,
+        "matches": 1682,
+        "playtime": 1047882763,
         "finished": 675,
         "finishtime": 468360924,
         "won": 925,
-        "lost": 688,
+        "lost": 689,
         "forfeited": 143
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
@@ -2622,11 +2597,11 @@
         },
         "pb": 485311,
         "streak": 8,
-        "matches": 1922,
-        "playtime": 1290392778,
-        "finished": 703,
-        "finishtime": 518912286,
-        "won": 978,
+        "matches": 1923,
+        "playtime": 1290947473,
+        "finished": 704,
+        "finishtime": 519466981,
+        "won": 979,
         "lost": 862,
         "forfeited": 67
     },
