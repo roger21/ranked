@@ -1641,7 +1641,7 @@
             "4": 1578,
             "5": 1717,
             "6": 1783,
-            "7": 1992
+            "7": 1995
         },
         "points": {
             "1": 0,
@@ -1654,11 +1654,11 @@
         },
         "pb": 412650,
         "streak": 13,
-        "matches": 1222,
-        "playtime": 759942463,
-        "finished": 433,
-        "finishtime": 316729277,
-        "won": 641,
+        "matches": 1223,
+        "playtime": 760595518,
+        "finished": 434,
+        "finishtime": 317382332,
+        "won": 642,
         "lost": 530,
         "forfeited": 252
     },
@@ -1716,13 +1716,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7437,
-        "playtime": 4751305349,
+        "matches": 7438,
+        "playtime": 4751492738,
         "finished": 2618,
         "finishtime": 2014157303,
         "won": 3685,
-        "lost": 3508,
-        "forfeited": 1271
+        "lost": 3509,
+        "forfeited": 1272
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
@@ -2084,6 +2084,31 @@
         "lost": 2340,
         "forfeited": 851
     },
+    "78ea25c3db9a4830ba7e78074bd6fd10": {
+        "nickname": "ELO_TERRORIST227",
+        "country": null,
+        "top": {
+            "4": 1475,
+            "5": 1803,
+            "6": 2153,
+            "7": 1943
+        },
+        "points": {
+            "4": 0,
+            "5": 15,
+            "6": 20,
+            "7": 10
+        },
+        "pb": 422698,
+        "streak": 12,
+        "matches": 4771,
+        "playtime": 2813784436,
+        "finished": 1383,
+        "finishtime": 946362136,
+        "won": 2184,
+        "lost": 2135,
+        "forfeited": 1168
+    },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
         "country": "hk",
@@ -2415,12 +2440,12 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1687,
-        "playtime": 1050739851,
+        "matches": 1688,
+        "playtime": 1051392906,
         "finished": 676,
         "finishtime": 468810810,
         "won": 926,
-        "lost": 693,
+        "lost": 694,
         "forfeited": 143
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
@@ -2477,11 +2502,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8240,
-        "playtime": 5352687015,
+        "matches": 8241,
+        "playtime": 5353123508,
         "finished": 2683,
         "finishtime": 2202215993,
-        "won": 4189,
+        "won": 4190,
         "lost": 3875,
         "forfeited": 1974
     },
@@ -2586,7 +2611,7 @@
             "4": 1713,
             "5": 1813,
             "6": 1952,
-            "7": 1920
+            "7": 1928
         },
         "points": {
             "3": 0,
@@ -2597,11 +2622,11 @@
         },
         "pb": 485311,
         "streak": 8,
-        "matches": 1928,
-        "playtime": 1294139050,
+        "matches": 1929,
+        "playtime": 1294590409,
         "finished": 707,
         "finishtime": 521381219,
-        "won": 982,
+        "won": 983,
         "lost": 864,
         "forfeited": 67
     },
@@ -3780,13 +3805,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8635,
-        "playtime": 5653786307,
+        "matches": 8637,
+        "playtime": 5654602661,
         "finished": 2990,
         "finishtime": 2251773839,
         "won": 4216,
-        "lost": 3953,
-        "forfeited": 968
+        "lost": 3955,
+        "forfeited": 970
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
