@@ -2101,13 +2101,13 @@
         },
         "pb": 422698,
         "streak": 12,
-        "matches": 4770,
-        "playtime": 2813544131,
+        "matches": 4771,
+        "playtime": 2813784436,
         "finished": 1383,
         "finishtime": 946362136,
         "won": 2184,
-        "lost": 2134,
-        "forfeited": 1167
+        "lost": 2135,
+        "forfeited": 1168
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
