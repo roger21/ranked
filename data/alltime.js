@@ -1654,13 +1654,13 @@
         },
         "pb": 412650,
         "streak": 13,
-        "matches": 1214,
-        "playtime": 755641539,
+        "matches": 1215,
+        "playtime": 755903993,
         "finished": 429,
         "finishtime": 314161835,
         "won": 636,
-        "lost": 527,
-        "forfeited": 251
+        "lost": 528,
+        "forfeited": 252
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
@@ -2132,11 +2132,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 2982,
-        "playtime": 1830218887,
+        "matches": 2983,
+        "playtime": 1830857754,
         "finished": 1361,
         "finishtime": 909503975,
-        "won": 1830,
+        "won": 1831,
         "lost": 1083,
         "forfeited": 269
     },
@@ -3346,13 +3346,13 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4296,
-        "playtime": 2461252037,
+        "matches": 4298,
+        "playtime": 2462153358,
         "finished": 1814,
         "finishtime": 1231476723,
-        "won": 2384,
-        "lost": 1755,
-        "forfeited": 1035
+        "won": 2385,
+        "lost": 1756,
+        "forfeited": 1036
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
@@ -3654,12 +3654,12 @@
         },
         "pb": 479146,
         "streak": 11,
-        "matches": 2700,
-        "playtime": 1783276530,
+        "matches": 2701,
+        "playtime": 1783974778,
         "finished": 959,
         "finishtime": 755152719,
         "won": 1388,
-        "lost": 1227,
+        "lost": 1228,
         "forfeited": 363
     },
     "d7d0b271136647fea7398a444ab51c13": {
@@ -4070,11 +4070,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5257,
-        "playtime": 3500951687,
+        "matches": 5258,
+        "playtime": 3501155424,
         "finished": 1698,
         "finishtime": 1337326737,
-        "won": 2614,
+        "won": 2615,
         "lost": 2445,
         "forfeited": 689
     }
