@@ -1036,11 +1036,11 @@
         },
         "pb": 422335,
         "streak": 17,
-        "matches": 9512,
-        "playtime": 5859284759,
+        "matches": 9513,
+        "playtime": 5859611135,
         "finished": 3914,
         "finishtime": 2713769154,
-        "won": 5139,
+        "won": 5140,
         "lost": 4177,
         "forfeited": 1317
     },
@@ -3137,13 +3137,13 @@
         },
         "pb": 468498,
         "streak": 9,
-        "matches": 2443,
-        "playtime": 1682052033,
+        "matches": 2444,
+        "playtime": 1682763356,
         "finished": 774,
         "finishtime": 645063556,
         "won": 1269,
-        "lost": 1073,
-        "forfeited": 364
+        "lost": 1074,
+        "forfeited": 365
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
@@ -3315,13 +3315,13 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4313,
-        "playtime": 2470401648,
+        "matches": 4314,
+        "playtime": 2470728024,
         "finished": 1821,
         "finishtime": 1235729225,
         "won": 2393,
-        "lost": 1763,
-        "forfeited": 1039
+        "lost": 1764,
+        "forfeited": 1040
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
@@ -3623,12 +3623,12 @@
         },
         "pb": 479146,
         "streak": 11,
-        "matches": 2710,
-        "playtime": 1789915535,
+        "matches": 2711,
+        "playtime": 1790424657,
         "finished": 964,
         "finishtime": 758497668,
         "won": 1393,
-        "lost": 1232,
+        "lost": 1233,
         "forfeited": 363
     },
     "d7d0b271136647fea7398a444ab51c13": {
