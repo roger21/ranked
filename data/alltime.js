@@ -22,13 +22,13 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3614,
-        "playtime": 2319225518,
+        "matches": 3615,
+        "playtime": 2319449169,
         "finished": 1317,
         "finishtime": 973344723,
         "won": 1827,
-        "lost": 1706,
-        "forfeited": 448
+        "lost": 1707,
+        "forfeited": 449
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
@@ -430,12 +430,12 @@
         },
         "pb": 436863,
         "streak": 23,
-        "matches": 2230,
-        "playtime": 1392486559,
+        "matches": 2231,
+        "playtime": 1393105611,
         "finished": 1073,
         "finishtime": 717038359,
         "won": 1399,
-        "lost": 767,
+        "lost": 768,
         "forfeited": 60
     },
     "182a4a03fae54aa7aed4de1cf1f93d2b": {
@@ -531,7 +531,7 @@
             "4": 2082,
             "5": 1994,
             "6": 2080,
-            "7": 2139
+            "7": 2160
         },
         "points": {
             "1": 0,
@@ -544,11 +544,11 @@
         },
         "pb": 409025,
         "streak": 17,
-        "matches": 5281,
-        "playtime": 3347621211,
-        "finished": 1891,
-        "finishtime": 1359849862,
-        "won": 2612,
+        "matches": 5282,
+        "playtime": 3348240263,
+        "finished": 1892,
+        "finishtime": 1360468914,
+        "won": 2613,
         "lost": 2438,
         "forfeited": 571
     },
@@ -3993,13 +3993,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 1950,
-        "playtime": 1322600102,
+        "matches": 1951,
+        "playtime": 1322914035,
         "finished": 717,
         "finishtime": 584967519,
         "won": 1073,
-        "lost": 847,
-        "forfeited": 318
+        "lost": 848,
+        "forfeited": 319
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
