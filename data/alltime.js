@@ -790,12 +790,12 @@
         },
         "pb": 439961,
         "streak": 11,
-        "matches": 3406,
-        "playtime": 2026352936,
+        "matches": 3407,
+        "playtime": 2026898970,
         "finished": 1273,
         "finishtime": 865749208,
         "won": 1710,
-        "lost": 1505,
+        "lost": 1506,
         "forfeited": 572
     },
     "2f59967f6a7841ab840e2cb032589a04": {
@@ -869,7 +869,7 @@
             "4": 1693,
             "5": 1899,
             "6": 2042,
-            "7": 1861
+            "7": 1881
         },
         "points": {
             "1": 0,
@@ -881,11 +881,11 @@
         },
         "pb": 490381,
         "streak": 9,
-        "matches": 1498,
-        "playtime": 1044406980,
-        "finished": 512,
-        "finishtime": 404896427,
-        "won": 777,
+        "matches": 1499,
+        "playtime": 1045228515,
+        "finished": 513,
+        "finishtime": 405717962,
+        "won": 778,
         "lost": 668,
         "forfeited": 62
     },
@@ -1685,12 +1685,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 4620,
-        "playtime": 2979022257,
+        "matches": 4621,
+        "playtime": 2979539028,
         "finished": 1742,
         "finishtime": 1282589459,
         "won": 2395,
-        "lost": 2126,
+        "lost": 2127,
         "forfeited": 639
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -2045,11 +2045,11 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5430,
-        "playtime": 3476691044,
-        "finished": 2804,
-        "finishtime": 1891036664,
-        "won": 3570,
+        "matches": 5431,
+        "playtime": 3477207815,
+        "finished": 2805,
+        "finishtime": 1891553435,
+        "won": 3571,
         "lost": 1707,
         "forfeited": 181
     },
@@ -2083,6 +2083,31 @@
         "won": 2636,
         "lost": 2340,
         "forfeited": 851
+    },
+    "78ea25c3db9a4830ba7e78074bd6fd10": {
+        "nickname": "ELO_TERRORIST227",
+        "country": null,
+        "top": {
+            "4": 1475,
+            "5": 1803,
+            "6": 2153,
+            "7": 1943
+        },
+        "points": {
+            "4": 0,
+            "5": 15,
+            "6": 20,
+            "7": 10
+        },
+        "pb": 422698,
+        "streak": 12,
+        "matches": 4771,
+        "playtime": 2813784436,
+        "finished": 1383,
+        "finishtime": 946362136,
+        "won": 2184,
+        "lost": 2135,
+        "forfeited": 1168
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
@@ -2965,11 +2990,11 @@
         },
         "pb": 440964,
         "streak": 18,
-        "matches": 1535,
-        "playtime": 920409950,
-        "finished": 784,
-        "finishtime": 499496784,
-        "won": 993,
+        "matches": 1536,
+        "playtime": 920955984,
+        "finished": 785,
+        "finishtime": 500042818,
+        "won": 994,
         "lost": 518,
         "forfeited": 35
     },
@@ -3094,31 +3119,6 @@
         "won": 1721,
         "lost": 1598,
         "forfeited": 283
-    },
-    "addd890764404097b3f12acdde2adf33": {
-        "nickname": "Hypn0tic2030",
-        "country": "us",
-        "top": {
-            "4": 1533,
-            "5": 1697,
-            "6": 1935,
-            "7": 1909
-        },
-        "points": {
-            "4": 0,
-            "5": 35,
-            "6": 65,
-            "7": 25
-        },
-        "pb": 466241,
-        "streak": 11,
-        "matches": 2142,
-        "playtime": 1384026398,
-        "finished": 670,
-        "finishtime": 521363250,
-        "won": 1072,
-        "lost": 979,
-        "forfeited": 348
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -3780,12 +3780,12 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8646,
-        "playtime": 5659844573,
+        "matches": 8647,
+        "playtime": 5660492169,
         "finished": 2992,
         "finishtime": 2253122381,
         "won": 4219,
-        "lost": 3961,
+        "lost": 3962,
         "forfeited": 972
     },
     "e43dad544b244da9b690a12fdc8626dc": {
