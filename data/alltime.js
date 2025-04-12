@@ -1627,12 +1627,12 @@
         },
         "pb": 412650,
         "streak": 13,
-        "matches": 1226,
-        "playtime": 762411930,
+        "matches": 1227,
+        "playtime": 762955403,
         "finished": 435,
         "finishtime": 318087377,
         "won": 643,
-        "lost": 532,
+        "lost": 533,
         "forfeited": 252
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
@@ -3546,12 +3546,12 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3343,
-        "playtime": 2403718026,
+        "matches": 3344,
+        "playtime": 2404447803,
         "finished": 1035,
         "finishtime": 853148595,
         "won": 1665,
-        "lost": 1554,
+        "lost": 1555,
         "forfeited": 219
     },
     "d0acbca0d50e4824bc38a44395cce096": {
@@ -3972,13 +3972,13 @@
         },
         "pb": 433890,
         "streak": 16,
-        "matches": 5549,
-        "playtime": 3338077990,
+        "matches": 5550,
+        "playtime": 3338427315,
         "finished": 1739,
         "finishtime": 1393121352,
         "won": 2770,
-        "lost": 2555,
-        "forfeited": 1424
+        "lost": 2556,
+        "forfeited": 1425
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
