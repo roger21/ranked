@@ -1490,7 +1490,7 @@
             "4": 1867,
             "5": 2142,
             "6": 2177,
-            "7": 1992
+            "7": 2004
         },
         "points": {
             "1": 0,
@@ -1503,11 +1503,11 @@
         },
         "pb": 449909,
         "streak": 11,
-        "matches": 2837,
-        "playtime": 1891691036,
-        "finished": 1110,
-        "finishtime": 837013706,
-        "won": 1522,
+        "matches": 2839,
+        "playtime": 1892582566,
+        "finished": 1111,
+        "finishtime": 837568765,
+        "won": 1524,
         "lost": 1249,
         "forfeited": 275
     },
@@ -1741,11 +1741,11 @@
         },
         "pb": 468892,
         "streak": 11,
-        "matches": 1550,
-        "playtime": 932928619,
+        "matches": 1551,
+        "playtime": 933446607,
         "finished": 584,
         "finishtime": 407588856,
-        "won": 794,
+        "won": 795,
         "lost": 719,
         "forfeited": 206
     },
@@ -3257,7 +3257,7 @@
             "4": 1865,
             "5": 1966,
             "6": 2178,
-            "7": 2212
+            "7": 2220
         },
         "points": {
             "4": 0,
@@ -3267,11 +3267,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 5985,
-        "playtime": 3489431780,
-        "finished": 2171,
-        "finishtime": 1514488214,
-        "won": 3013,
+        "matches": 5986,
+        "playtime": 3489968094,
+        "finished": 2172,
+        "finishtime": 1515024528,
+        "won": 3014,
         "lost": 2777,
         "forfeited": 1245
     },
@@ -3329,13 +3329,13 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4330,
-        "playtime": 2479455256,
+        "matches": 4332,
+        "playtime": 2480309715,
         "finished": 1828,
         "finishtime": 1239948069,
         "won": 2402,
-        "lost": 1771,
-        "forfeited": 1043
+        "lost": 1773,
+        "forfeited": 1045
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
