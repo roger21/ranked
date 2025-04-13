@@ -721,7 +721,7 @@
             "4": 1588,
             "5": 1784,
             "6": 1837,
-            "7": 1761
+            "7": 1779
         },
         "points": {
             "1": 0,
@@ -734,11 +734,11 @@
         },
         "pb": 536591,
         "streak": 11,
-        "matches": 5098,
-        "playtime": 3780997143,
-        "finished": 1714,
-        "finishtime": 1462097414,
-        "won": 2607,
+        "matches": 5099,
+        "playtime": 3781783684,
+        "finished": 1715,
+        "finishtime": 1462883955,
+        "won": 2608,
         "lost": 2348,
         "forfeited": 238
     },
@@ -1410,13 +1410,13 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2461,
-        "playtime": 1491284595,
+        "matches": 2462,
+        "playtime": 1491829488,
         "finished": 803,
         "finishtime": 617814867,
         "won": 1214,
-        "lost": 1039,
-        "forfeited": 436
+        "lost": 1040,
+        "forfeited": 437
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
@@ -1441,12 +1441,12 @@
         },
         "pb": 502741,
         "streak": 10,
-        "matches": 1385,
-        "playtime": 935370018,
+        "matches": 1386,
+        "playtime": 935937534,
         "finished": 474,
         "finishtime": 365302584,
         "won": 733,
-        "lost": 601,
+        "lost": 602,
         "forfeited": 104
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
