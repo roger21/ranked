@@ -2865,7 +2865,7 @@
             "4": 1511,
             "5": 1660,
             "6": 1788,
-            "7": 2046
+            "7": 2057
         },
         "points": {
             "1": 0,
@@ -2878,11 +2878,11 @@
         },
         "pb": 485533,
         "streak": 12,
-        "matches": 874,
-        "playtime": 618904728,
-        "finished": 300,
-        "finishtime": 249593371,
-        "won": 484,
+        "matches": 875,
+        "playtime": 619551632,
+        "finished": 301,
+        "finishtime": 250240275,
+        "won": 485,
         "lost": 351,
         "forfeited": 79
     },
@@ -3176,13 +3176,13 @@
         },
         "pb": 468498,
         "streak": 9,
-        "matches": 2461,
-        "playtime": 1692595298,
+        "matches": 2462,
+        "playtime": 1692879192,
         "finished": 781,
         "finishtime": 650245859,
         "won": 1278,
-        "lost": 1082,
-        "forfeited": 370
+        "lost": 1083,
+        "forfeited": 371
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
