@@ -1348,13 +1348,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4583,
-        "playtime": 2739409768,
+        "matches": 4584,
+        "playtime": 2739872340,
         "finished": 1526,
         "finishtime": 1132120418,
         "won": 2351,
-        "lost": 2069,
-        "forfeited": 1233
+        "lost": 2070,
+        "forfeited": 1234
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -1596,13 +1596,13 @@
         },
         "pb": 508568,
         "streak": 19,
-        "matches": 705,
-        "playtime": 463828040,
+        "matches": 706,
+        "playtime": 464399685,
         "finished": 270,
         "finishtime": 207986827,
         "won": 426,
-        "lost": 260,
-        "forfeited": 68
+        "lost": 261,
+        "forfeited": 69
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
@@ -2266,8 +2266,8 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2440,
-        "playtime": 1668479806,
+        "matches": 2441,
+        "playtime": 1669667777,
         "finished": 670,
         "finishtime": 580432473,
         "won": 1201,
@@ -3902,13 +3902,13 @@
         },
         "pb": 468438,
         "streak": 9,
-        "matches": 4324,
-        "playtime": 2382574520,
+        "matches": 4326,
+        "playtime": 2382950810,
         "finished": 1544,
         "finishtime": 1052770312,
         "won": 2198,
-        "lost": 2018,
-        "forfeited": 1324
+        "lost": 2020,
+        "forfeited": 1326
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
