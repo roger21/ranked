@@ -494,33 +494,6 @@
         "lost": 134,
         "forfeited": 18
     },
-    "1f88c82f9cc84c9885a5d38dd531f4c6": {
-        "nickname": "RRed",
-        "country": "us",
-        "top": {
-            "3": 1693,
-            "4": 1732,
-            "5": 1660,
-            "6": 1662,
-            "7": 1879
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 0,
-            "7": 0
-        },
-        "pb": 469453,
-        "streak": 9,
-        "matches": 1891,
-        "playtime": 1298156524,
-        "finished": 589,
-        "finishtime": 487509465,
-        "won": 957,
-        "lost": 846,
-        "forfeited": 199
-    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -1930,6 +1903,37 @@
         "won": 3745,
         "lost": 2236,
         "forfeited": 1053
+    },
+    "728fdcab24b249b686c081a7fc53176e": {
+        "nickname": "ContraVz",
+        "country": "ie",
+        "top": {
+            "1": 1384,
+            "2": 1254,
+            "3": 1166,
+            "4": 1718,
+            "5": 1755,
+            "6": 2045,
+            "7": 1958
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 20,
+            "5": 25,
+            "6": 55,
+            "7": 45
+        },
+        "pb": 439581,
+        "streak": 12,
+        "matches": 4045,
+        "playtime": 2426938192,
+        "finished": 1351,
+        "finishtime": 1009274099,
+        "won": 1990,
+        "lost": 1881,
+        "forfeited": 1124
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
