@@ -1133,11 +1133,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6422,
-        "playtime": 4180453353,
+        "matches": 6423,
+        "playtime": 4180863964,
         "finished": 2178,
         "finishtime": 1668734031,
-        "won": 3169,
+        "won": 3170,
         "lost": 3012,
         "forfeited": 1086
     },
@@ -1665,37 +1665,6 @@
         "won": 452,
         "lost": 334,
         "forfeited": 68
-    },
-    "5a32f1e5609847c691c07730f973397c": {
-        "nickname": "DARVY__X1",
-        "country": "vg",
-        "top": {
-            "1": 1468,
-            "2": 1556,
-            "3": 1574,
-            "4": 1578,
-            "5": 1717,
-            "6": 1783,
-            "7": 2010
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 25,
-            "6": 25,
-            "7": 40
-        },
-        "pb": 412650,
-        "streak": 13,
-        "matches": 1242,
-        "playtime": 770379268,
-        "finished": 438,
-        "finishtime": 320028378,
-        "won": 648,
-        "lost": 543,
-        "forfeited": 256
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
@@ -3238,12 +3207,12 @@
         },
         "pb": 468498,
         "streak": 9,
-        "matches": 2480,
-        "playtime": 1704696539,
+        "matches": 2481,
+        "playtime": 1705373161,
         "finished": 789,
         "finishtime": 655787148,
         "won": 1286,
-        "lost": 1092,
+        "lost": 1093,
         "forfeited": 373
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
