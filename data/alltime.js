@@ -2409,12 +2409,12 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1410,
-        "playtime": 898258130,
+        "matches": 1411,
+        "playtime": 899008022,
         "finished": 504,
         "finishtime": 386532439,
         "won": 767,
-        "lost": 572,
+        "lost": 573,
         "forfeited": 205
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
@@ -2713,11 +2713,11 @@
         },
         "pb": 406737,
         "streak": 14,
-        "matches": 4283,
-        "playtime": 2741319017,
+        "matches": 4284,
+        "playtime": 2741715539,
         "finished": 1576,
         "finishtime": 1143745112,
-        "won": 2165,
+        "won": 2166,
         "lost": 1995,
         "forfeited": 549
     },
@@ -2837,11 +2837,11 @@
         },
         "pb": 504184,
         "streak": 18,
-        "matches": 3020,
-        "playtime": 1984993923,
-        "finished": 959,
-        "finishtime": 773023999,
-        "won": 1568,
+        "matches": 3022,
+        "playtime": 1985950956,
+        "finished": 960,
+        "finishtime": 773755727,
+        "won": 1570,
         "lost": 1363,
         "forfeited": 637
     },
@@ -3658,13 +3658,13 @@
         },
         "pb": 559313,
         "streak": 11,
-        "matches": 2145,
-        "playtime": 1641905248,
+        "matches": 2146,
+        "playtime": 1642226099,
         "finished": 490,
         "finishtime": 510056933,
         "won": 1061,
-        "lost": 986,
-        "forfeited": 456
+        "lost": 987,
+        "forfeited": 457
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
@@ -3767,7 +3767,7 @@
             "4": 1830,
             "5": 1731,
             "6": 0,
-            "7": 1490
+            "7": 1509
         },
         "points": {
             "1": 0,
@@ -3780,13 +3780,13 @@
         },
         "pb": 519860,
         "streak": 12,
-        "matches": 209,
-        "playtime": 128781349,
+        "matches": 211,
+        "playtime": 129489547,
         "finished": 103,
         "finishtime": 74948856,
-        "won": 150,
-        "lost": 55,
-        "forfeited": 33
+        "won": 151,
+        "lost": 56,
+        "forfeited": 34
     },
     "da5e15a7d3c04a84b432defd5a15c910": {
         "nickname": "xx_Rms_xxGamr158",
