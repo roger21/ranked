@@ -90,6 +90,27 @@
         "lost": 542,
         "forfeited": 170
     },
+    "0771b6d3405c474ea63aba593ed1c9fa": {
+        "nickname": "hyphenangel",
+        "country": "ca",
+        "top": {
+            "6": 1581,
+            "7": 1932
+        },
+        "points": {
+            "6": 0,
+            "7": 20
+        },
+        "pb": 455049,
+        "streak": 14,
+        "matches": 1394,
+        "playtime": 922971640,
+        "finished": 388,
+        "finishtime": 318283963,
+        "won": 694,
+        "lost": 632,
+        "forfeited": 297
+    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -262,11 +283,11 @@
         },
         "pb": 440493,
         "streak": 14,
-        "matches": 2968,
-        "playtime": 1804831073,
-        "finished": 1277,
-        "finishtime": 866170387,
-        "won": 1599,
+        "matches": 2969,
+        "playtime": 1805384551,
+        "finished": 1278,
+        "finishtime": 866723865,
+        "won": 1600,
         "lost": 1287,
         "forfeited": 392
     },
@@ -848,7 +869,7 @@
             "4": 1693,
             "5": 1899,
             "6": 2042,
-            "7": 1936
+            "7": 1947
         },
         "points": {
             "1": 0,
@@ -860,11 +881,11 @@
         },
         "pb": 490381,
         "streak": 9,
-        "matches": 1505,
-        "playtime": 1049385454,
+        "matches": 1506,
+        "playtime": 1049651851,
         "finished": 517,
         "finishtime": 408688392,
-        "won": 782,
+        "won": 783,
         "lost": 670,
         "forfeited": 62
     },
@@ -953,11 +974,11 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11431,
-        "playtime": 7485083807,
-        "finished": 4715,
-        "finishtime": 3385803907,
-        "won": 6346,
+        "matches": 11432,
+        "playtime": 7485688071,
+        "finished": 4716,
+        "finishtime": 3386408171,
+        "won": 6347,
         "lost": 4872,
         "forfeited": 687
     },
@@ -1139,13 +1160,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6491,
-        "playtime": 4218799808,
+        "matches": 6492,
+        "playtime": 4219066205,
         "finished": 2202,
         "finishtime": 1684214544,
         "won": 3207,
-        "lost": 3043,
-        "forfeited": 1095
+        "lost": 3044,
+        "forfeited": 1096
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -2376,12 +2397,12 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 3039,
-        "playtime": 1950259637,
+        "matches": 3040,
+        "playtime": 1951011956,
         "finished": 946,
         "finishtime": 751478607,
         "won": 1558,
-        "lost": 1385,
+        "lost": 1386,
         "forfeited": 726
     },
     "879c8136d42c4222b42f1c090616fa5e": {
@@ -2407,12 +2428,12 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1420,
-        "playtime": 904660851,
+        "matches": 1421,
+        "playtime": 905285538,
         "finished": 508,
         "finishtime": 389224073,
         "won": 772,
-        "lost": 576,
+        "lost": 577,
         "forfeited": 205
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
@@ -2649,12 +2670,12 @@
         },
         "pb": 485311,
         "streak": 8,
-        "matches": 1967,
-        "playtime": 1318211545,
+        "matches": 1968,
+        "playtime": 1318765023,
         "finished": 720,
         "finishtime": 530783635,
         "won": 1000,
-        "lost": 884,
+        "lost": 885,
         "forfeited": 67
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
@@ -3654,12 +3675,12 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3375,
-        "playtime": 2422849084,
+        "matches": 3376,
+        "playtime": 2423453348,
         "finished": 1043,
         "finishtime": 858436861,
         "won": 1677,
-        "lost": 1574,
+        "lost": 1575,
         "forfeited": 219
     },
     "d0acbca0d50e4824bc38a44395cce096": {
