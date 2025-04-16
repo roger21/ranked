@@ -90,27 +90,6 @@
         "lost": 542,
         "forfeited": 170
     },
-    "0771b6d3405c474ea63aba593ed1c9fa": {
-        "nickname": "hyphenangel",
-        "country": "ca",
-        "top": {
-            "6": 1581,
-            "7": 1932
-        },
-        "points": {
-            "6": 0,
-            "7": 20
-        },
-        "pb": 455049,
-        "streak": 14,
-        "matches": 1394,
-        "playtime": 922971640,
-        "finished": 388,
-        "finishtime": 318283963,
-        "won": 694,
-        "lost": 632,
-        "forfeited": 297
-    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -974,12 +953,12 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11430,
-        "playtime": 7484441874,
+        "matches": 11431,
+        "playtime": 7485083807,
         "finished": 4715,
         "finishtime": 3385803907,
         "won": 6346,
-        "lost": 4871,
+        "lost": 4872,
         "forfeited": 687
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1036,11 +1015,11 @@
         },
         "pb": 402177,
         "streak": 17,
-        "matches": 9625,
-        "playtime": 5924117590,
-        "finished": 3972,
-        "finishtime": 2748776458,
-        "won": 5210,
+        "matches": 9626,
+        "playtime": 5924759523,
+        "finished": 3973,
+        "finishtime": 2749418391,
+        "won": 5211,
         "lost": 4217,
         "forfeited": 1318
     },
@@ -2732,11 +2711,11 @@
         },
         "pb": 406737,
         "streak": 14,
-        "matches": 4311,
-        "playtime": 2758672200,
+        "matches": 4312,
+        "playtime": 2759204934,
         "finished": 1590,
         "finishtime": 1153505837,
-        "won": 2186,
+        "won": 2187,
         "lost": 2001,
         "forfeited": 550
     },
@@ -3675,12 +3654,12 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3374,
-        "playtime": 2422260628,
+        "matches": 3375,
+        "playtime": 2422849084,
         "finished": 1043,
         "finishtime": 858436861,
         "won": 1677,
-        "lost": 1573,
+        "lost": 1574,
         "forfeited": 219
     },
     "d0acbca0d50e4824bc38a44395cce096": {
