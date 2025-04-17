@@ -90,27 +90,6 @@
         "lost": 542,
         "forfeited": 170
     },
-    "0771b6d3405c474ea63aba593ed1c9fa": {
-        "nickname": "hyphenangel",
-        "country": "ca",
-        "top": {
-            "6": 1581,
-            "7": 1932
-        },
-        "points": {
-            "6": 0,
-            "7": 20
-        },
-        "pb": 455049,
-        "streak": 14,
-        "matches": 1397,
-        "playtime": 924217849,
-        "finished": 389,
-        "finishtime": 318892129,
-        "won": 696,
-        "lost": 633,
-        "forfeited": 297
-    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
