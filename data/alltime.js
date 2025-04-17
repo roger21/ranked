@@ -2732,13 +2732,13 @@
         },
         "pb": 406737,
         "streak": 14,
-        "matches": 4323,
-        "playtime": 2766556541,
+        "matches": 4324,
+        "playtime": 2766746605,
         "finished": 1592,
         "finishtime": 1154919476,
         "won": 2191,
-        "lost": 2008,
-        "forfeited": 551
+        "lost": 2009,
+        "forfeited": 552
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfituah",
