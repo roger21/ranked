@@ -860,13 +860,13 @@
         },
         "pb": 490381,
         "streak": 9,
-        "matches": 1514,
-        "playtime": 1054870974,
+        "matches": 1515,
+        "playtime": 1055525765,
         "finished": 520,
         "finishtime": 410726955,
         "won": 786,
-        "lost": 675,
-        "forfeited": 62
+        "lost": 676,
+        "forfeited": 63
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -2084,11 +2084,11 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5527,
-        "playtime": 3530754524,
+        "matches": 5528,
+        "playtime": 3531409315,
         "finished": 2864,
         "finishtime": 1925158997,
-        "won": 3639,
+        "won": 3640,
         "lost": 1734,
         "forfeited": 181
     },
