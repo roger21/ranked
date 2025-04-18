@@ -953,11 +953,11 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11493,
-        "playtime": 7521225888,
+        "matches": 11494,
+        "playtime": 7521410437,
         "finished": 4748,
         "finishtime": 3406163065,
-        "won": 6380,
+        "won": 6381,
         "lost": 4900,
         "forfeited": 691
     },
@@ -2438,12 +2438,12 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1423,
-        "playtime": 906709226,
+        "matches": 1424,
+        "playtime": 907559210,
         "finished": 510,
         "finishtime": 390647761,
         "won": 774,
-        "lost": 577,
+        "lost": 578,
         "forfeited": 205
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
@@ -2804,13 +2804,13 @@
         },
         "pb": 439571,
         "streak": 9,
-        "matches": 4357,
-        "playtime": 2775133334,
+        "matches": 4358,
+        "playtime": 2775317883,
         "finished": 1555,
         "finishtime": 1159385379,
         "won": 2191,
-        "lost": 2021,
-        "forfeited": 749
+        "lost": 2022,
+        "forfeited": 750
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -2866,13 +2866,13 @@
         },
         "pb": 504184,
         "streak": 18,
-        "matches": 3044,
-        "playtime": 1997193272,
+        "matches": 3045,
+        "playtime": 1997750521,
         "finished": 966,
         "finishtime": 777790976,
         "won": 1581,
-        "lost": 1374,
-        "forfeited": 645
+        "lost": 1375,
+        "forfeited": 646
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
         "nickname": "loodlow",
@@ -3739,12 +3739,12 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3422,
-        "playtime": 2453548308,
+        "matches": 3423,
+        "playtime": 2454230961,
         "finished": 1063,
         "finishtime": 872504869,
         "won": 1699,
-        "lost": 1598,
+        "lost": 1599,
         "forfeited": 219
     },
     "d0acbca0d50e4824bc38a44395cce096": {
