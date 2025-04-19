@@ -953,13 +953,13 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11501,
-        "playtime": 7525516719,
+        "matches": 11503,
+        "playtime": 7526475699,
         "finished": 4751,
         "finishtime": 3407900746,
         "won": 6384,
-        "lost": 4903,
-        "forfeited": 691
+        "lost": 4905,
+        "forfeited": 692
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "dwoh",
@@ -1261,11 +1261,11 @@
         },
         "pb": 479650,
         "streak": 12,
-        "matches": 1848,
-        "playtime": 1280088415,
+        "matches": 1849,
+        "playtime": 1280453728,
         "finished": 657,
         "finishtime": 542782122,
-        "won": 985,
+        "won": 986,
         "lost": 805,
         "forfeited": 210
     },
@@ -1416,13 +1416,13 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2512,
-        "playtime": 1517779712,
+        "matches": 2513,
+        "playtime": 1517948501,
         "finished": 816,
         "finishtime": 626082495,
         "won": 1232,
-        "lost": 1070,
-        "forfeited": 457
+        "lost": 1071,
+        "forfeited": 458
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
@@ -2084,11 +2084,11 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5567,
-        "playtime": 3554204701,
+        "matches": 5568,
+        "playtime": 3554567351,
         "finished": 2892,
         "finishtime": 1941448309,
-        "won": 3668,
+        "won": 3669,
         "lost": 1745,
         "forfeited": 181
     },
@@ -3255,13 +3255,13 @@
         },
         "pb": 438785,
         "streak": 9,
-        "matches": 2610,
-        "playtime": 1787708484,
+        "matches": 2612,
+        "playtime": 1788824559,
         "finished": 836,
         "finishtime": 688124351,
         "won": 1350,
-        "lost": 1151,
-        "forfeited": 385
+        "lost": 1153,
+        "forfeited": 386
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
