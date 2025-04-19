@@ -1354,11 +1354,11 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4607,
-        "playtime": 2751441315,
+        "matches": 4608,
+        "playtime": 2751816440,
         "finished": 1529,
         "finishtime": 1134472986,
-        "won": 2358,
+        "won": 2359,
         "lost": 2086,
         "forfeited": 1247
     },
@@ -1416,11 +1416,11 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2492,
-        "playtime": 1508904439,
+        "matches": 2493,
+        "playtime": 1509392641,
         "finished": 813,
         "finishtime": 624490738,
-        "won": 1226,
+        "won": 1227,
         "lost": 1057,
         "forfeited": 447
     },
@@ -2902,35 +2902,6 @@
         "won": 1270,
         "lost": 1140,
         "forfeited": 547
-    },
-    "a00913f1079c4b0c9d68d32f57dfbe73": {
-        "nickname": "sevensix_",
-        "country": "hk",
-        "top": {
-            "1": 1248,
-            "2": 1108,
-            "4": 1637,
-            "5": 1710,
-            "6": 1892,
-            "7": 2028
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 10,
-            "5": 10,
-            "6": 20,
-            "7": 15
-        },
-        "pb": 466425,
-        "streak": 13,
-        "matches": 4478,
-        "playtime": 2701819391,
-        "finished": 1371,
-        "finishtime": 1052283037,
-        "won": 2172,
-        "lost": 2077,
-        "forfeited": 1231
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
