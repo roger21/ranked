@@ -678,12 +678,12 @@
         },
         "pb": 470188,
         "streak": 11,
-        "matches": 2671,
-        "playtime": 1810813651,
+        "matches": 2672,
+        "playtime": 1811473600,
         "finished": 1020,
         "finishtime": 773247399,
         "won": 1412,
-        "lost": 1198,
+        "lost": 1199,
         "forfeited": 156
     },
     "2988fcfbc6b141a497faa915e13b6592": {
@@ -1540,11 +1540,11 @@
         },
         "pb": 449909,
         "streak": 11,
-        "matches": 2931,
-        "playtime": 1947189963,
-        "finished": 1150,
-        "finishtime": 862973805,
-        "won": 1571,
+        "matches": 2932,
+        "playtime": 1947849912,
+        "finished": 1151,
+        "finishtime": 863633754,
+        "won": 1572,
         "lost": 1294,
         "forfeited": 280
     },
@@ -1838,12 +1838,12 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 1936,
-        "playtime": 1247722722,
+        "matches": 1937,
+        "playtime": 1248347022,
         "finished": 621,
         "finishtime": 487485174,
         "won": 990,
-        "lost": 863,
+        "lost": 864,
         "forfeited": 332
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -3719,6 +3719,37 @@
         "won": 1432,
         "lost": 1275,
         "forfeited": 373
+    },
+    "d7d0b271136647fea7398a444ab51c13": {
+        "nickname": "JustAltoid",
+        "country": "us",
+        "top": {
+            "1": 1194,
+            "2": 1108,
+            "3": 1402,
+            "4": 1580,
+            "5": 1713,
+            "6": 1701,
+            "7": 2011
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 0,
+            "7": 40
+        },
+        "pb": 454546,
+        "streak": 14,
+        "matches": 4937,
+        "playtime": 3312729315,
+        "finished": 1476,
+        "finishtime": 1176355823,
+        "won": 2427,
+        "lost": 2272,
+        "forfeited": 757
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
