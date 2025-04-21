@@ -93,16 +93,15 @@
     }
     $oldcurrent=@file_get_contents("../data/current.js");
     if($oldcurrent === false){
-      echo "no oldcurrent with no season\n";
-      die(1);
+      echo "no oldcurrent\n";
     }else{
       $oc=json_decode($oldcurrent, true, 512, JSON_OBJECT_AS_ARRAY);
       $oldseason=$oc["season"];
-    }
-    if($oldseason !== $sss){
-      file_put_contents("../data/oldseason.txt", $oldseason);
-      echo "oldseason $oldseason\n";
-      echo "newseason $sss\n";
+      if($oldseason !== $sss){
+        file_put_contents("../data/oldseason.txt", $oldseason);
+        echo "oldseason $oldseason\n";
+        echo "newseason $sss\n";
+      }
     }
     $season_j=["season" => $sss];
     file_put_contents("../data/current.js",
