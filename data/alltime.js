@@ -1463,12 +1463,12 @@
         },
         "pb": 435508,
         "streak": 22,
-        "matches": 3137,
-        "playtime": 1930237939,
+        "matches": 3138,
+        "playtime": 1930939699,
         "finished": 1758,
         "finishtime": 1141998212,
         "won": 2209,
-        "lost": 838,
+        "lost": 839,
         "forfeited": 31
     },
     "3da9e8cec2d348f781a98d095b1d0325": {
@@ -2252,8 +2252,8 @@
         },
         "pb": 540101,
         "streak": 9,
-        "matches": 1022,
-        "playtime": 697525357,
+        "matches": 1023,
+        "playtime": 698227966,
         "finished": 251,
         "finishtime": 232839651,
         "won": 484,
@@ -3029,11 +3029,11 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1443,
-        "playtime": 917866163,
-        "finished": 514,
-        "finishtime": 393446406,
-        "won": 784,
+        "matches": 1444,
+        "playtime": 918567923,
+        "finished": 515,
+        "finishtime": 394148166,
+        "won": 785,
         "lost": 586,
         "forfeited": 207
     },
@@ -3850,27 +3850,6 @@
         "lost": 126,
         "forfeited": 53
     },
-    "a9943fe9787c4f5caae215283ea2dffa": {
-        "nickname": "Feinbreg",
-        "country": "us",
-        "top": {
-            "7": 1280,
-            "8": 1251
-        },
-        "points": {
-            "7": 0,
-            "8": 0
-        },
-        "pb": 596015,
-        "streak": 3,
-        "matches": 21,
-        "playtime": 15557833,
-        "finished": 9,
-        "finishtime": 8910250,
-        "won": 13,
-        "lost": 8,
-        "forfeited": 5
-    },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
         "nickname": "Pinne",
         "country": null,
@@ -4267,6 +4246,31 @@
         "won": 1244,
         "lost": 1074,
         "forfeited": 264
+    },
+    "bae9f9a51afd4eabbacd453f9bcc430d": {
+        "nickname": "ita_vxro",
+        "country": null,
+        "top": {
+            "5": 1072,
+            "6": 1018,
+            "7": 1385,
+            "8": 1251
+        },
+        "points": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 572448,
+        "streak": 8,
+        "matches": 1856,
+        "playtime": 1160105557,
+        "finished": 323,
+        "finishtime": 316470667,
+        "won": 884,
+        "lost": 883,
+        "forfeited": 749
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
         "nickname": "romuxii",

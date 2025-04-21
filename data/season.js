@@ -1,5 +1,5 @@
 {
-    "date": 1745208001000,
+    "date": 1745208601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -28,22 +28,36 @@
             "nickname": "doogile",
             "stats": {
                 "rank": 2,
-                "elo": 1607,
+                "elo": 1579,
                 "top": 1610,
                 "points": 0,
                 "pb": 468864,
-                "current": 3,
+                "current": 0,
                 "streak": 4,
-                "matches": 17,
-                "playtime": 9140270,
+                "matches": 18,
+                "playtime": 9842030,
                 "finished": 11,
                 "finishtime": 6020571,
                 "won": 12,
-                "lost": 4,
+                "lost": 5,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1745208582000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "yummycelery",
+                    "elo": 1579,
+                    "change": -28,
+                    "oelo": 1410,
+                    "ochange": 28,
+                    "time": 701760,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745207803000,
                     "type": "DESERT_TEMPLE",
@@ -1539,22 +1553,36 @@
             "nickname": "yummycelery",
             "stats": {
                 "rank": 16,
-                "elo": 1382,
+                "elo": 1410,
                 "top": 1421,
                 "points": 0,
                 "pb": 526751,
-                "current": 0,
+                "current": 1,
                 "streak": 2,
-                "matches": 11,
-                "playtime": 5843521,
-                "finished": 2,
-                "finishtime": 1374392,
-                "won": 5,
+                "matches": 12,
+                "playtime": 6545281,
+                "finished": 3,
+                "finishtime": 2076152,
+                "won": 6,
                 "lost": 5,
                 "forfeited": 1
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1745208582000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "doogile",
+                    "elo": 1410,
+                    "change": 28,
+                    "oelo": 1579,
+                    "ochange": -28,
+                    "time": 701760,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745207736000,
                     "type": "SHIPWRECK",
@@ -3398,8 +3426,8 @@
                 "pb": 650651,
                 "current": 2,
                 "streak": 2,
-                "matches": 11,
-                "playtime": 6578088,
+                "matches": 12,
+                "playtime": 7280697,
                 "finished": 4,
                 "finishtime": 3135595,
                 "won": 4,
@@ -3408,6 +3436,20 @@
             },
             "country": "cn",
             "matches": [
+                {
+                    "date": 1745208174000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "brr_brr_patapin",
+                    "elo": 1262,
+                    "change": 0,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 702609,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745207278000,
                     "type": "DESERT_TEMPLE",
@@ -3708,25 +3750,25 @@
             ]
         },
         {
-            "uuid": "a9943fe9787c4f5caae215283ea2dffa",
-            "nickname": "Feinbreg",
+            "uuid": "bae9f9a51afd4eabbacd453f9bcc430d",
+            "nickname": "ita_vxro",
             "stats": {
                 "rank": 50,
                 "elo": 1251,
                 "top": 1251,
                 "points": 0,
-                "pb": 596015,
-                "current": 1,
-                "streak": 1,
+                "pb": 983538,
+                "current": 0,
+                "streak": 3,
                 "matches": 5,
-                "playtime": 2933682,
-                "finished": 2,
-                "finishtime": 1402166,
+                "playtime": 3348010,
+                "finished": 1,
+                "finishtime": 983538,
                 "won": 3,
                 "lost": 2,
-                "forfeited": 0
+                "forfeited": 1
             },
-            "country": "us",
+            "country": null,
             "matches": []
         }
     ]
