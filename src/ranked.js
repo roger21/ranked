@@ -398,7 +398,8 @@ function displayLegendTooltip(target, data) {
     dataRankDiv.appendChild(playerDiv);
     const colorDiv = document.createElement("div");
     colorDiv.classList.add("color");
-    colorDiv.style.background = data.backgroundColor;
+    colorDiv.style.background =
+      data.backgroundColor.replace(colorHover, ")");
     playerDiv.appendChild(colorDiv);
     const nameDiv = document.createElement("div");
     nameDiv.classList.add("name");
