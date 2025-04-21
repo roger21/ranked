@@ -609,11 +609,11 @@
         },
         "pb": 469453,
         "streak": 9,
-        "matches": 1925,
-        "playtime": 1319962060,
-        "finished": 601,
-        "finishtime": 496524145,
-        "won": 977,
+        "matches": 1926,
+        "playtime": 1320730130,
+        "finished": 602,
+        "finishtime": 497292215,
+        "won": 978,
         "lost": 860,
         "forfeited": 199
     },
@@ -2093,12 +2093,12 @@
         },
         "pb": 428921,
         "streak": 11,
-        "matches": 1649,
-        "playtime": 990271392,
+        "matches": 1650,
+        "playtime": 990914184,
         "finished": 631,
         "finishtime": 436383010,
         "won": 852,
-        "lost": 760,
+        "lost": 761,
         "forfeited": 213
     },
     "64858295eb754646b03caead840391a2": {
@@ -3299,13 +3299,13 @@
         },
         "pb": 478074,
         "streak": 18,
-        "matches": 3116,
-        "playtime": 2035778985,
+        "matches": 3118,
+        "playtime": 2036735689,
         "finished": 985,
         "finishtime": 790898322,
-        "won": 1616,
-        "lost": 1411,
-        "forfeited": 676
+        "won": 1617,
+        "lost": 1412,
+        "forfeited": 677
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
         "nickname": "loodlow",
@@ -3640,7 +3640,7 @@
             "5": 1630,
             "6": 1769,
             "7": 1816,
-            "8": 1416
+            "8": 1418
         },
         "points": {
             "1": 0,
@@ -3654,11 +3654,11 @@
         },
         "pb": 506453,
         "streak": 10,
-        "matches": 1018,
-        "playtime": 690700160,
-        "finished": 350,
-        "finishtime": 281712785,
-        "won": 546,
+        "matches": 1019,
+        "playtime": 691342952,
+        "finished": 351,
+        "finishtime": 282355577,
+        "won": 547,
         "lost": 430,
         "forfeited": 149
     },
@@ -4265,13 +4265,13 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3484,
-        "playtime": 2172203376,
+        "matches": 3485,
+        "playtime": 2172704233,
         "finished": 1100,
         "finishtime": 814502537,
         "won": 1712,
-        "lost": 1588,
-        "forfeited": 702
+        "lost": 1589,
+        "forfeited": 703
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
