@@ -780,12 +780,12 @@
         },
         "pb": 429880,
         "streak": 12,
-        "matches": 1312,
-        "playtime": 861898306,
+        "matches": 1313,
+        "playtime": 862511031,
         "finished": 608,
         "finishtime": 416395048,
         "won": 751,
-        "lost": 526,
+        "lost": 527,
         "forfeited": 38
     },
     "254084cfcba045438257721bc55453b6": {
@@ -1017,6 +1017,33 @@
         "lost": 2405,
         "forfeited": 240
     },
+    "2e7da6a654274450b19668d28cd31d85": {
+        "nickname": "CRX_Mengx",
+        "country": "cn",
+        "top": {
+            "4": 913,
+            "5": 1179,
+            "6": 1377,
+            "7": 1405,
+            "8": 1300
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 683353,
+        "streak": 12,
+        "matches": 1493,
+        "playtime": 1213377764,
+        "finished": 163,
+        "finishtime": 200231292,
+        "won": 632,
+        "lost": 606,
+        "forfeited": 345
+    },
     "2ed132f3f7ef4eaaaffad4bc87e020cd": {
         "nickname": "hitti9999",
         "country": "yt",
@@ -1069,11 +1096,11 @@
         },
         "pb": 439961,
         "streak": 11,
-        "matches": 3513,
-        "playtime": 2087357112,
-        "finished": 1318,
-        "finishtime": 892513432,
-        "won": 1763,
+        "matches": 3514,
+        "playtime": 2087969837,
+        "finished": 1319,
+        "finishtime": 893126157,
+        "won": 1764,
         "lost": 1555,
         "forfeited": 576
     },
@@ -1728,7 +1755,7 @@
             "5": 1199,
             "6": 1179,
             "7": 1630,
-            "8": 1313
+            "8": 1333
         },
         "points": {
             "1": 0,
@@ -1742,11 +1769,11 @@
         },
         "pb": 532399,
         "streak": 8,
-        "matches": 1787,
-        "playtime": 1315431112,
-        "finished": 366,
-        "finishtime": 360301746,
-        "won": 825,
+        "matches": 1788,
+        "playtime": 1316103382,
+        "finished": 367,
+        "finishtime": 360974016,
+        "won": 826,
         "lost": 801,
         "forfeited": 321
     },
@@ -2258,13 +2285,13 @@
         },
         "pb": 540101,
         "streak": 9,
-        "matches": 1024,
-        "playtime": 699109936,
+        "matches": 1026,
+        "playtime": 699628744,
         "finished": 252,
         "finishtime": 233721621,
-        "won": 485,
-        "lost": 449,
-        "forfeited": 295
+        "won": 486,
+        "lost": 450,
+        "forfeited": 296
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
@@ -2547,35 +2574,6 @@
         "lost": 157,
         "forfeited": 82
     },
-    "7447fa28523b46708d2d0150764cbd15": {
-        "nickname": "BindXD",
-        "country": "cl",
-        "top": {
-            "2": 1264,
-            "3": 1246,
-            "4": 1512,
-            "5": 1449,
-            "7": 1505,
-            "8": 1274
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 605693,
-        "streak": 11,
-        "matches": 383,
-        "playtime": 308932994,
-        "finished": 84,
-        "finishtime": 94577703,
-        "won": 203,
-        "lost": 157,
-        "forfeited": 68
-    },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
         "country": "ar",
@@ -2620,7 +2618,7 @@
             "5": 1586,
             "6": 1757,
             "7": 0,
-            "8": 0
+            "8": 1429
         },
         "points": {
             "1": 0,
@@ -2634,11 +2632,11 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1889,
-        "playtime": 1247380650,
-        "finished": 636,
-        "finishtime": 514122577,
-        "won": 991,
+        "matches": 1890,
+        "playtime": 1248052792,
+        "finished": 637,
+        "finishtime": 514794719,
+        "won": 992,
         "lost": 843,
         "forfeited": 333
     },
@@ -3035,12 +3033,12 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1447,
-        "playtime": 920434077,
+        "matches": 1448,
+        "playtime": 921030732,
         "finished": 517,
         "finishtime": 395499806,
         "won": 787,
-        "lost": 587,
+        "lost": 588,
         "forfeited": 207
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
@@ -3621,11 +3619,11 @@
         },
         "pb": 424299,
         "streak": 24,
-        "matches": 6339,
-        "playtime": 3787052995,
-        "finished": 1940,
-        "finishtime": 1475879185,
-        "won": 3128,
+        "matches": 6340,
+        "playtime": 3788334077,
+        "finished": 1941,
+        "finishtime": 1477160267,
+        "won": 3129,
         "lost": 2985,
         "forfeited": 1747
     },
@@ -4038,11 +4036,11 @@
         },
         "pb": 466241,
         "streak": 11,
-        "matches": 2256,
-        "playtime": 1452928862,
-        "finished": 711,
-        "finishtime": 548796157,
-        "won": 1130,
+        "matches": 2257,
+        "playtime": 1453525517,
+        "finished": 712,
+        "finishtime": 549392812,
+        "won": 1131,
         "lost": 1032,
         "forfeited": 357
     },
@@ -4078,29 +4076,6 @@
         "won": 1859,
         "lost": 1091,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "calmnights",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1274
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 568598,
-        "streak": 11,
-        "matches": 3229,
-        "playtime": 1983482620,
-        "finished": 714,
-        "finishtime": 638881618,
-        "won": 1561,
-        "lost": 1536,
-        "forfeited": 1205
     },
     "b31a51ccc61b4034b34eb3df060f4ab5": {
         "nickname": "romuu__",
