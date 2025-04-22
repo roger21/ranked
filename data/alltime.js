@@ -520,12 +520,12 @@
         },
         "pb": 436863,
         "streak": 23,
-        "matches": 2273,
-        "playtime": 1417975242,
+        "matches": 2274,
+        "playtime": 1418480754,
         "finished": 1099,
         "finishtime": 732709995,
         "won": 1428,
-        "lost": 781,
+        "lost": 782,
         "forfeited": 60
     },
     "182a4a03fae54aa7aed4de1cf1f93d2b": {
@@ -609,11 +609,11 @@
         },
         "pb": 469453,
         "streak": 9,
-        "matches": 1941,
-        "playtime": 1330239773,
+        "matches": 1942,
+        "playtime": 1330846103,
         "finished": 605,
         "finishtime": 499303634,
-        "won": 983,
+        "won": 984,
         "lost": 870,
         "forfeited": 199
     },
@@ -904,11 +904,11 @@
         },
         "pb": 439961,
         "streak": 11,
-        "matches": 3543,
-        "playtime": 2103660747,
+        "matches": 3544,
+        "playtime": 2103947018,
         "finished": 1330,
         "finishtime": 899391851,
-        "won": 1778,
+        "won": 1779,
         "lost": 1569,
         "forfeited": 576
     },
@@ -1918,6 +1918,39 @@
         "won": 452,
         "lost": 334,
         "forfeited": 68
+    },
+    "5a2cb29136eb46529adc03aa4583a2d2": {
+        "nickname": "GradientGray",
+        "country": "ca",
+        "top": {
+            "1": 1387,
+            "2": 1555,
+            "3": 1556,
+            "4": 1670,
+            "5": 1703,
+            "6": 1734,
+            "7": 1835,
+            "8": 1396
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 25,
+            "5": 25,
+            "6": 45,
+            "7": 35,
+            "8": 0
+        },
+        "pb": 514158,
+        "streak": 9,
+        "matches": 2806,
+        "playtime": 2120828313,
+        "finished": 901,
+        "finishtime": 778450319,
+        "won": 1417,
+        "lost": 1274,
+        "forfeited": 41
     },
     "5a32f1e5609847c691c07730f973397c": {
         "nickname": "DARVY__X1",
@@ -2973,11 +3006,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8439,
-        "playtime": 5472659320,
-        "finished": 2746,
-        "finishtime": 2246850348,
-        "won": 4280,
+        "matches": 8440,
+        "playtime": 5473679295,
+        "finished": 2747,
+        "finishtime": 2247870323,
+        "won": 4281,
         "lost": 3977,
         "forfeited": 2009
     },
@@ -3359,13 +3392,13 @@
         },
         "pb": 478074,
         "streak": 18,
-        "matches": 3134,
-        "playtime": 2047335681,
+        "matches": 3135,
+        "playtime": 2047715260,
         "finished": 990,
         "finishtime": 794670260,
         "won": 1625,
-        "lost": 1420,
-        "forfeited": 683
+        "lost": 1421,
+        "forfeited": 684
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
         "nickname": "loodlow",
@@ -3487,12 +3520,12 @@
         },
         "pb": 424299,
         "streak": 24,
-        "matches": 6344,
-        "playtime": 3790312861,
+        "matches": 6345,
+        "playtime": 3791332836,
         "finished": 1941,
         "finishtime": 1477160267,
         "won": 3131,
-        "lost": 2987,
+        "lost": 2988,
         "forfeited": 1747
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
@@ -3669,7 +3702,7 @@
             "5": 1376,
             "6": 2213,
             "7": 2522,
-            "8": 1741
+            "8": 1753
         },
         "points": {
             "3": 0,
@@ -3681,11 +3714,11 @@
         },
         "pb": 440964,
         "streak": 18,
-        "matches": 1569,
-        "playtime": 938657547,
-        "finished": 811,
-        "finishtime": 514453116,
-        "won": 1023,
+        "matches": 1570,
+        "playtime": 939163059,
+        "finished": 812,
+        "finishtime": 514958628,
+        "won": 1024,
         "lost": 522,
         "forfeited": 35
     },
@@ -3911,39 +3944,6 @@
         "won": 1859,
         "lost": 1091,
         "forfeited": 315
-    },
-    "b31a51ccc61b4034b34eb3df060f4ab5": {
-        "nickname": "romuu__",
-        "country": "gt",
-        "top": {
-            "1": 1631,
-            "2": 1645,
-            "3": 1600,
-            "4": 1630,
-            "5": 1841,
-            "6": 1816,
-            "7": 1793,
-            "8": 1458
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 20,
-            "7": 15,
-            "8": 0
-        },
-        "pb": 502840,
-        "streak": 14,
-        "matches": 3159,
-        "playtime": 2089717413,
-        "finished": 1029,
-        "finishtime": 821713094,
-        "won": 1592,
-        "lost": 1457,
-        "forfeited": 675
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "GiratinaEX",
