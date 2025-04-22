@@ -297,7 +297,7 @@
             "5": 1798,
             "6": 1478,
             "7": 1715,
-            "8": 1341
+            "8": 1361
         },
         "points": {
             "1": 0,
@@ -311,11 +311,11 @@
         },
         "pb": 524331,
         "streak": 13,
-        "matches": 1742,
-        "playtime": 1286953405,
-        "finished": 635,
-        "finishtime": 525148652,
-        "won": 950,
+        "matches": 1743,
+        "playtime": 1287661299,
+        "finished": 636,
+        "finishtime": 525856546,
+        "won": 951,
         "lost": 755,
         "forfeited": 25
     },
@@ -2254,13 +2254,13 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2020,
-        "playtime": 1302067557,
+        "matches": 2021,
+        "playtime": 1302711468,
         "finished": 654,
         "finishtime": 510910577,
         "won": 1034,
-        "lost": 902,
-        "forfeited": 346
+        "lost": 903,
+        "forfeited": 347
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
@@ -2547,11 +2547,11 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5606,
-        "playtime": 3575232632,
-        "finished": 2916,
-        "finishtime": 1954991611,
-        "won": 3698,
+        "matches": 5607,
+        "playtime": 3575767426,
+        "finished": 2917,
+        "finishtime": 1955526405,
+        "won": 3699,
         "lost": 1753,
         "forfeited": 181
     },
@@ -2587,7 +2587,7 @@
             "5": 2174,
             "6": 2273,
             "7": 2168,
-            "8": 1539
+            "8": 1555
         },
         "points": {
             "1": 0,
@@ -2601,11 +2601,11 @@
         },
         "pb": 430515,
         "streak": 11,
-        "matches": 5321,
-        "playtime": 3303957577,
-        "finished": 1890,
-        "finishtime": 1377086552,
-        "won": 2694,
+        "matches": 5322,
+        "playtime": 3304570907,
+        "finished": 1891,
+        "finishtime": 1377699882,
+        "won": 2695,
         "lost": 2395,
         "forfeited": 861
     },
@@ -2708,37 +2708,6 @@
         "lost": 552,
         "forfeited": 107
     },
-    "8021b1eb133346c3b0b88d19c5be9188": {
-        "nickname": "gabboooz",
-        "country": "it",
-        "top": {
-            "2": 878,
-            "3": 1267,
-            "4": 1712,
-            "5": 1817,
-            "6": 1613,
-            "7": 1603,
-            "8": 1423
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 5,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 539031,
-        "streak": 9,
-        "matches": 2378,
-        "playtime": 1649509456,
-        "finished": 686,
-        "finishtime": 594281739,
-        "won": 1158,
-        "lost": 1059,
-        "forfeited": 287
-    },
     "804da783a9e14f5f8e97c6dd8b045595": {
         "nickname": "AceRPx",
         "country": null,
@@ -2797,11 +2766,11 @@
         },
         "pb": 470792,
         "streak": 22,
-        "matches": 5870,
-        "playtime": 3867377433,
+        "matches": 5871,
+        "playtime": 3867940850,
         "finished": 1744,
         "finishtime": 1448850884,
-        "won": 2874,
+        "won": 2875,
         "lost": 2762,
         "forfeited": 1366
     },
@@ -2960,11 +2929,11 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2627,
-        "playtime": 1776898656,
+        "matches": 2628,
+        "playtime": 1777542567,
         "finished": 868,
         "finishtime": 656021254,
-        "won": 1281,
+        "won": 1282,
         "lost": 1134,
         "forfeited": 71
     },
@@ -3513,12 +3482,12 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 4527,
-        "playtime": 2731221637,
+        "matches": 4528,
+        "playtime": 2731756431,
         "finished": 1391,
         "finishtime": 1065203224,
         "won": 2195,
-        "lost": 2098,
+        "lost": 2099,
         "forfeited": 1236
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
