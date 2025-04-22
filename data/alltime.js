@@ -520,11 +520,11 @@
         },
         "pb": 436863,
         "streak": 23,
-        "matches": 2271,
-        "playtime": 1416789084,
-        "finished": 1097,
-        "finishtime": 731523837,
-        "won": 1426,
+        "matches": 2272,
+        "playtime": 1417364040,
+        "finished": 1098,
+        "finishtime": 732098793,
+        "won": 1427,
         "lost": 781,
         "forfeited": 60
     },
@@ -1614,12 +1614,12 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2117,
-        "playtime": 1343850094,
+        "matches": 2118,
+        "playtime": 1344730235,
         "finished": 745,
         "finishtime": 589599359,
         "won": 1130,
-        "lost": 941,
+        "lost": 942,
         "forfeited": 608
     },
     "48d9df3377554043ba39a8500c7ad702": {
@@ -1918,39 +1918,6 @@
         "won": 452,
         "lost": 334,
         "forfeited": 68
-    },
-    "5a2cb29136eb46529adc03aa4583a2d2": {
-        "nickname": "GradientGray",
-        "country": "ca",
-        "top": {
-            "1": 1387,
-            "2": 1555,
-            "3": 1556,
-            "4": 1670,
-            "5": 1703,
-            "6": 1734,
-            "7": 1835,
-            "8": 1396
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 25,
-            "5": 25,
-            "6": 45,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 514158,
-        "streak": 9,
-        "matches": 2806,
-        "playtime": 2120828313,
-        "finished": 901,
-        "finishtime": 778450319,
-        "won": 1417,
-        "lost": 1274,
-        "forfeited": 41
     },
     "5a32f1e5609847c691c07730f973397c": {
         "nickname": "DARVY__X1",
@@ -2560,6 +2527,33 @@
         "lost": 2395,
         "forfeited": 861
     },
+    "78ea25c3db9a4830ba7e78074bd6fd10": {
+        "nickname": "ELO_TERRORIST227",
+        "country": null,
+        "top": {
+            "4": 1475,
+            "5": 1803,
+            "6": 2153,
+            "7": 2056,
+            "8": 1443
+        },
+        "points": {
+            "4": 0,
+            "5": 15,
+            "6": 20,
+            "7": 25,
+            "8": 0
+        },
+        "pb": 422698,
+        "streak": 12,
+        "matches": 4898,
+        "playtime": 2882139994,
+        "finished": 1426,
+        "finishtime": 972050357,
+        "won": 2243,
+        "lost": 2194,
+        "forfeited": 1194
+    },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
         "country": "hk",
@@ -2979,11 +2973,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8437,
-        "playtime": 5471374225,
-        "finished": 2744,
-        "finishtime": 2245565253,
-        "won": 4278,
+        "matches": 8438,
+        "playtime": 5472023758,
+        "finished": 2745,
+        "finishtime": 2246214786,
+        "won": 4279,
         "lost": 3977,
         "forfeited": 2009
     },
@@ -3526,12 +3520,12 @@
         },
         "pb": 483075,
         "streak": 11,
-        "matches": 1260,
-        "playtime": 925415629,
+        "matches": 1261,
+        "playtime": 926065162,
         "finished": 460,
         "finishtime": 381668901,
         "won": 690,
-        "lost": 520,
+        "lost": 521,
         "forfeited": 17
     },
     "a20541925b5648e1ae88a141ca37911e": {
@@ -3943,12 +3937,12 @@
         },
         "pb": 502840,
         "streak": 14,
-        "matches": 3158,
-        "playtime": 2089142457,
+        "matches": 3159,
+        "playtime": 2089717413,
         "finished": 1029,
         "finishtime": 821713094,
         "won": 1592,
-        "lost": 1456,
+        "lost": 1457,
         "forfeited": 675
     },
     "b39f5648c91d42dfb121655f2aa52970": {
@@ -4073,13 +4067,13 @@
         },
         "pb": 542711,
         "streak": 11,
-        "matches": 2375,
-        "playtime": 1795676586,
+        "matches": 2376,
+        "playtime": 1796375259,
         "finished": 790,
         "finishtime": 714800329,
         "won": 1244,
-        "lost": 1074,
-        "forfeited": 264
+        "lost": 1075,
+        "forfeited": 265
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
         "nickname": "romuxii",
