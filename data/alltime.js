@@ -819,12 +819,12 @@
         },
         "pb": 477196,
         "streak": 9,
-        "matches": 1029,
-        "playtime": 687827303,
+        "matches": 1030,
+        "playtime": 688379369,
         "finished": 311,
         "finishtime": 247896167,
         "won": 539,
-        "lost": 437,
+        "lost": 438,
         "forfeited": 154
     },
     "2988fcfbc6b141a497faa915e13b6592": {
@@ -2167,13 +2167,13 @@
         },
         "pb": 428921,
         "streak": 11,
-        "matches": 1675,
-        "playtime": 1005551930,
+        "matches": 1676,
+        "playtime": 1005791165,
         "finished": 647,
         "finishtime": 445941775,
         "won": 868,
-        "lost": 770,
-        "forfeited": 214
+        "lost": 771,
+        "forfeited": 215
     },
     "64858295eb754646b03caead840391a2": {
         "nickname": "Casssual",
@@ -4391,7 +4391,7 @@
             "5": 1713,
             "6": 1701,
             "7": 2011,
-            "8": 1452
+            "8": 1464
         },
         "points": {
             "1": 0,
@@ -4405,11 +4405,11 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 4984,
-        "playtime": 3342251329,
+        "matches": 4985,
+        "playtime": 3342490564,
         "finished": 1491,
         "finishtime": 1186510908,
-        "won": 2451,
+        "won": 2452,
         "lost": 2292,
         "forfeited": 757
     },
