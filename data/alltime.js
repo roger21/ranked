@@ -117,11 +117,11 @@
         },
         "pb": 524485,
         "streak": 13,
-        "matches": 3558,
-        "playtime": 2766419294,
+        "matches": 3559,
+        "playtime": 2766788785,
         "finished": 945,
         "finishtime": 871122747,
-        "won": 1705,
+        "won": 1706,
         "lost": 1634,
         "forfeited": 259
     },
@@ -2514,12 +2514,12 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5620,
-        "playtime": 3582239481,
+        "matches": 5621,
+        "playtime": 3582823773,
         "finished": 2924,
         "finishtime": 1959672397,
         "won": 3709,
-        "lost": 1756,
+        "lost": 1757,
         "forfeited": 181
     },
     "7751d507ab364914bac767a4d2574753": {
@@ -2568,13 +2568,13 @@
         },
         "pb": 430515,
         "streak": 11,
-        "matches": 5330,
-        "playtime": 3309157690,
+        "matches": 5331,
+        "playtime": 3309793773,
         "finished": 1892,
         "finishtime": 1378315118,
         "won": 2696,
-        "lost": 2402,
-        "forfeited": 864
+        "lost": 2403,
+        "forfeited": 865
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
@@ -2995,13 +2995,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8467,
-        "playtime": 5490075801,
+        "matches": 8468,
+        "playtime": 5490445292,
         "finished": 2759,
         "finishtime": 2256125620,
         "won": 4296,
-        "lost": 3987,
-        "forfeited": 2011
+        "lost": 3988,
+        "forfeited": 2012
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3307,7 +3307,7 @@
             "5": 1873,
             "6": 1754,
             "7": 1580,
-            "8": 1421
+            "8": 1450
         },
         "points": {
             "1": 0,
@@ -3321,11 +3321,11 @@
         },
         "pb": 478074,
         "streak": 18,
-        "matches": 3158,
-        "playtime": 2060953054,
-        "finished": 1001,
-        "finishtime": 802167808,
-        "won": 1640,
+        "matches": 3159,
+        "playtime": 2061537346,
+        "finished": 1002,
+        "finishtime": 802752100,
+        "won": 1641,
         "lost": 1429,
         "forfeited": 691
     },
@@ -4188,12 +4188,12 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3554,
-        "playtime": 2210635760,
+        "matches": 3555,
+        "playtime": 2211382364,
         "finished": 1130,
         "finishtime": 835495188,
         "won": 1750,
-        "lost": 1619,
+        "lost": 1620,
         "forfeited": 728
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
@@ -4391,7 +4391,7 @@
             "5": 1713,
             "6": 1701,
             "7": 2011,
-            "8": 1412
+            "8": 1432
         },
         "points": {
             "1": 0,
@@ -4405,11 +4405,11 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 4971,
-        "playtime": 3334026336,
-        "finished": 1488,
-        "finishtime": 1184442199,
-        "won": 2445,
+        "matches": 4972,
+        "playtime": 3334772940,
+        "finished": 1489,
+        "finishtime": 1185188803,
+        "won": 2446,
         "lost": 2287,
         "forfeited": 757
     },
@@ -4507,33 +4507,6 @@
         "won": 4228,
         "lost": 3973,
         "forfeited": 977
-    },
-    "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
-        "country": "tw",
-        "top": {
-            "4": 1087,
-            "5": 1388,
-            "6": 1636,
-            "7": 1902,
-            "8": 1427
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 482356,
-        "streak": 14,
-        "matches": 5626,
-        "playtime": 3591786693,
-        "finished": 1445,
-        "finishtime": 1240980383,
-        "won": 2772,
-        "lost": 2689,
-        "forfeited": 1768
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
