@@ -117,11 +117,11 @@
         },
         "pb": 524485,
         "streak": 13,
-        "matches": 3559,
-        "playtime": 2766788785,
-        "finished": 945,
-        "finishtime": 871122747,
-        "won": 1706,
+        "matches": 3560,
+        "playtime": 2767475474,
+        "finished": 946,
+        "finishtime": 871809436,
+        "won": 1707,
         "lost": 1634,
         "forfeited": 259
     },
@@ -3263,33 +3263,6 @@
         "lost": 2067,
         "forfeited": 770
     },
-    "9a61b87c6a16403da56541258e74ed3e": {
-        "nickname": "Blad_d",
-        "country": "de",
-        "top": {
-            "4": 935,
-            "5": 1617,
-            "6": 1877,
-            "7": 1945,
-            "8": 1446
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 45,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 437362,
-        "streak": 13,
-        "matches": 3417,
-        "playtime": 2104600724,
-        "finished": 1042,
-        "finishtime": 777664413,
-        "won": 1676,
-        "lost": 1581,
-        "forfeited": 734
-    },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
         "country": "us",
@@ -3348,12 +3321,12 @@
         },
         "pb": 478074,
         "streak": 18,
-        "matches": 3159,
-        "playtime": 2061537346,
+        "matches": 3160,
+        "playtime": 2062224035,
         "finished": 1002,
         "finishtime": 802752100,
         "won": 1641,
-        "lost": 1429,
+        "lost": 1430,
         "forfeited": 691
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
@@ -4215,11 +4188,11 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3556,
-        "playtime": 2211642789,
-        "finished": 1130,
-        "finishtime": 835495188,
-        "won": 1751,
+        "matches": 3557,
+        "playtime": 2212217463,
+        "finished": 1131,
+        "finishtime": 836069862,
+        "won": 1752,
         "lost": 1620,
         "forfeited": 728
     },
