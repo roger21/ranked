@@ -249,12 +249,12 @@
         },
         "pb": 524331,
         "streak": 13,
-        "matches": 1768,
-        "playtime": 1304536789,
+        "matches": 1769,
+        "playtime": 1305208694,
         "finished": 644,
         "finishtime": 532233532,
         "won": 963,
-        "lost": 767,
+        "lost": 768,
         "forfeited": 27
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
@@ -830,39 +830,6 @@
         "won": 2661,
         "lost": 2405,
         "forfeited": 240
-    },
-    "2e4fbe60568549f7a6666e1ced1ae385": {
-        "nickname": "R3nR",
-        "country": "id",
-        "top": {
-            "1": 1648,
-            "2": 1590,
-            "3": 1527,
-            "4": 1608,
-            "5": 1624,
-            "6": 1632,
-            "7": 1728,
-            "8": 1432
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 10,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 568882,
-        "streak": 9,
-        "matches": 2097,
-        "playtime": 1475965625,
-        "finished": 636,
-        "finishtime": 542946939,
-        "won": 1046,
-        "lost": 919,
-        "forfeited": 290
     },
     "2ef2bfed3d084649b56290328970ace9": {
         "nickname": "nahhann",
@@ -1968,37 +1935,6 @@
         "lost": 554,
         "forfeited": 257
     },
-    "5cd115f0ec1240659db152406c0984a3": {
-        "nickname": "yjako",
-        "country": "ph",
-        "top": {
-            "1": 1454,
-            "2": 1307,
-            "4": 1297,
-            "5": 1355,
-            "6": 1662,
-            "7": 1902,
-            "8": 1440
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 50,
-            "8": 0
-        },
-        "pb": 528506,
-        "streak": 10,
-        "matches": 719,
-        "playtime": 446212945,
-        "finished": 225,
-        "finishtime": 178736209,
-        "won": 383,
-        "lost": 308,
-        "forfeited": 171
-    },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
         "country": "il",
@@ -2204,11 +2140,11 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2022,
-        "playtime": 1303550276,
-        "finished": 655,
-        "finishtime": 511749385,
-        "won": 1035,
+        "matches": 2023,
+        "playtime": 1304363775,
+        "finished": 656,
+        "finishtime": 512562884,
+        "won": 1036,
         "lost": 903,
         "forfeited": 347
     },
@@ -2551,12 +2487,12 @@
         },
         "pb": 430515,
         "streak": 11,
-        "matches": 5343,
-        "playtime": 3316239219,
+        "matches": 5344,
+        "playtime": 3316968075,
         "finished": 1899,
         "finishtime": 1382866708,
         "won": 2704,
-        "lost": 2407,
+        "lost": 2408,
         "forfeited": 869
     },
     "7c92678742eb4e819f3122017697ae3d": {
@@ -2846,11 +2782,11 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2659,
-        "playtime": 1798609140,
-        "finished": 880,
-        "finishtime": 664919058,
-        "won": 1298,
+        "matches": 2660,
+        "playtime": 1799151503,
+        "finished": 881,
+        "finishtime": 665461421,
+        "won": 1299,
         "lost": 1148,
         "forfeited": 71
     },
@@ -3335,13 +3271,13 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 2562,
-        "playtime": 1503883053,
+        "matches": 2563,
+        "playtime": 1504010889,
         "finished": 921,
         "finishtime": 661406434,
         "won": 1303,
-        "lost": 1183,
-        "forfeited": 572
+        "lost": 1184,
+        "forfeited": 573
     },
     "9e9811e1e0c24f2099820b85d2d146c5": {
         "nickname": "mangrovejack",
@@ -3948,6 +3884,31 @@
         "lost": 1873,
         "forfeited": 75
     },
+    "b7797e44bd994c6ea281073798e03d27": {
+        "nickname": "2Lvcky4Knock",
+        "country": "de",
+        "top": {
+            "5": 1398,
+            "6": 1491,
+            "7": 1713,
+            "8": 1449
+        },
+        "points": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 476203,
+        "streak": 11,
+        "matches": 1892,
+        "playtime": 1190161122,
+        "finished": 490,
+        "finishtime": 399674521,
+        "won": 898,
+        "lost": 832,
+        "forfeited": 513
+    },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
         "country": "us",
@@ -4481,11 +4442,11 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 5007,
-        "playtime": 3356745553,
-        "finished": 1499,
-        "finishtime": 1192001558,
-        "won": 2461,
+        "matches": 5008,
+        "playtime": 3357474409,
+        "finished": 1500,
+        "finishtime": 1192730414,
+        "won": 2462,
         "lost": 2303,
         "forfeited": 757
     },
