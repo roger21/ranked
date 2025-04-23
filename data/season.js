@@ -1,5 +1,5 @@
 {
-    "date": 1745407201000,
+    "date": 1745407801000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -18291,71 +18291,6 @@
             ]
         },
         {
-            "uuid": "5cd115f0ec1240659db152406c0984a3",
-            "nickname": "yjako",
-            "stats": {
-                "rank": 47,
-                "elo": 1440,
-                "top": 1440,
-                "points": 0,
-                "pb": 580679,
-                "current": 2,
-                "streak": 2,
-                "matches": 8,
-                "playtime": 4804337,
-                "finished": 5,
-                "finishtime": 3444240,
-                "won": 5,
-                "lost": 3,
-                "forfeited": 2
-            },
-            "country": "ph",
-            "matches": [
-                {
-                    "date": 1745312751000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "h2ster_2A4",
-                    "elo": 1440,
-                    "change": 17,
-                    "oelo": 1336,
-                    "ochange": -17,
-                    "time": 596720,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1745311906000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "GabzlynMC",
-                    "elo": 1423,
-                    "change": 21,
-                    "oelo": 1419,
-                    "ochange": -21,
-                    "time": 748469,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1745311090000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "watermelon1708",
-                    "elo": 1402,
-                    "change": -20,
-                    "oelo": 1448,
-                    "ochange": 20,
-                    "time": 654940,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
             "uuid": "9e9811e1e0c24f2099820b85d2d146c5",
             "nickname": "mangrovejack",
             "stats": {
@@ -18793,6 +18728,71 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 840735,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
+            "uuid": "5cd115f0ec1240659db152406c0984a3",
+            "nickname": "yjako",
+            "stats": {
+                "rank": 47,
+                "elo": 1440,
+                "top": 1440,
+                "points": 0,
+                "pb": 580679,
+                "current": 2,
+                "streak": 2,
+                "matches": 8,
+                "playtime": 4804337,
+                "finished": 5,
+                "finishtime": 3444240,
+                "won": 5,
+                "lost": 3,
+                "forfeited": 2
+            },
+            "country": "ph",
+            "matches": [
+                {
+                    "date": 1745312751000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "h2ster_2A4",
+                    "elo": 1440,
+                    "change": 17,
+                    "oelo": 1336,
+                    "ochange": -17,
+                    "time": 596720,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1745311906000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "GabzlynMC",
+                    "elo": 1423,
+                    "change": 21,
+                    "oelo": 1419,
+                    "ochange": -21,
+                    "time": 748469,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1745311090000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "watermelon1708",
+                    "elo": 1402,
+                    "change": -20,
+                    "oelo": 1448,
+                    "ochange": 20,
+                    "time": 654940,
                     "forfeited": false,
                     "decayed": false
                 }
