@@ -1609,11 +1609,11 @@
         },
         "pb": 580860,
         "streak": 11,
-        "matches": 2731,
-        "playtime": 2040082796,
+        "matches": 2732,
+        "playtime": 2040574733,
         "finished": 836,
         "finishtime": 753970709,
-        "won": 1390,
+        "won": 1391,
         "lost": 1220,
         "forfeited": 248
     },
@@ -1649,6 +1649,39 @@
         "won": 1366,
         "lost": 1158,
         "forfeited": 711
+    },
+    "542eca51763f42ed925b8a68122a99fd": {
+        "nickname": "m3rcuryOvO",
+        "country": "cn",
+        "top": {
+            "1": 1384,
+            "2": 1378,
+            "3": 1369,
+            "4": 1709,
+            "5": 1670,
+            "6": 1753,
+            "7": 1803,
+            "8": 1474
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 10,
+            "6": 10,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 458356,
+        "streak": 9,
+        "matches": 4452,
+        "playtime": 2673323090,
+        "finished": 1237,
+        "finishtime": 982648724,
+        "won": 2169,
+        "lost": 2020,
+        "forfeited": 1252
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -1879,33 +1912,6 @@
         "lost": 2190,
         "forfeited": 655
     },
-    "5f4e1b4455fc427b888aed4d0e6d004f": {
-        "nickname": "ElRlchi",
-        "country": "ar",
-        "top": {
-            "1": 1600,
-            "4": 1758,
-            "5": 1668,
-            "7": 1821,
-            "8": 1487
-        },
-        "points": {
-            "1": 0,
-            "4": 20,
-            "5": 10,
-            "7": 15,
-            "8": 0
-        },
-        "pb": 473739,
-        "streak": 11,
-        "matches": 559,
-        "playtime": 366300663,
-        "finished": 193,
-        "finishtime": 154329285,
-        "won": 313,
-        "lost": 215,
-        "forfeited": 101
-    },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
         "country": "br",
@@ -1962,12 +1968,12 @@
         },
         "pb": 473760,
         "streak": 12,
-        "matches": 2479,
-        "playtime": 1592843322,
+        "matches": 2480,
+        "playtime": 1593485559,
         "finished": 712,
         "finishtime": 545567000,
         "won": 1239,
-        "lost": 1127,
+        "lost": 1128,
         "forfeited": 321
     },
     "625146b684804a29af2eaeb483a59ddf": {
@@ -2825,11 +2831,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8492,
-        "playtime": 5504981365,
-        "finished": 2765,
-        "finishtime": 2260758322,
-        "won": 4305,
+        "matches": 8493,
+        "playtime": 5505769667,
+        "finished": 2766,
+        "finishtime": 2261546624,
+        "won": 4306,
         "lost": 4003,
         "forfeited": 2016
     },
@@ -4367,12 +4373,12 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 5019,
-        "playtime": 3364752735,
+        "matches": 5020,
+        "playtime": 3365341532,
         "finished": 1505,
         "finishtime": 1196213926,
         "won": 2468,
-        "lost": 2307,
+        "lost": 2308,
         "forfeited": 757
     },
     "da1d85337d244f789d60b009e1e2b346": {
