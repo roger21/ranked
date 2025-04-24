@@ -1,5 +1,5 @@
 {
-    "date": 1745477401000,
+    "date": 1745478001000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -10481,14 +10481,14 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 20,
-                "elo": 1537,
+                "elo": 1535,
                 "top": 1609,
                 "points": 0,
                 "pb": 487741,
                 "current": 1,
                 "streak": 3,
-                "matches": 37,
-                "playtime": 22616986,
+                "matches": 38,
+                "playtime": 23461792,
                 "finished": 17,
                 "finishtime": 10509582,
                 "won": 18,
@@ -10497,6 +10497,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1745477624000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "harusame_0123",
+                    "elo": 1535,
+                    "change": -2,
+                    "oelo": 1390,
+                    "ochange": 2,
+                    "time": 844806,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745476509000,
                     "type": "RUINED_PORTAL",
@@ -10951,7 +10965,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 21,
+                "rank": 20,
                 "elo": 1535,
                 "top": 1539,
                 "points": 0,
