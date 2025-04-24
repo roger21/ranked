@@ -1,5 +1,5 @@
 {
-    "date": 1745518201000,
+    "date": 1745518801000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -21500,8 +21500,8 @@
                 "pb": 542716,
                 "current": 2,
                 "streak": 7,
-                "matches": 49,
-                "playtime": 33791290,
+                "matches": 50,
+                "playtime": 34163515,
                 "finished": 22,
                 "finishtime": 16775570,
                 "won": 29,
@@ -21510,6 +21510,20 @@
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1745518803000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "tucrack",
+                    "elo": 1488,
+                    "change": 0,
+                    "oelo": 1480,
+                    "ochange": 0,
+                    "time": 372225,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745518028000,
                     "type": "RUINED_PORTAL",
@@ -23039,8 +23053,8 @@
                 "pb": 503991,
                 "current": 1,
                 "streak": 5,
-                "matches": 48,
-                "playtime": 29144588,
+                "matches": 49,
+                "playtime": 29516813,
                 "finished": 17,
                 "finishtime": 11754450,
                 "won": 26,
@@ -23049,6 +23063,20 @@
             },
             "country": "ar",
             "matches": [
+                {
+                    "date": 1745518803000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "90Tom",
+                    "elo": 1480,
+                    "change": 0,
+                    "oelo": 1488,
+                    "ochange": 0,
+                    "time": 372225,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745518118000,
                     "type": "DESERT_TEMPLE",
