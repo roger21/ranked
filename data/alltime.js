@@ -590,11 +590,11 @@
         },
         "pb": 469453,
         "streak": 9,
-        "matches": 1986,
-        "playtime": 1361115568,
+        "matches": 1987,
+        "playtime": 1361723233,
         "finished": 619,
         "finishtime": 509366898,
-        "won": 1004,
+        "won": 1005,
         "lost": 890,
         "forfeited": 199
     },
@@ -4836,13 +4836,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2079,
-        "playtime": 1406098203,
+        "matches": 2080,
+        "playtime": 1406705868,
         "finished": 760,
         "finishtime": 617952594,
         "won": 1136,
-        "lost": 909,
-        "forfeited": 342
+        "lost": 910,
+        "forfeited": 343
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "tucrack",
