@@ -4280,33 +4280,6 @@
         "lost": 3991,
         "forfeited": 983
     },
-    "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
-        "country": "tw",
-        "top": {
-            "4": 1087,
-            "5": 1388,
-            "6": 1636,
-            "7": 1902,
-            "8": 1511
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 482356,
-        "streak": 14,
-        "matches": 5656,
-        "playtime": 3612582847,
-        "finished": 1457,
-        "finishtime": 1249798556,
-        "won": 2788,
-        "lost": 2702,
-        "forfeited": 1768
-    },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
         "country": "de",
