@@ -1,5 +1,5 @@
 {
-    "date": 1745598001000,
+    "date": 1745598601000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -30487,7 +30487,7 @@
             "uuid": "6135d13bce2841f8b7e8d37d91c6edfe",
             "nickname": "boywithcards",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1466,
                 "top": 1514,
                 "points": 0,
