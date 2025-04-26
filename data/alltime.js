@@ -183,12 +183,12 @@
         },
         "pb": 477032,
         "streak": 12,
-        "matches": 3337,
-        "playtime": 2232439661,
+        "matches": 3338,
+        "playtime": 2232979164,
         "finished": 1219,
         "finishtime": 926071585,
         "won": 1677,
-        "lost": 1530,
+        "lost": 1531,
         "forfeited": 347
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
@@ -404,12 +404,12 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3225,
-        "playtime": 2362227591,
+        "matches": 3226,
+        "playtime": 2362957643,
         "finished": 929,
         "finishtime": 800110087,
         "won": 1621,
-        "lost": 1434,
+        "lost": 1435,
         "forfeited": 384
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
@@ -1968,13 +1968,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7615,
-        "playtime": 4853267348,
+        "matches": 7617,
+        "playtime": 4853904529,
         "finished": 2682,
         "finishtime": 2057858850,
         "won": 3778,
-        "lost": 3583,
-        "forfeited": 1298
+        "lost": 3585,
+        "forfeited": 1300
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
@@ -2635,11 +2635,11 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2474,
-        "playtime": 1697588492,
-        "finished": 678,
-        "finishtime": 589225211,
-        "won": 1217,
+        "matches": 2475,
+        "playtime": 1698655946,
+        "finished": 679,
+        "finishtime": 590292665,
+        "won": 1218,
         "lost": 1137,
         "forfeited": 480
     },
@@ -3271,7 +3271,7 @@
             "5": 1767,
             "6": 1802,
             "7": 1992,
-            "8": 1532
+            "8": 1555
         },
         "points": {
             "1": 0,
@@ -3285,11 +3285,11 @@
         },
         "pb": 424299,
         "streak": 24,
-        "matches": 6424,
-        "playtime": 3843646678,
-        "finished": 1971,
-        "finishtime": 1498031108,
-        "won": 3171,
+        "matches": 6425,
+        "playtime": 3844186181,
+        "finished": 1972,
+        "finishtime": 1498570611,
+        "won": 3172,
         "lost": 3021,
         "forfeited": 1747
     },
