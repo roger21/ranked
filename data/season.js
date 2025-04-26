@@ -1,5 +1,5 @@
 {
-    "date": 1745691001000,
+    "date": 1745691601000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -31824,23 +31824,37 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 46,
-                "elo": 1515,
+                "rank": 52,
+                "elo": 1498,
                 "top": 1603,
                 "points": 0,
                 "pb": 531412,
-                "current": 2,
+                "current": 0,
                 "streak": 6,
-                "matches": 58,
-                "playtime": 34597919,
+                "matches": 59,
+                "playtime": 35136331,
                 "finished": 23,
                 "finishtime": 15503412,
                 "won": 30,
-                "lost": 24,
-                "forfeited": 8
+                "lost": 25,
+                "forfeited": 9
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1745691626000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "KenanKardes",
+                    "elo": 1498,
+                    "change": -17,
+                    "oelo": 1628,
+                    "ochange": 17,
+                    "time": 538412,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745682233000,
                     "type": "VILLAGE",
@@ -33928,7 +33942,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1514,
                 "top": 1571,
                 "points": 0,
@@ -34133,7 +34147,7 @@
             "uuid": "93c09b58a2a74ec8802ef0d01b98dfd0",
             "nickname": "GabzlynMC",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1512,
                 "top": 1512,
                 "points": 0,
@@ -34856,7 +34870,7 @@
             "uuid": "80e571501cef423eaab693d85ed2fc75",
             "nickname": "dontffpls",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1505,
                 "top": 1505,
                 "points": 0,
