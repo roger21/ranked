@@ -1,5 +1,5 @@
 {
-    "date": 1745704201000,
+    "date": 1745704801000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -1247,14 +1247,14 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 2,
-                "elo": 1822,
+                "elo": 1819,
                 "top": 1822,
                 "points": 0,
                 "pb": 426573,
                 "current": 3,
                 "streak": 15,
-                "matches": 92,
-                "playtime": 52326663,
+                "matches": 93,
+                "playtime": 53067843,
                 "finished": 56,
                 "finishtime": 31978912,
                 "won": 60,
@@ -1263,6 +1263,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1745704222000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "iKme_",
+                    "elo": 1819,
+                    "change": -3,
+                    "oelo": 1511,
+                    "ochange": 3,
+                    "time": 741180,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745702822000,
                     "type": "SHIPWRECK",
@@ -20762,23 +20776,37 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 27,
-                "elo": 1566,
+                "rank": 31,
+                "elo": 1545,
                 "top": 1587,
                 "points": 0,
                 "pb": 516725,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 115,
-                "playtime": 73991070,
+                "matches": 116,
+                "playtime": 74751511,
                 "finished": 43,
                 "finishtime": 29887681,
                 "won": 59,
-                "lost": 48,
+                "lost": 49,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1745704806000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "RRed",
+                    "elo": 1545,
+                    "change": -21,
+                    "oelo": 1547,
+                    "ochange": 21,
+                    "time": 760441,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745703931000,
                     "type": "VILLAGE",
@@ -22325,7 +22353,7 @@
             "uuid": "8b6de3393be345fdb8dcf0959f42f457",
             "nickname": "55crimson",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1554,
                 "top": 1554,
                 "points": 0,
@@ -22432,7 +22460,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1552,
                 "top": 1553,
                 "points": 0,
@@ -22707,7 +22735,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "RambuncGamingX89",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1552,
                 "top": 1577,
                 "points": 0,
@@ -24895,7 +24923,7 @@
             "uuid": "d10be6f072a34e069882ae04bfe60c98",
             "nickname": "Unknwonc",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1543,
                 "top": 1556,
                 "points": 0,
@@ -25240,7 +25268,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1535,
                 "top": 1586,
                 "points": 0,
@@ -26229,7 +26257,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1534,
                 "top": 1613,
                 "points": 0,
@@ -26812,7 +26840,7 @@
             "uuid": "74ce14cf794b431bb3e10d5311d0777f",
             "nickname": "Seauu",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1533,
                 "top": 1533,
                 "points": 0,
@@ -26834,7 +26862,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1531,
                 "top": 1531,
                 "points": 0,
@@ -27025,7 +27053,7 @@
             "uuid": "6ddcd037dd4048e8804d0f99fa1cf4c6",
             "nickname": "Ale267",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1527,
                 "top": 1549,
                 "points": 0,
@@ -28882,7 +28910,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1527,
                 "top": 1532,
                 "points": 0,
@@ -28975,23 +29003,37 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 39,
-                "elo": 1526,
+                "rank": 30,
+                "elo": 1547,
                 "top": 1563,
                 "points": 0,
                 "pb": 515465,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 143,
-                "playtime": 95484097,
-                "finished": 52,
-                "finishtime": 38321370,
-                "won": 74,
+                "matches": 144,
+                "playtime": 96244538,
+                "finished": 53,
+                "finishtime": 39081811,
+                "won": 75,
                 "lost": 63,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1745704806000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "JackoWacko62",
+                    "elo": 1547,
+                    "change": 21,
+                    "oelo": 1545,
+                    "ochange": -21,
+                    "time": 760441,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745643044000,
                     "type": "BURIED_TREASURE",
