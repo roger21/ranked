@@ -169,7 +169,7 @@
             "5": 2065,
             "6": 2126,
             "7": 1574,
-            "8": 1596
+            "8": 1611
         },
         "points": {
             "1": 0,
@@ -183,11 +183,11 @@
         },
         "pb": 477032,
         "streak": 12,
-        "matches": 3335,
-        "playtime": 2231121590,
-        "finished": 1218,
-        "finishtime": 925291926,
-        "won": 1675,
+        "matches": 3336,
+        "playtime": 2231901249,
+        "finished": 1219,
+        "finishtime": 926071585,
+        "won": 1676,
         "lost": 1530,
         "forfeited": 347
     },
@@ -249,12 +249,12 @@
         },
         "pb": 524331,
         "streak": 13,
-        "matches": 1811,
-        "playtime": 1332836308,
+        "matches": 1812,
+        "playtime": 1333527359,
         "finished": 663,
         "finishtime": 545728942,
         "won": 986,
-        "lost": 785,
+        "lost": 786,
         "forfeited": 27
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
@@ -404,13 +404,13 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3221,
-        "playtime": 2360533425,
+        "matches": 3222,
+        "playtime": 2361036436,
         "finished": 929,
         "finishtime": 800110087,
         "won": 1620,
-        "lost": 1432,
-        "forfeited": 382
+        "lost": 1433,
+        "forfeited": 383
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -4270,7 +4270,7 @@
             "5": 1713,
             "6": 1701,
             "7": 2011,
-            "8": 1500
+            "8": 1519
         },
         "points": {
             "1": 0,
@@ -4284,11 +4284,11 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 5029,
-        "playtime": 3370606637,
-        "finished": 1508,
-        "finishtime": 1198218650,
-        "won": 2473,
+        "matches": 5030,
+        "playtime": 3371297688,
+        "finished": 1509,
+        "finishtime": 1198909701,
+        "won": 2474,
         "lost": 2311,
         "forfeited": 757
     },
