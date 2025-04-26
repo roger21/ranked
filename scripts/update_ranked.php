@@ -35,7 +35,7 @@
     $season=$argv[1];
     $season_p="&season=$season";
     $season_p1="?season=$season";
-    $last_match=(file_get_contents($api_url."matches?page=0&count=1&".
+    $last_match=(file_get_contents($api_url."matches?count=1&".
                                    "type=2&includedecay{$season_p}",
                                    false, $context));
     if($last_match === false ||
@@ -175,24 +175,37 @@
     $at[$p["uuid"]]["forfeited"]=$ss["data"]["statistics"]["total"]["forfeits"]["ranked"];
 
     $p["matches"]=[];
-    $page=0;
+    $before_id="";
+    $before="";
     $done=false;
+    $request=0;
     while(!$done){
       unset($matches);
       $matches=(file_get_contents($api_url."users/{$p["uuid"]}/".
-                                  "matches?page={$page}&".
-                                  "count=50&type=2{$season_p}",
+                                  "matches?count=100&type=2".
+                                  "{$season_p}{$before}",
                                   false, $context));
       if($matches === false ||
          !isset($http_response_header[0]) ||
          $http_response_header[0] !== "HTTP/1.1 200 OK"){
         echo "request error ".($http_response_header[0] ?? "no header").
-                             " {$p["nickname"]} page {$page}\n";
+                             " {$p["nickname"]} before {$before_id}\n";
         die(1);
       }
-      echo "(".(++$request_counter).") {$p["nickname"]} page {$page}\n";
+      echo "(".(++$request_counter).") {$p["nickname"]} before {$before_id}\n";
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
+      if(!is_array($mm) || count($mm) === 0){
+        echo "not an array or empty\n";
+        $done=true;
+        continue;
+      }
+      ++$request;
+      if($request > 30){
+        echo "more than 30 requests\n";
+        $done=true;
+        continue;
+      }
       foreach($mm["data"] as $m){
         $date=((int)$m["date"]) * 1000;
         $win=$m["result"] === null ? "elo decay" :
@@ -223,8 +236,8 @@
         }
         if($date >= $past && !$placement){
           $p["matches"][]=["date" => $date,
-                           "type" => $m["seedType"],
-                           "bastion" => $m["bastionType"],
+                           "type" => $m["seedType"] ?? null,
+                           "bastion" => $m["bastionType"] ?? null,
                            "result"=> $win,
                            "opponent" => $opponent,
                            "elo" => $elo,
@@ -239,10 +252,8 @@
           $done=true;
           break;
         }
-      }
-      ++$page;
-      if($page === 100){
-        $done=true;
+        $before_id=$m["id"];
+        $before="&before=".$before_id;
       }
     }
     echo "#".(++$player_counter)." {$p["nickname"]} ".
