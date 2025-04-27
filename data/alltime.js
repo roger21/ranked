@@ -2720,7 +2720,7 @@
             "5": 1808,
             "6": 1767,
             "7": 1805,
-            "8": 1524
+            "8": 1544
         },
         "points": {
             "1": 0,
@@ -2734,11 +2734,11 @@
         },
         "pb": 477704,
         "streak": 10,
-        "matches": 1477,
-        "playtime": 941289184,
-        "finished": 531,
-        "finishtime": 405991708,
-        "won": 803,
+        "matches": 1478,
+        "playtime": 941999841,
+        "finished": 532,
+        "finishtime": 406702365,
+        "won": 804,
         "lost": 599,
         "forfeited": 207
     },
@@ -2864,11 +2864,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8536,
-        "playtime": 5531341343,
-        "finished": 2782,
-        "finishtime": 2272717660,
-        "won": 4328,
+        "matches": 8537,
+        "playtime": 5532031012,
+        "finished": 2783,
+        "finishtime": 2273407329,
+        "won": 4329,
         "lost": 4023,
         "forfeited": 2024
     },
@@ -3124,13 +3124,13 @@
         },
         "pb": 439571,
         "streak": 9,
-        "matches": 4475,
-        "playtime": 2841886979,
+        "matches": 4476,
+        "playtime": 2842296508,
         "finished": 1595,
         "finishtime": 1186141344,
         "won": 2242,
-        "lost": 2077,
-        "forfeited": 776
+        "lost": 2078,
+        "forfeited": 777
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -3190,13 +3190,13 @@
         },
         "pb": 478074,
         "streak": 18,
-        "matches": 3267,
-        "playtime": 2126081035,
+        "matches": 3268,
+        "playtime": 2126695169,
         "finished": 1034,
         "finishtime": 827506277,
         "won": 1687,
-        "lost": 1484,
-        "forfeited": 726
+        "lost": 1485,
+        "forfeited": 727
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
         "nickname": "loodlow",
@@ -3221,11 +3221,11 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 2667,
-        "playtime": 1558320355,
-        "finished": 960,
-        "finishtime": 686559620,
-        "won": 1360,
+        "matches": 2668,
+        "playtime": 1558883681,
+        "finished": 961,
+        "finishtime": 687122946,
+        "won": 1361,
         "lost": 1226,
         "forfeited": 600
     },
@@ -3259,39 +3259,6 @@
         "won": 2228,
         "lost": 2124,
         "forfeited": 1236
-    },
-    "a0a672a0bc194540bc195220dc170dba": {
-        "nickname": "JackoWacko62",
-        "country": "us",
-        "top": {
-            "1": 1585,
-            "2": 1590,
-            "3": 1607,
-            "4": 1652,
-            "5": 1767,
-            "6": 1802,
-            "7": 1992,
-            "8": 1590
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 15,
-            "5": 10,
-            "6": 30,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 424299,
-        "streak": 24,
-        "matches": 6449,
-        "playtime": 3859313743,
-        "finished": 1981,
-        "finishtime": 1504938493,
-        "won": 3183,
-        "lost": 3033,
-        "forfeited": 1747
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -3669,12 +3636,12 @@
         },
         "pb": 466241,
         "streak": 11,
-        "matches": 2308,
-        "playtime": 1484495614,
+        "matches": 2309,
+        "playtime": 1485142050,
         "finished": 737,
         "finishtime": 565636253,
         "won": 1159,
-        "lost": 1055,
+        "lost": 1056,
         "forfeited": 366
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
@@ -4280,12 +4247,12 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 5074,
-        "playtime": 3397877116,
+        "matches": 5075,
+        "playtime": 3398566785,
         "finished": 1524,
         "finishtime": 1208557666,
         "won": 2495,
-        "lost": 2331,
+        "lost": 2332,
         "forfeited": 757
     },
     "da1d85337d244f789d60b009e1e2b346": {
