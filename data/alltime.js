@@ -74,7 +74,7 @@
             "5": 1805,
             "6": 1743,
             "7": 1698,
-            "8": 1535
+            "8": 1552
         },
         "points": {
             "1": 0,
@@ -88,11 +88,11 @@
         },
         "pb": 470445,
         "streak": 13,
-        "matches": 2054,
-        "playtime": 1208790006,
+        "matches": 2055,
+        "playtime": 1209149713,
         "finished": 494,
         "finishtime": 397796360,
-        "won": 1039,
+        "won": 1040,
         "lost": 948,
         "forfeited": 730
     },
@@ -1970,13 +1970,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7635,
-        "playtime": 4861443748,
+        "matches": 7636,
+        "playtime": 4861794109,
         "finished": 2689,
         "finishtime": 2062423922,
         "won": 3787,
-        "lost": 3594,
-        "forfeited": 1307
+        "lost": 3595,
+        "forfeited": 1308
     },
     "6135d13bce2841f8b7e8d37d91c6edfe": {
         "nickname": "boywithcards",
@@ -3735,13 +3735,13 @@
         },
         "pb": 438785,
         "streak": 9,
-        "matches": 2750,
-        "playtime": 1877464911,
+        "matches": 2751,
+        "playtime": 1877824618,
         "finished": 884,
         "finishtime": 721106789,
         "won": 1416,
-        "lost": 1212,
-        "forfeited": 399
+        "lost": 1213,
+        "forfeited": 400
     },
     "b516d1d18261467bbb6f447f0c111be7": {
         "nickname": "Gabryll_",
