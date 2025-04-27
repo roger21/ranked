@@ -1,5 +1,5 @@
 {
-    "date": 1745749801000,
+    "date": 1745750401000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -14262,22 +14262,36 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 17,
-                "elo": 1621,
+                "elo": 1636,
                 "top": 1648,
                 "points": 0,
                 "pb": 428490,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
-                "matches": 100,
-                "playtime": 60461953,
-                "finished": 46,
-                "finishtime": 28516111,
-                "won": 57,
+                "matches": 101,
+                "playtime": 61251122,
+                "finished": 47,
+                "finishtime": 29305280,
+                "won": 58,
                 "lost": 42,
                 "forfeited": 4
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1745750157000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "SammmyG",
+                    "elo": 1636,
+                    "change": 15,
+                    "oelo": 1466,
+                    "ochange": -15,
+                    "time": 789169,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745749188000,
                     "type": "RUINED_PORTAL",
