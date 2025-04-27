@@ -1,5 +1,5 @@
 {
-    "date": 1745744401000,
+    "date": 1745745001000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -13385,14 +13385,14 @@
             "nickname": "romuxii",
             "stats": {
                 "rank": 16,
-                "elo": 1623,
+                "elo": 1621,
                 "top": 1676,
                 "points": 0,
                 "pb": 450023,
                 "current": 0,
                 "streak": 6,
-                "matches": 58,
-                "playtime": 35714423,
+                "matches": 59,
+                "playtime": 36453650,
                 "finished": 34,
                 "finishtime": 20799723,
                 "won": 36,
@@ -13401,6 +13401,20 @@
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1745744826000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "JAKUSZEWICZ",
+                    "elo": 1621,
+                    "change": -2,
+                    "oelo": 1418,
+                    "ochange": 2,
+                    "time": 739227,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745743395000,
                     "type": "SHIPWRECK",
