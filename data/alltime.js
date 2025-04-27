@@ -2668,13 +2668,13 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 3118,
-        "playtime": 1998716387,
+        "matches": 3119,
+        "playtime": 1999230360,
         "finished": 984,
         "finishtime": 778355790,
         "won": 1603,
-        "lost": 1415,
-        "forfeited": 738
+        "lost": 1416,
+        "forfeited": 739
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "yummycelery",
