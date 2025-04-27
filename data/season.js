@@ -1,5 +1,5 @@
 {
-    "date": 1745786401000,
+    "date": 1745787001000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -14053,14 +14053,14 @@
             "nickname": "Maraico",
             "stats": {
                 "rank": 14,
-                "elo": 1649,
+                "elo": 1648,
                 "top": 1649,
                 "points": 0,
                 "pb": 557264,
                 "current": 9,
                 "streak": 9,
-                "matches": 34,
-                "playtime": 21298089,
+                "matches": 35,
+                "playtime": 22089884,
                 "finished": 20,
                 "finishtime": 13233573,
                 "won": 23,
@@ -14069,6 +14069,20 @@
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1745786769000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Voxio",
+                    "elo": 1648,
+                    "change": -1,
+                    "oelo": 1572,
+                    "ochange": 1,
+                    "time": 791795,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745626160000,
                     "type": "SHIPWRECK",
@@ -24053,14 +24067,14 @@
             "nickname": "Voxio",
             "stats": {
                 "rank": 30,
-                "elo": 1571,
-                "top": 1571,
+                "elo": 1572,
+                "top": 1572,
                 "points": 0,
                 "pb": 526343,
                 "current": 1,
                 "streak": 8,
-                "matches": 89,
-                "playtime": 51299721,
+                "matches": 90,
+                "playtime": 52091516,
                 "finished": 39,
                 "finishtime": 25557678,
                 "won": 52,
@@ -24069,6 +24083,20 @@
             },
             "country": "fr",
             "matches": [
+                {
+                    "date": 1745786769000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Maraico",
+                    "elo": 1572,
+                    "change": 1,
+                    "oelo": 1648,
+                    "ochange": -1,
+                    "time": 791795,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745785895000,
                     "type": "RUINED_PORTAL",
