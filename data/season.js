@@ -1,5 +1,5 @@
 {
-    "date": 1745796601000,
+    "date": 1745797201000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -1345,22 +1345,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 2,
-                "elo": 1844,
-                "top": 1844,
+                "elo": 1858,
+                "top": 1858,
                 "points": 0,
                 "pb": 426573,
-                "current": 5,
+                "current": 6,
                 "streak": 15,
-                "matches": 95,
-                "playtime": 54191565,
-                "finished": 58,
-                "finishtime": 33102634,
-                "won": 62,
+                "matches": 96,
+                "playtime": 54789008,
+                "finished": 59,
+                "finishtime": 33700077,
+                "won": 63,
                 "lost": 30,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1745796897000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Aquacorde",
+                    "elo": 1858,
+                    "change": 14,
+                    "oelo": 1653,
+                    "ochange": -14,
+                    "time": 597443,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745725028000,
                     "type": "DESERT_TEMPLE",
@@ -11930,22 +11944,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 13,
-                "elo": 1667,
+                "elo": 1653,
                 "top": 1764,
                 "points": 0,
                 "pb": 494892,
                 "current": 0,
                 "streak": 7,
-                "matches": 92,
-                "playtime": 56898531,
+                "matches": 93,
+                "playtime": 57495974,
                 "finished": 47,
                 "finishtime": 29320800,
                 "won": 54,
-                "lost": 36,
+                "lost": 37,
                 "forfeited": 1
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1745796897000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 1653,
+                    "change": -14,
+                    "oelo": 1858,
+                    "ochange": 14,
+                    "time": 597443,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745720411000,
                     "type": "DESERT_TEMPLE",
