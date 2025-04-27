@@ -2380,8 +2380,8 @@
         "forfeited": 296
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
-        "nickname": "RambuncGamingX89",
-        "country": null,
+        "nickname": "TUDORULE",
+        "country": "ro",
         "top": {
             "1": 1633,
             "2": 1598,
@@ -2668,11 +2668,11 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 3119,
-        "playtime": 1999230360,
+        "matches": 3120,
+        "playtime": 1999848590,
         "finished": 984,
         "finishtime": 778355790,
-        "won": 1603,
+        "won": 1604,
         "lost": 1416,
         "forfeited": 739
     },
@@ -3370,7 +3370,7 @@
             "5": 1814,
             "6": 2035,
             "7": 1746,
-            "8": 1418
+            "8": 1437
         },
         "points": {
             "1": 0,
@@ -3384,11 +3384,11 @@
         },
         "pb": 498416,
         "streak": 9,
-        "matches": 668,
-        "playtime": 419652507,
+        "matches": 669,
+        "playtime": 419927544,
         "finished": 276,
         "finishtime": 203146479,
-        "won": 400,
+        "won": 401,
         "lost": 239,
         "forfeited": 67
     },
