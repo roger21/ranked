@@ -183,13 +183,13 @@
         },
         "pb": 477032,
         "streak": 12,
-        "matches": 3357,
-        "playtime": 2244190347,
+        "matches": 3358,
+        "playtime": 2244550559,
         "finished": 1229,
         "finishtime": 932490715,
         "won": 1688,
-        "lost": 1539,
-        "forfeited": 349
+        "lost": 1540,
+        "forfeited": 350
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
         "nickname": "NOHACKSJUSTTIGER",
@@ -2057,12 +2057,12 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2116,
-        "playtime": 1363658801,
+        "matches": 2117,
+        "playtime": 1364582252,
         "finished": 698,
         "finishtime": 541536999,
         "won": 1084,
-        "lost": 943,
+        "lost": 944,
         "forfeited": 356
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -3175,7 +3175,7 @@
             "5": 2003,
             "6": 1815,
             "7": 2026,
-            "8": 1480
+            "8": 1497
         },
         "points": {
             "2": 0,
@@ -3188,11 +3188,11 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 2636,
-        "playtime": 1542710277,
-        "finished": 952,
-        "finishtime": 681484715,
-        "won": 1347,
+        "matches": 2637,
+        "playtime": 1543287588,
+        "finished": 953,
+        "finishtime": 682062026,
+        "won": 1348,
         "lost": 1208,
         "forfeited": 591
     },
@@ -3905,7 +3905,7 @@
             "5": 2306,
             "6": 2208,
             "7": 2334,
-            "8": 1707
+            "8": 1724
         },
         "points": {
             "1": 0,
@@ -3919,11 +3919,11 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4469,
-        "playtime": 2556151564,
+        "matches": 4470,
+        "playtime": 2556511776,
         "finished": 1900,
         "finishtime": 1282697329,
-        "won": 2484,
+        "won": 2485,
         "lost": 1824,
         "forfeited": 1057
     },
