@@ -313,12 +313,12 @@
         },
         "pb": 440493,
         "streak": 14,
-        "matches": 3005,
-        "playtime": 1825443479,
+        "matches": 3006,
+        "playtime": 1826002575,
         "finished": 1298,
         "finishtime": 879372248,
         "won": 1622,
-        "lost": 1299,
+        "lost": 1300,
         "forfeited": 399
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
@@ -470,11 +470,11 @@
         },
         "pb": 436863,
         "streak": 23,
-        "matches": 2369,
-        "playtime": 1470980740,
-        "finished": 1156,
-        "finishtime": 765464003,
-        "won": 1492,
+        "matches": 2370,
+        "playtime": 1471539836,
+        "finished": 1157,
+        "finishtime": 766023099,
+        "won": 1493,
         "lost": 808,
         "forfeited": 60
     },
@@ -2286,13 +2286,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 1942,
-        "playtime": 1281032659,
+        "matches": 1943,
+        "playtime": 1281318570,
         "finished": 654,
         "finishtime": 527950587,
         "won": 1017,
-        "lost": 869,
-        "forfeited": 342
+        "lost": 870,
+        "forfeited": 343
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -2577,6 +2577,39 @@
         "lost": 292,
         "forfeited": 141
     },
+    "80e571501cef423eaab693d85ed2fc75": {
+        "nickname": "dontffpls",
+        "country": "au",
+        "top": {
+            "1": 1356,
+            "2": 1492,
+            "3": 1538,
+            "4": 1499,
+            "5": 1385,
+            "6": 1708,
+            "7": 1784,
+            "8": 1536
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 10,
+            "7": 15,
+            "8": 0
+        },
+        "pb": 512358,
+        "streak": 9,
+        "matches": 1902,
+        "playtime": 1309894353,
+        "finished": 504,
+        "finishtime": 469770678,
+        "won": 970,
+        "lost": 875,
+        "forfeited": 480
+    },
     "817a3f2e92da42ab89c64a787ce16d28": {
         "nickname": "Voxio",
         "country": "fr",
@@ -2850,7 +2883,7 @@
             "5": 1763,
             "6": 1904,
             "7": 1902,
-            "8": 1504
+            "8": 1505
         },
         "points": {
             "1": 0,
@@ -2864,11 +2897,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8550,
-        "playtime": 5540460872,
-        "finished": 2789,
-        "finishtime": 2277317897,
-        "won": 4337,
+        "matches": 8551,
+        "playtime": 5541298783,
+        "finished": 2790,
+        "finishtime": 2278155808,
+        "won": 4338,
         "lost": 4028,
         "forfeited": 2025
     },
