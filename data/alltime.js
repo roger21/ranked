@@ -1081,11 +1081,11 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11676,
-        "playtime": 7627879408,
-        "finished": 4825,
-        "finishtime": 3455917414,
-        "won": 6473,
+        "matches": 11677,
+        "playtime": 7628717611,
+        "finished": 4826,
+        "finishtime": 3456755617,
+        "won": 6474,
         "lost": 4986,
         "forfeited": 703
     },
@@ -1805,13 +1805,13 @@
         },
         "pb": 508568,
         "streak": 19,
-        "matches": 764,
-        "playtime": 499585150,
+        "matches": 765,
+        "playtime": 499778086,
         "finished": 293,
         "finishtime": 222765853,
         "won": 454,
-        "lost": 290,
-        "forfeited": 79
+        "lost": 291,
+        "forfeited": 80
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
@@ -2175,7 +2175,7 @@
             "5": 1910,
             "6": 1857,
             "7": 2017,
-            "8": 0
+            "8": 1428
         },
         "points": {
             "1": 0,
@@ -2189,8 +2189,8 @@
         },
         "pb": 486560,
         "streak": 12,
-        "matches": 1803,
-        "playtime": 1225349046,
+        "matches": 1804,
+        "playtime": 1225848647,
         "finished": 665,
         "finishtime": 506366519,
         "won": 955,
@@ -2423,7 +2423,7 @@
             "5": 2174,
             "6": 2273,
             "7": 2168,
-            "8": 1577
+            "8": 1597
         },
         "points": {
             "1": 0,
@@ -2437,11 +2437,11 @@
         },
         "pb": 430515,
         "streak": 11,
-        "matches": 5367,
-        "playtime": 3330058422,
-        "finished": 1911,
-        "finishtime": 1390662933,
-        "won": 2718,
+        "matches": 5368,
+        "playtime": 3330589742,
+        "finished": 1912,
+        "finishtime": 1391194253,
+        "won": 2719,
         "lost": 2417,
         "forfeited": 872
     },
@@ -3721,7 +3721,7 @@
             "5": 1873,
             "6": 2018,
             "7": 2171,
-            "8": 1617
+            "8": 1618
         },
         "points": {
             "1": 0,
@@ -3735,8 +3735,8 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 3017,
-        "playtime": 1925499756,
+        "matches": 3018,
+        "playtime": 1926026423,
         "finished": 1391,
         "finishtime": 1012036862,
         "won": 1873,
@@ -3985,8 +3985,8 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4486,
-        "playtime": 2564761197,
+        "matches": 4487,
+        "playtime": 2565287864,
         "finished": 1907,
         "finishtime": 1286612098,
         "won": 2493,
