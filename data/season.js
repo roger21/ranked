@@ -1,5 +1,5 @@
 {
-    "date": 1745797801000,
+    "date": 1745798401000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -20353,23 +20353,37 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 24,
-                "elo": 1591,
+                "rank": 28,
+                "elo": 1580,
                 "top": 1591,
                 "points": 0,
                 "pb": 516725,
-                "current": 4,
+                "current": 0,
                 "streak": 10,
-                "matches": 130,
-                "playtime": 83458506,
+                "matches": 131,
+                "playtime": 83970033,
                 "finished": 49,
                 "finishtime": 34055621,
                 "won": 67,
-                "lost": 55,
+                "lost": 56,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1745798404000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 1580,
+                    "change": -11,
+                    "oelo": 1869,
+                    "ochange": 11,
+                    "time": 511527,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745797784000,
                     "type": "DESERT_TEMPLE",
@@ -22126,7 +22140,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1589,
                 "top": 1632,
                 "points": 0,
@@ -22555,7 +22569,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1586,
                 "top": 1605,
                 "points": 0,
@@ -23670,7 +23684,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1585,
                 "top": 1603,
                 "points": 0,
