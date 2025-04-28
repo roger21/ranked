@@ -1,5 +1,5 @@
 {
-    "date": 1745834401000,
+    "date": 1745835001000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -21641,23 +21641,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 25,
-                "elo": 1586,
+                "rank": 31,
+                "elo": 1565,
                 "top": 1637,
                 "points": 0,
                 "pb": 446901,
-                "current": 1,
+                "current": 0,
                 "streak": 7,
-                "matches": 64,
-                "playtime": 38956698,
+                "matches": 65,
+                "playtime": 39550304,
                 "finished": 33,
                 "finishtime": 21883984,
                 "won": 37,
-                "lost": 26,
+                "lost": 27,
                 "forfeited": 2
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1745835011000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "priffie",
+                    "elo": 1565,
+                    "change": -21,
+                    "oelo": 1568,
+                    "ochange": 21,
+                    "time": 593606,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745834233000,
                     "type": "BURIED_TREASURE",
@@ -23605,7 +23619,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1585,
                 "top": 1603,
                 "points": 0,
@@ -23740,7 +23754,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0tic2030",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1578,
                 "top": 1578,
                 "points": 0,
@@ -26049,7 +26063,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 1564,
                 "top": 1693,
                 "points": 0,
@@ -26982,7 +26996,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okrzej_",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1563,
                 "top": 1585,
                 "points": 0,
@@ -27607,7 +27621,7 @@
             "uuid": "1f844c3aedb34559b537f45771a7a61d",
             "nickname": "Bodek",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1553,
                 "top": 1553,
                 "points": 0,
@@ -29436,7 +29450,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1552,
                 "top": 1632,
                 "points": 0,
@@ -29935,7 +29949,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1552,
                 "top": 1577,
                 "points": 0,
@@ -30868,7 +30882,7 @@
             "uuid": "745a819973974fe1bb1608e57fd439b6",
             "nickname": "centuriee",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1548,
                 "top": 1548,
                 "points": 0,
@@ -31829,7 +31843,7 @@
             "uuid": "8b6de3393be345fdb8dcf0959f42f457",
             "nickname": "55crimson",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1547,
                 "top": 1591,
                 "points": 0,
@@ -32020,23 +32034,37 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 37,
-                "elo": 1547,
-                "top": 1547,
+                "rank": 28,
+                "elo": 1568,
+                "top": 1568,
                 "points": 0,
                 "pb": 528365,
-                "current": 1,
+                "current": 2,
                 "streak": 3,
-                "matches": 14,
-                "playtime": 9195160,
-                "finished": 9,
-                "finishtime": 6097265,
-                "won": 9,
+                "matches": 15,
+                "playtime": 9788766,
+                "finished": 10,
+                "finishtime": 6690871,
+                "won": 10,
                 "lost": 5,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1745835011000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "v_strid",
+                    "elo": 1568,
+                    "change": 21,
+                    "oelo": 1565,
+                    "ochange": -21,
+                    "time": 593606,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745834357000,
                     "type": "DESERT_TEMPLE",
