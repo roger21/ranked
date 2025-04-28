@@ -4639,6 +4639,39 @@
         "lost": 917,
         "forfeited": 345
     },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "tucrack",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1529
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 503991,
+        "streak": 8,
+        "matches": 724,
+        "playtime": 497913414,
+        "finished": 234,
+        "finishtime": 195796348,
+        "won": 383,
+        "lost": 307,
+        "forfeited": 87
+    },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
         "country": null,
