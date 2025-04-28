@@ -1,5 +1,5 @@
 {
-    "date": 1745865601000,
+    "date": 1745866201000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -22570,23 +22570,37 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 24,
-                "elo": 1605,
+                "rank": 28,
+                "elo": 1581,
                 "top": 1693,
                 "points": 0,
                 "pb": 505893,
-                "current": 2,
+                "current": 0,
                 "streak": 7,
-                "matches": 79,
-                "playtime": 49092124,
+                "matches": 80,
+                "playtime": 49992906,
                 "finished": 37,
                 "finishtime": 25343706,
                 "won": 46,
-                "lost": 30,
+                "lost": 31,
                 "forfeited": 1
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1745866211000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "rickypizzaaa",
+                    "elo": 1581,
+                    "change": -24,
+                    "oelo": 1504,
+                    "ochange": 24,
+                    "time": 900782,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745865125000,
                     "type": "BURIED_TREASURE",
@@ -23629,7 +23643,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "rambuncule",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 1602,
                 "top": 1602,
                 "points": 0,
@@ -23764,7 +23778,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1599,
                 "top": 1737,
                 "points": 0,
@@ -24655,7 +24669,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1590,
                 "top": 1607,
                 "points": 0,
@@ -25182,7 +25196,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1585,
                 "top": 1603,
                 "points": 0,
@@ -25317,7 +25331,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1581,
                 "top": 1652,
                 "points": 0,
@@ -31043,8 +31057,8 @@
                 "pb": 484668,
                 "current": 0,
                 "streak": 4,
-                "matches": 17,
-                "playtime": 10049057,
+                "matches": 18,
+                "playtime": 10638523,
                 "finished": 8,
                 "finishtime": 4828197,
                 "won": 11,
@@ -31053,6 +31067,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1745865685000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "tucrack",
+                    "elo": 1547,
+                    "change": 0,
+                    "oelo": 1529,
+                    "ochange": 0,
+                    "time": 589466,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745795581000,
                     "type": "SHIPWRECK",
@@ -40331,8 +40359,8 @@
                 "pb": 503991,
                 "current": 3,
                 "streak": 5,
-                "matches": 64,
-                "playtime": 39834001,
+                "matches": 65,
+                "playtime": 40423467,
                 "finished": 24,
                 "finishtime": 16678354,
                 "won": 34,
@@ -40341,6 +40369,20 @@
             },
             "country": "ar",
             "matches": [
+                {
+                    "date": 1745865685000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "55crimson",
+                    "elo": 1529,
+                    "change": 0,
+                    "oelo": 1547,
+                    "ochange": 0,
+                    "time": 589466,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745864894000,
                     "type": "BURIED_TREASURE",
