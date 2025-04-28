@@ -1,5 +1,5 @@
 {
-    "date": 1745840401000,
+    "date": 1745841001000,
     "players": [
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
@@ -17459,91 +17459,40 @@
             ]
         },
         {
-            "uuid": "70eb9286e3e24153a8b37c8f884f1292",
-            "nickname": "7rowl",
-            "stats": {
-                "rank": 18,
-                "elo": 1633,
-                "top": 1633,
-                "points": 0,
-                "pb": 488135,
-                "current": 4,
-                "streak": 4,
-                "matches": 8,
-                "playtime": 4030293,
-                "finished": 5,
-                "finishtime": 2713443,
-                "won": 7,
-                "lost": 1,
-                "forfeited": 0
-            },
-            "country": "ua",
-            "matches": [
-                {
-                    "date": 1745763934000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ale267",
-                    "elo": 1633,
-                    "change": 17,
-                    "oelo": 1509,
-                    "ochange": -17,
-                    "time": 509808,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1745763339000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Ranik_",
-                    "elo": 1616,
-                    "change": 21,
-                    "oelo": 1599,
-                    "ochange": -21,
-                    "time": 633977,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1745762574000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "2Lvcky4Knock",
-                    "elo": 1595,
-                    "change": 15,
-                    "oelo": 1439,
-                    "ochange": -15,
-                    "time": 297825,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
-        },
-        {
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 19,
-                "elo": 1620,
-                "top": 1620,
+                "rank": 18,
+                "elo": 1634,
+                "top": 1634,
                 "points": 0,
                 "pb": 481210,
-                "current": 3,
+                "current": 4,
                 "streak": 6,
-                "matches": 73,
-                "playtime": 42247400,
-                "finished": 38,
-                "finishtime": 24053138,
-                "won": 41,
+                "matches": 74,
+                "playtime": 42831840,
+                "finished": 39,
+                "finishtime": 24637578,
+                "won": 42,
                 "lost": 30,
                 "forfeited": 11
             },
             "country": "ro",
             "matches": [
+                {
+                    "date": 1745840635000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "drx6",
+                    "elo": 1634,
+                    "change": 14,
+                    "oelo": 1433,
+                    "ochange": -14,
+                    "time": 584440,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1745839893000,
                     "type": "SHIPWRECK",
@@ -18494,6 +18443,71 @@
                     "ochange": 20,
                     "time": 562839,
                     "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
+            "uuid": "70eb9286e3e24153a8b37c8f884f1292",
+            "nickname": "7rowl",
+            "stats": {
+                "rank": 19,
+                "elo": 1633,
+                "top": 1633,
+                "points": 0,
+                "pb": 488135,
+                "current": 4,
+                "streak": 4,
+                "matches": 8,
+                "playtime": 4030293,
+                "finished": 5,
+                "finishtime": 2713443,
+                "won": 7,
+                "lost": 1,
+                "forfeited": 0
+            },
+            "country": "ua",
+            "matches": [
+                {
+                    "date": 1745763934000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Ale267",
+                    "elo": 1633,
+                    "change": 17,
+                    "oelo": 1509,
+                    "ochange": -17,
+                    "time": 509808,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1745763339000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Ranik_",
+                    "elo": 1616,
+                    "change": 21,
+                    "oelo": 1599,
+                    "ochange": -21,
+                    "time": 633977,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1745762574000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "2Lvcky4Knock",
+                    "elo": 1595,
+                    "change": 15,
+                    "oelo": 1439,
+                    "ochange": -15,
+                    "time": 297825,
+                    "forfeited": true,
                     "decayed": false
                 }
             ]
