@@ -912,12 +912,12 @@
         },
         "pb": 439961,
         "streak": 11,
-        "matches": 3595,
-        "playtime": 2132472790,
+        "matches": 3596,
+        "playtime": 2132957859,
         "finished": 1357,
         "finishtime": 914670785,
         "won": 1809,
-        "lost": 1588,
+        "lost": 1589,
         "forfeited": 576
     },
     "2f59967f6a7841ab840e2cb032589a04": {
@@ -1273,11 +1273,11 @@
         },
         "pb": 467274,
         "streak": 11,
-        "matches": 1010,
-        "playtime": 658310149,
-        "finished": 455,
-        "finishtime": 324645357,
-        "won": 596,
+        "matches": 1011,
+        "playtime": 659133426,
+        "finished": 456,
+        "finishtime": 325468634,
+        "won": 597,
         "lost": 379,
         "forfeited": 42
     },
@@ -2042,7 +2042,7 @@
         "top": {
             "6": 1582,
             "7": 2203,
-            "8": 1812
+            "8": 1813
         },
         "points": {
             "6": 0,
@@ -2051,11 +2051,11 @@
         },
         "pb": 428921,
         "streak": 11,
-        "matches": 1774,
-        "playtime": 1060563689,
-        "finished": 698,
-        "finishtime": 477385340,
-        "won": 924,
+        "matches": 1775,
+        "playtime": 1061048758,
+        "finished": 699,
+        "finishtime": 477870409,
+        "won": 925,
         "lost": 811,
         "forfeited": 228
     },
@@ -3250,11 +3250,11 @@
         },
         "pb": 478074,
         "streak": 18,
-        "matches": 3295,
-        "playtime": 2141477921,
-        "finished": 1040,
-        "finishtime": 831706158,
-        "won": 1699,
+        "matches": 3296,
+        "playtime": 2142258679,
+        "finished": 1041,
+        "finishtime": 832486916,
+        "won": 1700,
         "lost": 1500,
         "forfeited": 741
     },
@@ -4053,6 +4053,39 @@
         "lost": 981,
         "forfeited": 240
     },
+    "c41b14ac0f1547aeb7690276d82aa458": {
+        "nickname": "Psemcovici",
+        "country": "br",
+        "top": {
+            "1": 1719,
+            "2": 1631,
+            "3": 1610,
+            "4": 1761,
+            "5": 1526,
+            "6": 1629,
+            "7": 1719,
+            "8": 1540
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 10,
+            "8": 0
+        },
+        "pb": 508447,
+        "streak": 10,
+        "matches": 2532,
+        "playtime": 1627089869,
+        "finished": 815,
+        "finishtime": 672742006,
+        "won": 1318,
+        "lost": 1159,
+        "forfeited": 619
+    },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "nwolc",
         "country": null,
@@ -4402,12 +4435,12 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8749,
-        "playtime": 5717004842,
+        "matches": 8750,
+        "playtime": 5717694827,
         "finished": 3024,
         "finishtime": 2274844202,
         "won": 4265,
-        "lost": 4015,
+        "lost": 4016,
         "forfeited": 991
     },
     "e43dad544b244da9b690a12fdc8626dc": {
