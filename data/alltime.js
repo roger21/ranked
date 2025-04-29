@@ -1510,6 +1510,39 @@
         "lost": 457,
         "forfeited": 212
     },
+    "485afd8d37a949c390ccdb9f1f1ff3c6": {
+        "nickname": "JAKUSZEWICZ",
+        "country": "ru",
+        "top": {
+            "1": 1340,
+            "2": 1534,
+            "3": 1592,
+            "4": 1458,
+            "5": 1703,
+            "6": 1597,
+            "7": 1793,
+            "8": 1536
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 5,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 491922,
+        "streak": 12,
+        "matches": 2178,
+        "playtime": 1500992155,
+        "finished": 612,
+        "finishtime": 519098853,
+        "won": 1088,
+        "lost": 973,
+        "forfeited": 325
+    },
     "4863326cccf043ecbb8ff88628bed781": {
         "nickname": "pulsar32",
         "country": "tr",
@@ -3539,8 +3572,8 @@
         },
         "pb": 456658,
         "streak": 7,
-        "matches": 2055,
-        "playtime": 1217987006,
+        "matches": 2056,
+        "playtime": 1218681398,
         "finished": 630,
         "finishtime": 489465778,
         "won": 1014,
