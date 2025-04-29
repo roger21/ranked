@@ -565,37 +565,6 @@
         "lost": 134,
         "forfeited": 18
     },
-    "1f844c3aedb34559b537f45771a7a61d": {
-        "nickname": "Bodek",
-        "country": "pl",
-        "top": {
-            "1": 944,
-            "2": 984,
-            "4": 1214,
-            "5": 1324,
-            "6": 1702,
-            "7": 1664,
-            "8": 1576
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 520315,
-        "streak": 10,
-        "matches": 4989,
-        "playtime": 3111879166,
-        "finished": 1188,
-        "finishtime": 1044246581,
-        "won": 2415,
-        "lost": 2357,
-        "forfeited": 1674
-    },
     "1f88c82f9cc84c9885a5d38dd531f4c6": {
         "nickname": "RRed",
         "country": "us",
@@ -1436,12 +1405,12 @@
         },
         "pb": 479650,
         "streak": 12,
-        "matches": 1902,
-        "playtime": 1315889535,
+        "matches": 1903,
+        "playtime": 1316773067,
         "finished": 678,
         "finishtime": 557682472,
         "won": 1012,
-        "lost": 830,
+        "lost": 831,
         "forfeited": 214
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
@@ -4113,8 +4082,8 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3653,
-        "playtime": 2267543749,
+        "matches": 3654,
+        "playtime": 2267896454,
         "finished": 1172,
         "finishtime": 862355872,
         "won": 1800,
