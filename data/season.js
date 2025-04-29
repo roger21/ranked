@@ -1,5 +1,5 @@
 {
-    "date": 1745909401000,
+    "date": 1745910001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4499,22 +4499,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 4,
-                "elo": 1800,
+                "elo": 1775,
                 "top": 1893,
                 "points": 0,
                 "pb": 442660,
-                "current": 2,
+                "current": 0,
                 "streak": 8,
-                "matches": 173,
-                "playtime": 97255922,
+                "matches": 174,
+                "playtime": 97572841,
                 "finished": 89,
                 "finishtime": 54130364,
                 "won": 97,
-                "lost": 69,
-                "forfeited": 19
+                "lost": 70,
+                "forfeited": 20
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1745909655000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 1775,
+                    "change": -25,
+                    "oelo": 1682,
+                    "ochange": 25,
+                    "time": 316919,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745908904000,
                     "type": "SHIPWRECK",
@@ -15145,22 +15159,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 14,
-                "elo": 1657,
+                "elo": 1682,
                 "top": 1764,
                 "points": 0,
                 "pb": 488974,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 170,
-                "playtime": 102930023,
+                "matches": 171,
+                "playtime": 103246942,
                 "finished": 74,
                 "finishtime": 46692251,
-                "won": 88,
+                "won": 89,
                 "lost": 77,
                 "forfeited": 3
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1745909655000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "edcr",
+                    "elo": 1682,
+                    "change": 25,
+                    "oelo": 1775,
+                    "ochange": -25,
+                    "time": 316919,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1745909253000,
                     "type": "RUINED_PORTAL",
