@@ -1,5 +1,5 @@
 {
-    "date": 1746033601000,
+    "date": 1746034201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -37439,7 +37439,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "yummycelery",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1566,
                 "top": 1566,
                 "points": 0,
@@ -38050,7 +38050,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1566,
                 "top": 1580,
                 "points": 0,
@@ -38843,7 +38843,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1565,
                 "top": 1634,
                 "points": 0,
@@ -40000,7 +40000,7 @@
             "uuid": "93c09b58a2a74ec8802ef0d01b98dfd0",
             "nickname": "GabzlynMC",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1564,
                 "top": 1564,
                 "points": 0,
@@ -41255,7 +41255,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1557,
                 "top": 1646,
                 "points": 0,
@@ -43112,7 +43112,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1553,
                 "top": 1696,
                 "points": 0,
@@ -44927,7 +44927,7 @@
             "uuid": "745a819973974fe1bb1608e57fd439b6",
             "nickname": "centuriee",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1552,
                 "top": 1573,
                 "points": 0,
@@ -46546,23 +46546,37 @@
             "uuid": "7751d507ab364914bac767a4d2574753",
             "nickname": "lumeh",
             "stats": {
-                "rank": 41,
-                "elo": 1552,
-                "top": 1566,
+                "rank": 35,
+                "elo": 1571,
+                "top": 1571,
                 "points": 0,
                 "pb": 535781,
-                "current": 0,
+                "current": 1,
                 "streak": 4,
-                "matches": 86,
-                "playtime": 58403261,
-                "finished": 38,
-                "finishtime": 27004381,
-                "won": 44,
+                "matches": 87,
+                "playtime": 59071631,
+                "finished": 39,
+                "finishtime": 27672751,
+                "won": 45,
                 "lost": 37,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746034211000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Ale267",
+                    "elo": 1571,
+                    "change": 19,
+                    "oelo": 1503,
+                    "ochange": -19,
+                    "time": 668370,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746033438000,
                     "type": "BURIED_TREASURE",
