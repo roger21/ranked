@@ -24,11 +24,11 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3770,
-        "playtime": 2409484609,
+        "matches": 3771,
+        "playtime": 2409759992,
         "finished": 1384,
         "finishtime": 1017390463,
-        "won": 1911,
+        "won": 1912,
         "lost": 1772,
         "forfeited": 462
     },
@@ -1993,13 +1993,13 @@
         },
         "pb": 428921,
         "streak": 11,
-        "matches": 1849,
-        "playtime": 1103566078,
+        "matches": 1850,
+        "playtime": 1103841461,
         "finished": 732,
         "finishtime": 497717081,
         "won": 959,
-        "lost": 845,
-        "forfeited": 234
+        "lost": 846,
+        "forfeited": 235
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -4158,13 +4158,13 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 5181,
-        "playtime": 3453261756,
+        "matches": 5182,
+        "playtime": 3453673185,
         "finished": 1567,
         "finishtime": 1236240770,
         "won": 2547,
-        "lost": 2384,
-        "forfeited": 790
+        "lost": 2385,
+        "forfeited": 791
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
