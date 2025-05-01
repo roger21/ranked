@@ -1,5 +1,5 @@
 {
-    "date": 1746121201000,
+    "date": 1746121801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -63125,23 +63125,37 @@
             "uuid": "542eca51763f42ed925b8a68122a99fd",
             "nickname": "m3rcuryOvO",
             "stats": {
-                "rank": 47,
-                "elo": 1549,
+                "rank": 55,
+                "elo": 1537,
                 "top": 1618,
                 "points": 0,
                 "pb": 515605,
                 "current": 0,
                 "streak": 7,
-                "matches": 149,
-                "playtime": 94495507,
+                "matches": 150,
+                "playtime": 95088484,
                 "finished": 53,
                 "finishtime": 36003161,
                 "won": 71,
-                "lost": 60,
+                "lost": 61,
                 "forfeited": 0
             },
             "country": "cn",
             "matches": [
+                {
+                    "date": 1746121811000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 1537,
+                    "change": -12,
+                    "oelo": 1784,
+                    "ochange": 12,
+                    "time": 592977,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746121046000,
                     "type": "DESERT_TEMPLE",
@@ -65164,7 +65178,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "ELO_FFAWRSEED948",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1548,
                 "top": 1548,
                 "points": 0,
@@ -65481,7 +65495,7 @@
             "uuid": "a037073c42944363b580c54f1140d029",
             "nickname": "ValdarenMC",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1548,
                 "top": 1548,
                 "points": 0,
@@ -66274,7 +66288,7 @@
             "uuid": "3910d98bea254b488a10d6e91e469f7e",
             "nickname": "dwoh",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1544,
                 "top": 1544,
                 "points": 0,
