@@ -619,12 +619,12 @@
         },
         "pb": 409025,
         "streak": 17,
-        "matches": 5464,
-        "playtime": 3455586870,
+        "matches": 5465,
+        "playtime": 3456148498,
         "finished": 1982,
         "finishtime": 1415532009,
         "won": 2713,
-        "lost": 2510,
+        "lost": 2511,
         "forfeited": 579
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -671,7 +671,7 @@
             "5": 1662,
             "6": 1538,
             "7": 1519,
-            "8": 1401
+            "8": 1402
         },
         "points": {
             "1": 0,
@@ -685,11 +685,11 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 1336,
-        "playtime": 984929835,
-        "finished": 451,
-        "finishtime": 390038520,
-        "won": 701,
+        "matches": 1337,
+        "playtime": 985542655,
+        "finished": 452,
+        "finishtime": 390651340,
+        "won": 702,
         "lost": 560,
         "forfeited": 60
     },
@@ -1702,12 +1702,12 @@
         },
         "pb": 428490,
         "streak": 11,
-        "matches": 3077,
-        "playtime": 2034926962,
+        "matches": 3078,
+        "playtime": 2035459059,
         "finished": 1220,
         "finishtime": 906848825,
         "won": 1655,
-        "lost": 1355,
+        "lost": 1356,
         "forfeited": 287
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -2410,37 +2410,6 @@
         "lost": 1397,
         "forfeited": 690
     },
-    "7d3a6bb9f62645ae80cf40840ca84c50": {
-        "nickname": "Frigbob",
-        "country": "ie",
-        "top": {
-            "2": 1373,
-            "3": 1611,
-            "4": 1630,
-            "5": 1704,
-            "6": 1639,
-            "7": 1639,
-            "8": 1608
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 486779,
-        "streak": 13,
-        "matches": 2391,
-        "playtime": 1664628751,
-        "finished": 727,
-        "finishtime": 602412614,
-        "won": 1170,
-        "lost": 1075,
-        "forfeited": 215
-    },
     "7df386a388c44c59a53bc80d8158b760": {
         "nickname": "r0hkx",
         "country": "us",
@@ -2941,7 +2910,7 @@
             "5": 2260,
             "6": 2378,
             "7": 2312,
-            "8": 1722
+            "8": 1731
         },
         "points": {
             "1": 0,
@@ -2955,11 +2924,11 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8544,
-        "playtime": 5153317302,
-        "finished": 3561,
-        "finishtime": 2456022423,
-        "won": 4739,
+        "matches": 8545,
+        "playtime": 5153849399,
+        "finished": 3562,
+        "finishtime": 2456554520,
+        "won": 4740,
         "lost": 3612,
         "forfeited": 1187
     },
@@ -3087,11 +3056,11 @@
         },
         "pb": 439571,
         "streak": 9,
-        "matches": 4524,
-        "playtime": 2871247584,
-        "finished": 1617,
-        "finishtime": 1199828632,
-        "won": 2268,
+        "matches": 4525,
+        "playtime": 2871809212,
+        "finished": 1618,
+        "finishtime": 1200390260,
+        "won": 2269,
         "lost": 2092,
         "forfeited": 781
     },
