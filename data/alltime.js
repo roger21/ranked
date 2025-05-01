@@ -101,7 +101,7 @@
             "5": 1785,
             "6": 1707,
             "7": 1812,
-            "8": 1553
+            "8": 1562
         },
         "points": {
             "1": 0,
@@ -115,11 +115,11 @@
         },
         "pb": 465817,
         "streak": 17,
-        "matches": 4052,
-        "playtime": 2493848292,
+        "matches": 4053,
+        "playtime": 2494511189,
         "finished": 1125,
         "finishtime": 891514388,
-        "won": 1940,
+        "won": 1941,
         "lost": 1865,
         "forfeited": 1155
     },
@@ -2282,13 +2282,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2020,
-        "playtime": 1329908403,
+        "matches": 2021,
+        "playtime": 1330571300,
         "finished": 685,
         "finishtime": 551417939,
         "won": 1056,
-        "lost": 906,
-        "forfeited": 353
+        "lost": 907,
+        "forfeited": 354
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
