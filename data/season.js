@@ -1,5 +1,5 @@
 {
-    "date": 1746212401000,
+    "date": 1746213001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -24105,22 +24105,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 14,
-                "elo": 1718,
+                "elo": 1730,
                 "top": 1813,
                 "points": 0,
                 "pb": 480840,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 246,
-                "playtime": 147828924,
-                "finished": 109,
-                "finishtime": 68919433,
-                "won": 129,
+                "matches": 247,
+                "playtime": 148560219,
+                "finished": 110,
+                "finishtime": 69650728,
+                "won": 130,
                 "lost": 112,
                 "forfeited": 4
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1746212464000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "SwisRmyKnife",
+                    "elo": 1730,
+                    "change": 12,
+                    "oelo": 1458,
+                    "ochange": -12,
+                    "time": 731295,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746211197000,
                     "type": "RUINED_PORTAL",
@@ -48129,14 +48143,14 @@
             "nickname": "Emillk",
             "stats": {
                 "rank": 28,
-                "elo": 1631,
+                "elo": 1630,
                 "top": 1642,
                 "points": 0,
                 "pb": 448248,
                 "current": 1,
                 "streak": 6,
-                "matches": 125,
-                "playtime": 73186338,
+                "matches": 126,
+                "playtime": 73865768,
                 "finished": 49,
                 "finishtime": 31401964,
                 "won": 60,
@@ -48145,6 +48159,20 @@
             },
             "country": "yt",
             "matches": [
+                {
+                    "date": 1746212581000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "ValdarenMC",
+                    "elo": 1630,
+                    "change": -1,
+                    "oelo": 1544,
+                    "ochange": 1,
+                    "time": 679430,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746207167000,
                     "type": "SHIPWRECK",
