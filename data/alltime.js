@@ -183,13 +183,13 @@
         },
         "pb": 477032,
         "streak": 12,
-        "matches": 3376,
-        "playtime": 2255362748,
+        "matches": 3377,
+        "playtime": 2255828348,
         "finished": 1234,
         "finishtime": 935755853,
         "won": 1694,
-        "lost": 1552,
-        "forfeited": 354
+        "lost": 1553,
+        "forfeited": 355
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
         "nickname": "NOHACKSJUSTTIGER",
@@ -2307,11 +2307,11 @@
         },
         "pb": 511993,
         "streak": 10,
-        "matches": 1790,
-        "playtime": 1171003876,
+        "matches": 1791,
+        "playtime": 1171211329,
         "finished": 532,
         "finishtime": 424569838,
-        "won": 886,
+        "won": 887,
         "lost": 815,
         "forfeited": 296
     },
@@ -2569,13 +2569,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2549,
-        "playtime": 1747712593,
+        "matches": 2550,
+        "playtime": 1748370809,
         "finished": 705,
         "finishtime": 611528084,
         "won": 1255,
-        "lost": 1169,
-        "forfeited": 490
+        "lost": 1170,
+        "forfeited": 491
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
