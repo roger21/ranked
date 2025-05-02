@@ -617,11 +617,11 @@
         },
         "pb": 409025,
         "streak": 17,
-        "matches": 5477,
-        "playtime": 3462390927,
-        "finished": 1987,
-        "finishtime": 1418508856,
-        "won": 2719,
+        "matches": 5478,
+        "playtime": 3463139609,
+        "finished": 1988,
+        "finishtime": 1419257538,
+        "won": 2720,
         "lost": 2517,
         "forfeited": 583
     },
@@ -2280,11 +2280,11 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2037,
-        "playtime": 1339216851,
+        "matches": 2038,
+        "playtime": 1339455532,
         "finished": 690,
         "finishtime": 555104906,
-        "won": 1063,
+        "won": 1064,
         "lost": 916,
         "forfeited": 359
     },
@@ -3021,13 +3021,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3312,
-        "playtime": 2226128128,
+        "matches": 3313,
+        "playtime": 2226542542,
         "finished": 1064,
         "finishtime": 839982366,
         "won": 1677,
-        "lost": 1549,
-        "forfeited": 520
+        "lost": 1550,
+        "forfeited": 521
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -3061,33 +3061,6 @@
         "won": 2274,
         "lost": 2096,
         "forfeited": 783
-    },
-    "9a61b87c6a16403da56541258e74ed3e": {
-        "nickname": "Blad_d",
-        "country": "de",
-        "top": {
-            "4": 935,
-            "5": 1617,
-            "6": 1877,
-            "7": 1945,
-            "8": 1575
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 45,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 437362,
-        "streak": 13,
-        "matches": 3628,
-        "playtime": 2223023634,
-        "finished": 1119,
-        "finishtime": 828685540,
-        "won": 1779,
-        "lost": 1676,
-        "forfeited": 793
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -3802,7 +3775,7 @@
             "5": 1817,
             "6": 1813,
             "7": 1816,
-            "8": 1546
+            "8": 1547
         },
         "points": {
             "1": 0,
@@ -3816,8 +3789,8 @@
         },
         "pb": 460168,
         "streak": 12,
-        "matches": 730,
-        "playtime": 509893348,
+        "matches": 731,
+        "playtime": 510408189,
         "finished": 277,
         "finishtime": 226990945,
         "won": 421,
@@ -4177,8 +4150,8 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5256,
-        "playtime": 3492915873,
+        "matches": 5257,
+        "playtime": 3493430714,
         "finished": 1595,
         "finishtime": 1254243693,
         "won": 2585,
