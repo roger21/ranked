@@ -1,5 +1,5 @@
 {
-    "date": 1746150001000,
+    "date": 1746150601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39730,14 +39730,14 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 25,
-                "elo": 1630,
+                "elo": 1629,
                 "top": 1751,
                 "points": 0,
                 "pb": 506808,
                 "current": 2,
                 "streak": 5,
-                "matches": 60,
-                "playtime": 35749268,
+                "matches": 61,
+                "playtime": 36078264,
                 "finished": 29,
                 "finishtime": 18035282,
                 "won": 36,
@@ -39746,6 +39746,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1746150256000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "JustAltoid",
+                    "elo": 1629,
+                    "change": -1,
+                    "oelo": 1537,
+                    "ochange": 1,
+                    "time": 328996,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746149817000,
                     "type": "RUINED_PORTAL",
