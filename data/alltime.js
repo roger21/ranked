@@ -1991,11 +1991,11 @@
         },
         "pb": 428921,
         "streak": 11,
-        "matches": 1919,
-        "playtime": 1142158402,
+        "matches": 1920,
+        "playtime": 1142639319,
         "finished": 765,
         "finishtime": 517874983,
-        "won": 995,
+        "won": 996,
         "lost": 878,
         "forfeited": 248
     },
@@ -2538,13 +2538,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2546,
-        "playtime": 1746562763,
+        "matches": 2547,
+        "playtime": 1747138332,
         "finished": 705,
         "finishtime": 611528084,
         "won": 1255,
-        "lost": 1166,
-        "forfeited": 487
+        "lost": 1167,
+        "forfeited": 488
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -3795,13 +3795,13 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4592,
-        "playtime": 2619449401,
+        "matches": 4593,
+        "playtime": 2619930318,
         "finished": 1956,
         "finishtime": 1315418799,
         "won": 2548,
-        "lost": 1879,
-        "forfeited": 1081
+        "lost": 1880,
+        "forfeited": 1082
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
@@ -3946,7 +3946,7 @@
             "5": 1808,
             "6": 2042,
             "7": 2085,
-            "8": 1579
+            "8": 1597
         },
         "points": {
             "1": 0,
@@ -3960,11 +3960,11 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3698,
-        "playtime": 2295387860,
-        "finished": 1192,
-        "finishtime": 875859044,
-        "won": 1823,
+        "matches": 3699,
+        "playtime": 2295880677,
+        "finished": 1193,
+        "finishtime": 876351861,
+        "won": 1824,
         "lost": 1683,
         "forfeited": 750
     },
