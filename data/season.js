@@ -1,27 +1,41 @@
 {
-    "date": 1746146401000,
+    "date": 1746147001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "nickname": "Infume",
             "stats": {
                 "rank": 1,
-                "elo": 2014,
+                "elo": 2024,
                 "top": 2094,
                 "points": 0,
                 "pb": 426573,
-                "current": 0,
+                "current": 1,
                 "streak": 15,
-                "matches": 169,
-                "playtime": 95797757,
-                "finished": 109,
-                "finishtime": 62005261,
-                "won": 116,
+                "matches": 170,
+                "playtime": 96395525,
+                "finished": 110,
+                "finishtime": 62603029,
+                "won": 117,
                 "lost": 48,
                 "forfeited": 1
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746146461000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "nahhann",
+                    "elo": 2024,
+                    "change": 10,
+                    "oelo": 1680,
+                    "ochange": -10,
+                    "time": 597768,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746145433000,
                     "type": "BURIED_TREASURE",
@@ -25976,22 +25990,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 15,
-                "elo": 1690,
+                "elo": 1680,
                 "top": 1820,
                 "points": 0,
                 "pb": 457854,
-                "current": 2,
+                "current": 0,
                 "streak": 10,
-                "matches": 164,
-                "playtime": 92586227,
+                "matches": 165,
+                "playtime": 93183995,
                 "finished": 74,
                 "finishtime": 43198701,
                 "won": 85,
-                "lost": 72,
+                "lost": 73,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746146461000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 1680,
+                    "change": -10,
+                    "oelo": 2024,
+                    "ochange": 10,
+                    "time": 597768,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746145613000,
                     "type": "SHIPWRECK",
@@ -28224,7 +28252,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 16,
+                "rank": 15,
                 "elo": 1680,
                 "top": 1730,
                 "points": 0,
@@ -29997,7 +30025,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 16,
+                "rank": 15,
                 "elo": 1680,
                 "top": 1680,
                 "points": 0,
@@ -40340,7 +40368,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1626,
                 "top": 1666,
                 "points": 0,
@@ -41231,7 +41259,7 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1625,
                 "top": 1765,
                 "points": 0,
@@ -43186,7 +43214,7 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1619,
                 "top": 1619,
                 "points": 0,
@@ -66942,7 +66970,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "ELO_FFAWRSEED948",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1548,
                 "top": 1548,
                 "points": 0,
@@ -67259,7 +67287,7 @@
             "uuid": "a037073c42944363b580c54f1140d029",
             "nickname": "ValdarenMC",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1548,
                 "top": 1548,
                 "points": 0,
@@ -68052,7 +68080,7 @@
             "uuid": "3910d98bea254b488a10d6e91e469f7e",
             "nickname": "dwoh",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1544,
                 "top": 1544,
                 "points": 0,
