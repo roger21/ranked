@@ -1,5 +1,5 @@
 {
-    "date": 1746174602000,
+    "date": 1746175201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -55899,7 +55899,7 @@
             "uuid": "93c09b58a2a74ec8802ef0d01b98dfd0",
             "nickname": "GabzlynMC",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1583,
                 "top": 1583,
                 "points": 0,
@@ -57294,7 +57294,7 @@
             "uuid": "a711877af8854cf995397325af37fb6e",
             "nickname": "Winstonein",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1580,
                 "top": 1628,
                 "points": 0,
@@ -57933,7 +57933,7 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1572,
                 "top": 1619,
                 "points": 0,
@@ -60098,7 +60098,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1572,
                 "top": 1649,
                 "points": 0,
@@ -60639,7 +60639,7 @@
             "uuid": "fb2bd99d6f664e7b96cc6a24834b9a76",
             "nickname": "tucrack",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1572,
                 "top": 1572,
                 "points": 0,
@@ -61572,7 +61572,7 @@
             "uuid": "132807fea3a54a02b6b1ad057430b002",
             "nickname": "unlegyat",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1572,
                 "top": 1572,
                 "points": 0,
@@ -63709,7 +63709,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1566,
                 "top": 1589,
                 "points": 0,
@@ -66182,23 +66182,37 @@
             "uuid": "7df386a388c44c59a53bc80d8158b760",
             "nickname": "r0hkx",
             "stats": {
-                "rank": 45,
-                "elo": 1566,
-                "top": 1566,
+                "rank": 39,
+                "elo": 1584,
+                "top": 1584,
                 "points": 0,
                 "pb": 544985,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 126,
-                "playtime": 90821210,
-                "finished": 49,
-                "finishtime": 40130259,
-                "won": 69,
+                "matches": 127,
+                "playtime": 91588111,
+                "finished": 50,
+                "finishtime": 40897160,
+                "won": 70,
                 "lost": 54,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746175226000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "a4102545",
+                    "elo": 1584,
+                    "change": 18,
+                    "oelo": 1488,
+                    "ochange": -18,
+                    "time": 766901,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746097933000,
                     "type": "BURIED_TREASURE",
@@ -67899,7 +67913,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1566,
                 "top": 1580,
                 "points": 0,
