@@ -1,5 +1,5 @@
 {
-    "date": 1746169201000,
+    "date": 1746169801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -66289,23 +66289,37 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "ELO_FFAWRSEED948",
             "stats": {
-                "rank": 47,
-                "elo": 1560,
+                "rank": 58,
+                "elo": 1541,
                 "top": 1560,
                 "points": 0,
                 "pb": 624505,
-                "current": 7,
+                "current": 0,
                 "streak": 8,
-                "matches": 27,
-                "playtime": 18116123,
+                "matches": 28,
+                "playtime": 18872929,
                 "finished": 14,
                 "finishtime": 10789355,
                 "won": 19,
-                "lost": 6,
+                "lost": 7,
                 "forfeited": 0
             },
             "country": "cn",
             "matches": [
+                {
+                    "date": 1746169830000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "JustAltoid",
+                    "elo": 1541,
+                    "change": -19,
+                    "oelo": 1600,
+                    "ochange": 19,
+                    "time": 756806,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746168743000,
                     "type": "RUINED_PORTAL",
@@ -66620,7 +66634,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1559,
                 "top": 1585,
                 "points": 0,
@@ -69541,7 +69555,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1558,
                 "top": 1604,
                 "points": 0,
@@ -70950,7 +70964,7 @@
             "uuid": "0b863352af474dd389ec64e9eb1a38c0",
             "nickname": "90Tom",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1556,
                 "top": 1578,
                 "points": 0,
