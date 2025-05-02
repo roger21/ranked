@@ -1554,7 +1554,7 @@
             "5": 1821,
             "6": 1796,
             "7": 1864,
-            "8": 1576
+            "8": 1596
         },
         "points": {
             "1": 0,
@@ -1568,11 +1568,11 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2573,
-        "playtime": 1551328488,
+        "matches": 2574,
+        "playtime": 1551951215,
         "finished": 838,
         "finishtime": 642279558,
-        "won": 1265,
+        "won": 1266,
         "lost": 1094,
         "forfeited": 470
     },
@@ -2997,7 +2997,7 @@
         "forfeited": 84
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
-        "nickname": "misfituah",
+        "nickname": "misfity",
         "country": "br",
         "top": {
             "1": 1520,
@@ -4150,13 +4150,13 @@
         },
         "pb": 454546,
         "streak": 14,
-        "matches": 5248,
-        "playtime": 3488681105,
+        "matches": 5250,
+        "playtime": 3489580568,
         "finished": 1592,
         "finishtime": 1252537784,
         "won": 2580,
-        "lost": 2415,
-        "forfeited": 811
+        "lost": 2417,
+        "forfeited": 813
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
@@ -4406,11 +4406,11 @@
         },
         "pb": 468438,
         "streak": 15,
-        "matches": 4561,
-        "playtime": 2518088013,
-        "finished": 1646,
-        "finishtime": 1117206033,
-        "won": 2326,
+        "matches": 4562,
+        "playtime": 2518681654,
+        "finished": 1647,
+        "finishtime": 1117799674,
+        "won": 2327,
         "lost": 2121,
         "forfeited": 1366
     },
