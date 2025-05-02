@@ -1,5 +1,5 @@
 {
-    "date": 1746160201000,
+    "date": 1746160801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -19677,22 +19677,36 @@
             "nickname": "Bloonskiller",
             "stats": {
                 "rank": 12,
-                "elo": 1721,
-                "top": 1721,
+                "elo": 1735,
+                "top": 1735,
                 "points": 0,
                 "pb": 494958,
-                "current": 2,
+                "current": 3,
                 "streak": 6,
-                "matches": 56,
-                "playtime": 35720432,
-                "finished": 29,
-                "finishtime": 19757441,
-                "won": 34,
+                "matches": 57,
+                "playtime": 36402099,
+                "finished": 30,
+                "finishtime": 20439108,
+                "won": 35,
                 "lost": 20,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1746160264000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "TapL",
+                    "elo": 1735,
+                    "change": 14,
+                    "oelo": 1525,
+                    "ochange": -14,
+                    "time": 681667,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746159412000,
                     "type": "RUINED_PORTAL",
