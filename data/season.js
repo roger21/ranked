@@ -1,5 +1,5 @@
 {
-    "date": 1746273001000,
+    "date": 1746273601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -27473,23 +27473,37 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 15,
-                "elo": 1718,
+                "rank": 14,
+                "elo": 1732,
                 "top": 1748,
                 "points": 0,
                 "pb": 481598,
-                "current": 3,
+                "current": 4,
                 "streak": 15,
-                "matches": 93,
-                "playtime": 54090607,
-                "finished": 44,
-                "finishtime": 27805812,
-                "won": 55,
+                "matches": 94,
+                "playtime": 54813933,
+                "finished": 45,
+                "finishtime": 28529138,
+                "won": 56,
                 "lost": 33,
                 "forfeited": 1
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746273387000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "KenanKardes",
+                    "elo": 1732,
+                    "change": 14,
+                    "oelo": 1536,
+                    "ochange": -14,
+                    "time": 723326,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746270496000,
                     "type": "DESERT_TEMPLE",
