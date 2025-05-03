@@ -1,5 +1,5 @@
 {
-    "date": 1746288601000,
+    "date": 1746289201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -26536,22 +26536,36 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 15,
-                "elo": 1718,
+                "elo": 1730,
                 "top": 1935,
                 "points": 0,
                 "pb": 446901,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 244,
-                "playtime": 143146562,
-                "finished": 123,
-                "finishtime": 79048121,
-                "won": 143,
+                "matches": 245,
+                "playtime": 143895667,
+                "finished": 124,
+                "finishtime": 79797226,
+                "won": 144,
                 "lost": 100,
                 "forfeited": 12
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1746288936000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ELO_FFAWRSEED948",
+                    "elo": 1730,
+                    "change": 12,
+                    "oelo": 1459,
+                    "ochange": -12,
+                    "time": 749105,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746287923000,
                     "type": "VILLAGE",
