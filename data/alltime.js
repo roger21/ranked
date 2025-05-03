@@ -1081,11 +1081,11 @@
         },
         "pb": 441131,
         "streak": 17,
-        "matches": 11848,
-        "playtime": 7726332202,
-        "finished": 4911,
-        "finishtime": 3510341020,
-        "won": 6575,
+        "matches": 11849,
+        "playtime": 7726967973,
+        "finished": 4912,
+        "finishtime": 3510976791,
+        "won": 6576,
         "lost": 5056,
         "forfeited": 713
     },
@@ -1574,8 +1574,8 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2611,
-        "playtime": 1575290780,
+        "matches": 2612,
+        "playtime": 1575720415,
         "finished": 846,
         "finishtime": 648061644,
         "won": 1278,
@@ -2309,12 +2309,12 @@
         },
         "pb": 430515,
         "streak": 11,
-        "matches": 5393,
-        "playtime": 3345503193,
+        "matches": 5394,
+        "playtime": 3346138964,
         "finished": 1924,
         "finishtime": 1398467093,
         "won": 2733,
-        "lost": 2427,
+        "lost": 2428,
         "forfeited": 875
     },
     "7c92678742eb4e819f3122017697ae3d": {
@@ -3970,29 +3970,6 @@
         "lost": 1086,
         "forfeited": 521
     },
-    "cc432b2626a44ae1836a50244adbf468": {
-        "nickname": "DziabaDziuba",
-        "country": "pl",
-        "top": {
-            "6": 1636,
-            "7": 1804,
-            "8": 1603
-        },
-        "points": {
-            "6": 0,
-            "7": 40,
-            "8": 0
-        },
-        "pb": 444853,
-        "streak": 27,
-        "matches": 2411,
-        "playtime": 1384552347,
-        "finished": 711,
-        "finishtime": 554512692,
-        "won": 1193,
-        "lost": 1105,
-        "forfeited": 777
-    },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
         "country": "us",
@@ -4217,6 +4194,33 @@
         "won": 4300,
         "lost": 4038,
         "forfeited": 995
+    },
+    "dd5fbfd77b35431e97e8e0ec36817f29": {
+        "nickname": "Traden",
+        "country": "tw",
+        "top": {
+            "4": 1087,
+            "5": 1388,
+            "6": 1636,
+            "7": 1902,
+            "8": 1560
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 35,
+            "8": 0
+        },
+        "pb": 482356,
+        "streak": 14,
+        "matches": 5800,
+        "playtime": 3712299386,
+        "finished": 1519,
+        "finishtime": 1294260733,
+        "won": 2864,
+        "lost": 2767,
+        "forfeited": 1768
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
