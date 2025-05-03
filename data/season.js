@@ -1,5 +1,5 @@
 {
-    "date": 1746259201000,
+    "date": 1746259801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -25233,23 +25233,37 @@
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
-                "rank": 15,
-                "elo": 1705,
+                "rank": 14,
+                "elo": 1717,
                 "top": 1893,
                 "points": 0,
                 "pb": 442660,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 310,
-                "playtime": 174339179,
-                "finished": 151,
-                "finishtime": 91992893,
-                "won": 166,
+                "matches": 311,
+                "playtime": 174869577,
+                "finished": 152,
+                "finishtime": 92523291,
+                "won": 167,
                 "lost": 134,
                 "forfeited": 38
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746259322000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "pardonmc",
+                    "elo": 1717,
+                    "change": 12,
+                    "oelo": 1452,
+                    "ochange": -12,
+                    "time": 530398,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746258483000,
                     "type": "BURIED_TREASURE",
