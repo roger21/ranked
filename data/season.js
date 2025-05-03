@@ -1,5 +1,5 @@
 {
-    "date": 1746292201000,
+    "date": 1746292801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -11983,22 +11983,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 8,
-                "elo": 1799,
+                "elo": 1810,
                 "top": 1893,
                 "points": 0,
                 "pb": 442660,
-                "current": 4,
+                "current": 5,
                 "streak": 8,
-                "matches": 328,
-                "playtime": 184509583,
+                "matches": 329,
+                "playtime": 184734682,
                 "finished": 164,
                 "finishtime": 99889215,
-                "won": 179,
+                "won": 180,
                 "lost": 138,
                 "forfeited": 38
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746292544000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "DziabaDziuba",
+                    "elo": 1810,
+                    "change": 11,
+                    "oelo": 1532,
+                    "ochange": -11,
+                    "time": 225099,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746292100000,
                     "type": "DESERT_TEMPLE",
