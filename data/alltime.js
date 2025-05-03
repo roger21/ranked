@@ -1279,12 +1279,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6602,
-        "playtime": 4283511897,
+        "matches": 6603,
+        "playtime": 4284549712,
         "finished": 2246,
         "finishtime": 1714088023,
         "won": 3270,
-        "lost": 3091,
+        "lost": 3092,
         "forfeited": 1102
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -1869,12 +1869,12 @@
         },
         "pb": 528506,
         "streak": 10,
-        "matches": 731,
-        "playtime": 453165333,
+        "matches": 732,
+        "playtime": 453762044,
         "finished": 232,
         "finishtime": 183133361,
         "won": 393,
-        "lost": 310,
+        "lost": 311,
         "forfeited": 171
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
@@ -2414,6 +2414,37 @@
         "lost": 1397,
         "forfeited": 690
     },
+    "7d3a6bb9f62645ae80cf40840ca84c50": {
+        "nickname": "Frigbob",
+        "country": "ie",
+        "top": {
+            "2": 1373,
+            "3": 1611,
+            "4": 1630,
+            "5": 1704,
+            "6": 1639,
+            "7": 1639,
+            "8": 1608
+        },
+        "points": {
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 486779,
+        "streak": 13,
+        "matches": 2404,
+        "playtime": 1673333701,
+        "finished": 734,
+        "finishtime": 607690191,
+        "won": 1178,
+        "lost": 1080,
+        "forfeited": 215
+    },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
         "country": "de",
@@ -2571,12 +2602,12 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 3162,
-        "playtime": 2024158572,
+        "matches": 3163,
+        "playtime": 2024999917,
         "finished": 1003,
         "finishtime": 791336374,
         "won": 1626,
-        "lost": 1435,
+        "lost": 1436,
         "forfeited": 749
     },
     "879c8136d42c4222b42f1c090616fa5e": {
