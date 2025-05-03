@@ -1,5 +1,5 @@
 {
-    "date": 1746240001000,
+    "date": 1746240601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -61335,7 +61335,7 @@
             "uuid": "93c09b58a2a74ec8802ef0d01b98dfd0",
             "nickname": "GabzlynMC",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1583,
                 "top": 1583,
                 "points": 0,
@@ -62730,7 +62730,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1583,
                 "top": 1627,
                 "points": 0,
@@ -62935,7 +62935,7 @@
             "uuid": "1f844c3aedb34559b537f45771a7a61d",
             "nickname": "Bodek",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1578,
                 "top": 1604,
                 "points": 0,
@@ -66668,7 +66668,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1574,
                 "top": 1634,
                 "points": 0,
@@ -67881,7 +67881,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1574,
                 "top": 1613,
                 "points": 0,
@@ -72580,7 +72580,7 @@
             "uuid": "fb2bd99d6f664e7b96cc6a24834b9a76",
             "nickname": "tucrack",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1572,
                 "top": 1572,
                 "points": 0,
@@ -73513,23 +73513,37 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 47,
-                "elo": 1570,
-                "top": 1570,
+                "rank": 40,
+                "elo": 1585,
+                "top": 1585,
                 "points": 0,
                 "pb": 515369,
-                "current": 2,
+                "current": 3,
                 "streak": 5,
-                "matches": 101,
-                "playtime": 60651993,
-                "finished": 42,
-                "finishtime": 29174091,
-                "won": 53,
+                "matches": 102,
+                "playtime": 61367512,
+                "finished": 43,
+                "finishtime": 29889610,
+                "won": 54,
                 "lost": 45,
                 "forfeited": 23
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746240611000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ElegantRobin",
+                    "elo": 1585,
+                    "change": 15,
+                    "oelo": 1429,
+                    "ochange": -15,
+                    "time": 715519,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746239373000,
                     "type": "SHIPWRECK",
