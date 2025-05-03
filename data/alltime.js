@@ -1846,37 +1846,6 @@
         "lost": 573,
         "forfeited": 257
     },
-    "5cd115f0ec1240659db152406c0984a3": {
-        "nickname": "yjako",
-        "country": "ph",
-        "top": {
-            "1": 1454,
-            "2": 1307,
-            "4": 1297,
-            "5": 1355,
-            "6": 1662,
-            "7": 1902,
-            "8": 1588
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 50,
-            "8": 0
-        },
-        "pb": 528506,
-        "streak": 10,
-        "matches": 736,
-        "playtime": 455471399,
-        "finished": 233,
-        "finishtime": 183697680,
-        "won": 395,
-        "lost": 313,
-        "forfeited": 172
-    },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
         "country": "il",
@@ -2156,11 +2125,11 @@
         },
         "pb": 486560,
         "streak": 12,
-        "matches": 1814,
-        "playtime": 1232570594,
+        "matches": 1815,
+        "playtime": 1232983211,
         "finished": 666,
         "finishtime": 507205156,
-        "won": 959,
+        "won": 960,
         "lost": 759,
         "forfeited": 26
     },
