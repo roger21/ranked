@@ -1,5 +1,5 @@
 {
-    "date": 1746328801000,
+    "date": 1746329401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18021,22 +18021,36 @@
             "nickname": "dandannyboy",
             "stats": {
                 "rank": 10,
-                "elo": 1777,
+                "elo": 1753,
                 "top": 1782,
                 "points": 0,
                 "pb": 499099,
-                "current": 2,
+                "current": 0,
                 "streak": 5,
-                "matches": 189,
-                "playtime": 112043271,
+                "matches": 190,
+                "playtime": 112667992,
                 "finished": 90,
                 "finishtime": 57749592,
                 "won": 105,
-                "lost": 82,
+                "lost": 83,
                 "forfeited": 17
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1746329404000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "nahhann",
+                    "elo": 1753,
+                    "change": -24,
+                    "oelo": 1677,
+                    "ochange": 24,
+                    "time": 624721,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746255414000,
                     "type": "RUINED_PORTAL",
@@ -45166,7 +45180,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 1672,
                 "top": 1737,
                 "points": 0,
@@ -46155,7 +46169,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1659,
                 "top": 1678,
                 "points": 0,
@@ -47480,23 +47494,37 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "nahhann",
             "stats": {
-                "rank": 26,
-                "elo": 1653,
+                "rank": 24,
+                "elo": 1677,
                 "top": 1820,
                 "points": 0,
                 "pb": 457854,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 192,
-                "playtime": 110081821,
-                "finished": 84,
-                "finishtime": 49636786,
-                "won": 98,
+                "matches": 193,
+                "playtime": 110706542,
+                "finished": 85,
+                "finishtime": 50261507,
+                "won": 99,
                 "lost": 86,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746329404000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 1677,
+                    "change": 24,
+                    "oelo": 1753,
+                    "ochange": -24,
+                    "time": 624721,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746328696000,
                     "type": "BURIED_TREASURE",
@@ -50121,7 +50149,7 @@
             "uuid": "a711877af8854cf995397325af37fb6e",
             "nickname": "Winstonein",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 1653,
                 "top": 1653,
                 "points": 0,
