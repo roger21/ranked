@@ -1,5 +1,5 @@
 {
-    "date": 1746350401000,
+    "date": 1746351001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -84335,14 +84335,14 @@
             "nickname": "sevensix_",
             "stats": {
                 "rank": 50,
-                "elo": 1581,
+                "elo": 1580,
                 "top": 1680,
                 "points": 0,
                 "pb": 448289,
                 "current": 1,
                 "streak": 5,
-                "matches": 114,
-                "playtime": 72054438,
+                "matches": 115,
+                "playtime": 72808228,
                 "finished": 53,
                 "finishtime": 34744969,
                 "won": 61,
@@ -84351,6 +84351,20 @@
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1746350607000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Fkhxy",
+                    "elo": 1580,
+                    "change": -1,
+                    "oelo": 1500,
+                    "ochange": 1,
+                    "time": 753790,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746349654000,
                     "type": "VILLAGE",
