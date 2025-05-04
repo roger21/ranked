@@ -1,5 +1,5 @@
 {
-    "date": 1746394801000,
+    "date": 1746395401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -23704,22 +23704,36 @@
             "nickname": "KenanKardes",
             "stats": {
                 "rank": 13,
-                "elo": 1733,
-                "top": 1733,
+                "elo": 1747,
+                "top": 1747,
                 "points": 0,
                 "pb": 475211,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 187,
-                "playtime": 110833762,
-                "finished": 88,
-                "finishtime": 57754672,
-                "won": 103,
+                "matches": 188,
+                "playtime": 111460672,
+                "finished": 89,
+                "finishtime": 58381582,
+                "won": 104,
                 "lost": 76,
                 "forfeited": 25
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1746395329000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "pardonmc",
+                    "elo": 1747,
+                    "change": 14,
+                    "oelo": 1547,
+                    "ochange": -14,
+                    "time": 626910,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746391345000,
                     "type": "SHIPWRECK",
