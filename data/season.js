@@ -1,5 +1,5 @@
 {
-    "date": 1746397201000,
+    "date": 1746397801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -23718,14 +23718,14 @@
             "nickname": "KenanKardes",
             "stats": {
                 "rank": 13,
-                "elo": 1746,
+                "elo": 1745,
                 "top": 1764,
                 "points": 0,
                 "pb": 475211,
                 "current": 0,
                 "streak": 9,
-                "matches": 190,
-                "playtime": 112405440,
+                "matches": 191,
+                "playtime": 112996688,
                 "finished": 90,
                 "finishtime": 58892727,
                 "won": 105,
@@ -23734,6 +23734,20 @@
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1746397646000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "Frigbob",
+                    "elo": 1745,
+                    "change": -1,
+                    "oelo": 1628,
+                    "ochange": 1,
+                    "time": 591248,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746396948000,
                     "type": "RUINED_PORTAL",
@@ -60536,14 +60550,14 @@
             "nickname": "Frigbob",
             "stats": {
                 "rank": 33,
-                "elo": 1627,
+                "elo": 1628,
                 "top": 1656,
                 "points": 0,
                 "pb": 563134,
                 "current": 2,
                 "streak": 7,
-                "matches": 145,
-                "playtime": 105642442,
+                "matches": 146,
+                "playtime": 106233690,
                 "finished": 63,
                 "finishtime": 49662952,
                 "won": 77,
@@ -60552,6 +60566,20 @@
             },
             "country": "ie",
             "matches": [
+                {
+                    "date": 1746397646000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "KenanKardes",
+                    "elo": 1628,
+                    "change": 1,
+                    "oelo": 1745,
+                    "ochange": -1,
+                    "time": 591248,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746348730000,
                     "type": "RUINED_PORTAL",
