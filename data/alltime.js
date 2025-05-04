@@ -2228,6 +2228,37 @@
         "lost": 919,
         "forfeited": 361
     },
+    "74ce14cf794b431bb3e10d5311d0777f": {
+        "nickname": "Seauu",
+        "country": "fr",
+        "top": {
+            "1": 1438,
+            "3": 1662,
+            "4": 1505,
+            "5": 1495,
+            "6": 1509,
+            "7": 1934,
+            "8": 1598
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 60,
+            "8": 0
+        },
+        "pb": 453304,
+        "streak": 10,
+        "matches": 441,
+        "playtime": 276354814,
+        "finished": 205,
+        "finishtime": 144948054,
+        "won": 268,
+        "lost": 156,
+        "forfeited": 39
+    },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
         "country": null,
