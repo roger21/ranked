@@ -1,5 +1,5 @@
 {
-    "date": 1746378601000,
+    "date": 1746379201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -13364,22 +13364,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 9,
-                "elo": 1781,
+                "elo": 1793,
                 "top": 1893,
                 "points": 0,
                 "pb": 442660,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 358,
-                "playtime": 200852847,
+                "matches": 359,
+                "playtime": 201057876,
                 "finished": 180,
                 "finishtime": 109642190,
-                "won": 197,
+                "won": 198,
                 "lost": 150,
                 "forfeited": 43
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746378926000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "DziabaDziuba",
+                    "elo": 1793,
+                    "change": 12,
+                    "oelo": 1534,
+                    "ochange": -12,
+                    "time": 205029,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746376570000,
                     "type": "VILLAGE",
