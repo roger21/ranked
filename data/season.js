@@ -1,5 +1,5 @@
 {
-    "date": 1746432602000,
+    "date": 1746433201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -58090,7 +58090,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1635,
                 "top": 1751,
                 "points": 0,
@@ -59065,7 +59065,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1635,
                 "top": 1675,
                 "points": 0,
@@ -62868,7 +62868,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1627,
                 "top": 1680,
                 "points": 0,
@@ -64641,7 +64641,7 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1621,
                 "top": 1633,
                 "points": 0,
@@ -67072,7 +67072,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1621,
                 "top": 1707,
                 "points": 0,
@@ -68145,23 +68145,37 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0tic2030",
             "stats": {
-                "rank": 37,
-                "elo": 1620,
+                "rank": 32,
+                "elo": 1638,
                 "top": 1649,
                 "points": 0,
                 "pb": 524569,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 103,
-                "playtime": 60978332,
-                "finished": 51,
-                "finishtime": 33235243,
-                "won": 59,
+                "matches": 104,
+                "playtime": 61591827,
+                "finished": 52,
+                "finishtime": 33848738,
+                "won": 60,
                 "lost": 43,
                 "forfeited": 17
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746433210000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "druppelen",
+                    "elo": 1638,
+                    "change": 18,
+                    "oelo": 1540,
+                    "ochange": -18,
+                    "time": 613495,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746432392000,
                     "type": "SHIPWRECK",
