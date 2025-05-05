@@ -249,8 +249,8 @@
         },
         "pb": 510361,
         "streak": 13,
-        "matches": 1877,
-        "playtime": 1371777109,
+        "matches": 1878,
+        "playtime": 1372426924,
         "finished": 689,
         "finishtime": 563333591,
         "won": 1019,
@@ -1960,12 +1960,12 @@
         },
         "pb": 428921,
         "streak": 11,
-        "matches": 1990,
-        "playtime": 1181273859,
+        "matches": 1991,
+        "playtime": 1181812517,
         "finished": 805,
         "finishtime": 542121647,
         "won": 1041,
-        "lost": 900,
+        "lost": 901,
         "forfeited": 255
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
@@ -2326,7 +2326,7 @@
             "5": 2174,
             "6": 2273,
             "7": 2168,
-            "8": 1711
+            "8": 1714
         },
         "points": {
             "1": 0,
@@ -2340,11 +2340,11 @@
         },
         "pb": 430515,
         "streak": 11,
-        "matches": 5405,
-        "playtime": 3351479259,
-        "finished": 1930,
-        "finishtime": 1402076105,
-        "won": 2740,
+        "matches": 5406,
+        "playtime": 3352017917,
+        "finished": 1931,
+        "finishtime": 1402614763,
+        "won": 2741,
         "lost": 2432,
         "forfeited": 878
     },
@@ -2538,13 +2538,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2580,
-        "playtime": 1764758688,
+        "matches": 2581,
+        "playtime": 1765136976,
         "finished": 712,
         "finishtime": 616911423,
         "won": 1273,
-        "lost": 1180,
-        "forfeited": 495
+        "lost": 1181,
+        "forfeited": 496
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
