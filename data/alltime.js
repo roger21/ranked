@@ -753,13 +753,13 @@
         },
         "pb": 533603,
         "streak": 11,
-        "matches": 652,
-        "playtime": 460851122,
+        "matches": 653,
+        "playtime": 461064276,
         "finished": 284,
         "finishtime": 226892811,
         "won": 389,
-        "lost": 247,
-        "forfeited": 37
+        "lost": 248,
+        "forfeited": 38
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
         "nickname": "SuperC_",
@@ -1164,7 +1164,7 @@
             "5": 1483,
             "6": 1758,
             "7": 1759,
-            "8": 1479
+            "8": 1488
         },
         "points": {
             "1": 0,
@@ -1178,11 +1178,11 @@
         },
         "pb": 531934,
         "streak": 12,
-        "matches": 1405,
-        "playtime": 1026745577,
+        "matches": 1406,
+        "playtime": 1027495337,
         "finished": 473,
         "finishtime": 402850116,
-        "won": 755,
+        "won": 756,
         "lost": 605,
         "forfeited": 91
     },
@@ -2794,11 +2794,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8625,
-        "playtime": 5584249677,
-        "finished": 2810,
-        "finishtime": 2291893054,
-        "won": 4373,
+        "matches": 8626,
+        "playtime": 5584832828,
+        "finished": 2811,
+        "finishtime": 2292476205,
+        "won": 4374,
         "lost": 4063,
         "forfeited": 2035
     },
@@ -4280,11 +4280,11 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8838,
-        "playtime": 5774745599,
+        "matches": 8839,
+        "playtime": 5775241270,
         "finished": 3064,
         "finishtime": 2302613741,
-        "won": 4313,
+        "won": 4314,
         "lost": 4050,
         "forfeited": 996
     },
