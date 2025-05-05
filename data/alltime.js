@@ -3161,37 +3161,6 @@
         "lost": 1244,
         "forfeited": 607
     },
-    "a00913f1079c4b0c9d68d32f57dfbe73": {
-        "nickname": "sevensix_",
-        "country": "hk",
-        "top": {
-            "1": 1248,
-            "2": 1108,
-            "4": 1637,
-            "5": 1710,
-            "6": 1892,
-            "7": 2028,
-            "8": 1680
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 10,
-            "5": 10,
-            "6": 20,
-            "7": 30,
-            "8": 0
-        },
-        "pb": 448289,
-        "streak": 13,
-        "matches": 4631,
-        "playtime": 2798596692,
-        "finished": 1439,
-        "finishtime": 1097325168,
-        "won": 2249,
-        "lost": 2143,
-        "forfeited": 1237
-    },
     "a0a672a0bc194540bc195220dc170dba": {
         "nickname": "JackoWacko62",
         "country": "us",
@@ -4373,11 +4342,11 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 5524,
-        "playtime": 3463255371,
-        "finished": 2348,
-        "finishtime": 1638059713,
-        "won": 3006,
+        "matches": 5525,
+        "playtime": 3463792726,
+        "finished": 2349,
+        "finishtime": 1638597068,
+        "won": 3007,
         "lost": 2443,
         "forfeited": 718
     },
