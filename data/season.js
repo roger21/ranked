@@ -1,5 +1,5 @@
 {
-    "date": 1746430802000,
+    "date": 1746431401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -62868,23 +62868,37 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0tic2030",
             "stats": {
-                "rank": 34,
-                "elo": 1626,
+                "rank": 42,
+                "elo": 1605,
                 "top": 1649,
                 "points": 0,
                 "pb": 524569,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 101,
-                "playtime": 59652525,
+                "matches": 102,
+                "playtime": 60424180,
                 "finished": 50,
                 "finishtime": 32681091,
                 "won": 58,
-                "lost": 42,
+                "lost": 43,
                 "forfeited": 17
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746431426000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "sevensix_",
+                    "elo": 1605,
+                    "change": -21,
+                    "oelo": 1608,
+                    "ochange": 21,
+                    "time": 771655,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746430496000,
                     "type": "SHIPWRECK",
@@ -64235,7 +64249,7 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1621,
                 "top": 1633,
                 "points": 0,
@@ -66666,7 +66680,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1621,
                 "top": 1707,
                 "points": 0,
@@ -67739,7 +67753,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 1616,
                 "top": 1649,
                 "points": 0,
@@ -68616,7 +68630,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1613,
                 "top": 1632,
                 "points": 0,
@@ -69591,7 +69605,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 1610,
                 "top": 1610,
                 "points": 0,
@@ -72442,7 +72456,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1609,
                 "top": 1613,
                 "points": 0,
@@ -73459,7 +73473,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "RambuncPharmer89",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1608,
                 "top": 1689,
                 "points": 0,
@@ -74672,7 +74686,7 @@
             "uuid": "74ce14cf794b431bb3e10d5311d0777f",
             "nickname": "Seauu",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1598,
                 "top": 1598,
                 "points": 0,
@@ -74877,7 +74891,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "rambuncule",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1597,
                 "top": 1602,
                 "points": 0,
@@ -75026,7 +75040,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1596,
                 "top": 1615,
                 "points": 0,
@@ -76449,7 +76463,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "Squitsy",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1595,
                 "top": 1595,
                 "points": 0,
@@ -77760,7 +77774,7 @@
             "uuid": "8021b1eb133346c3b0b88d19c5be9188",
             "nickname": "gabboooz",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1590,
                 "top": 1611,
                 "points": 0,
@@ -81031,23 +81045,37 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 47,
-                "elo": 1587,
+                "rank": 40,
+                "elo": 1608,
                 "top": 1680,
                 "points": 0,
                 "pb": 448289,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
-                "matches": 128,
-                "playtime": 81275685,
-                "finished": 59,
-                "finishtime": 38742365,
-                "won": 67,
+                "matches": 129,
+                "playtime": 82047340,
+                "finished": 60,
+                "finishtime": 39514020,
+                "won": 68,
                 "lost": 53,
                 "forfeited": 1
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1746431426000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Hypn0tic2030",
+                    "elo": 1608,
+                    "change": 21,
+                    "oelo": 1605,
+                    "ochange": -21,
+                    "time": 771655,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746430199000,
                     "type": "VILLAGE",
