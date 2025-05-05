@@ -3075,7 +3075,7 @@
             "5": 0,
             "6": 2291,
             "7": 2335,
-            "8": 1731
+            "8": 1747
         },
         "points": {
             "1": 0,
@@ -3089,11 +3089,11 @@
         },
         "pb": 449254,
         "streak": 29,
-        "matches": 1421,
-        "playtime": 863654670,
-        "finished": 743,
-        "finishtime": 492502275,
-        "won": 961,
+        "matches": 1422,
+        "playtime": 864229522,
+        "finished": 744,
+        "finishtime": 493077127,
+        "won": 962,
         "lost": 447,
         "forfeited": 80
     },
@@ -3601,12 +3601,12 @@
         },
         "pb": 466241,
         "streak": 11,
-        "matches": 2355,
-        "playtime": 1511453834,
+        "matches": 2356,
+        "playtime": 1512028686,
         "finished": 760,
         "finishtime": 580924547,
         "won": 1187,
-        "lost": 1073,
+        "lost": 1074,
         "forfeited": 374
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
@@ -4404,13 +4404,13 @@
         },
         "pb": 477474,
         "streak": 12,
-        "matches": 382,
-        "playtime": 216005627,
+        "matches": 383,
+        "playtime": 216791903,
         "finished": 149,
         "finishtime": 108872151,
         "won": 220,
-        "lost": 148,
-        "forfeited": 99
+        "lost": 149,
+        "forfeited": 100
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "nickname": "VMiZ",
