@@ -1,5 +1,5 @@
 {
-    "date": 1746402601000,
+    "date": 1746403201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -26372,23 +26372,37 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "nahhann",
             "stats": {
-                "rank": 14,
-                "elo": 1731,
+                "rank": 13,
+                "elo": 1745,
                 "top": 1820,
                 "points": 0,
                 "pb": 427487,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 202,
-                "playtime": 115519496,
+                "matches": 203,
+                "playtime": 115923669,
                 "finished": 90,
                 "finishtime": 52925941,
-                "won": 105,
+                "won": 106,
                 "lost": 88,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746402667000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Javierixmon",
+                    "elo": 1745,
+                    "change": 14,
+                    "oelo": 1540,
+                    "ochange": -14,
+                    "time": 404173,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746336806000,
                     "type": "BURIED_TREASURE",
@@ -29153,7 +29167,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 14,
+                "rank": 15,
                 "elo": 1731,
                 "top": 1776,
                 "points": 0,
@@ -31052,7 +31066,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 14,
+                "rank": 15,
                 "elo": 1731,
                 "top": 1754,
                 "points": 0,
