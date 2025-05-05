@@ -1,5 +1,5 @@
 {
-    "date": 1746438001000,
+    "date": 1746438601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -64543,15 +64543,15 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 33,
-                "elo": 1635,
+                "rank": 35,
+                "elo": 1634,
                 "top": 1748,
                 "points": 0,
                 "pb": 481598,
                 "current": 0,
                 "streak": 15,
-                "matches": 122,
-                "playtime": 72008987,
+                "matches": 123,
+                "playtime": 72454032,
                 "finished": 56,
                 "finishtime": 35016342,
                 "won": 67,
@@ -64560,6 +64560,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746438301000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "druppelen",
+                    "elo": 1634,
+                    "change": -1,
+                    "oelo": 1546,
+                    "ochange": 1,
+                    "time": 445045,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746437764000,
                     "type": "RUINED_PORTAL",
