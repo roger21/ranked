@@ -1,5 +1,5 @@
 {
-    "date": 1746487801000,
+    "date": 1746488401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -45792,7 +45792,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 1695,
                 "top": 1695,
                 "points": 0,
@@ -48811,23 +48811,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 23,
-                "elo": 1682,
+                "rank": 22,
+                "elo": 1701,
                 "top": 1733,
                 "points": 0,
                 "pb": 470342,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 158,
-                "playtime": 101931436,
-                "finished": 71,
-                "finishtime": 46539260,
-                "won": 80,
+                "matches": 159,
+                "playtime": 102541359,
+                "finished": 72,
+                "finishtime": 47149183,
+                "won": 81,
                 "lost": 68,
                 "forfeited": 2
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746488405000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "HDMICables",
+                    "elo": 1701,
+                    "change": 19,
+                    "oelo": 1622,
+                    "ochange": -19,
+                    "time": 609923,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746487738000,
                     "type": "VILLAGE",
@@ -50976,7 +50990,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0tic2030",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1682,
                 "top": 1682,
                 "points": 0,
@@ -60974,23 +60988,37 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 32,
-                "elo": 1641,
+                "rank": 35,
+                "elo": 1622,
                 "top": 1655,
                 "points": 0,
                 "pb": 572484,
                 "current": 0,
                 "streak": 11,
-                "matches": 13,
-                "playtime": 7583218,
+                "matches": 14,
+                "playtime": 8193141,
                 "finished": 10,
                 "finishtime": 6209887,
                 "won": 11,
-                "lost": 1,
+                "lost": 2,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746488405000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "thecamo6",
+                    "elo": 1622,
+                    "change": -19,
+                    "oelo": 1701,
+                    "ochange": 19,
+                    "time": 609923,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746487690000,
                     "type": "SHIPWRECK",
@@ -61109,7 +61137,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 1635,
                 "top": 1751,
                 "points": 0,
@@ -62084,7 +62112,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 1635,
                 "top": 1675,
                 "points": 0,
@@ -65887,7 +65915,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1628,
                 "top": 1686,
                 "points": 0,
