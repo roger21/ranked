@@ -1,5 +1,5 @@
 {
-    "date": 1746448201000,
+    "date": 1746448801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -50700,7 +50700,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "yummycelery",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 1668,
                 "top": 1668,
                 "points": 0,
@@ -51507,23 +51507,37 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 27,
-                "elo": 1660,
+                "rank": 25,
+                "elo": 1673,
                 "top": 1748,
                 "points": 0,
                 "pb": 481598,
-                "current": 0,
+                "current": 1,
                 "streak": 15,
-                "matches": 131,
-                "playtime": 77132036,
-                "finished": 59,
-                "finishtime": 36817696,
-                "won": 71,
+                "matches": 132,
+                "playtime": 77703611,
+                "finished": 60,
+                "finishtime": 37389271,
+                "won": 72,
                 "lost": 50,
                 "forfeited": 1
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746448823000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "BakaTeto",
+                    "elo": 1673,
+                    "change": 13,
+                    "oelo": 1445,
+                    "ochange": -13,
+                    "time": 571575,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746448074000,
                     "type": "DESERT_TEMPLE",
@@ -57978,7 +57992,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1635,
                 "top": 1751,
                 "points": 0,
@@ -58953,7 +58967,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1635,
                 "top": 1675,
                 "points": 0,
@@ -62756,15 +62770,15 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 34,
-                "elo": 1633,
+                "rank": 32,
+                "elo": 1636,
                 "top": 1680,
                 "points": 0,
                 "pb": 448289,
                 "current": 1,
                 "streak": 5,
-                "matches": 137,
-                "playtime": 87086061,
+                "matches": 138,
+                "playtime": 87981922,
                 "finished": 65,
                 "finishtime": 42577569,
                 "won": 73,
@@ -62773,6 +62787,20 @@
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1746448807000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "edcr",
+                    "elo": 1636,
+                    "change": 3,
+                    "oelo": 1868,
+                    "ochange": -3,
+                    "time": 895861,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746440089000,
                     "type": "VILLAGE",
