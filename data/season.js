@@ -1,5 +1,5 @@
 {
-    "date": 1746427201000,
+    "date": 1746427801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -42218,7 +42218,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 1704,
                 "top": 1733,
                 "points": 0,
@@ -44313,7 +44313,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1696,
                 "top": 1716,
                 "points": 0,
@@ -46786,23 +46786,37 @@
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
-                "rank": 22,
-                "elo": 1693,
-                "top": 1693,
+                "rank": 20,
+                "elo": 1708,
+                "top": 1708,
                 "points": 0,
                 "pb": 512167,
-                "current": 3,
+                "current": 4,
                 "streak": 5,
-                "matches": 39,
-                "playtime": 23654190,
-                "finished": 24,
-                "finishtime": 14904446,
-                "won": 26,
+                "matches": 40,
+                "playtime": 24299539,
+                "finished": 25,
+                "finishtime": 15549795,
+                "won": 27,
                 "lost": 13,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746427818000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Frigbob",
+                    "elo": 1708,
+                    "change": 15,
+                    "oelo": 1544,
+                    "ochange": -15,
+                    "time": 645349,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746427050000,
                     "type": "BURIED_TREASURE",
