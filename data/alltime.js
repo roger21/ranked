@@ -2412,37 +2412,6 @@
         "lost": 1397,
         "forfeited": 690
     },
-    "7d3a6bb9f62645ae80cf40840ca84c50": {
-        "nickname": "Frigbob",
-        "country": "ie",
-        "top": {
-            "2": 1373,
-            "3": 1611,
-            "4": 1630,
-            "5": 1704,
-            "6": 1639,
-            "7": 1639,
-            "8": 1656
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 486779,
-        "streak": 13,
-        "matches": 2429,
-        "playtime": 1692014413,
-        "finished": 744,
-        "finishtime": 615786019,
-        "won": 1189,
-        "lost": 1089,
-        "forfeited": 215
-    },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
         "country": "de",
@@ -3601,11 +3570,11 @@
         },
         "pb": 466241,
         "streak": 11,
-        "matches": 2353,
-        "playtime": 1510082120,
-        "finished": 759,
-        "finishtime": 580178745,
-        "won": 1186,
+        "matches": 2354,
+        "playtime": 1510827922,
+        "finished": 760,
+        "finishtime": 580924547,
+        "won": 1187,
         "lost": 1072,
         "forfeited": 374
     },
