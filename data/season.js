@@ -1,5 +1,5 @@
 {
-    "date": 1746555601000,
+    "date": 1746556202000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -50482,22 +50482,36 @@
             "nickname": "chrisxd__",
             "stats": {
                 "rank": 25,
-                "elo": 1656,
+                "elo": 1670,
                 "top": 1683,
                 "points": 0,
                 "pb": 554070,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 104,
-                "playtime": 58145898,
-                "finished": 43,
-                "finishtime": 29350130,
-                "won": 59,
+                "matches": 105,
+                "playtime": 59239382,
+                "finished": 44,
+                "finishtime": 30443614,
+                "won": 60,
                 "lost": 37,
                 "forfeited": 23
             },
             "country": "gr",
             "matches": [
+                {
+                    "date": 1746556092000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "ThaShape",
+                    "elo": 1670,
+                    "change": 14,
+                    "oelo": 1485,
+                    "ochange": -14,
+                    "time": 1093484,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746554536000,
                     "type": "RUINED_PORTAL",
