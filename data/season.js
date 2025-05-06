@@ -1,5 +1,5 @@
 {
-    "date": 1746570001000,
+    "date": 1746570602000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -12623,22 +12623,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 6,
-                "elo": 1814,
+                "elo": 1827,
                 "top": 1893,
                 "points": 0,
                 "pb": 433623,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 393,
-                "playtime": 220242307,
-                "finished": 200,
-                "finishtime": 121509468,
-                "won": 219,
+                "matches": 394,
+                "playtime": 220922683,
+                "finished": 201,
+                "finishtime": 122189844,
+                "won": 220,
                 "lost": 161,
                 "forfeited": 47
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746570594000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "waluyoshi",
+                    "elo": 1827,
+                    "change": 13,
+                    "oelo": 1584,
+                    "ochange": -13,
+                    "time": 680376,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746567340000,
                     "type": "BURIED_TREASURE",
@@ -29760,7 +29774,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 14,
+                "rank": 13,
                 "elo": 1766,
                 "top": 1793,
                 "points": 0,
@@ -30525,7 +30539,7 @@
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
-                "rank": 15,
+                "rank": 14,
                 "elo": 1762,
                 "top": 1762,
                 "points": 0,
@@ -31080,7 +31094,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 16,
+                "rank": 15,
                 "elo": 1759,
                 "top": 1837,
                 "points": 0,
@@ -34169,7 +34183,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "chrisxd__",
             "stats": {
-                "rank": 17,
+                "rank": 16,
                 "elo": 1758,
                 "top": 1758,
                 "points": 0,
@@ -35690,7 +35704,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 18,
+                "rank": 17,
                 "elo": 1754,
                 "top": 1935,
                 "points": 0,
@@ -39479,7 +39493,7 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 19,
+                "rank": 18,
                 "elo": 1748,
                 "top": 1748,
                 "points": 0,
@@ -52409,22 +52423,36 @@
             "nickname": "Winstonein",
             "stats": {
                 "rank": 26,
-                "elo": 1653,
-                "top": 1653,
+                "elo": 1677,
+                "top": 1677,
                 "points": 0,
                 "pb": 480686,
-                "current": 3,
+                "current": 4,
                 "streak": 4,
-                "matches": 57,
-                "playtime": 35484138,
-                "finished": 30,
-                "finishtime": 19783023,
-                "won": 33,
+                "matches": 58,
+                "playtime": 36074957,
+                "finished": 31,
+                "finishtime": 20373842,
+                "won": 34,
                 "lost": 21,
                 "forfeited": 3
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746570613000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "nahhann",
+                    "elo": 1677,
+                    "change": 24,
+                    "oelo": 1747,
+                    "ochange": -24,
+                    "time": 590819,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746307065000,
                     "type": "SHIPWRECK",
