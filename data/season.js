@@ -1,5 +1,5 @@
 {
-    "date": 1746554401000,
+    "date": 1746555001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -50482,22 +50482,36 @@
             "nickname": "chrisxd__",
             "stats": {
                 "rank": 25,
-                "elo": 1681,
+                "elo": 1656,
                 "top": 1683,
                 "points": 0,
                 "pb": 554070,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 103,
-                "playtime": 57437185,
+                "matches": 104,
+                "playtime": 58145898,
                 "finished": 43,
                 "finishtime": 29350130,
                 "won": 59,
-                "lost": 36,
+                "lost": 37,
                 "forfeited": 23
             },
             "country": "gr",
             "matches": [
+                {
+                    "date": 1746554536000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "sanjinhu",
+                    "elo": 1656,
+                    "change": -25,
+                    "oelo": 1578,
+                    "ochange": 25,
+                    "time": 708713,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746553390000,
                     "type": "BURIED_TREASURE",
