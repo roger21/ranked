@@ -1,5 +1,5 @@
 {
-    "date": 1746571201000,
+    "date": 1746571801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -70568,14 +70568,14 @@
             "nickname": "okrzej_",
             "stats": {
                 "rank": 37,
-                "elo": 1629,
+                "elo": 1628,
                 "top": 1675,
                 "points": 0,
                 "pb": 491852,
                 "current": 3,
                 "streak": 5,
-                "matches": 93,
-                "playtime": 57107515,
+                "matches": 94,
+                "playtime": 58090235,
                 "finished": 42,
                 "finishtime": 27286874,
                 "won": 50,
@@ -70584,6 +70584,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1746571333000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "JustAltoid",
+                    "elo": 1628,
+                    "change": -1,
+                    "oelo": 1513,
+                    "ochange": 1,
+                    "time": 982720,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746569894000,
                     "type": "VILLAGE",
@@ -71822,7 +71836,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1628,
                 "top": 1699,
                 "points": 0,
