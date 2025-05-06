@@ -1,5 +1,5 @@
 {
-    "date": 1746559201000,
+    "date": 1746559801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -36960,14 +36960,14 @@
             "nickname": "KenanKardes",
             "stats": {
                 "rank": 19,
-                "elo": 1737,
+                "elo": 1735,
                 "top": 1837,
                 "points": 0,
                 "pb": 429968,
                 "current": 0,
                 "streak": 9,
-                "matches": 213,
-                "playtime": 126669499,
+                "matches": 214,
+                "playtime": 126966830,
                 "finished": 100,
                 "finishtime": 65032102,
                 "won": 117,
@@ -36976,6 +36976,20 @@
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1746559429000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "_bidd",
+                    "elo": 1735,
+                    "change": -2,
+                    "oelo": 1560,
+                    "ochange": 2,
+                    "time": 297331,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746558750000,
                     "type": "VILLAGE",
