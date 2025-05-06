@@ -1,5 +1,5 @@
 {
-    "date": 1746573601000,
+    "date": 1746574201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -52521,22 +52521,36 @@
             "nickname": "Winstonein",
             "stats": {
                 "rank": 26,
-                "elo": 1673,
+                "elo": 1685,
                 "top": 1690,
                 "points": 0,
                 "pb": 480686,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
-                "matches": 60,
-                "playtime": 37555206,
-                "finished": 31,
-                "finishtime": 20373842,
-                "won": 35,
+                "matches": 61,
+                "playtime": 38275366,
+                "finished": 32,
+                "finishtime": 21094002,
+                "won": 36,
                 "lost": 22,
                 "forfeited": 3
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746573799000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "benemies",
+                    "elo": 1685,
+                    "change": 12,
+                    "oelo": 1425,
+                    "ochange": -12,
+                    "time": 720160,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746572835000,
                     "type": "DESERT_TEMPLE",
