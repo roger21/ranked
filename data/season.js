@@ -1,5 +1,5 @@
 {
-    "date": 1746539401000,
+    "date": 1746540001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -15017,22 +15017,36 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 6,
-                "elo": 1852,
-                "top": 1859,
+                "elo": 1871,
+                "top": 1871,
                 "points": 0,
                 "pb": 445062,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
-                "matches": 207,
-                "playtime": 110725335,
-                "finished": 99,
-                "finishtime": 58713146,
-                "won": 116,
+                "matches": 208,
+                "playtime": 111291537,
+                "finished": 100,
+                "finishtime": 59279348,
+                "won": 117,
                 "lost": 83,
                 "forfeited": 31
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1746539787000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "KenanKardes",
+                    "elo": 1871,
+                    "change": 19,
+                    "oelo": 1814,
+                    "ochange": -19,
+                    "time": 566202,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746480369000,
                     "type": "BURIED_TREASURE",
@@ -17868,22 +17882,36 @@
             "nickname": "KenanKardes",
             "stats": {
                 "rank": 7,
-                "elo": 1833,
+                "elo": 1814,
                 "top": 1837,
                 "points": 0,
                 "pb": 429968,
-                "current": 2,
+                "current": 0,
                 "streak": 9,
-                "matches": 203,
-                "playtime": 120556815,
+                "matches": 204,
+                "playtime": 121123017,
                 "finished": 98,
                 "finishtime": 63858275,
                 "won": 114,
-                "lost": 80,
+                "lost": 81,
                 "forfeited": 25
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1746539787000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 1814,
+                    "change": -19,
+                    "oelo": 1871,
+                    "ochange": 19,
+                    "time": 566202,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746539106000,
                     "type": "BURIED_TREASURE",
