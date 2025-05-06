@@ -1,5 +1,5 @@
 {
-    "date": 1746564001000,
+    "date": 1746564601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -83813,7 +83813,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "ELO_FFAWRSEED948",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1600,
                 "top": 1603,
                 "points": 0,
@@ -85068,7 +85068,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1600,
                 "top": 1600,
                 "points": 0,
@@ -87821,7 +87821,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1599,
                 "top": 1657,
                 "points": 0,
@@ -88978,7 +88978,7 @@
             "uuid": "74ce14cf794b431bb3e10d5311d0777f",
             "nickname": "Seauu",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1598,
                 "top": 1598,
                 "points": 0,
@@ -89183,7 +89183,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1598,
                 "top": 1733,
                 "points": 0,
@@ -91600,7 +91600,7 @@
             "uuid": "0c35dc5580aa402c863cfe8d89b81704",
             "nickname": "wethr",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1598,
                 "top": 1620,
                 "points": 0,
