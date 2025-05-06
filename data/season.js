@@ -1,5 +1,5 @@
 {
-    "date": 1746553201000,
+    "date": 1746553801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -50482,14 +50482,14 @@
             "nickname": "chrisxd__",
             "stats": {
                 "rank": 25,
-                "elo": 1683,
+                "elo": 1681,
                 "top": 1683,
                 "points": 0,
                 "pb": 554070,
                 "current": 1,
                 "streak": 9,
-                "matches": 102,
-                "playtime": 56811384,
+                "matches": 103,
+                "playtime": 57437185,
                 "finished": 43,
                 "finishtime": 29350130,
                 "won": 59,
@@ -50498,6 +50498,20 @@
             },
             "country": "gr",
             "matches": [
+                {
+                    "date": 1746553390000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "NOHACKSJUSTTIGER",
+                    "elo": 1681,
+                    "change": -2,
+                    "oelo": 1557,
+                    "ochange": 2,
+                    "time": 625801,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746550891000,
                     "type": "DESERT_TEMPLE",
