@@ -1,5 +1,5 @@
 {
-    "date": 1746520801000,
+    "date": 1746521401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -77551,15 +77551,15 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 43,
-                "elo": 1600,
+                "rank": 48,
+                "elo": 1597,
                 "top": 1615,
                 "points": 0,
                 "pb": 515369,
                 "current": 1,
                 "streak": 5,
-                "matches": 113,
-                "playtime": 69395907,
+                "matches": 114,
+                "playtime": 69929862,
                 "finished": 48,
                 "finishtime": 33415912,
                 "won": 60,
@@ -77568,6 +77568,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746521427000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "Obotron",
+                    "elo": 1597,
+                    "change": -3,
+                    "oelo": 1359,
+                    "ochange": 3,
+                    "time": 533955,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746520124000,
                     "type": "BURIED_TREASURE",
@@ -80341,7 +80355,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1599,
                 "top": 1657,
                 "points": 0,
@@ -81498,7 +81512,7 @@
             "uuid": "74ce14cf794b431bb3e10d5311d0777f",
             "nickname": "Seauu",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1598,
                 "top": 1598,
                 "points": 0,
@@ -81703,7 +81717,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1598,
                 "top": 1733,
                 "points": 0,
@@ -84120,7 +84134,7 @@
             "uuid": "0c35dc5580aa402c863cfe8d89b81704",
             "nickname": "wethr",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1598,
                 "top": 1620,
                 "points": 0,
