@@ -1,5 +1,5 @@
 {
-    "date": 1746613801000,
+    "date": 1746614401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -61072,7 +61072,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "yummycelery",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1638,
                 "top": 1668,
                 "points": 0,
@@ -61991,7 +61991,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1635,
                 "top": 1675,
                 "points": 0,
@@ -65794,7 +65794,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1635,
                 "top": 1646,
                 "points": 0,
@@ -67315,7 +67315,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1632,
                 "top": 1632,
                 "points": 0,
@@ -70096,7 +70096,7 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1631,
                 "top": 1748,
                 "points": 0,
@@ -72485,7 +72485,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1628,
                 "top": 1699,
                 "points": 0,
@@ -75770,23 +75770,37 @@
             "uuid": "8195522a3c574d86b2162c8b8ec8bd3d",
             "nickname": "pardonmc",
             "stats": {
-                "rank": 38,
-                "elo": 1624,
-                "top": 1626,
+                "rank": 32,
+                "elo": 1639,
+                "top": 1639,
                 "points": 0,
                 "pb": 497653,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 221,
-                "playtime": 131815693,
+                "matches": 222,
+                "playtime": 131992382,
                 "finished": 77,
                 "finishtime": 52951339,
-                "won": 110,
+                "won": 111,
                 "lost": 93,
                 "forfeited": 41
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1746614403000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "centuriee",
+                    "elo": 1639,
+                    "change": 15,
+                    "oelo": 1457,
+                    "ochange": -15,
+                    "time": 176689,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746613372000,
                     "type": "BURIED_TREASURE",
