@@ -1,5 +1,5 @@
 {
-    "date": 1746577201000,
+    "date": 1746577801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -15533,23 +15533,37 @@
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
-                "rank": 9,
-                "elo": 1797,
+                "rank": 8,
+                "elo": 1810,
                 "top": 1893,
                 "points": 0,
                 "pb": 433623,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 397,
-                "playtime": 222194187,
-                "finished": 202,
-                "finishtime": 122738960,
-                "won": 221,
+                "matches": 398,
+                "playtime": 222744412,
+                "finished": 203,
+                "finishtime": 123289185,
+                "won": 222,
                 "lost": 163,
                 "forfeited": 48
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746577626000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "JustAltoid",
+                    "elo": 1810,
+                    "change": 13,
+                    "oelo": 1573,
+                    "ochange": -13,
+                    "time": 550225,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746573468000,
                     "type": "BURIED_TREASURE",
