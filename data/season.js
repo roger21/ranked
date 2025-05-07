@@ -1,5 +1,5 @@
 {
-    "date": 1746659401000,
+    "date": 1746660001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -62754,14 +62754,14 @@
             "nickname": "RambuncPharmer89",
             "stats": {
                 "rank": 29,
-                "elo": 1654,
+                "elo": 1653,
                 "top": 1692,
                 "points": 0,
                 "pb": 491334,
                 "current": 0,
                 "streak": 6,
-                "matches": 96,
-                "playtime": 61056530,
+                "matches": 97,
+                "playtime": 61653563,
                 "finished": 41,
                 "finishtime": 28950159,
                 "won": 52,
@@ -62770,6 +62770,20 @@
             },
             "country": "bl",
             "matches": [
+                {
+                    "date": 1746659858000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "oshgay",
+                    "elo": 1653,
+                    "change": -1,
+                    "oelo": 1532,
+                    "ochange": 1,
+                    "time": 597033,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746658989000,
                     "type": "BURIED_TREASURE",
