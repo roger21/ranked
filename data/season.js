@@ -1,5 +1,5 @@
 {
-    "date": 1746624001000,
+    "date": 1746624601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -62962,7 +62962,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "RambuncPharmer89",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1646,
                 "top": 1689,
                 "points": 0,
@@ -64203,7 +64203,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "yummycelery",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1638,
                 "top": 1668,
                 "points": 0,
@@ -65122,7 +65122,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1635,
                 "top": 1646,
                 "points": 0,
@@ -66643,23 +66643,37 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 35,
-                "elo": 1632,
+                "rank": 29,
+                "elo": 1649,
                 "top": 1649,
                 "points": 0,
                 "pb": 465189,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 68,
-                "playtime": 42399473,
-                "finished": 32,
-                "finishtime": 20018714,
-                "won": 38,
+                "matches": 69,
+                "playtime": 42944711,
+                "finished": 33,
+                "finishtime": 20563952,
+                "won": 39,
                 "lost": 25,
                 "forfeited": 0
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1746624629000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "LEC666888",
+                    "elo": 1649,
+                    "change": 17,
+                    "oelo": 1531,
+                    "ochange": -17,
+                    "time": 545238,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746623904000,
                     "type": "VILLAGE",
@@ -67548,7 +67562,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1632,
                 "top": 1632,
                 "points": 0,
