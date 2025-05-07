@@ -2140,7 +2140,7 @@
             "5": 1910,
             "6": 1857,
             "7": 2017,
-            "8": 1509
+            "8": 1526
         },
         "points": {
             "1": 0,
@@ -2154,11 +2154,11 @@
         },
         "pb": 486560,
         "streak": 12,
-        "matches": 1859,
-        "playtime": 1261819004,
-        "finished": 682,
-        "finishtime": 518599655,
-        "won": 984,
+        "matches": 1860,
+        "playtime": 1262808681,
+        "finished": 683,
+        "finishtime": 519589332,
+        "won": 985,
         "lost": 778,
         "forfeited": 26
     },
@@ -2251,13 +2251,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2089,
-        "playtime": 1369660821,
+        "matches": 2090,
+        "playtime": 1370327313,
         "finished": 708,
         "finishtime": 567290352,
         "won": 1086,
-        "lost": 944,
-        "forfeited": 370
+        "lost": 945,
+        "forfeited": 371
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
@@ -3552,7 +3552,7 @@
             "5": 1908,
             "6": 2064,
             "7": 2123,
-            "8": 1770
+            "8": 1784
         },
         "points": {
             "1": 0,
@@ -3566,11 +3566,11 @@
         },
         "pb": 460148,
         "streak": 12,
-        "matches": 3603,
-        "playtime": 2444068886,
+        "matches": 3604,
+        "playtime": 2444343082,
         "finished": 1144,
         "finishtime": 880326720,
-        "won": 1789,
+        "won": 1790,
         "lost": 1641,
         "forfeited": 283
     },
@@ -3915,13 +3915,13 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 2282,
-        "playtime": 1454544701,
+        "matches": 2283,
+        "playtime": 1454818897,
         "finished": 908,
         "finishtime": 657016258,
         "won": 1242,
-        "lost": 985,
-        "forfeited": 240
+        "lost": 986,
+        "forfeited": 241
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "nwolc",
