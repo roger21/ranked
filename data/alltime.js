@@ -4210,13 +4210,13 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5309,
-        "playtime": 3523695152,
+        "matches": 5310,
+        "playtime": 3523980372,
         "finished": 1614,
         "finishtime": 1266360454,
         "won": 2609,
-        "lost": 2445,
-        "forfeited": 821
+        "lost": 2446,
+        "forfeited": 822
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
