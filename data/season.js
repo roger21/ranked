@@ -1,5 +1,5 @@
 {
-    "date": 1746604201000,
+    "date": 1746604801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -67315,7 +67315,7 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1631,
                 "top": 1748,
                 "points": 0,
@@ -69704,7 +69704,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1628,
                 "top": 1699,
                 "points": 0,
@@ -72989,7 +72989,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1622,
                 "top": 1655,
                 "points": 0,
@@ -73138,7 +73138,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1622,
                 "top": 1640,
                 "points": 0,
@@ -75849,7 +75849,7 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1621,
                 "top": 1633,
                 "points": 0,
@@ -78280,7 +78280,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1621,
                 "top": 1707,
                 "points": 0,
@@ -79353,7 +79353,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1620,
                 "top": 1751,
                 "points": 0,
@@ -80398,7 +80398,7 @@
             "uuid": "6135d13bce2841f8b7e8d37d91c6edfe",
             "nickname": "boywithcards",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1620,
                 "top": 1620,
                 "points": 0,
@@ -82437,7 +82437,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1616,
                 "top": 1649,
                 "points": 0,
@@ -83314,23 +83314,37 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 44,
-                "elo": 1615,
-                "top": 1615,
+                "rank": 35,
+                "elo": 1632,
+                "top": 1632,
                 "points": 0,
                 "pb": 513433,
-                "current": 3,
+                "current": 4,
                 "streak": 7,
-                "matches": 201,
-                "playtime": 139926787,
-                "finished": 88,
-                "finishtime": 63657891,
-                "won": 109,
+                "matches": 202,
+                "playtime": 140702264,
+                "finished": 89,
+                "finishtime": 64433368,
+                "won": 110,
                 "lost": 88,
                 "forfeited": 0
             },
             "country": "tw",
             "matches": [
+                {
+                    "date": 1746604814000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "LilMinien",
+                    "elo": 1632,
+                    "change": 17,
+                    "oelo": 1505,
+                    "ochange": -17,
+                    "time": 775477,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746603819000,
                     "type": "SHIPWRECK",
