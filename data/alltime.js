@@ -84,11 +84,11 @@
         },
         "pb": 512443,
         "streak": 9,
-        "matches": 956,
-        "playtime": 534490616,
-        "finished": 286,
-        "finishtime": 215359599,
-        "won": 478,
+        "matches": 957,
+        "playtime": 535266643,
+        "finished": 287,
+        "finishtime": 216135626,
+        "won": 479,
         "lost": 436,
         "forfeited": 321
     },
@@ -1145,13 +1145,13 @@
         },
         "pb": 402177,
         "streak": 17,
-        "matches": 9952,
-        "playtime": 6108805097,
+        "matches": 9953,
+        "playtime": 6109193597,
         "finished": 4136,
         "finishtime": 2848118710,
         "won": 5398,
-        "lost": 4349,
-        "forfeited": 1346
+        "lost": 4350,
+        "forfeited": 1347
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1869,12 +1869,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 4899,
-        "playtime": 3148630579,
+        "matches": 4900,
+        "playtime": 3149354930,
         "finished": 1864,
         "finishtime": 1361276323,
         "won": 2542,
-        "lost": 2253,
+        "lost": 2254,
         "forfeited": 656
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -1980,7 +1980,7 @@
         "top": {
             "6": 1582,
             "7": 2203,
-            "8": 1918
+            "8": 1937
         },
         "points": {
             "6": 0,
@@ -1989,11 +1989,11 @@
         },
         "pb": 428921,
         "streak": 11,
-        "matches": 2037,
-        "playtime": 1207876006,
-        "finished": 835,
-        "finishtime": 560334416,
-        "won": 1072,
+        "matches": 2038,
+        "playtime": 1208600357,
+        "finished": 836,
+        "finishtime": 561058767,
+        "won": 1073,
         "lost": 915,
         "forfeited": 260
     },
@@ -2788,11 +2788,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8642,
-        "playtime": 5595082889,
+        "matches": 8643,
+        "playtime": 5595535124,
         "finished": 2816,
         "finishtime": 2296604533,
-        "won": 4380,
+        "won": 4381,
         "lost": 4073,
         "forfeited": 2041
     },
@@ -3145,13 +3145,13 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 2765,
-        "playtime": 1614334362,
+        "matches": 2766,
+        "playtime": 1614541155,
         "finished": 1006,
         "finishtime": 716557753,
         "won": 1413,
-        "lost": 1269,
-        "forfeited": 621
+        "lost": 1270,
+        "forfeited": 622
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "nickname": "sevensix_",
@@ -4078,12 +4078,12 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3549,
-        "playtime": 2532897599,
+        "matches": 3551,
+        "playtime": 2533880419,
         "finished": 1112,
         "finishtime": 905687875,
-        "won": 1763,
-        "lost": 1658,
+        "won": 1764,
+        "lost": 1659,
         "forfeited": 220
     },
     "d0acbca0d50e4824bc38a44395cce096": {
@@ -4351,7 +4351,7 @@
             "5": 2166,
             "6": 2226,
             "7": 2224,
-            "8": 1821
+            "8": 1842
         },
         "points": {
             "1": 0,
@@ -4365,11 +4365,11 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 5537,
-        "playtime": 3470375388,
+        "matches": 5538,
+        "playtime": 3470763888,
         "finished": 2355,
         "finishtime": 1642140229,
-        "won": 3014,
+        "won": 3015,
         "lost": 2448,
         "forfeited": 719
     },
@@ -4559,13 +4559,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2103,
-        "playtime": 1422091619,
+        "matches": 2104,
+        "playtime": 1422543854,
         "finished": 767,
         "finishtime": 623350041,
         "won": 1146,
-        "lost": 922,
-        "forfeited": 345
+        "lost": 923,
+        "forfeited": 346
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
