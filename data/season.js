@@ -1,5 +1,5 @@
 {
-    "date": 1746738601000,
+    "date": 1746739201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -13808,22 +13808,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 7,
-                "elo": 1880,
+                "elo": 1856,
                 "top": 1937,
                 "points": 0,
                 "pb": 433623,
                 "current": 0,
                 "streak": 8,
-                "matches": 430,
-                "playtime": 242349150,
+                "matches": 431,
+                "playtime": 242825318,
                 "finished": 223,
                 "finishtime": 135765262,
                 "won": 244,
-                "lost": 172,
+                "lost": 173,
                 "forfeited": 49
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746738725000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 1856,
+                    "change": -24,
+                    "oelo": 1791,
+                    "ochange": 24,
+                    "time": 476168,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746738192000,
                     "type": "VILLAGE",
@@ -31595,22 +31609,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 14,
-                "elo": 1767,
+                "elo": 1791,
                 "top": 1813,
                 "points": 0,
                 "pb": 436518,
-                "current": 2,
+                "current": 3,
                 "streak": 7,
-                "matches": 295,
-                "playtime": 175944784,
-                "finished": 129,
-                "finishtime": 80867664,
-                "won": 155,
+                "matches": 296,
+                "playtime": 176420952,
+                "finished": 130,
+                "finishtime": 81343832,
+                "won": 156,
                 "lost": 134,
                 "forfeited": 4
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1746738725000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "edcr",
+                    "elo": 1791,
+                    "change": 24,
+                    "oelo": 1856,
+                    "ochange": -24,
+                    "time": 476168,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746737930000,
                     "type": "SHIPWRECK",
