@@ -1,5 +1,5 @@
 {
-    "date": 1746740401000,
+    "date": 1746741001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -10327,22 +10327,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 6,
-                "elo": 1861,
+                "elo": 1876,
                 "top": 1884,
                 "points": 0,
                 "pb": 427487,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 253,
-                "playtime": 145235071,
-                "finished": 117,
-                "finishtime": 68926850,
-                "won": 135,
+                "matches": 254,
+                "playtime": 145845080,
+                "finished": 118,
+                "finishtime": 69536859,
+                "won": 136,
                 "lost": 106,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746740576000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "waluyoshi",
+                    "elo": 1876,
+                    "change": 15,
+                    "oelo": 1696,
+                    "ochange": -15,
+                    "time": 610009,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746739527000,
                     "type": "RUINED_PORTAL",
@@ -53422,22 +53436,36 @@
             "nickname": "waluyoshi",
             "stats": {
                 "rank": 25,
-                "elo": 1711,
+                "elo": 1696,
                 "top": 1739,
                 "points": 0,
                 "pb": 482237,
-                "current": 1,
+                "current": 0,
                 "streak": 11,
-                "matches": 232,
-                "playtime": 143160104,
+                "matches": 233,
+                "playtime": 143770113,
                 "finished": 93,
                 "finishtime": 65049057,
                 "won": 118,
-                "lost": 101,
+                "lost": 102,
                 "forfeited": 23
             },
             "country": "um",
             "matches": [
+                {
+                    "date": 1746740576000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "nahhann",
+                    "elo": 1696,
+                    "change": -15,
+                    "oelo": 1876,
+                    "ochange": 15,
+                    "time": 610009,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746739861000,
                     "type": "SHIPWRECK",
