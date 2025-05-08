@@ -1,5 +1,5 @@
 {
-    "date": 1746696001000,
+    "date": 1746696601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -61009,22 +61009,36 @@
             "nickname": "jonahhhhhhhh",
             "stats": {
                 "rank": 28,
-                "elo": 1657,
+                "elo": 1671,
                 "top": 1748,
                 "points": 0,
                 "pb": 481598,
-                "current": 2,
+                "current": 3,
                 "streak": 15,
-                "matches": 197,
-                "playtime": 119206560,
+                "matches": 198,
+                "playtime": 119801420,
                 "finished": 86,
                 "finishtime": 54124762,
-                "won": 101,
+                "won": 102,
                 "lost": 79,
                 "forfeited": 2
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746696267000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "calmnights",
+                    "elo": 1671,
+                    "change": 14,
+                    "oelo": 1475,
+                    "ochange": -14,
+                    "time": 594860,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746695273000,
                     "type": "BURIED_TREASURE",
