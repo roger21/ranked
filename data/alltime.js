@@ -687,11 +687,11 @@
         },
         "pb": 429880,
         "streak": 12,
-        "matches": 1587,
-        "playtime": 1026141729,
+        "matches": 1589,
+        "playtime": 1026653613,
         "finished": 726,
         "finishtime": 490148068,
-        "won": 893,
+        "won": 895,
         "lost": 653,
         "forfeited": 42
     },
@@ -903,7 +903,7 @@
             "5": 2018,
             "6": 2116,
             "7": 2283,
-            "8": 1857
+            "8": 1863
         },
         "points": {
             "2": 0,
@@ -916,11 +916,11 @@
         },
         "pb": 427487,
         "streak": 11,
-        "matches": 3751,
-        "playtime": 2223837378,
-        "finished": 1428,
-        "finishtime": 957241262,
-        "won": 1890,
+        "matches": 3752,
+        "playtime": 2224465068,
+        "finished": 1429,
+        "finishtime": 957868952,
+        "won": 1891,
         "lost": 1656,
         "forfeited": 576
     },
@@ -1558,7 +1558,7 @@
             "5": 0,
             "6": 1435,
             "7": 1361,
-            "8": 1284
+            "8": 1285
         },
         "points": {
             "1": 0,
@@ -1572,13 +1572,13 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2129,
-        "playtime": 1351232846,
-        "finished": 749,
-        "finishtime": 592553873,
-        "won": 1136,
-        "lost": 947,
-        "forfeited": 613
+        "matches": 2131,
+        "playtime": 1352271184,
+        "finished": 750,
+        "finishtime": 593394604,
+        "won": 1137,
+        "lost": 948,
+        "forfeited": 614
     },
     "48d9df3377554043ba39a8500c7ad702": {
         "nickname": "ELO_FFAWRSEED948",
@@ -2559,13 +2559,13 @@
         },
         "pb": 497653,
         "streak": 9,
-        "matches": 1075,
-        "playtime": 632922972,
+        "matches": 1077,
+        "playtime": 633763010,
         "finished": 338,
         "finishtime": 243730015,
         "won": 529,
-        "lost": 471,
-        "forfeited": 275
+        "lost": 473,
+        "forfeited": 276
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
@@ -2821,11 +2821,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8671,
-        "playtime": 5610982774,
-        "finished": 2828,
-        "finishtime": 2304258289,
-        "won": 4395,
+        "matches": 8672,
+        "playtime": 5611735617,
+        "finished": 2829,
+        "finishtime": 2305011132,
+        "won": 4396,
         "lost": 4087,
         "forfeited": 2050
     },
@@ -4014,11 +4014,11 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3745,
-        "playtime": 2322473595,
+        "matches": 3746,
+        "playtime": 2322882667,
         "finished": 1212,
         "finishtime": 888029953,
-        "won": 1848,
+        "won": 1849,
         "lost": 1703,
         "forfeited": 757
     },
@@ -4111,12 +4111,12 @@
         },
         "pb": 564429,
         "streak": 13,
-        "matches": 437,
-        "playtime": 349165240,
+        "matches": 438,
+        "playtime": 349828067,
         "finished": 164,
         "finishtime": 143743501,
         "won": 248,
-        "lost": 183,
+        "lost": 184,
         "forfeited": 9
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
