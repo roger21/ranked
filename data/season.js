@@ -1,5 +1,5 @@
 {
-    "date": 1746739801000,
+    "date": 1746740401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -24951,22 +24951,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 10,
-                "elo": 1814,
-                "top": 1814,
+                "elo": 1826,
+                "top": 1826,
                 "points": 0,
                 "pb": 436518,
-                "current": 4,
+                "current": 5,
                 "streak": 7,
-                "matches": 297,
-                "playtime": 177171866,
+                "matches": 298,
+                "playtime": 177440858,
                 "finished": 131,
                 "finishtime": 82094746,
-                "won": 157,
+                "won": 158,
                 "lost": 134,
                 "forfeited": 4
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1746740046000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "loodlow",
+                    "elo": 1826,
+                    "change": 12,
+                    "oelo": 1576,
+                    "ochange": -12,
+                    "time": 268992,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746739527000,
                     "type": "RUINED_PORTAL",
@@ -53408,22 +53422,36 @@
             "nickname": "waluyoshi",
             "stats": {
                 "rank": 25,
-                "elo": 1697,
+                "elo": 1711,
                 "top": 1739,
                 "points": 0,
                 "pb": 482237,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 231,
-                "playtime": 142734765,
+                "matches": 232,
+                "playtime": 143160104,
                 "finished": 93,
                 "finishtime": 65049057,
-                "won": 117,
+                "won": 118,
                 "lost": 101,
                 "forfeited": 23
             },
             "country": "um",
             "matches": [
+                {
+                    "date": 1746739861000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "21mustard",
+                    "elo": 1711,
+                    "change": 14,
+                    "oelo": 1517,
+                    "ochange": -14,
+                    "time": 425339,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746658691000,
                     "type": "RUINED_PORTAL",
