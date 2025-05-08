@@ -1,5 +1,5 @@
 {
-    "date": 1746712201000,
+    "date": 1746712802000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -41645,14 +41645,14 @@
             "nickname": "TUDORULE",
             "stats": {
                 "rank": 20,
-                "elo": 1745,
+                "elo": 1743,
                 "top": 1770,
                 "points": 0,
                 "pb": 481210,
                 "current": 0,
                 "streak": 6,
-                "matches": 115,
-                "playtime": 65832630,
+                "matches": 116,
+                "playtime": 66602030,
                 "finished": 60,
                 "finishtime": 37055567,
                 "won": 66,
@@ -41661,6 +41661,20 @@
             },
             "country": "ro",
             "matches": [
+                {
+                    "date": 1746712225000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "chrisxd__",
+                    "elo": 1743,
+                    "change": -2,
+                    "oelo": 1585,
+                    "ochange": 2,
+                    "time": 769400,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746711259000,
                     "type": "VILLAGE",
