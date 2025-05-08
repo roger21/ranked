@@ -1,5 +1,5 @@
 {
-    "date": 1746669601000,
+    "date": 1746670201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -71674,7 +71674,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "yummycelery",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1638,
                 "top": 1668,
                 "points": 0,
@@ -72593,7 +72593,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1638,
                 "top": 1649,
                 "points": 0,
@@ -73708,7 +73708,7 @@
             "uuid": "6135d13bce2841f8b7e8d37d91c6edfe",
             "nickname": "boywithcards",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1637,
                 "top": 1637,
                 "points": 0,
@@ -75761,7 +75761,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okrzej_",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1636,
                 "top": 1675,
                 "points": 0,
@@ -77254,7 +77254,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1632,
                 "top": 1632,
                 "points": 0,
@@ -80035,7 +80035,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1628,
                 "top": 1699,
                 "points": 0,
@@ -83320,23 +83320,37 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 40,
-                "elo": 1622,
-                "top": 1622,
+                "rank": 34,
+                "elo": 1639,
+                "top": 1639,
                 "points": 0,
                 "pb": 515369,
-                "current": 3,
+                "current": 4,
                 "streak": 5,
-                "matches": 118,
-                "playtime": 72580783,
-                "finished": 51,
-                "finishtime": 35218760,
-                "won": 63,
+                "matches": 119,
+                "playtime": 73476981,
+                "finished": 52,
+                "finishtime": 36114958,
+                "won": 64,
                 "lost": 50,
                 "forfeited": 24
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746670213000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "xShatter",
+                    "elo": 1639,
+                    "change": 17,
+                    "oelo": 1531,
+                    "ochange": -17,
+                    "time": 896198,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746669245000,
                     "type": "DESERT_TEMPLE",
