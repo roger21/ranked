@@ -1,5 +1,5 @@
 {
-    "date": 1746742201000,
+    "date": 1746742801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -97094,23 +97094,37 @@
             "uuid": "0c35dc5580aa402c863cfe8d89b81704",
             "nickname": "wethr",
             "stats": {
-                "rank": 46,
-                "elo": 1613,
+                "rank": 52,
+                "elo": 1600,
                 "top": 1620,
                 "points": 0,
                 "pb": 504515,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 116,
-                "playtime": 73389991,
+                "matches": 117,
+                "playtime": 74043696,
                 "finished": 48,
                 "finishtime": 34776623,
                 "won": 65,
-                "lost": 45,
+                "lost": 46,
                 "forfeited": 12
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1746742817000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 1600,
+                    "change": -13,
+                    "oelo": 1826,
+                    "ochange": 13,
+                    "time": 653705,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746742025000,
                     "type": "DESERT_TEMPLE",
@@ -98671,7 +98685,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "RambuncPharmer89",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1610,
                 "top": 1692,
                 "points": 0,
@@ -100010,7 +100024,7 @@
             "uuid": "744f344f2f5a4610aa8fe30053312812",
             "nickname": "TheBlazer97",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1607,
                 "top": 1607,
                 "points": 0,
@@ -101713,7 +101727,7 @@
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1606,
                 "top": 1606,
                 "points": 0,
@@ -102576,7 +102590,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1604,
                 "top": 1687,
                 "points": 0,
