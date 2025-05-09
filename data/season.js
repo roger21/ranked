@@ -1,5 +1,5 @@
 {
-    "date": 1746783001000,
+    "date": 1746783601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -101154,7 +101154,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1620,
                 "top": 1751,
                 "points": 0,
@@ -102199,7 +102199,7 @@
             "uuid": "3910d98bea254b488a10d6e91e469f7e",
             "nickname": "dwoh",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1614,
                 "top": 1614,
                 "points": 0,
@@ -102474,7 +102474,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1614,
                 "top": 1733,
                 "points": 0,
@@ -105059,7 +105059,7 @@
             "uuid": "744f344f2f5a4610aa8fe30053312812",
             "nickname": "TheBlazer97",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1607,
                 "top": 1607,
                 "points": 0,
@@ -106762,7 +106762,7 @@
             "uuid": "736dbdc44a3e452fa489f5344565835e",
             "nickname": "drx6",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1606,
                 "top": 1606,
                 "points": 0,
