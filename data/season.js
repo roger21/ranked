@@ -1,5 +1,5 @@
 {
-    "date": 1746769801000,
+    "date": 1746770401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -67965,7 +67965,7 @@
             "uuid": "8195522a3c574d86b2162c8b8ec8bd3d",
             "nickname": "pardonmc",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 1651,
                 "top": 1683,
                 "points": 0,
@@ -71264,7 +71264,7 @@
             "uuid": "7fad8dae2ab04971bc07a6440f84d609",
             "nickname": "suravil",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1649,
                 "top": 1669,
                 "points": 0,
@@ -72799,7 +72799,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1648,
                 "top": 1659,
                 "points": 0,
@@ -78492,7 +78492,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1643,
                 "top": 1652,
                 "points": 0,
@@ -80153,7 +80153,7 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1643,
                 "top": 1645,
                 "points": 0,
@@ -81268,7 +81268,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1642,
                 "top": 1652,
                 "points": 0,
@@ -81879,7 +81879,7 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "waluyoshi",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1642,
                 "top": 1739,
                 "points": 0,
@@ -85220,23 +85220,37 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 38,
-                "elo": 1640,
+                "rank": 31,
+                "elo": 1656,
                 "top": 1765,
                 "points": 0,
                 "pb": 424895,
-                "current": 1,
+                "current": 2,
                 "streak": 5,
-                "matches": 177,
-                "playtime": 102248093,
-                "finished": 81,
-                "finishtime": 49645024,
-                "won": 94,
+                "matches": 178,
+                "playtime": 102960027,
+                "finished": 82,
+                "finishtime": 50356958,
+                "won": 95,
                 "lost": 75,
                 "forfeited": 15
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1746770407000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Tookannn",
+                    "elo": 1656,
+                    "change": 16,
+                    "oelo": 1509,
+                    "ochange": -16,
+                    "time": 711934,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746769048000,
                     "type": "BURIED_TREASURE",
