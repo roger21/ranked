@@ -1,5 +1,5 @@
 {
-    "date": 1746813001000,
+    "date": 1746813601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -101474,8 +101474,8 @@
                 "pb": 473838,
                 "current": 4,
                 "streak": 8,
-                "matches": 239,
-                "playtime": 127928985,
+                "matches": 240,
+                "playtime": 128646166,
                 "finished": 97,
                 "finishtime": 62792894,
                 "won": 125,
@@ -101484,6 +101484,20 @@
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1746813329000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "okrzej_",
+                    "elo": 1628,
+                    "change": 0,
+                    "oelo": 1589,
+                    "ochange": 0,
+                    "time": 717181,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746812284000,
                     "type": "VILLAGE",
