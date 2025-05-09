@@ -1539,13 +1539,13 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2147,
-        "playtime": 1360736310,
+        "matches": 2148,
+        "playtime": 1361308195,
         "finished": 755,
         "finishtime": 597452838,
         "won": 1145,
-        "lost": 956,
-        "forfeited": 620
+        "lost": 957,
+        "forfeited": 621
     },
     "48d9df3377554043ba39a8500c7ad702": {
         "nickname": "ELO_FFAWRSEED948",
@@ -1869,12 +1869,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 4931,
-        "playtime": 3168583149,
+        "matches": 4932,
+        "playtime": 3169524338,
         "finished": 1878,
         "finishtime": 1370168014,
         "won": 2558,
-        "lost": 2268,
+        "lost": 2269,
         "forfeited": 656
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -1902,11 +1902,11 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7773,
-        "playtime": 4931340689,
-        "finished": 2737,
-        "finishtime": 2095401609,
-        "won": 3855,
+        "matches": 7774,
+        "playtime": 4932134946,
+        "finished": 2738,
+        "finishtime": 2096195866,
+        "won": 3856,
         "lost": 3659,
         "forfeited": 1349
     },
@@ -4206,12 +4206,12 @@
         },
         "pb": 465365,
         "streak": 8,
-        "matches": 616,
-        "playtime": 422152286,
+        "matches": 617,
+        "playtime": 422946543,
         "finished": 239,
         "finishtime": 179694273,
         "won": 340,
-        "lost": 237,
+        "lost": 238,
         "forfeited": 20
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
@@ -4512,7 +4512,7 @@
             "5": 1627,
             "6": 1849,
             "7": 1951,
-            "8": 1619
+            "8": 1634
         },
         "points": {
             "1": 0,
@@ -4526,11 +4526,11 @@
         },
         "pb": 433890,
         "streak": 16,
-        "matches": 6160,
-        "playtime": 3699770352,
-        "finished": 1955,
-        "finishtime": 1541336495,
-        "won": 3063,
+        "matches": 6161,
+        "playtime": 3700711541,
+        "finished": 1956,
+        "finishtime": 1542277684,
+        "won": 3064,
         "lost": 2837,
         "forfeited": 1491
     },
