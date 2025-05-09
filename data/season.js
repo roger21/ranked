@@ -1,5 +1,5 @@
 {
-    "date": 1746793201000,
+    "date": 1746793801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -79598,23 +79598,37 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 34,
-                "elo": 1650,
+                "rank": 39,
+                "elo": 1638,
                 "top": 1679,
                 "points": 0,
                 "pb": 478014,
-                "current": 2,
+                "current": 0,
                 "streak": 8,
-                "matches": 95,
-                "playtime": 55973180,
+                "matches": 96,
+                "playtime": 56620851,
                 "finished": 43,
                 "finishtime": 26793073,
                 "won": 53,
-                "lost": 39,
+                "lost": 40,
                 "forfeited": 2
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1746793830000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BlazeMind",
+                    "elo": 1638,
+                    "change": -12,
+                    "oelo": 1912,
+                    "ochange": 12,
+                    "time": 647671,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746793049000,
                     "type": "BURIED_TREASURE",
@@ -80881,7 +80895,7 @@
             "uuid": "7fad8dae2ab04971bc07a6440f84d609",
             "nickname": "suravil",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1649,
                 "top": 1669,
                 "points": 0,
@@ -82416,7 +82430,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1643,
                 "top": 1652,
                 "points": 0,
@@ -84077,7 +84091,7 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1643,
                 "top": 1645,
                 "points": 0,
@@ -85192,7 +85206,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1642,
                 "top": 1652,
                 "points": 0,
@@ -85803,7 +85817,7 @@
             "uuid": "dd34e44dfe5d4e05923d876b9c34ca5f",
             "nickname": "waluyoshi",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1642,
                 "top": 1739,
                 "points": 0,
@@ -89144,7 +89158,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "yummycelery",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1638,
                 "top": 1668,
                 "points": 0,
@@ -90063,7 +90077,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1638,
                 "top": 1649,
                 "points": 0,
