@@ -1,5 +1,5 @@
 {
-    "date": 1746815401000,
+    "date": 1746816001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -48345,22 +48345,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 24,
-                "elo": 1713,
+                "elo": 1727,
                 "top": 1937,
                 "points": 0,
                 "pb": 433623,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 455,
-                "playtime": 257232487,
-                "finished": 231,
-                "finishtime": 140362289,
-                "won": 254,
+                "matches": 456,
+                "playtime": 257840169,
+                "finished": 232,
+                "finishtime": 140969971,
+                "won": 255,
                 "lost": 187,
                 "forfeited": 50
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746815614000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ContraVz",
+                    "elo": 1727,
+                    "change": 14,
+                    "oelo": 1543,
+                    "ochange": -14,
+                    "time": 607682,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746814654000,
                     "type": "RUINED_PORTAL",
