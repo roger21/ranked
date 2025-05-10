@@ -1,12 +1,12 @@
 {
-    "date": 1746891001000,
+    "date": 1746891601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "nickname": "Infume",
             "stats": {
                 "rank": 1,
-                "elo": 2095,
+                "elo": 2090,
                 "top": 2100,
                 "points": 0,
                 "pb": 426573,
@@ -22,6 +22,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746891398000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2090,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1746804997000,
                     "type": null,
