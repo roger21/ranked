@@ -1,5 +1,5 @@
 {
-    "date": 1746839401000,
+    "date": 1746840001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18567,22 +18567,36 @@
             "nickname": "Ranik_",
             "stats": {
                 "rank": 10,
-                "elo": 1795,
+                "elo": 1812,
                 "top": 1909,
                 "points": 0,
                 "pb": 448781,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
-                "matches": 227,
-                "playtime": 141343055,
-                "finished": 104,
-                "finishtime": 67046389,
-                "won": 127,
+                "matches": 228,
+                "playtime": 141907136,
+                "finished": 105,
+                "finishtime": 67610470,
+                "won": 128,
                 "lost": 95,
                 "forfeited": 1
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1746839507000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "edcr",
+                    "elo": 1812,
+                    "change": 17,
+                    "oelo": 1702,
+                    "ochange": -17,
+                    "time": 564081,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746838862000,
                     "type": "DESERT_TEMPLE",
@@ -53683,22 +53697,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 26,
-                "elo": 1719,
+                "elo": 1702,
                 "top": 1937,
                 "points": 0,
                 "pb": 433623,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 487,
-                "playtime": 274239506,
+                "matches": 488,
+                "playtime": 274803587,
                 "finished": 244,
                 "finishtime": 148235361,
                 "won": 268,
-                "lost": 201,
+                "lost": 202,
                 "forfeited": 56
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1746839507000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Ranik_",
+                    "elo": 1702,
+                    "change": -17,
+                    "oelo": 1812,
+                    "ochange": 17,
+                    "time": 564081,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746838765000,
                     "type": "RUINED_PORTAL",
