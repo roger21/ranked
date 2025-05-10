@@ -1,5 +1,5 @@
 {
-    "date": 1746859801000,
+    "date": 1746860401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -68268,7 +68268,7 @@
                     "type": "VILLAGE",
                     "bastion": "HOUSING",
                     "result": "lost",
-                    "opponent": "SleepingBoy80",
+                    "opponent": "elo_fisherman214",
                     "elo": 1350,
                     "change": -23,
                     "oelo": 1301,
