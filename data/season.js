@@ -1,5 +1,5 @@
 {
-    "date": 1746845401000,
+    "date": 1746846001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -98631,14 +98631,14 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 44,
-                "elo": 1635,
+                "elo": 1634,
                 "top": 1765,
                 "points": 0,
                 "pb": 424895,
                 "current": 0,
                 "streak": 5,
-                "matches": 186,
-                "playtime": 107685062,
+                "matches": 187,
+                "playtime": 108187067,
                 "finished": 86,
                 "finishtime": 53136668,
                 "won": 99,
@@ -98647,6 +98647,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1746845445000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "HDMICables",
+                    "elo": 1634,
+                    "change": -1,
+                    "oelo": 1560,
+                    "ochange": 1,
+                    "time": 502005,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746844790000,
                     "type": "BURIED_TREASURE",
