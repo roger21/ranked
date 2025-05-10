@@ -1,5 +1,5 @@
 {
-    "date": 1746894601000,
+    "date": 1746895202000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -43586,14 +43586,14 @@
             "nickname": "KenanKardes",
             "stats": {
                 "rank": 21,
-                "elo": 1736,
+                "elo": 1734,
                 "top": 1837,
                 "points": 0,
                 "pb": 429968,
                 "current": 0,
                 "streak": 9,
-                "matches": 232,
-                "playtime": 137832309,
+                "matches": 233,
+                "playtime": 138361524,
                 "finished": 110,
                 "finishtime": 71223366,
                 "won": 127,
@@ -43602,6 +43602,20 @@
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1746894795000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "HDMICables",
+                    "elo": 1734,
+                    "change": -2,
+                    "oelo": 1610,
+                    "ochange": 2,
+                    "time": 529215,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746877656000,
                     "type": "RUINED_PORTAL",
