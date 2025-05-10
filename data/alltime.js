@@ -311,13 +311,13 @@
         },
         "pb": 444221,
         "streak": 12,
-        "matches": 1538,
-        "playtime": 950634521,
+        "matches": 1539,
+        "playtime": 951065020,
         "finished": 595,
         "finishtime": 437719385,
         "won": 828,
-        "lost": 643,
-        "forfeited": 335
+        "lost": 644,
+        "forfeited": 336
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
         "nickname": "MrBudgiee",
@@ -2798,13 +2798,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8709,
-        "playtime": 5632831510,
+        "matches": 8710,
+        "playtime": 5633270316,
         "finished": 2841,
         "finishtime": 2312956220,
         "won": 4418,
-        "lost": 4101,
-        "forfeited": 2055
+        "lost": 4102,
+        "forfeited": 2056
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
