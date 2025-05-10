@@ -1,5 +1,5 @@
 {
-    "date": 1746853201000,
+    "date": 1746853801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -76099,7 +76099,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 1689,
                 "top": 1734,
                 "points": 0,
@@ -81890,7 +81890,7 @@
             "uuid": "a711877af8854cf995397325af37fb6e",
             "nickname": "Winstonein",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1685,
                 "top": 1690,
                 "points": 0,
@@ -82697,23 +82697,37 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 33,
-                "elo": 1678,
+                "rank": 31,
+                "elo": 1691,
                 "top": 1765,
                 "points": 0,
                 "pb": 424895,
-                "current": 1,
+                "current": 2,
                 "streak": 5,
-                "matches": 194,
-                "playtime": 112199491,
-                "finished": 90,
-                "finishtime": 55634530,
-                "won": 104,
+                "matches": 195,
+                "playtime": 112843378,
+                "finished": 91,
+                "finishtime": 56278417,
+                "won": 105,
                 "lost": 81,
                 "forfeited": 19
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1746853809000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "semcomet",
+                    "elo": 1691,
+                    "change": 13,
+                    "oelo": 1455,
+                    "ochange": -13,
+                    "time": 643887,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746852774000,
                     "type": "DESERT_TEMPLE",
