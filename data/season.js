@@ -1,5 +1,5 @@
 {
-    "date": 1746900001000,
+    "date": 1746900601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -71863,22 +71863,36 @@
             "nickname": "iKme_",
             "stats": {
                 "rank": 30,
-                "elo": 1693,
+                "elo": 1705,
                 "top": 1734,
                 "points": 0,
                 "pb": 492134,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
-                "matches": 321,
-                "playtime": 182368567,
-                "finished": 131,
-                "finishtime": 85779530,
-                "won": 165,
+                "matches": 322,
+                "playtime": 183049704,
+                "finished": 132,
+                "finishtime": 86460667,
+                "won": 166,
                 "lost": 145,
                 "forfeited": 71
             },
             "country": "hu",
             "matches": [
+                {
+                    "date": 1746900256000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "semcomet",
+                    "elo": 1705,
+                    "change": 12,
+                    "oelo": 1454,
+                    "ochange": -12,
+                    "time": 681137,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746804778000,
                     "type": "RUINED_PORTAL",
