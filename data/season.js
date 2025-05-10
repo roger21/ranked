@@ -1,5 +1,5 @@
 {
-    "date": 1746904201000,
+    "date": 1746904801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -71877,22 +71877,36 @@
             "nickname": "iKme_",
             "stats": {
                 "rank": 30,
-                "elo": 1692,
+                "elo": 1704,
                 "top": 1734,
                 "points": 0,
                 "pb": 492134,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 326,
-                "playtime": 185419952,
-                "finished": 133,
-                "finishtime": 87144851,
-                "won": 168,
+                "matches": 327,
+                "playtime": 185978872,
+                "finished": 134,
+                "finishtime": 87703771,
+                "won": 169,
                 "lost": 147,
                 "forfeited": 71
             },
             "country": "hu",
             "matches": [
+                {
+                    "date": 1746904342000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "karpislaw",
+                    "elo": 1704,
+                    "change": 12,
+                    "oelo": 1430,
+                    "ochange": -12,
+                    "time": 558920,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1746903595000,
                     "type": "SHIPWRECK",
