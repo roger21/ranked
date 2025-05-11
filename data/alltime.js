@@ -1902,13 +1902,13 @@
         },
         "pb": 468160,
         "streak": 13,
-        "matches": 7791,
-        "playtime": 4943923296,
+        "matches": 7792,
+        "playtime": 4944292580,
         "finished": 2747,
         "finishtime": 2102632436,
         "won": 3865,
-        "lost": 3667,
-        "forfeited": 1350
+        "lost": 3668,
+        "forfeited": 1351
     },
     "6135d13bce2841f8b7e8d37d91c6edfe": {
         "nickname": "boywithcards",
@@ -2897,11 +2897,11 @@
         },
         "pb": 565910,
         "streak": 10,
-        "matches": 1619,
-        "playtime": 1111895672,
+        "matches": 1620,
+        "playtime": 1112339012,
         "finished": 453,
         "finishtime": 405066374,
-        "won": 795,
+        "won": 796,
         "lost": 727,
         "forfeited": 365
     },
