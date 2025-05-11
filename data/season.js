@@ -1,5 +1,5 @@
 {
-    "date": 1746964801000,
+    "date": 1746965401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -91968,7 +91968,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1646,
                 "top": 1752,
                 "points": 0,
@@ -97031,7 +97031,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 1643,
                 "top": 1652,
                 "points": 0,
@@ -98692,7 +98692,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1640,
                 "top": 1640,
                 "points": 0,
@@ -99023,7 +99023,7 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1640,
                 "top": 1660,
                 "points": 0,
@@ -100348,7 +100348,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1632,
                 "top": 1652,
                 "points": 0,
@@ -100987,7 +100987,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1632,
                 "top": 1632,
                 "points": 0,
@@ -103768,7 +103768,7 @@
             "uuid": "fdff6a3e88054664974dbcd30583fe81",
             "nickname": "Finnitzko",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1631,
                 "top": 1647,
                 "points": 0,
@@ -105541,7 +105541,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "chrisxd__",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1627,
                 "top": 1758,
                 "points": 0,
@@ -107594,7 +107594,7 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1624,
                 "top": 1660,
                 "points": 0,
@@ -108835,7 +108835,7 @@
             "uuid": "728fdcab24b249b686c081a7fc53176e",
             "nickname": "ContraVz",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1623,
                 "top": 1623,
                 "points": 0,
@@ -110412,7 +110412,7 @@
             "uuid": "879c8136d42c4222b42f1c090616fa5e",
             "nickname": "yummycelery",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1623,
                 "top": 1668,
                 "points": 0,
@@ -111345,7 +111345,7 @@
             "uuid": "80e571501cef423eaab693d85ed2fc75",
             "nickname": "wulpogg",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1622,
                 "top": 1622,
                 "points": 0,
@@ -112572,7 +112572,7 @@
             "uuid": "a501fd2185d94d3591ac9075880d6350",
             "nickname": "AkaStu",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1621,
                 "top": 1637,
                 "points": 0,
