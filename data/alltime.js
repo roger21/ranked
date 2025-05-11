@@ -1580,39 +1580,6 @@
         "lost": 1120,
         "forfeited": 470
     },
-    "4aed1e5e8f5c44e2bc0666e0c03781af": {
-        "nickname": "nEmerald",
-        "country": null,
-        "top": {
-            "1": 1602,
-            "2": 1653,
-            "3": 1416,
-            "4": 1602,
-            "5": 1672,
-            "6": 1861,
-            "7": 1947,
-            "8": 1751
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 50,
-            "7": 30,
-            "8": 0
-        },
-        "pb": 469350,
-        "streak": 10,
-        "matches": 1562,
-        "playtime": 1041119705,
-        "finished": 542,
-        "finishtime": 408597931,
-        "won": 822,
-        "lost": 687,
-        "forfeited": 117
-    },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
         "country": "lt",
@@ -4032,6 +3999,29 @@
         "lost": 1086,
         "forfeited": 521
     },
+    "cc432b2626a44ae1836a50244adbf468": {
+        "nickname": "DziabaDziuba",
+        "country": "pl",
+        "top": {
+            "6": 1636,
+            "7": 1804,
+            "8": 1675
+        },
+        "points": {
+            "6": 0,
+            "7": 40,
+            "8": 0
+        },
+        "pb": 425033,
+        "streak": 27,
+        "matches": 2514,
+        "playtime": 1443234866,
+        "finished": 749,
+        "finishtime": 579926448,
+        "won": 1244,
+        "lost": 1153,
+        "forfeited": 794
+    },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
         "country": "us",
@@ -4154,12 +4144,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5360,
-        "playtime": 3554233077,
+        "matches": 5361,
+        "playtime": 3554910960,
         "finished": 1639,
         "finishtime": 1282364319,
         "won": 2637,
-        "lost": 2463,
+        "lost": 2464,
         "forfeited": 823
     },
     "da1d85337d244f789d60b009e1e2b346": {
