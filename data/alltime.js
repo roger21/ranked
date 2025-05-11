@@ -2602,13 +2602,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2621,
-        "playtime": 1789739434,
+        "matches": 2622,
+        "playtime": 1790278145,
         "finished": 724,
         "finishtime": 627652090,
         "won": 1291,
-        "lost": 1201,
-        "forfeited": 508
+        "lost": 1202,
+        "forfeited": 509
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -3025,12 +3025,12 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3446,
-        "playtime": 2301409699,
+        "matches": 3447,
+        "playtime": 2302146694,
         "finished": 1119,
         "finishtime": 877707120,
         "won": 1748,
-        "lost": 1609,
+        "lost": 1610,
         "forfeited": 560
     },
     "99aa9e0e8034479a90259e244dfb9029": {
@@ -3058,13 +3058,13 @@
         },
         "pb": 439571,
         "streak": 9,
-        "matches": 4586,
-        "playtime": 2908304625,
+        "matches": 4587,
+        "playtime": 2908648588,
         "finished": 1647,
         "finishtime": 1218991259,
         "won": 2301,
-        "lost": 2114,
-        "forfeited": 788
+        "lost": 2115,
+        "forfeited": 789
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -4460,11 +4460,11 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 4704,
-        "playtime": 2606802875,
+        "matches": 4705,
+        "playtime": 2607146838,
         "finished": 1708,
         "finishtime": 1155658324,
-        "won": 2396,
+        "won": 2397,
         "lost": 2180,
         "forfeited": 1370
     },
