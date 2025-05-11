@@ -1,5 +1,5 @@
 {
-    "date": 1746948601000,
+    "date": 1746949201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -77882,14 +77882,14 @@
             "nickname": "JustAltoid",
             "stats": {
                 "rank": 33,
-                "elo": 1660,
+                "elo": 1659,
                 "top": 1734,
                 "points": 0,
                 "pb": 441909,
                 "current": 0,
                 "streak": 7,
-                "matches": 423,
-                "playtime": 241680882,
+                "matches": 424,
+                "playtime": 242413502,
                 "finished": 162,
                 "finishtime": 105396295,
                 "won": 209,
@@ -77898,6 +77898,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1746949178000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "wulpogg",
+                    "elo": 1659,
+                    "change": -1,
+                    "oelo": 1563,
+                    "ochange": 1,
+                    "time": 732620,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1746948227000,
                     "type": "BURIED_TREASURE",
