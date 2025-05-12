@@ -2297,13 +2297,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2133,
-        "playtime": 1395678002,
+        "matches": 2134,
+        "playtime": 1395992466,
         "finished": 724,
         "finishtime": 578330322,
         "won": 1112,
-        "lost": 961,
-        "forfeited": 377
+        "lost": 962,
+        "forfeited": 378
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
