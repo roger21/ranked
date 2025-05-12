@@ -63,35 +63,6 @@
         "lost": 2357,
         "forfeited": 543
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "chrisxd__",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 1758
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 512443,
-        "streak": 9,
-        "matches": 979,
-        "playtime": 547768617,
-        "finished": 294,
-        "finishtime": 221291708,
-        "won": 489,
-        "lost": 447,
-        "forfeited": 327
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -2780,12 +2751,12 @@
         },
         "pb": 488067,
         "streak": 8,
-        "matches": 1379,
-        "playtime": 900714135,
+        "matches": 1380,
+        "playtime": 901279367,
         "finished": 550,
         "finishtime": 407773826,
         "won": 767,
-        "lost": 568,
+        "lost": 569,
         "forfeited": 129
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
@@ -3177,6 +3148,39 @@
         "won": 1428,
         "lost": 1275,
         "forfeited": 625
+    },
+    "a037073c42944363b580c54f1140d029": {
+        "nickname": "ValdarenMC",
+        "country": "us",
+        "top": {
+            "1": 1522,
+            "2": 1462,
+            "3": 1477,
+            "4": 1581,
+            "5": 1481,
+            "6": 1716,
+            "7": 1645,
+            "8": 1640
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 25,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 507369,
+        "streak": 10,
+        "matches": 1202,
+        "playtime": 940933987,
+        "finished": 342,
+        "finishtime": 324832574,
+        "won": 625,
+        "lost": 528,
+        "forfeited": 161
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
