@@ -84,13 +84,13 @@
         },
         "pb": 512443,
         "streak": 9,
-        "matches": 995,
-        "playtime": 556880573,
+        "matches": 996,
+        "playtime": 557186708,
         "finished": 300,
         "finishtime": 225450349,
         "won": 498,
-        "lost": 452,
-        "forfeited": 329
+        "lost": 453,
+        "forfeited": 330
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -124,29 +124,6 @@
         "won": 741,
         "lost": 593,
         "forfeited": 170
-    },
-    "0771b6d3405c474ea63aba593ed1c9fa": {
-        "nickname": "hyphenangel",
-        "country": "ca",
-        "top": {
-            "6": 1581,
-            "7": 1932,
-            "8": 1642
-        },
-        "points": {
-            "6": 0,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 455049,
-        "streak": 14,
-        "matches": 1592,
-        "playtime": 1052135885,
-        "finished": 452,
-        "finishtime": 360465634,
-        "won": 786,
-        "lost": 711,
-        "forfeited": 298
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -589,6 +566,37 @@
         "won": 228,
         "lost": 134,
         "forfeited": 18
+    },
+    "1f844c3aedb34559b537f45771a7a61d": {
+        "nickname": "Bodek",
+        "country": "pl",
+        "top": {
+            "1": 944,
+            "2": 984,
+            "4": 1214,
+            "5": 1324,
+            "6": 1702,
+            "7": 1664,
+            "8": 1639
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 520315,
+        "streak": 10,
+        "matches": 5154,
+        "playtime": 3223450883,
+        "finished": 1255,
+        "finishtime": 1092405638,
+        "won": 2497,
+        "lost": 2431,
+        "forfeited": 1680
     },
     "1f88c82f9cc84c9885a5d38dd531f4c6": {
         "nickname": "RRed",
@@ -1187,7 +1195,7 @@
             "5": 1483,
             "6": 1758,
             "7": 1759,
-            "8": 1604
+            "8": 1627
         },
         "points": {
             "1": 0,
@@ -1201,11 +1209,11 @@
         },
         "pb": 531934,
         "streak": 12,
-        "matches": 1510,
-        "playtime": 1099401270,
+        "matches": 1511,
+        "playtime": 1099707405,
         "finished": 508,
         "finishtime": 429591648,
-        "won": 809,
+        "won": 810,
         "lost": 652,
         "forfeited": 93
     },
@@ -2427,11 +2435,11 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3156,
-        "playtime": 1930869944,
-        "finished": 1095,
-        "finishtime": 853498343,
-        "won": 1662,
+        "matches": 3157,
+        "playtime": 1931438458,
+        "finished": 1096,
+        "finishtime": 854066857,
+        "won": 1663,
         "lost": 1422,
         "forfeited": 709
     },
@@ -3405,12 +3413,12 @@
         },
         "pb": 480686,
         "streak": 10,
-        "matches": 1072,
-        "playtime": 724020179,
+        "matches": 1073,
+        "playtime": 725103472,
         "finished": 378,
         "finishtime": 300085196,
         "won": 578,
-        "lost": 450,
+        "lost": 451,
         "forfeited": 152
     },
     "a81886565121479782d42408d94fe97d": {
@@ -4462,12 +4470,12 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 4725,
-        "playtime": 2619969105,
+        "matches": 4726,
+        "playtime": 2620670400,
         "finished": 1718,
         "finishtime": 1162084924,
         "won": 2409,
-        "lost": 2188,
+        "lost": 2189,
         "forfeited": 1370
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
@@ -4495,8 +4503,8 @@
         },
         "pb": 451504,
         "streak": 11,
-        "matches": 2944,
-        "playtime": 2048011406,
+        "matches": 2945,
+        "playtime": 2048640999,
         "finished": 1005,
         "finishtime": 784994343,
         "won": 1479,
