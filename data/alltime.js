@@ -24,12 +24,12 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3801,
-        "playtime": 2428754705,
+        "matches": 3802,
+        "playtime": 2429265519,
         "finished": 1397,
         "finishtime": 1026432003,
         "won": 1929,
-        "lost": 1783,
+        "lost": 1784,
         "forfeited": 462
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -1995,7 +1995,7 @@
         "top": {
             "6": 1582,
             "7": 2203,
-            "8": 1972
+            "8": 1976
         },
         "points": {
             "6": 0,
@@ -2004,11 +2004,11 @@
         },
         "pb": 428921,
         "streak": 14,
-        "matches": 2159,
-        "playtime": 1276480138,
-        "finished": 893,
-        "finishtime": 594803231,
-        "won": 1139,
+        "matches": 2160,
+        "playtime": 1276990952,
+        "finished": 894,
+        "finishtime": 595314045,
+        "won": 1140,
         "lost": 965,
         "forfeited": 271
     },
@@ -3007,11 +3007,11 @@
         },
         "pb": 406737,
         "streak": 14,
-        "matches": 4569,
-        "playtime": 2923834633,
+        "matches": 4570,
+        "playtime": 2924217683,
         "finished": 1700,
         "finishtime": 1226432339,
-        "won": 2316,
+        "won": 2317,
         "lost": 2116,
         "forfeited": 557
     },
@@ -3942,12 +3942,12 @@
         },
         "pb": 548155,
         "streak": 13,
-        "matches": 1294,
-        "playtime": 905559465,
+        "matches": 1295,
+        "playtime": 906488690,
         "finished": 416,
         "finishtime": 346776358,
         "won": 713,
-        "lost": 536,
+        "lost": 537,
         "forfeited": 185
     },
     "c670041ed84c480cab4a6ee904905b5f": {
@@ -4299,8 +4299,8 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 8945,
-        "playtime": 5841913317,
+        "matches": 8946,
+        "playtime": 5842293691,
         "finished": 3107,
         "finishtime": 2332902640,
         "won": 4365,
