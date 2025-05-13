@@ -3517,7 +3517,7 @@
             "5": 1908,
             "6": 2064,
             "7": 2123,
-            "8": 1984
+            "8": 1996
         },
         "points": {
             "1": 0,
@@ -3531,11 +3531,11 @@
         },
         "pb": 460148,
         "streak": 12,
-        "matches": 3635,
-        "playtime": 2464364309,
+        "matches": 3636,
+        "playtime": 2464551974,
         "finished": 1164,
         "finishtime": 892995675,
-        "won": 1814,
+        "won": 1815,
         "lost": 1647,
         "forfeited": 283
     },
@@ -4363,13 +4363,13 @@
         },
         "pb": 451470,
         "streak": 14,
-        "matches": 5570,
-        "playtime": 3490005221,
+        "matches": 5571,
+        "playtime": 3490192886,
         "finished": 2370,
         "finishtime": 1652324779,
         "won": 3031,
-        "lost": 2464,
-        "forfeited": 722
+        "lost": 2465,
+        "forfeited": 723
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
