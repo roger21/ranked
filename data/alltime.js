@@ -84,11 +84,11 @@
         },
         "pb": 512443,
         "streak": 9,
-        "matches": 991,
-        "playtime": 554417850,
-        "finished": 298,
-        "finishtime": 224057019,
-        "won": 496,
+        "matches": 992,
+        "playtime": 555125692,
+        "finished": 299,
+        "finishtime": 224764861,
+        "won": 497,
         "lost": 450,
         "forfeited": 328
     },
@@ -124,6 +124,29 @@
         "won": 741,
         "lost": 593,
         "forfeited": 170
+    },
+    "0771b6d3405c474ea63aba593ed1c9fa": {
+        "nickname": "hyphenangel",
+        "country": "ca",
+        "top": {
+            "6": 1581,
+            "7": 1932,
+            "8": 1642
+        },
+        "points": {
+            "6": 0,
+            "7": 35,
+            "8": 0
+        },
+        "pb": 455049,
+        "streak": 14,
+        "matches": 1592,
+        "playtime": 1052135885,
+        "finished": 452,
+        "finishtime": 360465634,
+        "won": 786,
+        "lost": 711,
+        "forfeited": 298
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -1912,7 +1935,7 @@
             "5": 1746,
             "6": 1790,
             "7": 1877,
-            "8": 1677
+            "8": 1694
         },
         "points": {
             "1": 0,
@@ -1925,11 +1948,11 @@
         },
         "pb": 473760,
         "streak": 12,
-        "matches": 2624,
-        "playtime": 1688370249,
-        "finished": 768,
-        "finishtime": 584162315,
-        "won": 1315,
+        "matches": 2625,
+        "playtime": 1689053871,
+        "finished": 769,
+        "finishtime": 584845937,
+        "won": 1316,
         "lost": 1191,
         "forfeited": 321
     },
@@ -2429,8 +2452,8 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3150,
-        "playtime": 1927694330,
+        "matches": 3151,
+        "playtime": 1928319011,
         "finished": 1093,
         "finishtime": 852357617,
         "won": 1659,
@@ -4497,12 +4520,12 @@
         },
         "pb": 451504,
         "streak": 11,
-        "matches": 2940,
-        "playtime": 2045438634,
+        "matches": 2941,
+        "playtime": 2046146476,
         "finished": 1003,
         "finishtime": 783590209,
         "won": 1477,
-        "lost": 1323,
+        "lost": 1324,
         "forfeited": 155
     },
     "f1611fd339b1401f84154afee3a5f14a": {
@@ -4596,13 +4619,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2152,
-        "playtime": 1451475504,
+        "matches": 2153,
+        "playtime": 1451772580,
         "finished": 786,
         "finishtime": 637692205,
         "won": 1177,
-        "lost": 940,
-        "forfeited": 354
+        "lost": 941,
+        "forfeited": 355
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
