@@ -63,35 +63,6 @@
         "lost": 2357,
         "forfeited": 543
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "chrisxd__",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 1758
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 512443,
-        "streak": 9,
-        "matches": 979,
-        "playtime": 547768617,
-        "finished": 294,
-        "finishtime": 221291708,
-        "won": 489,
-        "lost": 447,
-        "forfeited": 327
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -103,7 +74,7 @@
             "5": 1663,
             "6": 1727,
             "7": 1797,
-            "8": 1626
+            "8": 1638
         },
         "points": {
             "1": 0,
@@ -117,11 +88,11 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 1389,
-        "playtime": 925531931,
-        "finished": 472,
-        "finishtime": 380715003,
-        "won": 740,
+        "matches": 1390,
+        "playtime": 926288033,
+        "finished": 473,
+        "finishtime": 381471105,
+        "won": 741,
         "lost": 591,
         "forfeited": 170
     },
