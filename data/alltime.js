@@ -63,6 +63,35 @@
         "lost": 2357,
         "forfeited": 543
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "chrisxd__",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 1758
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 512443,
+        "streak": 9,
+        "matches": 979,
+        "playtime": 547768617,
+        "finished": 294,
+        "finishtime": 221291708,
+        "won": 489,
+        "lost": 447,
+        "forfeited": 327
+    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -1855,11 +1884,11 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 4971,
-        "playtime": 3193189953,
-        "finished": 1894,
-        "finishtime": 1379993326,
-        "won": 2578,
+        "matches": 4972,
+        "playtime": 3193814355,
+        "finished": 1895,
+        "finishtime": 1380617728,
+        "won": 2579,
         "lost": 2288,
         "forfeited": 656
     },
@@ -2423,13 +2452,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3143,
-        "playtime": 1923683685,
+        "matches": 3145,
+        "playtime": 1924786139,
         "finished": 1091,
         "finishtime": 850796906,
         "won": 1657,
-        "lost": 1415,
-        "forfeited": 705
+        "lost": 1417,
+        "forfeited": 706
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -4175,12 +4204,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5399,
-        "playtime": 3577323162,
+        "matches": 5400,
+        "playtime": 3577947564,
         "finished": 1655,
         "finishtime": 1292355992,
         "won": 2654,
-        "lost": 2481,
+        "lost": 2482,
         "forfeited": 829
     },
     "da1d85337d244f789d60b009e1e2b346": {
