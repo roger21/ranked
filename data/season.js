@@ -1,5 +1,5 @@
 {
-    "date": 1747123801000,
+    "date": 1747124401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -37675,7 +37675,7 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 16,
-                "elo": 1774,
+                "elo": 1769,
                 "top": 1879,
                 "points": 0,
                 "pb": 455294,
@@ -37691,6 +37691,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1747124320000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1769,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1747037919000,
                     "type": null,
