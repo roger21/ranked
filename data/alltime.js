@@ -84,11 +84,11 @@
         },
         "pb": 512443,
         "streak": 9,
-        "matches": 1000,
-        "playtime": 559705984,
-        "finished": 303,
-        "finishtime": 227322948,
-        "won": 501,
+        "matches": 1001,
+        "playtime": 560367729,
+        "finished": 304,
+        "finishtime": 227984693,
+        "won": 502,
         "lost": 454,
         "forfeited": 330
     },
@@ -124,29 +124,6 @@
         "won": 741,
         "lost": 593,
         "forfeited": 170
-    },
-    "0771b6d3405c474ea63aba593ed1c9fa": {
-        "nickname": "hyphenangel",
-        "country": "ca",
-        "top": {
-            "6": 1581,
-            "7": 1932,
-            "8": 1642
-        },
-        "points": {
-            "6": 0,
-            "7": 35,
-            "8": 0
-        },
-        "pb": 455049,
-        "streak": 14,
-        "matches": 1592,
-        "playtime": 1052135885,
-        "finished": 452,
-        "finishtime": 360465634,
-        "won": 786,
-        "lost": 711,
-        "forfeited": 298
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -1857,11 +1834,11 @@
         },
         "pb": 412650,
         "streak": 13,
-        "matches": 1351,
-        "playtime": 836525524,
-        "finished": 493,
-        "finishtime": 354066253,
-        "won": 710,
+        "matches": 1352,
+        "playtime": 837142479,
+        "finished": 494,
+        "finishtime": 354683208,
+        "won": 711,
         "lost": 582,
         "forfeited": 257
     },
