@@ -1,5 +1,5 @@
 {
-    "date": 1747266001000,
+    "date": 1747266601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -27932,23 +27932,37 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 10,
-                "elo": 1863,
+                "rank": 12,
+                "elo": 1841,
                 "top": 2006,
                 "points": 0,
                 "pb": 439490,
                 "current": 0,
                 "streak": 10,
-                "matches": 197,
-                "playtime": 113018847,
+                "matches": 198,
+                "playtime": 113625555,
                 "finished": 111,
                 "finishtime": 65385383,
                 "won": 122,
-                "lost": 66,
+                "lost": 67,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1747266608000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Bloonskiller",
+                    "elo": 1841,
+                    "change": -22,
+                    "oelo": 1824,
+                    "ochange": 22,
+                    "time": 606708,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1747112288000,
                     "type": "SHIPWRECK",
@@ -30643,7 +30657,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 11,
+                "rank": 10,
                 "elo": 1854,
                 "top": 1908,
                 "points": 0,
@@ -32990,7 +33004,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "RambuncPharmer89",
             "stats": {
-                "rank": 12,
+                "rank": 11,
                 "elo": 1848,
                 "top": 1848,
                 "points": 0,
@@ -34623,7 +34637,7 @@
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
-                "rank": 13,
+                "rank": 14,
                 "elo": 1820,
                 "top": 1863,
                 "points": 0,
@@ -35346,7 +35360,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 14,
+                "rank": 15,
                 "elo": 1816,
                 "top": 1828,
                 "points": 0,
@@ -40045,7 +40059,7 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "nahhann",
             "stats": {
-                "rank": 15,
+                "rank": 16,
                 "elo": 1806,
                 "top": 1938,
                 "points": 0,
@@ -43960,23 +43974,37 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 16,
-                "elo": 1802,
-                "top": 1808,
+                "rank": 13,
+                "elo": 1824,
+                "top": 1824,
                 "points": 0,
                 "pb": 469548,
-                "current": 3,
+                "current": 4,
                 "streak": 6,
-                "matches": 87,
-                "playtime": 54915971,
-                "finished": 45,
-                "finishtime": 30120125,
-                "won": 53,
+                "matches": 88,
+                "playtime": 55522679,
+                "finished": 46,
+                "finishtime": 30726833,
+                "won": 54,
                 "lost": 31,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1747266608000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "silverrruns",
+                    "elo": 1824,
+                    "change": 22,
+                    "oelo": 1841,
+                    "ochange": -22,
+                    "time": 606708,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1747265615000,
                     "type": "DESERT_TEMPLE",
