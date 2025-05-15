@@ -1,5 +1,5 @@
 {
-    "date": 1747320001000,
+    "date": 1747320601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -77014,15 +77014,15 @@
             "uuid": "ef0814ccd4104b03adb8ab3266535e05",
             "nickname": "Maraico",
             "stats": {
-                "rank": 30,
-                "elo": 1725,
+                "rank": 31,
+                "elo": 1723,
                 "top": 1730,
                 "points": 0,
                 "pb": 465189,
                 "current": 2,
                 "streak": 9,
-                "matches": 110,
-                "playtime": 68018019,
+                "matches": 111,
+                "playtime": 68725670,
                 "finished": 51,
                 "finishtime": 32076997,
                 "won": 61,
@@ -77031,6 +77031,20 @@
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1747320607000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Starchomper",
+                    "elo": 1723,
+                    "change": -2,
+                    "oelo": 1582,
+                    "ochange": 2,
+                    "time": 707651,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1747319567000,
                     "type": "DESERT_TEMPLE",
@@ -78507,7 +78521,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "chrisxd__",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1724,
                 "top": 1758,
                 "points": 0,
