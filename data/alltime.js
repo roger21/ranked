@@ -3636,13 +3636,13 @@
         },
         "pb": 454009,
         "streak": 12,
-        "matches": 2553,
-        "playtime": 1547041641,
+        "matches": 2554,
+        "playtime": 1547732606,
         "finished": 964,
         "finishtime": 703691927,
         "won": 1382,
-        "lost": 1137,
-        "forfeited": 574
+        "lost": 1138,
+        "forfeited": 575
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
         "nickname": "xShatter",
