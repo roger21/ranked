@@ -24,12 +24,12 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 3845,
-        "playtime": 2456864039,
+        "matches": 3849,
+        "playtime": 2458334757,
         "finished": 1417,
         "finishtime": 1039610854,
-        "won": 1951,
-        "lost": 1805,
+        "won": 1953,
+        "lost": 1807,
         "forfeited": 462
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -1116,13 +1116,13 @@
         },
         "pb": 402177,
         "streak": 17,
-        "matches": 9967,
-        "playtime": 6117840469,
-        "finished": 4142,
-        "finishtime": 2851659962,
-        "won": 5404,
-        "lost": 4357,
-        "forfeited": 1347
+        "matches": 9970,
+        "playtime": 6118944958,
+        "finished": 4143,
+        "finishtime": 2852270641,
+        "won": 5405,
+        "lost": 4358,
+        "forfeited": 1348
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1149,13 +1149,13 @@
         },
         "pb": 531934,
         "streak": 12,
-        "matches": 1560,
-        "playtime": 1133837736,
+        "matches": 1562,
+        "playtime": 1134849915,
         "finished": 532,
         "finishtime": 447088526,
         "won": 839,
-        "lost": 670,
-        "forfeited": 93
+        "lost": 672,
+        "forfeited": 94
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
         "nickname": "doogile",
@@ -1266,7 +1266,7 @@
             "5": 1916,
             "6": 2022,
             "7": 1722,
-            "8": 1593
+            "8": 1625
         },
         "points": {
             "1": 0,
@@ -1279,11 +1279,11 @@
         },
         "pb": 455421,
         "streak": 11,
-        "matches": 1119,
-        "playtime": 670260146,
-        "finished": 459,
-        "finishtime": 326353651,
-        "won": 602,
+        "matches": 1122,
+        "playtime": 671750244,
+        "finished": 461,
+        "finishtime": 327737445,
+        "won": 605,
         "lost": 497,
         "forfeited": 271
     },
@@ -1807,13 +1807,13 @@
         },
         "pb": 412650,
         "streak": 13,
-        "matches": 1368,
-        "playtime": 846142800,
+        "matches": 1369,
+        "playtime": 846800895,
         "finished": 501,
         "finishtime": 358593932,
         "won": 719,
-        "lost": 587,
-        "forfeited": 257
+        "lost": 588,
+        "forfeited": 258
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
@@ -2736,12 +2736,12 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 8770,
-        "playtime": 5671871922,
+        "matches": 8771,
+        "playtime": 5672733118,
         "finished": 2859,
         "finishtime": 2326072684,
         "won": 4445,
-        "lost": 4134,
+        "lost": 4135,
         "forfeited": 2067
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
@@ -3080,7 +3080,7 @@
             "5": 2003,
             "6": 1815,
             "7": 2026,
-            "8": 1791
+            "8": 1808
         },
         "points": {
             "2": 0,
@@ -3093,11 +3093,11 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 2795,
-        "playtime": 1632625093,
+        "matches": 2796,
+        "playtime": 1633283188,
         "finished": 1026,
         "finishtime": 729465914,
-        "won": 1434,
+        "won": 1435,
         "lost": 1277,
         "forfeited": 625
     },
