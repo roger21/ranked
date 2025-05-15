@@ -1,5 +1,5 @@
 {
-    "date": 1747280402000,
+    "date": 1747281001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -90335,23 +90335,37 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 37,
-                "elo": 1673,
+                "rank": 45,
+                "elo": 1648,
                 "top": 1824,
                 "points": 0,
                 "pb": 469548,
                 "current": 0,
                 "streak": 6,
-                "matches": 103,
-                "playtime": 65194894,
+                "matches": 104,
+                "playtime": 65885830,
                 "finished": 49,
                 "finishtime": 32914960,
                 "won": 58,
-                "lost": 42,
+                "lost": 43,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1747281013000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Mitthui",
+                    "elo": 1648,
+                    "change": -25,
+                    "oelo": 1562,
+                    "ochange": 25,
+                    "time": 690936,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1747280193000,
                     "type": "DESERT_TEMPLE",
@@ -91772,7 +91786,7 @@
             "uuid": "8b8252474ac24c3ea4ba1298adf2044e",
             "nickname": "Mar1n",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1669,
                 "top": 1680,
                 "points": 0,
@@ -92397,7 +92411,7 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 1666,
                 "top": 1671,
                 "points": 0,
@@ -94884,7 +94898,7 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1663,
                 "top": 1748,
                 "points": 0,
@@ -98351,7 +98365,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1661,
                 "top": 1696,
                 "points": 0,
@@ -99788,7 +99802,7 @@
             "uuid": "a037073c42944363b580c54f1140d029",
             "nickname": "ValdarenMC",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1660,
                 "top": 1660,
                 "points": 0,
@@ -100861,7 +100875,7 @@
             "uuid": "fdff6a3e88054664974dbcd30583fe81",
             "nickname": "Finnitzko",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1660,
                 "top": 1675,
                 "points": 0,
@@ -102760,7 +102774,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "ELO_FFAWRSEED948",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1656,
                 "top": 1656,
                 "points": 0,
@@ -104141,7 +104155,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1654,
                 "top": 1654,
                 "points": 0,
