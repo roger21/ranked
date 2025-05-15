@@ -1,5 +1,5 @@
 {
-    "date": 1747269001000,
+    "date": 1747269601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -24928,22 +24928,36 @@
             "nickname": "silverrruns",
             "stats": {
                 "rank": 9,
-                "elo": 1872,
+                "elo": 1885,
                 "top": 2006,
                 "points": 0,
                 "pb": 439490,
-                "current": 2,
+                "current": 3,
                 "streak": 10,
-                "matches": 200,
-                "playtime": 114824373,
-                "finished": 113,
-                "finishtime": 66584201,
-                "won": 124,
+                "matches": 201,
+                "playtime": 115310307,
+                "finished": 114,
+                "finishtime": 67070135,
+                "won": 125,
                 "lost": 67,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1747269206000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "LEC666888",
+                    "elo": 1885,
+                    "change": 13,
+                    "oelo": 1672,
+                    "ochange": -13,
+                    "time": 485934,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1747268271000,
                     "type": "BURIED_TREASURE",
@@ -91213,22 +91227,36 @@
             "nickname": "LEC666888",
             "stats": {
                 "rank": 38,
-                "elo": 1685,
+                "elo": 1672,
                 "top": 1732,
                 "points": 0,
                 "pb": 493465,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 407,
-                "playtime": 265169117,
+                "matches": 408,
+                "playtime": 265655051,
                 "finished": 154,
                 "finishtime": 108671844,
                 "won": 203,
-                "lost": 175,
+                "lost": 176,
                 "forfeited": 2
             },
             "country": "cn",
             "matches": [
+                {
+                    "date": 1747269206000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "silverrruns",
+                    "elo": 1672,
+                    "change": -13,
+                    "oelo": 1885,
+                    "ochange": 13,
+                    "time": 485934,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1747268631000,
                     "type": "RUINED_PORTAL",
