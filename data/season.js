@@ -1,5 +1,5 @@
 {
-    "date": 1747321801000,
+    "date": 1747322401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -77015,14 +77015,14 @@
             "nickname": "Maraico",
             "stats": {
                 "rank": 30,
-                "elo": 1737,
+                "elo": 1735,
                 "top": 1737,
                 "points": 0,
                 "pb": 465189,
                 "current": 3,
                 "streak": 9,
-                "matches": 112,
-                "playtime": 69310445,
+                "matches": 113,
+                "playtime": 70046619,
                 "finished": 52,
                 "finishtime": 32661772,
                 "won": 62,
@@ -77031,6 +77031,20 @@
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1747322302000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "Lesternnn",
+                    "elo": 1735,
+                    "change": -2,
+                    "oelo": 1580,
+                    "ochange": 2,
+                    "time": 736174,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1747321319000,
                     "type": "VILLAGE",

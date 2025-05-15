@@ -2392,7 +2392,7 @@
             "5": 1546,
             "6": 1827,
             "7": 1833,
-            "8": 1588
+            "8": 1605
         },
         "points": {
             "1": 0,
@@ -2406,11 +2406,11 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3206,
-        "playtime": 1960531539,
-        "finished": 1116,
-        "finishtime": 867742001,
-        "won": 1692,
+        "matches": 3207,
+        "playtime": 1961186588,
+        "finished": 1117,
+        "finishtime": 868397050,
+        "won": 1693,
         "lost": 1439,
         "forfeited": 720
     },
@@ -2622,7 +2622,7 @@
             "5": 1792,
             "6": 1952,
             "7": 1972,
-            "8": 1548
+            "8": 1561
         },
         "points": {
             "2": 0,
@@ -2635,11 +2635,11 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2762,
-        "playtime": 1866011957,
-        "finished": 919,
-        "finishtime": 692380215,
-        "won": 1350,
+        "matches": 2763,
+        "playtime": 1866625386,
+        "finished": 920,
+        "finishtime": 692993644,
+        "won": 1351,
         "lost": 1192,
         "forfeited": 71
     },
@@ -3896,13 +3896,13 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3877,
-        "playtime": 2396886652,
+        "matches": 3878,
+        "playtime": 2397238507,
         "finished": 1263,
         "finishtime": 919620261,
         "won": 1913,
-        "lost": 1763,
-        "forfeited": 775
+        "lost": 1764,
+        "forfeited": 776
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
@@ -4375,8 +4375,8 @@
         },
         "pb": 451504,
         "streak": 11,
-        "matches": 2959,
-        "playtime": 2057205846,
+        "matches": 2960,
+        "playtime": 2057942020,
         "finished": 1013,
         "finishtime": 790015220,
         "won": 1489,
@@ -4441,11 +4441,11 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2188,
-        "playtime": 1474760621,
-        "finished": 799,
-        "finishtime": 647606948,
-        "won": 1195,
+        "matches": 2189,
+        "playtime": 1475604321,
+        "finished": 800,
+        "finishtime": 648450648,
+        "won": 1196,
         "lost": 957,
         "forfeited": 359
     },
