@@ -640,7 +640,7 @@
             "5": 2061,
             "6": 2249,
             "7": 2201,
-            "8": 1883
+            "8": 1900
         },
         "points": {
             "1": 0,
@@ -654,11 +654,11 @@
         },
         "pb": 429880,
         "streak": 12,
-        "matches": 1637,
-        "playtime": 1056833640,
-        "finished": 750,
-        "finishtime": 506161555,
-        "won": 924,
+        "matches": 1638,
+        "playtime": 1057400961,
+        "finished": 751,
+        "finishtime": 506728876,
+        "won": 925,
         "lost": 671,
         "forfeited": 42
     },
@@ -1145,11 +1145,11 @@
         },
         "pb": 402177,
         "streak": 17,
-        "matches": 9983,
-        "playtime": 6126739860,
-        "finished": 4146,
-        "finishtime": 2854231888,
-        "won": 5408,
+        "matches": 9984,
+        "playtime": 6127477284,
+        "finished": 4147,
+        "finishtime": 2854969312,
+        "won": 5409,
         "lost": 4368,
         "forfeited": 1348
     },
@@ -3013,7 +3013,7 @@
             "5": 1873,
             "6": 1754,
             "7": 1580,
-            "8": 1597
+            "8": 1615
         },
         "points": {
             "1": 0,
@@ -3027,11 +3027,11 @@
         },
         "pb": 459531,
         "streak": 18,
-        "matches": 3426,
-        "playtime": 2218698819,
-        "finished": 1092,
-        "finishtime": 869090420,
-        "won": 1774,
+        "matches": 3427,
+        "playtime": 2219713587,
+        "finished": 1093,
+        "finishtime": 870105188,
+        "won": 1775,
         "lost": 1554,
         "forfeited": 782
     },
@@ -4049,12 +4049,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5468,
-        "playtime": 3619555063,
+        "matches": 5469,
+        "playtime": 3620122384,
         "finished": 1689,
         "finishtime": 1314013916,
         "won": 2692,
-        "lost": 2510,
+        "lost": 2511,
         "forfeited": 833
     },
     "da1d85337d244f789d60b009e1e2b346": {
