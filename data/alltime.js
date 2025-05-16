@@ -2545,7 +2545,7 @@
         "forfeited": 509
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
-        "nickname": "karatebaby_",
+        "nickname": "q_we_",
         "country": "vn",
         "top": {
             "1": 1649,
@@ -4268,11 +4268,11 @@
         },
         "pb": 489021,
         "streak": 10,
-        "matches": 1935,
-        "playtime": 1413933242,
-        "finished": 677,
-        "finishtime": 569372765,
-        "won": 1033,
+        "matches": 1936,
+        "playtime": 1414838159,
+        "finished": 678,
+        "finishtime": 570277682,
+        "won": 1034,
         "lost": 866,
         "forfeited": 99
     },
@@ -4469,39 +4469,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f2e05ad464b54d288fa18da14e9a2786": {
-        "nickname": "LEC666888",
-        "country": "cn",
-        "top": {
-            "1": 1161,
-            "2": 1536,
-            "3": 1419,
-            "4": 1558,
-            "5": 1627,
-            "6": 1849,
-            "7": 1951,
-            "8": 1732
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 30,
-            "7": 5,
-            "8": 0
-        },
-        "pb": 433890,
-        "streak": 16,
-        "matches": 6225,
-        "playtime": 3745404081,
-        "finished": 1985,
-        "finishtime": 1564128582,
-        "won": 3095,
-        "lost": 2868,
-        "forfeited": 1491
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
