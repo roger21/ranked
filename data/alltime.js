@@ -268,7 +268,7 @@
             "5": 1805,
             "6": 2005,
             "7": 2001,
-            "8": 1686
+            "8": 1693
         },
         "points": {
             "1": 0,
@@ -282,13 +282,13 @@
         },
         "pb": 444221,
         "streak": 12,
-        "matches": 1564,
-        "playtime": 965220353,
-        "finished": 608,
-        "finishtime": 445816620,
-        "won": 843,
-        "lost": 653,
-        "forfeited": 341
+        "matches": 1566,
+        "playtime": 966196140,
+        "finished": 609,
+        "finishtime": 446657785,
+        "won": 844,
+        "lost": 654,
+        "forfeited": 342
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
         "nickname": "MrBudgiee",
@@ -1081,11 +1081,11 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 11928,
-        "playtime": 7774465140,
+        "matches": 11929,
+        "playtime": 7774765809,
         "finished": 4953,
         "finishtime": 3537391945,
-        "won": 6624,
+        "won": 6625,
         "lost": 5084,
         "forfeited": 716
     },
@@ -1147,13 +1147,13 @@
         },
         "pb": 402177,
         "streak": 17,
-        "matches": 10003,
-        "playtime": 6138442995,
+        "matches": 10004,
+        "playtime": 6138897649,
         "finished": 4159,
         "finishtime": 2862126555,
         "won": 5422,
-        "lost": 4373,
-        "forfeited": 1349
+        "lost": 4374,
+        "forfeited": 1350
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1180,12 +1180,12 @@
         },
         "pb": 531934,
         "streak": 12,
-        "matches": 1595,
-        "playtime": 1157067267,
+        "matches": 1596,
+        "playtime": 1157654952,
         "finished": 543,
         "finishtime": 454847820,
         "won": 854,
-        "lost": 689,
+        "lost": 690,
         "forfeited": 94
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -2156,11 +2156,11 @@
         },
         "pb": 475558,
         "streak": 12,
-        "matches": 458,
-        "playtime": 277268755,
+        "matches": 459,
+        "playtime": 278055025,
         "finished": 207,
         "finishtime": 146586940,
-        "won": 281,
+        "won": 282,
         "lost": 165,
         "forfeited": 89
     },
@@ -2375,12 +2375,12 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3258,
-        "playtime": 1990458329,
+        "matches": 3259,
+        "playtime": 1990963651,
         "finished": 1139,
         "finishtime": 882956507,
         "won": 1717,
-        "lost": 1465,
+        "lost": 1466,
         "forfeited": 737
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -2897,12 +2897,12 @@
         },
         "pb": 406737,
         "streak": 14,
-        "matches": 4638,
-        "playtime": 2967193541,
+        "matches": 4639,
+        "playtime": 2968034706,
         "finished": 1731,
         "finishtime": 1246350493,
         "won": 2349,
-        "lost": 2148,
+        "lost": 2149,
         "forfeited": 558
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -2916,7 +2916,7 @@
             "5": 1901,
             "6": 1998,
             "7": 1744,
-            "8": 1610
+            "8": 1659
         },
         "points": {
             "1": 0,
@@ -2930,11 +2930,11 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3475,
-        "playtime": 2318674849,
+        "matches": 3477,
+        "playtime": 2319264125,
         "finished": 1131,
         "finishtime": 885661256,
-        "won": 1764,
+        "won": 1766,
         "lost": 1622,
         "forfeited": 571
     },
@@ -3700,11 +3700,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 6195,
-        "playtime": 3609365627,
-        "finished": 2268,
-        "finishtime": 1574384407,
-        "won": 3128,
+        "matches": 6196,
+        "playtime": 3609953312,
+        "finished": 2269,
+        "finishtime": 1574972092,
+        "won": 3129,
         "lost": 2869,
         "forfeited": 1264
     },
