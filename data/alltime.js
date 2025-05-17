@@ -2375,13 +2375,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3270,
-        "playtime": 1997621314,
+        "matches": 3271,
+        "playtime": 1997967313,
         "finished": 1143,
         "finishtime": 885700549,
         "won": 1723,
-        "lost": 1471,
-        "forfeited": 739
+        "lost": 1472,
+        "forfeited": 740
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -2736,12 +2736,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5600,
-        "playtime": 3825688055,
+        "matches": 5601,
+        "playtime": 3826583015,
         "finished": 1815,
         "finishtime": 1471611591,
         "won": 2803,
-        "lost": 2634,
+        "lost": 2635,
         "forfeited": 646
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -3931,13 +3931,13 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 3918,
-        "playtime": 2422953356,
+        "matches": 3919,
+        "playtime": 2423744068,
         "finished": 1281,
         "finishtime": 932207992,
         "won": 1933,
-        "lost": 1780,
-        "forfeited": 781
+        "lost": 1781,
+        "forfeited": 782
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
