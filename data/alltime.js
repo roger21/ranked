@@ -1234,7 +1234,7 @@
             "5": 2047,
             "6": 1871,
             "7": 2129,
-            "8": 1877
+            "8": 1879
         },
         "points": {
             "1": 0,
@@ -1248,11 +1248,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6668,
-        "playtime": 4325698379,
-        "finished": 2279,
-        "finishtime": 1736732408,
-        "won": 3308,
+        "matches": 6669,
+        "playtime": 4326266895,
+        "finished": 2280,
+        "finishtime": 1737300924,
+        "won": 3309,
         "lost": 3115,
         "forfeited": 1102
     },
@@ -1543,12 +1543,12 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2657,
-        "playtime": 1603341330,
+        "matches": 2658,
+        "playtime": 1604010602,
         "finished": 861,
         "finishtime": 658376337,
         "won": 1301,
-        "lost": 1129,
+        "lost": 1130,
         "forfeited": 470
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -4442,39 +4442,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f2e05ad464b54d288fa18da14e9a2786": {
-        "nickname": "LEC666888",
-        "country": "cn",
-        "top": {
-            "1": 1161,
-            "2": 1536,
-            "3": 1419,
-            "4": 1558,
-            "5": 1627,
-            "6": 1849,
-            "7": 1951,
-            "8": 1732
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 30,
-            "7": 5,
-            "8": 0
-        },
-        "pb": 433890,
-        "streak": 16,
-        "matches": 6239,
-        "playtime": 3753513545,
-        "finished": 1992,
-        "finishtime": 1568876142,
-        "won": 3102,
-        "lost": 2873,
-        "forfeited": 1493
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
