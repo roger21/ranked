@@ -2800,13 +2800,13 @@
         },
         "pb": 565910,
         "streak": 10,
-        "matches": 1642,
-        "playtime": 1128644061,
+        "matches": 1643,
+        "playtime": 1129033192,
         "finished": 460,
         "finishtime": 410726723,
         "won": 807,
-        "lost": 737,
-        "forfeited": 367
+        "lost": 738,
+        "forfeited": 368
     },
     "8fc93aecda5b4f699cf76694116eaf11": {
         "nickname": "rekrap2",
