@@ -1079,12 +1079,12 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 11982,
-        "playtime": 7807665192,
+        "matches": 11984,
+        "playtime": 7808254548,
         "finished": 4979,
         "finishtime": 3555021933,
-        "won": 6653,
-        "lost": 5109,
+        "won": 6654,
+        "lost": 5110,
         "forfeited": 719
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -2303,7 +2303,7 @@
             "5": 2338,
             "6": 2475,
             "7": 2507,
-            "8": 2004
+            "8": 2016
         },
         "points": {
             "1": 0,
@@ -2317,11 +2317,11 @@
         },
         "pb": 380341,
         "streak": 21,
-        "matches": 5747,
-        "playtime": 3654297020,
-        "finished": 2999,
-        "finishtime": 2002287321,
-        "won": 3792,
+        "matches": 5748,
+        "playtime": 3654727305,
+        "finished": 3000,
+        "finishtime": 2002717606,
+        "won": 3793,
         "lost": 1797,
         "forfeited": 181
     },
@@ -2338,12 +2338,12 @@
         },
         "pb": 511993,
         "streak": 10,
-        "matches": 1975,
-        "playtime": 1290978678,
+        "matches": 1976,
+        "playtime": 1291686376,
         "finished": 593,
         "finishtime": 467409035,
         "won": 980,
-        "lost": 894,
+        "lost": 895,
         "forfeited": 296
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
@@ -4031,29 +4031,6 @@
         "won": 1277,
         "lost": 1086,
         "forfeited": 521
-    },
-    "cc432b2626a44ae1836a50244adbf468": {
-        "nickname": "DziabaDziuba",
-        "country": "pl",
-        "top": {
-            "6": 1636,
-            "7": 1804,
-            "8": 1701
-        },
-        "points": {
-            "6": 0,
-            "7": 40,
-            "8": 0
-        },
-        "pb": 425033,
-        "streak": 27,
-        "matches": 2596,
-        "playtime": 1490384580,
-        "finished": 784,
-        "finishtime": 603691187,
-        "won": 1286,
-        "lost": 1191,
-        "forfeited": 804
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
