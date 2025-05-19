@@ -404,11 +404,11 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3278,
-        "playtime": 2395561319,
-        "finished": 945,
-        "finishtime": 811675201,
-        "won": 1646,
+        "matches": 3279,
+        "playtime": 2396307412,
+        "finished": 946,
+        "finishtime": 812421294,
+        "won": 1647,
         "lost": 1453,
         "forfeited": 391
     },
@@ -1266,7 +1266,7 @@
             "5": 1916,
             "6": 2022,
             "7": 1722,
-            "8": 1737
+            "8": 1748
         },
         "points": {
             "1": 0,
@@ -1279,11 +1279,11 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1144,
-        "playtime": 684701674,
+        "matches": 1145,
+        "playtime": 685047554,
         "finished": 473,
         "finishtime": 335527688,
-        "won": 619,
+        "won": 620,
         "lost": 504,
         "forfeited": 272
     },
@@ -1675,11 +1675,11 @@
         },
         "pb": 428490,
         "streak": 11,
-        "matches": 3149,
-        "playtime": 2079468507,
-        "finished": 1255,
-        "finishtime": 929617095,
-        "won": 1694,
+        "matches": 3150,
+        "playtime": 2079976485,
+        "finished": 1256,
+        "finishtime": 930125073,
+        "won": 1695,
         "lost": 1387,
         "forfeited": 294
     },
@@ -2624,7 +2624,7 @@
             "5": 1792,
             "6": 1952,
             "7": 1972,
-            "8": 1581
+            "8": 1586
         },
         "points": {
             "2": 0,
@@ -2637,11 +2637,11 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2775,
-        "playtime": 1874585953,
-        "finished": 924,
-        "finishtime": 695496149,
-        "won": 1356,
+        "matches": 2776,
+        "playtime": 1875172395,
+        "finished": 925,
+        "finishtime": 696082591,
+        "won": 1357,
         "lost": 1197,
         "forfeited": 71
     },
@@ -2769,12 +2769,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5626,
-        "playtime": 3842735167,
+        "matches": 5627,
+        "playtime": 3843484425,
         "finished": 1825,
         "finishtime": 1479226543,
         "won": 2815,
-        "lost": 2648,
+        "lost": 2649,
         "forfeited": 652
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -2963,13 +2963,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3491,
-        "playtime": 2328688825,
+        "matches": 3493,
+        "playtime": 2329515156,
         "finished": 1136,
         "finishtime": 889389873,
         "won": 1771,
-        "lost": 1631,
-        "forfeited": 572
+        "lost": 1633,
+        "forfeited": 573
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -2996,13 +2996,13 @@
         },
         "pb": 439571,
         "streak": 9,
-        "matches": 4654,
-        "playtime": 2947657937,
+        "matches": 4655,
+        "playtime": 2948003817,
         "finished": 1670,
         "finishtime": 1234014494,
         "won": 2332,
-        "lost": 2146,
-        "forfeited": 799
+        "lost": 2147,
+        "forfeited": 800
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -3124,12 +3124,12 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 4789,
-        "playtime": 2901239592,
+        "matches": 4790,
+        "playtime": 2901747570,
         "finished": 1499,
         "finishtime": 1137550235,
         "won": 2324,
-        "lost": 2211,
+        "lost": 2212,
         "forfeited": 1247
     },
     "a0a672a0bc194540bc195220dc170dba": {
@@ -4309,12 +4309,12 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9063,
-        "playtime": 5914845018,
+        "matches": 9064,
+        "playtime": 5915569349,
         "finished": 3151,
         "finishtime": 2361973665,
         "won": 4421,
-        "lost": 4153,
+        "lost": 4154,
         "forfeited": 1018
     },
     "e43dad544b244da9b690a12fdc8626dc": {
