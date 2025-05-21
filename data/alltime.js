@@ -1535,13 +1535,13 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2259,
-        "playtime": 1430165006,
+        "matches": 2260,
+        "playtime": 1430839805,
         "finished": 789,
         "finishtime": 623881591,
         "won": 1201,
-        "lost": 1006,
-        "forfeited": 652
+        "lost": 1007,
+        "forfeited": 653
     },
     "48d9df3377554043ba39a8500c7ad702": {
         "nickname": "ELO_FFAWRSEED948",
