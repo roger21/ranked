@@ -3731,13 +3731,13 @@
         },
         "pb": 542711,
         "streak": 11,
-        "matches": 2528,
-        "playtime": 1898408819,
-        "finished": 851,
-        "finishtime": 762441985,
-        "won": 1324,
-        "lost": 1144,
-        "forfeited": 288
+        "matches": 2530,
+        "playtime": 1899534642,
+        "finished": 852,
+        "finishtime": 763261342,
+        "won": 1325,
+        "lost": 1145,
+        "forfeited": 289
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
         "nickname": "romuxii",
