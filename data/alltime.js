@@ -1116,11 +1116,11 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10195,
-        "playtime": 6246285788,
-        "finished": 4244,
-        "finishtime": 2913882018,
-        "won": 5520,
+        "matches": 10196,
+        "playtime": 6246854778,
+        "finished": 4245,
+        "finishtime": 2914451008,
+        "won": 5521,
         "lost": 4462,
         "forfeited": 1378
     },
@@ -1807,12 +1807,12 @@
         },
         "pb": 412650,
         "streak": 13,
-        "matches": 1414,
-        "playtime": 874225702,
+        "matches": 1415,
+        "playtime": 874922964,
         "finished": 519,
         "finishtime": 370428609,
         "won": 742,
-        "lost": 605,
+        "lost": 606,
         "forfeited": 258
     },
     "5cd115f0ec1240659db152406c0984a3": {
@@ -1890,7 +1890,7 @@
             "5": 1994,
             "6": 1999,
             "7": 2001,
-            "8": 1661
+            "8": 1669
         },
         "points": {
             "1": 0,
@@ -1904,44 +1904,13 @@
         },
         "pb": 459493,
         "streak": 13,
-        "matches": 7837,
-        "playtime": 4971405092,
-        "finished": 2763,
-        "finishtime": 2113452230,
-        "won": 3890,
+        "matches": 7838,
+        "playtime": 4972082185,
+        "finished": 2764,
+        "finishtime": 2114129323,
+        "won": 3891,
         "lost": 3682,
         "forfeited": 1352
-    },
-    "6135d13bce2841f8b7e8d37d91c6edfe": {
-        "nickname": "boywithcards",
-        "country": "de",
-        "top": {
-            "1": 1412,
-            "3": 1455,
-            "4": 1542,
-            "5": 1746,
-            "6": 1790,
-            "7": 1877,
-            "8": 1715
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 5,
-            "7": 40,
-            "8": 4
-        },
-        "pb": 473760,
-        "streak": 12,
-        "matches": 2694,
-        "playtime": 1735458953,
-        "finished": 796,
-        "finishtime": 603893584,
-        "won": 1351,
-        "lost": 1222,
-        "forfeited": 321
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
@@ -1991,13 +1960,13 @@
         },
         "pb": 428921,
         "streak": 14,
-        "matches": 2313,
-        "playtime": 1363365874,
+        "matches": 2314,
+        "playtime": 1363838450,
         "finished": 971,
         "finishtime": 641305329,
         "won": 1230,
-        "lost": 1024,
-        "forfeited": 286
+        "lost": 1025,
+        "forfeited": 287
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -3058,12 +3027,12 @@
         },
         "pb": 439571,
         "streak": 9,
-        "matches": 4685,
-        "playtime": 2965115331,
+        "matches": 4686,
+        "playtime": 2965891980,
         "finished": 1681,
         "finishtime": 1241187936,
         "won": 2346,
-        "lost": 2163,
+        "lost": 2164,
         "forfeited": 807
     },
     "9a61b87c6a16403da56541258e74ed3e": {
@@ -3169,7 +3138,7 @@
             "5": 2003,
             "6": 1815,
             "7": 2026,
-            "8": 1891
+            "8": 1908
         },
         "points": {
             "2": 0,
@@ -3182,11 +3151,11 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 2810,
-        "playtime": 1642840401,
-        "finished": 1034,
-        "finishtime": 735283954,
-        "won": 1444,
+        "matches": 2811,
+        "playtime": 1643537663,
+        "finished": 1035,
+        "finishtime": 735981216,
+        "won": 1445,
         "lost": 1282,
         "forfeited": 626
     },
@@ -4020,11 +3989,11 @@
         },
         "pb": 445393,
         "streak": 14,
-        "matches": 4072,
-        "playtime": 2511171925,
+        "matches": 4073,
+        "playtime": 2511644501,
         "finished": 1346,
         "finishtime": 974440042,
-        "won": 2014,
+        "won": 2015,
         "lost": 1847,
         "forfeited": 806
     },
