@@ -4111,13 +4111,13 @@
         },
         "pb": 563918,
         "streak": 13,
-        "matches": 528,
-        "playtime": 415299570,
+        "matches": 529,
+        "playtime": 415741770,
         "finished": 198,
         "finishtime": 171666525,
         "won": 297,
-        "lost": 222,
-        "forfeited": 15
+        "lost": 223,
+        "forfeited": 16
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
         "nickname": "boosterruns",
