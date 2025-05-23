@@ -1634,13 +1634,13 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 2822,
-        "playtime": 2100698041,
+        "matches": 2823,
+        "playtime": 2101070747,
         "finished": 863,
         "finishtime": 774180807,
         "won": 1431,
-        "lost": 1266,
-        "forfeited": 258
+        "lost": 1267,
+        "forfeited": 259
     },
     "4cf401d7b9474756b06a653867d22fca": {
         "nickname": "BadGamer",
@@ -4039,12 +4039,12 @@
         },
         "pb": 425033,
         "streak": 27,
-        "matches": 2692,
-        "playtime": 1544596971,
+        "matches": 2693,
+        "playtime": 1545251536,
         "finished": 822,
         "finishtime": 629085269,
         "won": 1333,
-        "lost": 1237,
+        "lost": 1238,
         "forfeited": 818
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
