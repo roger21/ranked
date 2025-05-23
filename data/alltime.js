@@ -1634,11 +1634,11 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 2826,
-        "playtime": 2102786009,
-        "finished": 863,
-        "finishtime": 774180807,
-        "won": 1433,
+        "matches": 2827,
+        "playtime": 2103522959,
+        "finished": 864,
+        "finishtime": 774917757,
+        "won": 1434,
         "lost": 1267,
         "forfeited": 259
     },
@@ -1766,11 +1766,11 @@
         },
         "pb": 508568,
         "streak": 19,
-        "matches": 846,
-        "playtime": 546296591,
-        "finished": 323,
-        "finishtime": 243789028,
-        "won": 496,
+        "matches": 847,
+        "playtime": 546840814,
+        "finished": 324,
+        "finishtime": 244333251,
+        "won": 497,
         "lost": 328,
         "forfeited": 100
     },
@@ -1839,37 +1839,6 @@
         "won": 736,
         "lost": 599,
         "forfeited": 258
-    },
-    "5cd115f0ec1240659db152406c0984a3": {
-        "nickname": "yjako",
-        "country": "ph",
-        "top": {
-            "1": 1454,
-            "2": 1307,
-            "4": 1297,
-            "5": 1355,
-            "6": 1662,
-            "7": 1902,
-            "8": 1681
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 50,
-            "8": 4
-        },
-        "pb": 528506,
-        "streak": 10,
-        "matches": 805,
-        "playtime": 493357279,
-        "finished": 265,
-        "finishtime": 203868430,
-        "won": 430,
-        "lost": 341,
-        "forfeited": 192
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
@@ -4055,6 +4024,29 @@
         "lost": 1086,
         "forfeited": 521
     },
+    "cc432b2626a44ae1836a50244adbf468": {
+        "nickname": "DziabaDziuba",
+        "country": "pl",
+        "top": {
+            "6": 1636,
+            "7": 1804,
+            "8": 1826
+        },
+        "points": {
+            "6": 0,
+            "7": 40,
+            "8": 8
+        },
+        "pb": 425033,
+        "streak": 27,
+        "matches": 2695,
+        "playtime": 1546540770,
+        "finished": 823,
+        "finishtime": 629826361,
+        "won": 1334,
+        "lost": 1239,
+        "forfeited": 818
+    },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
         "country": "us",
@@ -4111,12 +4103,12 @@
         },
         "pb": 563918,
         "streak": 13,
-        "matches": 521,
-        "playtime": 410245030,
+        "matches": 522,
+        "playtime": 410986122,
         "finished": 196,
         "finishtime": 170151507,
         "won": 295,
-        "lost": 217,
+        "lost": 218,
         "forfeited": 14
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
