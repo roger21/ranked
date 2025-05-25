@@ -2596,11 +2596,11 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2699,
-        "playtime": 1842536417,
-        "finished": 749,
-        "finishtime": 646932244,
-        "won": 1334,
+        "matches": 2700,
+        "playtime": 1843324298,
+        "finished": 750,
+        "finishtime": 647720125,
+        "won": 1335,
         "lost": 1233,
         "forfeited": 520
     },
@@ -2996,7 +2996,7 @@
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfity",
-        "country": "br",
+        "country": "de",
         "top": {
             "1": 1520,
             "2": 1649,
