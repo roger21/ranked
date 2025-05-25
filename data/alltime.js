@@ -1917,7 +1917,7 @@
             "5": 1994,
             "6": 1999,
             "7": 2001,
-            "8": 1728
+            "8": 1740
         },
         "points": {
             "1": 0,
@@ -1931,11 +1931,11 @@
         },
         "pb": 459493,
         "streak": 13,
-        "matches": 7882,
-        "playtime": 5000204955,
+        "matches": 7883,
+        "playtime": 5000567478,
         "finished": 2783,
         "finishtime": 2126232796,
-        "won": 3915,
+        "won": 3916,
         "lost": 3701,
         "forfeited": 1355
     },
@@ -3052,13 +3052,13 @@
         },
         "pb": 439571,
         "streak": 9,
-        "matches": 4706,
-        "playtime": 2977740530,
+        "matches": 4707,
+        "playtime": 2978103053,
         "finished": 1690,
         "finishtime": 1247213838,
         "won": 2357,
-        "lost": 2171,
-        "forfeited": 808
+        "lost": 2172,
+        "forfeited": 809
     },
     "9a61b87c6a16403da56541258e74ed3e": {
         "nickname": "Blad_d",
