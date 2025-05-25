@@ -1785,7 +1785,7 @@
             "5": 1444,
             "6": 1868,
             "7": 1704,
-            "8": 1532
+            "8": 1554
         },
         "points": {
             "1": 0,
@@ -1799,11 +1799,11 @@
         },
         "pb": 508568,
         "streak": 19,
-        "matches": 858,
-        "playtime": 553946824,
-        "finished": 330,
-        "finishtime": 248338978,
-        "won": 505,
+        "matches": 859,
+        "playtime": 554700380,
+        "finished": 331,
+        "finishtime": 249092534,
+        "won": 506,
         "lost": 331,
         "forfeited": 101
     },
@@ -2825,13 +2825,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5676,
-        "playtime": 3874236960,
+        "matches": 5677,
+        "playtime": 3874628091,
         "finished": 1842,
         "finishtime": 1491417514,
         "won": 2844,
-        "lost": 2669,
-        "forfeited": 657
+        "lost": 2670,
+        "forfeited": 658
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
@@ -2891,11 +2891,11 @@
         },
         "pb": 565910,
         "streak": 10,
-        "matches": 1691,
-        "playtime": 1160305689,
-        "finished": 473,
-        "finishtime": 420878996,
-        "won": 831,
+        "matches": 1692,
+        "playtime": 1160959882,
+        "finished": 474,
+        "finishtime": 421533189,
+        "won": 832,
         "lost": 761,
         "forfeited": 374
     },
@@ -4599,39 +4599,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f2e05ad464b54d288fa18da14e9a2786": {
-        "nickname": "LEC666888",
-        "country": "cn",
-        "top": {
-            "1": 1161,
-            "2": 1536,
-            "3": 1419,
-            "4": 1558,
-            "5": 1627,
-            "6": 1849,
-            "7": 1951,
-            "8": 1823
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 30,
-            "7": 5,
-            "8": 8
-        },
-        "pb": 433890,
-        "streak": 16,
-        "matches": 6300,
-        "playtime": 3792411811,
-        "finished": 2017,
-        "finishtime": 1586859283,
-        "won": 3132,
-        "lost": 2896,
-        "forfeited": 1493
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
