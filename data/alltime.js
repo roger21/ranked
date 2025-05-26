@@ -42,7 +42,7 @@
             "5": 1729,
             "6": 2075,
             "7": 1965,
-            "8": 0
+            "8": 1381
         },
         "points": {
             "2": 0,
@@ -55,12 +55,12 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5036,
-        "playtime": 3382144211,
+        "matches": 5037,
+        "playtime": 3382808110,
         "finished": 1696,
         "finishtime": 1323303711,
         "won": 2516,
-        "lost": 2358,
+        "lost": 2359,
         "forfeited": 543
     },
     "0562802e736e47c581b2ef095e2ed067": {
@@ -1469,11 +1469,11 @@
         },
         "pb": 495650,
         "streak": 9,
-        "matches": 1078,
-        "playtime": 754916217,
-        "finished": 409,
-        "finishtime": 325599134,
-        "won": 600,
+        "matches": 1079,
+        "playtime": 755580116,
+        "finished": 410,
+        "finishtime": 326263033,
+        "won": 601,
         "lost": 455,
         "forfeited": 111
     },
@@ -3145,13 +3145,13 @@
         },
         "pb": 459531,
         "streak": 18,
-        "matches": 3616,
-        "playtime": 2333425352,
+        "matches": 3617,
+        "playtime": 2333725836,
         "finished": 1155,
         "finishtime": 912495257,
         "won": 1866,
-        "lost": 1651,
-        "forfeited": 843
+        "lost": 1652,
+        "forfeited": 844
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
         "nickname": "loodlow",
@@ -4338,13 +4338,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9194,
-        "playtime": 5995520560,
+        "matches": 9196,
+        "playtime": 5996465067,
         "finished": 3195,
         "finishtime": 2391672139,
         "won": 4485,
-        "lost": 4213,
-        "forfeited": 1028
+        "lost": 4215,
+        "forfeited": 1029
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
         "nickname": "Traden",
