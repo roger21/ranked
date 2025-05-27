@@ -2015,7 +2015,7 @@
         "top": {
             "6": 1582,
             "7": 2203,
-            "8": 2145
+            "8": 2154
         },
         "points": {
             "6": 0,
@@ -2023,12 +2023,12 @@
             "8": 40
         },
         "pb": 428921,
-        "streak": 15,
-        "matches": 2374,
-        "playtime": 1396640663,
-        "finished": 1008,
-        "finishtime": 663851893,
-        "won": 1272,
+        "streak": 16,
+        "matches": 2375,
+        "playtime": 1397172724,
+        "finished": 1009,
+        "finishtime": 664383954,
+        "won": 1273,
         "lost": 1042,
         "forfeited": 293
     },
@@ -4152,13 +4152,13 @@
         },
         "pb": 559058,
         "streak": 13,
-        "matches": 552,
-        "playtime": 432585374,
+        "matches": 553,
+        "playtime": 433053353,
         "finished": 208,
         "finishtime": 180130099,
         "won": 310,
-        "lost": 232,
-        "forfeited": 17
+        "lost": 233,
+        "forfeited": 18
     },
     "d1718c79c34e4bce93cd688ac5254b58": {
         "nickname": "cornflakesmcsr",
