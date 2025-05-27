@@ -121,12 +121,12 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 1460,
-        "playtime": 978503974,
+        "matches": 1461,
+        "playtime": 979092802,
         "finished": 501,
         "finishtime": 403433254,
         "won": 774,
-        "lost": 625,
+        "lost": 626,
         "forfeited": 170
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -2340,11 +2340,11 @@
         },
         "pb": 486617,
         "streak": 10,
-        "matches": 2124,
-        "playtime": 1386566255,
-        "finished": 660,
-        "finishtime": 513309402,
-        "won": 1057,
+        "matches": 2125,
+        "playtime": 1387155083,
+        "finished": 661,
+        "finishtime": 513898230,
+        "won": 1058,
         "lost": 962,
         "forfeited": 296
     },
@@ -2635,11 +2635,11 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 3310,
-        "playtime": 2109652848,
-        "finished": 1051,
-        "finishtime": 824212396,
-        "won": 1693,
+        "matches": 3311,
+        "playtime": 2110393060,
+        "finished": 1052,
+        "finishtime": 824952608,
+        "won": 1694,
         "lost": 1505,
         "forfeited": 788
     },
@@ -4318,33 +4318,6 @@
         "won": 4492,
         "lost": 4219,
         "forfeited": 1030
-    },
-    "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
-        "country": "tw",
-        "top": {
-            "4": 1087,
-            "5": 1388,
-            "6": 1636,
-            "7": 1902,
-            "8": 1706
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 4
-        },
-        "pb": 482356,
-        "streak": 14,
-        "matches": 5963,
-        "playtime": 3823411114,
-        "finished": 1589,
-        "finishtime": 1344948846,
-        "won": 2951,
-        "lost": 2839,
-        "forfeited": 1768
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
