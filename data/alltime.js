@@ -1102,7 +1102,7 @@
             "5": 2290,
             "6": 2348,
             "7": 2264,
-            "8": 2023
+            "8": 2038
         },
         "points": {
             "1": 0,
@@ -1116,11 +1116,11 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 12296,
-        "playtime": 7988357780,
-        "finished": 5124,
-        "finishtime": 3646143414,
-        "won": 6826,
+        "matches": 12297,
+        "playtime": 7989026112,
+        "finished": 5125,
+        "finishtime": 3646811746,
+        "won": 6827,
         "lost": 5247,
         "forfeited": 744
     },
@@ -1223,39 +1223,6 @@
         "lost": 756,
         "forfeited": 96
     },
-    "3c59ed02bccf4ea3a0f626af7955be91": {
-        "nickname": "Tookannn",
-        "country": "ca",
-        "top": {
-            "1": 1341,
-            "2": 1504,
-            "3": 1405,
-            "4": 1626,
-            "5": 1684,
-            "6": 1583,
-            "7": 1607,
-            "8": 1702
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 15,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 519705,
-        "streak": 8,
-        "matches": 486,
-        "playtime": 343094274,
-        "finished": 187,
-        "finishtime": 151956576,
-        "won": 276,
-        "lost": 179,
-        "forfeited": 19
-    },
     "3c8757790ab0400b8b9e3936e0dd535b": {
         "nickname": "doogile",
         "country": "us",
@@ -1347,11 +1314,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6786,
-        "playtime": 4400246871,
-        "finished": 2334,
-        "finishtime": 1773399758,
-        "won": 3369,
+        "matches": 6787,
+        "playtime": 4401259890,
+        "finished": 2335,
+        "finishtime": 1774412777,
+        "won": 3370,
         "lost": 3171,
         "forfeited": 1105
     },
@@ -2352,11 +2319,11 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2223,
-        "playtime": 1450029643,
+        "matches": 2224,
+        "playtime": 1450480996,
         "finished": 759,
         "finishtime": 604376271,
-        "won": 1158,
+        "won": 1159,
         "lost": 1003,
         "forfeited": 400
     },
@@ -2470,12 +2437,12 @@
         },
         "pb": 430515,
         "streak": 12,
-        "matches": 5486,
-        "playtime": 3397683776,
+        "matches": 5487,
+        "playtime": 3398352108,
         "finished": 1978,
         "finishtime": 1430735955,
         "won": 2793,
-        "lost": 2459,
+        "lost": 2460,
         "forfeited": 887
     },
     "7c92678742eb4e819f3122017697ae3d": {
