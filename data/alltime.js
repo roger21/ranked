@@ -1116,12 +1116,12 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 12333,
-        "playtime": 8009772213,
+        "matches": 12334,
+        "playtime": 8010548866,
         "finished": 5140,
         "finishtime": 3656306729,
         "won": 6845,
-        "lost": 5265,
+        "lost": 5266,
         "forfeited": 748
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1477,11 +1477,11 @@
         },
         "pb": 495650,
         "streak": 9,
-        "matches": 1107,
-        "playtime": 772754531,
+        "matches": 1108,
+        "playtime": 773302608,
         "finished": 421,
         "finishtime": 334009586,
-        "won": 615,
+        "won": 616,
         "lost": 469,
         "forfeited": 115
     },
@@ -1576,13 +1576,13 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2340,
-        "playtime": 1479537135,
+        "matches": 2342,
+        "playtime": 1480476506,
         "finished": 819,
         "finishtime": 645031296,
         "won": 1243,
-        "lost": 1044,
-        "forfeited": 677
+        "lost": 1046,
+        "forfeited": 678
     },
     "48d9df3377554043ba39a8500c7ad702": {
         "nickname": "ELO_FFAWRSEED948",
@@ -3044,7 +3044,7 @@
             "5": 2051,
             "6": 2090,
             "7": 2072,
-            "8": 1938
+            "8": 1940
         },
         "points": {
             "1": 0,
@@ -3058,11 +3058,11 @@
         },
         "pb": 406737,
         "streak": 14,
-        "matches": 4850,
-        "playtime": 3097854560,
-        "finished": 1822,
-        "finishtime": 1305179795,
-        "won": 2460,
+        "matches": 4851,
+        "playtime": 3098631213,
+        "finished": 1823,
+        "finishtime": 1305956448,
+        "won": 2461,
         "lost": 2239,
         "forfeited": 568
     },
