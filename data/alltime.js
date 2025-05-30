@@ -2662,13 +2662,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2718,
-        "playtime": 1853742717,
+        "matches": 2719,
+        "playtime": 1854513367,
         "finished": 754,
         "finishtime": 650548747,
         "won": 1341,
-        "lost": 1244,
-        "forfeited": 525
+        "lost": 1245,
+        "forfeited": 526
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "q_we_",
