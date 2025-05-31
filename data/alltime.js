@@ -121,8 +121,8 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 1496,
-        "playtime": 1004023794,
+        "matches": 1497,
+        "playtime": 1004659271,
         "finished": 516,
         "finishtime": 414608497,
         "won": 792,
@@ -2976,7 +2976,7 @@
             "5": 1574,
             "6": 1505,
             "7": 1455,
-            "8": 1501
+            "8": 1505
         },
         "points": {
             "1": 0,
@@ -2990,11 +2990,11 @@
         },
         "pb": 565910,
         "streak": 10,
-        "matches": 1712,
-        "playtime": 1174536211,
-        "finished": 482,
-        "finishtime": 427503650,
-        "won": 843,
+        "matches": 1713,
+        "playtime": 1175216396,
+        "finished": 483,
+        "finishtime": 428183835,
+        "won": 844,
         "lost": 769,
         "forfeited": 376
     },
@@ -3572,13 +3572,13 @@
         },
         "pb": 456658,
         "streak": 8,
-        "matches": 2304,
-        "playtime": 1369059504,
+        "matches": 2305,
+        "playtime": 1369744889,
         "finished": 706,
         "finishtime": 540090208,
         "won": 1127,
-        "lost": 964,
-        "forfeited": 549
+        "lost": 965,
+        "forfeited": 550
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
