@@ -63,39 +63,6 @@
         "lost": 2361,
         "forfeited": 544
     },
-    "0562802e736e47c581b2ef095e2ed067": {
-        "nickname": "subdas",
-        "country": "br",
-        "top": {
-            "1": 1448,
-            "2": 1459,
-            "3": 1229,
-            "4": 1440,
-            "5": 1805,
-            "6": 1743,
-            "7": 1698,
-            "8": 1894
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 5,
-            "7": 0,
-            "8": 3
-        },
-        "pb": 470445,
-        "streak": 13,
-        "matches": 2228,
-        "playtime": 1307366810,
-        "finished": 566,
-        "finishtime": 445781340,
-        "won": 1129,
-        "lost": 1027,
-        "forfeited": 772
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -4313,11 +4280,11 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5542,
-        "playtime": 3666108804,
-        "finished": 1718,
-        "finishtime": 1332953092,
-        "won": 2727,
+        "matches": 5543,
+        "playtime": 3666851168,
+        "finished": 1719,
+        "finishtime": 1333695456,
+        "won": 2728,
         "lost": 2545,
         "forfeited": 835
     },
