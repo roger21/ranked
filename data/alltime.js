@@ -1345,13 +1345,13 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1183,
-        "playtime": 705868892,
+        "matches": 1184,
+        "playtime": 706498596,
         "finished": 489,
         "finishtime": 345387274,
         "won": 640,
-        "lost": 522,
-        "forfeited": 281
+        "lost": 523,
+        "forfeited": 282
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okrzej_",
@@ -2020,7 +2020,7 @@
             "5": 2061,
             "6": 2248,
             "7": 2138,
-            "8": 0
+            "8": 1349
         },
         "points": {
             "1": 0,
@@ -2034,13 +2034,13 @@
         },
         "pb": 427940,
         "streak": 13,
-        "matches": 2597,
-        "playtime": 1607536018,
+        "matches": 2598,
+        "playtime": 1608263707,
         "finished": 1025,
         "finishtime": 719911199,
         "won": 1370,
-        "lost": 1115,
-        "forfeited": 321
+        "lost": 1116,
+        "forfeited": 322
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
         "nickname": "edcr",
@@ -2596,11 +2596,11 @@
         },
         "pb": 476441,
         "streak": 12,
-        "matches": 1981,
-        "playtime": 1371594860,
+        "matches": 1982,
+        "playtime": 1372224564,
         "finished": 721,
         "finishtime": 564426062,
-        "won": 1014,
+        "won": 1015,
         "lost": 892,
         "forfeited": 113
     },
