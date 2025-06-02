@@ -2034,13 +2034,13 @@
         },
         "pb": 427940,
         "streak": 13,
-        "matches": 2600,
-        "playtime": 1609298575,
+        "matches": 2601,
+        "playtime": 1609857711,
         "finished": 1025,
         "finishtime": 719911199,
         "won": 1371,
-        "lost": 1117,
-        "forfeited": 322
+        "lost": 1118,
+        "forfeited": 323
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
         "nickname": "edcr",
