@@ -2020,7 +2020,7 @@
             "5": 2061,
             "6": 2248,
             "7": 2138,
-            "8": 1436
+            "8": 1454
         },
         "points": {
             "1": 0,
@@ -2034,11 +2034,11 @@
         },
         "pb": 427940,
         "streak": 13,
-        "matches": 2607,
-        "playtime": 1613348755,
-        "finished": 1028,
-        "finishtime": 721952180,
-        "won": 1376,
+        "matches": 2608,
+        "playtime": 1613898155,
+        "finished": 1029,
+        "finishtime": 722501580,
+        "won": 1377,
         "lost": 1118,
         "forfeited": 323
     },
@@ -2596,11 +2596,11 @@
         },
         "pb": 476441,
         "streak": 12,
-        "matches": 1988,
-        "playtime": 1376674541,
-        "finished": 724,
-        "finishtime": 566881574,
-        "won": 1018,
+        "matches": 1989,
+        "playtime": 1377327651,
+        "finished": 725,
+        "finishtime": 567534684,
+        "won": 1019,
         "lost": 895,
         "forfeited": 113
     },
@@ -2728,13 +2728,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2768,
-        "playtime": 1884542832,
+        "matches": 2769,
+        "playtime": 1885216140,
         "finished": 763,
         "finishtime": 657244996,
         "won": 1363,
-        "lost": 1268,
-        "forfeited": 539
+        "lost": 1269,
+        "forfeited": 540
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "q_we_",
@@ -3184,12 +3184,12 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 4809,
-        "playtime": 3039013151,
+        "matches": 4810,
+        "playtime": 3039666261,
         "finished": 1738,
         "finishtime": 1278778063,
         "won": 2412,
-        "lost": 2214,
+        "lost": 2215,
         "forfeited": 822
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
