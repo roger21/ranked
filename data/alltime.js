@@ -2020,7 +2020,7 @@
             "5": 2061,
             "6": 2248,
             "7": 2138,
-            "8": 1501
+            "8": 1523
         },
         "points": {
             "1": 0,
@@ -2034,11 +2034,11 @@
         },
         "pb": 427940,
         "streak": 13,
-        "matches": 2612,
-        "playtime": 1615890411,
-        "finished": 1031,
-        "finishtime": 723565515,
-        "won": 1380,
+        "matches": 2613,
+        "playtime": 1616402934,
+        "finished": 1032,
+        "finishtime": 724078038,
+        "won": 1381,
         "lost": 1119,
         "forfeited": 323
     },
@@ -2728,13 +2728,13 @@
         },
         "pb": 523567,
         "streak": 9,
-        "matches": 2774,
-        "playtime": 1887871955,
+        "matches": 2775,
+        "playtime": 1888142157,
         "finished": 764,
         "finishtime": 657897157,
         "won": 1365,
-        "lost": 1272,
-        "forfeited": 542
+        "lost": 1273,
+        "forfeited": 543
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "q_we_",
@@ -4084,12 +4084,12 @@
         },
         "pb": 548155,
         "streak": 13,
-        "matches": 1314,
-        "playtime": 918249514,
+        "matches": 1315,
+        "playtime": 919023113,
         "finished": 419,
         "finishtime": 348919144,
         "won": 723,
-        "lost": 546,
+        "lost": 547,
         "forfeited": 185
     },
     "c670041ed84c480cab4a6ee904905b5f": {
