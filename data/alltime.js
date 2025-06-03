@@ -2827,13 +2827,13 @@
         },
         "pb": 488067,
         "streak": 8,
-        "matches": 1406,
-        "playtime": 918467899,
+        "matches": 1407,
+        "playtime": 918885755,
         "finished": 562,
         "finishtime": 415915967,
         "won": 780,
-        "lost": 579,
-        "forfeited": 130
+        "lost": 580,
+        "forfeited": 131
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
         "nickname": "WarioTime1",
