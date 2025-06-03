@@ -1477,13 +1477,13 @@
         },
         "pb": 494739,
         "streak": 9,
-        "matches": 1206,
-        "playtime": 836335313,
+        "matches": 1207,
+        "playtime": 836617776,
         "finished": 449,
         "finishtime": 354545256,
         "won": 662,
-        "lost": 518,
-        "forfeited": 126
+        "lost": 519,
+        "forfeited": 127
     },
     "478b956844414cba9cfccb2977b71962": {
         "nickname": "B0g0sB1nted",
@@ -2026,11 +2026,11 @@
         },
         "pb": 428921,
         "streak": 17,
-        "matches": 2496,
-        "playtime": 1465152767,
-        "finished": 1066,
-        "finishtime": 697754261,
-        "won": 1343,
+        "matches": 2497,
+        "playtime": 1465702166,
+        "finished": 1067,
+        "finishtime": 698303660,
+        "won": 1344,
         "lost": 1089,
         "forfeited": 299
     },
@@ -4351,33 +4351,6 @@
         "won": 4522,
         "lost": 4257,
         "forfeited": 1036
-    },
-    "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
-        "country": "tw",
-        "top": {
-            "4": 1087,
-            "5": 1388,
-            "6": 1636,
-            "7": 1902,
-            "8": 1747
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 4
-        },
-        "pb": 482356,
-        "streak": 14,
-        "matches": 6033,
-        "playtime": 3868418913,
-        "finished": 1616,
-        "finishtime": 1363763940,
-        "won": 2988,
-        "lost": 2872,
-        "forfeited": 1770
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
