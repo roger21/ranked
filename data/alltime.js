@@ -290,33 +290,6 @@
         "lost": 822,
         "forfeited": 34
     },
-    "0c35dc5580aa402c863cfe8d89b81704": {
-        "nickname": "wethr",
-        "country": "ca",
-        "top": {
-            "4": 1510,
-            "5": 1544,
-            "6": 1750,
-            "7": 1650,
-            "8": 1738
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 15,
-            "7": 0,
-            "8": 3
-        },
-        "pb": 480553,
-        "streak": 11,
-        "matches": 1136,
-        "playtime": 760262177,
-        "finished": 362,
-        "finishtime": 289540892,
-        "won": 578,
-        "lost": 485,
-        "forfeited": 194
-    },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
         "country": "us",
@@ -3681,7 +3654,7 @@
             "5": 1697,
             "6": 1935,
             "7": 1914,
-            "8": 1823
+            "8": 1840
         },
         "points": {
             "4": 0,
@@ -3692,11 +3665,11 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 2474,
-        "playtime": 1583174383,
-        "finished": 817,
-        "finishtime": 617129319,
-        "won": 1250,
+        "matches": 2475,
+        "playtime": 1583770328,
+        "finished": 818,
+        "finishtime": 617725264,
+        "won": 1251,
         "lost": 1125,
         "forfeited": 381
     },
