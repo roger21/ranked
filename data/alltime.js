@@ -55,11 +55,11 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5041,
-        "playtime": 3384965239,
+        "matches": 5042,
+        "playtime": 3385624420,
         "finished": 1696,
         "finishtime": 1323303711,
-        "won": 2516,
+        "won": 2517,
         "lost": 2362,
         "forfeited": 545
     },
@@ -1477,11 +1477,11 @@
         },
         "pb": 494739,
         "streak": 9,
-        "matches": 1225,
-        "playtime": 849330602,
-        "finished": 454,
-        "finishtime": 358318054,
-        "won": 670,
+        "matches": 1226,
+        "playtime": 850036231,
+        "finished": 455,
+        "finishtime": 359023683,
+        "won": 671,
         "lost": 529,
         "forfeited": 130
     },
@@ -3647,7 +3647,7 @@
         "forfeited": 283
     },
     "addd890764404097b3f12acdde2adf33": {
-        "nickname": "Hypn0tic2030",
+        "nickname": "Hypn0ticMCSR",
         "country": "us",
         "top": {
             "4": 1533,
