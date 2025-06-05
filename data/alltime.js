@@ -1506,12 +1506,12 @@
         },
         "pb": 494739,
         "streak": 9,
-        "matches": 1232,
-        "playtime": 853773061,
+        "matches": 1233,
+        "playtime": 854531069,
         "finished": 458,
         "finishtime": 360928909,
         "won": 676,
-        "lost": 530,
+        "lost": 531,
         "forfeited": 130
     },
     "478b956844414cba9cfccb2977b71962": {
@@ -4146,11 +4146,11 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3684,
-        "playtime": 2618881713,
-        "finished": 1173,
-        "finishtime": 947035900,
-        "won": 1832,
+        "matches": 3685,
+        "playtime": 2619639721,
+        "finished": 1174,
+        "finishtime": 947793908,
+        "won": 1833,
         "lost": 1722,
         "forfeited": 220
     },
@@ -4367,12 +4367,12 @@
         },
         "pb": 482356,
         "streak": 14,
-        "matches": 6044,
-        "playtime": 3874784929,
+        "matches": 6045,
+        "playtime": 3875496973,
         "finished": 1620,
         "finishtime": 1366201196,
         "won": 2994,
-        "lost": 2877,
+        "lost": 2878,
         "forfeited": 1770
     },
     "e43dad544b244da9b690a12fdc8626dc": {
@@ -4601,39 +4601,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f2e05ad464b54d288fa18da14e9a2786": {
-        "nickname": "LEC666888",
-        "country": "cn",
-        "top": {
-            "1": 1161,
-            "2": 1536,
-            "3": 1419,
-            "4": 1558,
-            "5": 1627,
-            "6": 1849,
-            "7": 1951,
-            "8": 1823
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 30,
-            "7": 5,
-            "8": 8
-        },
-        "pb": 433890,
-        "streak": 16,
-        "matches": 6480,
-        "playtime": 3905799129,
-        "finished": 2088,
-        "finishtime": 1635998288,
-        "won": 3217,
-        "lost": 2979,
-        "forfeited": 1508
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
