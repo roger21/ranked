@@ -84,12 +84,12 @@
         },
         "pb": 408380,
         "streak": 9,
-        "matches": 1223,
-        "playtime": 686993021,
+        "matches": 1224,
+        "playtime": 687534816,
         "finished": 389,
         "finishtime": 284405088,
         "won": 612,
-        "lost": 557,
+        "lost": 558,
         "forfeited": 379
     },
     "0562802e736e47c581b2ef095e2ed067": {
@@ -1145,11 +1145,11 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 12561,
-        "playtime": 8143484736,
+        "matches": 12562,
+        "playtime": 8143968682,
         "finished": 5249,
         "finishtime": 3723277747,
-        "won": 6974,
+        "won": 6975,
         "lost": 5360,
         "forfeited": 756
     },
@@ -1211,13 +1211,13 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10404,
-        "playtime": 6360025179,
+        "matches": 10405,
+        "playtime": 6360509125,
         "finished": 4335,
         "finishtime": 2968042149,
         "won": 5626,
-        "lost": 4557,
-        "forfeited": 1417
+        "lost": 4558,
+        "forfeited": 1418
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1657,7 +1657,7 @@
             "5": 1672,
             "6": 1861,
             "7": 1947,
-            "8": 1880
+            "8": 1897
         },
         "points": {
             "1": 0,
@@ -1671,11 +1671,11 @@
         },
         "pb": 448567,
         "streak": 10,
-        "matches": 1627,
-        "playtime": 1080950048,
-        "finished": 574,
-        "finishtime": 429240960,
-        "won": 861,
+        "matches": 1628,
+        "playtime": 1081491843,
+        "finished": 575,
+        "finishtime": 429782755,
+        "won": 862,
         "lost": 710,
         "forfeited": 117
     },
@@ -2088,13 +2088,13 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2357,
-        "playtime": 1511536220,
+        "matches": 2359,
+        "playtime": 1512368960,
         "finished": 778,
         "finishtime": 598750207,
         "won": 1200,
-        "lost": 1055,
-        "forfeited": 390
+        "lost": 1057,
+        "forfeited": 391
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
@@ -3793,11 +3793,11 @@
         },
         "pb": 542711,
         "streak": 11,
-        "matches": 2698,
-        "playtime": 2010801816,
+        "matches": 2699,
+        "playtime": 2011095023,
         "finished": 905,
         "finishtime": 803544908,
-        "won": 1407,
+        "won": 1408,
         "lost": 1224,
         "forfeited": 312
     },
