@@ -1244,12 +1244,12 @@
         },
         "pb": 531934,
         "streak": 12,
-        "matches": 1796,
-        "playtime": 1289597259,
+        "matches": 1797,
+        "playtime": 1290162915,
         "finished": 618,
         "finishtime": 509177769,
         "won": 954,
-        "lost": 781,
+        "lost": 782,
         "forfeited": 96
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -2468,13 +2468,13 @@
         },
         "pb": 430515,
         "streak": 12,
-        "matches": 5550,
-        "playtime": 3435429620,
+        "matches": 5551,
+        "playtime": 3435943374,
         "finished": 2015,
         "finishtime": 1453105608,
         "won": 2832,
-        "lost": 2484,
-        "forfeited": 890
+        "lost": 2485,
+        "forfeited": 891
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "paraoka_boot",
@@ -3050,11 +3050,11 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8620,
-        "playtime": 5196951152,
-        "finished": 3599,
-        "finishtime": 2478788889,
-        "won": 4789,
+        "matches": 8621,
+        "playtime": 5197516808,
+        "finished": 3600,
+        "finishtime": 2479354545,
+        "won": 4790,
         "lost": 3638,
         "forfeited": 1187
     },
@@ -3938,7 +3938,7 @@
             "5": 2054,
             "6": 2230,
             "7": 2063,
-            "8": 1924
+            "8": 1931
         },
         "points": {
             "1": 0,
@@ -3952,11 +3952,11 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 2376,
-        "playtime": 1513176257,
+        "matches": 2377,
+        "playtime": 1513690011,
         "finished": 961,
         "finishtime": 691213619,
-        "won": 1299,
+        "won": 1300,
         "lost": 1022,
         "forfeited": 243
     },
