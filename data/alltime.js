@@ -936,7 +936,7 @@
             "5": 2018,
             "6": 2116,
             "7": 2283,
-            "8": 2085
+            "8": 2094
         },
         "points": {
             "2": 0,
@@ -949,11 +949,11 @@
         },
         "pb": 427487,
         "streak": 11,
-        "matches": 3847,
-        "playtime": 2280980315,
+        "matches": 3848,
+        "playtime": 2281179211,
         "finished": 1481,
         "finishtime": 988666506,
-        "won": 1947,
+        "won": 1948,
         "lost": 1688,
         "forfeited": 576
     },
@@ -1343,13 +1343,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6900,
-        "playtime": 4471329744,
+        "matches": 6901,
+        "playtime": 4471528640,
         "finished": 2381,
         "finishtime": 1807139785,
         "won": 3425,
-        "lost": 3228,
-        "forfeited": 1120
+        "lost": 3229,
+        "forfeited": 1121
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
