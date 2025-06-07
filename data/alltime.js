@@ -1506,13 +1506,13 @@
         },
         "pb": 494739,
         "streak": 9,
-        "matches": 1275,
-        "playtime": 881735695,
+        "matches": 1276,
+        "playtime": 882006165,
         "finished": 474,
         "finishtime": 371707453,
         "won": 699,
-        "lost": 550,
-        "forfeited": 132
+        "lost": 551,
+        "forfeited": 133
     },
     "478b956844414cba9cfccb2977b71962": {
         "nickname": "B0g0sB1nted",
@@ -4084,11 +4084,11 @@
         },
         "pb": 442968,
         "streak": 14,
-        "matches": 4154,
-        "playtime": 2557176838,
-        "finished": 1374,
-        "finishtime": 991249487,
-        "won": 2049,
+        "matches": 4155,
+        "playtime": 2557768218,
+        "finished": 1375,
+        "finishtime": 991840867,
+        "won": 2050,
         "lost": 1891,
         "forfeited": 819
     },
@@ -4373,33 +4373,6 @@
         "lost": 4280,
         "forfeited": 1042
     },
-    "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
-        "country": "tw",
-        "top": {
-            "4": 1087,
-            "5": 1388,
-            "6": 1636,
-            "7": 1902,
-            "8": 1795
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 4
-        },
-        "pb": 482356,
-        "streak": 14,
-        "matches": 6109,
-        "playtime": 3915899185,
-        "finished": 1641,
-        "finishtime": 1381356907,
-        "won": 3025,
-        "lost": 2910,
-        "forfeited": 1770
-    },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
         "country": "de",
@@ -4458,12 +4431,12 @@
         },
         "pb": 449055,
         "streak": 14,
-        "matches": 5766,
-        "playtime": 3609244325,
+        "matches": 5767,
+        "playtime": 3609835705,
         "finished": 2464,
         "finishtime": 1712577014,
         "won": 3136,
-        "lost": 2552,
+        "lost": 2553,
         "forfeited": 734
     },
     "e4cd494a4e0a423b9988618b86858c96": {
