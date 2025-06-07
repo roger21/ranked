@@ -565,11 +565,11 @@
         },
         "pb": 436863,
         "streak": 23,
-        "matches": 2603,
-        "playtime": 1607213145,
+        "matches": 2604,
+        "playtime": 1607405719,
         "finished": 1290,
         "finishtime": 845616940,
-        "won": 1644,
+        "won": 1645,
         "lost": 883,
         "forfeited": 60
     },
@@ -1999,11 +1999,11 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 5215,
-        "playtime": 3344567765,
-        "finished": 2007,
-        "finishtime": 1451608014,
-        "won": 2713,
+        "matches": 5216,
+        "playtime": 3345072535,
+        "finished": 2008,
+        "finishtime": 1452112784,
+        "won": 2714,
         "lost": 2388,
         "forfeited": 656
     },
@@ -2187,13 +2187,13 @@
         },
         "pb": 412371,
         "streak": 22,
-        "matches": 6184,
-        "playtime": 3585941758,
+        "matches": 6186,
+        "playtime": 3586639102,
         "finished": 2926,
         "finishtime": 1997517941,
         "won": 3850,
-        "lost": 2276,
-        "forfeited": 1063
+        "lost": 2278,
+        "forfeited": 1064
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -2435,11 +2435,11 @@
         },
         "pb": 486617,
         "streak": 10,
-        "matches": 2213,
-        "playtime": 1440767021,
+        "matches": 2214,
+        "playtime": 1441493100,
         "finished": 695,
         "finishtime": 536559676,
-        "won": 1101,
+        "won": 1102,
         "lost": 1005,
         "forfeited": 304
     },
@@ -4084,13 +4084,13 @@
         },
         "pb": 442968,
         "streak": 14,
-        "matches": 4157,
-        "playtime": 2558902338,
+        "matches": 4158,
+        "playtime": 2559628417,
         "finished": 1375,
         "finishtime": 991840867,
         "won": 2050,
-        "lost": 1893,
-        "forfeited": 819
+        "lost": 1894,
+        "forfeited": 820
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
@@ -4372,33 +4372,6 @@
         "won": 4548,
         "lost": 4280,
         "forfeited": 1042
-    },
-    "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
-        "country": "tw",
-        "top": {
-            "4": 1087,
-            "5": 1388,
-            "6": 1636,
-            "7": 1902,
-            "8": 1795
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 4
-        },
-        "pb": 482356,
-        "streak": 14,
-        "matches": 6109,
-        "playtime": 3915899185,
-        "finished": 1641,
-        "finishtime": 1381356907,
-        "won": 3025,
-        "lost": 2910,
-        "forfeited": 1770
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
