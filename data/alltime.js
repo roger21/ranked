@@ -63,6 +63,35 @@
         "lost": 2365,
         "forfeited": 548
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "L9_FOXGIRLPAWJOB",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 1859
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 408380,
+        "streak": 9,
+        "matches": 1255,
+        "playtime": 703724790,
+        "finished": 398,
+        "finishtime": 289995417,
+        "won": 626,
+        "lost": 575,
+        "forfeited": 384
+    },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "subdas",
         "country": "br",
@@ -3056,13 +3085,13 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 4849,
-        "playtime": 3063345757,
+        "matches": 4850,
+        "playtime": 3063640142,
         "finished": 1749,
         "finishtime": 1285378922,
         "won": 2427,
-        "lost": 2238,
-        "forfeited": 827
+        "lost": 2239,
+        "forfeited": 828
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -3160,39 +3189,6 @@
         "won": 1477,
         "lost": 1319,
         "forfeited": 641
-    },
-    "a0a672a0bc194540bc195220dc170dba": {
-        "nickname": "JackoWacko62",
-        "country": "us",
-        "top": {
-            "1": 1585,
-            "2": 1590,
-            "3": 1607,
-            "4": 1652,
-            "5": 1767,
-            "6": 1802,
-            "7": 1992,
-            "8": 1926
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 15,
-            "5": 10,
-            "6": 30,
-            "7": 35,
-            "8": 20
-        },
-        "pb": 424299,
-        "streak": 24,
-        "matches": 6818,
-        "playtime": 4091372417,
-        "finished": 2127,
-        "finishtime": 1598570820,
-        "won": 3367,
-        "lost": 3200,
-        "forfeited": 1748
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
