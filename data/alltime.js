@@ -1985,7 +1985,7 @@
             "5": 2011,
             "6": 2207,
             "7": 2230,
-            "8": 2053
+            "8": 2062
         },
         "points": {
             "1": 0,
@@ -1999,11 +1999,11 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 5221,
-        "playtime": 3347910356,
+        "matches": 5222,
+        "playtime": 3348180657,
         "finished": 2011,
         "finishtime": 1454024944,
-        "won": 2718,
+        "won": 2719,
         "lost": 2389,
         "forfeited": 656
     },
@@ -2239,7 +2239,7 @@
             "5": 1910,
             "6": 1857,
             "7": 2017,
-            "8": 1754
+            "8": 1774
         },
         "points": {
             "1": 0,
@@ -2253,11 +2253,11 @@
         },
         "pb": 483963,
         "streak": 12,
-        "matches": 1896,
-        "playtime": 1286808774,
-        "finished": 704,
-        "finishtime": 533618983,
-        "won": 1009,
+        "matches": 1897,
+        "playtime": 1287487175,
+        "finished": 705,
+        "finishtime": 534297384,
+        "won": 1010,
         "lost": 788,
         "forfeited": 26
     },
@@ -3149,11 +3149,11 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 4834,
-        "playtime": 3054311210,
-        "finished": 1743,
-        "finishtime": 1281492401,
-        "won": 2418,
+        "matches": 4835,
+        "playtime": 3054914618,
+        "finished": 1744,
+        "finishtime": 1282095809,
+        "won": 2419,
         "lost": 2232,
         "forfeited": 826
     },
@@ -4530,13 +4530,13 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 4858,
-        "playtime": 2697954683,
+        "matches": 4860,
+        "playtime": 2698903385,
         "finished": 1783,
         "finishtime": 1203623902,
         "won": 2482,
-        "lost": 2244,
-        "forfeited": 1383
+        "lost": 2246,
+        "forfeited": 1384
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
