@@ -2253,12 +2253,12 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2267,
-        "playtime": 1473422488,
+        "matches": 2268,
+        "playtime": 1474044596,
         "finished": 773,
         "finishtime": 614082087,
         "won": 1180,
-        "lost": 1025,
+        "lost": 1026,
         "forfeited": 414
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
@@ -4280,33 +4280,6 @@
         "lost": 4283,
         "forfeited": 1044
     },
-    "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
-        "country": "tw",
-        "top": {
-            "4": 1087,
-            "5": 1388,
-            "6": 1636,
-            "7": 1902,
-            "8": 1795
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 4
-        },
-        "pb": 482356,
-        "streak": 14,
-        "matches": 6109,
-        "playtime": 3915899185,
-        "finished": 1641,
-        "finishtime": 1381356907,
-        "won": 3025,
-        "lost": 2910,
-        "forfeited": 1770
-    },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
         "country": "de",
@@ -4643,5 +4616,28 @@
         "won": 2867,
         "lost": 2661,
         "forfeited": 789
+    },
+    "fe10b6edfc3a460a83d637fc8e008751": {
+        "nickname": "Mitthui",
+        "country": "vn",
+        "top": {
+            "6": 1402,
+            "7": 1731,
+            "8": 1828
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 4
+        },
+        "pb": 475192,
+        "streak": 8,
+        "matches": 2015,
+        "playtime": 1156391337,
+        "finished": 626,
+        "finishtime": 457687846,
+        "won": 1004,
+        "lost": 928,
+        "forfeited": 593
     }
 }
