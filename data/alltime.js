@@ -2034,7 +2034,7 @@
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
-        "country": null,
+        "country": "kr",
         "top": {
             "1": 1480,
             "2": 1656,
@@ -3948,11 +3948,11 @@
         },
         "pb": 548155,
         "streak": 15,
-        "matches": 1420,
-        "playtime": 990602812,
-        "finished": 453,
-        "finishtime": 372518240,
-        "won": 778,
+        "matches": 1421,
+        "playtime": 991409794,
+        "finished": 454,
+        "finishtime": 373325222,
+        "won": 779,
         "lost": 593,
         "forfeited": 185
     },
