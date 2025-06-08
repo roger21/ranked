@@ -885,11 +885,11 @@
         },
         "pb": 522167,
         "streak": 11,
-        "matches": 5402,
-        "playtime": 3987034828,
+        "matches": 5403,
+        "playtime": 3987606516,
         "finished": 1822,
         "finishtime": 1544334657,
-        "won": 2760,
+        "won": 2761,
         "lost": 2486,
         "forfeited": 244
     },
@@ -1935,13 +1935,13 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8030,
-        "playtime": 5087191218,
+        "matches": 8031,
+        "playtime": 5087531990,
         "finished": 2843,
         "finishtime": 2164590612,
         "won": 3991,
-        "lost": 3768,
-        "forfeited": 1370
+        "lost": 3769,
+        "forfeited": 1371
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
@@ -4272,13 +4272,40 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9343,
-        "playtime": 6087847949,
-        "finished": 3246,
-        "finishtime": 2425919963,
-        "won": 4551,
+        "matches": 9344,
+        "playtime": 6088667695,
+        "finished": 3247,
+        "finishtime": 2426739709,
+        "won": 4552,
         "lost": 4283,
         "forfeited": 1044
+    },
+    "dd5fbfd77b35431e97e8e0ec36817f29": {
+        "nickname": "Traden",
+        "country": "tw",
+        "top": {
+            "4": 1087,
+            "5": 1388,
+            "6": 1636,
+            "7": 1902,
+            "8": 1795
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 35,
+            "8": 4
+        },
+        "pb": 482356,
+        "streak": 14,
+        "matches": 6109,
+        "playtime": 3915899185,
+        "finished": 1641,
+        "finishtime": 1381356907,
+        "won": 3025,
+        "lost": 2910,
+        "forfeited": 1770
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
@@ -4338,11 +4365,11 @@
         },
         "pb": 449055,
         "streak": 14,
-        "matches": 5777,
-        "playtime": 3616546338,
+        "matches": 5778,
+        "playtime": 3616887110,
         "finished": 2467,
         "finishtime": 1714585524,
-        "won": 3139,
+        "won": 3140,
         "lost": 2560,
         "forfeited": 736
     },
@@ -4616,28 +4643,5 @@
         "won": 2867,
         "lost": 2661,
         "forfeited": 789
-    },
-    "fe10b6edfc3a460a83d637fc8e008751": {
-        "nickname": "Mitthui",
-        "country": "vn",
-        "top": {
-            "6": 1402,
-            "7": 1731,
-            "8": 1828
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 4
-        },
-        "pb": 475192,
-        "streak": 8,
-        "matches": 2013,
-        "playtime": 1155100567,
-        "finished": 625,
-        "finishtime": 456968764,
-        "won": 1003,
-        "lost": 927,
-        "forfeited": 592
     }
 }
