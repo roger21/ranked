@@ -1310,11 +1310,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6921,
-        "playtime": 4484405699,
-        "finished": 2394,
-        "finishtime": 1815319941,
-        "won": 3438,
+        "matches": 6922,
+        "playtime": 4485033466,
+        "finished": 2395,
+        "finishtime": 1815947708,
+        "won": 3439,
         "lost": 3236,
         "forfeited": 1123
     },
@@ -2057,13 +2057,13 @@
         },
         "pb": 572104,
         "streak": 8,
-        "matches": 866,
-        "playtime": 613983597,
+        "matches": 867,
+        "playtime": 614254050,
         "finished": 279,
         "finishtime": 253594988,
         "won": 444,
-        "lost": 367,
-        "forfeited": 128
+        "lost": 368,
+        "forfeited": 129
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
         "nickname": "7rowl",
@@ -3948,12 +3948,12 @@
         },
         "pb": 548155,
         "streak": 15,
-        "matches": 1424,
-        "playtime": 993022564,
+        "matches": 1425,
+        "playtime": 993602661,
         "finished": 455,
         "finishtime": 373916513,
         "won": 781,
-        "lost": 594,
+        "lost": 595,
         "forfeited": 185
     },
     "c670041ed84c480cab4a6ee904905b5f": {
@@ -4632,12 +4632,12 @@
         },
         "pb": 475192,
         "streak": 8,
-        "matches": 2007,
-        "playtime": 1151313015,
+        "matches": 2008,
+        "playtime": 1151940782,
         "finished": 623,
         "finishtime": 455591165,
         "won": 1001,
-        "lost": 923,
+        "lost": 924,
         "forfeited": 591
     }
 }
