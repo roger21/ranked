@@ -871,7 +871,7 @@
             "5": 1784,
             "6": 1837,
             "7": 1873,
-            "8": 1674
+            "8": 1676
         },
         "points": {
             "1": 0,
@@ -885,11 +885,11 @@
         },
         "pb": 522167,
         "streak": 11,
-        "matches": 5398,
-        "playtime": 3984250880,
-        "finished": 1821,
-        "finishtime": 1543642136,
-        "won": 2759,
+        "matches": 5399,
+        "playtime": 3984943401,
+        "finished": 1822,
+        "finishtime": 1544334657,
+        "won": 2760,
         "lost": 2483,
         "forfeited": 244
     },
@@ -1310,11 +1310,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 6922,
-        "playtime": 4485033466,
+        "matches": 6923,
+        "playtime": 4485648726,
         "finished": 2395,
         "finishtime": 1815947708,
-        "won": 3439,
+        "won": 3440,
         "lost": 3236,
         "forfeited": 1123
     },
@@ -1935,11 +1935,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8026,
-        "playtime": 5084027216,
-        "finished": 2840,
-        "finishtime": 2162861886,
-        "won": 3988,
+        "matches": 8027,
+        "playtime": 5084575713,
+        "finished": 2841,
+        "finishtime": 2163410383,
+        "won": 3989,
         "lost": 3767,
         "forfeited": 1370
     },
@@ -2057,13 +2057,13 @@
         },
         "pb": 572104,
         "streak": 8,
-        "matches": 868,
-        "playtime": 614774066,
+        "matches": 869,
+        "playtime": 615047006,
         "finished": 279,
         "finishtime": 253594988,
         "won": 445,
-        "lost": 368,
-        "forfeited": 129
+        "lost": 369,
+        "forfeited": 130
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
         "nickname": "7rowl",
@@ -4338,13 +4338,13 @@
         },
         "pb": 449055,
         "streak": 14,
-        "matches": 5773,
-        "playtime": 3613857898,
+        "matches": 5774,
+        "playtime": 3614473158,
         "finished": 2466,
         "finishtime": 1713781883,
         "won": 3138,
-        "lost": 2557,
-        "forfeited": 735
+        "lost": 2558,
+        "forfeited": 736
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
@@ -4632,12 +4632,12 @@
         },
         "pb": 475192,
         "streak": 8,
-        "matches": 2008,
-        "playtime": 1151940782,
+        "matches": 2009,
+        "playtime": 1152489279,
         "finished": 623,
         "finishtime": 455591165,
         "won": 1001,
-        "lost": 924,
+        "lost": 925,
         "forfeited": 591
     }
 }
