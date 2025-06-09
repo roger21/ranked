@@ -212,11 +212,11 @@
         },
         "pb": 429968,
         "streak": 12,
-        "matches": 3575,
-        "playtime": 2370202274,
+        "matches": 3576,
+        "playtime": 2370472585,
         "finished": 1330,
         "finishtime": 995996657,
-        "won": 1803,
+        "won": 1804,
         "lost": 1636,
         "forfeited": 372
     },
@@ -4576,27 +4576,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f2061f886c254191871f635dc2ce80b9": {
-        "nickname": "iluappi",
-        "country": null,
-        "top": {
-            "4": 0,
-            "8": 1742
-        },
-        "points": {
-            "4": 0,
-            "8": 0
-        },
-        "pb": 465188,
-        "streak": 8,
-        "matches": 115,
-        "playtime": 76177270,
-        "finished": 46,
-        "finishtime": 33571131,
-        "won": 70,
-        "lost": 36,
-        "forfeited": 0
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
