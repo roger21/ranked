@@ -1473,11 +1473,11 @@
         },
         "pb": 494739,
         "streak": 9,
-        "matches": 1299,
-        "playtime": 894473984,
-        "finished": 480,
-        "finishtime": 375696152,
-        "won": 709,
+        "matches": 1300,
+        "playtime": 895230992,
+        "finished": 481,
+        "finishtime": 376453160,
+        "won": 710,
         "lost": 563,
         "forfeited": 137
     },
@@ -2823,13 +2823,13 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1976,
-        "playtime": 1218410844,
+        "matches": 1977,
+        "playtime": 1219076116,
         "finished": 793,
         "finishtime": 541796941,
         "won": 1079,
-        "lost": 814,
-        "forfeited": 161
+        "lost": 815,
+        "forfeited": 162
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
         "nickname": "Mar1n",
@@ -3793,13 +3793,13 @@
         },
         "pb": 532794,
         "streak": 11,
-        "matches": 2767,
-        "playtime": 2054760080,
+        "matches": 2768,
+        "playtime": 2055327239,
         "finished": 930,
         "finishtime": 821592721,
         "won": 1441,
-        "lost": 1254,
-        "forfeited": 324
+        "lost": 1255,
+        "forfeited": 325
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
         "nickname": "romuxii",
@@ -4102,7 +4102,7 @@
             "5": 1733,
             "6": 1980,
             "7": 2038,
-            "8": 1861
+            "8": 1871
         },
         "points": {
             "2": 0,
@@ -4115,11 +4115,11 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3718,
-        "playtime": 2639527899,
+        "matches": 3719,
+        "playtime": 2640193171,
         "finished": 1186,
         "finishtime": 956111131,
-        "won": 1851,
+        "won": 1852,
         "lost": 1737,
         "forfeited": 220
     },
