@@ -96,35 +96,6 @@
         "lost": 660,
         "forfeited": 170
     },
-    "070d5851c46a4a2da91e6ddfdb741d7f": {
-        "nickname": "Squitsy",
-        "country": "no",
-        "top": {
-            "3": 1240,
-            "4": 1607,
-            "5": 1611,
-            "6": 1685,
-            "7": 1721,
-            "8": 1738
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 25,
-            "8": 4
-        },
-        "pb": 520357,
-        "streak": 13,
-        "matches": 3998,
-        "playtime": 3069151906,
-        "finished": 1113,
-        "finishtime": 993604212,
-        "won": 1919,
-        "lost": 1821,
-        "forfeited": 261
-    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -212,12 +183,12 @@
         },
         "pb": 429968,
         "streak": 12,
-        "matches": 3605,
-        "playtime": 2387754180,
+        "matches": 3606,
+        "playtime": 2388343069,
         "finished": 1343,
         "finishtime": 1003978407,
         "won": 1822,
-        "lost": 1644,
+        "lost": 1645,
         "forfeited": 372
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
