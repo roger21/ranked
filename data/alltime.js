@@ -198,7 +198,7 @@
             "5": 2065,
             "6": 2126,
             "7": 1574,
-            "8": 1886
+            "8": 1899
         },
         "points": {
             "1": 0,
@@ -212,11 +212,11 @@
         },
         "pb": 429968,
         "streak": 12,
-        "matches": 3601,
-        "playtime": 2385205176,
-        "finished": 1342,
-        "finishtime": 1003445975,
-        "won": 1820,
+        "matches": 3602,
+        "playtime": 2385737608,
+        "finished": 1343,
+        "finishtime": 1003978407,
+        "won": 1821,
         "lost": 1642,
         "forfeited": 372
     },
@@ -1484,7 +1484,7 @@
             "5": 1817,
             "6": 1755,
             "7": 1764,
-            "8": 1537
+            "8": 1549
         },
         "points": {
             "1": 0,
@@ -1498,11 +1498,11 @@
         },
         "pb": 479650,
         "streak": 12,
-        "matches": 1928,
-        "playtime": 1334104664,
+        "matches": 1929,
+        "playtime": 1334399205,
         "finished": 686,
         "finishtime": 564328639,
-        "won": 1028,
+        "won": 1029,
         "lost": 839,
         "forfeited": 215
     },
@@ -1630,13 +1630,13 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2352,
-        "playtime": 1486650081,
+        "matches": 2353,
+        "playtime": 1487137823,
         "finished": 823,
         "finishtime": 648153959,
         "won": 1250,
-        "lost": 1049,
-        "forfeited": 679
+        "lost": 1050,
+        "forfeited": 680
     },
     "48d9df3377554043ba39a8500c7ad702": {
         "nickname": "tenes49",
@@ -4576,12 +4576,12 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 4875,
-        "playtime": 2707497194,
+        "matches": 4876,
+        "playtime": 2708163451,
         "finished": 1791,
         "finishtime": 1208687101,
         "won": 2490,
-        "lost": 2252,
+        "lost": 2253,
         "forfeited": 1387
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
