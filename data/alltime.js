@@ -96,6 +96,35 @@
         "lost": 655,
         "forfeited": 170
     },
+    "070d5851c46a4a2da91e6ddfdb741d7f": {
+        "nickname": "Squitsy",
+        "country": "no",
+        "top": {
+            "3": 1240,
+            "4": 1607,
+            "5": 1611,
+            "6": 1685,
+            "7": 1721,
+            "8": 1738
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 25,
+            "8": 4
+        },
+        "pb": 520357,
+        "streak": 13,
+        "matches": 3998,
+        "playtime": 3069151906,
+        "finished": 1113,
+        "finishtime": 993604212,
+        "won": 1919,
+        "lost": 1821,
+        "forfeited": 261
+    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -2026,11 +2055,11 @@
         },
         "pb": 428921,
         "streak": 17,
-        "matches": 2582,
-        "playtime": 1514652133,
-        "finished": 1118,
-        "finishtime": 727774984,
-        "won": 1402,
+        "matches": 2583,
+        "playtime": 1515172403,
+        "finished": 1119,
+        "finishtime": 728295254,
+        "won": 1403,
         "lost": 1115,
         "forfeited": 302
     },
@@ -2406,12 +2435,12 @@
         },
         "pb": 430515,
         "streak": 12,
-        "matches": 5580,
-        "playtime": 3453358309,
+        "matches": 5581,
+        "playtime": 3453878579,
         "finished": 2032,
         "finishtime": 1463223600,
         "won": 2850,
-        "lost": 2496,
+        "lost": 2497,
         "forfeited": 892
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
@@ -2988,12 +3017,12 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8641,
-        "playtime": 5210254096,
+        "matches": 8642,
+        "playtime": 5211049131,
         "finished": 3606,
         "finishtime": 2483255935,
         "won": 4796,
-        "lost": 3649,
+        "lost": 3650,
         "forfeited": 1187
     },
     "939ddf85303441de901d60bfa4109318": {
