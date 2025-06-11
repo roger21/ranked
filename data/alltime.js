@@ -1343,13 +1343,13 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1270,
-        "playtime": 756977605,
+        "matches": 1271,
+        "playtime": 757399014,
         "finished": 524,
         "finishtime": 368625940,
         "won": 682,
-        "lost": 567,
-        "forfeited": 305
+        "lost": 568,
+        "forfeited": 306
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okrzej_",
@@ -1640,11 +1640,11 @@
         },
         "pb": 448567,
         "streak": 10,
-        "matches": 1662,
-        "playtime": 1103505739,
+        "matches": 1663,
+        "playtime": 1103927148,
         "finished": 591,
         "finishtime": 439923985,
-        "won": 879,
+        "won": 880,
         "lost": 727,
         "forfeited": 117
     },
