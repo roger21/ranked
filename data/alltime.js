@@ -88,12 +88,12 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 1543,
-        "playtime": 1036260935,
+        "matches": 1544,
+        "playtime": 1036994862,
         "finished": 534,
         "finishtime": 426951266,
         "won": 814,
-        "lost": 660,
+        "lost": 661,
         "forfeited": 170
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -2988,12 +2988,12 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8662,
-        "playtime": 5222821892,
+        "matches": 8663,
+        "playtime": 5223476747,
         "finished": 3616,
         "finishtime": 2489179931,
         "won": 4809,
-        "lost": 3656,
+        "lost": 3657,
         "forfeited": 1187
     },
     "939ddf85303441de901d60bfa4109318": {
@@ -3054,11 +3054,11 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3566,
-        "playtime": 2377483021,
-        "finished": 1172,
-        "finishtime": 915203762,
-        "won": 1814,
+        "matches": 3567,
+        "playtime": 2378137876,
+        "finished": 1173,
+        "finishtime": 915858617,
+        "won": 1815,
         "lost": 1663,
         "forfeited": 579
     },
@@ -3191,37 +3191,6 @@
         "won": 1477,
         "lost": 1319,
         "forfeited": 641
-    },
-    "a00913f1079c4b0c9d68d32f57dfbe73": {
-        "nickname": "sevensix_",
-        "country": "hk",
-        "top": {
-            "1": 1248,
-            "2": 1108,
-            "4": 1637,
-            "5": 1710,
-            "6": 1892,
-            "7": 2028,
-            "8": 1919
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 10,
-            "5": 10,
-            "6": 20,
-            "7": 30,
-            "8": 0
-        },
-        "pb": 448289,
-        "streak": 13,
-        "matches": 5040,
-        "playtime": 3053719039,
-        "finished": 1597,
-        "finishtime": 1202272785,
-        "won": 2446,
-        "lost": 2325,
-        "forfeited": 1255
     },
     "a0a672a0bc194540bc195220dc170dba": {
         "nickname": "JackoWacko62",
