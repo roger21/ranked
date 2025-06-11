@@ -4621,27 +4621,6 @@
         "lost": 288,
         "forfeited": 45
     },
-    "f2061f886c254191871f635dc2ce80b9": {
-        "nickname": "iluappi",
-        "country": null,
-        "top": {
-            "4": 0,
-            "8": 1771
-        },
-        "points": {
-            "4": 0,
-            "8": 0
-        },
-        "pb": 465188,
-        "streak": 9,
-        "matches": 116,
-        "playtime": 76755773,
-        "finished": 47,
-        "finishtime": 34149634,
-        "won": 71,
-        "lost": 36,
-        "forfeited": 0
-    },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
         "country": "au",
