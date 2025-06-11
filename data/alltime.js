@@ -1312,13 +1312,13 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1262,
-        "playtime": 753154024,
+        "matches": 1264,
+        "playtime": 753986916,
         "finished": 522,
         "finishtime": 367249571,
         "won": 679,
-        "lost": 562,
-        "forfeited": 301
+        "lost": 564,
+        "forfeited": 302
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okrzej_",
@@ -2406,13 +2406,13 @@
         },
         "pb": 430515,
         "streak": 12,
-        "matches": 5595,
-        "playtime": 3461917083,
+        "matches": 5596,
+        "playtime": 3462637833,
         "finished": 2039,
         "finishtime": 1467343830,
         "won": 2858,
-        "lost": 2503,
-        "forfeited": 892
+        "lost": 2504,
+        "forfeited": 893
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "paraoka_boot",
@@ -3683,7 +3683,7 @@
             "5": 1461,
             "6": 1697,
             "7": 1854,
-            "8": 1758
+            "8": 1788
         },
         "points": {
             "4": 0,
@@ -3694,11 +3694,11 @@
         },
         "pb": 481329,
         "streak": 13,
-        "matches": 4125,
-        "playtime": 2645776460,
-        "finished": 1110,
-        "finishtime": 898854634,
-        "won": 1992,
+        "matches": 4127,
+        "playtime": 2646676886,
+        "finished": 1111,
+        "finishtime": 899497278,
+        "won": 1994,
         "lost": 1902,
         "forfeited": 792
     },
@@ -4105,11 +4105,11 @@
         },
         "pb": 425033,
         "streak": 27,
-        "matches": 2824,
-        "playtime": 1623829482,
-        "finished": 873,
-        "finishtime": 663850244,
-        "won": 1400,
+        "matches": 2825,
+        "playtime": 1624404592,
+        "finished": 874,
+        "finishtime": 664425354,
+        "won": 1401,
         "lost": 1300,
         "forfeited": 835
     },
