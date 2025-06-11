@@ -412,31 +412,6 @@
         "lost": 1466,
         "forfeited": 395
     },
-    "132807fea3a54a02b6b1ad057430b002": {
-        "nickname": "Master_TaiLung",
-        "country": "de",
-        "top": {
-            "5": 1301,
-            "6": 1703,
-            "7": 1812,
-            "8": 1751
-        },
-        "points": {
-            "5": 0,
-            "6": 25,
-            "7": 40,
-            "8": 7
-        },
-        "pb": 499583,
-        "streak": 12,
-        "matches": 3608,
-        "playtime": 2419059618,
-        "finished": 1037,
-        "finishtime": 852849269,
-        "won": 1790,
-        "lost": 1674,
-        "forfeited": 698
-    },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
         "country": null,
@@ -3013,11 +2988,11 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8653,
-        "playtime": 5217713208,
-        "finished": 3611,
-        "finishtime": 2486095418,
-        "won": 4801,
+        "matches": 8654,
+        "playtime": 5218302538,
+        "finished": 3612,
+        "finishtime": 2486684748,
+        "won": 4802,
         "lost": 3655,
         "forfeited": 1187
     },
@@ -3079,12 +3054,12 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3558,
-        "playtime": 2372815819,
+        "matches": 3559,
+        "playtime": 2373491309,
         "finished": 1168,
         "finishtime": 912545607,
         "won": 1809,
-        "lost": 1660,
+        "lost": 1661,
         "forfeited": 578
     },
     "99aa9e0e8034479a90259e244dfb9029": {
