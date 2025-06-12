@@ -63,35 +63,6 @@
         "lost": 2365,
         "forfeited": 548
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLPAWJOB",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 1859
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 408380,
-        "streak": 9,
-        "matches": 1331,
-        "playtime": 749663706,
-        "finished": 431,
-        "finishtime": 311653223,
-        "won": 665,
-        "lost": 611,
-        "forfeited": 391
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -2602,6 +2573,39 @@
         "lost": 292,
         "forfeited": 141
     },
+    "817a3f2e92da42ab89c64a787ce16d28": {
+        "nickname": "Voxio",
+        "country": "fr",
+        "top": {
+            "1": 1542,
+            "2": 1424,
+            "3": 1550,
+            "4": 1605,
+            "5": 1663,
+            "6": 1908,
+            "7": 1899,
+            "8": 1831
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 20,
+            "8": 0
+        },
+        "pb": 470792,
+        "streak": 22,
+        "matches": 6221,
+        "playtime": 4078169001,
+        "finished": 1882,
+        "finishtime": 1541354353,
+        "won": 3055,
+        "lost": 2920,
+        "forfeited": 1429
+    },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
         "country": null,
@@ -4134,13 +4138,13 @@
         },
         "pb": 425033,
         "streak": 27,
-        "matches": 2832,
-        "playtime": 1627902987,
+        "matches": 2833,
+        "playtime": 1628270109,
         "finished": 877,
         "finishtime": 666340744,
         "won": 1406,
-        "lost": 1302,
-        "forfeited": 836
+        "lost": 1303,
+        "forfeited": 837
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
@@ -4375,7 +4379,7 @@
             "5": 1388,
             "6": 1636,
             "7": 1902,
-            "8": 1813
+            "8": 1820
         },
         "points": {
             "4": 0,
@@ -4386,11 +4390,11 @@
         },
         "pb": 482356,
         "streak": 14,
-        "matches": 6155,
-        "playtime": 3947898456,
+        "matches": 6156,
+        "playtime": 3948241921,
         "finished": 1662,
         "finishtime": 1396624813,
-        "won": 3049,
+        "won": 3050,
         "lost": 2930,
         "forfeited": 1770
     },
