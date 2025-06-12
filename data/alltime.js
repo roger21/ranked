@@ -1444,13 +1444,13 @@
         },
         "pb": 473590,
         "streak": 9,
-        "matches": 1331,
-        "playtime": 914414422,
+        "matches": 1333,
+        "playtime": 915279359,
         "finished": 497,
         "finishtime": 387564446,
         "won": 731,
-        "lost": 573,
-        "forfeited": 140
+        "lost": 575,
+        "forfeited": 141
     },
     "478b956844414cba9cfccb2977b71962": {
         "nickname": "B0g0sB1nted",
@@ -2761,11 +2761,11 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 1984,
-        "playtime": 1223165760,
+        "matches": 1985,
+        "playtime": 1223436260,
         "finished": 795,
         "finishtime": 543004568,
-        "won": 1083,
+        "won": 1084,
         "lost": 818,
         "forfeited": 163
     },
@@ -4169,13 +4169,13 @@
         },
         "pb": 549893,
         "streak": 13,
-        "matches": 659,
-        "playtime": 504106356,
+        "matches": 660,
+        "playtime": 504412571,
         "finished": 235,
         "finishtime": 201870615,
         "won": 364,
-        "lost": 282,
-        "forfeited": 31
+        "lost": 283,
+        "forfeited": 32
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
         "nickname": "boosterruns",
@@ -4591,6 +4591,39 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
+    },
+    "f2e05ad464b54d288fa18da14e9a2786": {
+        "nickname": "LEC666888",
+        "country": "cn",
+        "top": {
+            "1": 1161,
+            "2": 1536,
+            "3": 1419,
+            "4": 1558,
+            "5": 1627,
+            "6": 1849,
+            "7": 1951,
+            "8": 1823
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "6": 30,
+            "7": 5,
+            "8": 8
+        },
+        "pb": 433890,
+        "streak": 16,
+        "matches": 6646,
+        "playtime": 4000721012,
+        "finished": 2146,
+        "finishtime": 1675476954,
+        "won": 3299,
+        "lost": 3054,
+        "forfeited": 1544
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
