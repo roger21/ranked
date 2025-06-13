@@ -1572,13 +1572,13 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2380,
-        "playtime": 1504750250,
+        "matches": 2382,
+        "playtime": 1505661426,
         "finished": 831,
         "finishtime": 654301530,
         "won": 1262,
-        "lost": 1063,
-        "forfeited": 689
+        "lost": 1065,
+        "forfeited": 690
     },
     "48d9df3377554043ba39a8500c7ad702": {
         "nickname": "tenes49",
@@ -2660,8 +2660,8 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 2835,
-        "playtime": 1925737291,
+        "matches": 2836,
+        "playtime": 1926505535,
         "finished": 785,
         "finishtime": 673673002,
         "won": 1394,
