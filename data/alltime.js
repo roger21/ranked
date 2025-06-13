@@ -2121,13 +2121,13 @@
         },
         "pb": 572104,
         "streak": 8,
-        "matches": 878,
-        "playtime": 621801695,
+        "matches": 879,
+        "playtime": 621811375,
         "finished": 283,
         "finishtime": 257133870,
         "won": 449,
-        "lost": 374,
-        "forfeited": 133
+        "lost": 375,
+        "forfeited": 134
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
         "nickname": "7rowl",
@@ -4264,12 +4264,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5636,
-        "playtime": 3724961680,
+        "matches": 5637,
+        "playtime": 3725545596,
         "finished": 1745,
         "finishtime": 1352427576,
         "won": 2770,
-        "lost": 2589,
+        "lost": 2590,
         "forfeited": 838
     },
     "da1d85337d244f789d60b009e1e2b346": {
