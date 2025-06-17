@@ -63,6 +63,35 @@
         "lost": 2377,
         "forfeited": 556
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "L9_FOXGIRLPAWJOB",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 1878
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 379698,
+        "streak": 9,
+        "matches": 1462,
+        "playtime": 827278501,
+        "finished": 485,
+        "finishtime": 347574798,
+        "won": 730,
+        "lost": 670,
+        "forfeited": 411
+    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -854,12 +883,12 @@
         },
         "pb": 427487,
         "streak": 11,
-        "matches": 3930,
-        "playtime": 2330837637,
+        "matches": 3931,
+        "playtime": 2331259002,
         "finished": 1515,
         "finishtime": 1009796494,
         "won": 1991,
-        "lost": 1725,
+        "lost": 1726,
         "forfeited": 576
     },
     "2f59967f6a7841ab840e2cb032589a04": {
@@ -1213,13 +1242,13 @@
             "7": 125,
             "8": 50
         },
-        "pb": 432734,
+        "pb": 421365,
         "streak": 29,
-        "matches": 3255,
-        "playtime": 1995190152,
-        "finished": 1842,
-        "finishtime": 1189019378,
-        "won": 2300,
+        "matches": 3256,
+        "playtime": 1995611517,
+        "finished": 1843,
+        "finishtime": 1189440743,
+        "won": 2301,
         "lost": 862,
         "forfeited": 32
     },
