@@ -1642,12 +1642,12 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 2984,
-        "playtime": 2205102246,
+        "matches": 2985,
+        "playtime": 2205933749,
         "finished": 913,
         "finishtime": 810509533,
         "won": 1512,
-        "lost": 1339,
+        "lost": 1340,
         "forfeited": 270
     },
     "4cf401d7b9474756b06a653867d22fca": {
@@ -1793,7 +1793,7 @@
             "5": 1444,
             "6": 1868,
             "7": 1704,
-            "8": 1608
+            "8": 1619
         },
         "points": {
             "1": 0,
@@ -1807,11 +1807,11 @@
         },
         "pb": 491809,
         "streak": 19,
-        "matches": 905,
-        "playtime": 581496024,
+        "matches": 906,
+        "playtime": 581760097,
         "finished": 350,
         "finishtime": 262147275,
-        "won": 530,
+        "won": 531,
         "lost": 353,
         "forfeited": 113
     },
@@ -2926,12 +2926,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5738,
-        "playtime": 3910241672,
+        "matches": 5739,
+        "playtime": 3910858920,
         "finished": 1866,
         "finishtime": 1508856413,
         "won": 2875,
-        "lost": 2699,
+        "lost": 2700,
         "forfeited": 676
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -3729,11 +3729,11 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 2607,
-        "playtime": 1664384928,
-        "finished": 874,
-        "finishtime": 653402533,
-        "won": 1319,
+        "matches": 2608,
+        "playtime": 1664947824,
+        "finished": 875,
+        "finishtime": 653965429,
+        "won": 1320,
         "lost": 1187,
         "forfeited": 393
     },
@@ -3769,39 +3769,6 @@
         "won": 1926,
         "lost": 1129,
         "forfeited": 315
-    },
-    "b0dea0d890de4eecb781481130c3c1d1": {
-        "nickname": "Mixray_",
-        "country": "pl",
-        "top": {
-            "1": 1732,
-            "2": 1580,
-            "3": 1506,
-            "4": 1600,
-            "5": 1524,
-            "6": 1433,
-            "7": 1651,
-            "8": 1770
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 5,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 8
-        },
-        "pb": 411585,
-        "streak": 12,
-        "matches": 713,
-        "playtime": 483064770,
-        "finished": 239,
-        "finishtime": 191013889,
-        "won": 394,
-        "lost": 289,
-        "forfeited": 63
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "GiratinaEX",
