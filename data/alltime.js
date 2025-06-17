@@ -1807,13 +1807,13 @@
         },
         "pb": 491809,
         "streak": 19,
-        "matches": 907,
-        "playtime": 582258261,
+        "matches": 908,
+        "playtime": 582604967,
         "finished": 350,
         "finishtime": 262147275,
         "won": 531,
-        "lost": 354,
-        "forfeited": 114
+        "lost": 355,
+        "forfeited": 115
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
