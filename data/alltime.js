@@ -3729,12 +3729,12 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 2587,
-        "playtime": 1651513240,
+        "matches": 2588,
+        "playtime": 1652078814,
         "finished": 861,
         "finishtime": 644955852,
         "won": 1305,
-        "lost": 1181,
+        "lost": 1182,
         "forfeited": 393
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
@@ -4679,11 +4679,11 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 4953,
-        "playtime": 2754130987,
+        "matches": 4954,
+        "playtime": 2754690507,
         "finished": 1824,
         "finishtime": 1229605151,
-        "won": 2528,
+        "won": 2529,
         "lost": 2287,
         "forfeited": 1399
     },
@@ -4778,13 +4778,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2304,
-        "playtime": 1551520284,
+        "matches": 2305,
+        "playtime": 1552079804,
         "finished": 840,
         "finishtime": 678780945,
         "won": 1255,
-        "lost": 1011,
-        "forfeited": 370
+        "lost": 1012,
+        "forfeited": 371
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
