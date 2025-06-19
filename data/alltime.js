@@ -1143,11 +1143,11 @@
         },
         "pb": 467689,
         "streak": 22,
-        "matches": 1374,
-        "playtime": 904998406,
+        "matches": 1375,
+        "playtime": 905614433,
         "finished": 529,
         "finishtime": 399673061,
-        "won": 735,
+        "won": 736,
         "lost": 583,
         "forfeited": 136
     },
@@ -4334,13 +4334,13 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5760,
-        "playtime": 3798558692,
+        "matches": 5761,
+        "playtime": 3799174719,
         "finished": 1788,
         "finishtime": 1381564410,
         "won": 2828,
-        "lost": 2649,
-        "forfeited": 862
+        "lost": 2650,
+        "forfeited": 863
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
@@ -4489,12 +4489,12 @@
         },
         "pb": 489021,
         "streak": 10,
-        "matches": 2056,
-        "playtime": 1497043066,
+        "matches": 2057,
+        "playtime": 1497681890,
         "finished": 724,
         "finishtime": 604713927,
         "won": 1094,
-        "lost": 924,
+        "lost": 925,
         "forfeited": 102
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
