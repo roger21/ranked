@@ -691,12 +691,12 @@
         },
         "pb": 467855,
         "streak": 11,
-        "matches": 3201,
-        "playtime": 2091569191,
+        "matches": 3202,
+        "playtime": 2092233433,
         "finished": 1222,
         "finishtime": 889079284,
         "won": 1700,
-        "lost": 1435,
+        "lost": 1436,
         "forfeited": 149
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -1312,12 +1312,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7145,
-        "playtime": 4617661071,
+        "matches": 7146,
+        "playtime": 4618266805,
         "finished": 2493,
         "finishtime": 1879847192,
         "won": 3552,
-        "lost": 3342,
+        "lost": 3343,
         "forfeited": 1151
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -1376,12 +1376,12 @@
         },
         "pb": 455813,
         "streak": 11,
-        "matches": 3019,
-        "playtime": 2103219306,
+        "matches": 3020,
+        "playtime": 2103956709,
         "finished": 1011,
         "finishtime": 811585593,
         "won": 1522,
-        "lost": 1351,
+        "lost": 1352,
         "forfeited": 203
     },
     "43a6669e11474827802de8401a373169": {
@@ -2635,13 +2635,13 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 2860,
-        "playtime": 1943437263,
+        "matches": 2861,
+        "playtime": 1944246118,
         "finished": 791,
         "finishtime": 679087162,
         "won": 1404,
-        "lost": 1313,
-        "forfeited": 561
+        "lost": 1314,
+        "forfeited": 562
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "KARATEBABY_",
@@ -3258,6 +3258,39 @@
         "lost": 2334,
         "forfeited": 1257
     },
+    "a0a672a0bc194540bc195220dc170dba": {
+        "nickname": "JackoWacko62",
+        "country": "us",
+        "top": {
+            "1": 1585,
+            "2": 1590,
+            "3": 1607,
+            "4": 1652,
+            "5": 1767,
+            "6": 1802,
+            "7": 1992,
+            "8": 1926
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 15,
+            "5": 10,
+            "6": 30,
+            "7": 35,
+            "8": 20
+        },
+        "pb": 424299,
+        "streak": 24,
+        "matches": 6876,
+        "playtime": 4127322439,
+        "finished": 2150,
+        "finishtime": 1613012449,
+        "won": 3397,
+        "lost": 3225,
+        "forfeited": 1748
+    },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
         "country": null,
@@ -3686,7 +3719,7 @@
             "5": 1873,
             "6": 2018,
             "7": 2171,
-            "8": 1887
+            "8": 1909
         },
         "points": {
             "1": 0,
@@ -3700,11 +3733,11 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 3113,
-        "playtime": 1986715784,
-        "finished": 1441,
-        "finishtime": 1044872537,
-        "won": 1931,
+        "matches": 3114,
+        "playtime": 1987453187,
+        "finished": 1442,
+        "finishtime": 1045609940,
+        "won": 1932,
         "lost": 1131,
         "forfeited": 315
     },
@@ -3950,12 +3983,12 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4626,
-        "playtime": 2638127241,
+        "matches": 4627,
+        "playtime": 2638792720,
         "finished": 1974,
         "finishtime": 1326492086,
         "won": 2570,
-        "lost": 1888,
+        "lost": 1889,
         "forfeited": 1085
     },
     "be7a79f3331042f19c07230752b26725": {
