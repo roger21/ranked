@@ -1376,11 +1376,11 @@
         },
         "pb": 455813,
         "streak": 11,
-        "matches": 3017,
-        "playtime": 2101952798,
-        "finished": 1009,
-        "finishtime": 810319085,
-        "won": 1520,
+        "matches": 3018,
+        "playtime": 2102557861,
+        "finished": 1010,
+        "finishtime": 810924148,
+        "won": 1521,
         "lost": 1351,
         "forfeited": 203
     },
@@ -1739,12 +1739,12 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3225,
-        "playtime": 2124565569,
+        "matches": 3226,
+        "playtime": 2125322314,
         "finished": 1296,
         "finishtime": 955029722,
         "won": 1740,
-        "lost": 1415,
+        "lost": 1416,
         "forfeited": 299
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -2635,13 +2635,13 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 2857,
-        "playtime": 1941842197,
+        "matches": 2858,
+        "playtime": 1942648624,
         "finished": 791,
         "finishtime": 679087162,
         "won": 1404,
-        "lost": 1310,
-        "forfeited": 558
+        "lost": 1311,
+        "forfeited": 559
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "KARATEBABY_",
@@ -3089,13 +3089,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3659,
-        "playtime": 2434405818,
+        "matches": 3660,
+        "playtime": 2434722431,
         "finished": 1199,
         "finishtime": 934439587,
         "won": 1857,
-        "lost": 1710,
-        "forfeited": 595
+        "lost": 1711,
+        "forfeited": 596
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -3686,7 +3686,7 @@
             "5": 1873,
             "6": 2018,
             "7": 2171,
-            "8": 1852
+            "8": 1875
         },
         "points": {
             "1": 0,
@@ -3700,11 +3700,11 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 3110,
-        "playtime": 1984793477,
-        "finished": 1439,
-        "finishtime": 1043560339,
-        "won": 1929,
+        "matches": 3111,
+        "playtime": 1985550222,
+        "finished": 1440,
+        "finishtime": 1044317084,
+        "won": 1930,
         "lost": 1131,
         "forfeited": 315
     },
