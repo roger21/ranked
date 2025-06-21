@@ -55,13 +55,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5125,
-        "playtime": 3432683848,
+        "matches": 5126,
+        "playtime": 3433064696,
         "finished": 1720,
         "finishtime": 1339830749,
         "won": 2556,
-        "lost": 2403,
-        "forfeited": 574
+        "lost": 2404,
+        "forfeited": 575
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -920,11 +920,11 @@
         },
         "pb": 519000,
         "streak": 15,
-        "matches": 845,
-        "playtime": 596906793,
-        "finished": 334,
-        "finishtime": 268960286,
-        "won": 494,
+        "matches": 846,
+        "playtime": 597674679,
+        "finished": 335,
+        "finishtime": 269728172,
+        "won": 495,
         "lost": 337,
         "forfeited": 30
     },
@@ -2536,13 +2536,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3342,
-        "playtime": 2038247524,
+        "matches": 3343,
+        "playtime": 2038775737,
         "finished": 1171,
         "finishtime": 905216119,
         "won": 1757,
-        "lost": 1507,
-        "forfeited": 762
+        "lost": 1508,
+        "forfeited": 763
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
