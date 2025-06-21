@@ -3260,39 +3260,6 @@
         "lost": 1355,
         "forfeited": 645
     },
-    "a0a672a0bc194540bc195220dc170dba": {
-        "nickname": "JackoWacko62",
-        "country": "us",
-        "top": {
-            "1": 1585,
-            "2": 1590,
-            "3": 1607,
-            "4": 1652,
-            "5": 1767,
-            "6": 1802,
-            "7": 1992,
-            "8": 1926
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 15,
-            "5": 10,
-            "6": 30,
-            "7": 35,
-            "8": 30
-        },
-        "pb": 424299,
-        "streak": 24,
-        "matches": 6902,
-        "playtime": 4142949092,
-        "finished": 2160,
-        "finishtime": 1619049345,
-        "won": 3409,
-        "lost": 3237,
-        "forfeited": 1748
-    },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
         "country": null,
@@ -3702,13 +3669,13 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 2667,
-        "playtime": 1700375419,
+        "matches": 2668,
+        "playtime": 1700814571,
         "finished": 898,
         "finishtime": 669217657,
         "won": 1352,
-        "lost": 1212,
-        "forfeited": 395
+        "lost": 1213,
+        "forfeited": 396
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -4665,6 +4632,39 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
+    },
+    "f2e05ad464b54d288fa18da14e9a2786": {
+        "nickname": "LEC666888",
+        "country": "cn",
+        "top": {
+            "1": 1161,
+            "2": 1536,
+            "3": 1419,
+            "4": 1558,
+            "5": 1627,
+            "6": 1849,
+            "7": 1951,
+            "8": 1823
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "6": 30,
+            "7": 5,
+            "8": 12
+        },
+        "pb": 433890,
+        "streak": 16,
+        "matches": 6910,
+        "playtime": 4155599374,
+        "finished": 2243,
+        "finishtime": 1742471677,
+        "won": 3430,
+        "lost": 3179,
+        "forfeited": 1592
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
