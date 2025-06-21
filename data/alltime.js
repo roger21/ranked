@@ -24,11 +24,11 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 4025,
-        "playtime": 2570345426,
+        "matches": 4026,
+        "playtime": 2570629144,
         "finished": 1506,
         "finishtime": 1098197923,
-        "won": 2051,
+        "won": 2052,
         "lost": 1880,
         "forfeited": 462
     },
@@ -216,13 +216,13 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 2025,
-        "playtime": 1213808474,
+        "matches": 2026,
+        "playtime": 1214009278,
         "finished": 762,
         "finishtime": 552236408,
         "won": 1060,
-        "lost": 892,
-        "forfeited": 400
+        "lost": 893,
+        "forfeited": 401
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
         "nickname": "90Tom",
@@ -1114,13 +1114,13 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 12808,
-        "playtime": 8291084475,
+        "matches": 12810,
+        "playtime": 8291901571,
         "finished": 5371,
         "finishtime": 3800139300,
         "won": 7118,
-        "lost": 5460,
-        "forfeited": 761
+        "lost": 5462,
+        "forfeited": 762
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "dwoh",
@@ -1180,13 +1180,13 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10586,
-        "playtime": 6463142844,
+        "matches": 10587,
+        "playtime": 6463706916,
         "finished": 4422,
         "finishtime": 3020377054,
         "won": 5724,
-        "lost": 4638,
-        "forfeited": 1432
+        "lost": 4639,
+        "forfeited": 1433
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1221,6 +1221,39 @@
         "lost": 797,
         "forfeited": 96
     },
+    "3c59ed02bccf4ea3a0f626af7955be91": {
+        "nickname": "Tookannn",
+        "country": "ca",
+        "top": {
+            "1": 1341,
+            "2": 1504,
+            "3": 1405,
+            "4": 1626,
+            "5": 1684,
+            "6": 1583,
+            "7": 1607,
+            "8": 1912
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 15,
+            "6": 0,
+            "7": 0,
+            "8": 15
+        },
+        "pb": 519705,
+        "streak": 9,
+        "matches": 574,
+        "playtime": 400278283,
+        "finished": 228,
+        "finishtime": 179577073,
+        "won": 324,
+        "lost": 217,
+        "forfeited": 19
+    },
     "3c8757790ab0400b8b9e3936e0dd535b": {
         "nickname": "doogile",
         "country": "us",
@@ -1232,7 +1265,7 @@
             "5": 2376,
             "6": 2441,
             "7": 2395,
-            "8": 2297
+            "8": 2307
         },
         "points": {
             "1": 0,
@@ -1246,11 +1279,11 @@
         },
         "pb": 421365,
         "streak": 29,
-        "matches": 3283,
-        "playtime": 2010759449,
-        "finished": 1861,
-        "finishtime": 1199836365,
-        "won": 2322,
+        "matches": 3284,
+        "playtime": 2011292827,
+        "finished": 1862,
+        "finishtime": 1200369743,
+        "won": 2323,
         "lost": 867,
         "forfeited": 32
     },
@@ -3089,11 +3122,11 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5221,
-        "playtime": 3326250653,
+        "matches": 5222,
+        "playtime": 3326451457,
         "finished": 1977,
         "finishtime": 1405456852,
-        "won": 2645,
+        "won": 2646,
         "lost": 2415,
         "forfeited": 587
     },
@@ -3155,12 +3188,12 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 5009,
-        "playtime": 3152946518,
+        "matches": 5010,
+        "playtime": 3153463297,
         "finished": 1814,
         "finishtime": 1326553089,
         "won": 2512,
-        "lost": 2308,
+        "lost": 2309,
         "forfeited": 855
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
@@ -3259,39 +3292,6 @@
         "won": 1523,
         "lost": 1355,
         "forfeited": 645
-    },
-    "a0a672a0bc194540bc195220dc170dba": {
-        "nickname": "JackoWacko62",
-        "country": "us",
-        "top": {
-            "1": 1585,
-            "2": 1590,
-            "3": 1607,
-            "4": 1652,
-            "5": 1767,
-            "6": 1802,
-            "7": 1992,
-            "8": 1926
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 15,
-            "5": 10,
-            "6": 30,
-            "7": 35,
-            "8": 55
-        },
-        "pb": 424299,
-        "streak": 24,
-        "matches": 6902,
-        "playtime": 4142949092,
-        "finished": 2160,
-        "finishtime": 1619049345,
-        "won": 3409,
-        "lost": 3237,
-        "forfeited": 1748
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -4371,13 +4371,40 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9458,
-        "playtime": 6159870587,
-        "finished": 3298,
-        "finishtime": 2460572562,
-        "won": 4612,
+        "matches": 9459,
+        "playtime": 6160387366,
+        "finished": 3299,
+        "finishtime": 2461089341,
+        "won": 4613,
         "lost": 4335,
         "forfeited": 1049
+    },
+    "dd5fbfd77b35431e97e8e0ec36817f29": {
+        "nickname": "Traden",
+        "country": "tw",
+        "top": {
+            "4": 1087,
+            "5": 1388,
+            "6": 1636,
+            "7": 1902,
+            "8": 1836
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 35,
+            "8": 14
+        },
+        "pb": 482356,
+        "streak": 14,
+        "matches": 6170,
+        "playtime": 3957422666,
+        "finished": 1666,
+        "finishtime": 1399107344,
+        "won": 3057,
+        "lost": 2937,
+        "forfeited": 1770
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
