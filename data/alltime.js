@@ -1706,13 +1706,13 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 3047,
-        "playtime": 2249845061,
+        "matches": 3048,
+        "playtime": 2250119127,
         "finished": 935,
         "finishtime": 827322874,
         "won": 1541,
-        "lost": 1369,
-        "forfeited": 277
+        "lost": 1370,
+        "forfeited": 278
     },
     "4cf401d7b9474756b06a653867d22fca": {
         "nickname": "BadGamer",
@@ -2090,13 +2090,13 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2402,
-        "playtime": 1537204717,
+        "matches": 2403,
+        "playtime": 1537714854,
         "finished": 794,
         "finishtime": 609975234,
         "won": 1221,
-        "lost": 1078,
-        "forfeited": 399
+        "lost": 1079,
+        "forfeited": 400
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
@@ -2437,11 +2437,11 @@
         },
         "pb": 443695,
         "streak": 10,
-        "matches": 2362,
-        "playtime": 1529674026,
-        "finished": 760,
-        "finishtime": 580092383,
-        "won": 1179,
+        "matches": 2363,
+        "playtime": 1530441163,
+        "finished": 761,
+        "finishtime": 580859520,
+        "won": 1180,
         "lost": 1075,
         "forfeited": 319
     },
