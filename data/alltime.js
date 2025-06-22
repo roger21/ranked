@@ -1180,13 +1180,13 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10603,
-        "playtime": 6471237600,
+        "matches": 10605,
+        "playtime": 6471657362,
         "finished": 4431,
         "finishtime": 3026164737,
         "won": 5733,
-        "lost": 4646,
-        "forfeited": 1439
+        "lost": 4648,
+        "forfeited": 1441
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -2510,33 +2510,6 @@
         "won": 1762,
         "lost": 1511,
         "forfeited": 765
-    },
-    "7e7bea2031764e74ada950a5dcb5a0bc": {
-        "nickname": "OG_MineMan",
-        "country": "us",
-        "top": {
-            "4": 1327,
-            "5": 1518,
-            "6": 1665,
-            "7": 1835,
-            "8": 1803
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 5,
-            "7": 35,
-            "8": 6
-        },
-        "pb": 475541,
-        "streak": 9,
-        "matches": 1939,
-        "playtime": 1249188187,
-        "finished": 558,
-        "finishtime": 436057432,
-        "won": 959,
-        "lost": 864,
-        "forfeited": 450
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -4625,11 +4598,11 @@
         },
         "pb": 433890,
         "streak": 16,
-        "matches": 6929,
-        "playtime": 4167455599,
+        "matches": 6930,
+        "playtime": 4167613083,
         "finished": 2250,
         "finishtime": 1747713870,
-        "won": 3440,
+        "won": 3441,
         "lost": 3187,
         "forfeited": 1593
     },
