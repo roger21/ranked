@@ -757,13 +757,13 @@
         },
         "pb": 502763,
         "streak": 11,
-        "matches": 707,
-        "playtime": 497265077,
+        "matches": 708,
+        "playtime": 498099852,
         "finished": 305,
         "finishtime": 242861453,
         "won": 423,
-        "lost": 267,
-        "forfeited": 38
+        "lost": 268,
+        "forfeited": 39
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
         "nickname": "SuperC_",
@@ -1692,7 +1692,7 @@
             "5": 2014,
             "6": 2171,
             "7": 2203,
-            "8": 1855
+            "8": 1880
         },
         "points": {
             "1": 0,
@@ -1706,11 +1706,11 @@
         },
         "pb": 423224,
         "streak": 13,
-        "matches": 2738,
-        "playtime": 1560261445,
-        "finished": 1080,
-        "finishtime": 719509526,
-        "won": 1434,
+        "matches": 2739,
+        "playtime": 1561295674,
+        "finished": 1081,
+        "finishtime": 720543755,
+        "won": 1435,
         "lost": 1200,
         "forfeited": 711
     },
@@ -1935,12 +1935,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 5248,
-        "playtime": 3364544952,
+        "matches": 5249,
+        "playtime": 3365579181,
         "finished": 2027,
         "finishtime": 1464441876,
         "won": 2736,
-        "lost": 2398,
+        "lost": 2399,
         "forfeited": 656
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -3056,12 +3056,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5233,
-        "playtime": 3333796802,
+        "matches": 5234,
+        "playtime": 3334446624,
         "finished": 1980,
         "finishtime": 1408038429,
         "won": 2650,
-        "lost": 2422,
+        "lost": 2423,
         "forfeited": 588
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -3719,7 +3719,7 @@
             "5": 2036,
             "6": 2098,
             "7": 1736,
-            "8": 1724
+            "8": 1749
         },
         "points": {
             "1": 0,
@@ -3733,11 +3733,11 @@
         },
         "pb": 454009,
         "streak": 12,
-        "matches": 2594,
-        "playtime": 1571406928,
-        "finished": 985,
-        "finishtime": 717407439,
-        "won": 1409,
+        "matches": 2595,
+        "playtime": 1572056750,
+        "finished": 986,
+        "finishtime": 718057261,
+        "won": 1410,
         "lost": 1151,
         "forfeited": 585
     },
