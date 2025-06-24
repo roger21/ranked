@@ -2024,13 +2024,13 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2440,
-        "playtime": 1559525839,
+        "matches": 2441,
+        "playtime": 1559763243,
         "finished": 806,
         "finishtime": 618613420,
         "won": 1237,
-        "lost": 1096,
-        "forfeited": 406
+        "lost": 1097,
+        "forfeited": 407
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
@@ -2959,11 +2959,11 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5240,
-        "playtime": 3338738652,
+        "matches": 5241,
+        "playtime": 3339264141,
         "finished": 1982,
         "finishtime": 1409482681,
-        "won": 2652,
+        "won": 2653,
         "lost": 2427,
         "forfeited": 588
     },
@@ -2992,13 +2992,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3709,
-        "playtime": 2465784767,
+        "matches": 3710,
+        "playtime": 2466310256,
         "finished": 1216,
         "finishtime": 946989376,
         "won": 1884,
-        "lost": 1732,
-        "forfeited": 601
+        "lost": 1733,
+        "forfeited": 602
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -4151,33 +4151,6 @@
         "won": 2920,
         "lost": 2727,
         "forfeited": 902
-    },
-    "d7e1777addd845b994867237ba0a6473": {
-        "nickname": "Jppsh",
-        "country": "ca",
-        "top": {
-            "4": 1220,
-            "5": 1469,
-            "6": 1757,
-            "7": 1444,
-            "8": 1806
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 486413,
-        "streak": 9,
-        "matches": 2993,
-        "playtime": 2351717234,
-        "finished": 787,
-        "finishtime": 704148397,
-        "won": 1400,
-        "lost": 1320,
-        "forfeited": 70
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
