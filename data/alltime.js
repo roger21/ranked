@@ -1180,12 +1180,12 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10637,
-        "playtime": 6487301069,
+        "matches": 10638,
+        "playtime": 6488084279,
         "finished": 4444,
         "finishtime": 3033630604,
         "won": 5749,
-        "lost": 4663,
+        "lost": 4664,
         "forfeited": 1455
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -1541,13 +1541,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4625,
-        "playtime": 2761324066,
+        "matches": 4626,
+        "playtime": 2761807116,
         "finished": 1536,
         "finishtime": 1139287197,
         "won": 2368,
-        "lost": 2093,
-        "forfeited": 1251
+        "lost": 2094,
+        "forfeited": 1252
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -2371,11 +2371,11 @@
         },
         "pb": 443695,
         "streak": 10,
-        "matches": 2389,
-        "playtime": 1545565937,
-        "finished": 773,
-        "finishtime": 589165089,
-        "won": 1193,
+        "matches": 2390,
+        "playtime": 1546349147,
+        "finished": 774,
+        "finishtime": 589948299,
+        "won": 1194,
         "lost": 1087,
         "forfeited": 324
     },
@@ -2635,12 +2635,12 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 2912,
-        "playtime": 1979270436,
+        "matches": 2913,
+        "playtime": 1979929323,
         "finished": 810,
         "finishtime": 694188326,
         "won": 1432,
-        "lost": 1333,
+        "lost": 1334,
         "forfeited": 564
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
@@ -2732,13 +2732,13 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2844,
-        "playtime": 1920629062,
+        "matches": 2845,
+        "playtime": 1921007999,
         "finished": 953,
         "finishtime": 715590068,
         "won": 1391,
-        "lost": 1228,
-        "forfeited": 72
+        "lost": 1229,
+        "forfeited": 73
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
         "nickname": "55crimson",
@@ -3751,7 +3751,7 @@
             "5": 1966,
             "6": 2178,
             "7": 2259,
-            "8": 1721
+            "8": 1735
         },
         "points": {
             "4": 0,
@@ -3762,11 +3762,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 6225,
-        "playtime": 3628581913,
-        "finished": 2287,
-        "finishtime": 1586721720,
-        "won": 3149,
+        "matches": 6226,
+        "playtime": 3629240800,
+        "finished": 2288,
+        "finishtime": 1587380607,
+        "won": 3150,
         "lost": 2876,
         "forfeited": 1264
     },
