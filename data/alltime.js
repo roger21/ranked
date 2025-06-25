@@ -445,39 +445,6 @@
         "lost": 50,
         "forfeited": 9
     },
-    "173d2482653a41e8a45b7381e140677f": {
-        "nickname": "a4102545",
-        "country": "cn",
-        "top": {
-            "1": 1368,
-            "2": 1580,
-            "3": 1603,
-            "4": 1424,
-            "5": 1209,
-            "6": 1564,
-            "7": 1807,
-            "8": 1804
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 15,
-            "8": 10
-        },
-        "pb": 469144,
-        "streak": 11,
-        "matches": 911,
-        "playtime": 598192369,
-        "finished": 300,
-        "finishtime": 237716924,
-        "won": 483,
-        "lost": 351,
-        "forfeited": 88
-    },
     "17e787d1d6374f818b294f2319db370d": {
         "nickname": "silverrruns",
         "country": "ca",
@@ -1180,13 +1147,13 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10632,
-        "playtime": 6484985004,
+        "matches": 10634,
+        "playtime": 6485551271,
         "finished": 4441,
         "finishtime": 3031880806,
-        "won": 5745,
-        "lost": 4662,
-        "forfeited": 1454
+        "won": 5746,
+        "lost": 4663,
+        "forfeited": 1455
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1541,13 +1508,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4620,
-        "playtime": 2758294156,
+        "matches": 4621,
+        "playtime": 2758973720,
         "finished": 1535,
         "finishtime": 1138625053,
         "won": 2366,
-        "lost": 2090,
-        "forfeited": 1249
+        "lost": 2091,
+        "forfeited": 1250
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -1805,13 +1772,13 @@
         },
         "pb": 491809,
         "streak": 19,
-        "matches": 941,
-        "playtime": 601862517,
+        "matches": 942,
+        "playtime": 602158404,
         "finished": 366,
         "finishtime": 272799043,
         "won": 549,
-        "lost": 367,
-        "forfeited": 123
+        "lost": 368,
+        "forfeited": 124
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
@@ -2371,11 +2338,11 @@
         },
         "pb": 443695,
         "streak": 10,
-        "matches": 2385,
-        "playtime": 1543320371,
-        "finished": 771,
-        "finishtime": 588050405,
-        "won": 1191,
+        "matches": 2386,
+        "playtime": 1543826654,
+        "finished": 772,
+        "finishtime": 588556688,
+        "won": 1192,
         "lost": 1085,
         "forfeited": 323
     },
@@ -2732,12 +2699,12 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2840,
-        "playtime": 1917746910,
+        "matches": 2841,
+        "playtime": 1918369898,
         "finished": 953,
         "finishtime": 715590068,
         "won": 1390,
-        "lost": 1225,
+        "lost": 1226,
         "forfeited": 72
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -3295,6 +3262,39 @@
         "lost": 217,
         "forfeited": 123
     },
+    "a3165d3bf73a4eb6a69c110f2fdd58a9": {
+        "nickname": "Frankey32",
+        "country": "yt",
+        "top": {
+            "1": 1332,
+            "2": 1401,
+            "3": 1591,
+            "4": 1713,
+            "5": 1647,
+            "6": 1764,
+            "7": 1825,
+            "8": 1835
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 10,
+            "6": 35,
+            "7": 20,
+            "8": 8
+        },
+        "pb": 442218,
+        "streak": 18,
+        "matches": 2928,
+        "playtime": 2069964575,
+        "finished": 911,
+        "finishtime": 789373319,
+        "won": 1517,
+        "lost": 1354,
+        "forfeited": 518
+    },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
         "country": "pl",
@@ -3762,11 +3762,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 6221,
-        "playtime": 3626041561,
-        "finished": 2284,
-        "finishtime": 1584451748,
-        "won": 3145,
+        "matches": 6223,
+        "playtime": 3627045921,
+        "finished": 2285,
+        "finishtime": 1585185728,
+        "won": 3147,
         "lost": 2876,
         "forfeited": 1264
     },
