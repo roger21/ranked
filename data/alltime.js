@@ -2536,12 +2536,12 @@
         },
         "pb": 470792,
         "streak": 22,
-        "matches": 6420,
-        "playtime": 4199405010,
+        "matches": 6421,
+        "playtime": 4200015862,
         "finished": 1965,
         "finishtime": 1598251807,
         "won": 3154,
-        "lost": 3012,
+        "lost": 3013,
         "forfeited": 1463
     },
     "82a111625c614f31a44789d5464a969a": {
@@ -3011,7 +3011,7 @@
             "5": 1901,
             "6": 1998,
             "7": 1744,
-            "8": 1808
+            "8": 1811
         },
         "points": {
             "1": 0,
@@ -3025,11 +3025,11 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3713,
-        "playtime": 2468413672,
-        "finished": 1217,
-        "finishtime": 947760265,
-        "won": 1886,
+        "matches": 3714,
+        "playtime": 2469024524,
+        "finished": 1218,
+        "finishtime": 948371117,
+        "won": 1887,
         "lost": 1734,
         "forfeited": 602
     },
@@ -3058,11 +3058,11 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 5042,
-        "playtime": 3171629079,
-        "finished": 1827,
-        "finishtime": 1334444513,
-        "won": 2530,
+        "matches": 5043,
+        "playtime": 3172194847,
+        "finished": 1828,
+        "finishtime": 1335010281,
+        "won": 2531,
         "lost": 2323,
         "forfeited": 859
     },
@@ -4185,33 +4185,6 @@
         "lost": 2727,
         "forfeited": 902
     },
-    "d7e1777addd845b994867237ba0a6473": {
-        "nickname": "Jppsh",
-        "country": "ca",
-        "top": {
-            "4": 1220,
-            "5": 1469,
-            "6": 1757,
-            "7": 1444,
-            "8": 1806
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 486413,
-        "streak": 9,
-        "matches": 2993,
-        "playtime": 2351717234,
-        "finished": 787,
-        "finishtime": 704148397,
-        "won": 1400,
-        "lost": 1320,
-        "forfeited": 70
-    },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
         "country": null,
@@ -4460,12 +4433,12 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 5022,
-        "playtime": 2795611886,
+        "matches": 5023,
+        "playtime": 2796177654,
         "finished": 1852,
         "finishtime": 1247195747,
         "won": 2565,
-        "lost": 2317,
+        "lost": 2318,
         "forfeited": 1405
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
