@@ -2057,13 +2057,13 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2470,
-        "playtime": 1576235155,
+        "matches": 2472,
+        "playtime": 1577055668,
         "finished": 819,
         "finishtime": 627381062,
-        "won": 1253,
-        "lost": 1110,
-        "forfeited": 416
+        "won": 1254,
+        "lost": 1111,
+        "forfeited": 417
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
@@ -3647,7 +3647,7 @@
         "forfeited": 315
     },
     "b39f5648c91d42dfb121655f2aa52970": {
-        "nickname": "GiratinaEX",
+        "nickname": "dimowo",
         "country": "de",
         "top": {
             "1": 1520,
