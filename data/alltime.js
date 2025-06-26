@@ -776,7 +776,7 @@
             "5": 2034,
             "6": 2050,
             "7": 2055,
-            "8": 1828
+            "8": 1831
         },
         "points": {
             "1": 0,
@@ -790,11 +790,11 @@
         },
         "pb": 470188,
         "streak": 11,
-        "matches": 2752,
-        "playtime": 1860151169,
-        "finished": 1060,
-        "finishtime": 799686542,
-        "won": 1464,
+        "matches": 2754,
+        "playtime": 1861255954,
+        "finished": 1061,
+        "finishtime": 800367407,
+        "won": 1466,
         "lost": 1224,
         "forfeited": 157
     },
@@ -1015,12 +1015,12 @@
         },
         "pb": 424469,
         "streak": 11,
-        "matches": 2027,
-        "playtime": 1367352410,
+        "matches": 2028,
+        "playtime": 1368025986,
         "finished": 718,
         "finishtime": 547641049,
         "won": 1046,
-        "lost": 907,
+        "lost": 908,
         "forfeited": 155
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -1312,13 +1312,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7193,
-        "playtime": 4646548203,
+        "matches": 7194,
+        "playtime": 4646972123,
         "finished": 2511,
         "finishtime": 1892463371,
         "won": 3576,
-        "lost": 3365,
-        "forfeited": 1158
+        "lost": 3366,
+        "forfeited": 1159
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -4293,7 +4293,7 @@
             "5": 1745,
             "6": 1993,
             "7": 2012,
-            "8": 1747
+            "8": 1764
         },
         "points": {
             "3": 0,
@@ -4305,11 +4305,11 @@
         },
         "pb": 465365,
         "streak": 8,
-        "matches": 741,
-        "playtime": 502110097,
-        "finished": 289,
-        "finishtime": 212061488,
-        "won": 406,
+        "matches": 742,
+        "playtime": 502783673,
+        "finished": 290,
+        "finishtime": 212735064,
+        "won": 407,
         "lost": 289,
         "forfeited": 20
     },
