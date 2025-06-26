@@ -1312,13 +1312,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7206,
-        "playtime": 4654224393,
+        "matches": 7207,
+        "playtime": 4654740772,
         "finished": 2513,
         "finishtime": 1893860089,
         "won": 3580,
-        "lost": 3373,
-        "forfeited": 1161
+        "lost": 3374,
+        "forfeited": 1162
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -3294,39 +3294,6 @@
         "won": 287,
         "lost": 217,
         "forfeited": 123
-    },
-    "a3165d3bf73a4eb6a69c110f2fdd58a9": {
-        "nickname": "Frankey32",
-        "country": "yt",
-        "top": {
-            "1": 1332,
-            "2": 1401,
-            "3": 1591,
-            "4": 1713,
-            "5": 1647,
-            "6": 1764,
-            "7": 1825,
-            "8": 1835
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 10,
-            "6": 35,
-            "7": 20,
-            "8": 8
-        },
-        "pb": 442218,
-        "streak": 18,
-        "matches": 2932,
-        "playtime": 2072433496,
-        "finished": 912,
-        "finishtime": 790003027,
-        "won": 1519,
-        "lost": 1356,
-        "forfeited": 518
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
