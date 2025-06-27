@@ -1182,12 +1182,12 @@
         },
         "pb": 495297,
         "streak": 12,
-        "matches": 1891,
-        "playtime": 1355329381,
+        "matches": 1892,
+        "playtime": 1355967267,
         "finished": 653,
         "finishtime": 535653336,
         "won": 1001,
-        "lost": 827,
+        "lost": 828,
         "forfeited": 96
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -1774,11 +1774,11 @@
         },
         "pb": 491809,
         "streak": 19,
-        "matches": 945,
-        "playtime": 603665569,
-        "finished": 366,
-        "finishtime": 272799043,
-        "won": 549,
+        "matches": 946,
+        "playtime": 604527001,
+        "finished": 367,
+        "finishtime": 273660475,
+        "won": 550,
         "lost": 370,
         "forfeited": 125
     },
@@ -2868,13 +2868,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5815,
-        "playtime": 3960610863,
+        "matches": 5816,
+        "playtime": 3961352836,
         "finished": 1896,
         "finishtime": 1531211968,
         "won": 2912,
-        "lost": 2737,
-        "forfeited": 689
+        "lost": 2738,
+        "forfeited": 690
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
@@ -3390,13 +3390,13 @@
         },
         "pb": 489901,
         "streak": 9,
-        "matches": 693,
-        "playtime": 435142978,
+        "matches": 694,
+        "playtime": 435779253,
         "finished": 290,
         "finishtime": 213180772,
         "won": 417,
-        "lost": 246,
-        "forfeited": 70
+        "lost": 247,
+        "forfeited": 71
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
         "nickname": "Reignex",
