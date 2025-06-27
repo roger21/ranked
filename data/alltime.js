@@ -1661,7 +1661,7 @@
             "5": 2014,
             "6": 2171,
             "7": 2203,
-            "8": 1927
+            "8": 1933
         },
         "points": {
             "1": 0,
@@ -1675,11 +1675,11 @@
         },
         "pb": 423224,
         "streak": 13,
-        "matches": 2748,
-        "playtime": 1566712467,
-        "finished": 1085,
-        "finishtime": 723152038,
-        "won": 1440,
+        "matches": 2749,
+        "playtime": 1567269802,
+        "finished": 1086,
+        "finishtime": 723709373,
+        "won": 1441,
         "lost": 1203,
         "forfeited": 711
     },
@@ -4309,13 +4309,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9566,
-        "playtime": 6226952539,
+        "matches": 9567,
+        "playtime": 6227263636,
         "finished": 3354,
         "finishtime": 2496677913,
         "won": 4675,
-        "lost": 4377,
-        "forfeited": 1060
+        "lost": 4378,
+        "forfeited": 1061
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
