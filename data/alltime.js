@@ -1116,12 +1116,12 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10724,
-        "playtime": 6533706176,
+        "matches": 10725,
+        "playtime": 6534312041,
         "finished": 4481,
         "finishtime": 3055852937,
         "won": 5796,
-        "lost": 4701,
+        "lost": 4702,
         "forfeited": 1473
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -4216,13 +4216,13 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 2932,
-        "playtime": 1929415166,
+        "matches": 2933,
+        "playtime": 1929762041,
         "finished": 1047,
         "finishtime": 817380933,
         "won": 1507,
-        "lost": 1335,
-        "forfeited": 386
+        "lost": 1336,
+        "forfeited": 387
     },
     "d7d0b271136647fea7398a444ab51c13": {
         "nickname": "JustAltoid",
@@ -4249,13 +4249,13 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 5966,
-        "playtime": 3917487919,
+        "matches": 5968,
+        "playtime": 3918157808,
         "finished": 1862,
         "finishtime": 1432157469,
-        "won": 2930,
-        "lost": 2746,
-        "forfeited": 907
+        "won": 2931,
+        "lost": 2747,
+        "forfeited": 908
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
@@ -4660,12 +4660,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5922,
-        "playtime": 3882889801,
+        "matches": 5923,
+        "playtime": 3883627494,
         "finished": 1923,
         "finishtime": 1492795899,
         "won": 2945,
-        "lost": 2745,
+        "lost": 2746,
         "forfeited": 826
     }
 }
