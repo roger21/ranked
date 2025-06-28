@@ -3997,13 +3997,13 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2549,
-        "playtime": 1682951732,
+        "matches": 2550,
+        "playtime": 1683279550,
         "finished": 810,
         "finishtime": 665670363,
         "won": 1323,
-        "lost": 1121,
-        "forfeited": 538
+        "lost": 1122,
+        "forfeited": 539
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "Watermelon1708",
