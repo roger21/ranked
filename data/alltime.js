@@ -1543,11 +1543,11 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2763,
-        "playtime": 1668228863,
+        "matches": 2764,
+        "playtime": 1668842529,
         "finished": 903,
         "finishtime": 686091058,
-        "won": 1358,
+        "won": 1359,
         "lost": 1171,
         "forfeited": 470
     },
@@ -1981,7 +1981,7 @@
             "5": 1649,
             "6": 1843,
             "7": 1821,
-            "8": 1787
+            "8": 1790
         },
         "points": {
             "1": 0,
@@ -1995,11 +1995,11 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2526,
-        "playtime": 1611072491,
+        "matches": 2527,
+        "playtime": 1611612353,
         "finished": 838,
         "finishtime": 640732809,
-        "won": 1287,
+        "won": 1288,
         "lost": 1131,
         "forfeited": 423
     },
@@ -4063,11 +4063,11 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2571,
-        "playtime": 1696484112,
+        "matches": 2572,
+        "playtime": 1697033994,
         "finished": 819,
         "finishtime": 672185233,
-        "won": 1334,
+        "won": 1335,
         "lost": 1130,
         "forfeited": 543
     },
@@ -4571,13 +4571,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2382,
-        "playtime": 1601303957,
+        "matches": 2383,
+        "playtime": 1601843819,
         "finished": 869,
         "finishtime": 700915175,
         "won": 1299,
-        "lost": 1044,
-        "forfeited": 379
+        "lost": 1045,
+        "forfeited": 380
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
@@ -4627,11 +4627,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5930,
-        "playtime": 3888074904,
-        "finished": 1924,
-        "finishtime": 1493623914,
-        "won": 2947,
+        "matches": 5931,
+        "playtime": 3888973599,
+        "finished": 1925,
+        "finishtime": 1494522609,
+        "won": 2948,
         "lost": 2751,
         "forfeited": 829
     }
