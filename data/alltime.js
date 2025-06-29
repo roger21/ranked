@@ -1543,11 +1543,11 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2772,
-        "playtime": 1674441660,
-        "finished": 904,
-        "finishtime": 686906473,
-        "won": 1361,
+        "matches": 2773,
+        "playtime": 1675178276,
+        "finished": 905,
+        "finishtime": 687643089,
+        "won": 1362,
         "lost": 1175,
         "forfeited": 470
     },
@@ -2672,11 +2672,11 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 2953,
-        "playtime": 2006923173,
-        "finished": 824,
-        "finishtime": 705184156,
-        "won": 1451,
+        "matches": 2954,
+        "playtime": 2007638323,
+        "finished": 825,
+        "finishtime": 705899306,
+        "won": 1452,
         "lost": 1352,
         "forfeited": 567
     },
@@ -3128,13 +3128,13 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 5089,
-        "playtime": 3198220654,
+        "matches": 5090,
+        "playtime": 3198685016,
         "finished": 1848,
         "finishtime": 1347504117,
         "won": 2555,
-        "lost": 2344,
-        "forfeited": 866
+        "lost": 2345,
+        "forfeited": 867
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -4319,6 +4319,33 @@
         "lost": 4388,
         "forfeited": 1063
     },
+    "dd5fbfd77b35431e97e8e0ec36817f29": {
+        "nickname": "Traden",
+        "country": "tw",
+        "top": {
+            "4": 1087,
+            "5": 1388,
+            "6": 1636,
+            "7": 1902,
+            "8": 1836
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 35,
+            "8": 14
+        },
+        "pb": 482356,
+        "streak": 14,
+        "matches": 6361,
+        "playtime": 4084458428,
+        "finished": 1733,
+        "finishtime": 1446747743,
+        "won": 3147,
+        "lost": 3024,
+        "forfeited": 1773
+    },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
         "country": "de",
@@ -4627,12 +4654,12 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 5941,
-        "playtime": 3894186419,
+        "matches": 5942,
+        "playtime": 3894416113,
         "finished": 1930,
         "finishtime": 1498273103,
         "won": 2954,
-        "lost": 2754,
-        "forfeited": 832
+        "lost": 2755,
+        "forfeited": 833
     }
 }
