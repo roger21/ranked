@@ -2540,12 +2540,12 @@
         },
         "pb": 476441,
         "streak": 12,
-        "matches": 2316,
-        "playtime": 1594361418,
+        "matches": 2317,
+        "playtime": 1594991357,
         "finished": 860,
         "finishtime": 660769170,
         "won": 1183,
-        "lost": 1051,
+        "lost": 1052,
         "forfeited": 113
     },
     "804da783a9e14f5f8e97c6dd8b045595": {
@@ -4094,13 +4094,13 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2575,
-        "playtime": 1698931479,
-        "finished": 821,
-        "finishtime": 673405634,
-        "won": 1337,
-        "lost": 1131,
-        "forfeited": 543
+        "matches": 2577,
+        "playtime": 1699973526,
+        "finished": 822,
+        "finishtime": 674108725,
+        "won": 1338,
+        "lost": 1132,
+        "forfeited": 544
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "Watermelon1708",
