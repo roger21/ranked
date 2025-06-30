@@ -951,12 +951,12 @@
         },
         "pb": 424469,
         "streak": 11,
-        "matches": 2034,
-        "playtime": 1371722071,
+        "matches": 2035,
+        "playtime": 1372383419,
         "finished": 721,
         "finishtime": 549713305,
         "won": 1050,
-        "lost": 910,
+        "lost": 911,
         "forfeited": 156
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -1281,13 +1281,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7248,
-        "playtime": 4679169520,
+        "matches": 7249,
+        "playtime": 4679624102,
         "finished": 2532,
         "finishtime": 1906077380,
         "won": 3603,
-        "lost": 3392,
-        "forfeited": 1166
+        "lost": 3393,
+        "forfeited": 1167
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -1939,11 +1939,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8112,
-        "playtime": 5133910928,
-        "finished": 2871,
-        "finishtime": 2183795516,
-        "won": 4030,
+        "matches": 8113,
+        "playtime": 5134572276,
+        "finished": 2872,
+        "finishtime": 2184456864,
+        "won": 4031,
         "lost": 3808,
         "forfeited": 1387
     },
@@ -2714,7 +2714,7 @@
         "forfeited": 820
     },
     "879c8136d42c4222b42f1c090616fa5e": {
-        "nickname": "yummycelery",
+        "nickname": "webwormy",
         "country": "ca",
         "top": {
             "1": 1829,
@@ -4530,13 +4530,13 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 5083,
-        "playtime": 2830856134,
+        "matches": 5084,
+        "playtime": 2831148458,
         "finished": 1877,
         "finishtime": 1262822267,
         "won": 2596,
-        "lost": 2347,
-        "forfeited": 1419
+        "lost": 2348,
+        "forfeited": 1420
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
