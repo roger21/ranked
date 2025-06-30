@@ -1981,7 +1981,7 @@
             "5": 1649,
             "6": 1843,
             "7": 1821,
-            "8": 1917
+            "8": 1936
         },
         "points": {
             "1": 0,
@@ -1995,11 +1995,11 @@
         },
         "pb": 469419,
         "streak": 10,
-        "matches": 2551,
-        "playtime": 1627653593,
+        "matches": 2552,
+        "playtime": 1628319030,
         "finished": 848,
         "finishtime": 647872368,
-        "won": 1303,
+        "won": 1304,
         "lost": 1140,
         "forfeited": 425
     },
@@ -3126,13 +3126,13 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 5093,
-        "playtime": 3200756232,
+        "matches": 5094,
+        "playtime": 3201421669,
         "finished": 1848,
         "finishtime": 1347504117,
         "won": 2556,
-        "lost": 2346,
-        "forfeited": 867
+        "lost": 2347,
+        "forfeited": 868
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
