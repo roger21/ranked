@@ -88,13 +88,13 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 1640,
-        "playtime": 1100681943,
+        "matches": 1642,
+        "playtime": 1101367875,
         "finished": 566,
         "finishtime": 449718355,
         "won": 858,
-        "lost": 705,
-        "forfeited": 170
+        "lost": 707,
+        "forfeited": 171
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -1708,11 +1708,11 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3275,
-        "playtime": 2154565234,
-        "finished": 1320,
-        "finishtime": 969884538,
-        "won": 1767,
+        "matches": 3276,
+        "playtime": 2155175511,
+        "finished": 1321,
+        "finishtime": 970494815,
+        "won": 1768,
         "lost": 1438,
         "forfeited": 304
     },
@@ -2672,13 +2672,13 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 3474,
-        "playtime": 2211382963,
+        "matches": 3476,
+        "playtime": 2211944506,
         "finished": 1110,
         "finishtime": 866864340,
-        "won": 1775,
-        "lost": 1579,
-        "forfeited": 826
+        "won": 1776,
+        "lost": 1580,
+        "forfeited": 827
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
@@ -4570,39 +4570,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f2e05ad464b54d288fa18da14e9a2786": {
-        "nickname": "LEC666888",
-        "country": "cn",
-        "top": {
-            "1": 1161,
-            "2": 1536,
-            "3": 1419,
-            "4": 1558,
-            "5": 1627,
-            "6": 1849,
-            "7": 1951,
-            "8": 1895
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 30,
-            "7": 5,
-            "8": 12
-        },
-        "pb": 433890,
-        "streak": 16,
-        "matches": 7133,
-        "playtime": 4293096948,
-        "finished": 2325,
-        "finishtime": 1799034869,
-        "won": 3541,
-        "lost": 3281,
-        "forfeited": 1620
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
