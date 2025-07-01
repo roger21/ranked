@@ -2639,11 +2639,11 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 2975,
-        "playtime": 2021087069,
-        "finished": 834,
-        "finishtime": 713100003,
-        "won": 1462,
+        "matches": 2976,
+        "playtime": 2021836685,
+        "finished": 835,
+        "finishtime": 713849619,
+        "won": 1463,
         "lost": 1361,
         "forfeited": 569
     },
@@ -3329,39 +3329,6 @@
         "won": 287,
         "lost": 217,
         "forfeited": 123
-    },
-    "a3165d3bf73a4eb6a69c110f2fdd58a9": {
-        "nickname": "Frankey32",
-        "country": "yt",
-        "top": {
-            "1": 1332,
-            "2": 1401,
-            "3": 1591,
-            "4": 1713,
-            "5": 1647,
-            "6": 1764,
-            "7": 1825,
-            "8": 1841
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 10,
-            "6": 35,
-            "7": 20,
-            "8": 8
-        },
-        "pb": 442218,
-        "streak": 18,
-        "matches": 2965,
-        "playtime": 2093256877,
-        "finished": 927,
-        "finishtime": 800412396,
-        "won": 1535,
-        "lost": 1371,
-        "forfeited": 522
     },
     "a501fd2185d94d3591ac9075880d6350": {
         "nickname": "AkaStu",
@@ -4357,6 +4324,33 @@
         "won": 4709,
         "lost": 4407,
         "forfeited": 1067
+    },
+    "dd5fbfd77b35431e97e8e0ec36817f29": {
+        "nickname": "Traden",
+        "country": "tw",
+        "top": {
+            "4": 1087,
+            "5": 1388,
+            "6": 1636,
+            "7": 1902,
+            "8": 1836
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 35,
+            "8": 14
+        },
+        "pb": 482356,
+        "streak": 14,
+        "matches": 6366,
+        "playtime": 4088185461,
+        "finished": 1734,
+        "finishtime": 1447477503,
+        "won": 3150,
+        "lost": 3026,
+        "forfeited": 1773
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
