@@ -2835,13 +2835,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5867,
-        "playtime": 3992233168,
+        "matches": 5868,
+        "playtime": 3992591699,
         "finished": 1913,
         "finishtime": 1544124797,
         "won": 2938,
-        "lost": 2762,
-        "forfeited": 706
+        "lost": 2763,
+        "forfeited": 707
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
