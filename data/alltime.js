@@ -1496,7 +1496,7 @@
             "5": 2118,
             "6": 2147,
             "7": 1775,
-            "8": 1637
+            "8": 1645
         },
         "points": {
             "1": 0,
@@ -1510,11 +1510,11 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4712,
-        "playtime": 2810621082,
+        "matches": 4713,
+        "playtime": 2810945749,
         "finished": 1568,
         "finishtime": 1161138851,
-        "won": 2415,
+        "won": 2416,
         "lost": 2131,
         "forfeited": 1276
     },
@@ -1774,13 +1774,13 @@
         },
         "pb": 491809,
         "streak": 19,
-        "matches": 953,
-        "playtime": 608345062,
+        "matches": 954,
+        "playtime": 608773915,
         "finished": 371,
         "finishtime": 276556957,
         "won": 555,
-        "lost": 372,
-        "forfeited": 127
+        "lost": 373,
+        "forfeited": 128
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
@@ -1995,11 +1995,11 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 2572,
-        "playtime": 1640715870,
+        "matches": 2573,
+        "playtime": 1641144723,
         "finished": 854,
         "finishtime": 652214097,
-        "won": 1312,
+        "won": 1313,
         "lost": 1150,
         "forfeited": 426
     },
@@ -4059,13 +4059,13 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3927,
-        "playtime": 2771563245,
+        "matches": 3928,
+        "playtime": 2772008348,
         "finished": 1269,
         "finishtime": 1012715108,
         "won": 1950,
-        "lost": 1841,
-        "forfeited": 226
+        "lost": 1842,
+        "forfeited": 227
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
