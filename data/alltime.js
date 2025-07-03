@@ -776,7 +776,7 @@
             "5": 2188,
             "6": 2241,
             "7": 1982,
-            "8": 1752
+            "8": 1780
         },
         "points": {
             "1": 0,
@@ -790,11 +790,11 @@
         },
         "pb": 495168,
         "streak": 14,
-        "matches": 1104,
-        "playtime": 714994276,
-        "finished": 553,
-        "finishtime": 387648769,
-        "won": 690,
+        "matches": 1105,
+        "playtime": 715668005,
+        "finished": 554,
+        "finishtime": 388322498,
+        "won": 691,
         "lost": 395,
         "forfeited": 5
     },
@@ -2703,8 +2703,8 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2917,
-        "playtime": 1967515006,
+        "matches": 2918,
+        "playtime": 1968056818,
         "finished": 980,
         "finishtime": 734432568,
         "won": 1428,
@@ -3704,13 +3704,13 @@
         },
         "pb": 454009,
         "streak": 12,
-        "matches": 2608,
-        "playtime": 1579612090,
+        "matches": 2609,
+        "playtime": 1580289674,
         "finished": 994,
         "finishtime": 723029396,
         "won": 1419,
-        "lost": 1155,
-        "forfeited": 587
+        "lost": 1156,
+        "forfeited": 588
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
         "nickname": "xShatter",
