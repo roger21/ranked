@@ -854,11 +854,11 @@
         },
         "pb": 427487,
         "streak": 11,
-        "matches": 4028,
-        "playtime": 2390707133,
-        "finished": 1559,
-        "finishtime": 1035773135,
-        "won": 2039,
+        "matches": 4029,
+        "playtime": 2391344528,
+        "finished": 1560,
+        "finishtime": 1036410530,
+        "won": 2040,
         "lost": 1768,
         "forfeited": 576
     },
@@ -1281,12 +1281,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7303,
-        "playtime": 4710677961,
+        "matches": 7304,
+        "playtime": 4711315356,
         "finished": 2562,
         "finishtime": 1925247360,
         "won": 3639,
-        "lost": 3410,
+        "lost": 3411,
         "forfeited": 1171
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -2672,12 +2672,12 @@
         },
         "pb": 447247,
         "streak": 10,
-        "matches": 1620,
-        "playtime": 1033024524,
+        "matches": 1621,
+        "playtime": 1033646208,
         "finished": 586,
         "finishtime": 443619563,
         "won": 874,
-        "lost": 664,
+        "lost": 665,
         "forfeited": 207
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
@@ -2703,12 +2703,12 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 2922,
-        "playtime": 1970768133,
+        "matches": 2923,
+        "playtime": 1971290237,
         "finished": 981,
         "finishtime": 735070236,
         "won": 1429,
-        "lost": 1260,
+        "lost": 1261,
         "forfeited": 73
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -3027,13 +3027,13 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5379,
-        "playtime": 3422710916,
+        "matches": 5380,
+        "playtime": 3423012286,
         "finished": 2046,
         "finishtime": 1450779913,
         "won": 2729,
-        "lost": 2485,
-        "forfeited": 593
+        "lost": 2486,
+        "forfeited": 594
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfity",
@@ -4586,7 +4586,7 @@
             "5": 1859,
             "6": 2003,
             "7": 1933,
-            "8": 1868
+            "8": 1873
         },
         "points": {
             "1": 0,
@@ -4600,11 +4600,11 @@
         },
         "pb": 443342,
         "streak": 10,
-        "matches": 6013,
-        "playtime": 3937179765,
-        "finished": 1963,
-        "finishtime": 1520531099,
-        "won": 2996,
+        "matches": 6015,
+        "playtime": 3938102819,
+        "finished": 1964,
+        "finishtime": 1521152783,
+        "won": 2998,
         "lost": 2779,
         "forfeited": 839
     }
