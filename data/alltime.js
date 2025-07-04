@@ -854,13 +854,13 @@
         },
         "pb": 427487,
         "streak": 11,
-        "matches": 4041,
-        "playtime": 2398471998,
+        "matches": 4042,
+        "playtime": 2399200342,
         "finished": 1565,
         "finishtime": 1039741296,
         "won": 2048,
-        "lost": 1772,
-        "forfeited": 576
+        "lost": 1773,
+        "forfeited": 577
     },
     "2f59967f6a7841ab840e2cb032589a04": {
         "nickname": "Dylqn",
@@ -1694,7 +1694,7 @@
             "5": 1311,
             "6": 1359,
             "7": 1998,
-            "8": 1855
+            "8": 1882
         },
         "points": {
             "1": 0,
@@ -1708,11 +1708,11 @@
         },
         "pb": 442239,
         "streak": 11,
-        "matches": 2029,
-        "playtime": 1262694842,
+        "matches": 2030,
+        "playtime": 1263423186,
         "finished": 698,
         "finishtime": 508453467,
-        "won": 1019,
+        "won": 1020,
         "lost": 923,
         "forfeited": 326
     },
