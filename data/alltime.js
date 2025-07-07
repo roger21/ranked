@@ -1727,7 +1727,7 @@
             "5": 2136,
             "6": 2263,
             "7": 1803,
-            "8": 1691
+            "8": 1715
         },
         "points": {
             "1": 0,
@@ -1741,11 +1741,11 @@
         },
         "pb": 438656,
         "streak": 20,
-        "matches": 2169,
-        "playtime": 1413390250,
-        "finished": 1091,
-        "finishtime": 756491346,
-        "won": 1399,
+        "matches": 2170,
+        "playtime": 1414027128,
+        "finished": 1092,
+        "finishtime": 757128224,
+        "won": 1400,
         "lost": 746,
         "forfeited": 43
     },
@@ -2996,11 +2996,11 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5415,
-        "playtime": 3446063359,
-        "finished": 2054,
-        "finishtime": 1456317176,
-        "won": 2742,
+        "matches": 5416,
+        "playtime": 3446896455,
+        "finished": 2055,
+        "finishtime": 1457150272,
+        "won": 2743,
         "lost": 2504,
         "forfeited": 598
     },
@@ -3095,12 +3095,12 @@
         },
         "pb": 449254,
         "streak": 29,
-        "matches": 1618,
-        "playtime": 977922253,
+        "matches": 1619,
+        "playtime": 978547188,
         "finished": 849,
         "finishtime": 556615024,
         "won": 1082,
-        "lost": 520,
+        "lost": 521,
         "forfeited": 80
     },
     "9c724d7793094a76a8bc9d30f397df92": {
@@ -4355,7 +4355,7 @@
             "5": 2166,
             "6": 2226,
             "7": 2224,
-            "8": 2088
+            "8": 2105
         },
         "points": {
             "1": 0,
@@ -4369,11 +4369,11 @@
         },
         "pb": 449055,
         "streak": 14,
-        "matches": 5969,
-        "playtime": 3733056891,
-        "finished": 2559,
-        "finishtime": 1773535879,
-        "won": 3251,
+        "matches": 5970,
+        "playtime": 3733681826,
+        "finished": 2560,
+        "finishtime": 1774160814,
+        "won": 3252,
         "lost": 2638,
         "forfeited": 745
     },
