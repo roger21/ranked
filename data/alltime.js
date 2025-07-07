@@ -1727,7 +1727,7 @@
             "5": 2136,
             "6": 2263,
             "7": 1803,
-            "8": 1672
+            "8": 1691
         },
         "points": {
             "1": 0,
@@ -1741,11 +1741,11 @@
         },
         "pb": 438656,
         "streak": 20,
-        "matches": 2168,
-        "playtime": 1412827183,
-        "finished": 1090,
-        "finishtime": 755928279,
-        "won": 1398,
+        "matches": 2169,
+        "playtime": 1413390250,
+        "finished": 1091,
+        "finishtime": 756491346,
+        "won": 1399,
         "lost": 746,
         "forfeited": 43
     },
@@ -3095,11 +3095,11 @@
         },
         "pb": 449254,
         "streak": 29,
-        "matches": 1617,
-        "playtime": 977334602,
-        "finished": 848,
-        "finishtime": 556027373,
-        "won": 1081,
+        "matches": 1618,
+        "playtime": 977922253,
+        "finished": 849,
+        "finishtime": 556615024,
+        "won": 1082,
         "lost": 520,
         "forfeited": 80
     },
@@ -3826,13 +3826,13 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4697,
-        "playtime": 2677904930,
+        "matches": 4698,
+        "playtime": 2678524451,
         "finished": 2004,
         "finishtime": 1345498315,
         "won": 2613,
-        "lost": 1910,
-        "forfeited": 1091
+        "lost": 1911,
+        "forfeited": 1092
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
@@ -4355,7 +4355,7 @@
             "5": 2166,
             "6": 2226,
             "7": 2224,
-            "8": 2066
+            "8": 2088
         },
         "points": {
             "1": 0,
@@ -4369,11 +4369,11 @@
         },
         "pb": 449055,
         "streak": 14,
-        "matches": 5968,
-        "playtime": 3732437370,
+        "matches": 5969,
+        "playtime": 3733056891,
         "finished": 2559,
         "finishtime": 1773535879,
-        "won": 3250,
+        "won": 3251,
         "lost": 2638,
         "forfeited": 745
     },
