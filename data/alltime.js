@@ -183,11 +183,11 @@
         },
         "pb": 429968,
         "streak": 12,
-        "matches": 3733,
-        "playtime": 2465149114,
-        "finished": 1408,
-        "finishtime": 1044938493,
-        "won": 1894,
+        "matches": 3734,
+        "playtime": 2465688652,
+        "finished": 1409,
+        "finishtime": 1045478031,
+        "won": 1895,
         "lost": 1694,
         "forfeited": 374
     },
@@ -2755,7 +2755,7 @@
             "5": 1763,
             "6": 1904,
             "7": 1902,
-            "8": 1830
+            "8": 1845
         },
         "points": {
             "1": 0,
@@ -2769,11 +2769,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9184,
-        "playtime": 5930708398,
-        "finished": 3017,
-        "finishtime": 2440310015,
-        "won": 4664,
+        "matches": 9185,
+        "playtime": 5931332312,
+        "finished": 3018,
+        "finishtime": 2440933929,
+        "won": 4665,
         "lost": 4322,
         "forfeited": 2132
     },
@@ -2788,7 +2788,7 @@
             "5": 1842,
             "6": 1945,
             "7": 1826,
-            "8": 1686
+            "8": 1712
         },
         "points": {
             "1": 0,
@@ -2802,11 +2802,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5946,
-        "playtime": 4040638036,
-        "finished": 1938,
-        "finishtime": 1561989982,
-        "won": 2981,
+        "matches": 5947,
+        "playtime": 4041392185,
+        "finished": 1939,
+        "finishtime": 1562744131,
+        "won": 2982,
         "lost": 2797,
         "forfeited": 715
     },
@@ -3543,12 +3543,12 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 2702,
-        "playtime": 1722252870,
+        "matches": 2703,
+        "playtime": 1723007019,
         "finished": 913,
         "finishtime": 679070233,
         "won": 1370,
-        "lost": 1228,
+        "lost": 1229,
         "forfeited": 396
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
