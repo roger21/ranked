@@ -1102,7 +1102,7 @@
             "5": 2266,
             "6": 2329,
             "7": 2345,
-            "8": 2115
+            "8": 2124
         },
         "points": {
             "1": 0,
@@ -1116,11 +1116,11 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10834,
-        "playtime": 6592773753,
+        "matches": 10835,
+        "playtime": 6593300794,
         "finished": 4527,
         "finishtime": 3082604345,
-        "won": 5858,
+        "won": 5859,
         "lost": 4744,
         "forfeited": 1492
     },
@@ -2061,13 +2061,13 @@
         },
         "pb": 412371,
         "streak": 22,
-        "matches": 6229,
-        "playtime": 3612663346,
+        "matches": 6230,
+        "playtime": 3613190387,
         "finished": 2949,
         "finishtime": 2011835742,
         "won": 3879,
-        "lost": 2291,
-        "forfeited": 1065
+        "lost": 2292,
+        "forfeited": 1066
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -2821,7 +2821,7 @@
             "5": 1842,
             "6": 1945,
             "7": 1826,
-            "8": 1763
+            "8": 1783
         },
         "points": {
             "1": 0,
@@ -2835,11 +2835,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5955,
-        "playtime": 4046618844,
-        "finished": 1943,
-        "finishtime": 1565511677,
-        "won": 2987,
+        "matches": 5956,
+        "playtime": 4047406829,
+        "finished": 1944,
+        "finishtime": 1566299662,
+        "won": 2988,
         "lost": 2799,
         "forfeited": 715
     },
@@ -4301,11 +4301,11 @@
         },
         "pb": 465365,
         "streak": 8,
-        "matches": 743,
-        "playtime": 503294557,
-        "finished": 290,
-        "finishtime": 212735064,
-        "won": 407,
+        "matches": 744,
+        "playtime": 504051103,
+        "finished": 291,
+        "finishtime": 213491610,
+        "won": 408,
         "lost": 290,
         "forfeited": 20
     },
