@@ -183,11 +183,11 @@
         },
         "pb": 429968,
         "streak": 12,
-        "matches": 3746,
-        "playtime": 2473187492,
-        "finished": 1419,
-        "finishtime": 1051829764,
-        "won": 1905,
+        "matches": 3748,
+        "playtime": 2473953738,
+        "finished": 1420,
+        "finishtime": 1052543421,
+        "won": 1907,
         "lost": 1696,
         "forfeited": 374
     },
@@ -1116,13 +1116,13 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 10846,
-        "playtime": 6599127787,
+        "matches": 10848,
+        "playtime": 6600117693,
         "finished": 4532,
         "finishtime": 3085517174,
         "won": 5864,
-        "lost": 4748,
-        "forfeited": 1494
+        "lost": 4750,
+        "forfeited": 1495
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -2061,13 +2061,13 @@
         },
         "pb": 412371,
         "streak": 22,
-        "matches": 6248,
-        "playtime": 3623037814,
+        "matches": 6249,
+        "playtime": 3623090403,
         "finished": 2959,
         "finishtime": 2017670053,
         "won": 3892,
-        "lost": 2297,
-        "forfeited": 1066
+        "lost": 2298,
+        "forfeited": 1067
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -2835,12 +2835,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5963,
-        "playtime": 4052835308,
+        "matches": 5964,
+        "playtime": 4053418240,
         "finished": 1946,
         "finishtime": 1567913682,
         "won": 2990,
-        "lost": 2804,
+        "lost": 2805,
         "forfeited": 715
     },
     "8e662c4655534e00802d563043cd8739": {
