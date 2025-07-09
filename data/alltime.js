@@ -1496,7 +1496,7 @@
             "5": 2118,
             "6": 2147,
             "7": 1775,
-            "8": 1750
+            "8": 1765
         },
         "points": {
             "1": 0,
@@ -1510,11 +1510,11 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4763,
-        "playtime": 2840444309,
+        "matches": 4764,
+        "playtime": 2840656920,
         "finished": 1589,
         "finishtime": 1174680894,
-        "won": 2443,
+        "won": 2444,
         "lost": 2153,
         "forfeited": 1283
     },
@@ -1741,13 +1741,13 @@
         },
         "pb": 438656,
         "streak": 20,
-        "matches": 2172,
-        "playtime": 1415546558,
+        "matches": 2173,
+        "playtime": 1415759169,
         "finished": 1093,
         "finishtime": 757852766,
         "won": 1401,
-        "lost": 747,
-        "forfeited": 43
+        "lost": 748,
+        "forfeited": 44
     },
     "56714245be364bd1a469d0853552c109": {
         "nickname": "orachi_",
@@ -1906,11 +1906,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8135,
-        "playtime": 5149123414,
-        "finished": 2881,
-        "finishtime": 2190675771,
-        "won": 4042,
+        "matches": 8136,
+        "playtime": 5149742808,
+        "finished": 2882,
+        "finishtime": 2191295165,
+        "won": 4043,
         "lost": 3819,
         "forfeited": 1387
     },
@@ -2835,12 +2835,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 5969,
-        "playtime": 4056864652,
+        "matches": 5970,
+        "playtime": 4057484046,
         "finished": 1949,
         "finishtime": 1570110743,
         "won": 2993,
-        "lost": 2807,
+        "lost": 2808,
         "forfeited": 715
     },
     "8e662c4655534e00802d563043cd8739": {
