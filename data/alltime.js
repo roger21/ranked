@@ -24,12 +24,12 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 4065,
-        "playtime": 2595318331,
+        "matches": 4066,
+        "playtime": 2595730173,
         "finished": 1526,
         "finishtime": 1111633388,
         "won": 2073,
-        "lost": 1897,
+        "lost": 1898,
         "forfeited": 462
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -468,13 +468,13 @@
             "7": 110,
             "8": 100
         },
-        "pb": 436863,
+        "pb": 411842,
         "streak": 23,
-        "matches": 2611,
-        "playtime": 1611270880,
-        "finished": 1295,
-        "finishtime": 848566128,
-        "won": 1651,
+        "matches": 2612,
+        "playtime": 1611682722,
+        "finished": 1296,
+        "finishtime": 848977970,
+        "won": 1652,
         "lost": 884,
         "forfeited": 60
     },
@@ -4055,13 +4055,13 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3955,
-        "playtime": 2788343445,
+        "matches": 3956,
+        "playtime": 2788971132,
         "finished": 1281,
         "finishtime": 1020549075,
         "won": 1964,
-        "lost": 1854,
-        "forfeited": 230
+        "lost": 1855,
+        "forfeited": 231
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
