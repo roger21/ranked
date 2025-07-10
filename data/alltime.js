@@ -4055,13 +4055,13 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3958,
-        "playtime": 2790091857,
+        "matches": 3959,
+        "playtime": 2790407515,
         "finished": 1282,
         "finishtime": 1021222299,
         "won": 1965,
-        "lost": 1856,
-        "forfeited": 232
+        "lost": 1857,
+        "forfeited": 233
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
