@@ -2375,11 +2375,11 @@
         },
         "pb": 430515,
         "streak": 12,
-        "matches": 5664,
-        "playtime": 3501364841,
-        "finished": 2075,
-        "finishtime": 1489663237,
-        "won": 2897,
+        "matches": 5665,
+        "playtime": 3501998371,
+        "finished": 2076,
+        "finishtime": 1490296767,
+        "won": 2898,
         "lost": 2533,
         "forfeited": 903
     },
@@ -4031,29 +4031,6 @@
         "won": 1367,
         "lost": 1158,
         "forfeited": 552
-    },
-    "cc432b2626a44ae1836a50244adbf468": {
-        "nickname": "Watermelon1708",
-        "country": "pl",
-        "top": {
-            "6": 1636,
-            "7": 1804,
-            "8": 2144
-        },
-        "points": {
-            "6": 0,
-            "7": 40,
-            "8": 20
-        },
-        "pb": 414955,
-        "streak": 27,
-        "matches": 3236,
-        "playtime": 1864082380,
-        "finished": 1055,
-        "finishtime": 785593819,
-        "won": 1617,
-        "lost": 1483,
-        "forfeited": 911
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
