@@ -823,11 +823,11 @@
         },
         "pb": 522167,
         "streak": 11,
-        "matches": 5600,
-        "playtime": 4123662832,
+        "matches": 5601,
+        "playtime": 4124131643,
         "finished": 1892,
         "finishtime": 1600310309,
-        "won": 2857,
+        "won": 2858,
         "lost": 2580,
         "forfeited": 251
     },
@@ -4055,13 +4055,13 @@
         },
         "pb": 496977,
         "streak": 11,
-        "matches": 3956,
-        "playtime": 2788971132,
+        "matches": 3957,
+        "playtime": 2789418633,
         "finished": 1281,
         "finishtime": 1020549075,
         "won": 1964,
-        "lost": 1855,
-        "forfeited": 231
+        "lost": 1856,
+        "forfeited": 232
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
