@@ -88,13 +88,13 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 1767,
-        "playtime": 1180276191,
+        "matches": 1768,
+        "playtime": 1180463710,
         "finished": 607,
         "finishtime": 477908902,
         "won": 919,
-        "lost": 762,
-        "forfeited": 178
+        "lost": 763,
+        "forfeited": 179
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -1840,12 +1840,12 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 1550,
-        "playtime": 956739684,
+        "matches": 1551,
+        "playtime": 957462552,
         "finished": 592,
         "finishtime": 415349967,
         "won": 819,
-        "lost": 657,
+        "lost": 658,
         "forfeited": 262
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
