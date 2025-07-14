@@ -852,11 +852,11 @@
         },
         "pb": 522167,
         "streak": 11,
-        "matches": 5622,
-        "playtime": 4138321505,
+        "matches": 5623,
+        "playtime": 4139006549,
         "finished": 1897,
         "finishtime": 1604824047,
-        "won": 2867,
+        "won": 2868,
         "lost": 2592,
         "forfeited": 252
     },
@@ -3157,13 +3157,13 @@
         },
         "pb": 454462,
         "streak": 18,
-        "matches": 3758,
-        "playtime": 2410883198,
+        "matches": 3759,
+        "playtime": 2411568242,
         "finished": 1199,
         "finishtime": 943196656,
         "won": 1940,
-        "lost": 1717,
-        "forfeited": 899
+        "lost": 1718,
+        "forfeited": 900
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
         "nickname": "loodlow",
