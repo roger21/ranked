@@ -433,12 +433,12 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3419,
-        "playtime": 2480922267,
+        "matches": 3420,
+        "playtime": 2481519792,
         "finished": 1000,
         "finishtime": 847789488,
         "won": 1723,
-        "lost": 1506,
+        "lost": 1507,
         "forfeited": 405
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
@@ -1079,11 +1079,11 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 12899,
-        "playtime": 8339765522,
+        "matches": 12900,
+        "playtime": 8340012250,
         "finished": 5405,
         "finishtime": 3821836916,
-        "won": 7165,
+        "won": 7166,
         "lost": 5504,
         "forfeited": 774
     },
@@ -1902,13 +1902,13 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 1640,
-        "playtime": 1010838467,
+        "matches": 1641,
+        "playtime": 1011085195,
         "finished": 638,
         "finishtime": 444120215,
         "won": 870,
-        "lost": 696,
-        "forfeited": 264
+        "lost": 697,
+        "forfeited": 265
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
