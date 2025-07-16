@@ -1671,12 +1671,12 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 3204,
-        "playtime": 2354156562,
+        "matches": 3205,
+        "playtime": 2354713590,
         "finished": 981,
         "finishtime": 863789654,
         "won": 1621,
-        "lost": 1437,
+        "lost": 1438,
         "forfeited": 281
     },
     "4cf401d7b9474756b06a653867d22fca": {
@@ -1902,13 +1902,13 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 1664,
-        "playtime": 1025307824,
+        "matches": 1665,
+        "playtime": 1025908379,
         "finished": 649,
         "finishtime": 451057030,
         "won": 882,
-        "lost": 708,
-        "forfeited": 266
+        "lost": 709,
+        "forfeited": 267
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
