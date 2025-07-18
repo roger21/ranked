@@ -1079,11 +1079,11 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 13042,
-        "playtime": 8419234334,
-        "finished": 5457,
-        "finishtime": 3854644445,
-        "won": 7240,
+        "matches": 13043,
+        "playtime": 8419972578,
+        "finished": 5458,
+        "finishtime": 3855382689,
+        "won": 7241,
         "lost": 5569,
         "forfeited": 792
     },
@@ -3186,12 +3186,12 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 3006,
-        "playtime": 1757481781,
+        "matches": 3007,
+        "playtime": 1758220025,
         "finished": 1116,
         "finishtime": 789526679,
         "won": 1544,
-        "lost": 1377,
+        "lost": 1378,
         "forfeited": 651
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
@@ -3712,7 +3712,7 @@
             "5": 1971,
             "6": 2275,
             "7": 2117,
-            "8": 1918
+            "8": 1930
         },
         "points": {
             "2": 0,
@@ -3725,11 +3725,11 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4326,
-        "playtime": 2890794814,
+        "matches": 4327,
+        "playtime": 2891330267,
         "finished": 1571,
         "finishtime": 1139789252,
-        "won": 2202,
+        "won": 2203,
         "lost": 1968,
         "forfeited": 81
     },
@@ -3884,13 +3884,13 @@
         },
         "pb": 423000,
         "streak": 18,
-        "matches": 4850,
-        "playtime": 2762976616,
+        "matches": 4851,
+        "playtime": 2763512069,
         "finished": 2070,
         "finishtime": 1384265980,
         "won": 2690,
-        "lost": 1984,
-        "forfeited": 1121
+        "lost": 1985,
+        "forfeited": 1122
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
