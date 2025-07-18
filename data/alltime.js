@@ -883,11 +883,11 @@
         },
         "pb": 427487,
         "streak": 11,
-        "matches": 4099,
-        "playtime": 2433044921,
+        "matches": 4100,
+        "playtime": 2433316106,
         "finished": 1597,
         "finishtime": 1059437552,
-        "won": 2084,
+        "won": 2085,
         "lost": 1793,
         "forfeited": 579
     },
@@ -2798,13 +2798,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9322,
-        "playtime": 6015826096,
+        "matches": 9324,
+        "playtime": 6016821891,
         "finished": 3065,
         "finishtime": 2473616543,
         "won": 4732,
-        "lost": 4389,
-        "forfeited": 2156
+        "lost": 4391,
+        "forfeited": 2157
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -4330,13 +4330,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9834,
-        "playtime": 6385104082,
+        "matches": 9836,
+        "playtime": 6386038050,
         "finished": 3464,
         "finishtime": 2568039518,
         "won": 4806,
-        "lost": 4504,
-        "forfeited": 1097
+        "lost": 4506,
+        "forfeited": 1098
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
