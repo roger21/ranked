@@ -2338,13 +2338,13 @@
         },
         "pb": 443695,
         "streak": 10,
-        "matches": 2484,
-        "playtime": 1600370469,
+        "matches": 2485,
+        "playtime": 1600868313,
         "finished": 805,
         "finishtime": 611070131,
         "won": 1237,
-        "lost": 1136,
-        "forfeited": 345
+        "lost": 1137,
+        "forfeited": 346
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
         "nickname": "TUDORULE",
