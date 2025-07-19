@@ -1341,11 +1341,11 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1413,
-        "playtime": 838698798,
-        "finished": 586,
-        "finishtime": 409114754,
-        "won": 758,
+        "matches": 1414,
+        "playtime": 839534902,
+        "finished": 587,
+        "finishtime": 409950858,
+        "won": 759,
         "lost": 632,
         "forfeited": 342
     },
@@ -1876,37 +1876,6 @@
         "won": 936,
         "lost": 749,
         "forfeited": 273
-    },
-    "5cd115f0ec1240659db152406c0984a3": {
-        "nickname": "yjako",
-        "country": "ph",
-        "top": {
-            "1": 1454,
-            "2": 1307,
-            "4": 1297,
-            "5": 1355,
-            "6": 1662,
-            "7": 1902,
-            "8": 1877
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 50,
-            "8": 13
-        },
-        "pb": 498674,
-        "streak": 10,
-        "matches": 883,
-        "playtime": 539544343,
-        "finished": 302,
-        "finishtime": 227565108,
-        "won": 472,
-        "lost": 373,
-        "forfeited": 201
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
         "nickname": "Ranik_",
@@ -2633,12 +2602,12 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3132,
-        "playtime": 2124151540,
+        "matches": 3133,
+        "playtime": 2124763898,
         "finished": 879,
         "finishtime": 749120795,
         "won": 1542,
-        "lost": 1432,
+        "lost": 1433,
         "forfeited": 578
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
@@ -3712,7 +3681,7 @@
             "5": 1971,
             "6": 2275,
             "7": 2117,
-            "8": 1957
+            "8": 1969
         },
         "points": {
             "2": 0,
@@ -3725,11 +3694,11 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4332,
-        "playtime": 2894236883,
-        "finished": 1574,
-        "finishtime": 1141542120,
-        "won": 2206,
+        "matches": 4333,
+        "playtime": 2894849241,
+        "finished": 1575,
+        "finishtime": 1142154478,
+        "won": 2207,
         "lost": 1970,
         "forfeited": 81
     },
@@ -4361,12 +4330,12 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9864,
-        "playtime": 6404422722,
+        "matches": 9865,
+        "playtime": 6405156471,
         "finished": 3474,
         "finishtime": 2574982132,
         "won": 4819,
-        "lost": 4518,
+        "lost": 4519,
         "forfeited": 1100
     },
     "e43dad544b244da9b690a12fdc8626dc": {
