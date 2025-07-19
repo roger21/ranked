@@ -55,13 +55,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5182,
-        "playtime": 3468107326,
+        "matches": 5184,
+        "playtime": 3468797007,
         "finished": 1745,
         "finishtime": 1356377837,
-        "won": 2587,
-        "lost": 2424,
-        "forfeited": 580
+        "won": 2588,
+        "lost": 2425,
+        "forfeited": 581
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "L9_FOXGIRLPAWJOB",
@@ -2699,12 +2699,12 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 3020,
-        "playtime": 2034370074,
+        "matches": 3021,
+        "playtime": 2034977407,
         "finished": 1017,
         "finishtime": 759491176,
         "won": 1479,
-        "lost": 1302,
+        "lost": 1303,
         "forfeited": 73
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
