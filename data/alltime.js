@@ -1079,13 +1079,13 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 13074,
-        "playtime": 8438483946,
+        "matches": 13075,
+        "playtime": 8438824538,
         "finished": 5472,
         "finishtime": 3864365998,
         "won": 7257,
-        "lost": 5584,
-        "forfeited": 793
+        "lost": 5585,
+        "forfeited": 794
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "dwoh",
@@ -1671,11 +1671,11 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 3234,
-        "playtime": 2375698245,
-        "finished": 989,
-        "finishtime": 870241956,
-        "won": 1634,
+        "matches": 3235,
+        "playtime": 2376480390,
+        "finished": 990,
+        "finishtime": 871024101,
+        "won": 1635,
         "lost": 1453,
         "forfeited": 283
     },
@@ -3186,11 +3186,11 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 3022,
-        "playtime": 1767151047,
+        "matches": 3023,
+        "playtime": 1767491639,
         "finished": 1122,
         "finishtime": 793575055,
-        "won": 1552,
+        "won": 1553,
         "lost": 1384,
         "forfeited": 653
     },
@@ -3674,33 +3674,6 @@
         "won": 1434,
         "lost": 1228,
         "forfeited": 403
-    },
-    "b516d1d18261467bbb6f447f0c111be7": {
-        "nickname": "ELO_SNEAKYGOLEM",
-        "country": "pl",
-        "top": {
-            "4": 1100,
-            "5": 1461,
-            "6": 1697,
-            "7": 1854,
-            "8": 1927
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 11
-        },
-        "pb": 481329,
-        "streak": 13,
-        "matches": 4466,
-        "playtime": 2859294640,
-        "finished": 1229,
-        "finishtime": 985594364,
-        "won": 2164,
-        "lost": 2059,
-        "forfeited": 824
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
