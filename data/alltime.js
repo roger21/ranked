@@ -720,11 +720,11 @@
         },
         "pb": 467855,
         "streak": 11,
-        "matches": 3265,
-        "playtime": 2130851643,
+        "matches": 3266,
+        "playtime": 2131385038,
         "finished": 1241,
         "finishtime": 902315571,
-        "won": 1731,
+        "won": 1732,
         "lost": 1468,
         "forfeited": 158
     },
@@ -1539,13 +1539,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4812,
-        "playtime": 2869538146,
+        "matches": 4813,
+        "playtime": 2870071541,
         "finished": 1606,
         "finishtime": 1186198374,
         "won": 2467,
-        "lost": 2177,
-        "forfeited": 1299
+        "lost": 2178,
+        "forfeited": 1300
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -2187,13 +2187,13 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 3380,
-        "playtime": 2264053334,
+        "matches": 3381,
+        "playtime": 2264337443,
         "finished": 1024,
         "finishtime": 857766984,
         "won": 1721,
-        "lost": 1522,
-        "forfeited": 601
+        "lost": 1523,
+        "forfeited": 602
     },
     "736dbdc44a3e452fa489f5344565835e": {
         "nickname": "drx6",
@@ -2666,12 +2666,12 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3173,
-        "playtime": 2150886281,
+        "matches": 3174,
+        "playtime": 2151562346,
         "finished": 889,
         "finishtime": 757073190,
         "won": 1559,
-        "lost": 1455,
+        "lost": 1456,
         "forfeited": 583
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
