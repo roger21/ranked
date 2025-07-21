@@ -342,11 +342,11 @@
         },
         "pb": 440493,
         "streak": 14,
-        "matches": 3174,
-        "playtime": 1928071759,
-        "finished": 1372,
-        "finishtime": 926611658,
-        "won": 1715,
+        "matches": 3175,
+        "playtime": 1928677469,
+        "finished": 1373,
+        "finishtime": 927217368,
+        "won": 1716,
         "lost": 1368,
         "forfeited": 411
     },
@@ -1079,12 +1079,12 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 13112,
-        "playtime": 8459581984,
+        "matches": 13113,
+        "playtime": 8460187694,
         "finished": 5488,
         "finishtime": 3873863391,
         "won": 7278,
-        "lost": 5601,
+        "lost": 5602,
         "forfeited": 798
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -3708,33 +3708,6 @@
         "lost": 1228,
         "forfeited": 403
     },
-    "b516d1d18261467bbb6f447f0c111be7": {
-        "nickname": "ELO_SNEAKYGOLEM",
-        "country": "pl",
-        "top": {
-            "4": 1100,
-            "5": 1461,
-            "6": 1697,
-            "7": 1854,
-            "8": 1927
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 19
-        },
-        "pb": 481329,
-        "streak": 13,
-        "matches": 4466,
-        "playtime": 2859294640,
-        "finished": 1229,
-        "finishtime": 985594364,
-        "won": 2164,
-        "lost": 2059,
-        "forfeited": 824
-    },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
         "country": "ru",
@@ -4710,11 +4683,11 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6111,
-        "playtime": 3996989176,
-        "finished": 1992,
-        "finishtime": 1540063467,
-        "won": 3039,
+        "matches": 6112,
+        "playtime": 3997711617,
+        "finished": 1993,
+        "finishtime": 1540785908,
+        "won": 3040,
         "lost": 2828,
         "forfeited": 851
     }
