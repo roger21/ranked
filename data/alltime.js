@@ -1539,13 +1539,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4813,
-        "playtime": 2870071541,
+        "matches": 4814,
+        "playtime": 2870137133,
         "finished": 1606,
         "finishtime": 1186198374,
         "won": 2467,
-        "lost": 2178,
-        "forfeited": 1300
+        "lost": 2179,
+        "forfeited": 1301
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -1869,11 +1869,11 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 1801,
-        "playtime": 1103464660,
-        "finished": 713,
-        "finishtime": 489591517,
-        "won": 959,
+        "matches": 1802,
+        "playtime": 1103964793,
+        "finished": 714,
+        "finishtime": 490091650,
+        "won": 960,
         "lost": 767,
         "forfeited": 278
     },
@@ -2666,13 +2666,13 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3174,
-        "playtime": 2151562346,
+        "matches": 3175,
+        "playtime": 2151794641,
         "finished": 889,
         "finishtime": 757073190,
         "won": 1559,
-        "lost": 1456,
-        "forfeited": 583
+        "lost": 1457,
+        "forfeited": 584
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "KARATEBABY_",
