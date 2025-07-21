@@ -2187,11 +2187,11 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 3376,
-        "playtime": 2261649350,
-        "finished": 1022,
-        "finishtime": 856471512,
-        "won": 1718,
+        "matches": 3377,
+        "playtime": 2262235997,
+        "finished": 1023,
+        "finishtime": 857058159,
+        "won": 1719,
         "lost": 1521,
         "forfeited": 600
     },
@@ -2666,12 +2666,12 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3168,
-        "playtime": 2147912039,
+        "matches": 3169,
+        "playtime": 2148913521,
         "finished": 889,
         "finishtime": 757073190,
         "won": 1558,
-        "lost": 1451,
+        "lost": 1452,
         "forfeited": 581
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
@@ -3316,12 +3316,12 @@
         },
         "pb": 451504,
         "streak": 11,
-        "matches": 3203,
-        "playtime": 2205918391,
+        "matches": 3204,
+        "playtime": 2206403103,
         "finished": 1120,
         "finishtime": 857799840,
         "won": 1619,
-        "lost": 1438,
+        "lost": 1439,
         "forfeited": 159
     },
     "a20541925b5648e1ae88a141ca37911e": {
@@ -4531,6 +4531,37 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
+    },
+    "e811fb301b1a41ea81c1f481ea93c3be": {
+        "nickname": "chloetism",
+        "country": "us",
+        "top": {
+            "1": 1310,
+            "3": 1257,
+            "4": 1222,
+            "5": 1678,
+            "6": 1666,
+            "7": 1731,
+            "8": 1883
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 10,
+            "6": 0,
+            "7": 0,
+            "8": 8
+        },
+        "pb": 443397,
+        "streak": 11,
+        "matches": 1054,
+        "playtime": 654543372,
+        "finished": 369,
+        "finishtime": 269860846,
+        "won": 546,
+        "lost": 462,
+        "forfeited": 233
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
