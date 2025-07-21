@@ -342,11 +342,11 @@
         },
         "pb": 440493,
         "streak": 14,
-        "matches": 3182,
-        "playtime": 1932822705,
-        "finished": 1378,
-        "finishtime": 930122144,
-        "won": 1721,
+        "matches": 3183,
+        "playtime": 1933474319,
+        "finished": 1379,
+        "finishtime": 930773758,
+        "won": 1722,
         "lost": 1370,
         "forfeited": 411
     },
@@ -1966,11 +1966,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8209,
-        "playtime": 5192539057,
-        "finished": 2913,
-        "finishtime": 2212140429,
-        "won": 4079,
+        "matches": 8210,
+        "playtime": 5193148950,
+        "finished": 2914,
+        "finishtime": 2212750322,
+        "won": 4080,
         "lost": 3855,
         "forfeited": 1396
     },
@@ -3707,33 +3707,6 @@
         "won": 1434,
         "lost": 1228,
         "forfeited": 403
-    },
-    "b516d1d18261467bbb6f447f0c111be7": {
-        "nickname": "ELO_SNEAKYGOLEM",
-        "country": "pl",
-        "top": {
-            "4": 1100,
-            "5": 1461,
-            "6": 1697,
-            "7": 1854,
-            "8": 1927
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 19
-        },
-        "pb": 481329,
-        "streak": 13,
-        "matches": 4466,
-        "playtime": 2859294640,
-        "finished": 1229,
-        "finishtime": 985594364,
-        "won": 2164,
-        "lost": 2059,
-        "forfeited": 824
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
