@@ -1065,7 +1065,7 @@
             "5": 2290,
             "6": 2348,
             "7": 2264,
-            "8": 2164
+            "8": 2183
         },
         "points": {
             "1": 0,
@@ -1079,11 +1079,11 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 13129,
-        "playtime": 8469208725,
-        "finished": 5498,
-        "finishtime": 3879705700,
-        "won": 7290,
+        "matches": 13130,
+        "playtime": 8469841199,
+        "finished": 5499,
+        "finishtime": 3880338174,
+        "won": 7291,
         "lost": 5606,
         "forfeited": 798
     },
@@ -1145,12 +1145,12 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 11053,
-        "playtime": 6714439236,
+        "matches": 11054,
+        "playtime": 6715071710,
         "finished": 4627,
         "finishtime": 3142145707,
         "won": 5977,
-        "lost": 4838,
+        "lost": 4839,
         "forfeited": 1523
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -1737,13 +1737,13 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3422,
-        "playtime": 2242356486,
+        "matches": 3423,
+        "playtime": 2242655695,
         "finished": 1389,
         "finishtime": 1012977829,
         "won": 1849,
-        "lost": 1500,
-        "forfeited": 314
+        "lost": 1501,
+        "forfeited": 315
     },
     "562a308be86c4ec09438387860e792cc": {
         "nickname": "Oxidiot",
