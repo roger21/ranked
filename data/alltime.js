@@ -3708,33 +3708,6 @@
         "lost": 1228,
         "forfeited": 403
     },
-    "b516d1d18261467bbb6f447f0c111be7": {
-        "nickname": "ELO_SNEAKYGOLEM",
-        "country": "pl",
-        "top": {
-            "4": 1100,
-            "5": 1461,
-            "6": 1697,
-            "7": 1854,
-            "8": 1927
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 19
-        },
-        "pb": 481329,
-        "streak": 13,
-        "matches": 4466,
-        "playtime": 2859294640,
-        "finished": 1229,
-        "finishtime": 985594364,
-        "won": 2164,
-        "lost": 2059,
-        "forfeited": 824
-    },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
         "country": "ru",
