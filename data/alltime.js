@@ -311,11 +311,11 @@
         },
         "pb": 422963,
         "streak": 12,
-        "matches": 1753,
-        "playtime": 1068667034,
+        "matches": 1754,
+        "playtime": 1069158451,
         "finished": 692,
         "finishtime": 496132074,
-        "won": 942,
+        "won": 943,
         "lost": 736,
         "forfeited": 379
     },
@@ -720,13 +720,13 @@
         },
         "pb": 467855,
         "streak": 11,
-        "matches": 3276,
-        "playtime": 2137777141,
+        "matches": 3277,
+        "playtime": 2138268558,
         "finished": 1245,
         "finishtime": 905073697,
         "won": 1737,
-        "lost": 1473,
-        "forfeited": 160
+        "lost": 1474,
+        "forfeited": 161
     },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
