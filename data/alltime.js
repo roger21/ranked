@@ -883,13 +883,13 @@
         },
         "pb": 427487,
         "streak": 11,
-        "matches": 4121,
-        "playtime": 2444900564,
+        "matches": 4122,
+        "playtime": 2445149906,
         "finished": 1607,
         "finishtime": 1065295554,
         "won": 2096,
-        "lost": 1802,
-        "forfeited": 579
+        "lost": 1803,
+        "forfeited": 580
     },
     "2f59967f6a7841ab840e2cb032589a04": {
         "nickname": "Dylqn",
@@ -2895,11 +2895,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9337,
-        "playtime": 6024931023,
-        "finished": 3070,
-        "finishtime": 2477110042,
-        "won": 4738,
+        "matches": 9338,
+        "playtime": 6025588227,
+        "finished": 3071,
+        "finishtime": 2477767246,
+        "won": 4739,
         "lost": 4398,
         "forfeited": 2159
     },
@@ -3498,7 +3498,7 @@
             "5": 1376,
             "6": 2213,
             "7": 2522,
-            "8": 2276
+            "8": 2288
         },
         "points": {
             "3": 0,
@@ -3510,11 +3510,11 @@
         },
         "pb": 426573,
         "streak": 26,
-        "matches": 1913,
-        "playtime": 1132941301,
+        "matches": 1914,
+        "playtime": 1133190643,
         "finished": 1030,
         "finishtime": 639557391,
-        "won": 1265,
+        "won": 1266,
         "lost": 614,
         "forfeited": 36
     },
