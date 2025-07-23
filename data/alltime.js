@@ -4369,13 +4369,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9961,
-        "playtime": 6463128971,
+        "matches": 9962,
+        "playtime": 6463691031,
         "finished": 3503,
         "finishtime": 2594344025,
         "won": 4866,
-        "lost": 4559,
-        "forfeited": 1106
+        "lost": 4560,
+        "forfeited": 1107
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
         "nickname": "Traden",
