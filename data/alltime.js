@@ -2699,13 +2699,13 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3217,
-        "playtime": 2179305291,
+        "matches": 3218,
+        "playtime": 2179515728,
         "finished": 901,
         "finishtime": 767017169,
         "won": 1581,
-        "lost": 1474,
-        "forfeited": 593
+        "lost": 1475,
+        "forfeited": 594
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "KARATEBABY_",
@@ -3252,11 +3252,11 @@
         },
         "pb": 441075,
         "streak": 15,
-        "matches": 3063,
-        "playtime": 1789701124,
-        "finished": 1137,
-        "finishtime": 803139906,
-        "won": 1571,
+        "matches": 3064,
+        "playtime": 1790299662,
+        "finished": 1138,
+        "finishtime": 803738444,
+        "won": 1572,
         "lost": 1405,
         "forfeited": 664
     },
@@ -4712,12 +4712,12 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6129,
-        "playtime": 4008600621,
+        "matches": 6130,
+        "playtime": 4009199159,
         "finished": 2001,
         "finishtime": 1546263317,
         "won": 3048,
-        "lost": 2836,
+        "lost": 2837,
         "forfeited": 854
     }
 }
