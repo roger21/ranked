@@ -342,13 +342,13 @@
         },
         "pb": 440493,
         "streak": 14,
-        "matches": 3200,
-        "playtime": 1943027951,
+        "matches": 3201,
+        "playtime": 1943581922,
         "finished": 1387,
         "finishtime": 935568846,
         "won": 1733,
-        "lost": 1376,
-        "forfeited": 412
+        "lost": 1377,
+        "forfeited": 413
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
         "nickname": "xLourx",
@@ -621,11 +621,11 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 5946,
-        "playtime": 3721152182,
+        "matches": 5947,
+        "playtime": 3721706153,
         "finished": 2184,
         "finishtime": 1542794080,
-        "won": 2957,
+        "won": 2958,
         "lost": 2731,
         "forfeited": 665
     },
@@ -838,7 +838,7 @@
             "5": 1784,
             "6": 1837,
             "7": 1873,
-            "8": 1748
+            "8": 1765
         },
         "points": {
             "1": 0,
@@ -852,11 +852,11 @@
         },
         "pb": 516018,
         "streak": 11,
-        "matches": 5767,
-        "playtime": 4239012031,
-        "finished": 1956,
-        "finishtime": 1649630065,
-        "won": 2944,
+        "matches": 5768,
+        "playtime": 4239852818,
+        "finished": 1957,
+        "finishtime": 1650470852,
+        "won": 2945,
         "lost": 2654,
         "forfeited": 253
     },
@@ -4144,13 +4144,13 @@
         },
         "pb": 495351,
         "streak": 11,
-        "matches": 4016,
-        "playtime": 2824808950,
+        "matches": 4018,
+        "playtime": 2825964446,
         "finished": 1308,
         "finishtime": 1038291518,
         "won": 1996,
-        "lost": 1882,
-        "forfeited": 236
+        "lost": 1883,
+        "forfeited": 237
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
