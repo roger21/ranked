@@ -55,13 +55,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5226,
-        "playtime": 3495195752,
+        "matches": 5227,
+        "playtime": 3495650755,
         "finished": 1762,
         "finishtime": 1367930712,
         "won": 2607,
-        "lost": 2444,
-        "forfeited": 588
+        "lost": 2445,
+        "forfeited": 589
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "L9_FOXGIRLPAWJOB",
@@ -621,12 +621,12 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 5939,
-        "playtime": 3717853559,
+        "matches": 5940,
+        "playtime": 3718390362,
         "finished": 2183,
         "finishtime": 1542108216,
         "won": 2956,
-        "lost": 2725,
+        "lost": 2726,
         "forfeited": 661
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -838,7 +838,7 @@
             "5": 1784,
             "6": 1837,
             "7": 1873,
-            "8": 1744
+            "8": 1748
         },
         "points": {
             "1": 0,
@@ -852,11 +852,11 @@
         },
         "pb": 516018,
         "streak": 11,
-        "matches": 5760,
-        "playtime": 4234384481,
-        "finished": 1953,
-        "finishtime": 1647831363,
-        "won": 2941,
+        "matches": 5761,
+        "playtime": 4235009988,
+        "finished": 1954,
+        "finishtime": 1648456870,
+        "won": 2942,
         "lost": 2651,
         "forfeited": 253
     },
@@ -1638,12 +1638,12 @@
         },
         "pb": 448567,
         "streak": 10,
-        "matches": 1764,
-        "playtime": 1163258273,
+        "matches": 1765,
+        "playtime": 1163810363,
         "finished": 641,
         "finishtime": 471397368,
         "won": 940,
-        "lost": 764,
+        "lost": 765,
         "forfeited": 117
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
@@ -4336,8 +4336,8 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 9975,
-        "playtime": 6472145767,
+        "matches": 9976,
+        "playtime": 6472780886,
         "finished": 3508,
         "finishtime": 2597665516,
         "won": 4872,
