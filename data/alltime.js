@@ -55,13 +55,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5245,
-        "playtime": 3507191912,
+        "matches": 5246,
+        "playtime": 3508138626,
         "finished": 1770,
         "finishtime": 1373726141,
         "won": 2618,
-        "lost": 2452,
-        "forfeited": 593
+        "lost": 2453,
+        "forfeited": 594
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "L9_FOXGIRLPAWJOB",
@@ -1211,11 +1211,11 @@
         },
         "pb": 519705,
         "streak": 9,
-        "matches": 666,
-        "playtime": 459041557,
+        "matches": 667,
+        "playtime": 459783267,
         "finished": 268,
         "finishtime": 207575232,
-        "won": 372,
+        "won": 373,
         "lost": 257,
         "forfeited": 19
     },
@@ -2862,13 +2862,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9368,
-        "playtime": 6046215331,
+        "matches": 9369,
+        "playtime": 6046957041,
         "finished": 3088,
         "finishtime": 2489822547,
         "won": 4758,
-        "lost": 4408,
-        "forfeited": 2161
+        "lost": 4409,
+        "forfeited": 2162
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
