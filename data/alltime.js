@@ -4122,7 +4122,7 @@
         "forfeited": 552
     },
     "cc432b2626a44ae1836a50244adbf468": {
-        "nickname": "Watermelon1708",
+        "nickname": "Jestem_Melon",
         "country": "pl",
         "top": {
             "6": 1636,
