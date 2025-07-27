@@ -1135,11 +1135,11 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 13182,
-        "playtime": 8498933887,
-        "finished": 5518,
-        "finishtime": 3892731610,
-        "won": 7317,
+        "matches": 13183,
+        "playtime": 8499785877,
+        "finished": 5519,
+        "finishtime": 3893583600,
+        "won": 7318,
         "lost": 5632,
         "forfeited": 801
     },
@@ -1793,12 +1793,12 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3436,
-        "playtime": 2249548992,
+        "matches": 3437,
+        "playtime": 2250400982,
         "finished": 1393,
         "finishtime": 1015266739,
         "won": 1854,
-        "lost": 1509,
+        "lost": 1510,
         "forfeited": 318
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -4583,37 +4583,6 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
-    },
-    "e811fb301b1a41ea81c1f481ea93c3be": {
-        "nickname": "chloetism",
-        "country": "us",
-        "top": {
-            "1": 1310,
-            "3": 1257,
-            "4": 1222,
-            "5": 1678,
-            "6": 1666,
-            "7": 1731,
-            "8": 1937
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 10,
-            "6": 0,
-            "7": 0,
-            "8": 8
-        },
-        "pb": 443397,
-        "streak": 11,
-        "matches": 1082,
-        "playtime": 671455090,
-        "finished": 378,
-        "finishtime": 275841295,
-        "won": 558,
-        "lost": 477,
-        "forfeited": 233
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
