@@ -776,13 +776,13 @@
         },
         "pb": 428336,
         "streak": 11,
-        "matches": 3312,
-        "playtime": 2153884172,
+        "matches": 3314,
+        "playtime": 2154811007,
         "finished": 1250,
         "finishtime": 908173609,
         "won": 1750,
-        "lost": 1495,
-        "forfeited": 180
+        "lost": 1497,
+        "forfeited": 182
     },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
@@ -2664,39 +2664,6 @@
         "lost": 292,
         "forfeited": 141
     },
-    "817a3f2e92da42ab89c64a787ce16d28": {
-        "nickname": "Voxio",
-        "country": "fr",
-        "top": {
-            "1": 1542,
-            "2": 1424,
-            "3": 1550,
-            "4": 1605,
-            "5": 1663,
-            "6": 1908,
-            "7": 1899,
-            "8": 2017
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 20,
-            "8": 14
-        },
-        "pb": 440219,
-        "streak": 22,
-        "matches": 6644,
-        "playtime": 4330091141,
-        "finished": 2054,
-        "finishtime": 1656743883,
-        "won": 3266,
-        "lost": 3119,
-        "forfeited": 1502
-    },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
         "country": null,
@@ -2951,11 +2918,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9389,
-        "playtime": 6059004592,
+        "matches": 9390,
+        "playtime": 6059322202,
         "finished": 3093,
         "finishtime": 2493290462,
-        "won": 4764,
+        "won": 4765,
         "lost": 4423,
         "forfeited": 2166
     },
@@ -4795,11 +4762,11 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6147,
-        "playtime": 4020343795,
-        "finished": 2010,
-        "finishtime": 1552727011,
-        "won": 3058,
+        "matches": 6148,
+        "playtime": 4020944382,
+        "finished": 2011,
+        "finishtime": 1553327598,
+        "won": 3059,
         "lost": 2844,
         "forfeited": 856
     }
