@@ -776,13 +776,13 @@
         },
         "pb": 428336,
         "streak": 11,
-        "matches": 3318,
-        "playtime": 2155964767,
+        "matches": 3319,
+        "playtime": 2156258051,
         "finished": 1250,
         "finishtime": 908173609,
         "won": 1750,
-        "lost": 1501,
-        "forfeited": 186
+        "lost": 1502,
+        "forfeited": 187
     },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
@@ -1135,12 +1135,12 @@
         },
         "pb": 437296,
         "streak": 17,
-        "matches": 13189,
-        "playtime": 8502974226,
+        "matches": 13190,
+        "playtime": 8503529572,
         "finished": 5521,
         "finishtime": 3894651641,
         "won": 7321,
-        "lost": 5635,
+        "lost": 5636,
         "forfeited": 802
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -4762,11 +4762,11 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6150,
-        "playtime": 4022008340,
-        "finished": 2012,
-        "finishtime": 1554062618,
-        "won": 3061,
+        "matches": 6151,
+        "playtime": 4022563686,
+        "finished": 2013,
+        "finishtime": 1554617964,
+        "won": 3062,
         "lost": 2844,
         "forfeited": 856
     }
