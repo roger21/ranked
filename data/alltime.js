@@ -776,12 +776,12 @@
         },
         "pb": 428336,
         "streak": 11,
-        "matches": 3325,
-        "playtime": 2158939579,
+        "matches": 3326,
+        "playtime": 2159735914,
         "finished": 1252,
         "finishtime": 909690261,
         "won": 1754,
-        "lost": 1504,
+        "lost": 1505,
         "forfeited": 189
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -1989,12 +1989,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 5445,
-        "playtime": 3484871338,
+        "matches": 5446,
+        "playtime": 3485576216,
         "finished": 2109,
         "finishtime": 1516595470,
         "won": 2839,
-        "lost": 2485,
+        "lost": 2486,
         "forfeited": 658
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -2918,13 +2918,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9402,
-        "playtime": 6066500214,
+        "matches": 9403,
+        "playtime": 6066943575,
         "finished": 3097,
         "finishtime": 2496252336,
         "won": 4770,
-        "lost": 4429,
-        "forfeited": 2168
+        "lost": 4430,
+        "forfeited": 2169
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -4583,6 +4583,37 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
+    },
+    "e811fb301b1a41ea81c1f481ea93c3be": {
+        "nickname": "chloetism",
+        "country": "us",
+        "top": {
+            "1": 1310,
+            "3": 1257,
+            "4": 1222,
+            "5": 1678,
+            "6": 1666,
+            "7": 1731,
+            "8": 1937
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 10,
+            "6": 0,
+            "7": 0,
+            "8": 8
+        },
+        "pb": 443397,
+        "streak": 11,
+        "matches": 1093,
+        "playtime": 678359974,
+        "finished": 383,
+        "finishtime": 279143461,
+        "won": 564,
+        "lost": 482,
+        "forfeited": 234
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
