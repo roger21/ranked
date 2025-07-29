@@ -2276,12 +2276,12 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 3504,
-        "playtime": 2336540743,
+        "matches": 3505,
+        "playtime": 2337402970,
         "finished": 1063,
         "finishtime": 885560332,
         "won": 1783,
-        "lost": 1581,
+        "lost": 1582,
         "forfeited": 633
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3632,11 +3632,11 @@
         },
         "pb": 447856,
         "streak": 12,
-        "matches": 4030,
-        "playtime": 2704424493,
+        "matches": 4031,
+        "playtime": 2705040067,
         "finished": 1348,
         "finishtime": 1006785779,
-        "won": 2031,
+        "won": 2032,
         "lost": 1812,
         "forfeited": 283
     },
@@ -4388,13 +4388,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 10029,
-        "playtime": 6503923764,
+        "matches": 10030,
+        "playtime": 6504539338,
         "finished": 3530,
         "finishtime": 2612446659,
         "won": 4902,
-        "lost": 4588,
-        "forfeited": 1116
+        "lost": 4589,
+        "forfeited": 1117
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
         "nickname": "Traden",
