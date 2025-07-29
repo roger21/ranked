@@ -243,13 +243,13 @@
         },
         "pb": 407453,
         "streak": 12,
-        "matches": 3918,
-        "playtime": 2574322291,
+        "matches": 3920,
+        "playtime": 2574797258,
         "finished": 1498,
         "finishtime": 1100553010,
         "won": 1998,
-        "lost": 1772,
-        "forfeited": 381
+        "lost": 1774,
+        "forfeited": 382
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
         "nickname": "NOHACKSJUSTTIGER",
@@ -776,11 +776,11 @@
         },
         "pb": 428336,
         "streak": 11,
-        "matches": 3344,
-        "playtime": 2170597397,
+        "matches": 3345,
+        "playtime": 2171130583,
         "finished": 1259,
         "finishtime": 914567316,
-        "won": 1765,
+        "won": 1766,
         "lost": 1512,
         "forfeited": 195
     },
@@ -1925,11 +1925,11 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 1845,
-        "playtime": 1127816357,
+        "matches": 1846,
+        "playtime": 1128192185,
         "finished": 734,
         "finishtime": 502091941,
-        "won": 983,
+        "won": 984,
         "lost": 784,
         "forfeited": 283
     },
@@ -4091,7 +4091,7 @@
             "5": 1808,
             "6": 2042,
             "7": 2085,
-            "8": 2046
+            "8": 2062
         },
         "points": {
             "1": 0,
@@ -4105,11 +4105,11 @@
         },
         "pb": 442968,
         "streak": 14,
-        "matches": 4306,
-        "playtime": 2645615592,
-        "finished": 1449,
-        "finishtime": 1037613030,
-        "won": 2136,
+        "matches": 4307,
+        "playtime": 2646088425,
+        "finished": 1450,
+        "finishtime": 1038085863,
+        "won": 2137,
         "lost": 1953,
         "forfeited": 835
     },
@@ -4161,13 +4161,13 @@
         },
         "pb": 414955,
         "streak": 27,
-        "matches": 3316,
-        "playtime": 1910358193,
+        "matches": 3317,
+        "playtime": 1910734021,
         "finished": 1092,
         "finishtime": 808730917,
         "won": 1665,
-        "lost": 1515,
-        "forfeited": 921
+        "lost": 1516,
+        "forfeited": 922
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
