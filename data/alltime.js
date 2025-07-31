@@ -1372,11 +1372,11 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1441,
-        "playtime": 855094698,
+        "matches": 1442,
+        "playtime": 855677668,
         "finished": 597,
         "finishtime": 416193102,
-        "won": 771,
+        "won": 772,
         "lost": 646,
         "forfeited": 348
     },
@@ -2355,37 +2355,6 @@
         "won": 1221,
         "lost": 1059,
         "forfeited": 429
-    },
-    "74ce14cf794b431bb3e10d5311d0777f": {
-        "nickname": "Seauu",
-        "country": "fr",
-        "top": {
-            "1": 1438,
-            "3": 1662,
-            "4": 1505,
-            "5": 1495,
-            "6": 1509,
-            "7": 1934,
-            "8": 2047
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 60,
-            "8": 44
-        },
-        "pb": 453304,
-        "streak": 10,
-        "matches": 531,
-        "playtime": 330802066,
-        "finished": 258,
-        "finishtime": 177330269,
-        "won": 327,
-        "lost": 185,
-        "forfeited": 39
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
@@ -4167,13 +4136,13 @@
         },
         "pb": 414955,
         "streak": 27,
-        "matches": 3321,
-        "playtime": 1913082846,
+        "matches": 3322,
+        "playtime": 1913665816,
         "finished": 1094,
         "finishtime": 809903146,
         "won": 1667,
-        "lost": 1517,
-        "forfeited": 922
+        "lost": 1518,
+        "forfeited": 923
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
