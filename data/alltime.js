@@ -1176,11 +1176,11 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 11149,
-        "playtime": 6764896929,
-        "finished": 4668,
-        "finishtime": 3165392636,
-        "won": 6027,
+        "matches": 11150,
+        "playtime": 6765476030,
+        "finished": 4669,
+        "finishtime": 3165971737,
+        "won": 6028,
         "lost": 4880,
         "forfeited": 1537
     },
@@ -2641,7 +2641,7 @@
     },
     "83518e9927244f319f7175f3ff7609a1": {
         "nickname": "furk1e",
-        "country": null,
+        "country": "tr",
         "top": {
             "1": 1367,
             "2": 1526,
@@ -4770,12 +4770,12 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6189,
-        "playtime": 4045525245,
+        "matches": 6190,
+        "playtime": 4046104346,
         "finished": 2027,
         "finishtime": 1564210665,
         "won": 3080,
-        "lost": 2863,
+        "lost": 2864,
         "forfeited": 860
     }
 }
