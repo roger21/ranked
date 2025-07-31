@@ -751,12 +751,12 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 3386,
-        "playtime": 2197152020,
+        "matches": 3387,
+        "playtime": 2197791808,
         "finished": 1280,
         "finishtime": 929080448,
         "won": 1792,
-        "lost": 1526,
+        "lost": 1527,
         "forfeited": 196
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -2794,13 +2794,13 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 2008,
-        "playtime": 1237903870,
-        "finished": 810,
-        "finishtime": 553152045,
-        "won": 1101,
-        "lost": 824,
-        "forfeited": 165
+        "matches": 2010,
+        "playtime": 1238831143,
+        "finished": 811,
+        "finishtime": 553791833,
+        "won": 1102,
+        "lost": 825,
+        "forfeited": 166
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
         "nickname": "Mar1n",
@@ -4803,11 +4803,11 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6170,
-        "playtime": 4034930517,
-        "finished": 2020,
-        "finishtime": 1559480201,
-        "won": 3071,
+        "matches": 6171,
+        "playtime": 4035603334,
+        "finished": 2021,
+        "finishtime": 1560153018,
+        "won": 3072,
         "lost": 2854,
         "forfeited": 857
     }
