@@ -4185,29 +4185,6 @@
         "lost": 1166,
         "forfeited": 552
     },
-    "cc432b2626a44ae1836a50244adbf468": {
-        "nickname": "Jestem_Melon",
-        "country": "pl",
-        "top": {
-            "6": 1636,
-            "7": 1804,
-            "8": 2152
-        },
-        "points": {
-            "6": 0,
-            "7": 40,
-            "8": 46
-        },
-        "pb": 414955,
-        "streak": 27,
-        "matches": 3357,
-        "playtime": 1934839358,
-        "finished": 1103,
-        "finishtime": 815611042,
-        "won": 1680,
-        "lost": 1538,
-        "forfeited": 928
-    },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
         "country": "us",
