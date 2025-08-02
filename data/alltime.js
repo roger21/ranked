@@ -3780,7 +3780,7 @@
             "5": 1461,
             "6": 1697,
             "7": 1854,
-            "8": 1964
+            "8": 1974
         },
         "points": {
             "4": 0,
@@ -3791,11 +3791,11 @@
         },
         "pb": 481329,
         "streak": 13,
-        "matches": 4532,
-        "playtime": 2899956703,
+        "matches": 4533,
+        "playtime": 2900670058,
         "finished": 1259,
         "finishtime": 1007393666,
-        "won": 2200,
+        "won": 2201,
         "lost": 2087,
         "forfeited": 835
     },
@@ -4012,13 +4012,13 @@
         },
         "pb": 447623,
         "streak": 19,
-        "matches": 4326,
-        "playtime": 2266234140,
+        "matches": 4327,
+        "playtime": 2266947495,
         "finished": 1002,
         "finishtime": 735656049,
         "won": 2107,
-        "lost": 2016,
-        "forfeited": 1657
+        "lost": 2017,
+        "forfeited": 1658
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
