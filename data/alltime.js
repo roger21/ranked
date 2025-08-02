@@ -55,8 +55,8 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5373,
-        "playtime": 3585229281,
+        "matches": 5374,
+        "playtime": 3585761901,
         "finished": 1819,
         "finishtime": 1407873346,
         "won": 2686,
@@ -2251,13 +2251,13 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 3668,
-        "playtime": 2438185327,
+        "matches": 3669,
+        "playtime": 2438699948,
         "finished": 1123,
         "finishtime": 928395959,
         "won": 1863,
-        "lost": 1658,
-        "forfeited": 664
+        "lost": 1659,
+        "forfeited": 665
     },
     "736dbdc44a3e452fa489f5344565835e": {
         "nickname": "drx6",
