@@ -685,11 +685,11 @@
         },
         "pb": 429880,
         "streak": 12,
-        "matches": 1821,
-        "playtime": 1168264806,
-        "finished": 845,
-        "finishtime": 565473122,
-        "won": 1032,
+        "matches": 1822,
+        "playtime": 1168974770,
+        "finished": 846,
+        "finishtime": 566183086,
+        "won": 1033,
         "lost": 744,
         "forfeited": 51
     },
@@ -955,37 +955,6 @@
         "lost": 342,
         "forfeited": 30
     },
-    "31bb6401944d4fc5ad97f6cf90c54616": {
-        "nickname": "darkk575",
-        "country": "br",
-        "top": {
-            "2": 1346,
-            "3": 1508,
-            "4": 1461,
-            "5": 1741,
-            "6": 1717,
-            "7": 1556,
-            "8": 1872
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 12
-        },
-        "pb": 522273,
-        "streak": 10,
-        "matches": 1963,
-        "playtime": 1303526753,
-        "finished": 577,
-        "finishtime": 500567752,
-        "won": 1017,
-        "lost": 885,
-        "forfeited": 461
-    },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
         "country": null,
@@ -1018,6 +987,31 @@
         "won": 491,
         "lost": 411,
         "forfeited": 187
+    },
+    "3549dfbc9ca04045b73dac803fcb8682": {
+        "nickname": "raccong",
+        "country": null,
+        "top": {
+            "4": 1088,
+            "6": 0,
+            "7": 1351,
+            "8": 1896
+        },
+        "points": {
+            "4": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 468773,
+        "streak": 6,
+        "matches": 213,
+        "playtime": 109401521,
+        "finished": 90,
+        "finishtime": 57616618,
+        "won": 125,
+        "lost": 81,
+        "forfeited": 72
     },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "_pizu",
@@ -1141,12 +1135,12 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 13259,
-        "playtime": 8544098668,
+        "matches": 13261,
+        "playtime": 8545080065,
         "finished": 5554,
         "finishtime": 3915691619,
-        "won": 7363,
-        "lost": 5663,
+        "won": 7364,
+        "lost": 5664,
         "forfeited": 803
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1700,12 +1694,12 @@
         },
         "pb": 448567,
         "streak": 10,
-        "matches": 1790,
-        "playtime": 1178096667,
+        "matches": 1791,
+        "playtime": 1178777786,
         "finished": 651,
         "finishtime": 477427069,
         "won": 952,
-        "lost": 776,
+        "lost": 777,
         "forfeited": 117
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
@@ -2596,13 +2590,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3374,
-        "playtime": 2053654341,
+        "matches": 3375,
+        "playtime": 2054062422,
         "finished": 1178,
         "finishtime": 910217441,
         "won": 1774,
-        "lost": 1522,
-        "forfeited": 773
+        "lost": 1523,
+        "forfeited": 774
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
