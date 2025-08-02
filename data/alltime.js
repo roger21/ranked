@@ -373,11 +373,11 @@
         },
         "pb": 440493,
         "streak": 14,
-        "matches": 3247,
-        "playtime": 1970151975,
-        "finished": 1404,
-        "finishtime": 946464498,
-        "won": 1752,
+        "matches": 3248,
+        "playtime": 1970727701,
+        "finished": 1405,
+        "finishtime": 947040224,
+        "won": 1753,
         "lost": 1402,
         "forfeited": 420
     },
@@ -955,37 +955,6 @@
         "lost": 342,
         "forfeited": 30
     },
-    "31bb6401944d4fc5ad97f6cf90c54616": {
-        "nickname": "darkk575",
-        "country": "br",
-        "top": {
-            "2": 1346,
-            "3": 1508,
-            "4": 1461,
-            "5": 1741,
-            "6": 1717,
-            "7": 1556,
-            "8": 1872
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 12
-        },
-        "pb": 522273,
-        "streak": 10,
-        "matches": 1963,
-        "playtime": 1303526753,
-        "finished": 577,
-        "finishtime": 500567752,
-        "won": 1017,
-        "lost": 885,
-        "forfeited": 461
-    },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
         "country": null,
@@ -1018,6 +987,31 @@
         "won": 491,
         "lost": 411,
         "forfeited": 187
+    },
+    "3549dfbc9ca04045b73dac803fcb8682": {
+        "nickname": "raccong",
+        "country": null,
+        "top": {
+            "4": 1088,
+            "6": 0,
+            "7": 1351,
+            "8": 1896
+        },
+        "points": {
+            "4": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 468773,
+        "streak": 6,
+        "matches": 204,
+        "playtime": 104393694,
+        "finished": 87,
+        "finishtime": 55725790,
+        "won": 122,
+        "lost": 76,
+        "forfeited": 70
     },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "_pizu",
@@ -1141,11 +1135,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 13251,
-        "playtime": 8540497689,
-        "finished": 5552,
-        "finishtime": 3914437386,
-        "won": 7357,
+        "matches": 13252,
+        "playtime": 8541155746,
+        "finished": 5553,
+        "finishtime": 3915095443,
+        "won": 7358,
         "lost": 5661,
         "forfeited": 803
     },
@@ -1207,13 +1201,13 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 11184,
-        "playtime": 6782268788,
+        "matches": 11185,
+        "playtime": 6782434249,
         "finished": 4683,
         "finishtime": 3174056428,
         "won": 6045,
-        "lost": 4897,
-        "forfeited": 1547
+        "lost": 4898,
+        "forfeited": 1548
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -2028,12 +2022,12 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8263,
-        "playtime": 5223740154,
+        "matches": 8264,
+        "playtime": 5224268047,
         "finished": 2933,
         "finishtime": 2225080193,
         "won": 4111,
-        "lost": 3876,
+        "lost": 3877,
         "forfeited": 1400
     },
     "625146b684804a29af2eaeb483a59ddf": {
@@ -3085,12 +3079,12 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8831,
-        "playtime": 5323881098,
+        "matches": 8832,
+        "playtime": 5324456824,
         "finished": 3702,
         "finishtime": 2541111686,
         "won": 4910,
-        "lost": 3720,
+        "lost": 3721,
         "forfeited": 1187
     },
     "939ddf85303441de901d60bfa4109318": {
@@ -4206,12 +4200,12 @@
         },
         "pb": 414955,
         "streak": 27,
-        "matches": 3406,
-        "playtime": 1962459331,
+        "matches": 3407,
+        "playtime": 1963117388,
         "finished": 1126,
         "finishtime": 830373121,
         "won": 1707,
-        "lost": 1559,
+        "lost": 1560,
         "forfeited": 938
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
