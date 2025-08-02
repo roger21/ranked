@@ -4658,13 +4658,13 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 5284,
-        "playtime": 2941199182,
+        "matches": 5286,
+        "playtime": 2941848448,
         "finished": 1962,
         "finishtime": 1316391594,
         "won": 2700,
-        "lost": 2441,
-        "forfeited": 1479
+        "lost": 2443,
+        "forfeited": 1481
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
