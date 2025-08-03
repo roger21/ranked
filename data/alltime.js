@@ -2416,6 +2416,37 @@
         "lost": 1059,
         "forfeited": 429
     },
+    "74ce14cf794b431bb3e10d5311d0777f": {
+        "nickname": "Seauu",
+        "country": "fr",
+        "top": {
+            "1": 1438,
+            "3": 1662,
+            "4": 1505,
+            "5": 1495,
+            "6": 1509,
+            "7": 1934,
+            "8": 2047
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 60,
+            "8": 44
+        },
+        "pb": 453304,
+        "streak": 10,
+        "matches": 531,
+        "playtime": 330802066,
+        "finished": 258,
+        "finishtime": 177330269,
+        "won": 327,
+        "lost": 185,
+        "forfeited": 39
+    },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
         "country": null,
@@ -2693,12 +2724,12 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3357,
-        "playtime": 2272705935,
+        "matches": 3358,
+        "playtime": 2273352326,
         "finished": 947,
         "finishtime": 803033542,
         "won": 1655,
-        "lost": 1539,
+        "lost": 1540,
         "forfeited": 612
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
@@ -3116,12 +3147,12 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3750,
-        "playtime": 2491895687,
+        "matches": 3751,
+        "playtime": 2492614545,
         "finished": 1230,
         "finishtime": 956400069,
         "won": 1904,
-        "lost": 1751,
+        "lost": 1752,
         "forfeited": 603
     },
     "99aa9e0e8034479a90259e244dfb9029": {
