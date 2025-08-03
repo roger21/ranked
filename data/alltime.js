@@ -3116,13 +3116,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3756,
-        "playtime": 2496462311,
+        "matches": 3757,
+        "playtime": 2497060709,
         "finished": 1233,
         "finishtime": 958604332,
         "won": 1907,
-        "lost": 1754,
-        "forfeited": 604
+        "lost": 1755,
+        "forfeited": 605
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "69AURAFARMER69",
@@ -4266,12 +4266,12 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 3010,
-        "playtime": 1976660707,
+        "matches": 3011,
+        "playtime": 1977310411,
         "finished": 1072,
         "finishtime": 835074266,
         "won": 1551,
-        "lost": 1365,
+        "lost": 1366,
         "forfeited": 395
     },
     "d7d0b271136647fea7398a444ab51c13": {
