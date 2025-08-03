@@ -2416,37 +2416,6 @@
         "lost": 1059,
         "forfeited": 429
     },
-    "74ce14cf794b431bb3e10d5311d0777f": {
-        "nickname": "Seauu",
-        "country": "fr",
-        "top": {
-            "1": 1438,
-            "3": 1662,
-            "4": 1505,
-            "5": 1495,
-            "6": 1509,
-            "7": 1934,
-            "8": 2047
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 60,
-            "8": 44
-        },
-        "pb": 453304,
-        "streak": 10,
-        "matches": 531,
-        "playtime": 330802066,
-        "finished": 258,
-        "finishtime": 177330269,
-        "won": 327,
-        "lost": 185,
-        "forfeited": 39
-    },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
         "country": null,
@@ -3955,6 +3924,37 @@
         "won": 2790,
         "lost": 2064,
         "forfeited": 1158
+    },
+    "bdb7f407200d4882b78e656ca161bddf": {
+        "nickname": "odd_eye_circle",
+        "country": "va",
+        "top": {
+            "2": 1142,
+            "3": 1176,
+            "4": 1667,
+            "5": 1719,
+            "6": 1565,
+            "7": 1684,
+            "8": 1975
+        },
+        "points": {
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 6
+        },
+        "pb": 447623,
+        "streak": 19,
+        "matches": 4350,
+        "playtime": 2280640783,
+        "finished": 1012,
+        "finishtime": 742186966,
+        "won": 2117,
+        "lost": 2029,
+        "forfeited": 1661
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
