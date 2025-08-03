@@ -1048,31 +1048,6 @@
         "lost": 411,
         "forfeited": 187
     },
-    "3549dfbc9ca04045b73dac803fcb8682": {
-        "nickname": "raccong",
-        "country": null,
-        "top": {
-            "4": 1088,
-            "6": 0,
-            "7": 1351,
-            "8": 1898
-        },
-        "points": {
-            "4": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 468773,
-        "streak": 6,
-        "matches": 218,
-        "playtime": 111997746,
-        "finished": 90,
-        "finishtime": 57616618,
-        "won": 127,
-        "lost": 83,
-        "forfeited": 73
-    },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "_pizu",
         "country": "us",
@@ -2718,11 +2693,11 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3356,
-        "playtime": 2271593428,
-        "finished": 946,
-        "finishtime": 801921035,
-        "won": 1654,
+        "matches": 3357,
+        "playtime": 2272705935,
+        "finished": 947,
+        "finishtime": 803033542,
+        "won": 1655,
         "lost": 1539,
         "forfeited": 612
     },
@@ -3075,11 +3050,11 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8835,
-        "playtime": 5326150912,
-        "finished": 3703,
-        "finishtime": 2541683856,
-        "won": 4911,
+        "matches": 8836,
+        "playtime": 5326721233,
+        "finished": 3704,
+        "finishtime": 2542254177,
+        "won": 4912,
         "lost": 3723,
         "forfeited": 1187
     },
