@@ -3050,11 +3050,11 @@
         },
         "pb": 427007,
         "streak": 20,
-        "matches": 8834,
-        "playtime": 5325578742,
-        "finished": 3702,
-        "finishtime": 2541111686,
-        "won": 4910,
+        "matches": 8835,
+        "playtime": 5326150912,
+        "finished": 3703,
+        "finishtime": 2541683856,
+        "won": 4911,
         "lost": 3723,
         "forfeited": 1187
     },
@@ -3924,37 +3924,6 @@
         "won": 2790,
         "lost": 2064,
         "forfeited": 1158
-    },
-    "bdb7f407200d4882b78e656ca161bddf": {
-        "nickname": "odd_eye_circle",
-        "country": "va",
-        "top": {
-            "2": 1142,
-            "3": 1176,
-            "4": 1667,
-            "5": 1719,
-            "6": 1565,
-            "7": 1684,
-            "8": 1975
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 6
-        },
-        "pb": 447623,
-        "streak": 19,
-        "matches": 4350,
-        "playtime": 2280640783,
-        "finished": 1012,
-        "finishtime": 742186966,
-        "won": 2117,
-        "lost": 2029,
-        "forfeited": 1661
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
