@@ -2563,13 +2563,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3383,
-        "playtime": 2059356758,
+        "matches": 3384,
+        "playtime": 2059876263,
         "finished": 1184,
         "finishtime": 914456723,
         "won": 1781,
-        "lost": 1524,
-        "forfeited": 774
+        "lost": 1525,
+        "forfeited": 775
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -4171,12 +4171,12 @@
         },
         "pb": 414955,
         "streak": 27,
-        "matches": 3411,
-        "playtime": 1965385585,
+        "matches": 3412,
+        "playtime": 1965958308,
         "finished": 1128,
         "finishtime": 831440959,
         "won": 1709,
-        "lost": 1562,
+        "lost": 1563,
         "forfeited": 938
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
@@ -4619,13 +4619,13 @@
         },
         "pb": 445628,
         "streak": 15,
-        "matches": 5291,
-        "playtime": 2944735206,
+        "matches": 5292,
+        "playtime": 2945093228,
         "finished": 1964,
         "finishtime": 1317549391,
         "won": 2702,
-        "lost": 2445,
-        "forfeited": 1482
+        "lost": 2446,
+        "forfeited": 1483
     },
     "ef0814ccd4104b03adb8ab3266535e05": {
         "nickname": "Maraico",
