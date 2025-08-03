@@ -1048,6 +1048,31 @@
         "lost": 411,
         "forfeited": 187
     },
+    "3549dfbc9ca04045b73dac803fcb8682": {
+        "nickname": "raccong",
+        "country": null,
+        "top": {
+            "4": 1088,
+            "6": 0,
+            "7": 1351,
+            "8": 1898
+        },
+        "points": {
+            "4": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 468773,
+        "streak": 6,
+        "matches": 218,
+        "playtime": 111997746,
+        "finished": 90,
+        "finishtime": 57616618,
+        "won": 127,
+        "lost": 83,
+        "forfeited": 73
+    },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "_pizu",
         "country": "us",
