@@ -274,11 +274,11 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 2262,
-        "playtime": 1350720621,
-        "finished": 862,
-        "finishtime": 616278758,
-        "won": 1176,
+        "matches": 2263,
+        "playtime": 1351395982,
+        "finished": 863,
+        "finishtime": 616954119,
+        "won": 1177,
         "lost": 1007,
         "forfeited": 441
     },
@@ -952,37 +952,6 @@
         "won": 498,
         "lost": 342,
         "forfeited": 30
-    },
-    "31bb6401944d4fc5ad97f6cf90c54616": {
-        "nickname": "darkk575",
-        "country": "br",
-        "top": {
-            "2": 1346,
-            "3": 1508,
-            "4": 1461,
-            "5": 1741,
-            "6": 1717,
-            "7": 1556,
-            "8": 1876
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 12
-        },
-        "pb": 522273,
-        "streak": 10,
-        "matches": 1965,
-        "playtime": 1304818085,
-        "finished": 578,
-        "finishtime": 501274185,
-        "won": 1018,
-        "lost": 886,
-        "forfeited": 461
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -2431,12 +2400,12 @@
         },
         "pb": 430515,
         "streak": 12,
-        "matches": 5758,
-        "playtime": 3552465691,
+        "matches": 5759,
+        "playtime": 3553141052,
         "finished": 2120,
         "finishtime": 1516443376,
         "won": 2952,
-        "lost": 2572,
+        "lost": 2573,
         "forfeited": 920
     },
     "7c92678742eb4e819f3122017697ae3d": {
@@ -2497,13 +2466,13 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3401,
-        "playtime": 2069163360,
+        "matches": 3402,
+        "playtime": 2069433395,
         "finished": 1190,
         "finishtime": 918489145,
         "won": 1789,
-        "lost": 1533,
-        "forfeited": 779
+        "lost": 1534,
+        "forfeited": 780
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
