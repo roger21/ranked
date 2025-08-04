@@ -55,13 +55,13 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5427,
-        "playtime": 3617012472,
+        "matches": 5428,
+        "playtime": 3617471144,
         "finished": 1840,
         "finishtime": 1421452864,
         "won": 2718,
-        "lost": 2529,
-        "forfeited": 610
+        "lost": 2530,
+        "forfeited": 611
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "L9_FOXGIRLPAWJOB",
@@ -1108,11 +1108,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 13287,
-        "playtime": 8558840456,
+        "matches": 13288,
+        "playtime": 8559299128,
         "finished": 5564,
         "finishtime": 3921777693,
-        "won": 7381,
+        "won": 7382,
         "lost": 5673,
         "forfeited": 803
     },
@@ -1174,11 +1174,11 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 11254,
-        "playtime": 6816194227,
+        "matches": 11255,
+        "playtime": 6816709779,
         "finished": 4708,
         "finishtime": 3188534063,
-        "won": 6075,
+        "won": 6076,
         "lost": 4936,
         "forfeited": 1575
     },
@@ -2157,39 +2157,6 @@
         "won": 3909,
         "lost": 2306,
         "forfeited": 1067
-    },
-    "728fdcab24b249b686c081a7fc53176e": {
-        "nickname": "ContraVz",
-        "country": "ie",
-        "top": {
-            "1": 1384,
-            "2": 1254,
-            "3": 1166,
-            "4": 1718,
-            "5": 1755,
-            "6": 2045,
-            "7": 1958,
-            "8": 1912
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 20,
-            "5": 25,
-            "6": 55,
-            "7": 60,
-            "8": 14
-        },
-        "pb": 439581,
-        "streak": 12,
-        "matches": 4382,
-        "playtime": 2625253500,
-        "finished": 1483,
-        "finishtime": 1093939006,
-        "won": 2160,
-        "lost": 2026,
-        "forfeited": 1173
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
