@@ -274,11 +274,11 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 2271,
-        "playtime": 1356066700,
+        "matches": 2272,
+        "playtime": 1356404361,
         "finished": 865,
         "finishtime": 618092726,
-        "won": 1179,
+        "won": 1180,
         "lost": 1013,
         "forfeited": 443
     },
@@ -636,7 +636,7 @@
             "5": 1994,
             "6": 2080,
             "7": 2309,
-            "8": 2058
+            "8": 2076
         },
         "points": {
             "1": 0,
@@ -650,11 +650,11 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 5971,
-        "playtime": 3734118045,
+        "matches": 5972,
+        "playtime": 3734233172,
         "finished": 2199,
         "finishtime": 1551926934,
-        "won": 2974,
+        "won": 2975,
         "lost": 2737,
         "forfeited": 668
     },
@@ -2528,11 +2528,11 @@
         },
         "pb": 484494,
         "streak": 12,
-        "matches": 3418,
-        "playtime": 2079231829,
-        "finished": 1196,
-        "finishtime": 922729656,
-        "won": 1797,
+        "matches": 3419,
+        "playtime": 2079888100,
+        "finished": 1197,
+        "finishtime": 923385927,
+        "won": 1798,
         "lost": 1542,
         "forfeited": 784
     },
@@ -3950,13 +3950,13 @@
         },
         "pb": 405299,
         "streak": 18,
-        "matches": 5058,
-        "playtime": 2873083614,
+        "matches": 5060,
+        "playtime": 2873536402,
         "finished": 2155,
         "finishtime": 1436676613,
         "won": 2799,
-        "lost": 2076,
-        "forfeited": 1163
+        "lost": 2078,
+        "forfeited": 1165
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
@@ -4332,13 +4332,13 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6153,
-        "playtime": 4032454429,
+        "matches": 6154,
+        "playtime": 4032733733,
         "finished": 1927,
         "finishtime": 1475865726,
         "won": 3021,
-        "lost": 2831,
-        "forfeited": 937
+        "lost": 2832,
+        "forfeited": 938
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
