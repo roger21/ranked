@@ -2561,13 +2561,13 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 3447,
-        "playtime": 2095855676,
+        "matches": 3448,
+        "playtime": 2096244040,
         "finished": 1204,
         "finishtime": 928281696,
         "won": 1810,
-        "lost": 1556,
-        "forfeited": 791
+        "lost": 1557,
+        "forfeited": 792
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
