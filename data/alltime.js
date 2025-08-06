@@ -2311,11 +2311,11 @@
         },
         "pb": 424838,
         "streak": 12,
-        "matches": 2116,
-        "playtime": 1427366656,
+        "matches": 2117,
+        "playtime": 1428091275,
         "finished": 788,
         "finishtime": 591644285,
-        "won": 1119,
+        "won": 1120,
         "lost": 892,
         "forfeited": 26
     },
@@ -2408,13 +2408,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2367,
-        "playtime": 1538241022,
+        "matches": 2368,
+        "playtime": 1538965641,
         "finished": 812,
         "finishtime": 645253948,
         "won": 1235,
-        "lost": 1067,
-        "forfeited": 432
+        "lost": 1068,
+        "forfeited": 433
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
@@ -4332,12 +4332,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6174,
-        "playtime": 4044899306,
+        "matches": 6175,
+        "playtime": 4045479585,
         "finished": 1938,
         "finishtime": 1483142833,
         "won": 3033,
-        "lost": 2839,
+        "lost": 2840,
         "forfeited": 941
     },
     "da1d85337d244f789d60b009e1e2b346": {
