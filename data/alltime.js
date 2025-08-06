@@ -881,11 +881,11 @@
         },
         "pb": 516018,
         "streak": 11,
-        "matches": 5929,
-        "playtime": 4350886981,
+        "matches": 5930,
+        "playtime": 4351128587,
         "finished": 2006,
         "finishtime": 1689371100,
-        "won": 3017,
+        "won": 3018,
         "lost": 2731,
         "forfeited": 254
     },
@@ -4687,13 +4687,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2522,
-        "playtime": 1692006640,
+        "matches": 2523,
+        "playtime": 1692248246,
         "finished": 918,
         "finishtime": 737169984,
         "won": 1367,
-        "lost": 1115,
-        "forfeited": 394
+        "lost": 1116,
+        "forfeited": 395
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
