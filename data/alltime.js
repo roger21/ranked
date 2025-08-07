@@ -1209,12 +1209,12 @@
         },
         "pb": 495297,
         "streak": 12,
-        "matches": 2063,
-        "playtime": 1472146975,
+        "matches": 2064,
+        "playtime": 1472818153,
         "finished": 713,
         "finishtime": 578559171,
         "won": 1083,
-        "lost": 913,
+        "lost": 914,
         "forfeited": 97
     },
     "3c59ed02bccf4ea3a0f626af7955be91": {
@@ -1570,12 +1570,12 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4881,
-        "playtime": 2908156273,
+        "matches": 4882,
+        "playtime": 2908866356,
         "finished": 1633,
         "finishtime": 1203650671,
         "won": 2507,
-        "lost": 2204,
+        "lost": 2205,
         "forfeited": 1314
     },
     "4894c631e820409ebe4447e4e9835e90": {
@@ -2829,11 +2829,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9470,
-        "playtime": 6106734659,
+        "matches": 9471,
+        "playtime": 6107184151,
         "finished": 3125,
         "finishtime": 2514802441,
-        "won": 4804,
+        "won": 4805,
         "lost": 4463,
         "forfeited": 2178
     },
@@ -4482,6 +4482,37 @@
         "lost": 530,
         "forfeited": 11
     },
+    "e811fb301b1a41ea81c1f481ea93c3be": {
+        "nickname": "chloetism",
+        "country": "us",
+        "top": {
+            "1": 1310,
+            "3": 1257,
+            "4": 1222,
+            "5": 1678,
+            "6": 1666,
+            "7": 1731,
+            "8": 1994
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 10,
+            "6": 0,
+            "7": 0,
+            "8": 8
+        },
+        "pb": 443397,
+        "streak": 11,
+        "matches": 1148,
+        "playtime": 710814961,
+        "finished": 403,
+        "finishtime": 291946877,
+        "won": 590,
+        "lost": 511,
+        "forfeited": 236
+    },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
         "country": "us",
@@ -4660,11 +4691,11 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6256,
-        "playtime": 4088667636,
-        "finished": 2051,
-        "finishtime": 1580726329,
-        "won": 3110,
+        "matches": 6257,
+        "playtime": 4089317279,
+        "finished": 2052,
+        "finishtime": 1581375972,
+        "won": 3111,
         "lost": 2899,
         "forfeited": 871
     }
