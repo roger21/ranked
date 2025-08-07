@@ -1743,39 +1743,6 @@
         "lost": 1249,
         "forfeited": 721
     },
-    "529c478ae270415ba12044771a99249a": {
-        "nickname": "mukvl",
-        "country": "in",
-        "top": {
-            "1": 1198,
-            "2": 1173,
-            "3": 1170,
-            "4": 1283,
-            "5": 1311,
-            "6": 1359,
-            "7": 1998,
-            "8": 2000
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 35,
-            "8": 7
-        },
-        "pb": 442239,
-        "streak": 13,
-        "matches": 2604,
-        "playtime": 1604294113,
-        "finished": 934,
-        "finishtime": 661507416,
-        "won": 1311,
-        "lost": 1194,
-        "forfeited": 412
-    },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
         "country": "tr",
@@ -2218,13 +2185,13 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 3712,
-        "playtime": 2462480347,
+        "matches": 3713,
+        "playtime": 2464172045,
         "finished": 1141,
         "finishtime": 941151332,
         "won": 1887,
-        "lost": 1677,
-        "forfeited": 674
+        "lost": 1678,
+        "forfeited": 675
     },
     "736dbdc44a3e452fa489f5344565835e": {
         "nickname": "drx6",
