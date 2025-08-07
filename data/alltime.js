@@ -654,11 +654,11 @@
         },
         "pb": 429880,
         "streak": 12,
-        "matches": 1849,
-        "playtime": 1185136981,
+        "matches": 1851,
+        "playtime": 1185946519,
         "finished": 859,
         "finishtime": 574669762,
-        "won": 1048,
+        "won": 1050,
         "lost": 755,
         "forfeited": 52
     },
@@ -852,11 +852,11 @@
         },
         "pb": 516018,
         "streak": 11,
-        "matches": 5945,
-        "playtime": 4361868727,
+        "matches": 5946,
+        "playtime": 4362105386,
         "finished": 2012,
         "finishtime": 1694389906,
-        "won": 3027,
+        "won": 3028,
         "lost": 2737,
         "forfeited": 254
     },
@@ -1176,13 +1176,13 @@
         },
         "pb": 379005,
         "streak": 17,
-        "matches": 11375,
-        "playtime": 6881049153,
+        "matches": 11376,
+        "playtime": 6881432763,
         "finished": 4758,
         "finishtime": 3218762055,
         "won": 6136,
-        "lost": 4990,
-        "forfeited": 1595
+        "lost": 4991,
+        "forfeited": 1596
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -2763,13 +2763,13 @@
         },
         "pb": 431368,
         "streak": 20,
-        "matches": 2032,
-        "playtime": 1250204994,
+        "matches": 2033,
+        "playtime": 1250441653,
         "finished": 820,
         "finishtime": 558911029,
         "won": 1113,
-        "lost": 835,
-        "forfeited": 170
+        "lost": 836,
+        "forfeited": 171
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
         "nickname": "Mar1n",
@@ -3023,13 +3023,13 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5613,
-        "playtime": 3565666766,
+        "matches": 5614,
+        "playtime": 3566092694,
         "finished": 2135,
         "finishtime": 1507506099,
         "won": 2845,
-        "lost": 2590,
-        "forfeited": 609
+        "lost": 2591,
+        "forfeited": 610
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfity",
