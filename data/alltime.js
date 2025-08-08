@@ -621,13 +621,13 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6012,
-        "playtime": 3755787373,
+        "matches": 6013,
+        "playtime": 3756631212,
         "finished": 2213,
         "finishtime": 1560777649,
         "won": 2992,
-        "lost": 2759,
-        "forfeited": 675
+        "lost": 2760,
+        "forfeited": 676
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
