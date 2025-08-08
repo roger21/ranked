@@ -63,6 +63,35 @@
         "lost": 2572,
         "forfeited": 618
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "L9_FOXGIRLPAWJOB",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2004
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 19
+        },
+        "pb": 379698,
+        "streak": 9,
+        "matches": 1692,
+        "playtime": 959988085,
+        "finished": 580,
+        "finishtime": 406936777,
+        "won": 848,
+        "lost": 776,
+        "forfeited": 443
+    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -1634,12 +1663,12 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2972,
-        "playtime": 1798201257,
+        "matches": 2973,
+        "playtime": 1798891850,
         "finished": 977,
         "finishtime": 736759017,
         "won": 1455,
-        "lost": 1260,
+        "lost": 1261,
         "forfeited": 470
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -1700,12 +1729,12 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 3369,
-        "playtime": 2467344857,
+        "matches": 3370,
+        "playtime": 2468245097,
         "finished": 1034,
         "finishtime": 904834970,
         "won": 1702,
-        "lost": 1516,
+        "lost": 1517,
         "forfeited": 286
     },
     "4cf401d7b9474756b06a653867d22fca": {
@@ -4247,11 +4276,11 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6252,
-        "playtime": 4094312382,
-        "finished": 1965,
-        "finishtime": 1501719466,
-        "won": 3075,
+        "matches": 6253,
+        "playtime": 4094964067,
+        "finished": 1966,
+        "finishtime": 1502371151,
+        "won": 3076,
         "lost": 2874,
         "forfeited": 941
     },
@@ -4446,39 +4475,6 @@
         "won": 220,
         "lost": 149,
         "forfeited": 100
-    },
-    "e684459722d74b509713052be3b39a9d": {
-        "nickname": "Potatifier",
-        "country": "ca",
-        "top": {
-            "1": 1141,
-            "2": 1387,
-            "3": 1395,
-            "4": 1503,
-            "5": 1776,
-            "6": 1828,
-            "7": 1985,
-            "8": 1906
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 25,
-            "6": 20,
-            "7": 0,
-            "8": 0
-        },
-        "pb": 453250,
-        "streak": 11,
-        "matches": 5485,
-        "playtime": 3475218789,
-        "finished": 1555,
-        "finishtime": 1237526835,
-        "won": 2659,
-        "lost": 2545,
-        "forfeited": 1319
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "nickname": "VMiZ",
