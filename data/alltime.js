@@ -63,35 +63,6 @@
         "lost": 2572,
         "forfeited": 618
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLPAWJOB",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2004
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 19
-        },
-        "pb": 379698,
-        "streak": 9,
-        "matches": 1690,
-        "playtime": 958596297,
-        "finished": 579,
-        "finishtime": 406242484,
-        "won": 847,
-        "lost": 775,
-        "forfeited": 443
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -1663,11 +1634,11 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 2970,
-        "playtime": 1796907531,
-        "finished": 976,
-        "finishtime": 736061522,
-        "won": 1454,
+        "matches": 2971,
+        "playtime": 1797605026,
+        "finished": 977,
+        "finishtime": 736759017,
+        "won": 1455,
         "lost": 1259,
         "forfeited": 470
     },
@@ -2146,11 +2117,11 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 2679,
-        "playtime": 1703697377,
-        "finished": 887,
-        "finishtime": 675515432,
-        "won": 1358,
+        "matches": 2680,
+        "playtime": 1704482181,
+        "finished": 888,
+        "finishtime": 676300236,
+        "won": 1359,
         "lost": 1204,
         "forfeited": 446
     },
@@ -4475,6 +4446,39 @@
         "won": 220,
         "lost": 149,
         "forfeited": 100
+    },
+    "e684459722d74b509713052be3b39a9d": {
+        "nickname": "Potatifier",
+        "country": "ca",
+        "top": {
+            "1": 1141,
+            "2": 1387,
+            "3": 1395,
+            "4": 1503,
+            "5": 1776,
+            "6": 1828,
+            "7": 1985,
+            "8": 1906
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 25,
+            "6": 20,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 453250,
+        "streak": 11,
+        "matches": 5485,
+        "playtime": 3475218789,
+        "finished": 1555,
+        "finishtime": 1237526835,
+        "won": 2659,
+        "lost": 2545,
+        "forfeited": 1319
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "nickname": "VMiZ",
