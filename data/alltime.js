@@ -63,35 +63,6 @@
         "lost": 2572,
         "forfeited": 618
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLPAWJOB",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2004
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 19
-        },
-        "pb": 379698,
-        "streak": 9,
-        "matches": 1686,
-        "playtime": 956323861,
-        "finished": 576,
-        "finishtime": 404516285,
-        "won": 844,
-        "lost": 774,
-        "forfeited": 442
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -285,6 +256,33 @@
         "won": 1050,
         "lost": 836,
         "forfeited": 37
+    },
+    "0c35dc5580aa402c863cfe8d89b81704": {
+        "nickname": "wethr",
+        "country": "ca",
+        "top": {
+            "4": 1510,
+            "5": 1544,
+            "6": 1750,
+            "7": 1650,
+            "8": 1888
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 15,
+            "7": 0,
+            "8": 3
+        },
+        "pb": 469087,
+        "streak": 11,
+        "matches": 1294,
+        "playtime": 859260495,
+        "finished": 419,
+        "finishtime": 329729786,
+        "won": 657,
+        "lost": 554,
+        "forfeited": 217
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
@@ -621,13 +619,13 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6013,
-        "playtime": 3756631212,
+        "matches": 6014,
+        "playtime": 3757223805,
         "finished": 2213,
         "finishtime": 1560777649,
         "won": 2992,
-        "lost": 2760,
-        "forfeited": 676
+        "lost": 2761,
+        "forfeited": 677
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
@@ -4249,11 +4247,11 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6234,
-        "playtime": 4082073524,
+        "matches": 6235,
+        "playtime": 4082666117,
         "finished": 1957,
         "finishtime": 1495938576,
-        "won": 3064,
+        "won": 3065,
         "lost": 2867,
         "forfeited": 941
     },
