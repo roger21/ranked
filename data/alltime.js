@@ -3023,12 +3023,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5623,
-        "playtime": 3572010338,
+        "matches": 5624,
+        "playtime": 3572572637,
         "finished": 2139,
         "finishtime": 1510310867,
         "won": 2850,
-        "lost": 2595,
+        "lost": 2596,
         "forfeited": 610
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -4474,13 +4474,13 @@
         },
         "pb": 453250,
         "streak": 11,
-        "matches": 5482,
-        "playtime": 3473258313,
+        "matches": 5483,
+        "playtime": 3473654408,
         "finished": 1554,
         "finishtime": 1236630447,
         "won": 2658,
-        "lost": 2543,
-        "forfeited": 1317
+        "lost": 2544,
+        "forfeited": 1318
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "nickname": "VMiZ",
@@ -4538,12 +4538,12 @@
         },
         "pb": 443397,
         "streak": 11,
-        "matches": 1152,
-        "playtime": 713377290,
+        "matches": 1154,
+        "playtime": 714462515,
         "finished": 406,
         "finishtime": 293889002,
-        "won": 593,
-        "lost": 512,
+        "won": 594,
+        "lost": 513,
         "forfeited": 236
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
