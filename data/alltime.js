@@ -4515,6 +4515,37 @@
         "lost": 530,
         "forfeited": 11
     },
+    "e811fb301b1a41ea81c1f481ea93c3be": {
+        "nickname": "chloetism",
+        "country": "us",
+        "top": {
+            "1": 1310,
+            "3": 1257,
+            "4": 1222,
+            "5": 1678,
+            "6": 1666,
+            "7": 1731,
+            "8": 1994
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 10,
+            "6": 0,
+            "7": 0,
+            "8": 8
+        },
+        "pb": 443397,
+        "streak": 11,
+        "matches": 1149,
+        "playtime": 711484894,
+        "finished": 404,
+        "finishtime": 292616810,
+        "won": 591,
+        "lost": 511,
+        "forfeited": 236
+    },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
         "country": "us",
