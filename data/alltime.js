@@ -10,7 +10,7 @@
             "5": 1941,
             "6": 2032,
             "7": 2115,
-            "8": 2126
+            "8": 2139
         },
         "points": {
             "1": 0,
@@ -24,11 +24,11 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 4282,
-        "playtime": 2725443304,
+        "matches": 4283,
+        "playtime": 2725722070,
         "finished": 1616,
         "finishtime": 1168297193,
-        "won": 2181,
+        "won": 2182,
         "lost": 2000,
         "forfeited": 465
     },
@@ -84,13 +84,13 @@
         },
         "pb": 379698,
         "streak": 9,
-        "matches": 1715,
-        "playtime": 974924512,
+        "matches": 1716,
+        "playtime": 975203278,
         "finished": 592,
         "finishtime": 414949028,
         "won": 861,
-        "lost": 786,
-        "forfeited": 446
+        "lost": 787,
+        "forfeited": 447
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -460,11 +460,11 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3452,
-        "playtime": 2502100704,
+        "matches": 3453,
+        "playtime": 2502626591,
         "finished": 1010,
         "finishtime": 855097674,
-        "won": 1737,
+        "won": 1738,
         "lost": 1522,
         "forfeited": 408
     },
@@ -1925,11 +1925,11 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 1965,
-        "playtime": 1197064241,
+        "matches": 1966,
+        "playtime": 1197413094,
         "finished": 786,
         "finishtime": 533881406,
-        "won": 1046,
+        "won": 1047,
         "lost": 835,
         "forfeited": 290
     },
@@ -3909,13 +3909,13 @@
         },
         "pb": 405299,
         "streak": 18,
-        "matches": 5091,
-        "playtime": 2890907466,
+        "matches": 5092,
+        "playtime": 2891256319,
         "finished": 2173,
         "finishtime": 1447707300,
         "won": 2820,
-        "lost": 2088,
-        "forfeited": 1168
+        "lost": 2089,
+        "forfeited": 1169
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
