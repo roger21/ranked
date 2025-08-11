@@ -2032,6 +2032,29 @@
         "lost": 3913,
         "forfeited": 1404
     },
+    "60bfac463733422f8708733f3140cd94": {
+        "nickname": "TheCrazedTank",
+        "country": "sg",
+        "top": {
+            "5": 1221,
+            "7": 1708,
+            "8": 1896
+        },
+        "points": {
+            "5": 0,
+            "7": 0,
+            "8": 0
+        },
+        "pb": 485390,
+        "streak": 10,
+        "matches": 140,
+        "playtime": 93399344,
+        "finished": 65,
+        "finishtime": 45788599,
+        "won": 97,
+        "lost": 34,
+        "forfeited": 0
+    },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
         "country": "se",
@@ -4502,37 +4525,6 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
-    },
-    "e811fb301b1a41ea81c1f481ea93c3be": {
-        "nickname": "chloetism",
-        "country": "us",
-        "top": {
-            "1": 1310,
-            "3": 1257,
-            "4": 1222,
-            "5": 1678,
-            "6": 1666,
-            "7": 1731,
-            "8": 1994
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 10,
-            "6": 0,
-            "7": 0,
-            "8": 8
-        },
-        "pb": 443397,
-        "streak": 11,
-        "matches": 1155,
-        "playtime": 714996351,
-        "finished": 406,
-        "finishtime": 293889002,
-        "won": 594,
-        "lost": 514,
-        "forfeited": 236
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
