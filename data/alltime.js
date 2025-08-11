@@ -615,11 +615,11 @@
         },
         "pb": 469453,
         "streak": 9,
-        "matches": 2123,
-        "playtime": 1450071871,
-        "finished": 675,
-        "finishtime": 549676532,
-        "won": 1081,
+        "matches": 2124,
+        "playtime": 1450789753,
+        "finished": 676,
+        "finishtime": 550394414,
+        "won": 1082,
         "lost": 943,
         "forfeited": 199
     },
@@ -1637,6 +1637,39 @@
         "won": 1472,
         "lost": 1270,
         "forfeited": 470
+    },
+    "4aed1e5e8f5c44e2bc0666e0c03781af": {
+        "nickname": "nEmerald",
+        "country": null,
+        "top": {
+            "1": 1602,
+            "2": 1653,
+            "3": 1416,
+            "4": 1602,
+            "5": 1672,
+            "6": 1861,
+            "7": 1947,
+            "8": 2141
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 50,
+            "7": 30,
+            "8": 67
+        },
+        "pb": 448567,
+        "streak": 10,
+        "matches": 1847,
+        "playtime": 1212997755,
+        "finished": 669,
+        "finishtime": 488810408,
+        "won": 977,
+        "lost": 807,
+        "forfeited": 117
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
@@ -3110,11 +3143,11 @@
         },
         "pb": 449254,
         "streak": 29,
-        "matches": 1674,
-        "playtime": 1009724827,
-        "finished": 877,
-        "finishtime": 573218156,
-        "won": 1115,
+        "matches": 1675,
+        "playtime": 1010355223,
+        "finished": 878,
+        "finishtime": 573848552,
+        "won": 1116,
         "lost": 542,
         "forfeited": 80
     },
@@ -4469,37 +4502,6 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
-    },
-    "e811fb301b1a41ea81c1f481ea93c3be": {
-        "nickname": "chloetism",
-        "country": "us",
-        "top": {
-            "1": 1310,
-            "3": 1257,
-            "4": 1222,
-            "5": 1678,
-            "6": 1666,
-            "7": 1731,
-            "8": 1994
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 10,
-            "6": 0,
-            "7": 0,
-            "8": 8
-        },
-        "pb": 443397,
-        "streak": 11,
-        "matches": 1155,
-        "playtime": 714996351,
-        "finished": 406,
-        "finishtime": 293889002,
-        "won": 594,
-        "lost": 514,
-        "forfeited": 236
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
