@@ -2677,13 +2677,13 @@
         },
         "pb": 515090,
         "streak": 9,
-        "matches": 3444,
-        "playtime": 2328290159,
+        "matches": 3446,
+        "playtime": 2329198396,
         "finished": 975,
         "finishtime": 824320902,
         "won": 1696,
-        "lost": 1584,
-        "forfeited": 621
+        "lost": 1585,
+        "forfeited": 622
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "KARATEBABY_",
