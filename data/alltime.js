@@ -96,35 +96,6 @@
         "lost": 830,
         "forfeited": 206
     },
-    "070d5851c46a4a2da91e6ddfdb741d7f": {
-        "nickname": "TheLandSharkJeff",
-        "country": "no",
-        "top": {
-            "3": 1240,
-            "4": 1607,
-            "5": 1611,
-            "6": 1685,
-            "7": 1721,
-            "8": 1942
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 25,
-            "8": 10
-        },
-        "pb": 479121,
-        "streak": 13,
-        "matches": 4656,
-        "playtime": 3500306719,
-        "finished": 1348,
-        "finishtime": 1155054784,
-        "won": 2240,
-        "lost": 2122,
-        "forfeited": 262
-    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -526,11 +497,11 @@
         },
         "pb": 400578,
         "streak": 23,
-        "matches": 2666,
-        "playtime": 1641787825,
-        "finished": 1324,
-        "finishtime": 864961762,
-        "won": 1684,
+        "matches": 2667,
+        "playtime": 1642523599,
+        "finished": 1325,
+        "finishtime": 865697536,
+        "won": 1685,
         "lost": 904,
         "forfeited": 60
     },
@@ -3651,12 +3622,12 @@
         },
         "pb": 447856,
         "streak": 12,
-        "matches": 4097,
-        "playtime": 2743815255,
+        "matches": 4098,
+        "playtime": 2744551029,
         "finished": 1382,
         "finishtime": 1027768544,
         "won": 2071,
-        "lost": 1838,
+        "lost": 1839,
         "forfeited": 283
     },
     "addd890764404097b3f12acdde2adf33": {
@@ -3678,12 +3649,12 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 2846,
-        "playtime": 1812594664,
+        "matches": 2847,
+        "playtime": 1813217963,
         "finished": 970,
         "finishtime": 716738934,
         "won": 1439,
-        "lost": 1299,
+        "lost": 1300,
         "forfeited": 402
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
