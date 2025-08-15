@@ -1193,7 +1193,7 @@
             "5": 1483,
             "6": 1758,
             "7": 1759,
-            "8": 1874
+            "8": 1880
         },
         "points": {
             "1": 0,
@@ -1207,11 +1207,11 @@
         },
         "pb": 495297,
         "streak": 12,
-        "matches": 2194,
-        "playtime": 1559752727,
+        "matches": 2195,
+        "playtime": 1560022815,
         "finished": 766,
         "finishtime": 616649183,
-        "won": 1152,
+        "won": 1153,
         "lost": 971,
         "forfeited": 97
     },
@@ -2173,11 +2173,11 @@
         },
         "pb": 412371,
         "streak": 22,
-        "matches": 6331,
-        "playtime": 3667119900,
-        "finished": 3000,
-        "finishtime": 2043139385,
-        "won": 3941,
+        "matches": 6332,
+        "playtime": 3667676450,
+        "finished": 3001,
+        "finishtime": 2043695935,
+        "won": 3942,
         "lost": 2330,
         "forfeited": 1077
     },
@@ -2423,13 +2423,13 @@
         },
         "pb": 428501,
         "streak": 12,
-        "matches": 5860,
-        "playtime": 3609180424,
+        "matches": 5862,
+        "playtime": 3610030845,
         "finished": 2172,
         "finishtime": 1546477469,
         "won": 3009,
-        "lost": 2617,
-        "forfeited": 930
+        "lost": 2619,
+        "forfeited": 932
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "aimburst",
@@ -2681,13 +2681,13 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 3631,
-        "playtime": 2301460595,
+        "matches": 3632,
+        "playtime": 2301761041,
         "finished": 1160,
         "finishtime": 900578001,
         "won": 1857,
-        "lost": 1648,
-        "forfeited": 853
+        "lost": 1649,
+        "forfeited": 854
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
