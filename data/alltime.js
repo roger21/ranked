@@ -105,7 +105,7 @@
             "5": 1611,
             "6": 1685,
             "7": 1721,
-            "8": 1950
+            "8": 1975
         },
         "points": {
             "3": 0,
@@ -117,11 +117,11 @@
         },
         "pb": 479121,
         "streak": 13,
-        "matches": 4663,
-        "playtime": 3504650455,
+        "matches": 4664,
+        "playtime": 3505198695,
         "finished": 1351,
         "finishtime": 1157469846,
-        "won": 2245,
+        "won": 2246,
         "lost": 2124,
         "forfeited": 262
     },
@@ -245,11 +245,11 @@
         },
         "pb": 443372,
         "streak": 11,
-        "matches": 2300,
-        "playtime": 1374091258,
-        "finished": 879,
-        "finishtime": 627441033,
-        "won": 1196,
+        "matches": 2301,
+        "playtime": 1374697068,
+        "finished": 880,
+        "finishtime": 628046843,
+        "won": 1197,
         "lost": 1025,
         "forfeited": 445
     },
@@ -1038,11 +1038,11 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 2216,
-        "playtime": 1481052895,
+        "matches": 2217,
+        "playtime": 1481360865,
         "finished": 797,
         "finishtime": 602523952,
-        "won": 1149,
+        "won": 1150,
         "lost": 990,
         "forfeited": 190
     },
@@ -1762,13 +1762,13 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 2634,
-        "playtime": 1621323547,
+        "matches": 2635,
+        "playtime": 1621871787,
         "finished": 948,
         "finishtime": 670116654,
         "won": 1330,
-        "lost": 1204,
-        "forfeited": 412
+        "lost": 1205,
+        "forfeited": 413
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -3554,13 +3554,13 @@
         },
         "pb": 456658,
         "streak": 8,
-        "matches": 2421,
-        "playtime": 1436067789,
+        "matches": 2423,
+        "playtime": 1437097623,
         "finished": 746,
         "finishtime": 567245518,
         "won": 1185,
-        "lost": 1012,
-        "forfeited": 575
+        "lost": 1014,
+        "forfeited": 576
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
@@ -4407,12 +4407,12 @@
         },
         "pb": 482356,
         "streak": 14,
-        "matches": 7398,
-        "playtime": 4726057862,
+        "matches": 7399,
+        "playtime": 4726663672,
         "finished": 2115,
         "finishtime": 1717708513,
         "won": 3665,
-        "lost": 3508,
+        "lost": 3509,
         "forfeited": 1923
     },
     "e43dad544b244da9b690a12fdc8626dc": {
