@@ -257,33 +257,6 @@
         "lost": 836,
         "forfeited": 37
     },
-    "0c35dc5580aa402c863cfe8d89b81704": {
-        "nickname": "wethr",
-        "country": "ca",
-        "top": {
-            "4": 1510,
-            "5": 1544,
-            "6": 1750,
-            "7": 1650,
-            "8": 1909
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 15,
-            "7": 0,
-            "8": 3
-        },
-        "pb": 469087,
-        "streak": 11,
-        "matches": 1295,
-        "playtime": 859843249,
-        "finished": 419,
-        "finishtime": 329729786,
-        "won": 658,
-        "lost": 554,
-        "forfeited": 217
-    },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
         "country": "us",
@@ -850,11 +823,11 @@
         },
         "pb": 516018,
         "streak": 11,
-        "matches": 5988,
-        "playtime": 4392406192,
-        "finished": 2026,
-        "finishtime": 1705265074,
-        "won": 3049,
+        "matches": 5989,
+        "playtime": 4393280663,
+        "finished": 2027,
+        "finishtime": 1706139545,
+        "won": 3050,
         "lost": 2758,
         "forfeited": 254
     },
@@ -3098,11 +3071,11 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 5288,
-        "playtime": 3317220253,
+        "matches": 5289,
+        "playtime": 3317567552,
         "finished": 1925,
         "finishtime": 1396476886,
-        "won": 2652,
+        "won": 2653,
         "lost": 2435,
         "forfeited": 876
     },
@@ -4151,13 +4124,13 @@
         },
         "pb": 495351,
         "streak": 11,
-        "matches": 4079,
-        "playtime": 2864031594,
+        "matches": 4080,
+        "playtime": 2864378893,
         "finished": 1333,
         "finishtime": 1055271161,
         "won": 2031,
-        "lost": 1907,
-        "forfeited": 240
+        "lost": 1908,
+        "forfeited": 241
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
@@ -4250,12 +4223,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6442,
-        "playtime": 4213466214,
+        "matches": 6443,
+        "playtime": 4214260211,
         "finished": 2033,
         "finishtime": 1546522968,
         "won": 3168,
-        "lost": 2965,
+        "lost": 2966,
         "forfeited": 945
     },
     "da1d85337d244f789d60b009e1e2b346": {
