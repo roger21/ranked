@@ -918,13 +918,13 @@
         },
         "pb": 408047,
         "streak": 13,
-        "matches": 5017,
-        "playtime": 3036148048,
+        "matches": 5018,
+        "playtime": 3036332042,
         "finished": 1519,
         "finishtime": 1121576460,
         "won": 2371,
-        "lost": 2236,
-        "forfeited": 1085
+        "lost": 2237,
+        "forfeited": 1086
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -1310,12 +1310,12 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1468,
-        "playtime": 871223400,
+        "matches": 1469,
+        "playtime": 871789639,
         "finished": 611,
         "finishtime": 425066819,
         "won": 789,
-        "lost": 655,
+        "lost": 656,
         "forfeited": 348
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
@@ -2396,11 +2396,11 @@
         },
         "pb": 428501,
         "streak": 12,
-        "matches": 5889,
-        "playtime": 3625035925,
-        "finished": 2187,
-        "finishtime": 1555294708,
-        "won": 3029,
+        "matches": 5890,
+        "playtime": 3625602164,
+        "finished": 2188,
+        "finishtime": 1555860947,
+        "won": 3030,
         "lost": 2626,
         "forfeited": 934
     },
@@ -2943,12 +2943,12 @@
         },
         "pb": 480039,
         "streak": 8,
-        "matches": 2118,
-        "playtime": 1411523160,
+        "matches": 2119,
+        "playtime": 1412152660,
         "finished": 773,
         "finishtime": 566993431,
         "won": 1082,
-        "lost": 948,
+        "lost": 949,
         "forfeited": 67
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
@@ -4702,12 +4702,12 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6320,
-        "playtime": 4127315606,
+        "matches": 6321,
+        "playtime": 4127900508,
         "finished": 2077,
         "finishtime": 1599080017,
         "won": 3145,
-        "lost": 2926,
+        "lost": 2927,
         "forfeited": 878
     }
 }
