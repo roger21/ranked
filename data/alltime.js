@@ -918,11 +918,11 @@
         },
         "pb": 408047,
         "streak": 13,
-        "matches": 5011,
-        "playtime": 3034338328,
-        "finished": 1518,
-        "finishtime": 1121012172,
-        "won": 2369,
+        "matches": 5012,
+        "playtime": 3034902616,
+        "finished": 1519,
+        "finishtime": 1121576460,
+        "won": 2370,
         "lost": 2232,
         "forfeited": 1081
     },
@@ -2179,12 +2179,12 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 3933,
-        "playtime": 2600436808,
+        "matches": 3934,
+        "playtime": 2601001096,
         "finished": 1227,
         "finishtime": 1000679628,
         "won": 1997,
-        "lost": 1781,
+        "lost": 1782,
         "forfeited": 701
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3051,7 +3051,7 @@
         "forfeited": 617
     },
     "99aa9e0e8034479a90259e244dfb9029": {
-        "nickname": "69AURAFARMER69",
+        "nickname": "Emillk",
         "country": "yt",
         "top": {
             "1": 1646,
