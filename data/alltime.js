@@ -257,6 +257,33 @@
         "lost": 836,
         "forfeited": 37
     },
+    "0c35dc5580aa402c863cfe8d89b81704": {
+        "nickname": "wethr",
+        "country": "ca",
+        "top": {
+            "4": 1510,
+            "5": 1544,
+            "6": 1750,
+            "7": 1650,
+            "8": 1909
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 15,
+            "7": 0,
+            "8": 3
+        },
+        "pb": 469087,
+        "streak": 11,
+        "matches": 1295,
+        "playtime": 859843249,
+        "finished": 419,
+        "finishtime": 329729786,
+        "won": 658,
+        "lost": 554,
+        "forfeited": 217
+    },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
         "country": "us",
@@ -1050,11 +1077,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 13727,
-        "playtime": 8808160201,
-        "finished": 5740,
-        "finishtime": 4032431653,
-        "won": 7606,
+        "matches": 13728,
+        "playtime": 8808691762,
+        "finished": 5741,
+        "finishtime": 4032963214,
+        "won": 7607,
         "lost": 5885,
         "forfeited": 842
     },
@@ -1840,11 +1867,11 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 2043,
-        "playtime": 1238230214,
-        "finished": 818,
-        "finishtime": 552566233,
-        "won": 1087,
+        "matches": 2044,
+        "playtime": 1238778676,
+        "finished": 819,
+        "finishtime": 553114695,
+        "won": 1088,
         "lost": 870,
         "forfeited": 301
     },
@@ -3044,12 +3071,12 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 3947,
-        "playtime": 2617238508,
+        "matches": 3948,
+        "playtime": 2617786970,
         "finished": 1308,
         "finishtime": 1012217604,
         "won": 2007,
-        "lost": 1841,
+        "lost": 1842,
         "forfeited": 618
     },
     "99aa9e0e8034479a90259e244dfb9029": {
