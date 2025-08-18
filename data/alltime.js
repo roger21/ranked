@@ -96,6 +96,35 @@
         "lost": 830,
         "forfeited": 206
     },
+    "070d5851c46a4a2da91e6ddfdb741d7f": {
+        "nickname": "TheLandSharkJeff",
+        "country": "no",
+        "top": {
+            "3": 1240,
+            "4": 1607,
+            "5": 1611,
+            "6": 1685,
+            "7": 1721,
+            "8": 1975
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 25,
+            "8": 10
+        },
+        "pb": 479121,
+        "streak": 13,
+        "matches": 4723,
+        "playtime": 3543807890,
+        "finished": 1374,
+        "finishtime": 1174043867,
+        "won": 2274,
+        "lost": 2155,
+        "forfeited": 262
+    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -2043,11 +2072,11 @@
         },
         "pb": 428921,
         "streak": 17,
-        "matches": 2992,
-        "playtime": 1744370090,
-        "finished": 1354,
-        "finishtime": 866970192,
-        "won": 1693,
+        "matches": 2993,
+        "playtime": 1744976218,
+        "finished": 1355,
+        "finishtime": 867576320,
+        "won": 1694,
         "lost": 1225,
         "forfeited": 307
     },
@@ -2430,31 +2459,6 @@
         "won": 3047,
         "lost": 2637,
         "forfeited": 936
-    },
-    "7b5563464fdf4757905e681040791ac0": {
-        "nickname": "AllPig",
-        "country": "cn",
-        "top": {
-            "2": 1135,
-            "3": 1470,
-            "4": 0,
-            "8": 1937
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "8": 0
-        },
-        "pb": 496407,
-        "streak": 11,
-        "matches": 278,
-        "playtime": 186717528,
-        "finished": 58,
-        "finishtime": 49948377,
-        "won": 148,
-        "lost": 95,
-        "forfeited": 54
     },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
@@ -3620,12 +3624,12 @@
         },
         "pb": 447856,
         "streak": 12,
-        "matches": 4151,
-        "playtime": 2775162353,
+        "matches": 4152,
+        "playtime": 2775768481,
         "finished": 1408,
         "finishtime": 1042990910,
         "won": 2101,
-        "lost": 1861,
+        "lost": 1862,
         "forfeited": 283
     },
     "addd890764404097b3f12acdde2adf33": {
