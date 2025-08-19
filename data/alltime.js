@@ -621,11 +621,11 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6088,
-        "playtime": 3798349250,
-        "finished": 2243,
-        "finishtime": 1578350460,
-        "won": 3032,
+        "matches": 6089,
+        "playtime": 3798938045,
+        "finished": 2244,
+        "finishtime": 1578939255,
+        "won": 3033,
         "lost": 2792,
         "forfeited": 683
     },
@@ -1869,12 +1869,12 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 2064,
-        "playtime": 1250445929,
+        "matches": 2065,
+        "playtime": 1251034724,
         "finished": 829,
         "finishtime": 558967853,
         "won": 1099,
-        "lost": 879,
+        "lost": 880,
         "forfeited": 303
     },
     "5cd115f0ec1240659db152406c0984a3": {
@@ -2177,12 +2177,12 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 4007,
-        "playtime": 2646763813,
+        "matches": 4008,
+        "playtime": 2647578801,
         "finished": 1254,
         "finishtime": 1020097352,
         "won": 2033,
-        "lost": 1818,
+        "lost": 1819,
         "forfeited": 716
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -2433,31 +2433,6 @@
         "lost": 2642,
         "forfeited": 937
     },
-    "7b5563464fdf4757905e681040791ac0": {
-        "nickname": "AllPig",
-        "country": "cn",
-        "top": {
-            "2": 1135,
-            "3": 1470,
-            "4": 0,
-            "8": 1937
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "8": 0
-        },
-        "pb": 496407,
-        "streak": 11,
-        "matches": 278,
-        "playtime": 186717528,
-        "finished": 58,
-        "finishtime": 49948377,
-        "won": 148,
-        "lost": 95,
-        "forfeited": 54
-    },
     "7c92678742eb4e819f3122017697ae3d": {
         "nickname": "hackingnoises",
         "country": "hk",
@@ -2469,7 +2444,7 @@
             "5": 2273,
             "6": 2470,
             "7": 2434,
-            "8": 1902
+            "8": 1910
         },
         "points": {
             "1": 0,
@@ -2483,11 +2458,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 3073,
-        "playtime": 1881491276,
-        "finished": 1414,
-        "finishtime": 940583052,
-        "won": 1891,
+        "matches": 3075,
+        "playtime": 1882555301,
+        "finished": 1415,
+        "finishtime": 941370241,
+        "won": 1893,
         "lost": 1112,
         "forfeited": 269
     },
@@ -2877,11 +2852,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 6163,
-        "playtime": 4186917926,
+        "matches": 6164,
+        "playtime": 4187555579,
         "finished": 2018,
         "finishtime": 1620758232,
-        "won": 3088,
+        "won": 3089,
         "lost": 2903,
         "forfeited": 723
     },
