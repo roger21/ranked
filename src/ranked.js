@@ -412,18 +412,20 @@ function displayLegendTooltip(target, data) {
       playerDiv.appendChild(flagDiv);
     }
     // elo
-    const toping = (stats.elo === stats.top);
-    const eloDiv = document.createElement("div");
-    eloDiv.classList.add("elo");
-    eloDiv.classList.toggle("toping", toping);
-    eloDiv.textContent = stats.elo + (toping ? " top elo" : " elo");
-    dataRankDiv.appendChild(eloDiv);
-    // top elo
-    if(!toping) {
-      const topEloDiv = document.createElement("div");
-      topEloDiv.classList.add("topelo");
-      topEloDiv.textContent = "(" + stats.top + " top)";
-      dataRankDiv.appendChild(topEloDiv);
+    if(stats.elo !== null) {
+      const toping = (stats.elo === stats.top);
+      const eloDiv = document.createElement("div");
+      eloDiv.classList.add("elo");
+      eloDiv.classList.toggle("toping", toping);
+      eloDiv.textContent = stats.elo + (toping ? " top elo" : " elo");
+      dataRankDiv.appendChild(eloDiv);
+      // top elo
+      if(!toping) {
+        const topEloDiv = document.createElement("div");
+        topEloDiv.classList.add("topelo");
+        topEloDiv.textContent = "(" + stats.top + " top)";
+        dataRankDiv.appendChild(topEloDiv);
+      }
     }
     // le rank label
     const rankLabel = getRankLabel(stats.elo);
