@@ -1099,41 +1099,6 @@
         "lost": 2275,
         "forfeited": 1107
     },
-    "306494c164e74e838a7a0f63f79cc942": {
-        "nickname": "IlLoonCrack",
-        "country": "ru",
-        "top": {
-            "1": 1057,
-            "2": 1193,
-            "3": 1256,
-            "4": 1273,
-            "5": 1405,
-            "6": 1502,
-            "7": 1691,
-            "8": 1717,
-            "9": 1517
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 15,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 485127,
-        "streak": 10,
-        "matches": 2786,
-        "playtime": 1927509682,
-        "finished": 713,
-        "finishtime": 652221018,
-        "won": 1353,
-        "lost": 1268,
-        "forfeited": 635
-    },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
         "country": null,
@@ -2088,13 +2053,13 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3551,
-        "playtime": 2316544749,
+        "matches": 3552,
+        "playtime": 2317154607,
         "finished": 1454,
         "finishtime": 1054838954,
         "won": 1925,
-        "lost": 1551,
-        "forfeited": 329
+        "lost": 1552,
+        "forfeited": 330
     },
     "562a308be86c4ec09438387860e792cc": {
         "nickname": "Oxidiot",
@@ -3409,11 +3374,11 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 3095,
-        "playtime": 2082585785,
-        "finished": 1040,
-        "finishtime": 776769200,
-        "won": 1515,
+        "matches": 3096,
+        "playtime": 2083236666,
+        "finished": 1041,
+        "finishtime": 777420081,
+        "won": 1516,
         "lost": 1336,
         "forfeited": 73
     },
@@ -5065,6 +5030,31 @@
         "lost": 1705,
         "forfeited": 989
     },
+    "cfa74496fc81473f81f1a04308e3fc02": {
+        "nickname": "6zeen",
+        "country": null,
+        "top": {
+            "6": 1075,
+            "7": 1437,
+            "8": 1516,
+            "9": 1562
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 517833,
+        "streak": 10,
+        "matches": 2202,
+        "playtime": 1293559071,
+        "finished": 544,
+        "finishtime": 452301046,
+        "won": 1048,
+        "lost": 1044,
+        "forfeited": 879
+    },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
         "country": "us",
@@ -5335,11 +5325,11 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 10120,
-        "playtime": 6557103406,
-        "finished": 3563,
-        "finishtime": 2634421632,
-        "won": 4942,
+        "matches": 10121,
+        "playtime": 6557954789,
+        "finished": 3564,
+        "finishtime": 2635273015,
+        "won": 4943,
         "lost": 4636,
         "forfeited": 1136
     },
