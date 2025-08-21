@@ -671,13 +671,13 @@
         },
         "pb": 476257,
         "streak": 13,
-        "matches": 4566,
-        "playtime": 2533077277,
+        "matches": 4567,
+        "playtime": 2533574034,
         "finished": 1045,
         "finishtime": 870872376,
         "won": 2185,
-        "lost": 2131,
-        "forfeited": 1895
+        "lost": 2132,
+        "forfeited": 1896
     },
     "1ae14cb96a2f4357a71efac6f7012b59": {
         "nickname": "Cube1337x",
@@ -1377,7 +1377,7 @@
             "6": 1768,
             "7": 1680,
             "8": 1569,
-            "9": 1463
+            "9": 1478
         },
         "points": {
             "1": 0,
@@ -1392,11 +1392,11 @@
         },
         "pb": 521587,
         "streak": 11,
-        "matches": 754,
-        "playtime": 515994489,
-        "finished": 313,
-        "finishtime": 237198475,
-        "won": 436,
+        "matches": 755,
+        "playtime": 516794267,
+        "finished": 314,
+        "finishtime": 237998253,
+        "won": 437,
         "lost": 292,
         "forfeited": 34
     },
@@ -1751,11 +1751,11 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1477,
-        "playtime": 876521494,
+        "matches": 1478,
+        "playtime": 877018251,
         "finished": 617,
         "finishtime": 428807757,
-        "won": 795,
+        "won": 796,
         "lost": 658,
         "forfeited": 348
     },
@@ -1829,6 +1829,41 @@
         "lost": 367,
         "forfeited": 110
     },
+    "43a7708ab37d44f6a267623e840e000a": {
+        "nickname": "_PowR",
+        "country": "au",
+        "top": {
+            "1": 1493,
+            "2": 1470,
+            "3": 1474,
+            "4": 1540,
+            "5": 1519,
+            "6": 1600,
+            "7": 1615,
+            "8": 1358,
+            "9": 1494
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 575343,
+        "streak": 17,
+        "matches": 950,
+        "playtime": 672899929,
+        "finished": 304,
+        "finishtime": 262541195,
+        "won": 505,
+        "lost": 415,
+        "forfeited": 140
+    },
     "4427794ee7ad48bc9b53c156fa4092e1": {
         "nickname": "kW1st",
         "country": "ru",
@@ -1872,7 +1907,7 @@
             "6": 1455,
             "7": 1579,
             "8": 1757,
-            "9": 1519
+            "9": 1522
         },
         "points": {
             "5": 0,
@@ -1883,11 +1918,11 @@
         },
         "pb": 488302,
         "streak": 11,
-        "matches": 3375,
-        "playtime": 2240283904,
-        "finished": 733,
-        "finishtime": 624194206,
-        "won": 1557,
+        "matches": 3376,
+        "playtime": 2241154994,
+        "finished": 734,
+        "finishtime": 625065296,
+        "won": 1558,
         "lost": 1491,
         "forfeited": 787
     },
@@ -2638,7 +2673,7 @@
             "6": 1582,
             "7": 2203,
             "8": 2491,
-            "9": 1640
+            "9": 1642
         },
         "points": {
             "1": 0,
@@ -2653,11 +2688,11 @@
         },
         "pb": 428921,
         "streak": 17,
-        "matches": 3011,
-        "playtime": 1754417010,
-        "finished": 1367,
-        "finishtime": 874308566,
-        "won": 1710,
+        "matches": 3012,
+        "playtime": 1754920896,
+        "finished": 1368,
+        "finishtime": 874812452,
+        "won": 1711,
         "lost": 1227,
         "forfeited": 307
     },
@@ -2847,12 +2882,12 @@
         },
         "pb": 534772,
         "streak": 8,
-        "matches": 1101,
-        "playtime": 802176937,
+        "matches": 1102,
+        "playtime": 802976715,
         "finished": 291,
         "finishtime": 261312395,
         "won": 534,
-        "lost": 491,
+        "lost": 492,
         "forfeited": 124
     },
     "734a1c6118754829acc234135470152c": {
@@ -3638,11 +3673,11 @@
         },
         "pb": 446283,
         "streak": 13,
-        "matches": 6620,
-        "playtime": 4126008162,
-        "finished": 2012,
-        "finishtime": 1577835622,
-        "won": 3117,
+        "matches": 6621,
+        "playtime": 4126829607,
+        "finished": 2013,
+        "finishtime": 1578657067,
+        "won": 3118,
         "lost": 2978,
         "forfeited": 1456
     },
@@ -4408,12 +4443,12 @@
         },
         "pb": 468770,
         "streak": 12,
-        "matches": 2371,
-        "playtime": 1698802809,
+        "matches": 2372,
+        "playtime": 1699673899,
         "finished": 646,
         "finishtime": 543749623,
         "won": 1116,
-        "lost": 1055,
+        "lost": 1056,
         "forfeited": 132
     },
     "a501fd2185d94d3591ac9075880d6350": {
@@ -5312,7 +5347,7 @@
             "6": 1636,
             "7": 1804,
             "8": 2152,
-            "9": 1600
+            "9": 1618
         },
         "points": {
             "1": 0,
@@ -5327,11 +5362,11 @@
         },
         "pb": 414955,
         "streak": 27,
-        "matches": 3702,
-        "playtime": 2128418058,
-        "finished": 1231,
-        "finishtime": 896957840,
-        "won": 1852,
+        "matches": 3703,
+        "playtime": 2128939115,
+        "finished": 1232,
+        "finishtime": 897478897,
+        "won": 1853,
         "lost": 1695,
         "forfeited": 987
     },
@@ -5430,33 +5465,6 @@
         "lost": 312,
         "forfeited": 44
     },
-    "d3f0daa951684e429897128eb6f6bfb1": {
-        "nickname": "Archer330",
-        "country": "cn",
-        "top": {
-            "5": 981,
-            "6": 1418,
-            "7": 1494,
-            "8": 1446,
-            "9": 1429
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 480090,
-        "streak": 12,
-        "matches": 1956,
-        "playtime": 1221083154,
-        "finished": 361,
-        "finishtime": 313622085,
-        "won": 912,
-        "lost": 871,
-        "forfeited": 690
-    },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
         "nickname": "boosterruns",
         "country": "br",
@@ -5540,11 +5548,11 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6539,
-        "playtime": 4273000803,
-        "finished": 2066,
-        "finishtime": 1568554741,
-        "won": 3215,
+        "matches": 6540,
+        "playtime": 4273696031,
+        "finished": 2067,
+        "finishtime": 1569249969,
+        "won": 3216,
         "lost": 3010,
         "forfeited": 948
     },
@@ -5954,12 +5962,12 @@
         },
         "pb": 433890,
         "streak": 16,
-        "matches": 7696,
-        "playtime": 4626533824,
+        "matches": 7697,
+        "playtime": 4627054881,
         "finished": 2529,
         "finishtime": 1940644038,
         "won": 3818,
-        "lost": 3542,
+        "lost": 3543,
         "forfeited": 1693
     },
     "f8fae1e017c442fd82d4817ab813ad1b": {
@@ -6077,7 +6085,7 @@
             "6": 2003,
             "7": 1933,
             "8": 1935,
-            "9": 1478
+            "9": 1492
         },
         "points": {
             "1": 0,
@@ -6092,11 +6100,11 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6423,
-        "playtime": 4189324649,
-        "finished": 2117,
-        "finishtime": 1626628555,
-        "won": 3195,
+        "matches": 6424,
+        "playtime": 4189918599,
+        "finished": 2118,
+        "finishtime": 1627222505,
+        "won": 3196,
         "lost": 2979,
         "forfeited": 890
     }
