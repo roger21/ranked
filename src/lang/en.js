@@ -14,7 +14,7 @@
   "nodata1": "please select more players or more days",
   "loading": "Loading data...",
   "unknown": "unknown",
-  "Unrated": "",
+  "Unrated": "Unranked",
   "Coal": "Coal",
   "Iron": "Iron",
   "Gold": "Gold",

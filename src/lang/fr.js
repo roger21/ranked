@@ -14,7 +14,7 @@
   "nodata1": "choisissez plus de joueurs ou plus de jours",
   "loading": "Chargement...",
   "unknown": "inconnu",
-  "Unrated": "non classé",
+  "Unrated": "Non classé",
   "Coal": "Charbon",
   "Iron": "Fer",
   "Gold": "Or",
