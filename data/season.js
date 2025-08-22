@@ -1,5 +1,5 @@
 {
-    "date": 1755842401000,
+    "date": 1755843001000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -5299,10 +5299,75 @@
             "matches": []
         },
         {
+            "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
+            "nickname": "dandannyboy",
+            "stats": {
+                "rank": 21,
+                "elo": 1635,
+                "top": 1635,
+                "points": 0,
+                "pb": 463237,
+                "current": 2,
+                "streak": 2,
+                "matches": 7,
+                "playtime": 4281880,
+                "finished": 5,
+                "finishtime": 3016664,
+                "won": 5,
+                "lost": 2,
+                "forfeited": 0
+            },
+            "country": "ca",
+            "matches": [
+                {
+                    "date": 1755842825000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "JustAltoid",
+                    "elo": 1635,
+                    "change": 17,
+                    "oelo": 1516,
+                    "ochange": -17,
+                    "time": 628667,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1755841901000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "MaybeSoul",
+                    "elo": 1618,
+                    "change": 20,
+                    "oelo": 1581,
+                    "ochange": -20,
+                    "time": 729406,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1755841116000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "shimuon",
+                    "elo": 1598,
+                    "change": -20,
+                    "oelo": 1642,
+                    "ochange": 20,
+                    "time": 656705,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "0b6c44a481e14c7e88ac836c92499ff4",
             "nickname": "NOHACKSJUSTTIGER",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 1630,
                 "top": 1648,
                 "points": 0,
@@ -5633,7 +5698,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1627,
                 "top": 1704,
                 "points": 0,
@@ -6300,7 +6365,7 @@
             "uuid": "26c82339872246c489bf285760ca1af3",
             "nickname": "novadud",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 1626,
                 "top": 1626,
                 "points": 0,
@@ -6664,57 +6729,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 734384,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
-            "nickname": "dandannyboy",
-            "stats": {
-                "rank": 25,
-                "elo": 1618,
-                "top": 1618,
-                "points": 0,
-                "pb": 463237,
-                "current": 1,
-                "streak": 2,
-                "matches": 6,
-                "playtime": 3653213,
-                "finished": 4,
-                "finishtime": 2387997,
-                "won": 4,
-                "lost": 2,
-                "forfeited": 0
-            },
-            "country": "ca",
-            "matches": [
-                {
-                    "date": 1755841901000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MaybeSoul",
-                    "elo": 1618,
-                    "change": 20,
-                    "oelo": 1581,
-                    "ochange": -20,
-                    "time": 729406,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1755841116000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "shimuon",
-                    "elo": 1598,
-                    "change": -20,
-                    "oelo": 1642,
-                    "ochange": 20,
-                    "time": 656705,
                     "forfeited": false,
                     "decayed": false
                 }
