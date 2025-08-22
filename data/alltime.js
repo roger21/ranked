@@ -259,11 +259,11 @@
         },
         "pb": 407453,
         "streak": 14,
-        "matches": 4231,
-        "playtime": 2751955074,
-        "finished": 1643,
-        "finishtime": 1187530652,
-        "won": 2168,
+        "matches": 4232,
+        "playtime": 2752517144,
+        "finished": 1644,
+        "finishtime": 1188092722,
+        "won": 2169,
         "lost": 1907,
         "forfeited": 391
     },
@@ -279,7 +279,7 @@
             "6": 2057,
             "7": 2063,
             "8": 2030,
-            "9": 1648
+            "9": 1650
         },
         "points": {
             "1": 0,
@@ -294,11 +294,11 @@
         },
         "pb": 443372,
         "streak": 12,
-        "matches": 2371,
-        "playtime": 1414718334,
+        "matches": 2372,
+        "playtime": 1415036631,
         "finished": 914,
         "finishtime": 648468609,
-        "won": 1237,
+        "won": 1238,
         "lost": 1052,
         "forfeited": 456
     },
@@ -1287,12 +1287,12 @@
         },
         "pb": 521587,
         "streak": 11,
-        "matches": 764,
-        "playtime": 521952036,
+        "matches": 765,
+        "playtime": 522550769,
         "finished": 318,
         "finishtime": 240630413,
         "won": 441,
-        "lost": 295,
+        "lost": 296,
         "forfeited": 34
     },
     "388533d5a2ad4b349a31db4738670a4b": {
@@ -2022,13 +2022,13 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 2658,
-        "playtime": 1634825176,
+        "matches": 2659,
+        "playtime": 1635143473,
         "finished": 960,
         "finishtime": 677438712,
         "won": 1345,
-        "lost": 1212,
-        "forfeited": 415
+        "lost": 1213,
+        "forfeited": 416
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -2127,12 +2127,12 @@
         },
         "pb": 491809,
         "streak": 19,
-        "matches": 1056,
-        "playtime": 668047948,
+        "matches": 1057,
+        "playtime": 668610018,
         "finished": 414,
         "finishtime": 303125133,
         "won": 613,
-        "lost": 414,
+        "lost": 415,
         "forfeited": 137
     },
     "59f81e4943014bffa80513d56de77728": {
@@ -2543,11 +2543,11 @@
         },
         "pb": 412371,
         "streak": 22,
-        "matches": 6384,
-        "playtime": 3694091462,
-        "finished": 3027,
-        "finishtime": 2059436460,
-        "won": 3974,
+        "matches": 6385,
+        "playtime": 3694690195,
+        "finished": 3028,
+        "finishtime": 2060035193,
+        "won": 3975,
         "lost": 2349,
         "forfeited": 1087
     },
@@ -3537,7 +3537,7 @@
             "6": 2378,
             "7": 2312,
             "8": 2303,
-            "9": 1839
+            "9": 1850
         },
         "points": {
             "1": 0,
@@ -3552,11 +3552,11 @@
         },
         "pb": 425958,
         "streak": 20,
-        "matches": 8994,
-        "playtime": 5417359563,
-        "finished": 3789,
-        "finishtime": 2592805855,
-        "won": 5015,
+        "matches": 8995,
+        "playtime": 5418020510,
+        "finished": 3790,
+        "finishtime": 2593466802,
+        "won": 5016,
         "lost": 3773,
         "forfeited": 1187
     },
@@ -4007,12 +4007,12 @@
         },
         "pb": 489901,
         "streak": 9,
-        "matches": 713,
-        "playtime": 447208280,
+        "matches": 714,
+        "playtime": 447869227,
         "finished": 302,
         "finishtime": 220957599,
         "won": 429,
-        "lost": 252,
+        "lost": 253,
         "forfeited": 73
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
@@ -5206,13 +5206,13 @@
         },
         "pb": 482356,
         "streak": 14,
-        "matches": 7520,
-        "playtime": 4797853012,
+        "matches": 7521,
+        "playtime": 4798316794,
         "finished": 2165,
         "finishtime": 1750425005,
         "won": 3724,
-        "lost": 3570,
-        "forfeited": 1941
+        "lost": 3571,
+        "forfeited": 1942
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
