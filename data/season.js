@@ -1,5 +1,5 @@
 {
-    "date": 1755843601000,
+    "date": 1755844202000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7075,10 +7075,47 @@
             ]
         },
         {
+            "uuid": "529c478ae270415ba12044771a99249a",
+            "nickname": "mukvl",
+            "stats": {
+                "rank": 28,
+                "elo": 1606,
+                "top": 1606,
+                "points": 0,
+                "pb": 555344,
+                "current": 4,
+                "streak": 4,
+                "matches": 6,
+                "playtime": 3409066,
+                "finished": 4,
+                "finishtime": 2478722,
+                "won": 5,
+                "lost": 1,
+                "forfeited": 1
+            },
+            "country": "in",
+            "matches": [
+                {
+                    "date": 1755843844000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "ElegantRobin",
+                    "elo": 1606,
+                    "change": 15,
+                    "oelo": 1445,
+                    "ochange": -15,
+                    "time": 731118,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 1592,
                 "top": 1624,
                 "points": 0,
@@ -7320,28 +7357,6 @@
                     "decayed": false
                 }
             ]
-        },
-        {
-            "uuid": "529c478ae270415ba12044771a99249a",
-            "nickname": "mukvl",
-            "stats": {
-                "rank": 29,
-                "elo": 1591,
-                "top": 1591,
-                "points": 0,
-                "pb": 555344,
-                "current": 3,
-                "streak": 3,
-                "matches": 5,
-                "playtime": 2677948,
-                "finished": 3,
-                "finishtime": 1747604,
-                "won": 4,
-                "lost": 1,
-                "forfeited": 1
-            },
-            "country": "in",
-            "matches": []
         },
         {
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
@@ -11199,7 +11214,7 @@
             "uuid": "7fad8dae2ab04971bc07a6440f84d609",
             "nickname": "suravil",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1553,
                 "top": 1553,
                 "points": 0,
@@ -11362,7 +11377,7 @@
             "uuid": "6ddcd037dd4048e8804d0f99fa1cf4c6",
             "nickname": "Ale267",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1552,
                 "top": 1657,
                 "points": 0,
