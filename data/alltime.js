@@ -154,12 +154,12 @@
         },
         "pb": 479121,
         "streak": 13,
-        "matches": 4784,
-        "playtime": 3584133354,
+        "matches": 4785,
+        "playtime": 3584778083,
         "finished": 1399,
         "finishtime": 1192327727,
         "won": 2306,
-        "lost": 2180,
+        "lost": 2181,
         "forfeited": 262
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -3237,12 +3237,12 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 3142,
-        "playtime": 2113432091,
+        "matches": 3143,
+        "playtime": 2114136410,
         "finished": 1051,
         "finishtime": 784325877,
         "won": 1534,
-        "lost": 1359,
+        "lost": 1360,
         "forfeited": 73
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -3342,13 +3342,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9603,
-        "playtime": 6186692735,
+        "matches": 9604,
+        "playtime": 6186944704,
         "finished": 3187,
         "finishtime": 2556174839,
         "won": 4880,
-        "lost": 4520,
-        "forfeited": 2198
+        "lost": 4521,
+        "forfeited": 2199
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -4591,39 +4591,6 @@
         "won": 1635,
         "lost": 1565,
         "forfeited": 463
-    },
-    "bdb7f407200d4882b78e656ca161bddf": {
-        "nickname": "feministliteratu",
-        "country": "fk",
-        "top": {
-            "2": 1142,
-            "3": 1176,
-            "4": 1667,
-            "5": 1719,
-            "6": 1565,
-            "7": 1684,
-            "8": 1975,
-            "9": 1582
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 0
-        },
-        "pb": 433349,
-        "streak": 19,
-        "matches": 4541,
-        "playtime": 2375158973,
-        "finished": 1059,
-        "finishtime": 772517801,
-        "won": 2183,
-        "lost": 2135,
-        "forfeited": 1737
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
