@@ -1,5 +1,5 @@
 {
-    "date": 1755961201000,
+    "date": 1755961801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -16001,8 +16001,8 @@
                 "pb": 455123,
                 "current": 4,
                 "streak": 4,
-                "matches": 19,
-                "playtime": 10866982,
+                "matches": 20,
+                "playtime": 11204822,
                 "finished": 8,
                 "finishtime": 4798388,
                 "won": 10,
@@ -16011,6 +16011,20 @@
             },
             "country": "hu",
             "matches": [
+                {
+                    "date": 1755961562000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "BeefSalad",
+                    "elo": 1641,
+                    "change": 0,
+                    "oelo": 1639,
+                    "ochange": 0,
+                    "time": 337840,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1755960992000,
                     "type": "VILLAGE",
@@ -16234,8 +16248,8 @@
                 "pb": 467741,
                 "current": 0,
                 "streak": 7,
-                "matches": 35,
-                "playtime": 18594656,
+                "matches": 36,
+                "playtime": 18932496,
                 "finished": 11,
                 "finishtime": 6185135,
                 "won": 16,
@@ -16244,6 +16258,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1755961562000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "iKme_",
+                    "elo": 1639,
+                    "change": 0,
+                    "oelo": 1641,
+                    "ochange": 0,
+                    "time": 337840,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1755961178000,
                     "type": "BURIED_TREASURE",
