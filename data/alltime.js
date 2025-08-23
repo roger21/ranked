@@ -3066,31 +3066,6 @@
         "lost": 3232,
         "forfeited": 1543
     },
-    "8195522a3c574d86b2162c8b8ec8bd3d": {
-        "nickname": "pardonmc",
-        "country": "pl",
-        "top": {
-            "6": 1422,
-            "7": 1644,
-            "8": 1904,
-            "9": 1697
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 17,
-            "9": 0
-        },
-        "pb": 429445,
-        "streak": 10,
-        "matches": 2395,
-        "playtime": 1409440000,
-        "finished": 802,
-        "finishtime": 546071123,
-        "won": 1163,
-        "lost": 1087,
-        "forfeited": 546
-    },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
         "country": null,
