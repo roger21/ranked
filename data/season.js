@@ -1,5 +1,5 @@
 {
-    "date": 1756308601000,
+    "date": 1756309201000,
     "players": [
         {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
@@ -10685,14 +10685,14 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 10,
-                "elo": 1853,
+                "elo": 1851,
                 "top": 1853,
                 "points": 0,
                 "pb": 422258,
                 "current": 4,
                 "streak": 8,
-                "matches": 67,
-                "playtime": 35442046,
+                "matches": 68,
+                "playtime": 36031405,
                 "finished": 30,
                 "finishtime": 16399537,
                 "won": 37,
@@ -10701,6 +10701,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1756308895000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "NOHACKSJUSTTIGER",
+                    "elo": 1851,
+                    "change": -2,
+                    "oelo": 1697,
+                    "ochange": 2,
+                    "time": 589359,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756307952000,
                     "type": "BURIED_TREASURE",
@@ -29171,14 +29185,14 @@
             "nickname": "NOHACKSJUSTTIGER",
             "stats": {
                 "rank": 34,
-                "elo": 1695,
+                "elo": 1697,
                 "top": 1724,
                 "points": 0,
                 "pb": 511707,
                 "current": 2,
                 "streak": 6,
-                "matches": 103,
-                "playtime": 59257445,
+                "matches": 104,
+                "playtime": 59846804,
                 "finished": 47,
                 "finishtime": 30032455,
                 "won": 52,
@@ -29187,6 +29201,20 @@
             },
             "country": "pt",
             "matches": [
+                {
+                    "date": 1756308895000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "BeefSalad",
+                    "elo": 1697,
+                    "change": 2,
+                    "oelo": 1851,
+                    "ochange": -2,
+                    "time": 589359,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756308222000,
                     "type": "RUINED_PORTAL",
