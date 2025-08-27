@@ -1,5 +1,5 @@
 {
-    "date": 1756287001000,
+    "date": 1756287602000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -30302,23 +30302,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 40,
-                "elo": 1671,
+                "rank": 46,
+                "elo": 1659,
                 "top": 1745,
                 "points": 0,
                 "pb": 499813,
                 "current": 0,
                 "streak": 5,
-                "matches": 29,
-                "playtime": 16821724,
+                "matches": 30,
+                "playtime": 17241441,
                 "finished": 15,
                 "finishtime": 9159020,
                 "won": 17,
-                "lost": 10,
-                "forfeited": 2
+                "lost": 11,
+                "forfeited": 3
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1756287607000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 1659,
+                    "change": -12,
+                    "oelo": 1906,
+                    "ochange": 12,
+                    "time": 419717,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756115663000,
                     "type": "DESERT_TEMPLE",
@@ -30675,7 +30689,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1665,
                 "top": 1689,
                 "points": 0,
@@ -31300,7 +31314,7 @@
             "uuid": "d7e1777addd845b994867237ba0a6473",
             "nickname": "Jppsh",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1664,
                 "top": 1664,
                 "points": 0,
@@ -33157,7 +33171,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1663,
                 "top": 1687,
                 "points": 0,
@@ -33530,7 +33544,7 @@
             "uuid": "4129d8d1aafb4e73b97b9999db248060",
             "nickname": "CroProYT",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1661,
                 "top": 1661,
                 "points": 0,
@@ -33819,7 +33833,7 @@
             "uuid": "817a3f2e92da42ab89c64a787ce16d28",
             "nickname": "Voxio",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1661,
                 "top": 1723,
                 "points": 0,
@@ -34934,7 +34948,7 @@
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "4antoo",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1661,
                 "top": 1661,
                 "points": 0,
