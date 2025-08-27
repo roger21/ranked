@@ -1,5 +1,5 @@
 {
-    "date": 1756315801000,
+    "date": 1756316401000,
     "players": [
         {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
@@ -34450,7 +34450,7 @@
             "uuid": "c41b14ac0f1547aeb7690276d82aa458",
             "nickname": "Psemcovici",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1665,
                 "top": 1668,
                 "points": 0,
@@ -34991,7 +34991,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1665,
                 "top": 1689,
                 "points": 0,
@@ -35616,7 +35616,7 @@
             "uuid": "d7e1777addd845b994867237ba0a6473",
             "nickname": "Jppsh",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1664,
                 "top": 1664,
                 "points": 0,
@@ -37473,7 +37473,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1663,
                 "top": 1687,
                 "points": 0,
@@ -37846,7 +37846,7 @@
             "uuid": "4129d8d1aafb4e73b97b9999db248060",
             "nickname": "CroProYT",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1661,
                 "top": 1661,
                 "points": 0,
@@ -38135,7 +38135,7 @@
             "uuid": "817a3f2e92da42ab89c64a787ce16d28",
             "nickname": "Voxio",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1661,
                 "top": 1723,
                 "points": 0,
@@ -39250,23 +39250,37 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 48,
-                "elo": 1658,
-                "top": 1668,
+                "rank": 42,
+                "elo": 1674,
+                "top": 1674,
                 "points": 0,
                 "pb": 464492,
-                "current": 7,
-                "streak": 7,
-                "matches": 92,
-                "playtime": 53189728,
-                "finished": 38,
-                "finishtime": 24247944,
-                "won": 46,
+                "current": 8,
+                "streak": 8,
+                "matches": 93,
+                "playtime": 53897056,
+                "finished": 39,
+                "finishtime": 24955272,
+                "won": 47,
                 "lost": 39,
                 "forfeited": 15
             },
             "country": "yt",
             "matches": [
+                {
+                    "date": 1756316405000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Frankey32",
+                    "elo": 1674,
+                    "change": 16,
+                    "oelo": 1538,
+                    "ochange": -16,
+                    "time": 707328,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756314026000,
                     "type": "SHIPWRECK",
