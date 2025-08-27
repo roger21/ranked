@@ -1,5 +1,5 @@
 {
-    "date": 1756261801000,
+    "date": 1756262401000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -8287,22 +8287,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 8,
-                "elo": 1844,
+                "elo": 1856,
                 "top": 1864,
                 "points": 0,
                 "pb": 462691,
-                "current": 3,
+                "current": 4,
                 "streak": 11,
-                "matches": 78,
-                "playtime": 45202718,
-                "finished": 43,
-                "finishtime": 25450237,
-                "won": 49,
+                "matches": 79,
+                "playtime": 45815943,
+                "finished": 44,
+                "finishtime": 26063462,
+                "won": 50,
                 "lost": 25,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1756262238000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Duk4n",
+                    "elo": 1856,
+                    "change": 12,
+                    "oelo": 1588,
+                    "ochange": -12,
+                    "time": 613225,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756184383000,
                     "type": "SHIPWRECK",
