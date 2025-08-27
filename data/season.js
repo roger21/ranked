@@ -1,5 +1,5 @@
 {
-    "date": 1756313401000,
+    "date": 1756314001000,
     "players": [
         {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
@@ -39250,7 +39250,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1656,
                 "top": 1656,
                 "points": 0,
@@ -40253,7 +40253,7 @@
             "uuid": "0264ac7f4abf45c786ad5122296805cc",
             "nickname": "sufyPls",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1654,
                 "top": 1687,
                 "points": 0,
@@ -40486,7 +40486,7 @@
             "uuid": "4eea0516cb0c4c528cefe85448cac786",
             "nickname": "blobserr",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1650,
                 "top": 1650,
                 "points": 0,
