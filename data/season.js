@@ -1,5 +1,5 @@
 {
-    "date": 1756317001000,
+    "date": 1756317601000,
     "players": [
         {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
@@ -38714,7 +38714,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1663,
                 "top": 1687,
                 "points": 0,
@@ -39087,7 +39087,7 @@
             "uuid": "4129d8d1aafb4e73b97b9999db248060",
             "nickname": "CroProYT",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1661,
                 "top": 1661,
                 "points": 0,
@@ -39376,7 +39376,7 @@
             "uuid": "817a3f2e92da42ab89c64a787ce16d28",
             "nickname": "Voxio",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1661,
                 "top": 1723,
                 "points": 0,
@@ -40491,7 +40491,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1656,
                 "top": 1656,
                 "points": 0,
@@ -41494,7 +41494,7 @@
             "uuid": "0264ac7f4abf45c786ad5122296805cc",
             "nickname": "sufyPls",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1654,
                 "top": 1687,
                 "points": 0,
