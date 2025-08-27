@@ -959,13 +959,13 @@
         },
         "pb": 516018,
         "streak": 11,
-        "matches": 6078,
-        "playtime": 4450801139,
+        "matches": 6079,
+        "playtime": 4451447450,
         "finished": 2064,
         "finishtime": 1733397215,
         "won": 3097,
-        "lost": 2794,
-        "forfeited": 255
+        "lost": 2795,
+        "forfeited": 256
     },
     "2ef2bfed3d084649b56290328970ace9": {
         "nickname": "nahhann",
@@ -2178,12 +2178,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 5577,
-        "playtime": 3564767799,
+        "matches": 5578,
+        "playtime": 3565398568,
         "finished": 2175,
         "finishtime": 1556986016,
         "won": 2916,
-        "lost": 2532,
+        "lost": 2533,
         "forfeited": 658
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -4766,7 +4766,7 @@
             "6": 0,
             "7": 0,
             "8": 1558,
-            "9": 1440
+            "9": 1446
         },
         "points": {
             "1": 0,
@@ -4781,11 +4781,11 @@
         },
         "pb": 537329,
         "streak": 13,
-        "matches": 748,
-        "playtime": 564847393,
+        "matches": 749,
+        "playtime": 565493704,
         "finished": 264,
         "finishtime": 224949656,
-        "won": 405,
+        "won": 406,
         "lost": 329,
         "forfeited": 49
     },
