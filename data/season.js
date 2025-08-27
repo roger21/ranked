@@ -1,5 +1,5 @@
 {
-    "date": 1756284601000,
+    "date": 1756285201000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -15703,23 +15703,37 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 17,
-                "elo": 1759,
-                "top": 1759,
+                "rank": 16,
+                "elo": 1775,
+                "top": 1775,
                 "points": 0,
                 "pb": 455258,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 53,
-                "playtime": 30349669,
-                "finished": 28,
-                "finishtime": 16697245,
-                "won": 32,
+                "matches": 54,
+                "playtime": 30861682,
+                "finished": 29,
+                "finishtime": 17209258,
+                "won": 33,
                 "lost": 19,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1756284842000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Hypn0ticMCSR",
+                    "elo": 1775,
+                    "change": 16,
+                    "oelo": 1622,
+                    "ochange": -16,
+                    "time": 512013,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756283418000,
                     "type": "DESERT_TEMPLE",
