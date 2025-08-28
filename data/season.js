@@ -1,5 +1,5 @@
 {
-    "date": 1756345801000,
+    "date": 1756346401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -38584,23 +38584,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 44,
-                "elo": 1669,
+                "rank": 50,
+                "elo": 1656,
                 "top": 1754,
                 "points": 0,
                 "pb": 473918,
-                "current": 1,
+                "current": 0,
                 "streak": 4,
-                "matches": 101,
-                "playtime": 59891058,
+                "matches": 102,
+                "playtime": 60512554,
                 "finished": 44,
                 "finishtime": 28123031,
                 "won": 47,
-                "lost": 48,
+                "lost": 49,
                 "forfeited": 8
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1756346415000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "nahhann",
+                    "elo": 1656,
+                    "change": -13,
+                    "oelo": 1886,
+                    "ochange": 13,
+                    "time": 621496,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756345668000,
                     "type": "VILLAGE",
@@ -39965,7 +39979,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1665,
                 "top": 1689,
                 "points": 0,
@@ -40590,7 +40604,7 @@
             "uuid": "d7e1777addd845b994867237ba0a6473",
             "nickname": "Jppsh",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1664,
                 "top": 1664,
                 "points": 0,
@@ -42447,7 +42461,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1663,
                 "top": 1687,
                 "points": 0,
@@ -42820,7 +42834,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Jestem_Melon",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1662,
                 "top": 1816,
                 "points": 0,
@@ -44145,7 +44159,7 @@
             "uuid": "4129d8d1aafb4e73b97b9999db248060",
             "nickname": "CroProYT",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1661,
                 "top": 1661,
                 "points": 0,
@@ -44434,7 +44448,7 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1659,
                 "top": 1691,
                 "points": 0,
