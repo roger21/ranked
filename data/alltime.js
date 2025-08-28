@@ -34,33 +34,6 @@
         "lost": 2080,
         "forfeited": 476
     },
-    "0264ac7f4abf45c786ad5122296805cc": {
-        "nickname": "sufyPls",
-        "country": "vn",
-        "top": {
-            "5": 1195,
-            "6": 1409,
-            "7": 1405,
-            "8": 1613,
-            "9": 1687
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 504620,
-        "streak": 7,
-        "matches": 256,
-        "playtime": 172455864,
-        "finished": 76,
-        "finishtime": 59470535,
-        "won": 135,
-        "lost": 102,
-        "forfeited": 41
-    },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
         "country": "mn",
@@ -1204,11 +1177,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 14096,
-        "playtime": 9020229061,
-        "finished": 5905,
-        "finishtime": 4134179576,
-        "won": 7800,
+        "matches": 14097,
+        "playtime": 9020829341,
+        "finished": 5906,
+        "finishtime": 4134779856,
+        "won": 7801,
         "lost": 6052,
         "forfeited": 857
     },
@@ -1885,7 +1858,7 @@
             "6": 1359,
             "7": 1998,
             "8": 2106,
-            "9": 1740
+            "9": 1749
         },
         "points": {
             "1": 0,
@@ -1900,11 +1873,11 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 2728,
-        "playtime": 1676004823,
-        "finished": 989,
-        "finishtime": 695695320,
-        "won": 1379,
+        "matches": 2729,
+        "playtime": 1676873632,
+        "finished": 990,
+        "finishtime": 696564129,
+        "won": 1380,
         "lost": 1242,
         "forfeited": 430
     },
@@ -3090,12 +3063,12 @@
         },
         "pb": 448756,
         "streak": 14,
-        "matches": 3284,
-        "playtime": 2203888411,
+        "matches": 3285,
+        "playtime": 2204577685,
         "finished": 1105,
         "finishtime": 820831715,
         "won": 1604,
-        "lost": 1420,
+        "lost": 1421,
         "forfeited": 73
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -4225,6 +4198,35 @@
         "lost": 1228,
         "forfeited": 403
     },
+    "b516d1d18261467bbb6f447f0c111be7": {
+        "nickname": "Jestem_Gabryl",
+        "country": "pl",
+        "top": {
+            "4": 1100,
+            "5": 1461,
+            "6": 1697,
+            "7": 1854,
+            "8": 1974,
+            "9": 1660
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 10,
+            "7": 0,
+            "8": 19,
+            "9": 0
+        },
+        "pb": 481329,
+        "streak": 13,
+        "matches": 5082,
+        "playtime": 3237879328,
+        "finished": 1447,
+        "finishtime": 1137146052,
+        "won": 2457,
+        "lost": 2350,
+        "forfeited": 916
+    },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
         "country": "ru",
@@ -4662,12 +4664,12 @@
         },
         "pb": 442968,
         "streak": 14,
-        "matches": 4433,
-        "playtime": 2718652968,
+        "matches": 4434,
+        "playtime": 2719521777,
         "finished": 1502,
         "finishtime": 1068956939,
         "won": 2201,
-        "lost": 2010,
+        "lost": 2011,
         "forfeited": 840
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
@@ -4697,11 +4699,11 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2669,
-        "playtime": 1760118244,
-        "finished": 855,
-        "finishtime": 697565745,
-        "won": 1383,
+        "matches": 2670,
+        "playtime": 1760935334,
+        "finished": 856,
+        "finishtime": 698382835,
+        "won": 1384,
         "lost": 1171,
         "forfeited": 554
     },
