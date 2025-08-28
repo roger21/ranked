@@ -3335,11 +3335,11 @@
         },
         "pb": 521931,
         "streak": 9,
-        "matches": 3522,
-        "playtime": 2176543797,
+        "matches": 3523,
+        "playtime": 2176874932,
         "finished": 937,
         "finishtime": 757746684,
-        "won": 1680,
+        "won": 1681,
         "lost": 1612,
         "forfeited": 1085
     },
@@ -3767,7 +3767,7 @@
             "6": 1788,
             "7": 2068,
             "8": 1715,
-            "9": 0
+            "9": 1521
         },
         "points": {
             "1": 0,
@@ -3782,12 +3782,12 @@
         },
         "pb": 446474,
         "streak": 12,
-        "matches": 989,
-        "playtime": 687145219,
+        "matches": 990,
+        "playtime": 687857681,
         "finished": 346,
         "finishtime": 280138377,
         "won": 551,
-        "lost": 396,
+        "lost": 397,
         "forfeited": 93
     },
     "a53540ad086c490e9a0405171f0e0e58": {
@@ -4679,7 +4679,7 @@
         "forfeited": 554
     },
     "cc432b2626a44ae1836a50244adbf468": {
-        "nickname": "Jestem_Melon",
+        "nickname": "watermelon1708",
         "country": "pl",
         "top": {
             "1": 0,
