@@ -1,5 +1,5 @@
 {
-    "date": 1756348801000,
+    "date": 1756349401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10316,22 +10316,36 @@
             "nickname": "MrBudgiee",
             "stats": {
                 "rank": 11,
-                "elo": 1832,
+                "elo": 1844,
                 "top": 1860,
                 "points": 0,
                 "pb": 413607,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
-                "matches": 94,
-                "playtime": 56331870,
-                "finished": 51,
-                "finishtime": 31599741,
-                "won": 57,
+                "matches": 95,
+                "playtime": 56922762,
+                "finished": 52,
+                "finishtime": 32190633,
+                "won": 58,
                 "lost": 37,
                 "forfeited": 1
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1756349026000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Hypn0ticMCSR",
+                    "elo": 1844,
+                    "change": 12,
+                    "oelo": 1592,
+                    "ochange": -12,
+                    "time": 590892,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756348252000,
                     "type": "BURIED_TREASURE",
