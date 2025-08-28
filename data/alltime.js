@@ -34,33 +34,6 @@
         "lost": 2080,
         "forfeited": 476
     },
-    "0264ac7f4abf45c786ad5122296805cc": {
-        "nickname": "sufyPls",
-        "country": "vn",
-        "top": {
-            "5": 1195,
-            "6": 1409,
-            "7": 1405,
-            "8": 1613,
-            "9": 1687
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 504620,
-        "streak": 7,
-        "matches": 256,
-        "playtime": 172455864,
-        "finished": 76,
-        "finishtime": 59470535,
-        "won": 135,
-        "lost": 102,
-        "forfeited": 41
-    },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
         "country": "mn",
@@ -3405,11 +3378,11 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5978,
-        "playtime": 3778003921,
-        "finished": 2284,
-        "finishtime": 1602047959,
-        "won": 3015,
+        "matches": 5979,
+        "playtime": 3778759210,
+        "finished": 2285,
+        "finishtime": 1602803248,
+        "won": 3016,
         "lost": 2778,
         "forfeited": 659
     },
