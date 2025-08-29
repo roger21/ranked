@@ -469,33 +469,6 @@
         "lost": 1554,
         "forfeited": 416
     },
-    "132807fea3a54a02b6b1ad057430b002": {
-        "nickname": "slowunc",
-        "country": "de",
-        "top": {
-            "5": 1301,
-            "6": 1703,
-            "7": 1812,
-            "8": 1961,
-            "9": 1699
-        },
-        "points": {
-            "5": 0,
-            "6": 25,
-            "7": 40,
-            "8": 20,
-            "9": 0
-        },
-        "pb": 499583,
-        "streak": 12,
-        "matches": 4383,
-        "playtime": 2891007422,
-        "finished": 1315,
-        "finishtime": 1048849394,
-        "won": 2180,
-        "lost": 2040,
-        "forfeited": 808
-    },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
         "country": null,
@@ -1170,12 +1143,12 @@
         },
         "pb": 521587,
         "streak": 11,
-        "matches": 790,
-        "playtime": 537940635,
+        "matches": 791,
+        "playtime": 538774136,
         "finished": 328,
         "finishtime": 247674448,
         "won": 456,
-        "lost": 305,
+        "lost": 306,
         "forfeited": 34
     },
     "388533d5a2ad4b349a31db4738670a4b": {
@@ -1205,11 +1178,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 14141,
-        "playtime": 9048310180,
-        "finished": 5927,
-        "finishtime": 4147481345,
-        "won": 7822,
+        "matches": 14142,
+        "playtime": 9049143681,
+        "finished": 5928,
+        "finishtime": 4148314846,
+        "won": 7823,
         "lost": 6075,
         "forfeited": 858
     },
@@ -4550,11 +4523,11 @@
         },
         "pb": 413158,
         "streak": 27,
-        "matches": 3810,
-        "playtime": 2188103431,
-        "finished": 1280,
-        "finishtime": 926883291,
-        "won": 1909,
+        "matches": 3811,
+        "playtime": 2188658394,
+        "finished": 1281,
+        "finishtime": 927438254,
+        "won": 1910,
         "lost": 1740,
         "forfeited": 1005
     },
