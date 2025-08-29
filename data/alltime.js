@@ -34,33 +34,6 @@
         "lost": 2080,
         "forfeited": 476
     },
-    "0264ac7f4abf45c786ad5122296805cc": {
-        "nickname": "sufyPls",
-        "country": "vn",
-        "top": {
-            "5": 1195,
-            "6": 1409,
-            "7": 1405,
-            "8": 1613,
-            "9": 1687
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 504620,
-        "streak": 7,
-        "matches": 256,
-        "playtime": 172455864,
-        "finished": 76,
-        "finishtime": 59470535,
-        "won": 135,
-        "lost": 102,
-        "forfeited": 41
-    },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
         "country": "mn",
@@ -1262,11 +1235,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 14125,
-        "playtime": 9037969985,
-        "finished": 5920,
-        "finishtime": 4143106145,
-        "won": 7815,
+        "matches": 14126,
+        "playtime": 9038575236,
+        "finished": 5921,
+        "finishtime": 4143711396,
+        "won": 7816,
         "lost": 6066,
         "forfeited": 857
     },
@@ -1822,11 +1795,11 @@
         },
         "pb": 448567,
         "streak": 10,
-        "matches": 1967,
-        "playtime": 1287405807,
-        "finished": 721,
-        "finishtime": 521725505,
-        "won": 1034,
+        "matches": 1968,
+        "playtime": 1288087460,
+        "finished": 722,
+        "finishtime": 522407158,
+        "won": 1035,
         "lost": 867,
         "forfeited": 117
     },
@@ -3432,12 +3405,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 5992,
-        "playtime": 3786971531,
+        "matches": 5993,
+        "playtime": 3787581494,
         "finished": 2291,
         "finishtime": 1606551979,
         "won": 3023,
-        "lost": 2784,
+        "lost": 2785,
         "forfeited": 659
     },
     "97559a8303d44690b85db9e1e1f6764f": {
