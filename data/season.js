@@ -1,5 +1,5 @@
 {
-    "date": 1756441201000,
+    "date": 1756441801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -35761,8 +35761,8 @@
                 "pb": 557359,
                 "current": 1,
                 "streak": 5,
-                "matches": 43,
-                "playtime": 25843747,
+                "matches": 44,
+                "playtime": 26506031,
                 "finished": 19,
                 "finishtime": 12444070,
                 "won": 23,
@@ -35771,6 +35771,20 @@
             },
             "country": "ru",
             "matches": [
+                {
+                    "date": 1756441313000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "Snakezy",
+                    "elo": 1709,
+                    "change": 0,
+                    "oelo": 1686,
+                    "ochange": 0,
+                    "time": 662284,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756440595000,
                     "type": "BURIED_TREASURE",
@@ -37748,8 +37762,8 @@
                 "pb": 578769,
                 "current": 1,
                 "streak": 6,
-                "matches": 126,
-                "playtime": 73206893,
+                "matches": 127,
+                "playtime": 73869177,
                 "finished": 46,
                 "finishtime": 31629019,
                 "won": 64,
@@ -37758,6 +37772,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1756441313000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "Ayreliaa",
+                    "elo": 1686,
+                    "change": 0,
+                    "oelo": 1709,
+                    "ochange": 0,
+                    "time": 662284,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756440382000,
                     "type": "DESERT_TEMPLE",
