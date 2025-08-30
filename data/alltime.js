@@ -3933,13 +3933,13 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 3156,
-        "playtime": 1983048790,
+        "matches": 3157,
+        "playtime": 1983324240,
         "finished": 1082,
         "finishtime": 789976981,
         "won": 1592,
-        "lost": 1443,
-        "forfeited": 464
+        "lost": 1444,
+        "forfeited": 465
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
