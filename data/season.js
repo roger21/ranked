@@ -1,5 +1,5 @@
 {
-    "date": 1756570801000,
+    "date": 1756571401000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -11551,7 +11551,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "gharfy_",
+                    "opponent": "poroPls",
                     "elo": 1672,
                     "change": 17,
                     "oelo": 0,
@@ -24428,7 +24428,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "gharfy_",
+                    "opponent": "poroPls",
                     "elo": 1688,
                     "change": 17,
                     "oelo": 0,
@@ -29107,7 +29107,7 @@
                     "type": "VILLAGE",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "gharfy_",
+                    "opponent": "poroPls",
                     "elo": 1645,
                     "change": 18,
                     "oelo": 0,
@@ -39970,7 +39970,7 @@
                 "lost": 20,
                 "forfeited": 4
             },
-            "country": "us",
+            "country": null,
             "matches": [
                 {
                     "date": 1756570185000,
@@ -51257,7 +51257,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "gharfy_",
+                    "opponent": "poroPls",
                     "elo": 1614,
                     "change": 19,
                     "oelo": 0,
@@ -51285,7 +51285,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "gharfy_",
+                    "opponent": "poroPls",
                     "elo": 1574,
                     "change": 21,
                     "oelo": 0,
@@ -55712,7 +55712,7 @@
                     "type": "VILLAGE",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "gharfy_",
+                    "opponent": "poroPls",
                     "elo": 1543,
                     "change": 22,
                     "oelo": 0,
