@@ -45,7 +45,7 @@
             "6": 2075,
             "7": 1965,
             "8": 1980,
-            "9": 1583
+            "9": 1590
         },
         "points": {
             "2": 0,
@@ -59,11 +59,11 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5752,
-        "playtime": 3811187505,
-        "finished": 1945,
-        "finishtime": 1493680166,
-        "won": 2868,
+        "matches": 5753,
+        "playtime": 3812020277,
+        "finished": 1946,
+        "finishtime": 1494512938,
+        "won": 2869,
         "lost": 2689,
         "forfeited": 639
     },
@@ -2327,7 +2327,7 @@
             "6": 2363,
             "7": 2331,
             "8": 2272,
-            "9": 1799
+            "9": 1816
         },
         "points": {
             "1": 0,
@@ -2342,11 +2342,11 @@
         },
         "pb": 412371,
         "streak": 22,
-        "matches": 6425,
-        "playtime": 3715484137,
-        "finished": 3049,
-        "finishtime": 2071538008,
-        "won": 3999,
+        "matches": 6426,
+        "playtime": 3716160236,
+        "finished": 3050,
+        "finishtime": 2072214107,
+        "won": 4000,
         "lost": 2364,
         "forfeited": 1092
     },
@@ -3051,13 +3051,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9728,
-        "playtime": 6262751411,
+        "matches": 9729,
+        "playtime": 6263203791,
         "finished": 3232,
         "finishtime": 2587023372,
         "won": 4938,
-        "lost": 4581,
-        "forfeited": 2221
+        "lost": 4582,
+        "forfeited": 2222
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3257,12 +3257,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 6037,
-        "playtime": 3815194377,
+        "matches": 6038,
+        "playtime": 3815870476,
         "finished": 2316,
         "finishtime": 1622810710,
         "won": 3050,
-        "lost": 2802,
+        "lost": 2803,
         "forfeited": 661
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
