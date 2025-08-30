@@ -59,12 +59,12 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5767,
-        "playtime": 3820930491,
+        "matches": 5768,
+        "playtime": 3821610621,
         "finished": 1954,
         "finishtime": 1500231147,
         "won": 2878,
-        "lost": 2693,
+        "lost": 2694,
         "forfeited": 639
     },
     "048de51800794a208de7f01652513c32": {
@@ -1909,11 +1909,11 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3599,
-        "playtime": 2344107270,
-        "finished": 1477,
-        "finishtime": 1068968613,
-        "won": 1954,
+        "matches": 3600,
+        "playtime": 2344637958,
+        "finished": 1478,
+        "finishtime": 1069499301,
+        "won": 1955,
         "lost": 1568,
         "forfeited": 333
     },
@@ -3086,12 +3086,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 6254,
-        "playtime": 4246145174,
+        "matches": 6255,
+        "playtime": 4246675862,
         "finished": 2050,
         "finishtime": 1643947707,
         "won": 3137,
-        "lost": 2942,
+        "lost": 2943,
         "forfeited": 724
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -3973,7 +3973,7 @@
         "forfeited": 315
     },
     "b39f5648c91d42dfb121655f2aa52970": {
-        "nickname": "dimowo",
+        "nickname": "SillyDog64",
         "country": null,
         "top": {
             "1": 1520,
