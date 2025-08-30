@@ -1,5 +1,5 @@
 {
-    "date": 1756579801000,
+    "date": 1756580401000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -42917,7 +42917,7 @@
             "uuid": "26c82339872246c489bf285760ca1af3",
             "nickname": "novadud",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 1709,
                 "top": 1717,
                 "points": 0,
