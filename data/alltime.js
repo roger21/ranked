@@ -45,7 +45,7 @@
             "6": 2075,
             "7": 1965,
             "8": 1980,
-            "9": 1629
+            "9": 1646
         },
         "points": {
             "2": 0,
@@ -59,11 +59,11 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5762,
-        "playtime": 3817334229,
-        "finished": 1950,
-        "finishtime": 1497403039,
-        "won": 2874,
+        "matches": 5763,
+        "playtime": 3818093649,
+        "finished": 1951,
+        "finishtime": 1498162459,
+        "won": 2875,
         "lost": 2692,
         "forfeited": 639
     },
@@ -1047,6 +1047,29 @@
         "won": 491,
         "lost": 411,
         "forfeited": 187
+    },
+    "3414efe0668f48688c9f27ebda4d20fd": {
+        "nickname": "Agold19",
+        "country": null,
+        "top": {
+            "7": 0,
+            "8": 1348,
+            "9": 1671
+        },
+        "points": {
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 456709,
+        "streak": 7,
+        "matches": 857,
+        "playtime": 455559604,
+        "finished": 135,
+        "finishtime": 86328636,
+        "won": 340,
+        "lost": 336,
+        "forfeited": 299
     },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "_pizu",
@@ -4278,41 +4301,6 @@
         "won": 1335,
         "lost": 1050,
         "forfeited": 244
-    },
-    "c41b14ac0f1547aeb7690276d82aa458": {
-        "nickname": "Psemcovici",
-        "country": "br",
-        "top": {
-            "1": 1719,
-            "2": 1631,
-            "3": 1610,
-            "4": 1761,
-            "5": 1526,
-            "6": 1629,
-            "7": 1719,
-            "8": 1805,
-            "9": 1705
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 0,
-            "7": 10,
-            "8": 12,
-            "9": 0
-        },
-        "pb": 466568,
-        "streak": 10,
-        "matches": 3215,
-        "playtime": 2045861477,
-        "finished": 1089,
-        "finishtime": 864820183,
-        "won": 1674,
-        "lost": 1468,
-        "forfeited": 733
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "modestmousefan11",
