@@ -1,5 +1,5 @@
 {
-    "date": 1756614601000,
+    "date": 1756615201000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -41915,7 +41915,7 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1717,
                 "top": 1717,
                 "points": 0,
@@ -42106,7 +42106,7 @@
             "uuid": "56714245be364bd1a469d0853552c109",
             "nickname": "orachi_",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1714,
                 "top": 1714,
                 "points": 0,
@@ -42955,7 +42955,7 @@
             "uuid": "26c82339872246c489bf285760ca1af3",
             "nickname": "novadud",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1709,
                 "top": 1717,
                 "points": 0,
@@ -44322,23 +44322,37 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 36,
-                "elo": 1702,
+                "rank": 33,
+                "elo": 1720,
                 "top": 1801,
                 "points": 0,
                 "pb": 470772,
-                "current": 0,
+                "current": 1,
                 "streak": 4,
-                "matches": 65,
-                "playtime": 37099900,
-                "finished": 35,
-                "finishtime": 20777910,
-                "won": 38,
+                "matches": 66,
+                "playtime": 37676088,
+                "finished": 36,
+                "finishtime": 21354098,
+                "won": 39,
                 "lost": 27,
                 "forfeited": 10
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1756615213000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "bbiddd",
+                    "elo": 1720,
+                    "change": 18,
+                    "oelo": 1616,
+                    "ochange": -18,
+                    "time": 576188,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756614570000,
                     "type": "VILLAGE",
