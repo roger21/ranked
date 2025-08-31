@@ -3929,11 +3929,11 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 3202,
-        "playtime": 2007134765,
+        "matches": 3203,
+        "playtime": 2007531307,
         "finished": 1102,
         "finishtime": 802748014,
-        "won": 1619,
+        "won": 1620,
         "lost": 1462,
         "forfeited": 474
     },
@@ -4032,13 +4032,13 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4437,
-        "playtime": 2957971821,
+        "matches": 4438,
+        "playtime": 2958368363,
         "finished": 1618,
         "finishtime": 1170668009,
         "won": 2260,
-        "lost": 2016,
-        "forfeited": 89
+        "lost": 2017,
+        "forfeited": 90
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
