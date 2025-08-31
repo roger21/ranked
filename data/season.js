@@ -1,5 +1,5 @@
 {
-    "date": 1756638001000,
+    "date": 1756638601000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -47743,14 +47743,14 @@
             "nickname": "Frankey32",
             "stats": {
                 "rank": 38,
-                "elo": 1701,
+                "elo": 1699,
                 "top": 1732,
                 "points": 0,
                 "pb": 491237,
                 "current": 2,
                 "streak": 9,
-                "matches": 113,
-                "playtime": 71575274,
+                "matches": 114,
+                "playtime": 72426753,
                 "finished": 55,
                 "finishtime": 37763180,
                 "won": 66,
@@ -47759,6 +47759,20 @@
             },
             "country": "yt",
             "matches": [
+                {
+                    "date": 1756638099000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "VictiniPKM",
+                    "elo": 1699,
+                    "change": -2,
+                    "oelo": 1529,
+                    "ochange": 2,
+                    "time": 851479,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756636965000,
                     "type": "RUINED_PORTAL",
