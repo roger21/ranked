@@ -2146,13 +2146,13 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8490,
-        "playtime": 5358734255,
+        "matches": 8491,
+        "playtime": 5359115220,
         "finished": 3027,
         "finishtime": 2288080890,
         "won": 4230,
-        "lost": 3981,
-        "forfeited": 1423
+        "lost": 3982,
+        "forfeited": 1424
     },
     "60bfac463733422f8708733f3140cd94": {
         "nickname": "TheCrazedTank",
@@ -4457,13 +4457,13 @@
         },
         "pb": 413158,
         "streak": 27,
-        "matches": 3835,
-        "playtime": 2202763117,
+        "matches": 3836,
+        "playtime": 2203380693,
         "finished": 1291,
         "finishtime": 933782696,
         "won": 1920,
-        "lost": 1753,
-        "forfeited": 1008
+        "lost": 1754,
+        "forfeited": 1009
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
@@ -4882,7 +4882,7 @@
             "6": 1666,
             "7": 1731,
             "8": 1994,
-            "9": 1787
+            "9": 1789
         },
         "points": {
             "1": 0,
@@ -4896,11 +4896,11 @@
         },
         "pb": 443397,
         "streak": 11,
-        "matches": 1278,
-        "playtime": 790380182,
+        "matches": 1279,
+        "playtime": 790761147,
         "finished": 460,
         "finishtime": 328411386,
-        "won": 657,
+        "won": 658,
         "lost": 566,
         "forfeited": 236
     },
