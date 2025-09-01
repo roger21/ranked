@@ -1,5 +1,5 @@
 {
-    "date": 1756689601000,
+    "date": 1756690201000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -9523,7 +9523,7 @@
             "uuid": "0b6c44a481e14c7e88ac836c92499ff4",
             "nickname": "NOHACKSJUSTTIGER",
             "stats": {
-                "rank": 7,
+                "rank": 8,
                 "elo": 1900,
                 "top": 1900,
                 "points": 0,
@@ -11408,7 +11408,7 @@
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "nickname": "Infume",
             "stats": {
-                "rank": 8,
+                "rank": 9,
                 "elo": 1897,
                 "top": 1954,
                 "points": 0,
@@ -12299,7 +12299,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 9,
+                "rank": 10,
                 "elo": 1891,
                 "top": 1917,
                 "points": 0,
@@ -16508,7 +16508,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 10,
+                "rank": 11,
                 "elo": 1890,
                 "top": 1890,
                 "points": 0,
@@ -16853,23 +16853,37 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 11,
-                "elo": 1889,
+                "rank": 7,
+                "elo": 1903,
                 "top": 1978,
                 "points": 0,
                 "pb": 413607,
-                "current": 1,
+                "current": 2,
                 "streak": 6,
-                "matches": 138,
-                "playtime": 83344028,
-                "finished": 77,
-                "finishtime": 47646922,
-                "won": 84,
+                "matches": 139,
+                "playtime": 84045420,
+                "finished": 78,
+                "finishtime": 48348314,
+                "won": 85,
                 "lost": 53,
                 "forfeited": 2
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1756690201000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Snakezy",
+                    "elo": 1903,
+                    "change": 14,
+                    "oelo": 1714,
+                    "ochange": -14,
+                    "time": 701392,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756689412000,
                     "type": "SHIPWRECK",
@@ -48438,23 +48452,37 @@
             "uuid": "c81a44e0c18544c29d1a93e0362b7777",
             "nickname": "Snakezy",
             "stats": {
-                "rank": 36,
-                "elo": 1728,
+                "rank": 39,
+                "elo": 1714,
                 "top": 1736,
                 "points": 0,
                 "pb": 564898,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
-                "matches": 144,
-                "playtime": 84578771,
+                "matches": 145,
+                "playtime": 85280163,
                 "finished": 54,
                 "finishtime": 37211052,
                 "won": 73,
-                "lost": 65,
+                "lost": 66,
                 "forfeited": 21
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1756690201000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "MrBudgiee",
+                    "elo": 1714,
+                    "change": -14,
+                    "oelo": 1903,
+                    "ochange": 14,
+                    "time": 701392,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756689424000,
                     "type": "RUINED_PORTAL",
@@ -50407,7 +50435,7 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 1724,
                 "top": 1733,
                 "points": 0,
@@ -52936,7 +52964,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1723,
                 "top": 1754,
                 "points": 0,
@@ -53743,7 +53771,7 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 1717,
                 "top": 1717,
                 "points": 0,
@@ -53934,7 +53962,7 @@
             "uuid": "56714245be364bd1a469d0853552c109",
             "nickname": "orachi_",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1714,
                 "top": 1714,
                 "points": 0,
