@@ -1,5 +1,5 @@
 {
-    "date": 1756685401000,
+    "date": 1756686001000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -57950,7 +57950,7 @@
             "uuid": "7751d507ab364914bac767a4d2574753",
             "nickname": "lumeh",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1689,
                 "top": 1740,
                 "points": 0,
@@ -58547,7 +58547,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1688,
                 "top": 1688,
                 "points": 0,
@@ -58569,7 +58569,7 @@
             "uuid": "4eea0516cb0c4c528cefe85448cac786",
             "nickname": "blobserr",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1682,
                 "top": 1693,
                 "points": 0,
@@ -59068,23 +59068,37 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 49,
-                "elo": 1676,
+                "rank": 46,
+                "elo": 1690,
                 "top": 1695,
                 "points": 0,
                 "pb": 527099,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 147,
-                "playtime": 85541117,
-                "finished": 60,
-                "finishtime": 40558181,
-                "won": 80,
+                "matches": 148,
+                "playtime": 86229531,
+                "finished": 61,
+                "finishtime": 41246595,
+                "won": 81,
                 "lost": 66,
                 "forfeited": 18
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1756686020000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Dar0n_",
+                    "elo": 1690,
+                    "change": 14,
+                    "oelo": 1487,
+                    "ochange": -14,
+                    "time": 688414,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756685026000,
                     "type": "DESERT_TEMPLE",
@@ -61093,7 +61107,7 @@
             "uuid": "74ce14cf794b431bb3e10d5311d0777f",
             "nickname": "Seauu",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1676,
                 "top": 1755,
                 "points": 0,
