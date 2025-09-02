@@ -1,5 +1,5 @@
 {
-    "date": 1756819801000,
+    "date": 1756820401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -38521,22 +38521,36 @@
             "nickname": "L9_FOXGIRLPAWJOB",
             "stats": {
                 "rank": 26,
-                "elo": 1788,
+                "elo": 1802,
                 "top": 1833,
                 "points": 0,
                 "pb": 500443,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 52,
-                "playtime": 29448277,
-                "finished": 25,
-                "finishtime": 15163956,
-                "won": 32,
+                "matches": 53,
+                "playtime": 30035795,
+                "finished": 26,
+                "finishtime": 15751474,
+                "won": 33,
                 "lost": 20,
                 "forfeited": 9
             },
             "country": "gr",
             "matches": [
+                {
+                    "date": 1756820175000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "druppelen",
+                    "elo": 1802,
+                    "change": 14,
+                    "oelo": 1612,
+                    "ochange": -14,
+                    "time": 587518,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756819212000,
                     "type": "RUINED_PORTAL",
