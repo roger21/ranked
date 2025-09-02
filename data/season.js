@@ -1,5 +1,5 @@
 {
-    "date": 1756842601000,
+    "date": 1756843201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -11642,7 +11642,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 6,
+                "rank": 7,
                 "elo": 1961,
                 "top": 1961,
                 "points": 0,
@@ -13709,7 +13709,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 7,
+                "rank": 8,
                 "elo": 1956,
                 "top": 1965,
                 "points": 0,
@@ -14292,23 +14292,37 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
-                "rank": 8,
-                "elo": 1948,
+                "rank": 6,
+                "elo": 1966,
                 "top": 2015,
                 "points": 0,
                 "pb": 420144,
-                "current": 1,
+                "current": 2,
                 "streak": 23,
-                "matches": 107,
-                "playtime": 60439786,
-                "finished": 64,
-                "finishtime": 36238979,
-                "won": 71,
+                "matches": 108,
+                "playtime": 61025870,
+                "finished": 65,
+                "finishtime": 36825063,
+                "won": 72,
                 "lost": 32,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1756843202000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 1966,
+                    "change": 18,
+                    "oelo": 1885,
+                    "ochange": -18,
+                    "time": 586084,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756842537000,
                     "type": "BURIED_TREASURE",
@@ -21080,23 +21094,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 14,
-                "elo": 1903,
+                "rank": 16,
+                "elo": 1885,
                 "top": 2011,
                 "points": 0,
                 "pb": 422258,
                 "current": 0,
                 "streak": 8,
-                "matches": 133,
-                "playtime": 72105060,
+                "matches": 134,
+                "playtime": 72691144,
                 "finished": 65,
                 "finishtime": 35704893,
                 "won": 75,
-                "lost": 47,
+                "lost": 48,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1756843202000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1885,
+                    "change": -18,
+                    "oelo": 1966,
+                    "ochange": 18,
+                    "time": 586084,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756777656000,
                     "type": "RUINED_PORTAL",
@@ -22909,7 +22937,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 15,
+                "rank": 14,
                 "elo": 1891,
                 "top": 1917,
                 "points": 0,
@@ -27118,7 +27146,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 16,
+                "rank": 15,
                 "elo": 1890,
                 "top": 1890,
                 "points": 0,
