@@ -1386,11 +1386,11 @@
         },
         "pb": 410816,
         "streak": 29,
-        "matches": 3466,
-        "playtime": 2112102569,
-        "finished": 1973,
-        "finishtime": 1263335831,
-        "won": 2449,
+        "matches": 3467,
+        "playtime": 2112683407,
+        "finished": 1974,
+        "finishtime": 1263916669,
+        "won": 2450,
         "lost": 916,
         "forfeited": 32
     },
@@ -3238,7 +3238,7 @@
             "6": 1952,
             "7": 1996,
             "8": 1801,
-            "9": 1709
+            "9": 1710
         },
         "points": {
             "3": 0,
@@ -3251,11 +3251,11 @@
         },
         "pb": 480039,
         "streak": 8,
-        "matches": 2198,
-        "playtime": 1464658970,
-        "finished": 811,
-        "finishtime": 592496033,
-        "won": 1126,
+        "matches": 2199,
+        "playtime": 1465407626,
+        "finished": 812,
+        "finishtime": 593244689,
+        "won": 1127,
         "lost": 982,
         "forfeited": 68
     },
@@ -3271,7 +3271,7 @@
             "6": 2378,
             "7": 2312,
             "8": 2303,
-            "9": 1961
+            "9": 1978
         },
         "points": {
             "1": 0,
@@ -3286,11 +3286,11 @@
         },
         "pb": 425958,
         "streak": 20,
-        "matches": 9112,
-        "playtime": 5485192143,
-        "finished": 3853,
-        "finishtime": 2630006829,
-        "won": 5085,
+        "matches": 9113,
+        "playtime": 5485747110,
+        "finished": 3854,
+        "finishtime": 2630561796,
+        "won": 5086,
         "lost": 3817,
         "forfeited": 1187
     },
@@ -4857,12 +4857,12 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 7708,
-        "playtime": 4918717474,
+        "matches": 7709,
+        "playtime": 4919466130,
         "finished": 2245,
         "finishtime": 1807172055,
         "won": 3819,
-        "lost": 3657,
+        "lost": 3658,
         "forfeited": 1943
     },
     "e43dad544b244da9b690a12fdc8626dc": {
