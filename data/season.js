@@ -1,5 +1,5 @@
 {
-    "date": 1756799401000,
+    "date": 1756800001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64311,23 +64311,37 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 44,
-                "elo": 1709,
+                "rank": 51,
+                "elo": 1682,
                 "top": 1791,
                 "points": 0,
                 "pb": 488096,
-                "current": 1,
+                "current": 0,
                 "streak": 7,
-                "matches": 122,
-                "playtime": 71191685,
+                "matches": 123,
+                "playtime": 71680204,
                 "finished": 54,
                 "finishtime": 34027507,
                 "won": 62,
-                "lost": 54,
-                "forfeited": 22
+                "lost": 55,
+                "forfeited": 23
             },
             "country": "in",
             "matches": [
+                {
+                    "date": 1756800016000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Xiaokai_kk",
+                    "elo": 1682,
+                    "change": -27,
+                    "oelo": 1524,
+                    "ochange": 27,
+                    "time": 488519,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756799056000,
                     "type": "VILLAGE",
@@ -65972,7 +65986,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "watermelon1708",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1705,
                 "top": 1816,
                 "points": 0,
@@ -67955,7 +67969,7 @@
             "uuid": "1a71528dc0274145a5d111f57ab6c270",
             "nickname": "HornnKneeHoglin",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1701,
                 "top": 1701,
                 "points": 0,
@@ -69616,7 +69630,7 @@
             "uuid": "3c59ed02bccf4ea3a0f626af7955be91",
             "nickname": "Tookannn",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1701,
                 "top": 1701,
                 "points": 0,
@@ -70311,7 +70325,7 @@
             "uuid": "0388b80ebe6c4216b4a8305c0cd27894",
             "nickname": "tommorerow",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1695,
                 "top": 1709,
                 "points": 0,
@@ -71356,7 +71370,7 @@
             "uuid": "95e7b6b7b36f40519aa5dce2596e6d21",
             "nickname": "JakkeBoy3651",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1693,
                 "top": 1693,
                 "points": 0,
