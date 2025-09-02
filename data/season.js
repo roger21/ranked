@@ -1,5 +1,5 @@
 {
-    "date": 1756818601000,
+    "date": 1756819201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -33705,23 +33705,37 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "L9_FOXGIRLPAWJOB",
             "stats": {
-                "rank": 23,
-                "elo": 1815,
+                "rank": 26,
+                "elo": 1788,
                 "top": 1833,
                 "points": 0,
                 "pb": 500443,
                 "current": 0,
                 "streak": 6,
-                "matches": 51,
-                "playtime": 28851968,
+                "matches": 52,
+                "playtime": 29448277,
                 "finished": 25,
                 "finishtime": 15163956,
                 "won": 32,
-                "lost": 19,
+                "lost": 20,
                 "forfeited": 9
             },
             "country": "gr",
             "matches": [
+                {
+                    "date": 1756819212000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Bloonskiller",
+                    "elo": 1788,
+                    "change": -27,
+                    "oelo": 1639,
+                    "ochange": 27,
+                    "time": 596309,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756818499000,
                     "type": "RUINED_PORTAL",
@@ -34386,7 +34400,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 1813,
                 "top": 1861,
                 "points": 0,
@@ -36775,7 +36789,7 @@
             "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
             "nickname": "iKme_",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 1808,
                 "top": 1845,
                 "points": 0,
@@ -38254,7 +38268,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1803,
                 "top": 1803,
                 "points": 0,
