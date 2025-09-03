@@ -1,5 +1,5 @@
 {
-    "date": 1756900201000,
+    "date": 1756900802000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -69733,23 +69733,37 @@
             "uuid": "9827f54286ab4f7cb495ae31fa3cf4ce",
             "nickname": "harusame_0123",
             "stats": {
-                "rank": 47,
-                "elo": 1710,
+                "rank": 56,
+                "elo": 1686,
                 "top": 1710,
                 "points": 0,
                 "pb": 518204,
-                "current": 2,
+                "current": 0,
                 "streak": 6,
-                "matches": 181,
-                "playtime": 120021754,
+                "matches": 182,
+                "playtime": 120654562,
                 "finished": 73,
                 "finishtime": 53032797,
                 "won": 91,
-                "lost": 82,
+                "lost": 83,
                 "forfeited": 13
             },
             "country": "jp",
             "matches": [
+                {
+                    "date": 1756900824000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "CroProYT",
+                    "elo": 1686,
+                    "change": -24,
+                    "oelo": 1634,
+                    "ochange": 24,
+                    "time": 632808,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756887828000,
                     "type": "BURIED_TREASURE",
@@ -72220,7 +72234,7 @@
             "uuid": "fe10b6edfc3a460a83d637fc8e008751",
             "nickname": "Mitthui",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1705,
                 "top": 1718,
                 "points": 0,
@@ -74651,7 +74665,7 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1705,
                 "top": 1790,
                 "points": 0,
@@ -77474,7 +77488,7 @@
             "uuid": "1a71528dc0274145a5d111f57ab6c270",
             "nickname": "HornnKneeHoglin",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1701,
                 "top": 1701,
                 "points": 0,
