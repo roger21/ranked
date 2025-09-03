@@ -4158,13 +4158,13 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4495,
-        "playtime": 2991791966,
+        "matches": 4496,
+        "playtime": 2992456577,
         "finished": 1642,
         "finishtime": 1186662495,
         "won": 2287,
-        "lost": 2046,
-        "forfeited": 104
+        "lost": 2047,
+        "forfeited": 105
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
