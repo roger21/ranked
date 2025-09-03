@@ -2447,12 +2447,12 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 4330,
-        "playtime": 2844614865,
+        "matches": 4331,
+        "playtime": 2845246416,
         "finished": 1384,
         "finishtime": 1111095675,
         "won": 2194,
-        "lost": 1962,
+        "lost": 1963,
         "forfeited": 750
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -2586,7 +2586,7 @@
         "pb": 519203,
         "streak": 12,
         "matches": 2538,
-        "playtime": 1645341052,
+        "playtime": 1645685337,
         "finished": 868,
         "finishtime": 688138361,
         "won": 1317,
@@ -3434,7 +3434,7 @@
             "6": 1734,
             "7": 1796,
             "8": 1720,
-            "9": 1779
+            "9": 1797
         },
         "points": {
             "5": 0,
@@ -3445,11 +3445,11 @@
         },
         "pb": 501027,
         "streak": 17,
-        "matches": 1327,
-        "playtime": 872099081,
-        "finished": 464,
-        "finishtime": 350215801,
-        "won": 682,
+        "matches": 1329,
+        "playtime": 872991947,
+        "finished": 465,
+        "finishtime": 350847352,
+        "won": 684,
         "lost": 593,
         "forfeited": 155
     },
@@ -4152,13 +4152,13 @@
         },
         "pb": 438785,
         "streak": 9,
-        "matches": 2883,
-        "playtime": 1959863539,
+        "matches": 2884,
+        "playtime": 1960458210,
         "finished": 918,
         "finishtime": 743473628,
         "won": 1470,
-        "lost": 1273,
-        "forfeited": 415
+        "lost": 1274,
+        "forfeited": 416
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
