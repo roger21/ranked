@@ -1,19 +1,19 @@
 {
-    "date": 1756861201000,
+    "date": 1756861801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "nickname": "Infume",
             "stats": {
                 "rank": 1,
-                "elo": 2079,
+                "elo": 2077,
                 "top": 2079,
                 "points": 0,
                 "pb": 397869,
                 "current": 6,
                 "streak": 9,
-                "matches": 103,
-                "playtime": 59074879,
+                "matches": 104,
+                "playtime": 59520687,
                 "finished": 63,
                 "finishtime": 36291921,
                 "won": 68,
@@ -22,6 +22,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1756861409000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "silverrruns",
+                    "elo": 2077,
+                    "change": -2,
+                    "oelo": 1941,
+                    "ochange": 2,
+                    "time": 445808,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756860293000,
                     "type": "SHIPWRECK",
@@ -1400,7 +1414,7 @@
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
-                "rank": 2,
+                "rank": 1,
                 "elo": 2077,
                 "top": 2077,
                 "points": 0,
@@ -19752,14 +19766,14 @@
             "nickname": "silverrruns",
             "stats": {
                 "rank": 11,
-                "elo": 1939,
+                "elo": 1941,
                 "top": 1965,
                 "points": 0,
                 "pb": 459660,
                 "current": 0,
                 "streak": 8,
-                "matches": 49,
-                "playtime": 27839661,
+                "matches": 50,
+                "playtime": 28285469,
                 "finished": 25,
                 "finishtime": 14249117,
                 "won": 29,
@@ -19768,6 +19782,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1756861409000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Infume",
+                    "elo": 1941,
+                    "change": 2,
+                    "oelo": 2077,
+                    "ochange": -2,
+                    "time": 445808,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756860907000,
                     "type": "VILLAGE",
