@@ -1,5 +1,5 @@
 {
-    "date": 1756909801000,
+    "date": 1756910401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -41955,14 +41955,14 @@
             "nickname": "harusame_0123",
             "stats": {
                 "rank": 28,
-                "elo": 1797,
+                "elo": 1796,
                 "top": 1797,
                 "points": 0,
                 "pb": 518204,
                 "current": 3,
                 "streak": 6,
-                "matches": 193,
-                "playtime": 125653643,
+                "matches": 194,
+                "playtime": 126413422,
                 "finished": 76,
                 "finishtime": 54992986,
                 "won": 100,
@@ -41971,6 +41971,20 @@
             },
             "country": "jp",
             "matches": [
+                {
+                    "date": 1756909929000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "mukvl",
+                    "elo": 1796,
+                    "change": -1,
+                    "oelo": 1693,
+                    "ochange": 1,
+                    "time": 759779,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756909048000,
                     "type": "SHIPWRECK",
