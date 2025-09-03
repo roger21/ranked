@@ -160,13 +160,13 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 1981,
-        "playtime": 1309583311,
+        "matches": 1982,
+        "playtime": 1310180607,
         "finished": 699,
         "finishtime": 541440588,
         "won": 1035,
-        "lost": 853,
-        "forfeited": 212
+        "lost": 854,
+        "forfeited": 213
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -3445,11 +3445,11 @@
         },
         "pb": 501027,
         "streak": 17,
-        "matches": 1326,
-        "playtime": 871858259,
+        "matches": 1327,
+        "playtime": 872099081,
         "finished": 464,
         "finishtime": 350215801,
-        "won": 681,
+        "won": 682,
         "lost": 593,
         "forfeited": 155
     },
@@ -4152,13 +4152,13 @@
         },
         "pb": 438785,
         "streak": 9,
-        "matches": 2881,
-        "playtime": 1958958206,
+        "matches": 2882,
+        "playtime": 1959207695,
         "finished": 918,
         "finishtime": 743473628,
         "won": 1470,
-        "lost": 1271,
-        "forfeited": 414
+        "lost": 1272,
+        "forfeited": 415
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
