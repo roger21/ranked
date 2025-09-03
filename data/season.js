@@ -1,5 +1,5 @@
 {
-    "date": 1756921201000,
+    "date": 1756921801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -37467,14 +37467,14 @@
             "nickname": "L9_FOXGIRLPAWJOB",
             "stats": {
                 "rank": 24,
-                "elo": 1815,
+                "elo": 1814,
                 "top": 1877,
                 "points": 0,
                 "pb": 500443,
                 "current": 0,
                 "streak": 6,
-                "matches": 73,
-                "playtime": 41873823,
+                "matches": 74,
+                "playtime": 42369737,
                 "finished": 37,
                 "finishtime": 22706867,
                 "won": 44,
@@ -37483,6 +37483,20 @@
             },
             "country": "gr",
             "matches": [
+                {
+                    "date": 1756921758000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "iKme_",
+                    "elo": 1814,
+                    "change": -1,
+                    "oelo": 1766,
+                    "ochange": 1,
+                    "time": 495914,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756921161000,
                     "type": "DESERT_TEMPLE",
@@ -52136,14 +52150,14 @@
             "nickname": "iKme_",
             "stats": {
                 "rank": 33,
-                "elo": 1765,
+                "elo": 1766,
                 "top": 1845,
                 "points": 0,
                 "pb": 455123,
                 "current": 1,
                 "streak": 7,
-                "matches": 118,
-                "playtime": 68767687,
+                "matches": 119,
+                "playtime": 69263601,
                 "finished": 49,
                 "finishtime": 29336971,
                 "won": 62,
@@ -52152,6 +52166,20 @@
             },
             "country": "hu",
             "matches": [
+                {
+                    "date": 1756921758000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "L9_FOXGIRLPAWJOB",
+                    "elo": 1766,
+                    "change": 1,
+                    "oelo": 1814,
+                    "ochange": -1,
+                    "time": 495914,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756921198000,
                     "type": "VILLAGE",
