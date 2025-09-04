@@ -1,5 +1,5 @@
 {
-    "date": 1756948201000,
+    "date": 1756948801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -35881,22 +35881,36 @@
             "nickname": "BadGamer",
             "stats": {
                 "rank": 22,
-                "elo": 1827,
+                "elo": 1841,
                 "top": 1842,
                 "points": 0,
                 "pb": 443783,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 102,
-                "playtime": 57284051,
-                "finished": 55,
-                "finishtime": 32300222,
-                "won": 60,
+                "matches": 103,
+                "playtime": 57929271,
+                "finished": 56,
+                "finishtime": 32945442,
+                "won": 61,
                 "lost": 42,
                 "forfeited": 15
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1756948596000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Psemcovici",
+                    "elo": 1841,
+                    "change": 14,
+                    "oelo": 1629,
+                    "ochange": -14,
+                    "time": 645220,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756947553000,
                     "type": "VILLAGE",
