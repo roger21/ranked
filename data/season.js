@@ -1,5 +1,5 @@
 {
-    "date": 1756989601000,
+    "date": 1756990201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -69794,7 +69794,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1711,
                 "top": 1711,
                 "points": 0,
@@ -73975,7 +73975,7 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1705,
                 "top": 1790,
                 "points": 0,
@@ -76798,7 +76798,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1704,
                 "top": 1704,
                 "points": 0,
@@ -77507,7 +77507,7 @@
             "uuid": "132807fea3a54a02b6b1ad057430b002",
             "nickname": "slowunc",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1702,
                 "top": 1724,
                 "points": 0,
@@ -80036,7 +80036,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "feministliteratu",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1701,
                 "top": 1701,
                 "points": 0,
