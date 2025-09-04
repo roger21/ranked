@@ -1973,12 +1973,12 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3614,
-        "playtime": 2353361131,
+        "matches": 3615,
+        "playtime": 2353924890,
         "finished": 1486,
         "finishtime": 1074797853,
         "won": 1963,
-        "lost": 1573,
+        "lost": 1574,
         "forfeited": 334
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -4389,39 +4389,6 @@
         "lost": 2148,
         "forfeited": 1195
     },
-    "bdb7f407200d4882b78e656ca161bddf": {
-        "nickname": "feministliteratu",
-        "country": "fk",
-        "top": {
-            "2": 1142,
-            "3": 1176,
-            "4": 1667,
-            "5": 1719,
-            "6": 1565,
-            "7": 1684,
-            "8": 1975,
-            "9": 1701
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 0
-        },
-        "pb": 433349,
-        "streak": 19,
-        "matches": 4702,
-        "playtime": 2470254351,
-        "finished": 1106,
-        "finishtime": 799560964,
-        "won": 2248,
-        "lost": 2197,
-        "forfeited": 1747
-    },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
         "country": "ua",
@@ -4822,11 +4789,11 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6714,
-        "playtime": 4382357091,
-        "finished": 2144,
-        "finishtime": 1619926109,
-        "won": 3311,
+        "matches": 6715,
+        "playtime": 4382920850,
+        "finished": 2145,
+        "finishtime": 1620489868,
+        "won": 3312,
         "lost": 3085,
         "forfeited": 949
     },
