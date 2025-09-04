@@ -1,5 +1,5 @@
 {
-    "date": 1756980001000,
+    "date": 1756980601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37113,14 +37113,14 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 22,
-                "elo": 1830,
+                "elo": 1828,
                 "top": 1860,
                 "points": 0,
                 "pb": 499813,
                 "current": 1,
                 "streak": 7,
-                "matches": 66,
-                "playtime": 38977184,
+                "matches": 67,
+                "playtime": 39551380,
                 "finished": 35,
                 "finishtime": 21928988,
                 "won": 41,
@@ -37129,6 +37129,20 @@
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1756980434000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Ale267",
+                    "elo": 1828,
+                    "change": -2,
+                    "oelo": 1658,
+                    "ochange": 2,
+                    "time": 574196,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1756979671000,
                     "type": "BURIED_TREASURE",
