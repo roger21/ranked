@@ -1,5 +1,5 @@
 {
-    "date": 1756956601000,
+    "date": 1756957201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -53619,23 +53619,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 33,
-                "elo": 1761,
+                "rank": 35,
+                "elo": 1748,
                 "top": 1818,
                 "points": 0,
                 "pb": 463237,
-                "current": 1,
+                "current": 0,
                 "streak": 4,
-                "matches": 67,
-                "playtime": 42443056,
+                "matches": 68,
+                "playtime": 43024474,
                 "finished": 34,
                 "finishtime": 23219612,
                 "won": 37,
-                "lost": 30,
+                "lost": 31,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1756957221000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 1748,
+                    "change": -13,
+                    "oelo": 1961,
+                    "ochange": 13,
+                    "time": 581418,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756956477000,
                     "type": "VILLAGE",
@@ -57725,7 +57739,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1760,
                 "top": 1760,
                 "points": 0,
@@ -58588,7 +58602,7 @@
             "uuid": "a162fe30a8074cc6b9600719bc5e5ed9",
             "nickname": "Maraico_",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1748,
                 "top": 1766,
                 "points": 0,
