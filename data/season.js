@@ -1,5 +1,5 @@
 {
-    "date": 1757053801000,
+    "date": 1757054401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46332,23 +46332,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 26,
-                "elo": 1811,
+                "rank": 29,
+                "elo": 1787,
                 "top": 1846,
                 "points": 0,
                 "pb": 463237,
                 "current": 0,
                 "streak": 4,
-                "matches": 85,
-                "playtime": 52862086,
+                "matches": 86,
+                "playtime": 53743906,
                 "finished": 39,
                 "finishtime": 26874169,
                 "won": 46,
-                "lost": 36,
+                "lost": 37,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757054418000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "shrddr",
+                    "elo": 1787,
+                    "change": -24,
+                    "oelo": 1736,
+                    "ochange": 24,
+                    "time": 881820,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757053464000,
                     "type": "VILLAGE",
@@ -47489,7 +47503,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "shimuon",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1807,
                 "top": 1822,
                 "points": 0,
@@ -48380,7 +48394,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1803,
                 "top": 1803,
                 "points": 0,
@@ -49327,7 +49341,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1793,
                 "top": 1861,
                 "points": 0,
@@ -68662,7 +68676,7 @@
             "uuid": "26c82339872246c489bf285760ca1af3",
             "nickname": "novadud",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1727,
                 "top": 1727,
                 "points": 0,
@@ -70043,7 +70057,7 @@
             "uuid": "4129d8d1aafb4e73b97b9999db248060",
             "nickname": "CroProYT",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1727,
                 "top": 1727,
                 "points": 0,
@@ -70668,7 +70682,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1719,
                 "top": 1855,
                 "points": 0,
@@ -72217,7 +72231,7 @@
             "uuid": "27d9f6941c4c4217a58e87dfe6157828",
             "nickname": "SuperC_",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1717,
                 "top": 1717,
                 "points": 0,
@@ -72408,7 +72422,7 @@
             "uuid": "7751d507ab364914bac767a4d2574753",
             "nickname": "lumeh",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1715,
                 "top": 1749,
                 "points": 0,
@@ -73565,23 +73579,37 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 45,
-                "elo": 1712,
+                "rank": 39,
+                "elo": 1736,
                 "top": 1790,
                 "points": 0,
                 "pb": 446461,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 210,
-                "playtime": 125886124,
-                "finished": 86,
-                "finishtime": 57457239,
-                "won": 102,
+                "matches": 211,
+                "playtime": 126767944,
+                "finished": 87,
+                "finishtime": 58339059,
+                "won": 103,
                 "lost": 90,
                 "forfeited": 28
             },
             "country": "yt",
             "matches": [
+                {
+                    "date": 1757054418000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 1736,
+                    "change": 24,
+                    "oelo": 1787,
+                    "ochange": -24,
+                    "time": 881820,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757053079000,
                     "type": "BURIED_TREASURE",
