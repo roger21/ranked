@@ -2249,39 +2249,6 @@
         "lost": 57,
         "forfeited": 0
     },
-    "6135d13bce2841f8b7e8d37d91c6edfe": {
-        "nickname": "boywithcards",
-        "country": "de",
-        "top": {
-            "1": 1412,
-            "3": 1455,
-            "4": 1542,
-            "5": 1746,
-            "6": 1790,
-            "7": 1877,
-            "8": 1726,
-            "9": 1754
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 15,
-            "6": 5,
-            "7": 40,
-            "8": 4,
-            "9": 0
-        },
-        "pb": 473760,
-        "streak": 12,
-        "matches": 2769,
-        "playtime": 1787611599,
-        "finished": 835,
-        "finishtime": 632354274,
-        "won": 1395,
-        "lost": 1251,
-        "forfeited": 321
-    },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
         "country": "se",
