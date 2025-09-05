@@ -1,5 +1,5 @@
 {
-    "date": 1757076602000,
+    "date": 1757077201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -8851,6 +8851,20 @@
             "country": "hk",
             "matches": [
                 {
+                    "date": 1757077206000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "retropog",
+                    "elo": 1998,
+                    "change": -23,
+                    "oelo": 1966,
+                    "ochange": 23,
+                    "time": 791383,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1757076362000,
                     "type": "RUINED_PORTAL",
                     "bastion": "STABLES",
@@ -9710,7 +9724,7 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "nickname": "nahhann",
             "stats": {
-                "rank": 6,
+                "rank": 5,
                 "elo": 2008,
                 "top": 2008,
                 "points": 0,
@@ -12113,7 +12127,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 7,
+                "rank": 6,
                 "elo": 2000,
                 "top": 2000,
                 "points": 0,
@@ -20158,22 +20172,36 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 11,
-                "elo": 1943,
+                "elo": 1966,
                 "top": 2003,
                 "points": 0,
                 "pb": 399786,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 184,
-                "playtime": 108785939,
-                "finished": 90,
-                "finishtime": 53898859,
-                "won": 103,
+                "matches": 185,
+                "playtime": 109577322,
+                "finished": 91,
+                "finishtime": 54690242,
+                "won": 104,
                 "lost": 72,
                 "forfeited": 3
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1757077206000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "hackingnoises",
+                    "elo": 1966,
+                    "change": 23,
+                    "oelo": 1998,
+                    "ochange": -23,
+                    "time": 791383,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757075713000,
                     "type": "DESERT_TEMPLE",
