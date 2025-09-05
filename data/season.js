@@ -1,5 +1,5 @@
 {
-    "date": 1757035801000,
+    "date": 1757036401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -38512,23 +38512,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 22,
-                "elo": 1846,
+                "rank": 23,
+                "elo": 1831,
                 "top": 2049,
                 "points": 0,
                 "pb": 449349,
                 "current": 0,
                 "streak": 9,
-                "matches": 283,
-                "playtime": 166608850,
+                "matches": 284,
+                "playtime": 167225067,
                 "finished": 146,
                 "finishtime": 88122538,
                 "won": 164,
-                "lost": 107,
+                "lost": 108,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757036416000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1831,
+                    "change": -15,
+                    "oelo": 2014,
+                    "ochange": 15,
+                    "time": 616217,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757035542000,
                     "type": "VILLAGE",
@@ -42371,7 +42385,7 @@
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 1845,
                 "top": 1850,
                 "points": 0,
