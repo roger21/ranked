@@ -1,5 +1,5 @@
 {
-    "date": 1757053201000,
+    "date": 1757053801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -25304,14 +25304,14 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 15,
-                "elo": 1885,
+                "elo": 1884,
                 "top": 2049,
                 "points": 0,
                 "pb": 449349,
                 "current": 3,
                 "streak": 9,
-                "matches": 291,
-                "playtime": 171463674,
+                "matches": 292,
+                "playtime": 172155853,
                 "finished": 151,
                 "finishtime": 91063002,
                 "won": 169,
@@ -25320,6 +25320,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757053464000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "dandannyboy",
+                    "elo": 1884,
+                    "change": -1,
+                    "oelo": 1811,
+                    "ochange": 1,
+                    "time": 692179,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1757052190000,
                     "type": "RUINED_PORTAL",
@@ -46319,14 +46333,14 @@
             "nickname": "dandannyboy",
             "stats": {
                 "rank": 26,
-                "elo": 1810,
+                "elo": 1811,
                 "top": 1846,
                 "points": 0,
                 "pb": 463237,
                 "current": 0,
                 "streak": 4,
-                "matches": 84,
-                "playtime": 52169907,
+                "matches": 85,
+                "playtime": 52862086,
                 "finished": 39,
                 "finishtime": 26874169,
                 "won": 46,
@@ -46335,6 +46349,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757053464000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "Aquacorde",
+                    "elo": 1811,
+                    "change": 1,
+                    "oelo": 1884,
+                    "ochange": -1,
+                    "time": 692179,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1757052722000,
                     "type": "DESERT_TEMPLE",
