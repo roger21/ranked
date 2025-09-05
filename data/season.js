@@ -1,5 +1,5 @@
 {
-    "date": 1757057401000,
+    "date": 1757058001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -20130,22 +20130,36 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 11,
-                "elo": 1949,
+                "elo": 1965,
                 "top": 2003,
                 "points": 0,
                 "pb": 399786,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 178,
-                "playtime": 104191251,
-                "finished": 87,
-                "finishtime": 52083997,
-                "won": 100,
+                "matches": 179,
+                "playtime": 104868768,
+                "finished": 88,
+                "finishtime": 52761514,
+                "won": 101,
                 "lost": 70,
                 "forfeited": 3
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1757057486000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Aquacorde",
+                    "elo": 1965,
+                    "change": 16,
+                    "oelo": 1828,
+                    "ochange": -16,
+                    "time": 677517,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757056759000,
                     "type": "DESERT_TEMPLE",
@@ -39040,22 +39054,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 23,
-                "elo": 1844,
+                "elo": 1828,
                 "top": 2049,
                 "points": 0,
                 "pb": 449349,
                 "current": 0,
                 "streak": 9,
-                "matches": 295,
-                "playtime": 173952985,
+                "matches": 296,
+                "playtime": 174630502,
                 "finished": 152,
                 "finishtime": 91674316,
                 "won": 170,
-                "lost": 112,
+                "lost": 113,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757057486000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "retropog",
+                    "elo": 1828,
+                    "change": -16,
+                    "oelo": 1965,
+                    "ochange": 16,
+                    "time": 677517,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757055904000,
                     "type": "SHIPWRECK",
