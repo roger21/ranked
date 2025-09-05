@@ -813,7 +813,7 @@
             "6": 2202,
             "7": 1991,
             "8": 1994,
-            "9": 1476
+            "9": 1500
         },
         "points": {
             "1": 0,
@@ -828,11 +828,11 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 3560,
-        "playtime": 2305439953,
+        "matches": 3561,
+        "playtime": 2305761129,
         "finished": 1352,
         "finishtime": 977720980,
-        "won": 1878,
+        "won": 1879,
         "lost": 1612,
         "forfeited": 206
     },
@@ -1798,13 +1798,13 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 3082,
-        "playtime": 1867297771,
+        "matches": 3083,
+        "playtime": 1868078066,
         "finished": 1021,
         "finishtime": 766113610,
         "won": 1508,
-        "lost": 1316,
-        "forfeited": 479
+        "lost": 1317,
+        "forfeited": 480
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
@@ -4179,13 +4179,13 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4527,
-        "playtime": 3009458612,
+        "matches": 4528,
+        "playtime": 3009779788,
         "finished": 1651,
         "finishtime": 1192161092,
         "won": 2300,
-        "lost": 2061,
-        "forfeited": 112
+        "lost": 2062,
+        "forfeited": 113
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
