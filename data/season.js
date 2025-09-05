@@ -1,5 +1,5 @@
 {
-    "date": 1757045401000,
+    "date": 1757046001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -38970,22 +38970,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 23,
-                "elo": 1831,
+                "elo": 1844,
                 "top": 2049,
                 "points": 0,
                 "pb": 449349,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 284,
-                "playtime": 167225067,
-                "finished": 146,
-                "finishtime": 88122538,
-                "won": 164,
+                "matches": 285,
+                "playtime": 167700101,
+                "finished": 147,
+                "finishtime": 88597572,
+                "won": 165,
                 "lost": 108,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757045712000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ValdarenMC",
+                    "elo": 1844,
+                    "change": 13,
+                    "oelo": 1632,
+                    "ochange": -13,
+                    "time": 475034,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757036416000,
                     "type": "SHIPWRECK",
