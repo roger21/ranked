@@ -399,12 +399,12 @@
         },
         "pb": 413607,
         "streak": 14,
-        "matches": 3523,
-        "playtime": 2133533636,
+        "matches": 3524,
+        "playtime": 2134022034,
         "finished": 1540,
         "finishtime": 1030407360,
         "won": 1908,
-        "lost": 1519,
+        "lost": 1520,
         "forfeited": 432
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
@@ -1415,11 +1415,11 @@
         },
         "pb": 410816,
         "streak": 29,
-        "matches": 3499,
-        "playtime": 2130359166,
-        "finished": 1989,
-        "finishtime": 1272558569,
-        "won": 2470,
+        "matches": 3500,
+        "playtime": 2130938627,
+        "finished": 1990,
+        "finishtime": 1273138030,
+        "won": 2471,
         "lost": 927,
         "forfeited": 32
     },
@@ -2324,7 +2324,7 @@
             "6": 1582,
             "7": 2203,
             "8": 2491,
-            "9": 2206
+            "9": 2213
         },
         "points": {
             "6": 0,
@@ -2334,44 +2334,13 @@
         },
         "pb": 406664,
         "streak": 17,
-        "matches": 3200,
-        "playtime": 1860468061,
-        "finished": 1491,
-        "finishtime": 945115136,
-        "won": 1839,
+        "matches": 3201,
+        "playtime": 1860956459,
+        "finished": 1492,
+        "finishtime": 945603534,
+        "won": 1840,
         "lost": 1279,
         "forfeited": 310
-    },
-    "6d160110ea1e4ab3b1513b3b45c53556": {
-        "nickname": "MaybeSoul",
-        "country": "us",
-        "top": {
-            "3": 1245,
-            "4": 1201,
-            "5": 1132,
-            "6": 1443,
-            "7": 1613,
-            "8": 1779,
-            "9": 1736
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 4,
-            "9": 0
-        },
-        "pb": 513722,
-        "streak": 10,
-        "matches": 953,
-        "playtime": 685109508,
-        "finished": 266,
-        "finishtime": 231179976,
-        "won": 490,
-        "lost": 422,
-        "forfeited": 91
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -3414,13 +3383,40 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 6110,
-        "playtime": 3856909535,
+        "matches": 6111,
+        "playtime": 3857488996,
         "finished": 2345,
         "finishtime": 1640593770,
         "won": 3083,
-        "lost": 2840,
+        "lost": 2841,
         "forfeited": 673
+    },
+    "97559a8303d44690b85db9e1e1f6764f": {
+        "nickname": "shrddr",
+        "country": "yt",
+        "top": {
+            "5": 1365,
+            "6": 1552,
+            "7": 1611,
+            "8": 1735,
+            "9": 1790
+        },
+        "points": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 446461,
+        "streak": 12,
+        "matches": 1214,
+        "playtime": 797488869,
+        "finished": 369,
+        "finishtime": 285725420,
+        "won": 584,
+        "lost": 526,
+        "forfeited": 138
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfity",
@@ -3682,12 +3678,12 @@
         },
         "pb": 479674,
         "streak": 11,
-        "matches": 1569,
-        "playtime": 1142423566,
+        "matches": 1570,
+        "playtime": 1143304473,
         "finished": 558,
         "finishtime": 456808066,
         "won": 840,
-        "lost": 651,
+        "lost": 652,
         "forfeited": 18
     },
     "a162fe30a8074cc6b9600719bc5e5ed9": {
