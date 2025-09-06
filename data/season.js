@@ -1,5 +1,5 @@
 {
-    "date": 1757128801000,
+    "date": 1757129401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -51007,23 +51007,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 29,
-                "elo": 1807,
+                "rank": 32,
+                "elo": 1797,
                 "top": 1861,
                 "points": 0,
                 "pb": 448378,
-                "current": 2,
+                "current": 0,
                 "streak": 6,
-                "matches": 244,
-                "playtime": 144853021,
+                "matches": 245,
+                "playtime": 145387854,
                 "finished": 110,
                 "finishtime": 69668650,
                 "won": 120,
-                "lost": 116,
+                "lost": 117,
                 "forfeited": 24
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1757129419000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 1797,
+                    "change": -10,
+                    "oelo": 2109,
+                    "ochange": 10,
+                    "time": 534833,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757128734000,
                     "type": "DESERT_TEMPLE",
@@ -54390,7 +54404,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 1806,
                 "top": 1806,
                 "points": 0,
@@ -57619,7 +57633,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "shimuon",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1802,
                 "top": 1822,
                 "points": 0,
@@ -58524,7 +58538,7 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 1801,
                 "top": 1801,
                 "points": 0,
