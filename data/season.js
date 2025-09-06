@@ -1,5 +1,5 @@
 {
-    "date": 1757184001000,
+    "date": 1757184601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56384,14 +56384,14 @@
             "nickname": "nyachloe",
             "stats": {
                 "rank": 29,
-                "elo": 1808,
+                "elo": 1807,
                 "top": 1830,
                 "points": 0,
                 "pb": 479865,
                 "current": 0,
                 "streak": 4,
-                "matches": 79,
-                "playtime": 47054614,
+                "matches": 80,
+                "playtime": 47749557,
                 "finished": 37,
                 "finishtime": 23357631,
                 "won": 43,
@@ -56400,6 +56400,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1757184214000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "boywithcards",
+                    "elo": 1807,
+                    "change": -1,
+                    "oelo": 1702,
+                    "ochange": 1,
+                    "time": 694943,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1757183359000,
                     "type": "DESERT_TEMPLE",
