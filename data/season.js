@@ -1,5 +1,5 @@
 {
-    "date": 1757131801000,
+    "date": 1757132401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2745,22 +2745,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 2,
-                "elo": 2109,
+                "elo": 2121,
                 "top": 2150,
                 "points": 0,
                 "pb": 397869,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 139,
-                "playtime": 79725627,
-                "finished": 85,
-                "finishtime": 48909472,
-                "won": 92,
+                "matches": 140,
+                "playtime": 80221540,
+                "finished": 86,
+                "finishtime": 49405385,
+                "won": 93,
                 "lost": 43,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1757132115000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Hypn0ticMCSR",
+                    "elo": 2121,
+                    "change": 12,
+                    "oelo": 1848,
+                    "ochange": -12,
+                    "time": 495913,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757129419000,
                     "type": "DESERT_TEMPLE",
@@ -35214,22 +35228,36 @@
             "nickname": "Hypn0ticMCSR",
             "stats": {
                 "rank": 21,
-                "elo": 1860,
+                "elo": 1848,
                 "top": 1925,
                 "points": 0,
                 "pb": 452308,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 202,
-                "playtime": 113415205,
+                "matches": 203,
+                "playtime": 113911118,
                 "finished": 83,
                 "finishtime": 51832009,
                 "won": 110,
-                "lost": 87,
+                "lost": 88,
                 "forfeited": 22
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1757132115000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 1848,
+                    "change": -12,
+                    "oelo": 2121,
+                    "ochange": 12,
+                    "time": 495913,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1756970574000,
                     "type": "SHIPWRECK",
