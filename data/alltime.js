@@ -3944,13 +3944,13 @@
         },
         "pb": 456658,
         "streak": 8,
-        "matches": 2450,
-        "playtime": 1451953837,
+        "matches": 2451,
+        "playtime": 1452643260,
         "finished": 754,
         "finishtime": 572333350,
         "won": 1197,
-        "lost": 1029,
-        "forfeited": 584
+        "lost": 1030,
+        "forfeited": 585
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
@@ -5090,13 +5090,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 5576,
-        "playtime": 3103390842,
+        "matches": 5577,
+        "playtime": 3103661725,
         "finished": 2082,
         "finishtime": 1391147558,
         "won": 2846,
-        "lost": 2576,
-        "forfeited": 1552
+        "lost": 2577,
+        "forfeited": 1553
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
