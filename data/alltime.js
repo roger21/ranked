@@ -1942,12 +1942,12 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3634,
-        "playtime": 2365297083,
+        "matches": 3635,
+        "playtime": 2366269462,
         "finished": 1496,
         "finishtime": 1080688352,
         "won": 1975,
-        "lost": 1581,
+        "lost": 1582,
         "forfeited": 334
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -2217,6 +2217,39 @@
         "won": 128,
         "lost": 57,
         "forfeited": 0
+    },
+    "6135d13bce2841f8b7e8d37d91c6edfe": {
+        "nickname": "boywithcards",
+        "country": "de",
+        "top": {
+            "1": 1412,
+            "3": 1455,
+            "4": 1542,
+            "5": 1746,
+            "6": 1790,
+            "7": 1877,
+            "8": 1726,
+            "9": 1754
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 5,
+            "7": 40,
+            "8": 4,
+            "9": 0
+        },
+        "pb": 473760,
+        "streak": 12,
+        "matches": 2783,
+        "playtime": 1797824032,
+        "finished": 840,
+        "finishtime": 636563431,
+        "won": 1401,
+        "lost": 1256,
+        "forfeited": 321
     },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
@@ -2947,31 +2980,6 @@
         "won": 1786,
         "lost": 1662,
         "forfeited": 644
-    },
-    "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
-        "country": "jp",
-        "top": {
-            "6": 933,
-            "7": 1664,
-            "8": 1851,
-            "9": 1725
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 0
-        },
-        "pb": 445193,
-        "streak": 12,
-        "matches": 4605,
-        "playtime": 2730168142,
-        "finished": 1476,
-        "finishtime": 1091886748,
-        "won": 2285,
-        "lost": 2171,
-        "forfeited": 1321
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
