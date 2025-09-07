@@ -1,5 +1,5 @@
 {
-    "date": 1757264401000,
+    "date": 1757265001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -97765,7 +97765,7 @@
             "uuid": "3c59ed02bccf4ea3a0f626af7955be91",
             "nickname": "Tookannn",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1727,
                 "top": 1757,
                 "points": 0,
@@ -98572,7 +98572,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1725,
                 "top": 1725,
                 "points": 0,
