@@ -1,5 +1,5 @@
 {
-    "date": 1757259601000,
+    "date": 1757260201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -75961,7 +75961,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "Neksezi",
+                    "opponent": "izesken",
                     "elo": 1451,
                     "change": 18,
                     "oelo": 1373,
