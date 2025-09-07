@@ -45,7 +45,7 @@
             "6": 2075,
             "7": 1965,
             "8": 1980,
-            "9": 1745
+            "9": 1761
         },
         "points": {
             "2": 0,
@@ -59,11 +59,11 @@
         },
         "pb": 454386,
         "streak": 11,
-        "matches": 5817,
-        "playtime": 3850586222,
-        "finished": 1973,
-        "finishtime": 1512678974,
-        "won": 2903,
+        "matches": 5818,
+        "playtime": 3851387660,
+        "finished": 1974,
+        "finishtime": 1513480412,
+        "won": 2904,
         "lost": 2715,
         "forfeited": 643
     },
@@ -368,11 +368,11 @@
         },
         "pb": 413607,
         "streak": 14,
-        "matches": 3549,
-        "playtime": 2149519044,
-        "finished": 1556,
-        "finishtime": 1040821029,
-        "won": 1925,
+        "matches": 3550,
+        "playtime": 2150046005,
+        "finished": 1557,
+        "finishtime": 1041347990,
+        "won": 1926,
         "lost": 1528,
         "forfeited": 432
     },
@@ -3471,7 +3471,7 @@
             "6": 1754,
             "7": 1580,
             "8": 1664,
-            "9": 1548
+            "9": 1572
         },
         "points": {
             "1": 0,
@@ -3486,11 +3486,11 @@
         },
         "pb": 454462,
         "streak": 18,
-        "matches": 3869,
-        "playtime": 2473834260,
-        "finished": 1239,
-        "finishtime": 971119796,
-        "won": 1993,
+        "matches": 3870,
+        "playtime": 2474438726,
+        "finished": 1240,
+        "finishtime": 971724262,
+        "won": 1994,
         "lost": 1773,
         "forfeited": 937
     },
@@ -4663,12 +4663,12 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 3106,
-        "playtime": 2038455136,
+        "matches": 3107,
+        "playtime": 2038982097,
         "finished": 1117,
         "finishtime": 865647645,
         "won": 1605,
-        "lost": 1405,
+        "lost": 1406,
         "forfeited": 397
     },
     "d7d0b271136647fea7398a444ab51c13": {
