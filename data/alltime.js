@@ -805,37 +805,6 @@
         "lost": 1629,
         "forfeited": 207
     },
-    "26c82339872246c489bf285760ca1af3": {
-        "nickname": "novadud",
-        "country": "us",
-        "top": {
-            "3": 1538,
-            "4": 1728,
-            "5": 1429,
-            "6": 1633,
-            "7": 1792,
-            "8": 1801,
-            "9": 1727
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 5,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 446180,
-        "streak": 10,
-        "matches": 1229,
-        "playtime": 877664660,
-        "finished": 438,
-        "finishtime": 344606761,
-        "won": 643,
-        "lost": 526,
-        "forfeited": 35
-    },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
         "country": "ca",
@@ -2546,13 +2515,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2565,
-        "playtime": 1662176904,
+        "matches": 2566,
+        "playtime": 1662529229,
         "finished": 880,
         "finishtime": 697293149,
         "won": 1335,
-        "lost": 1163,
-        "forfeited": 480
+        "lost": 1164,
+        "forfeited": 481
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -4119,11 +4088,11 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4560,
-        "playtime": 3028589289,
-        "finished": 1667,
-        "finishtime": 1202806225,
-        "won": 2320,
+        "matches": 4561,
+        "playtime": 3029157658,
+        "finished": 1668,
+        "finishtime": 1203374594,
+        "won": 2321,
         "lost": 2073,
         "forfeited": 113
     },
@@ -4463,11 +4432,11 @@
         },
         "pb": 442968,
         "streak": 14,
-        "matches": 4505,
-        "playtime": 2759245766,
+        "matches": 4507,
+        "playtime": 2759846998,
         "finished": 1530,
         "finishtime": 1085997623,
-        "won": 2237,
+        "won": 2239,
         "lost": 2043,
         "forfeited": 848
     },
