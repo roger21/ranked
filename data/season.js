@@ -1,5 +1,5 @@
 {
-    "date": 1757304601000,
+    "date": 1757305201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18767,7 +18767,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 9,
+                "rank": 8,
                 "elo": 1984,
                 "top": 1991,
                 "points": 0,
@@ -19434,7 +19434,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 10,
+                "rank": 11,
                 "elo": 1958,
                 "top": 1978,
                 "points": 0,
@@ -21529,7 +21529,7 @@
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "nickname": "hackingnoises",
             "stats": {
-                "rank": 11,
+                "rank": 12,
                 "elo": 1951,
                 "top": 2031,
                 "points": 0,
@@ -22616,23 +22616,37 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 12,
-                "elo": 1938,
+                "rank": 10,
+                "elo": 1960,
                 "top": 1978,
                 "points": 0,
                 "pb": 413607,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 246,
-                "playtime": 147939345,
-                "finished": 126,
-                "finishtime": 78132642,
-                "won": 139,
+                "matches": 247,
+                "playtime": 148630814,
+                "finished": 127,
+                "finishtime": 78824111,
+                "won": 140,
                 "lost": 104,
                 "forfeited": 6
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757305211000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "retropog",
+                    "elo": 1960,
+                    "change": 22,
+                    "oelo": 1975,
+                    "ochange": -22,
+                    "time": 691469,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757304474000,
                     "type": "RUINED_PORTAL",
