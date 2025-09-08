@@ -657,12 +657,12 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6309,
-        "playtime": 3929685175,
+        "matches": 6310,
+        "playtime": 3930494265,
         "finished": 2356,
         "finishtime": 1646736719,
         "won": 3159,
-        "lost": 2876,
+        "lost": 2877,
         "forfeited": 686
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -3634,7 +3634,7 @@
     },
     "a3165d3bf73a4eb6a69c110f2fdd58a9": {
         "nickname": "Frankey32",
-        "country": "ru",
+        "country": "yt",
         "top": {
             "1": 1332,
             "2": 1401,
@@ -3985,11 +3985,11 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 3309,
-        "playtime": 2071621424,
-        "finished": 1150,
-        "finishtime": 833574723,
-        "won": 1678,
+        "matches": 3310,
+        "playtime": 2072430514,
+        "finished": 1151,
+        "finishtime": 834383813,
+        "won": 1679,
         "lost": 1509,
         "forfeited": 480
     },
