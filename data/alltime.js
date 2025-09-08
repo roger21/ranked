@@ -1256,41 +1256,6 @@
         "lost": 1003,
         "forfeited": 97
     },
-    "3c59ed02bccf4ea3a0f626af7955be91": {
-        "nickname": "Tookannn",
-        "country": "ca",
-        "top": {
-            "1": 1341,
-            "2": 1504,
-            "3": 1405,
-            "4": 1626,
-            "5": 1684,
-            "6": 1583,
-            "7": 1607,
-            "8": 2007,
-            "9": 1757
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 15,
-            "6": 0,
-            "7": 0,
-            "8": 33,
-            "9": 0
-        },
-        "pb": 492469,
-        "streak": 13,
-        "matches": 785,
-        "playtime": 533048809,
-        "finished": 307,
-        "finishtime": 234092318,
-        "won": 431,
-        "lost": 313,
-        "forfeited": 19
-    },
     "3c8757790ab0400b8b9e3936e0dd535b": {
         "nickname": "doogile",
         "country": "us",
@@ -3328,6 +3293,33 @@
         "won": 2052,
         "lost": 1890,
         "forfeited": 627
+    },
+    "9827f54286ab4f7cb495ae31fa3cf4ce": {
+        "nickname": "harusame_0123",
+        "country": "jp",
+        "top": {
+            "5": 1586,
+            "6": 1734,
+            "7": 1796,
+            "8": 1720,
+            "9": 1810
+        },
+        "points": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 501027,
+        "streak": 17,
+        "matches": 1359,
+        "playtime": 890732961,
+        "finished": 475,
+        "finishtime": 357184171,
+        "won": 696,
+        "lost": 608,
+        "forfeited": 156
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
