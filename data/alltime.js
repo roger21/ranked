@@ -747,7 +747,7 @@
             "6": 2202,
             "7": 1991,
             "8": 1994,
-            "9": 1789
+            "9": 1808
         },
         "points": {
             "1": 0,
@@ -762,11 +762,11 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 3619,
-        "playtime": 2344293254,
+        "matches": 3620,
+        "playtime": 2344714245,
         "finished": 1383,
         "finishtime": 1000673855,
-        "won": 1914,
+        "won": 1915,
         "lost": 1633,
         "forfeited": 207
     },
@@ -4088,13 +4088,13 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4563,
-        "playtime": 3030001282,
+        "matches": 4564,
+        "playtime": 3030422273,
         "finished": 1668,
         "finishtime": 1203374594,
         "won": 2322,
-        "lost": 2074,
-        "forfeited": 113
+        "lost": 2075,
+        "forfeited": 114
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
