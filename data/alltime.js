@@ -26,11 +26,11 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 4582,
-        "playtime": 2898624639,
+        "matches": 4583,
+        "playtime": 2898912276,
         "finished": 1735,
         "finishtime": 1243501217,
-        "won": 2325,
+        "won": 2326,
         "lost": 2145,
         "forfeited": 498
     },
@@ -66,37 +66,6 @@
         "won": 2913,
         "lost": 2724,
         "forfeited": 644
-    },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLPAWJOB",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2064,
-            "9": 1877
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 28,
-            "9": 0
-        },
-        "pb": 379698,
-        "streak": 9,
-        "matches": 1860,
-        "playtime": 1057469209,
-        "finished": 658,
-        "finishtime": 456032172,
-        "won": 936,
-        "lost": 855,
-        "forfeited": 475
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -1483,11 +1452,11 @@
         },
         "pb": 455813,
         "streak": 11,
-        "matches": 3422,
-        "playtime": 2343323896,
-        "finished": 1195,
-        "finishtime": 929351720,
-        "won": 1748,
+        "matches": 3423,
+        "playtime": 2344054680,
+        "finished": 1196,
+        "finishtime": 930082504,
+        "won": 1749,
         "lost": 1516,
         "forfeited": 203
     },
@@ -2131,7 +2100,7 @@
             "6": 1999,
             "7": 2001,
             "8": 2073,
-            "9": 1707
+            "9": 1726
         },
         "points": {
             "1": 0,
@@ -2146,11 +2115,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8554,
-        "playtime": 5397464271,
+        "matches": 8555,
+        "playtime": 5398032176,
         "finished": 3056,
         "finishtime": 2307527752,
-        "won": 4263,
+        "won": 4264,
         "lost": 4010,
         "forfeited": 1433
     },
@@ -2600,13 +2569,13 @@
         },
         "pb": 443695,
         "streak": 10,
-        "matches": 2684,
-        "playtime": 1718962173,
+        "matches": 2685,
+        "playtime": 1719238445,
         "finished": 892,
         "finishtime": 668965722,
         "won": 1344,
-        "lost": 1226,
-        "forfeited": 375
+        "lost": 1227,
+        "forfeited": 376
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
         "nickname": "TUDORULE",
@@ -3230,7 +3199,7 @@
             "6": 2378,
             "7": 2312,
             "8": 2303,
-            "9": 2081
+            "9": 2092
         },
         "points": {
             "1": 0,
@@ -3245,11 +3214,11 @@
         },
         "pb": 425958,
         "streak": 20,
-        "matches": 9129,
-        "playtime": 5495001177,
-        "finished": 3866,
-        "finishtime": 2637556612,
-        "won": 5098,
+        "matches": 9130,
+        "playtime": 5495507935,
+        "finished": 3867,
+        "finishtime": 2638063370,
+        "won": 5099,
         "lost": 3821,
         "forfeited": 1187
     },
@@ -3453,12 +3422,12 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 3465,
-        "playtime": 2010844793,
+        "matches": 3466,
+        "playtime": 2011351551,
         "finished": 1301,
         "finishtime": 907132165,
         "won": 1771,
-        "lost": 1591,
+        "lost": 1592,
         "forfeited": 755
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
@@ -5059,12 +5028,12 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 5601,
-        "playtime": 3116989739,
+        "matches": 5602,
+        "playtime": 3117720523,
         "finished": 2092,
         "finishtime": 1397345311,
         "won": 2860,
-        "lost": 2586,
+        "lost": 2587,
         "forfeited": 1559
     },
     "f1611fd339b1401f84154afee3a5f14a": {
