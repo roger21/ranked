@@ -1,5 +1,5 @@
 {
-    "date": 1757414401000,
+    "date": 1757415001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -86508,22 +86508,36 @@
             "nickname": "cornflakesmcsr",
             "stats": {
                 "rank": 41,
-                "elo": 1767,
+                "elo": 1782,
                 "top": 1858,
                 "points": 0,
                 "pb": 545471,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 122,
-                "playtime": 79244053,
-                "finished": 49,
-                "finishtime": 33603811,
-                "won": 61,
+                "matches": 123,
+                "playtime": 80035186,
+                "finished": 50,
+                "finishtime": 34394944,
+                "won": 62,
                 "lost": 52,
                 "forfeited": 0
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1757414602000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "shrddr",
+                    "elo": 1782,
+                    "change": 15,
+                    "oelo": 1612,
+                    "ochange": -15,
+                    "time": 791133,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757413602000,
                     "type": "BURIED_TREASURE",
