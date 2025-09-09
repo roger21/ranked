@@ -1108,12 +1108,12 @@
         },
         "pb": 526564,
         "streak": 11,
-        "matches": 1776,
-        "playtime": 1319145739,
+        "matches": 1777,
+        "playtime": 1319736298,
         "finished": 576,
         "finishtime": 500697716,
         "won": 923,
-        "lost": 763,
+        "lost": 764,
         "forfeited": 178
     },
     "36a441538cbc463da6a877e6ebc8af91": {
@@ -3358,11 +3358,11 @@
         },
         "pb": 443273,
         "streak": 29,
-        "matches": 1762,
-        "playtime": 1059929605,
+        "matches": 1763,
+        "playtime": 1060262893,
         "finished": 926,
         "finishtime": 602439982,
-        "won": 1171,
+        "won": 1172,
         "lost": 573,
         "forfeited": 80
     },
@@ -4593,13 +4593,13 @@
         },
         "pb": 482066,
         "streak": 12,
-        "matches": 2396,
-        "playtime": 1466686973,
+        "matches": 2397,
+        "playtime": 1467020261,
         "finished": 792,
         "finishtime": 591313966,
         "won": 1203,
-        "lost": 1112,
-        "forfeited": 504
+        "lost": 1113,
+        "forfeited": 505
     },
     "d1718c79c34e4bce93cd688ac5254b58": {
         "nickname": "cornflakesmcsr",
