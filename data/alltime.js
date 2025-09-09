@@ -331,13 +331,13 @@
         },
         "pb": 422963,
         "streak": 12,
-        "matches": 2013,
-        "playtime": 1213859062,
+        "matches": 2014,
+        "playtime": 1214428533,
         "finished": 814,
         "finishtime": 567962527,
         "won": 1086,
-        "lost": 845,
-        "forfeited": 403
+        "lost": 846,
+        "forfeited": 404
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
         "nickname": "MrBudgiee",
@@ -3952,12 +3952,12 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 3331,
-        "playtime": 2085507209,
+        "matches": 3332,
+        "playtime": 2086205851,
         "finished": 1161,
         "finishtime": 841335245,
         "won": 1689,
-        "lost": 1520,
+        "lost": 1521,
         "forfeited": 483
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
