@@ -1,5 +1,5 @@
 {
-    "date": 1757416201000,
+    "date": 1757416801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -58189,23 +58189,37 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 29,
-                "elo": 1830,
+                "rank": 37,
+                "elo": 1802,
                 "top": 1858,
                 "points": 0,
                 "pb": 545471,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 125,
-                "playtime": 81259743,
+                "matches": 126,
+                "playtime": 81970656,
                 "finished": 51,
                 "finishtime": 34963393,
                 "won": 64,
-                "lost": 52,
+                "lost": 53,
                 "forfeited": 0
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1757416823000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "amariyy",
+                    "elo": 1802,
+                    "change": -28,
+                    "oelo": 1640,
+                    "ochange": 28,
+                    "time": 710913,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757415991000,
                     "type": "SHIPWRECK",
@@ -61273,7 +61287,7 @@
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1821,
                 "top": 1821,
                 "points": 0,
@@ -62150,7 +62164,7 @@
             "uuid": "0388b80ebe6c4216b4a8305c0cd27894",
             "nickname": "tommorerow",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 1818,
                 "top": 1847,
                 "points": 0,
@@ -63853,7 +63867,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 1818,
                 "top": 1980,
                 "points": 0,
@@ -70904,7 +70918,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 1816,
                 "top": 1854,
                 "points": 0,
@@ -72691,7 +72705,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1808,
                 "top": 1837,
                 "points": 0,
@@ -75584,7 +75598,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "Hypn0ticMCSR",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1808,
                 "top": 1925,
                 "points": 0,
@@ -79443,7 +79457,7 @@
             "uuid": "dd5fbfd77b35431e97e8e0ec36817f29",
             "nickname": "Traden",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 1806,
                 "top": 1806,
                 "points": 0,
