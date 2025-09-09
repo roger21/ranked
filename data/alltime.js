@@ -1616,7 +1616,7 @@
             "6": 1597,
             "7": 1793,
             "8": 1822,
-            "9": 1775
+            "9": 1781
         },
         "points": {
             "1": 0,
@@ -1631,11 +1631,11 @@
         },
         "pb": 468133,
         "streak": 12,
-        "matches": 2711,
-        "playtime": 1840484069,
+        "matches": 2712,
+        "playtime": 1841193207,
         "finished": 820,
         "finishtime": 663787659,
-        "won": 1360,
+        "won": 1361,
         "lost": 1199,
         "forfeited": 368
     },
@@ -2239,11 +2239,11 @@
         },
         "pb": 406664,
         "streak": 17,
-        "matches": 3255,
-        "playtime": 1891150493,
+        "matches": 3256,
+        "playtime": 1891423756,
         "finished": 1527,
         "finishtime": 965287621,
-        "won": 1876,
+        "won": 1877,
         "lost": 1297,
         "forfeited": 312
     },
@@ -2672,13 +2672,13 @@
         },
         "pb": 402926,
         "streak": 14,
-        "matches": 6568,
-        "playtime": 3712595010,
+        "matches": 6569,
+        "playtime": 3712868273,
         "finished": 1994,
         "finishtime": 1297712256,
         "won": 3014,
-        "lost": 2936,
-        "forfeited": 1735
+        "lost": 2937,
+        "forfeited": 1736
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -4597,13 +4597,13 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 3122,
-        "playtime": 2047191565,
+        "matches": 3123,
+        "playtime": 2047900703,
         "finished": 1121,
         "finishtime": 868116498,
         "won": 1612,
-        "lost": 1414,
-        "forfeited": 397
+        "lost": 1415,
+        "forfeited": 398
     },
     "d7d0b271136647fea7398a444ab51c13": {
         "nickname": "JustAltoid",
