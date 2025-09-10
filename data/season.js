@@ -1,5 +1,5 @@
 {
-    "date": 1757518201000,
+    "date": 1757518801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -43685,22 +43685,36 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 18,
-                "elo": 1912,
+                "elo": 1924,
                 "top": 1938,
                 "points": 0,
                 "pb": 467592,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 120,
-                "playtime": 70491646,
+                "matches": 121,
+                "playtime": 71045616,
                 "finished": 60,
                 "finishtime": 37474301,
-                "won": 71,
+                "won": 72,
                 "lost": 43,
                 "forfeited": 8
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1757518331000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "amariyy",
+                    "elo": 1924,
+                    "change": 12,
+                    "oelo": 1650,
+                    "ochange": -12,
+                    "time": 553970,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1757517350000,
                     "type": "RUINED_PORTAL",
