@@ -1,5 +1,5 @@
 {
-    "date": 1757519401000,
+    "date": 1757520001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -28114,22 +28114,36 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 13,
-                "elo": 1959,
+                "elo": 1976,
                 "top": 1980,
                 "points": 0,
                 "pb": 428038,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 561,
-                "playtime": 326396988,
-                "finished": 260,
-                "finishtime": 159811197,
-                "won": 302,
+                "matches": 562,
+                "playtime": 327105712,
+                "finished": 261,
+                "finishtime": 160519921,
+                "won": 303,
                 "lost": 250,
                 "forfeited": 23
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1757519668000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "NOHACKSJUSTTIGER",
+                    "elo": 1976,
+                    "change": 17,
+                    "oelo": 1860,
+                    "ochange": -17,
+                    "time": 708724,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757518909000,
                     "type": "DESERT_TEMPLE",
@@ -47968,22 +47982,36 @@
             "nickname": "NOHACKSJUSTTIGER",
             "stats": {
                 "rank": 21,
-                "elo": 1877,
+                "elo": 1860,
                 "top": 1971,
                 "points": 0,
                 "pb": 425524,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
-                "matches": 219,
-                "playtime": 125570583,
+                "matches": 220,
+                "playtime": 126279307,
                 "finished": 102,
                 "finishtime": 64193794,
                 "won": 114,
-                "lost": 94,
+                "lost": 95,
                 "forfeited": 35
             },
             "country": "pt",
             "matches": [
+                {
+                    "date": 1757519668000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 1860,
+                    "change": -17,
+                    "oelo": 1976,
+                    "ochange": 17,
+                    "time": 708724,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757518874000,
                     "type": "SHIPWRECK",
