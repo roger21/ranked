@@ -2251,11 +2251,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8574,
-        "playtime": 5409890062,
-        "finished": 3064,
-        "finishtime": 2313241193,
-        "won": 4274,
+        "matches": 8575,
+        "playtime": 5410488728,
+        "finished": 3065,
+        "finishtime": 2313839859,
+        "won": 4275,
         "lost": 4019,
         "forfeited": 1434
     },
@@ -4202,33 +4202,6 @@
         "won": 2326,
         "lost": 2080,
         "forfeited": 116
-    },
-    "b7797e44bd994c6ea281073798e03d27": {
-        "nickname": "lvckyruns",
-        "country": "de",
-        "top": {
-            "5": 1398,
-            "6": 1491,
-            "7": 1713,
-            "8": 1809,
-            "9": 1745
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 13,
-            "9": 0
-        },
-        "pb": 462106,
-        "streak": 11,
-        "matches": 2345,
-        "playtime": 1457746676,
-        "finished": 668,
-        "finishtime": 522031480,
-        "won": 1138,
-        "lost": 1025,
-        "forfeited": 603
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
