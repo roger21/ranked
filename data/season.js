@@ -1,5 +1,5 @@
 {
-    "date": 1757484601000,
+    "date": 1757485201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -56599,23 +56599,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 25,
-                "elo": 1854,
+                "rank": 30,
+                "elo": 1829,
                 "top": 1935,
                 "points": 0,
                 "pb": 463237,
                 "current": 0,
                 "streak": 4,
-                "matches": 132,
-                "playtime": 82219118,
+                "matches": 133,
+                "playtime": 82902860,
                 "finished": 60,
                 "finishtime": 41020800,
                 "won": 71,
-                "lost": 58,
+                "lost": 59,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1757485218000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "WarioTime1",
+                    "elo": 1829,
+                    "change": -25,
+                    "oelo": 1749,
+                    "ochange": 25,
+                    "time": 683742,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1757484469000,
                     "type": "DESERT_TEMPLE",
@@ -58414,7 +58428,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "L9_SOFTCATBOY69",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1848,
                 "top": 1878,
                 "points": 0,
@@ -59375,7 +59389,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "watermelon1708",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1842,
                 "top": 1882,
                 "points": 0,
@@ -61876,7 +61890,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "L9_FOXGIRLPAWJOB",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1839,
                 "top": 1877,
                 "points": 0,
@@ -63663,7 +63677,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1835,
                 "top": 2099,
                 "points": 0,
@@ -67830,7 +67844,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 1830,
                 "top": 1896,
                 "points": 0,
@@ -108531,7 +108545,7 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1748,
                 "top": 1828,
                 "points": 0,
@@ -111088,7 +111102,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1746,
                 "top": 1856,
                 "points": 0,
