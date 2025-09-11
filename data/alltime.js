@@ -59,11 +59,11 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 5885,
-        "playtime": 3892914518,
-        "finished": 1998,
-        "finishtime": 1530456576,
-        "won": 2936,
+        "matches": 5887,
+        "playtime": 3893497037,
+        "finished": 1999,
+        "finishtime": 1531039095,
+        "won": 2937,
         "lost": 2748,
         "forfeited": 651
     },
@@ -657,11 +657,11 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6357,
-        "playtime": 3957230042,
+        "matches": 6359,
+        "playtime": 3957745451,
         "finished": 2371,
         "finishtime": 1656120876,
-        "won": 3180,
+        "won": 3181,
         "lost": 2901,
         "forfeited": 686
     },
@@ -769,37 +769,6 @@
         "won": 1925,
         "lost": 1640,
         "forfeited": 207
-    },
-    "26c82339872246c489bf285760ca1af3": {
-        "nickname": "novadud",
-        "country": "us",
-        "top": {
-            "3": 1538,
-            "4": 1728,
-            "5": 1429,
-            "6": 1633,
-            "7": 1792,
-            "8": 1801,
-            "9": 1758
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 5,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 446180,
-        "streak": 10,
-        "matches": 1231,
-        "playtime": 878400191,
-        "finished": 438,
-        "finishtime": 344606761,
-        "won": 645,
-        "lost": 526,
-        "forfeited": 35
     },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
@@ -1419,13 +1388,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7773,
-        "playtime": 4988528136,
+        "matches": 7775,
+        "playtime": 4989593169,
         "finished": 2745,
         "finishtime": 2046867595,
         "won": 3869,
-        "lost": 3637,
-        "forfeited": 1254
+        "lost": 3639,
+        "forfeited": 1255
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
