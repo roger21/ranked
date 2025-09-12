@@ -894,13 +894,13 @@
         },
         "pb": 445811,
         "streak": 11,
-        "matches": 2889,
-        "playtime": 1946195772,
+        "matches": 2890,
+        "playtime": 1946816964,
         "finished": 1129,
         "finishtime": 845720765,
         "won": 1545,
-        "lost": 1279,
-        "forfeited": 161
+        "lost": 1280,
+        "forfeited": 162
     },
     "2988fcfbc6b141a497faa915e13b6592": {
         "nickname": "AutomattPLUS",
@@ -4947,11 +4947,11 @@
         },
         "pb": 449055,
         "streak": 14,
-        "matches": 6323,
-        "playtime": 3948825515,
+        "matches": 6324,
+        "playtime": 3949446707,
         "finished": 2731,
         "finishtime": 1887046996,
-        "won": 3447,
+        "won": 3448,
         "lost": 2792,
         "forfeited": 755
     },
