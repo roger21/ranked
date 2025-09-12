@@ -1334,7 +1334,7 @@
             "6": 2441,
             "7": 2395,
             "8": 2416,
-            "9": 2202
+            "9": 2215
         },
         "points": {
             "1": 0,
@@ -1349,11 +1349,11 @@
         },
         "pb": 396692,
         "streak": 29,
-        "matches": 3541,
-        "playtime": 2153079363,
-        "finished": 2017,
-        "finishtime": 1288207667,
-        "won": 2500,
+        "matches": 3542,
+        "playtime": 2153614873,
+        "finished": 2018,
+        "finishtime": 1288743177,
+        "won": 2501,
         "lost": 938,
         "forfeited": 32
     },
@@ -1404,7 +1404,7 @@
             "6": 1871,
             "7": 2129,
             "8": 2016,
-            "9": 1788
+            "9": 1789
         },
         "points": {
             "1": 0,
@@ -1419,11 +1419,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7800,
-        "playtime": 5003816989,
-        "finished": 2759,
-        "finishtime": 2055834528,
-        "won": 3886,
+        "matches": 7801,
+        "playtime": 5004390480,
+        "finished": 2760,
+        "finishtime": 2056408019,
+        "won": 3887,
         "lost": 3647,
         "forfeited": 1259
     },
@@ -2150,12 +2150,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 5681,
-        "playtime": 3627209286,
+        "matches": 5682,
+        "playtime": 3627744796,
         "finished": 2229,
         "finishtime": 1590318935,
         "won": 2980,
-        "lost": 2570,
+        "lost": 2571,
         "forfeited": 658
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -4916,12 +4916,12 @@
         },
         "pb": 449055,
         "streak": 14,
-        "matches": 6309,
-        "playtime": 3939061106,
+        "matches": 6310,
+        "playtime": 3939634597,
         "finished": 2723,
         "finishtime": 1881281879,
         "won": 3439,
-        "lost": 2786,
+        "lost": 2787,
         "forfeited": 755
     },
     "e4cd494a4e0a423b9988618b86858c96": {
