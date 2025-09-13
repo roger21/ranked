@@ -2515,13 +2515,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2603,
-        "playtime": 1685308433,
+        "matches": 2604,
+        "playtime": 1685603230,
         "finished": 889,
         "finishtime": 704118829,
         "won": 1349,
-        "lost": 1183,
-        "forfeited": 491
+        "lost": 1184,
+        "forfeited": 492
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -3135,7 +3135,7 @@
             "6": 1945,
             "7": 1826,
             "8": 1829,
-            "9": 1669
+            "9": 1670
         },
         "points": {
             "1": 0,
@@ -3150,11 +3150,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 6406,
-        "playtime": 4346234538,
-        "finished": 2101,
-        "finishtime": 1680640866,
-        "won": 3210,
+        "matches": 6407,
+        "playtime": 4347503824,
+        "finished": 2102,
+        "finishtime": 1681910152,
+        "won": 3211,
         "lost": 3013,
         "forfeited": 724
     },
@@ -3970,11 +3970,11 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 3404,
-        "playtime": 2127230690,
-        "finished": 1185,
-        "finishtime": 856862865,
-        "won": 1718,
+        "matches": 3405,
+        "playtime": 2127882494,
+        "finished": 1186,
+        "finishtime": 857514669,
+        "won": 1719,
         "lost": 1560,
         "forfeited": 498
     },
@@ -4249,6 +4249,35 @@
         "won": 2904,
         "lost": 2165,
         "forfeited": 1197
+    },
+    "bd276bdda370440a8754989c7faab51a": {
+        "nickname": "CookieAddicts",
+        "country": "de",
+        "top": {
+            "4": 1429,
+            "5": 1296,
+            "6": 1576,
+            "7": 1679,
+            "8": 1776,
+            "9": 1779
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 489429,
+        "streak": 13,
+        "matches": 3735,
+        "playtime": 2476922977,
+        "finished": 1038,
+        "finishtime": 829598266,
+        "won": 1787,
+        "lost": 1704,
+        "forfeited": 503
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
