@@ -3135,7 +3135,7 @@
             "6": 1945,
             "7": 1826,
             "8": 1829,
-            "9": 1670
+            "9": 1692
         },
         "points": {
             "1": 0,
@@ -3150,11 +3150,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 6407,
-        "playtime": 4347503824,
-        "finished": 2102,
-        "finishtime": 1681910152,
-        "won": 3211,
+        "matches": 6408,
+        "playtime": 4348428135,
+        "finished": 2103,
+        "finishtime": 1682834463,
+        "won": 3212,
         "lost": 3013,
         "forfeited": 724
     },
@@ -3970,11 +3970,11 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 3406,
-        "playtime": 2128690177,
+        "matches": 3407,
+        "playtime": 2128988942,
         "finished": 1186,
         "finishtime": 857514669,
-        "won": 1719,
+        "won": 1720,
         "lost": 1561,
         "forfeited": 499
     },
@@ -4259,7 +4259,7 @@
             "6": 1576,
             "7": 1679,
             "8": 1776,
-            "9": 1779
+            "9": 1795
         },
         "points": {
             "4": 0,
@@ -4271,11 +4271,11 @@
         },
         "pb": 489429,
         "streak": 13,
-        "matches": 3735,
-        "playtime": 2476922977,
-        "finished": 1038,
-        "finishtime": 829598266,
-        "won": 1787,
+        "matches": 3736,
+        "playtime": 2477546412,
+        "finished": 1039,
+        "finishtime": 830221701,
+        "won": 1788,
         "lost": 1704,
         "forfeited": 503
     },
@@ -5003,13 +5003,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 5614,
-        "playtime": 3124511842,
+        "matches": 5615,
+        "playtime": 3125148873,
         "finished": 2096,
         "finishtime": 1400004308,
         "won": 2866,
-        "lost": 2593,
-        "forfeited": 1562
+        "lost": 2594,
+        "forfeited": 1563
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
