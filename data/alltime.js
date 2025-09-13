@@ -300,13 +300,13 @@
         },
         "pb": 422963,
         "streak": 12,
-        "matches": 2065,
-        "playtime": 1243317198,
+        "matches": 2066,
+        "playtime": 1243934418,
         "finished": 841,
         "finishtime": 584299593,
         "won": 1115,
-        "lost": 866,
-        "forfeited": 410
+        "lost": 867,
+        "forfeited": 411
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
         "nickname": "MrBudgiee",
@@ -2362,7 +2362,7 @@
             "6": 1520,
             "7": 1952,
             "8": 1922,
-            "9": 1766
+            "9": 1767
         },
         "points": {
             "1": 0,
@@ -2377,11 +2377,11 @@
         },
         "pb": 494697,
         "streak": 13,
-        "matches": 4485,
-        "playtime": 2942487456,
+        "matches": 4486,
+        "playtime": 2943104676,
         "finished": 1445,
         "finishtime": 1153560647,
-        "won": 2273,
+        "won": 2274,
         "lost": 2032,
         "forfeited": 763
     },
@@ -2515,13 +2515,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2612,
-        "playtime": 1691180831,
+        "matches": 2613,
+        "playtime": 1691704592,
         "finished": 892,
         "finishtime": 706471156,
         "won": 1356,
-        "lost": 1185,
-        "forfeited": 492
+        "lost": 1186,
+        "forfeited": 493
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
