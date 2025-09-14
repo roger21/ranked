@@ -388,7 +388,7 @@
             "6": 0,
             "7": 0,
             "8": 1565,
-            "9": 1458
+            "9": 1480
         },
         "points": {
             "1": 0,
@@ -403,11 +403,11 @@
         },
         "pb": 624186,
         "streak": 16,
-        "matches": 605,
-        "playtime": 452939133,
-        "finished": 220,
-        "finishtime": 193450490,
-        "won": 347,
+        "matches": 606,
+        "playtime": 453654141,
+        "finished": 221,
+        "finishtime": 194165498,
+        "won": 348,
         "lost": 241,
         "forfeited": 20
     },
@@ -1283,12 +1283,12 @@
         },
         "pb": 493121,
         "streak": 12,
-        "matches": 2264,
-        "playtime": 1607005403,
+        "matches": 2265,
+        "playtime": 1607625840,
         "finished": 796,
         "finishtime": 637846193,
         "won": 1189,
-        "lost": 1004,
+        "lost": 1005,
         "forfeited": 97
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -1456,12 +1456,12 @@
         },
         "pb": 431959,
         "streak": 11,
-        "matches": 3482,
-        "playtime": 2379146453,
+        "matches": 3483,
+        "playtime": 2379874247,
         "finished": 1221,
         "finishtime": 945107932,
         "won": 1778,
-        "lost": 1546,
+        "lost": 1547,
         "forfeited": 203
     },
     "43a6669e11474827802de8401a373169": {
@@ -2307,12 +2307,12 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 2991,
-        "playtime": 1904245678,
+        "matches": 2992,
+        "playtime": 1904881221,
         "finished": 1003,
         "finishtime": 755563659,
         "won": 1506,
-        "lost": 1346,
+        "lost": 1347,
         "forfeited": 454
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -2676,11 +2676,11 @@
         },
         "pb": 424025,
         "streak": 12,
-        "matches": 6048,
-        "playtime": 3714485969,
-        "finished": 2268,
-        "finishtime": 1603258791,
-        "won": 3118,
+        "matches": 6049,
+        "playtime": 3715213763,
+        "finished": 2269,
+        "finishtime": 1603986585,
+        "won": 3119,
         "lost": 2696,
         "forfeited": 950
     },
@@ -2802,12 +2802,12 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 3503,
-        "playtime": 2125580502,
+        "matches": 3504,
+        "playtime": 2126365077,
         "finished": 1228,
         "finishtime": 943990660,
         "won": 1838,
-        "lost": 1583,
+        "lost": 1584,
         "forfeited": 811
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -3534,41 +3534,6 @@
         "won": 2636,
         "lost": 2490,
         "forfeited": 1288
-    },
-    "a0a672a0bc194540bc195220dc170dba": {
-        "nickname": "JackoWacko62",
-        "country": "us",
-        "top": {
-            "1": 1585,
-            "2": 1590,
-            "3": 1607,
-            "4": 1652,
-            "5": 1767,
-            "6": 1802,
-            "7": 1992,
-            "8": 2002,
-            "9": 1897
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 15,
-            "5": 10,
-            "6": 30,
-            "7": 35,
-            "8": 61,
-            "9": 0
-        },
-        "pb": 424299,
-        "streak": 24,
-        "matches": 7577,
-        "playtime": 4576818238,
-        "finished": 2418,
-        "finishtime": 1786852502,
-        "won": 3737,
-        "lost": 3546,
-        "forfeited": 1749
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -4529,13 +4494,13 @@
         },
         "pb": 413158,
         "streak": 27,
-        "matches": 3916,
-        "playtime": 2246853534,
+        "matches": 3918,
+        "playtime": 2247719952,
         "finished": 1334,
         "finishtime": 959337359,
         "won": 1967,
-        "lost": 1787,
-        "forfeited": 1024
+        "lost": 1789,
+        "forfeited": 1025
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
