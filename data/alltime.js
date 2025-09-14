@@ -94,11 +94,11 @@
         },
         "pb": 437344,
         "streak": 13,
-        "matches": 2617,
-        "playtime": 1526327733,
-        "finished": 722,
-        "finishtime": 547725632,
-        "won": 1322,
+        "matches": 2618,
+        "playtime": 1527021934,
+        "finished": 723,
+        "finishtime": 548419833,
+        "won": 1323,
         "lost": 1210,
         "forfeited": 864
     },
@@ -1806,11 +1806,11 @@
         },
         "pb": 506379,
         "streak": 11,
-        "matches": 3487,
-        "playtime": 2548963075,
-        "finished": 1075,
-        "finishtime": 936072766,
-        "won": 1759,
+        "matches": 3488,
+        "playtime": 2549640520,
+        "finished": 1076,
+        "finishtime": 936750211,
+        "won": 1760,
         "lost": 1573,
         "forfeited": 289
     },
@@ -3086,13 +3086,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 9975,
-        "playtime": 6412895839,
+        "matches": 9976,
+        "playtime": 6413342552,
         "finished": 3334,
         "finishtime": 2656036602,
         "won": 5066,
-        "lost": 4697,
-        "forfeited": 2268
+        "lost": 4698,
+        "forfeited": 2269
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3484,7 +3484,7 @@
             "6": 1892,
             "7": 2028,
             "8": 2045,
-            "9": 1642
+            "9": 1659
         },
         "points": {
             "1": 0,
@@ -3498,11 +3498,11 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 5426,
-        "playtime": 3296233842,
-        "finished": 1750,
-        "finishtime": 1303779907,
-        "won": 2642,
+        "matches": 5427,
+        "playtime": 3296846819,
+        "finished": 1751,
+        "finishtime": 1304392884,
+        "won": 2643,
         "lost": 2493,
         "forfeited": 1288
     },
@@ -4245,7 +4245,7 @@
             "6": 968,
             "7": 1635,
             "8": 1894,
-            "9": 1811
+            "9": 1822
         },
         "points": {
             "6": 0,
@@ -4255,11 +4255,11 @@
         },
         "pb": 438638,
         "streak": 8,
-        "matches": 1712,
-        "playtime": 1124192302,
+        "matches": 1713,
+        "playtime": 1124462421,
         "finished": 518,
         "finishtime": 382171513,
-        "won": 808,
+        "won": 809,
         "lost": 722,
         "forfeited": 268
     },
@@ -4962,13 +4962,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 5640,
-        "playtime": 3139263083,
+        "matches": 5641,
+        "playtime": 3139533202,
         "finished": 2108,
         "finishtime": 1407586974,
         "won": 2881,
-        "lost": 2603,
-        "forfeited": 1569
+        "lost": 2604,
+        "forfeited": 1570
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
