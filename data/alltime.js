@@ -2084,11 +2084,11 @@
         },
         "pb": 413832,
         "streak": 10,
-        "matches": 982,
-        "playtime": 599695968,
+        "matches": 983,
+        "playtime": 599966139,
         "finished": 358,
         "finishtime": 261393360,
-        "won": 532,
+        "won": 533,
         "lost": 406,
         "forfeited": 202
     },
@@ -2879,41 +2879,6 @@
         "won": 391,
         "lost": 292,
         "forfeited": 141
-    },
-    "817a3f2e92da42ab89c64a787ce16d28": {
-        "nickname": "Voxio",
-        "country": "fr",
-        "top": {
-            "1": 1542,
-            "2": 1424,
-            "3": 1550,
-            "4": 1605,
-            "5": 1663,
-            "6": 1908,
-            "7": 1899,
-            "8": 2017,
-            "9": 1857
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 20,
-            "8": 14,
-            "9": 0
-        },
-        "pb": 440219,
-        "streak": 22,
-        "matches": 7089,
-        "playtime": 4595142156,
-        "finished": 2237,
-        "finishtime": 1779324102,
-        "won": 3489,
-        "lost": 3334,
-        "forfeited": 1570
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
@@ -4564,13 +4529,13 @@
         },
         "pb": 413158,
         "streak": 27,
-        "matches": 3906,
-        "playtime": 2241700070,
+        "matches": 3907,
+        "playtime": 2241970241,
         "finished": 1330,
         "finishtime": 957016579,
         "won": 1962,
-        "lost": 1782,
-        "forfeited": 1021
+        "lost": 1783,
+        "forfeited": 1022
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
