@@ -59,12 +59,12 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 5988,
-        "playtime": 3956310983,
+        "matches": 5989,
+        "playtime": 3956958715,
         "finished": 2037,
         "finishtime": 1556889092,
         "won": 2991,
-        "lost": 2791,
+        "lost": 2792,
         "forfeited": 654
     },
     "048de51800794a208de7f01652513c32": {
@@ -364,12 +364,12 @@
         },
         "pb": 413607,
         "streak": 14,
-        "matches": 3632,
-        "playtime": 2198111963,
+        "matches": 3633,
+        "playtime": 2198737072,
         "finished": 1598,
         "finishtime": 1065990112,
         "won": 1972,
-        "lost": 1562,
+        "lost": 1563,
         "forfeited": 433
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
@@ -1736,12 +1736,12 @@
         },
         "pb": 465908,
         "streak": 13,
-        "matches": 3106,
-        "playtime": 2035463819,
+        "matches": 3107,
+        "playtime": 2036046990,
         "finished": 1046,
         "finishtime": 840651118,
         "won": 1556,
-        "lost": 1448,
+        "lost": 1449,
         "forfeited": 680
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -3053,13 +3053,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 10061,
-        "playtime": 6466732735,
+        "matches": 10062,
+        "playtime": 6467219488,
         "finished": 3372,
         "finishtime": 2682475492,
         "won": 5112,
-        "lost": 4737,
-        "forfeited": 2282
+        "lost": 4738,
+        "forfeited": 2283
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3508,6 +3508,41 @@
         "lost": 660,
         "forfeited": 161
     },
+    "a0a672a0bc194540bc195220dc170dba": {
+        "nickname": "JackoWacko62",
+        "country": "us",
+        "top": {
+            "1": 1585,
+            "2": 1590,
+            "3": 1607,
+            "4": 1652,
+            "5": 1767,
+            "6": 1802,
+            "7": 1992,
+            "8": 2002,
+            "9": 1897
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 15,
+            "5": 10,
+            "6": 30,
+            "7": 35,
+            "8": 61,
+            "9": 0
+        },
+        "pb": 424299,
+        "streak": 24,
+        "matches": 7612,
+        "playtime": 4599051123,
+        "finished": 2434,
+        "finishtime": 1797064177,
+        "won": 3755,
+        "lost": 3562,
+        "forfeited": 1749
+    },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
         "country": "us",
@@ -3728,7 +3763,7 @@
             "6": 2213,
             "7": 2522,
             "8": 2464,
-            "9": 2219
+            "9": 2226
         },
         "points": {
             "3": 0,
@@ -3741,11 +3776,11 @@
         },
         "pb": 397869,
         "streak": 26,
-        "matches": 2345,
-        "playtime": 1371860490,
-        "finished": 1280,
-        "finishtime": 780092537,
-        "won": 1557,
+        "matches": 2346,
+        "playtime": 1372485599,
+        "finished": 1281,
+        "finishtime": 780717646,
+        "won": 1558,
         "lost": 746,
         "forfeited": 36
     },
@@ -4233,35 +4268,6 @@
         "won": 2907,
         "lost": 2168,
         "forfeited": 1197
-    },
-    "bd276bdda370440a8754989c7faab51a": {
-        "nickname": "CookieAddicts",
-        "country": "de",
-        "top": {
-            "4": 1429,
-            "5": 1296,
-            "6": 1576,
-            "7": 1679,
-            "8": 1776,
-            "9": 1810
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 489429,
-        "streak": 13,
-        "matches": 3737,
-        "playtime": 2478103952,
-        "finished": 1040,
-        "finishtime": 830779241,
-        "won": 1789,
-        "lost": 1704,
-        "forfeited": 503
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
