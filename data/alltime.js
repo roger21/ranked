@@ -366,11 +366,11 @@
         },
         "pb": 422963,
         "streak": 12,
-        "matches": 2090,
-        "playtime": 1258591641,
+        "matches": 2091,
+        "playtime": 1259117797,
         "finished": 850,
         "finishtime": 590577565,
-        "won": 1125,
+        "won": 1126,
         "lost": 881,
         "forfeited": 414
     },
@@ -399,11 +399,11 @@
         },
         "pb": 413607,
         "streak": 14,
-        "matches": 3642,
-        "playtime": 2204431483,
-        "finished": 1603,
-        "finishtime": 1069167153,
-        "won": 1978,
+        "matches": 3643,
+        "playtime": 2204887028,
+        "finished": 1604,
+        "finishtime": 1069622698,
+        "won": 1979,
         "lost": 1566,
         "forfeited": 433
     },
@@ -1392,12 +1392,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 7980,
-        "playtime": 5108497027,
+        "matches": 7981,
+        "playtime": 5108952572,
         "finished": 2827,
         "finishtime": 2099976975,
         "won": 3975,
-        "lost": 3731,
+        "lost": 3732,
         "forfeited": 1282
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -4111,29 +4111,6 @@
         "won": 2380,
         "lost": 2136,
         "forfeited": 140
-    },
-    "b6d1357d7fcb4860b6700b9fc1e2c332": {
-        "nickname": "GByeDeclaration",
-        "country": "fr",
-        "top": {
-            "7": 1408,
-            "8": 1728,
-            "9": 1813
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 524366,
-        "streak": 7,
-        "matches": 668,
-        "playtime": 457694680,
-        "finished": 231,
-        "finishtime": 188630247,
-        "won": 345,
-        "lost": 291,
-        "forfeited": 104
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
