@@ -316,7 +316,7 @@
             "6": 1478,
             "7": 1715,
             "8": 1899,
-            "9": 1750
+            "9": 1755
         },
         "points": {
             "1": 0,
@@ -331,11 +331,11 @@
         },
         "pb": 510361,
         "streak": 15,
-        "matches": 1996,
-        "playtime": 1450636830,
+        "matches": 1997,
+        "playtime": 1451210791,
         "finished": 746,
         "finishtime": 604863278,
-        "won": 1093,
+        "won": 1094,
         "lost": 856,
         "forfeited": 38
     },
@@ -2634,7 +2634,7 @@
             "6": 2475,
             "7": 2507,
             "8": 2308,
-            "9": 2065
+            "9": 2076
         },
         "points": {
             "1": 0,
@@ -2649,11 +2649,11 @@
         },
         "pb": 380341,
         "streak": 22,
-        "matches": 5947,
-        "playtime": 3765744593,
+        "matches": 5948,
+        "playtime": 3766079986,
         "finished": 3128,
         "finishtime": 2075569679,
-        "won": 3941,
+        "won": 3942,
         "lost": 1844,
         "forfeited": 181
     },
@@ -3012,13 +3012,13 @@
         },
         "pb": 397521,
         "streak": 14,
-        "matches": 3591,
-        "playtime": 2401307540,
+        "matches": 3592,
+        "playtime": 2401642933,
         "finished": 1219,
         "finishtime": 898198745,
         "won": 1750,
-        "lost": 1558,
-        "forfeited": 78
+        "lost": 1559,
+        "forfeited": 79
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
         "nickname": "Xxx_CR1MZ0N_XxX",
