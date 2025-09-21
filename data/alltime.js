@@ -94,12 +94,12 @@
         },
         "pb": 465817,
         "streak": 17,
-        "matches": 4962,
-        "playtime": 3034951888,
+        "matches": 4963,
+        "playtime": 3035478464,
         "finished": 1424,
         "finishtime": 1095373002,
         "won": 2374,
-        "lost": 2263,
+        "lost": 2264,
         "forfeited": 1297
     },
     "048de51800794a208de7f01652513c32": {
@@ -160,12 +160,12 @@
         },
         "pb": 434636,
         "streak": 13,
-        "matches": 2682,
-        "playtime": 1563134651,
+        "matches": 2683,
+        "playtime": 1563739387,
         "finished": 750,
         "finishtime": 564762031,
         "won": 1354,
-        "lost": 1241,
+        "lost": 1242,
         "forfeited": 876
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -766,12 +766,12 @@
         },
         "pb": 429880,
         "streak": 12,
-        "matches": 2296,
-        "playtime": 1448312870,
+        "matches": 2297,
+        "playtime": 1448939931,
         "finished": 1089,
         "finishtime": 712967361,
         "won": 1306,
-        "lost": 927,
+        "lost": 928,
         "forfeited": 52
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
@@ -995,7 +995,7 @@
             "6": 2116,
             "7": 2283,
             "8": 2204,
-            "9": 2161
+            "9": 2171
         },
         "points": {
             "2": 0,
@@ -1009,11 +1009,11 @@
         },
         "pb": 392826,
         "streak": 11,
-        "matches": 4531,
-        "playtime": 2679132467,
-        "finished": 1811,
-        "finishtime": 1184870581,
-        "won": 2330,
+        "matches": 4532,
+        "playtime": 2679659043,
+        "finished": 1812,
+        "finishtime": 1185397157,
+        "won": 2331,
         "lost": 1965,
         "forfeited": 580
     },
@@ -1063,7 +1063,7 @@
             "6": 1985,
             "7": 2039,
             "8": 2121,
-            "9": 2057
+            "9": 2079
         },
         "points": {
             "2": 0,
@@ -1077,11 +1077,11 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 5479,
-        "playtime": 3302436984,
-        "finished": 1706,
-        "finishtime": 1238148430,
-        "won": 2593,
+        "matches": 5480,
+        "playtime": 3303064045,
+        "finished": 1707,
+        "finishtime": 1238775491,
+        "won": 2594,
         "lost": 2444,
         "forfeited": 1150
     },
@@ -1250,11 +1250,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 14780,
-        "playtime": 9420343103,
-        "finished": 6231,
-        "finishtime": 4334831286,
-        "won": 8178,
+        "matches": 14781,
+        "playtime": 9420947839,
+        "finished": 6232,
+        "finishtime": 4335436022,
+        "won": 8179,
         "lost": 6351,
         "forfeited": 890
     },
@@ -4108,13 +4108,13 @@
         },
         "pb": 438785,
         "streak": 9,
-        "matches": 3119,
-        "playtime": 2109513956,
+        "matches": 3120,
+        "playtime": 2109985677,
         "finished": 999,
         "finishtime": 798051584,
         "won": 1581,
-        "lost": 1376,
-        "forfeited": 437
+        "lost": 1377,
+        "forfeited": 438
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
@@ -4127,7 +4127,7 @@
             "6": 2275,
             "7": 2117,
             "8": 1969,
-            "9": 1828
+            "9": 1837
         },
         "points": {
             "2": 0,
@@ -4141,11 +4141,11 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4737,
-        "playtime": 3126066497,
+        "matches": 4738,
+        "playtime": 3126538218,
         "finished": 1731,
         "finishtime": 1245694025,
-        "won": 2406,
+        "won": 2407,
         "lost": 2156,
         "forfeited": 150
     },
@@ -4848,8 +4848,8 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 7835,
-        "playtime": 5003746764,
+        "matches": 7836,
+        "playtime": 5004383967,
         "finished": 2297,
         "finishtime": 1845289050,
         "won": 3882,
