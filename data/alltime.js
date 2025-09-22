@@ -1246,12 +1246,12 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 14808,
-        "playtime": 9436505063,
+        "matches": 14809,
+        "playtime": 9437074865,
         "finished": 6248,
         "finishtime": 4345107492,
         "won": 8197,
-        "lost": 6359,
+        "lost": 6360,
         "forfeited": 892
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -2262,7 +2262,7 @@
             "6": 1582,
             "7": 2203,
             "8": 2491,
-            "9": 2326
+            "9": 2339
         },
         "points": {
             "6": 0,
@@ -2272,11 +2272,11 @@
         },
         "pb": 406664,
         "streak": 18,
-        "matches": 3330,
-        "playtime": 1931116667,
-        "finished": 1575,
-        "finishtime": 993422367,
-        "won": 1937,
+        "matches": 3331,
+        "playtime": 1931686469,
+        "finished": 1576,
+        "finishtime": 993992169,
+        "won": 1938,
         "lost": 1311,
         "forfeited": 312
     },
@@ -2804,11 +2804,11 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 3598,
-        "playtime": 2178657703,
-        "finished": 1264,
-        "finishtime": 969098780,
-        "won": 1884,
+        "matches": 3599,
+        "playtime": 2179547534,
+        "finished": 1265,
+        "finishtime": 969988611,
+        "won": 1885,
         "lost": 1627,
         "forfeited": 835
     },
@@ -3260,33 +3260,6 @@
         "won": 1150,
         "lost": 1000,
         "forfeited": 68
-    },
-    "8fefa2e529bf435691eb90a111248f66": {
-        "nickname": "WokerBomzh123",
-        "country": "ru",
-        "top": {
-            "5": 1098,
-            "6": 1314,
-            "7": 1633,
-            "8": 1715,
-            "9": 1806
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3
-        },
-        "pb": 519100,
-        "streak": 9,
-        "matches": 3822,
-        "playtime": 2353690405,
-        "finished": 1046,
-        "finishtime": 830800439,
-        "won": 1825,
-        "lost": 1752,
-        "forfeited": 1150
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
         "nickname": "bing_pigs",
@@ -4667,11 +4640,11 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6949,
-        "playtime": 4524872953,
+        "matches": 6950,
+        "playtime": 4525182764,
         "finished": 2240,
         "finishtime": 1681156709,
-        "won": 3426,
+        "won": 3427,
         "lost": 3195,
         "forfeited": 965
     },
