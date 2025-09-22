@@ -90,11 +90,11 @@
         },
         "pb": 379698,
         "streak": 9,
-        "matches": 2054,
-        "playtime": 1160664802,
-        "finished": 733,
-        "finishtime": 501008456,
-        "won": 1033,
+        "matches": 2055,
+        "playtime": 1161281962,
+        "finished": 734,
+        "finishtime": 501625616,
+        "won": 1034,
         "lost": 945,
         "forfeited": 505
     },
@@ -1246,12 +1246,12 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 14809,
-        "playtime": 9437074865,
+        "matches": 14810,
+        "playtime": 9437692025,
         "finished": 6248,
         "finishtime": 4345107492,
         "won": 8197,
-        "lost": 6360,
+        "lost": 6361,
         "forfeited": 892
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -2220,6 +2220,39 @@
         "lost": 57,
         "forfeited": 0
     },
+    "6135d13bce2841f8b7e8d37d91c6edfe": {
+        "nickname": "boywithcards",
+        "country": "de",
+        "top": {
+            "1": 1412,
+            "3": 1455,
+            "4": 1542,
+            "5": 1746,
+            "6": 1790,
+            "7": 1877,
+            "8": 1726,
+            "9": 1853
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 5,
+            "7": 40,
+            "8": 4,
+            "9": 0
+        },
+        "pb": 473760,
+        "streak": 12,
+        "matches": 2930,
+        "playtime": 1893063479,
+        "finished": 898,
+        "finishtime": 676787600,
+        "won": 1473,
+        "lost": 1321,
+        "forfeited": 324
+    },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
         "country": "se",
@@ -2804,13 +2837,13 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 3599,
-        "playtime": 2179547534,
+        "matches": 3600,
+        "playtime": 2179817603,
         "finished": 1265,
         "finishtime": 969988611,
         "won": 1885,
-        "lost": 1627,
-        "forfeited": 835
+        "lost": 1628,
+        "forfeited": 836
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -4640,12 +4673,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 6950,
-        "playtime": 4525182764,
+        "matches": 6951,
+        "playtime": 4525815113,
         "finished": 2240,
         "finishtime": 1681156709,
         "won": 3427,
-        "lost": 3195,
+        "lost": 3196,
         "forfeited": 965
     },
     "da1d85337d244f789d60b009e1e2b346": {
