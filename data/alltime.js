@@ -1312,11 +1312,11 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 12091,
-        "playtime": 7278595711,
-        "finished": 5096,
-        "finishtime": 3416245854,
-        "won": 6535,
+        "matches": 12092,
+        "playtime": 7279106608,
+        "finished": 5097,
+        "finishtime": 3416756751,
+        "won": 6536,
         "lost": 5280,
         "forfeited": 1629
     },
@@ -1382,11 +1382,11 @@
         },
         "pb": 396692,
         "streak": 29,
-        "matches": 3592,
-        "playtime": 2181184748,
-        "finished": 2051,
-        "finishtime": 1307702095,
-        "won": 2536,
+        "matches": 3593,
+        "playtime": 2181749257,
+        "finished": 2052,
+        "finishtime": 1308266604,
+        "won": 2537,
         "lost": 948,
         "forfeited": 32
     },
@@ -1870,12 +1870,12 @@
         },
         "pb": 422881,
         "streak": 13,
-        "matches": 3177,
-        "playtime": 1805044621,
+        "matches": 3178,
+        "playtime": 1805555518,
         "finished": 1295,
         "finishtime": 847654271,
         "won": 1678,
-        "lost": 1387,
+        "lost": 1388,
         "forfeited": 780
     },
     "529c478ae270415ba12044771a99249a": {
@@ -2565,7 +2565,7 @@
             "6": 1509,
             "7": 1934,
             "8": 2047,
-            "9": 1762
+            "9": 1781
         },
         "points": {
             "1": 0,
@@ -2578,12 +2578,12 @@
             "9": 0
         },
         "pb": 453304,
-        "streak": 12,
-        "matches": 622,
-        "playtime": 381971093,
-        "finished": 305,
-        "finishtime": 205058613,
-        "won": 379,
+        "streak": 13,
+        "matches": 623,
+        "playtime": 382585505,
+        "finished": 306,
+        "finishtime": 205673025,
+        "won": 380,
         "lost": 215,
         "forfeited": 41
     },
@@ -3420,12 +3420,12 @@
         },
         "pb": 443273,
         "streak": 29,
-        "matches": 1815,
-        "playtime": 1090251258,
+        "matches": 1816,
+        "playtime": 1090815767,
         "finished": 957,
         "finishtime": 620293578,
         "won": 1207,
-        "lost": 588,
+        "lost": 589,
         "forfeited": 80
     },
     "9c724d7793094a76a8bc9d30f397df92": {
@@ -3776,7 +3776,7 @@
         "top": {
             "7": 1770,
             "8": 1751,
-            "9": 1918
+            "9": 1927
         },
         "points": {
             "7": 0,
@@ -3785,11 +3785,11 @@
         },
         "pb": 445717,
         "streak": 8,
-        "matches": 398,
-        "playtime": 261219562,
-        "finished": 183,
-        "finishtime": 124574603,
-        "won": 227,
+        "matches": 399,
+        "playtime": 261778897,
+        "finished": 184,
+        "finishtime": 125133938,
+        "won": 228,
         "lost": 150,
         "forfeited": 10
     },
@@ -4055,12 +4055,12 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4785,
-        "playtime": 3155164815,
+        "matches": 4786,
+        "playtime": 3155779227,
         "finished": 1751,
         "finishtime": 1258786663,
         "won": 2428,
-        "lost": 2179,
+        "lost": 2180,
         "forfeited": 159
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
@@ -4966,11 +4966,11 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 5716,
-        "playtime": 3178057056,
-        "finished": 2133,
-        "finishtime": 1423222505,
-        "won": 2914,
+        "matches": 5717,
+        "playtime": 3178572136,
+        "finished": 2134,
+        "finishtime": 1423737585,
+        "won": 2915,
         "lost": 2643,
         "forfeited": 1596
     },
@@ -5131,12 +5131,12 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 6644,
-        "playtime": 4321342662,
+        "matches": 6645,
+        "playtime": 4321926679,
         "finished": 2196,
         "finishtime": 1679983989,
         "won": 3301,
-        "lost": 3077,
+        "lost": 3078,
         "forfeited": 927
     }
 }
