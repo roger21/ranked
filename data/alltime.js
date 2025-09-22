@@ -3261,6 +3261,33 @@
         "lost": 1000,
         "forfeited": 68
     },
+    "8fefa2e529bf435691eb90a111248f66": {
+        "nickname": "WokerBomzh123",
+        "country": "ru",
+        "top": {
+            "5": 1098,
+            "6": 1314,
+            "7": 1633,
+            "8": 1715,
+            "9": 1806
+        },
+        "points": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 3
+        },
+        "pb": 519100,
+        "streak": 9,
+        "matches": 3822,
+        "playtime": 2353690405,
+        "finished": 1046,
+        "finishtime": 830800439,
+        "won": 1825,
+        "lost": 1752,
+        "forfeited": 1150
+    },
     "92b63a39b36a445fa94c77ae212dcea3": {
         "nickname": "bing_pigs",
         "country": "au",
@@ -3599,12 +3626,12 @@
         },
         "pb": 451504,
         "streak": 11,
-        "matches": 3520,
-        "playtime": 2398296947,
+        "matches": 3521,
+        "playtime": 2398932146,
         "finished": 1255,
         "finishtime": 944714416,
         "won": 1784,
-        "lost": 1577,
+        "lost": 1578,
         "forfeited": 171
     },
     "a20541925b5648e1ae88a141ca37911e": {
