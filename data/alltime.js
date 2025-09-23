@@ -160,13 +160,13 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2114,
-        "playtime": 1390555431,
+        "matches": 2116,
+        "playtime": 1391540479,
         "finished": 745,
         "finishtime": 573186158,
         "won": 1100,
-        "lost": 916,
-        "forfeited": 230
+        "lost": 918,
+        "forfeited": 231
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -1739,7 +1739,7 @@
         "forfeited": 701
     },
     "48d9df3377554043ba39a8500c7ad702": {
-        "nickname": "tenes49",
+        "nickname": "L9_ANGRYMAN25",
         "country": "cn",
         "top": {
             "1": 1735,
