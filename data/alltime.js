@@ -434,8 +434,8 @@
         },
         "pb": 624186,
         "streak": 16,
-        "matches": 637,
-        "playtime": 475006397,
+        "matches": 638,
+        "playtime": 475462465,
         "finished": 233,
         "finishtime": 203724021,
         "won": 366,
@@ -1242,11 +1242,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 14853,
-        "playtime": 9463686410,
-        "finished": 6265,
-        "finishtime": 4355470114,
-        "won": 8216,
+        "matches": 14854,
+        "playtime": 9464328284,
+        "finished": 6266,
+        "finishtime": 4356111988,
+        "won": 8217,
         "lost": 6385,
         "forfeited": 896
     },
@@ -2917,6 +2917,31 @@
         "lost": 1674,
         "forfeited": 647
     },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 1810
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 3
+        },
+        "pb": 445193,
+        "streak": 12,
+        "matches": 4665,
+        "playtime": 2765024721,
+        "finished": 1502,
+        "finishtime": 1109448549,
+        "won": 2318,
+        "lost": 2195,
+        "forfeited": 1333
+    },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
         "country": "ca",
@@ -3225,33 +3250,6 @@
         "won": 1153,
         "lost": 1004,
         "forfeited": 68
-    },
-    "8fefa2e529bf435691eb90a111248f66": {
-        "nickname": "WokerBomzh123",
-        "country": "ru",
-        "top": {
-            "5": 1098,
-            "6": 1314,
-            "7": 1633,
-            "8": 1715,
-            "9": 1829
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3
-        },
-        "pb": 519100,
-        "streak": 9,
-        "matches": 3829,
-        "playtime": 2358815493,
-        "finished": 1049,
-        "finishtime": 832823428,
-        "won": 1829,
-        "lost": 1755,
-        "forfeited": 1150
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
         "nickname": "bing_pigs",
