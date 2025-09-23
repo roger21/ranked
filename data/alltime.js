@@ -281,7 +281,7 @@
             "6": 2057,
             "7": 2063,
             "8": 2030,
-            "9": 2052
+            "9": 2064
         },
         "points": {
             "1": 0,
@@ -296,11 +296,11 @@
         },
         "pb": 425524,
         "streak": 12,
-        "matches": 2687,
-        "playtime": 1595981299,
-        "finished": 1064,
-        "finishtime": 742705583,
-        "won": 1405,
+        "matches": 2688,
+        "playtime": 1596566076,
+        "finished": 1065,
+        "finishtime": 743290360,
+        "won": 1406,
         "lost": 1189,
         "forfeited": 495
     },
@@ -1668,6 +1668,41 @@
         "lost": 457,
         "forfeited": 212
     },
+    "485afd8d37a949c390ccdb9f1f1ff3c6": {
+        "nickname": "LSTRN",
+        "country": "ru",
+        "top": {
+            "1": 1340,
+            "2": 1534,
+            "3": 1592,
+            "4": 1458,
+            "5": 1703,
+            "6": 1597,
+            "7": 1793,
+            "8": 1822,
+            "9": 1863
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 5,
+            "6": 0,
+            "7": 0,
+            "8": 7,
+            "9": 7
+        },
+        "pb": 468133,
+        "streak": 12,
+        "matches": 2807,
+        "playtime": 1900937272,
+        "finished": 858,
+        "finishtime": 689621830,
+        "won": 1408,
+        "lost": 1240,
+        "forfeited": 368
+    },
     "4863326cccf043ecbb8ff88628bed781": {
         "nickname": "TUDORULE_",
         "country": "ro",
@@ -2303,13 +2338,13 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3103,
-        "playtime": 1972907691,
+        "matches": 3104,
+        "playtime": 1973174318,
         "finished": 1044,
         "finishtime": 782889706,
         "won": 1559,
-        "lost": 1397,
-        "forfeited": 464
+        "lost": 1398,
+        "forfeited": 465
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
@@ -2916,31 +2951,6 @@
         "won": 1797,
         "lost": 1674,
         "forfeited": 647
-    },
-    "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
-        "country": "jp",
-        "top": {
-            "6": 933,
-            "7": 1664,
-            "8": 1851,
-            "9": 1810
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 3
-        },
-        "pb": 445193,
-        "streak": 12,
-        "matches": 4665,
-        "playtime": 2765024721,
-        "finished": 1502,
-        "finishtime": 1109448549,
-        "won": 2318,
-        "lost": 2195,
-        "forfeited": 1333
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
