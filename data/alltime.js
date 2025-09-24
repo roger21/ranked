@@ -26,12 +26,12 @@
         },
         "pb": 427728,
         "streak": 13,
-        "matches": 4689,
-        "playtime": 2961807542,
+        "matches": 4691,
+        "playtime": 2962673773,
         "finished": 1784,
         "finishtime": 1274255343,
-        "won": 2382,
-        "lost": 2191,
+        "won": 2383,
+        "lost": 2192,
         "forfeited": 503
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -673,7 +673,7 @@
             "6": 2080,
             "7": 2309,
             "8": 2181,
-            "9": 2194
+            "9": 2207
         },
         "points": {
             "1": 0,
@@ -688,11 +688,11 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6483,
-        "playtime": 4030461668,
-        "finished": 2431,
-        "finishtime": 1692687485,
-        "won": 3249,
+        "matches": 6484,
+        "playtime": 4031005131,
+        "finished": 2432,
+        "finishtime": 1693230948,
+        "won": 3250,
         "lost": 2947,
         "forfeited": 686
     },
@@ -3082,11 +3082,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 10154,
-        "playtime": 6519391605,
+        "matches": 10155,
+        "playtime": 6519713182,
         "finished": 3405,
         "finishtime": 2704602130,
-        "won": 5159,
+        "won": 5160,
         "lost": 4782,
         "forfeited": 2301
     },
@@ -3288,12 +3288,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 6527,
-        "playtime": 4104089622,
+        "matches": 6528,
+        "playtime": 4104673279,
         "finished": 2519,
         "finishtime": 1750323277,
         "won": 3285,
-        "lost": 3037,
+        "lost": 3038,
         "forfeited": 719
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -3536,6 +3536,41 @@
         "won": 2676,
         "lost": 2522,
         "forfeited": 1288
+    },
+    "a037073c42944363b580c54f1140d029": {
+        "nickname": "ValdarenMC",
+        "country": "us",
+        "top": {
+            "1": 1522,
+            "2": 1462,
+            "3": 1477,
+            "4": 1581,
+            "5": 1481,
+            "6": 1716,
+            "7": 1645,
+            "8": 1849,
+            "9": 1871
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 25,
+            "7": 0,
+            "8": 10,
+            "9": 6
+        },
+        "pb": 490020,
+        "streak": 13,
+        "matches": 1541,
+        "playtime": 1160848684,
+        "finished": 477,
+        "finishtime": 420216267,
+        "won": 810,
+        "lost": 671,
+        "forfeited": 161
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -4030,12 +4065,12 @@
         },
         "pb": 438785,
         "streak": 9,
-        "matches": 3175,
-        "playtime": 2144521454,
+        "matches": 3176,
+        "playtime": 2145242611,
         "finished": 1021,
         "finishtime": 813049682,
         "won": 1607,
-        "lost": 1398,
+        "lost": 1399,
         "forfeited": 442
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
@@ -4700,13 +4735,13 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 7014,
-        "playtime": 4563966589,
-        "finished": 2265,
-        "finishtime": 1696861428,
-        "won": 3456,
-        "lost": 3227,
-        "forfeited": 968
+        "matches": 7016,
+        "playtime": 4565010514,
+        "finished": 2266,
+        "finishtime": 1697582585,
+        "won": 3457,
+        "lost": 3228,
+        "forfeited": 969
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
@@ -4766,12 +4801,12 @@
         },
         "pb": 418768,
         "streak": 10,
-        "matches": 928,
-        "playtime": 617189935,
+        "matches": 929,
+        "playtime": 617865267,
         "finished": 390,
         "finishtime": 275124954,
         "won": 516,
-        "lost": 363,
+        "lost": 364,
         "forfeited": 21
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
