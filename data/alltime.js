@@ -2148,13 +2148,13 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8786,
-        "playtime": 5533166801,
+        "matches": 8788,
+        "playtime": 5534036903,
         "finished": 3145,
         "finishtime": 2366035809,
         "won": 4374,
-        "lost": 4122,
-        "forfeited": 1468
+        "lost": 4124,
+        "forfeited": 1470
     },
     "60bfac463733422f8708733f3140cd94": {
         "nickname": "TheCrazedTank",
@@ -2750,7 +2750,7 @@
             "6": 1827,
             "7": 1833,
             "8": 1684,
-            "9": 1771
+            "9": 1782
         },
         "points": {
             "1": 0,
@@ -2765,11 +2765,11 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 3633,
-        "playtime": 2200260453,
+        "matches": 3634,
+        "playtime": 2200848837,
         "finished": 1278,
         "finishtime": 978844519,
-        "won": 1904,
+        "won": 1905,
         "lost": 1640,
         "forfeited": 840
     },
@@ -3098,7 +3098,7 @@
             "6": 1904,
             "7": 1902,
             "8": 2010,
-            "9": 1811
+            "9": 1812
         },
         "points": {
             "1": 0,
@@ -3113,11 +3113,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 10169,
-        "playtime": 6527939493,
+        "matches": 10170,
+        "playtime": 6528221211,
         "finished": 3411,
         "finishtime": 2708505443,
-        "won": 5168,
+        "won": 5169,
         "lost": 4788,
         "forfeited": 2303
     },
@@ -4533,13 +4533,13 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2677,
-        "playtime": 1765517914,
+        "matches": 2678,
+        "playtime": 1765904524,
         "finished": 857,
         "finishtime": 699247152,
         "won": 1386,
-        "lost": 1174,
-        "forfeited": 555
+        "lost": 1175,
+        "forfeited": 556
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "watermelon1708",
