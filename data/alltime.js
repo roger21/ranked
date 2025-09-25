@@ -1172,13 +1172,13 @@
         },
         "pb": 495954,
         "streak": 11,
-        "matches": 884,
-        "playtime": 598087422,
+        "matches": 885,
+        "playtime": 598417748,
         "finished": 365,
         "finishtime": 274008669,
         "won": 505,
-        "lost": 344,
-        "forfeited": 39
+        "lost": 345,
+        "forfeited": 40
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
@@ -2113,12 +2113,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 5979,
-        "playtime": 3808087776,
+        "matches": 5980,
+        "playtime": 3808743275,
         "finished": 2357,
         "finishtime": 1669933401,
         "won": 3127,
-        "lost": 2705,
+        "lost": 2706,
         "forfeited": 658
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -2542,8 +2542,8 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2671,
-        "playtime": 1728828980,
+        "matches": 2672,
+        "playtime": 1729455630,
         "finished": 912,
         "finishtime": 721143247,
         "won": 1383,
@@ -4646,7 +4646,7 @@
             "6": 1898,
             "7": 1838,
             "8": 1761,
-            "9": 2000
+            "9": 2019
         },
         "points": {
             "1": 0,
@@ -4661,11 +4661,11 @@
         },
         "pb": 414438,
         "streak": 11,
-        "matches": 3523,
-        "playtime": 2461724019,
-        "finished": 1127,
-        "finishtime": 901663469,
-        "won": 1766,
+        "matches": 3524,
+        "playtime": 2462379518,
+        "finished": 1128,
+        "finishtime": 902318968,
+        "won": 1767,
         "lost": 1550,
         "forfeited": 207
     },
