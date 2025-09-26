@@ -1417,13 +1417,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 8098,
-        "playtime": 5178155850,
+        "matches": 8099,
+        "playtime": 5178641058,
         "finished": 2874,
         "finishtime": 2129743643,
         "won": 4032,
-        "lost": 3790,
-        "forfeited": 1295
+        "lost": 3791,
+        "forfeited": 1296
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -3354,12 +3354,12 @@
         },
         "pb": 483374,
         "streak": 9,
-        "matches": 1832,
-        "playtime": 1245454631,
+        "matches": 1833,
+        "playtime": 1245963383,
         "finished": 533,
         "finishtime": 438704650,
         "won": 934,
-        "lost": 818,
+        "lost": 819,
         "forfeited": 323
     },
     "99aa9e0e8034479a90259e244dfb9029": {
