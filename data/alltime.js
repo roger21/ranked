@@ -863,11 +863,11 @@
         },
         "pb": 445811,
         "streak": 11,
-        "matches": 2979,
-        "playtime": 2001929172,
-        "finished": 1166,
-        "finishtime": 869791166,
-        "won": 1593,
+        "matches": 2980,
+        "playtime": 2002463747,
+        "finished": 1167,
+        "finishtime": 870325741,
+        "won": 1594,
         "lost": 1321,
         "forfeited": 164
     },
@@ -1011,7 +1011,7 @@
     },
     "2fe70934e7be458dba747c4ac830391c": {
         "nickname": "L9_DANNYKISSER56",
-        "country": "us",
+        "country": null,
         "top": {
             "2": 793,
             "3": 1302,
@@ -3494,12 +3494,12 @@
         },
         "pb": 454462,
         "streak": 18,
-        "matches": 3965,
-        "playtime": 2535705225,
+        "matches": 3966,
+        "playtime": 2536512137,
         "finished": 1272,
         "finishtime": 995037630,
         "won": 2037,
-        "lost": 1820,
+        "lost": 1821,
         "forfeited": 965
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
