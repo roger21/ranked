@@ -1905,13 +1905,13 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3741,
-        "playtime": 2427474182,
+        "matches": 3742,
+        "playtime": 2427956791,
         "finished": 1547,
         "finishtime": 1112223404,
         "won": 2035,
-        "lost": 1624,
-        "forfeited": 340
+        "lost": 1625,
+        "forfeited": 341
     },
     "562a308be86c4ec09438387860e792cc": {
         "nickname": "Oxidiot",
@@ -2800,12 +2800,12 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 3737,
-        "playtime": 2257526722,
+        "matches": 3738,
+        "playtime": 2258104279,
         "finished": 1316,
         "finishtime": 1003927271,
         "won": 1955,
-        "lost": 1691,
+        "lost": 1692,
         "forfeited": 866
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -3361,41 +3361,6 @@
         "won": 2053,
         "lost": 1890,
         "forfeited": 627
-    },
-    "97d59e1daaa74e4094fff1c47cd091c2": {
-        "nickname": "pigswitch",
-        "country": "au",
-        "top": {
-            "1": 1270,
-            "2": 1561,
-            "3": 1454,
-            "4": 1400,
-            "5": 1465,
-            "6": 1149,
-            "7": 1693,
-            "8": 1727,
-            "9": 1848
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 4
-        },
-        "pb": 483374,
-        "streak": 9,
-        "matches": 1837,
-        "playtime": 1248583870,
-        "finished": 535,
-        "finishtime": 440055884,
-        "won": 936,
-        "lost": 820,
-        "forfeited": 323
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
