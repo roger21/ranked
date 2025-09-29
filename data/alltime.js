@@ -863,13 +863,13 @@
         },
         "pb": 445811,
         "streak": 11,
-        "matches": 3004,
-        "playtime": 2016788753,
+        "matches": 3005,
+        "playtime": 2017523167,
         "finished": 1180,
         "finishtime": 878214478,
         "won": 1607,
-        "lost": 1332,
-        "forfeited": 165
+        "lost": 1333,
+        "forfeited": 166
     },
     "2988fcfbc6b141a497faa915e13b6592": {
         "nickname": "AutomattPLUS",
@@ -2253,7 +2253,7 @@
             "6": 1906,
             "7": 2001,
             "8": 0,
-            "9": 1883
+            "9": 1889
         },
         "points": {
             "1": 0,
@@ -2268,11 +2268,11 @@
         },
         "pb": 444670,
         "streak": 11,
-        "matches": 4256,
-        "playtime": 2453269444,
+        "matches": 4257,
+        "playtime": 2454003858,
         "finished": 1396,
         "finishtime": 1049020030,
-        "won": 2134,
+        "won": 2135,
         "lost": 1931,
         "forfeited": 1219
     },
@@ -3113,13 +3113,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 10220,
-        "playtime": 6555578157,
-        "finished": 3429,
-        "finishtime": 2720940197,
-        "won": 5193,
-        "lost": 4812,
-        "forfeited": 2314
+        "matches": 10222,
+        "playtime": 6556684771,
+        "finished": 3430,
+        "finishtime": 2721662079,
+        "won": 5194,
+        "lost": 4813,
+        "forfeited": 2315
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -4094,11 +4094,11 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4864,
-        "playtime": 3202117526,
+        "matches": 4865,
+        "playtime": 3202572133,
         "finished": 1780,
         "finishtime": 1277399004,
-        "won": 2461,
+        "won": 2462,
         "lost": 2221,
         "forfeited": 173
     },
@@ -4365,6 +4365,41 @@
         "won": 1335,
         "lost": 1050,
         "forfeited": 244
+    },
+    "c41b14ac0f1547aeb7690276d82aa458": {
+        "nickname": "L9_HOMEMWHATSAPP",
+        "country": "br",
+        "top": {
+            "1": 1719,
+            "2": 1631,
+            "3": 1610,
+            "4": 1761,
+            "5": 1526,
+            "6": 1629,
+            "7": 1719,
+            "8": 1805,
+            "9": 1890
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 10,
+            "8": 12,
+            "9": 6
+        },
+        "pb": 466568,
+        "streak": 10,
+        "matches": 3512,
+        "playtime": 2219961894,
+        "finished": 1209,
+        "finishtime": 944525694,
+        "won": 1827,
+        "lost": 1605,
+        "forfeited": 777
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "modestmousefan11",
@@ -4646,7 +4681,7 @@
             "6": 1915,
             "7": 1922,
             "8": 1942,
-            "9": 1837
+            "9": 1842
         },
         "points": {
             "1": 0,
@@ -4661,11 +4696,11 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 3302,
-        "playtime": 2158679033,
+        "matches": 3303,
+        "playtime": 2159063765,
         "finished": 1184,
         "finishtime": 911300506,
-        "won": 1702,
+        "won": 1703,
         "lost": 1494,
         "forfeited": 408
     },
