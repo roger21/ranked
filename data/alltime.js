@@ -3113,13 +3113,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 10223,
-        "playtime": 6557391541,
+        "matches": 10224,
+        "playtime": 6557882154,
         "finished": 3431,
         "finishtime": 2722368849,
         "won": 5195,
-        "lost": 4813,
-        "forfeited": 2315
+        "lost": 4814,
+        "forfeited": 2316
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3319,11 +3319,11 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 6569,
-        "playtime": 4128322693,
-        "finished": 2536,
-        "finishtime": 1760576807,
-        "won": 3304,
+        "matches": 6570,
+        "playtime": 4128927095,
+        "finished": 2537,
+        "finishtime": 1761181209,
+        "won": 3305,
         "lost": 3058,
         "forfeited": 724
     },
@@ -4094,12 +4094,12 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4866,
-        "playtime": 3203260868,
+        "matches": 4867,
+        "playtime": 3203849050,
         "finished": 1781,
         "finishtime": 1278087739,
         "won": 2463,
-        "lost": 2221,
+        "lost": 2222,
         "forfeited": 173
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
@@ -4365,41 +4365,6 @@
         "won": 1335,
         "lost": 1050,
         "forfeited": 244
-    },
-    "c41b14ac0f1547aeb7690276d82aa458": {
-        "nickname": "L9_HOMEMWHATSAPP",
-        "country": "br",
-        "top": {
-            "1": 1719,
-            "2": 1631,
-            "3": 1610,
-            "4": 1761,
-            "5": 1526,
-            "6": 1629,
-            "7": 1719,
-            "8": 1805,
-            "9": 1890
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 0,
-            "7": 10,
-            "8": 12,
-            "9": 6
-        },
-        "pb": 466568,
-        "streak": 10,
-        "matches": 3514,
-        "playtime": 2220702113,
-        "finished": 1209,
-        "finishtime": 944525694,
-        "won": 1828,
-        "lost": 1606,
-        "forfeited": 778
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "modestmousefan11",
