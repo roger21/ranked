@@ -160,13 +160,13 @@
         },
         "pb": 433388,
         "streak": 14,
-        "matches": 480,
-        "playtime": 300199732,
+        "matches": 481,
+        "playtime": 300752867,
         "finished": 216,
         "finishtime": 150827905,
         "won": 295,
-        "lost": 175,
-        "forfeited": 43
+        "lost": 176,
+        "forfeited": 44
     },
     "0b08bb3e9b4f4e3c9bbdbf32c8f046b0": {
         "nickname": "_loro1",
@@ -1277,11 +1277,11 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 12254,
-        "playtime": 7369087725,
-        "finished": 5186,
-        "finishtime": 3468288452,
-        "won": 6629,
+        "matches": 12255,
+        "playtime": 7369713568,
+        "finished": 5187,
+        "finishtime": 3468914295,
+        "won": 6630,
         "lost": 5341,
         "forfeited": 1642
     },
@@ -2612,12 +2612,12 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2768,
-        "playtime": 1789025551,
+        "matches": 2769,
+        "playtime": 1789761173,
         "finished": 941,
         "finishtime": 743119602,
         "won": 1426,
-        "lost": 1265,
+        "lost": 1266,
         "forfeited": 524
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
@@ -4492,41 +4492,6 @@
         "won": 2311,
         "lost": 2098,
         "forfeited": 857
-    },
-    "c81a44e0c18544c29d1a93e0362b7777": {
-        "nickname": "Snakezy",
-        "country": "pl",
-        "top": {
-            "1": 1385,
-            "2": 1164,
-            "3": 1467,
-            "4": 1348,
-            "5": 1526,
-            "6": 1470,
-            "7": 1660,
-            "8": 1844,
-            "9": 1897
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 477068,
-        "streak": 12,
-        "matches": 3131,
-        "playtime": 1908590334,
-        "finished": 973,
-        "finishtime": 773285183,
-        "won": 1567,
-        "lost": 1482,
-        "forfeited": 939
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
