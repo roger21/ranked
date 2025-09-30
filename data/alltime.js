@@ -261,13 +261,13 @@
         },
         "pb": 425524,
         "streak": 12,
-        "matches": 2729,
-        "playtime": 1620180020,
+        "matches": 2731,
+        "playtime": 1620775078,
         "finished": 1083,
         "finishtime": 754103204,
         "won": 1425,
-        "lost": 1207,
-        "forfeited": 497
+        "lost": 1209,
+        "forfeited": 499
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
         "nickname": "90Tom",
@@ -2181,6 +2181,39 @@
         "lost": 57,
         "forfeited": 0
     },
+    "6135d13bce2841f8b7e8d37d91c6edfe": {
+        "nickname": "boywithcards",
+        "country": "de",
+        "top": {
+            "1": 1412,
+            "3": 1455,
+            "4": 1542,
+            "5": 1746,
+            "6": 1790,
+            "7": 1877,
+            "8": 1726,
+            "9": 1897
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "6": 5,
+            "7": 40,
+            "8": 4,
+            "9": 0
+        },
+        "pb": 473760,
+        "streak": 12,
+        "matches": 3000,
+        "playtime": 1935049250,
+        "finished": 925,
+        "finishtime": 695151894,
+        "won": 1507,
+        "lost": 1352,
+        "forfeited": 324
+    },
     "625146b684804a29af2eaeb483a59ddf": {
         "nickname": "ANJOUU",
         "country": "se",
@@ -2268,44 +2301,13 @@
         },
         "pb": 444670,
         "streak": 11,
-        "matches": 4265,
-        "playtime": 2459374620,
-        "finished": 1400,
-        "finishtime": 1051354596,
-        "won": 2139,
+        "matches": 4266,
+        "playtime": 2459839528,
+        "finished": 1401,
+        "finishtime": 1051819504,
+        "won": 2140,
         "lost": 1935,
         "forfeited": 1219
-    },
-    "6bf7ffd4b9f04d9fbee0e3c6f5babc43": {
-        "nickname": "Duk4n",
-        "country": "rs",
-        "top": {
-            "3": 959.5,
-            "4": 1291,
-            "5": 1692,
-            "6": 1667,
-            "7": 1480,
-            "8": 1860,
-            "9": 1948
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 10,
-            "7": 0,
-            "8": 8,
-            "9": 3
-        },
-        "pb": 469610,
-        "streak": 12,
-        "matches": 2485,
-        "playtime": 1556625933,
-        "finished": 660,
-        "finishtime": 538508897,
-        "won": 1203,
-        "lost": 1105,
-        "forfeited": 605
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -4535,7 +4537,7 @@
             "6": 1636,
             "7": 1804,
             "8": 2152,
-            "9": 2088
+            "9": 2105
         },
         "points": {
             "6": 0,
@@ -4545,11 +4547,11 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4013,
-        "playtime": 2301668671,
+        "matches": 4014,
+        "playtime": 2302196495,
         "finished": 1386,
         "finishtime": 991668759,
-        "won": 2023,
+        "won": 2024,
         "lost": 1825,
         "forfeited": 1037
     },
