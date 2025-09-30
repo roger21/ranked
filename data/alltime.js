@@ -261,13 +261,13 @@
         },
         "pb": 425524,
         "streak": 12,
-        "matches": 2733,
-        "playtime": 1621530912,
+        "matches": 2734,
+        "playtime": 1622087758,
         "finished": 1083,
         "finishtime": 754103204,
         "won": 1425,
-        "lost": 1211,
-        "forfeited": 500
+        "lost": 1212,
+        "forfeited": 501
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
         "nickname": "90Tom",
@@ -3354,11 +3354,11 @@
         },
         "pb": 421863,
         "streak": 20,
-        "matches": 9359,
-        "playtime": 5625499599,
+        "matches": 9360,
+        "playtime": 5626056445,
         "finished": 3968,
         "finishtime": 2697880027,
-        "won": 5229,
+        "won": 5230,
         "lost": 3916,
         "forfeited": 1187
     },
