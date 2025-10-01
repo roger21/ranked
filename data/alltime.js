@@ -68,7 +68,7 @@
         "forfeited": 670
     },
     "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLPAWJOB",
+        "nickname": "L9_FOXGIRLRANKY",
         "country": "gr",
         "top": {
             "1": 1387,
