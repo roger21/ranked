@@ -469,33 +469,6 @@
         "lost": 1598,
         "forfeited": 433
     },
-    "132807fea3a54a02b6b1ad057430b002": {
-        "nickname": "SillyDog67",
-        "country": "de",
-        "top": {
-            "5": 1301,
-            "6": 1703,
-            "7": 1812,
-            "8": 1961,
-            "9": 1978
-        },
-        "points": {
-            "5": 0,
-            "6": 25,
-            "7": 40,
-            "8": 20,
-            "9": 5
-        },
-        "pb": 499583,
-        "streak": 12,
-        "matches": 4624,
-        "playtime": 3042384201,
-        "finished": 1409,
-        "finishtime": 1114174759,
-        "won": 2302,
-        "lost": 2155,
-        "forfeited": 818
-    },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
         "country": null,
@@ -1870,11 +1843,11 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 2920,
-        "playtime": 1792356926,
-        "finished": 1067,
-        "finishtime": 745138450,
-        "won": 1474,
+        "matches": 2921,
+        "playtime": 1792951877,
+        "finished": 1068,
+        "finishtime": 745733401,
+        "won": 1475,
         "lost": 1331,
         "forfeited": 455
     },
