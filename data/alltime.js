@@ -2241,37 +2241,6 @@
         "lost": 1356,
         "forfeited": 314
     },
-    "6bf7ffd4b9f04d9fbee0e3c6f5babc43": {
-        "nickname": "Duk4n",
-        "country": "rs",
-        "top": {
-            "3": 959.5,
-            "4": 1291,
-            "5": 1692,
-            "6": 1667,
-            "7": 1480,
-            "8": 1860,
-            "9": 1948
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "6": 10,
-            "7": 0,
-            "8": 8,
-            "9": 3
-        },
-        "pb": 469610,
-        "streak": 12,
-        "matches": 2486,
-        "playtime": 1556953919,
-        "finished": 660,
-        "finishtime": 538508897,
-        "won": 1203,
-        "lost": 1106,
-        "forfeited": 606
-    },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
         "country": "it",
@@ -3490,11 +3459,11 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 5586,
-        "playtime": 3397442667,
-        "finished": 1815,
-        "finishtime": 1346036334,
-        "won": 2723,
+        "matches": 5587,
+        "playtime": 3397988765,
+        "finished": 1816,
+        "finishtime": 1346582432,
+        "won": 2724,
         "lost": 2560,
         "forfeited": 1288
     },
@@ -4498,12 +4467,12 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4048,
-        "playtime": 2320753424,
+        "matches": 4049,
+        "playtime": 2321299522,
         "finished": 1402,
         "finishtime": 1001280728,
         "won": 2043,
-        "lost": 1839,
+        "lost": 1840,
         "forfeited": 1041
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
