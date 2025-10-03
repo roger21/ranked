@@ -1726,12 +1726,12 @@
         },
         "pb": 492739,
         "streak": 9,
-        "matches": 2414,
-        "playtime": 1523472157,
+        "matches": 2415,
+        "playtime": 1524035240,
         "finished": 839,
         "finishtime": 659937473,
         "won": 1277,
-        "lost": 1082,
+        "lost": 1083,
         "forfeited": 701
     },
     "48d9df3377554043ba39a8500c7ad702": {
@@ -2179,13 +2179,13 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8883,
-        "playtime": 5590985241,
-        "finished": 3186,
-        "finishtime": 2394095439,
-        "won": 4420,
-        "lost": 4167,
-        "forfeited": 1482
+        "matches": 8885,
+        "playtime": 5591892984,
+        "finished": 3187,
+        "finishtime": 2394712428,
+        "won": 4421,
+        "lost": 4168,
+        "forfeited": 1483
     },
     "60bfac463733422f8708733f3140cd94": {
         "nickname": "TheCrazedTank",
@@ -4488,7 +4488,7 @@
             "6": 1636,
             "7": 1804,
             "8": 2152,
-            "9": 2180
+            "9": 2186
         },
         "points": {
             "6": 0,
@@ -4498,11 +4498,11 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4056,
-        "playtime": 2325023964,
-        "finished": 1408,
-        "finishtime": 1004356897,
-        "won": 2049,
+        "matches": 4057,
+        "playtime": 2325549099,
+        "finished": 1409,
+        "finishtime": 1004882032,
+        "won": 2050,
         "lost": 1840,
         "forfeited": 1041
     },
