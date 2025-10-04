@@ -706,7 +706,7 @@
             "6": 1662,
             "7": 1917,
             "8": 1713,
-            "9": 1726
+            "9": 1754
         },
         "points": {
             "3": 0,
@@ -719,11 +719,11 @@
         },
         "pb": 469453,
         "streak": 9,
-        "matches": 2255,
-        "playtime": 1536618384,
+        "matches": 2256,
+        "playtime": 1536941641,
         "finished": 722,
         "finishtime": 582232375,
-        "won": 1146,
+        "won": 1147,
         "lost": 1003,
         "forfeited": 209
     },
@@ -1273,12 +1273,12 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 15114,
-        "playtime": 9617546659,
+        "matches": 15115,
+        "playtime": 9618335779,
         "finished": 6393,
         "finishtime": 4435469199,
         "won": 8356,
-        "lost": 6505,
+        "lost": 6506,
         "forfeited": 908
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -4368,13 +4368,13 @@
         },
         "pb": 466568,
         "streak": 10,
-        "matches": 3633,
-        "playtime": 2290097597,
+        "matches": 3634,
+        "playtime": 2290420854,
         "finished": 1255,
         "finishtime": 974874988,
         "won": 1886,
-        "lost": 1663,
-        "forfeited": 796
+        "lost": 1664,
+        "forfeited": 797
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "modestmousefan11",
