@@ -90,11 +90,11 @@
         },
         "pb": 379698,
         "streak": 9,
-        "matches": 2181,
-        "playtime": 1231959638,
-        "finished": 787,
-        "finishtime": 534093040,
-        "won": 1093,
+        "matches": 2182,
+        "playtime": 1232563761,
+        "finished": 788,
+        "finishtime": 534697163,
+        "won": 1094,
         "lost": 1010,
         "forfeited": 521
     },
@@ -132,37 +132,6 @@
         "won": 1143,
         "lost": 955,
         "forfeited": 241
-    },
-    "070d5851c46a4a2da91e6ddfdb741d7f": {
-        "nickname": "TheLandSharkJeff",
-        "country": "no",
-        "top": {
-            "3": 1240,
-            "4": 1607,
-            "5": 1611,
-            "6": 1685,
-            "7": 1721,
-            "8": 1975,
-            "9": 1986
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 25,
-            "8": 21,
-            "9": 5
-        },
-        "pb": 452892,
-        "streak": 13,
-        "matches": 5450,
-        "playtime": 4003383707,
-        "finished": 1635,
-        "finishtime": 1347893580,
-        "won": 2613,
-        "lost": 2472,
-        "forfeited": 262
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -1211,11 +1180,11 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 15130,
-        "playtime": 9627043723,
+        "matches": 15131,
+        "playtime": 9627314365,
         "finished": 6401,
         "finishtime": 4440164469,
-        "won": 8365,
+        "won": 8366,
         "lost": 6512,
         "forfeited": 908
     },
@@ -1281,13 +1250,13 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 12296,
-        "playtime": 7391938261,
+        "matches": 12297,
+        "playtime": 7392208903,
         "finished": 5213,
         "finishtime": 3484148566,
         "won": 6661,
-        "lost": 5351,
-        "forfeited": 1645
+        "lost": 5352,
+        "forfeited": 1646
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -2277,6 +2246,37 @@
         "won": 2028,
         "lost": 1357,
         "forfeited": 314
+    },
+    "6bf7ffd4b9f04d9fbee0e3c6f5babc43": {
+        "nickname": "Duk4n",
+        "country": "rs",
+        "top": {
+            "3": 959.5,
+            "4": 1291,
+            "5": 1692,
+            "6": 1667,
+            "7": 1480,
+            "8": 1860,
+            "9": 1948
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "6": 10,
+            "7": 0,
+            "8": 8,
+            "9": 3
+        },
+        "pb": 469610,
+        "streak": 12,
+        "matches": 2486,
+        "playtime": 1556953919,
+        "finished": 660,
+        "finishtime": 538508897,
+        "won": 1203,
+        "lost": 1106,
+        "forfeited": 606
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
