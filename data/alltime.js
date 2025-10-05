@@ -59,13 +59,13 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6160,
-        "playtime": 4059123787,
+        "matches": 6161,
+        "playtime": 4059462652,
         "finished": 2091,
         "finishtime": 1592948072,
         "won": 3067,
-        "lost": 2877,
-        "forfeited": 675
+        "lost": 2878,
+        "forfeited": 676
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "L9_FOXGIRLRANKY",
@@ -3492,11 +3492,11 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 5608,
-        "playtime": 3410382397,
-        "finished": 1823,
-        "finishtime": 1350967878,
-        "won": 2736,
+        "matches": 5609,
+        "playtime": 3411166577,
+        "finished": 1824,
+        "finishtime": 1351752058,
+        "won": 2737,
         "lost": 2569,
         "forfeited": 1288
     },
@@ -4320,7 +4320,7 @@
             "6": 1621,
             "7": 1550,
             "8": 1730,
-            "9": 1795
+            "9": 1808
         },
         "points": {
             "1": 0,
@@ -4335,11 +4335,11 @@
         },
         "pb": 520984,
         "streak": 15,
-        "matches": 1641,
-        "playtime": 1141234820,
+        "matches": 1642,
+        "playtime": 1141573685,
         "finished": 541,
         "finishtime": 435535442,
-        "won": 891,
+        "won": 892,
         "lost": 691,
         "forfeited": 185
     },
