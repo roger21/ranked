@@ -59,11 +59,11 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6164,
-        "playtime": 4061472365,
-        "finished": 2093,
-        "finishtime": 1594315119,
-        "won": 3069,
+        "matches": 6165,
+        "playtime": 4062158786,
+        "finished": 2094,
+        "finishtime": 1595001540,
+        "won": 3070,
         "lost": 2879,
         "forfeited": 676
     },
@@ -2274,6 +2274,37 @@
         "lost": 1357,
         "forfeited": 314
     },
+    "6bf7ffd4b9f04d9fbee0e3c6f5babc43": {
+        "nickname": "Duk4n",
+        "country": "rs",
+        "top": {
+            "3": 959.5,
+            "4": 1291,
+            "5": 1692,
+            "6": 1667,
+            "7": 1480,
+            "8": 1860,
+            "9": 1948
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "6": 10,
+            "7": 0,
+            "8": 8,
+            "9": 3
+        },
+        "pb": 469610,
+        "streak": 12,
+        "matches": 2486,
+        "playtime": 1556953919,
+        "finished": 660,
+        "finishtime": 538508897,
+        "won": 1203,
+        "lost": 1106,
+        "forfeited": 606
+    },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
         "country": "it",
@@ -3492,12 +3523,12 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 5611,
-        "playtime": 3412960417,
+        "matches": 5612,
+        "playtime": 3413661537,
         "finished": 1824,
         "finishtime": 1351752058,
         "won": 2737,
-        "lost": 2571,
+        "lost": 2572,
         "forfeited": 1288
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
@@ -4335,12 +4366,12 @@
         },
         "pb": 520984,
         "streak": 15,
-        "matches": 1645,
-        "playtime": 1143326803,
+        "matches": 1646,
+        "playtime": 1143990297,
         "finished": 542,
         "finishtime": 436178108,
         "won": 893,
-        "lost": 693,
+        "lost": 694,
         "forfeited": 185
     },
     "c670041ed84c480cab4a6ee904905b5f": {
