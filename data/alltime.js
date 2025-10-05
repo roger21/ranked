@@ -469,6 +469,33 @@
         "lost": 1598,
         "forfeited": 433
     },
+    "132807fea3a54a02b6b1ad057430b002": {
+        "nickname": "SillyDog67",
+        "country": "de",
+        "top": {
+            "5": 1301,
+            "6": 1703,
+            "7": 1812,
+            "8": 1961,
+            "9": 1978
+        },
+        "points": {
+            "5": 0,
+            "6": 25,
+            "7": 40,
+            "8": 20,
+            "9": 5
+        },
+        "pb": 499583,
+        "streak": 12,
+        "matches": 4641,
+        "playtime": 3053106161,
+        "finished": 1415,
+        "finishtime": 1118340188,
+        "won": 2311,
+        "lost": 2162,
+        "forfeited": 818
+    },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
         "country": null,
@@ -3053,11 +3080,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 10333,
-        "playtime": 6625883013,
-        "finished": 3471,
-        "finishtime": 2751621986,
-        "won": 5250,
+        "matches": 10334,
+        "playtime": 6626551190,
+        "finished": 3472,
+        "finishtime": 2752290163,
+        "won": 5251,
         "lost": 4867,
         "forfeited": 2334
     },
@@ -3473,41 +3500,6 @@
         "lost": 2568,
         "forfeited": 1288
     },
-    "a037073c42944363b580c54f1140d029": {
-        "nickname": "ValdarenMC",
-        "country": "us",
-        "top": {
-            "1": 1522,
-            "2": 1462,
-            "3": 1477,
-            "4": 1581,
-            "5": 1481,
-            "6": 1716,
-            "7": 1645,
-            "8": 1849,
-            "9": 1887
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 25,
-            "7": 0,
-            "8": 10,
-            "9": 6
-        },
-        "pb": 490020,
-        "streak": 13,
-        "matches": 1610,
-        "playtime": 1206005597,
-        "finished": 504,
-        "finishtime": 439391204,
-        "won": 846,
-        "lost": 704,
-        "forfeited": 161
-    },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
         "country": "us",
@@ -3902,12 +3894,12 @@
         },
         "pb": 416306,
         "streak": 13,
-        "matches": 4589,
-        "playtime": 3024638638,
+        "matches": 4590,
+        "playtime": 3025306815,
         "finished": 1617,
         "finishtime": 1164693813,
         "won": 2351,
-        "lost": 2030,
+        "lost": 2031,
         "forfeited": 283
     },
     "addd890764404097b3f12acdde2adf33": {
