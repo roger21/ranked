@@ -67,37 +67,6 @@
         "lost": 2882,
         "forfeited": 676
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLRANKY",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2064,
-            "9": 2125
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 28,
-            "9": 14
-        },
-        "pb": 379698,
-        "streak": 9,
-        "matches": 2194,
-        "playtime": 1238495237,
-        "finished": 792,
-        "finishtime": 537061716,
-        "won": 1099,
-        "lost": 1017,
-        "forfeited": 525
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -2274,6 +2243,37 @@
         "lost": 1357,
         "forfeited": 314
     },
+    "6bf7ffd4b9f04d9fbee0e3c6f5babc43": {
+        "nickname": "Duk4n",
+        "country": "rs",
+        "top": {
+            "3": 959.5,
+            "4": 1291,
+            "5": 1692,
+            "6": 1667,
+            "7": 1480,
+            "8": 1860,
+            "9": 1948
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "6": 10,
+            "7": 0,
+            "8": 8,
+            "9": 3
+        },
+        "pb": 469610,
+        "streak": 12,
+        "matches": 2486,
+        "playtime": 1556953919,
+        "finished": 660,
+        "finishtime": 538508897,
+        "won": 1203,
+        "lost": 1106,
+        "forfeited": 606
+    },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
         "country": "it",
@@ -2802,13 +2802,13 @@
         },
         "pb": 520075,
         "streak": 13,
-        "matches": 1286,
-        "playtime": 913644397,
+        "matches": 1287,
+        "playtime": 914330791,
         "finished": 473,
         "finishtime": 384372382,
         "won": 696,
-        "lost": 552,
-        "forfeited": 107
+        "lost": 553,
+        "forfeited": 108
     },
     "804da783a9e14f5f8e97c6dd8b045595": {
         "nickname": "AceRPx",
