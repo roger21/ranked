@@ -67,6 +67,37 @@
         "lost": 2910,
         "forfeited": 683
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "L9_FOXGIRLRANKY",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2064,
+            "9": 2125
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 28,
+            "9": 14
+        },
+        "pb": 379698,
+        "streak": 9,
+        "matches": 2227,
+        "playtime": 1256004640,
+        "finished": 802,
+        "finishtime": 543233508,
+        "won": 1114,
+        "lost": 1033,
+        "forfeited": 531
+    },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "L9_SUBDASSUBNOV",
         "country": "br",
@@ -2742,12 +2773,12 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 3906,
-        "playtime": 2356393546,
+        "matches": 3907,
+        "playtime": 2357032876,
         "finished": 1375,
         "finishtime": 1042422171,
         "won": 2038,
-        "lost": 1772,
+        "lost": 1773,
         "forfeited": 888
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
