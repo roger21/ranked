@@ -2351,7 +2351,7 @@
         "forfeited": 134
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
-        "nickname": "L9_SOFTCATBOY69",
+        "nickname": "7rowl",
         "country": "ua",
         "top": {
             "1": 2230,
@@ -2412,12 +2412,12 @@
         },
         "pb": 489627,
         "streak": 13,
-        "matches": 4710,
-        "playtime": 3085055949,
+        "matches": 4711,
+        "playtime": 3085889712,
         "finished": 1533,
         "finishtime": 1213189538,
         "won": 2387,
-        "lost": 2133,
+        "lost": 2134,
         "forfeited": 767
     },
     "736dbdc44a3e452fa489f5344565835e": {
