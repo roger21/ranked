@@ -168,37 +168,6 @@
         "lost": 958,
         "forfeited": 241
     },
-    "070d5851c46a4a2da91e6ddfdb741d7f": {
-        "nickname": "TheLandSharkJeff",
-        "country": "no",
-        "top": {
-            "3": 1240,
-            "4": 1607,
-            "5": 1611,
-            "6": 1685,
-            "7": 1721,
-            "8": 1975,
-            "9": 1986
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 25,
-            "8": 21,
-            "9": 5
-        },
-        "pb": 452892,
-        "streak": 13,
-        "matches": 5478,
-        "playtime": 4020413490,
-        "finished": 1645,
-        "finishtime": 1354455135,
-        "won": 2626,
-        "lost": 2484,
-        "forfeited": 262
-    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -527,12 +496,12 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3652,
-        "playtime": 2622957646,
+        "matches": 3653,
+        "playtime": 2623582292,
         "finished": 1077,
         "finishtime": 897973667,
         "won": 1832,
-        "lost": 1610,
+        "lost": 1611,
         "forfeited": 434
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
@@ -692,11 +661,11 @@
         },
         "pb": 469453,
         "streak": 9,
-        "matches": 2283,
-        "playtime": 1553799344,
+        "matches": 2284,
+        "playtime": 1554185399,
         "finished": 728,
         "finishtime": 586925164,
-        "won": 1156,
+        "won": 1157,
         "lost": 1021,
         "forfeited": 213
     },
@@ -1423,11 +1392,11 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 8380,
-        "playtime": 5341767570,
-        "finished": 2995,
-        "finishtime": 2206030780,
-        "won": 4176,
+        "matches": 8381,
+        "playtime": 5342308872,
+        "finished": 2996,
+        "finishtime": 2206572082,
+        "won": 4177,
         "lost": 3918,
         "forfeited": 1328
     },
@@ -1918,6 +1887,39 @@
         "won": 2073,
         "lost": 1653,
         "forfeited": 350
+    },
+    "554b53dfe17f43bdb792e1f5069c2887": {
+        "nickname": "AstraF",
+        "country": "fr",
+        "top": {
+            "1": 1655,
+            "2": 1468,
+            "3": 1579,
+            "4": 1619,
+            "5": 1754,
+            "7": 1816,
+            "8": 1503,
+            "9": 1944
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "7": 25,
+            "8": 0,
+            "9": 3
+        },
+        "pb": 503715,
+        "streak": 13,
+        "matches": 1551,
+        "playtime": 978711205,
+        "finished": 458,
+        "finishtime": 353338065,
+        "won": 775,
+        "lost": 663,
+        "forfeited": 313
     },
     "562a308be86c4ec09438387860e792cc": {
         "nickname": "Oxidiot",
@@ -4026,12 +4028,12 @@
         },
         "pb": 438785,
         "streak": 9,
-        "matches": 3397,
-        "playtime": 2286613573,
+        "matches": 3398,
+        "playtime": 2287176071,
         "finished": 1106,
         "finishtime": 870575799,
         "won": 1715,
-        "lost": 1498,
+        "lost": 1499,
         "forfeited": 448
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
@@ -4368,13 +4370,13 @@
         },
         "pb": 422356,
         "streak": 14,
-        "matches": 4427,
-        "playtime": 2894409395,
+        "matches": 4428,
+        "playtime": 2894795450,
         "finished": 1648,
         "finishtime": 1221540800,
         "won": 2299,
-        "lost": 2033,
-        "forfeited": 628
+        "lost": 2034,
+        "forfeited": 629
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
         "nickname": "iKme_",
@@ -5042,12 +5044,12 @@
         },
         "pb": 493871,
         "streak": 13,
-        "matches": 977,
-        "playtime": 656589718,
+        "matches": 978,
+        "playtime": 657131020,
         "finished": 348,
         "finishtime": 271548599,
         "won": 530,
-        "lost": 401,
+        "lost": 402,
         "forfeited": 88
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
