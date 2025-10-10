@@ -67,37 +67,6 @@
         "lost": 2924,
         "forfeited": 684
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLRANKY",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2064,
-            "9": 2125
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 28,
-            "9": 14
-        },
-        "pb": 379698,
-        "streak": 9,
-        "matches": 2244,
-        "playtime": 1264791422,
-        "finished": 808,
-        "finishtime": 547276678,
-        "won": 1123,
-        "lost": 1041,
-        "forfeited": 535
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -1180,12 +1149,12 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 15317,
-        "playtime": 9736976312,
+        "matches": 15318,
+        "playtime": 9737656677,
         "finished": 6494,
         "finishtime": 4498752234,
         "won": 8476,
-        "lost": 6587,
+        "lost": 6588,
         "forfeited": 912
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1816,6 +1785,31 @@
         "lost": 1441,
         "forfeited": 805
     },
+    "4f3e7905554345698e41f88caa4c088e": {
+        "nickname": "rcolee",
+        "country": "ca",
+        "top": {
+            "6": 1244,
+            "7": 1600,
+            "8": 1833,
+            "9": 1905
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 6,
+            "9": 3
+        },
+        "pb": 442541,
+        "streak": 12,
+        "matches": 3708,
+        "playtime": 2245616923,
+        "finished": 1113,
+        "finishtime": 836525331,
+        "won": 1750,
+        "lost": 1676,
+        "forfeited": 949
+    },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
         "country": "in",
@@ -2414,11 +2408,11 @@
         },
         "pb": 489627,
         "streak": 13,
-        "matches": 4725,
-        "playtime": 3095154420,
-        "finished": 1540,
-        "finishtime": 1217984114,
-        "won": 2394,
+        "matches": 4726,
+        "playtime": 3095821476,
+        "finished": 1541,
+        "finishtime": 1218651170,
+        "won": 2395,
         "lost": 2139,
         "forfeited": 767
     },
@@ -3273,7 +3267,7 @@
             "6": 2378,
             "7": 2312,
             "8": 2303,
-            "9": 2261
+            "9": 2272
         },
         "points": {
             "1": 0,
@@ -3288,11 +3282,11 @@
         },
         "pb": 421863,
         "streak": 20,
-        "matches": 9414,
-        "playtime": 5655795869,
-        "finished": 3999,
-        "finishtime": 2715885134,
-        "won": 5266,
+        "matches": 9416,
+        "playtime": 5656647627,
+        "finished": 4000,
+        "finishtime": 2716565499,
+        "won": 5268,
         "lost": 3934,
         "forfeited": 1187
     },
@@ -3529,12 +3523,12 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 5632,
-        "playtime": 3425593133,
+        "matches": 5633,
+        "playtime": 3426308085,
         "finished": 1832,
         "finishtime": 1356386580,
         "won": 2745,
-        "lost": 2583,
+        "lost": 2584,
         "forfeited": 1288
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
