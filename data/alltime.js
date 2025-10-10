@@ -68,7 +68,7 @@
         "forfeited": 684
     },
     "048de51800794a208de7f01652513c32": {
-        "nickname": "L9_FOXGIRLRANKY",
+        "nickname": "ChugokuPoletop",
         "country": "gr",
         "top": {
             "1": 1387,
@@ -90,13 +90,13 @@
         },
         "pb": 379698,
         "streak": 9,
-        "matches": 2255,
-        "playtime": 1271001062,
+        "matches": 2256,
+        "playtime": 1271329564,
         "finished": 812,
         "finishtime": 549703391,
         "won": 1128,
-        "lost": 1047,
-        "forfeited": 536
+        "lost": 1048,
+        "forfeited": 537
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -1180,12 +1180,12 @@
         },
         "pb": 410821,
         "streak": 17,
-        "matches": 15325,
-        "playtime": 9741625311,
+        "matches": 15326,
+        "playtime": 9742358614,
         "finished": 6498,
         "finishtime": 4500937827,
         "won": 8480,
-        "lost": 6591,
+        "lost": 6592,
         "forfeited": 912
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -2154,11 +2154,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8971,
-        "playtime": 5641644647,
+        "matches": 8972,
+        "playtime": 5641973149,
         "finished": 3227,
         "finishtime": 2421566348,
-        "won": 4467,
+        "won": 4468,
         "lost": 4206,
         "forfeited": 1498
     },
@@ -2229,7 +2229,7 @@
             "6": 1582,
             "7": 2203,
             "8": 2491,
-            "9": 2451
+            "9": 2461
         },
         "points": {
             "6": 0,
@@ -2239,11 +2239,11 @@
         },
         "pb": 406664,
         "streak": 18,
-        "matches": 3492,
-        "playtime": 2022534512,
-        "finished": 1683,
-        "finishtime": 1055303873,
-        "won": 2050,
+        "matches": 3493,
+        "playtime": 2023267815,
+        "finished": 1684,
+        "finishtime": 1056037176,
+        "won": 2051,
         "lost": 1358,
         "forfeited": 314
     },
@@ -2414,12 +2414,12 @@
         },
         "pb": 489627,
         "streak": 13,
-        "matches": 4730,
-        "playtime": 3098630317,
+        "matches": 4731,
+        "playtime": 3099208539,
         "finished": 1543,
         "finishtime": 1220177388,
         "won": 2397,
-        "lost": 2141,
+        "lost": 2142,
         "forfeited": 767
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3793,12 +3793,12 @@
         },
         "pb": 409160,
         "streak": 8,
-        "matches": 478,
-        "playtime": 307868762,
+        "matches": 479,
+        "playtime": 308367902,
         "finished": 213,
         "finishtime": 142685231,
         "won": 266,
-        "lost": 187,
+        "lost": 188,
         "forfeited": 15
     },
     "a81886565121479782d42408d94fe97d": {
@@ -4741,13 +4741,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 10529,
-        "playtime": 6795503874,
+        "matches": 10530,
+        "playtime": 6795831919,
         "finished": 3710,
         "finishtime": 2731750355,
         "won": 5139,
-        "lost": 4826,
-        "forfeited": 1218
+        "lost": 4827,
+        "forfeited": 1219
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
         "nickname": "Traden",
