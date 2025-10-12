@@ -59,13 +59,13 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6296,
-        "playtime": 4144574808,
+        "matches": 6297,
+        "playtime": 4144913241,
         "finished": 2145,
         "finishtime": 1629296404,
         "won": 3135,
-        "lost": 2938,
-        "forfeited": 688
+        "lost": 2939,
+        "forfeited": 689
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "ChugokuPoletop",
@@ -1178,11 +1178,11 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 15443,
-        "playtime": 9807952714,
+        "matches": 15444,
+        "playtime": 9808337349,
         "finished": 6553,
         "finishtime": 4534391658,
-        "won": 8541,
+        "won": 8542,
         "lost": 6647,
         "forfeited": 924
     },
@@ -3288,13 +3288,13 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 6759,
-        "playtime": 4239495457,
+        "matches": 6760,
+        "playtime": 4239880092,
         "finished": 2620,
         "finishtime": 1812616887,
         "won": 3402,
-        "lost": 3146,
-        "forfeited": 752
+        "lost": 3147,
+        "forfeited": 753
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfity",
