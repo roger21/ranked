@@ -2204,12 +2204,12 @@
         },
         "pb": 406664,
         "streak": 18,
-        "matches": 3502,
-        "playtime": 2027760214,
+        "matches": 3503,
+        "playtime": 2028313223,
         "finished": 1690,
         "finishtime": 1059135168,
         "won": 2058,
-        "lost": 1360,
+        "lost": 1361,
         "forfeited": 314
     },
     "6c4b4e74963d40e3b5a7118f3e0b0dc4": {
@@ -2344,12 +2344,12 @@
         },
         "pb": 412371,
         "streak": 22,
-        "matches": 6621,
-        "playtime": 3825108879,
+        "matches": 6622,
+        "playtime": 3825718370,
         "finished": 3166,
         "finishtime": 2141499357,
         "won": 4123,
-        "lost": 2434,
+        "lost": 2435,
         "forfeited": 1107
     },
     "734a1c6118754829acc234135470152c": {
@@ -3323,13 +3323,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 4067,
-        "playtime": 2690371535,
+        "matches": 4068,
+        "playtime": 2690874119,
         "finished": 1349,
         "finishtime": 1040162349,
         "won": 2063,
-        "lost": 1903,
-        "forfeited": 636
+        "lost": 1904,
+        "forfeited": 637
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -4845,6 +4845,39 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
+    },
+    "e811fb301b1a41ea81c1f481ea93c3be": {
+        "nickname": "nyachloe",
+        "country": "us",
+        "top": {
+            "1": 1310,
+            "3": 1257,
+            "4": 1222,
+            "5": 1678,
+            "6": 1666,
+            "7": 1731,
+            "8": 1994,
+            "9": 2088
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 10,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 12
+        },
+        "pb": 443397,
+        "streak": 11,
+        "matches": 1466,
+        "playtime": 905721815,
+        "finished": 541,
+        "finishtime": 378779655,
+        "won": 750,
+        "lost": 652,
+        "forfeited": 236
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
