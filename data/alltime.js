@@ -2612,12 +2612,12 @@
         },
         "pb": 424025,
         "streak": 12,
-        "matches": 6229,
-        "playtime": 3819340455,
+        "matches": 6230,
+        "playtime": 3819920148,
         "finished": 2348,
         "finishtime": 1651448319,
         "won": 3215,
-        "lost": 2776,
+        "lost": 2777,
         "forfeited": 958
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
@@ -3131,7 +3131,7 @@
     },
     "8e94f1731dd74683b62482d90a2a8a1c": {
         "nickname": "idwt_doanything",
-        "country": null,
+        "country": "kr",
         "top": {
             "1": 1227,
             "2": 1193,
@@ -3156,12 +3156,12 @@
         },
         "pb": 563000,
         "streak": 10,
-        "matches": 1835,
-        "playtime": 1252546154,
+        "matches": 1836,
+        "playtime": 1253345834,
         "finished": 521,
         "finishtime": 457336175,
         "won": 905,
-        "lost": 825,
+        "lost": 826,
         "forfeited": 392
     },
     "8fc93aecda5b4f699cf76694116eaf11": {
@@ -4401,11 +4401,11 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4199,
-        "playtime": 2406097010,
-        "finished": 1470,
-        "finishtime": 1041647300,
-        "won": 2115,
+        "matches": 4200,
+        "playtime": 2406676703,
+        "finished": 1471,
+        "finishtime": 1042226993,
+        "won": 2116,
         "lost": 1912,
         "forfeited": 1060
     },
