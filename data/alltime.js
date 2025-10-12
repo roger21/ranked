@@ -1876,12 +1876,12 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3861,
-        "playtime": 2494237151,
+        "matches": 3862,
+        "playtime": 2494759452,
         "finished": 1600,
         "finishtime": 1143711950,
         "won": 2098,
-        "lost": 1680,
+        "lost": 1681,
         "forfeited": 356
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -2643,13 +2643,13 @@
         },
         "pb": 424025,
         "streak": 12,
-        "matches": 6235,
-        "playtime": 3822719910,
+        "matches": 6236,
+        "playtime": 3823001164,
         "finished": 2349,
         "finishtime": 1652062216,
         "won": 3216,
-        "lost": 2781,
-        "forfeited": 960
+        "lost": 2782,
+        "forfeited": 961
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "shimuon",
@@ -3238,7 +3238,7 @@
             "6": 2378,
             "7": 2312,
             "8": 2303,
-            "9": 2340
+            "9": 2348
         },
         "points": {
             "1": 0,
@@ -3253,11 +3253,11 @@
         },
         "pb": 421863,
         "streak": 20,
-        "matches": 9454,
-        "playtime": 5678527738,
-        "finished": 4019,
-        "finishtime": 2727776405,
-        "won": 5292,
+        "matches": 9455,
+        "playtime": 5679050039,
+        "finished": 4020,
+        "finishtime": 2728298706,
+        "won": 5293,
         "lost": 3947,
         "forfeited": 1187
     },
@@ -4432,11 +4432,11 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4202,
-        "playtime": 2407774823,
+        "matches": 4203,
+        "playtime": 2408056077,
         "finished": 1473,
         "finishtime": 1043325113,
-        "won": 2118,
+        "won": 2119,
         "lost": 1912,
         "forfeited": 1060
     },
