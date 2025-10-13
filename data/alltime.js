@@ -3224,11 +3224,11 @@
         },
         "pb": 421863,
         "streak": 20,
-        "matches": 9476,
-        "playtime": 5691246243,
+        "matches": 9477,
+        "playtime": 5691869002,
         "finished": 4029,
         "finishtime": 2734162304,
-        "won": 5303,
+        "won": 5304,
         "lost": 3958,
         "forfeited": 1187
     },
@@ -4059,13 +4059,13 @@
         },
         "pb": 454009,
         "streak": 12,
-        "matches": 2704,
-        "playtime": 1638908502,
+        "matches": 2705,
+        "playtime": 1639531261,
         "finished": 1048,
         "finishtime": 759544651,
         "won": 1478,
-        "lost": 1190,
-        "forfeited": 596
+        "lost": 1191,
+        "forfeited": 597
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
         "nickname": "xShatter",
