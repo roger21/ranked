@@ -2119,11 +2119,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 8998,
-        "playtime": 5657183471,
-        "finished": 3235,
-        "finishtime": 2426709833,
-        "won": 4479,
+        "matches": 8999,
+        "playtime": 5657886067,
+        "finished": 3236,
+        "finishtime": 2427412429,
+        "won": 4480,
         "lost": 4219,
         "forfeited": 1499
     },
@@ -2211,6 +2211,41 @@
         "won": 2071,
         "lost": 1366,
         "forfeited": 314
+    },
+    "6c4b4e74963d40e3b5a7118f3e0b0dc4": {
+        "nickname": "dooggirl",
+        "country": "ca",
+        "top": {
+            "1": 1044,
+            "2": 1029,
+            "3": 1055,
+            "4": 1299,
+            "5": 1309,
+            "6": 1451,
+            "7": 1727,
+            "8": 1642,
+            "9": 1914
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 10,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 479190,
+        "streak": 11,
+        "matches": 1116,
+        "playtime": 709097741,
+        "finished": 294,
+        "finishtime": 229273639,
+        "won": 568,
+        "lost": 488,
+        "forfeited": 216
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -3932,31 +3967,6 @@
         "won": 1949,
         "lost": 1135,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "67feetlicker67",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 1919
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3
-        },
-        "pb": 476145,
-        "streak": 11,
-        "matches": 6148,
-        "playtime": 3752816739,
-        "finished": 1805,
-        "finishtime": 1420786461,
-        "won": 2999,
-        "lost": 2923,
-        "forfeited": 1909
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "SillyDog64",
