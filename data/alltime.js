@@ -2517,13 +2517,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2856,
-        "playtime": 1844265412,
+        "matches": 2857,
+        "playtime": 1844743736,
         "finished": 969,
         "finishtime": 764381489,
         "won": 1473,
-        "lost": 1303,
-        "forfeited": 534
+        "lost": 1304,
+        "forfeited": 535
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -3082,11 +3082,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 10519,
-        "playtime": 6739272546,
-        "finished": 3544,
-        "finishtime": 2802160261,
-        "won": 5337,
+        "matches": 10520,
+        "playtime": 6739937179,
+        "finished": 3545,
+        "finishtime": 2802824894,
+        "won": 5338,
         "lost": 4961,
         "forfeited": 2367
     },
@@ -4981,6 +4981,41 @@
         "won": 1395,
         "lost": 1133,
         "forfeited": 395
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "L9_YURILOVER21",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2063
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 0
+        },
+        "pb": 493871,
+        "streak": 13,
+        "matches": 1021,
+        "playtime": 684144087,
+        "finished": 364,
+        "finishtime": 281877335,
+        "won": 549,
+        "lost": 425,
+        "forfeited": 88
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
