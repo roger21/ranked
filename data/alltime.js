@@ -59,11 +59,11 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6314,
-        "playtime": 4156061427,
-        "finished": 2150,
-        "finishtime": 1632215034,
-        "won": 3143,
+        "matches": 6315,
+        "playtime": 4156664806,
+        "finished": 2151,
+        "finishtime": 1632818413,
+        "won": 3144,
         "lost": 2948,
         "forfeited": 689
     },
@@ -2119,12 +2119,12 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 9006,
-        "playtime": 5662267727,
+        "matches": 9007,
+        "playtime": 5662831386,
         "finished": 3240,
         "finishtime": 2429981982,
         "won": 4485,
-        "lost": 4221,
+        "lost": 4222,
         "forfeited": 1499
     },
     "60bfac463733422f8708733f3140cd94": {
@@ -2194,7 +2194,7 @@
             "6": 1582,
             "7": 2203,
             "8": 2491,
-            "9": 2494
+            "9": 2513
         },
         "points": {
             "6": 0,
@@ -2204,11 +2204,11 @@
         },
         "pb": 406664,
         "streak": 18,
-        "matches": 3525,
-        "playtime": 2039614538,
-        "finished": 1702,
-        "finishtime": 1065740264,
-        "won": 2074,
+        "matches": 3526,
+        "playtime": 2040123482,
+        "finished": 1703,
+        "finishtime": 1066249208,
+        "won": 2075,
         "lost": 1367,
         "forfeited": 314
     },
@@ -3741,12 +3741,12 @@
         },
         "pb": 397869,
         "streak": 26,
-        "matches": 2627,
-        "playtime": 1528390473,
+        "matches": 2628,
+        "playtime": 1528899417,
         "finished": 1455,
         "finishtime": 879297601,
         "won": 1756,
-        "lost": 820,
+        "lost": 821,
         "forfeited": 37
     },
     "a5d83ff042164ff1b862dedc118c1dae": {
@@ -3973,31 +3973,6 @@
         "won": 1949,
         "lost": 1135,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "67feetlicker67",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 1929
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3
-        },
-        "pb": 476145,
-        "streak": 11,
-        "matches": 6152,
-        "playtime": 3754965153,
-        "finished": 1807,
-        "finishtime": 1422010264,
-        "won": 3001,
-        "lost": 2925,
-        "forfeited": 1910
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "SillyDog64",
@@ -4801,11 +4776,11 @@
         },
         "pb": 415394,
         "streak": 14,
-        "matches": 6700,
-        "playtime": 4185639779,
-        "finished": 2898,
-        "finishtime": 1996696253,
-        "won": 3639,
+        "matches": 6701,
+        "playtime": 4186218183,
+        "finished": 2899,
+        "finishtime": 1997274657,
+        "won": 3640,
         "lost": 2969,
         "forfeited": 756
     },
