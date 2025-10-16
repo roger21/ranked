@@ -1380,11 +1380,11 @@
         },
         "pb": 396692,
         "streak": 29,
-        "matches": 3756,
-        "playtime": 2270775720,
-        "finished": 2140,
-        "finishtime": 1357416305,
-        "won": 2638,
+        "matches": 3757,
+        "playtime": 2271311926,
+        "finished": 2141,
+        "finishtime": 1357952511,
+        "won": 2639,
         "lost": 1006,
         "forfeited": 33
     },
@@ -2274,6 +2274,41 @@
         "lost": 1367,
         "forfeited": 314
     },
+    "6c4b4e74963d40e3b5a7118f3e0b0dc4": {
+        "nickname": "dooggirl",
+        "country": "ca",
+        "top": {
+            "1": 1044,
+            "2": 1029,
+            "3": 1055,
+            "4": 1299,
+            "5": 1309,
+            "6": 1451,
+            "7": 1727,
+            "8": 1642,
+            "9": 1914
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 10,
+            "8": 0,
+            "9": 0
+        },
+        "pb": 479190,
+        "streak": 11,
+        "matches": 1116,
+        "playtime": 709097741,
+        "finished": 294,
+        "finishtime": 229273639,
+        "won": 568,
+        "lost": 488,
+        "forfeited": 216
+    },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
         "country": "it",
@@ -2584,25 +2619,6 @@
         "won": 394,
         "lost": 224,
         "forfeited": 41
-    },
-    "758b381fd33c4b0390d40390f1c4c2c3": {
-        "nickname": "EGAINTMASTER",
-        "country": "au",
-        "top": {
-            "9": 1915
-        },
-        "points": {
-            "9": 0
-        },
-        "pb": 475424,
-        "streak": 12,
-        "matches": 408,
-        "playtime": 249562114,
-        "finished": 159,
-        "finishtime": 116641838,
-        "won": 218,
-        "lost": 174,
-        "forfeited": 79
     },
     "7665f76f431b41c6b321bea16aff913b": {
         "nickname": "lowk3y_",
