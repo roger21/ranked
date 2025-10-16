@@ -160,12 +160,12 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2265,
-        "playtime": 1485709110,
+        "matches": 2266,
+        "playtime": 1486371681,
         "finished": 804,
         "finishtime": 614267800,
         "won": 1177,
-        "lost": 983,
+        "lost": 984,
         "forfeited": 243
     },
     "070d5851c46a4a2da91e6ddfdb741d7f": {
@@ -2274,41 +2274,6 @@
         "lost": 1367,
         "forfeited": 314
     },
-    "6c4b4e74963d40e3b5a7118f3e0b0dc4": {
-        "nickname": "dooggirl",
-        "country": "ca",
-        "top": {
-            "1": 1044,
-            "2": 1029,
-            "3": 1055,
-            "4": 1299,
-            "5": 1309,
-            "6": 1451,
-            "7": 1727,
-            "8": 1642,
-            "9": 1914
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 10,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 479190,
-        "streak": 11,
-        "matches": 1116,
-        "playtime": 709097741,
-        "finished": 294,
-        "finishtime": 229273639,
-        "won": 568,
-        "lost": 488,
-        "forfeited": 216
-    },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
         "country": "it",
@@ -3480,7 +3445,7 @@
             "6": 1815,
             "7": 2026,
             "8": 2029,
-            "9": 1915
+            "9": 1917
         },
         "points": {
             "2": 0,
@@ -3494,11 +3459,11 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 3739,
-        "playtime": 2162843392,
-        "finished": 1416,
-        "finishtime": 978406244,
-        "won": 1912,
+        "matches": 3740,
+        "playtime": 2163543163,
+        "finished": 1417,
+        "finishtime": 979106015,
+        "won": 1913,
         "lost": 1722,
         "forfeited": 808
     },
