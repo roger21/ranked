@@ -704,7 +704,7 @@
             "6": 2080,
             "7": 2309,
             "8": 2181,
-            "9": 2271
+            "9": 2298
         },
         "points": {
             "1": 0,
@@ -719,11 +719,11 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6560,
-        "playtime": 4075237450,
-        "finished": 2469,
-        "finishtime": 1715166566,
-        "won": 3294,
+        "matches": 6561,
+        "playtime": 4075802989,
+        "finished": 2470,
+        "finishtime": 1715732105,
+        "won": 3295,
         "lost": 2978,
         "forfeited": 689
     },
@@ -1798,11 +1798,11 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 3745,
-        "playtime": 2720131640,
+        "matches": 3746,
+        "playtime": 2720402039,
         "finished": 1164,
         "finishtime": 1002450615,
-        "won": 1884,
+        "won": 1885,
         "lost": 1685,
         "forfeited": 306
     },
@@ -1973,13 +1973,13 @@
         },
         "pb": 447970,
         "streak": 19,
-        "matches": 1104,
-        "playtime": 696974207,
+        "matches": 1106,
+        "playtime": 697596680,
         "finished": 432,
         "finishtime": 315145893,
-        "won": 639,
-        "lost": 434,
-        "forfeited": 138
+        "won": 640,
+        "lost": 435,
+        "forfeited": 139
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
@@ -2231,12 +2231,12 @@
         },
         "pb": 406664,
         "streak": 18,
-        "matches": 3536,
-        "playtime": 2045954238,
+        "matches": 3537,
+        "playtime": 2046519777,
         "finished": 1709,
         "finishtime": 1069757610,
         "won": 2081,
-        "lost": 1371,
+        "lost": 1372,
         "forfeited": 314
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
