@@ -894,11 +894,11 @@
         },
         "pb": 445811,
         "streak": 11,
-        "matches": 3199,
-        "playtime": 2135410764,
-        "finished": 1257,
-        "finishtime": 928508506,
-        "won": 1705,
+        "matches": 3200,
+        "playtime": 2136169601,
+        "finished": 1258,
+        "finishtime": 929267343,
+        "won": 1706,
         "lost": 1424,
         "forfeited": 170
     },
@@ -3315,13 +3315,13 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 6881,
-        "playtime": 4307929543,
+        "matches": 6882,
+        "playtime": 4308372947,
         "finished": 2655,
         "finishtime": 1835213355,
         "won": 3452,
-        "lost": 3213,
-        "forfeited": 771
+        "lost": 3214,
+        "forfeited": 772
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfity",
@@ -4090,11 +4090,11 @@
         },
         "pb": 454009,
         "streak": 12,
-        "matches": 2802,
-        "playtime": 1696523081,
+        "matches": 2803,
+        "playtime": 1696966485,
         "finished": 1088,
         "finishtime": 784128661,
-        "won": 1524,
+        "won": 1525,
         "lost": 1240,
         "forfeited": 612
     },
@@ -4683,7 +4683,7 @@
             "6": 1931,
             "7": 2024,
             "8": 2074,
-            "9": 1899
+            "9": 1911
         },
         "points": {
             "1": 0,
@@ -4698,11 +4698,11 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 10630,
-        "playtime": 6854693846,
+        "matches": 10631,
+        "playtime": 6855335237,
         "finished": 3751,
         "finishtime": 2758693546,
-        "won": 5195,
+        "won": 5196,
         "lost": 4869,
         "forfeited": 1235
     },
