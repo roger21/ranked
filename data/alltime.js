@@ -2761,11 +2761,11 @@
         },
         "pb": 472950,
         "streak": 12,
-        "matches": 4080,
-        "playtime": 2456169671,
+        "matches": 4082,
+        "playtime": 2456968010,
         "finished": 1435,
         "finishtime": 1081491024,
-        "won": 2120,
+        "won": 2122,
         "lost": 1849,
         "forfeited": 914
     },
@@ -4434,13 +4434,13 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2689,
-        "playtime": 1774079271,
+        "matches": 2690,
+        "playtime": 1774628190,
         "finished": 862,
         "finishtime": 703272431,
         "won": 1393,
-        "lost": 1178,
-        "forfeited": 556
+        "lost": 1179,
+        "forfeited": 557
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "L9_CarrotEater",
