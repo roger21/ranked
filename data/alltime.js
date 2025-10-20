@@ -59,13 +59,13 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6413,
-        "playtime": 4218468199,
+        "matches": 6415,
+        "playtime": 4219471555,
         "finished": 2190,
         "finishtime": 1660115478,
         "won": 3193,
-        "lost": 2993,
-        "forfeited": 695
+        "lost": 2994,
+        "forfeited": 696
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "ChugokuPoletop",
@@ -2406,12 +2406,12 @@
         },
         "pb": 424838,
         "streak": 12,
-        "matches": 2366,
-        "playtime": 1589295963,
+        "matches": 2367,
+        "playtime": 1589950366,
         "finished": 896,
         "finishtime": 667439391,
         "won": 1255,
-        "lost": 995,
+        "lost": 996,
         "forfeited": 26
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
