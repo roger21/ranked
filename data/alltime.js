@@ -4465,13 +4465,13 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2697,
-        "playtime": 1779736166,
+        "matches": 2698,
+        "playtime": 1780239310,
         "finished": 864,
         "finishtime": 704774553,
         "won": 1395,
-        "lost": 1183,
-        "forfeited": 557
+        "lost": 1184,
+        "forfeited": 558
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "L9_CarrotEater",
