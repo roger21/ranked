@@ -4465,8 +4465,8 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2694,
-        "playtime": 1777775388,
+        "matches": 2695,
+        "playtime": 1778441673,
         "finished": 863,
         "finishtime": 703983294,
         "won": 1394,
@@ -4566,41 +4566,6 @@
         "lost": 347,
         "forfeited": 52
     },
-    "d1718c79c34e4bce93cd688ac5254b58": {
-        "nickname": "cornflakesmcsr",
-        "country": "de",
-        "top": {
-            "1": 1676,
-            "2": 1697,
-            "3": 1601,
-            "4": 1710,
-            "5": 1755,
-            "6": 1898,
-            "7": 1838,
-            "8": 1761,
-            "9": 2062
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 40,
-            "7": 20,
-            "8": 0,
-            "9": 16
-        },
-        "pb": 414438,
-        "streak": 11,
-        "matches": 3706,
-        "playtime": 2575682204,
-        "finished": 1192,
-        "finishtime": 946144203,
-        "won": 1849,
-        "lost": 1638,
-        "forfeited": 207
-    },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
         "nickname": "boosterruns",
         "country": "br",
@@ -4663,12 +4628,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 7492,
-        "playtime": 4861687735,
+        "matches": 7493,
+        "playtime": 4862299902,
         "finished": 2472,
         "finishtime": 1831944961,
         "won": 3688,
-        "lost": 3450,
+        "lost": 3451,
         "forfeited": 989
     },
     "da1d85337d244f789d60b009e1e2b346": {
