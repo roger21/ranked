@@ -2950,6 +2950,31 @@
         "lost": 1694,
         "forfeited": 650
     },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 1976
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 3
+        },
+        "pb": 445193,
+        "streak": 14,
+        "matches": 5247,
+        "playtime": 3109606437,
+        "finished": 1728,
+        "finishtime": 1261745178,
+        "won": 2607,
+        "lost": 2465,
+        "forfeited": 1437
+    },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
         "country": "ca",
@@ -3929,12 +3954,12 @@
         },
         "pb": 416306,
         "streak": 13,
-        "matches": 4727,
-        "playtime": 3105801050,
+        "matches": 4728,
+        "playtime": 3106374705,
         "finished": 1694,
         "finishtime": 1210711798,
         "won": 2433,
-        "lost": 2079,
+        "lost": 2080,
         "forfeited": 283
     },
     "addd890764404097b3f12acdde2adf33": {
@@ -4568,11 +4593,11 @@
         },
         "pb": 414438,
         "streak": 11,
-        "matches": 3702,
-        "playtime": 2573396679,
-        "finished": 1191,
-        "finishtime": 945387932,
-        "won": 1847,
+        "matches": 3703,
+        "playtime": 2574152950,
+        "finished": 1192,
+        "finishtime": 946144203,
+        "won": 1848,
         "lost": 1636,
         "forfeited": 207
     },
