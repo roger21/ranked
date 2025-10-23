@@ -1205,13 +1205,13 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 15732,
-        "playtime": 9975536953,
+        "matches": 15733,
+        "playtime": 9975905041,
         "finished": 6698,
         "finishtime": 4622375953,
         "won": 8705,
-        "lost": 6772,
-        "forfeited": 939
+        "lost": 6773,
+        "forfeited": 940
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "dwoh",
@@ -2111,11 +2111,11 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 6312,
-        "playtime": 4007845181,
+        "matches": 6313,
+        "playtime": 4008213269,
         "finished": 2503,
         "finishtime": 1759227350,
-        "won": 3294,
+        "won": 3295,
         "lost": 2864,
         "forfeited": 660
     },
@@ -4106,7 +4106,7 @@
             "6": 2098,
             "7": 1736,
             "8": 2016,
-            "9": 2125
+            "9": 2143
         },
         "points": {
             "1": 0,
@@ -4121,11 +4121,11 @@
         },
         "pb": 454009,
         "streak": 12,
-        "matches": 2855,
-        "playtime": 1727097662,
-        "finished": 1113,
-        "finishtime": 799488848,
-        "won": 1554,
+        "matches": 2856,
+        "playtime": 1727697342,
+        "finished": 1114,
+        "finishtime": 800088528,
+        "won": 1555,
         "lost": 1263,
         "forfeited": 619
     },
@@ -4430,12 +4430,12 @@
         },
         "pb": 437937,
         "streak": 14,
-        "matches": 4694,
-        "playtime": 2868137104,
+        "matches": 4695,
+        "playtime": 2868736784,
         "finished": 1620,
         "finishtime": 1139452568,
         "won": 2341,
-        "lost": 2119,
+        "lost": 2120,
         "forfeited": 860
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
