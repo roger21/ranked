@@ -1045,8 +1045,8 @@
         "forfeited": 187
     },
     "359da0f53f574971acdaa4aa23de991d": {
-        "nickname": "_pizu",
-        "country": "us",
+        "nickname": "ttres",
+        "country": "au",
         "top": {
             "1": 980,
             "3": 1037,
