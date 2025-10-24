@@ -574,7 +574,7 @@
             "6": 2288,
             "7": 2306,
             "8": 2300,
-            "9": 2249
+            "9": 2254
         },
         "points": {
             "1": 0,
@@ -589,11 +589,11 @@
         },
         "pb": 400578,
         "streak": 23,
-        "matches": 2871,
-        "playtime": 1756313073,
+        "matches": 2872,
+        "playtime": 1756612012,
         "finished": 1437,
         "finishtime": 930377445,
-        "won": 1809,
+        "won": 1810,
         "lost": 974,
         "forfeited": 60
     },
@@ -4220,13 +4220,13 @@
         },
         "pb": 405299,
         "streak": 18,
-        "matches": 5398,
-        "playtime": 3060217401,
+        "matches": 5399,
+        "playtime": 3060516340,
         "finished": 2316,
         "finishtime": 1532499794,
         "won": 2981,
-        "lost": 2223,
-        "forfeited": 1220
+        "lost": 2224,
+        "forfeited": 1221
     },
     "bcb0f43558d745ee977841180b121267": {
         "nickname": "pavkin",
