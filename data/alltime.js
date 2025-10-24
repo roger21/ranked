@@ -1868,12 +1868,12 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 3131,
-        "playtime": 1916707156,
+        "matches": 3132,
+        "playtime": 1917314591,
         "finished": 1157,
         "finishtime": 801261545,
         "won": 1579,
-        "lost": 1427,
+        "lost": 1428,
         "forfeited": 480
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
@@ -1973,13 +1973,13 @@
         },
         "pb": 447970,
         "streak": 19,
-        "matches": 1108,
-        "playtime": 699122389,
+        "matches": 1109,
+        "playtime": 699615814,
         "finished": 433,
         "finishtime": 315745631,
         "won": 641,
-        "lost": 436,
-        "forfeited": 139
+        "lost": 437,
+        "forfeited": 140
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
