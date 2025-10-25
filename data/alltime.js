@@ -1207,11 +1207,11 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 15783,
-        "playtime": 10003953770,
+        "matches": 15784,
+        "playtime": 10004224957,
         "finished": 6719,
         "finishtime": 4634735482,
-        "won": 8730,
+        "won": 8731,
         "lost": 6798,
         "forfeited": 943
     },
@@ -1660,13 +1660,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4920,
-        "playtime": 2928221850,
-        "finished": 1642,
-        "finishtime": 1208926456,
-        "won": 2523,
-        "lost": 2227,
-        "forfeited": 1321
+        "matches": 4922,
+        "playtime": 2929070585,
+        "finished": 1643,
+        "finishtime": 1209553935,
+        "won": 2524,
+        "lost": 2228,
+        "forfeited": 1322
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -3694,13 +3694,13 @@
         },
         "pb": 489901,
         "streak": 9,
-        "matches": 781,
-        "playtime": 486441272,
+        "matches": 782,
+        "playtime": 486712459,
         "finished": 336,
         "finishtime": 243417500,
         "won": 470,
-        "lost": 275,
-        "forfeited": 85
+        "lost": 276,
+        "forfeited": 86
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
         "nickname": "Reignex",
