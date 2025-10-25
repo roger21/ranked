@@ -1660,13 +1660,13 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4914,
-        "playtime": 2925261455,
+        "matches": 4915,
+        "playtime": 2925484871,
         "finished": 1640,
         "finishtime": 1207848277,
         "won": 2520,
-        "lost": 2224,
-        "forfeited": 1320
+        "lost": 2225,
+        "forfeited": 1321
     },
     "4894c631e820409ebe4447e4e9835e90": {
         "nickname": "EvanKeen",
@@ -2045,11 +2045,11 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 2281,
-        "playtime": 1368108477,
+        "matches": 2282,
+        "playtime": 1368911690,
         "finished": 932,
         "finishtime": 620571238,
-        "won": 1218,
+        "won": 1219,
         "lost": 972,
         "forfeited": 341
     },
@@ -2546,12 +2546,12 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 2994,
-        "playtime": 1932281494,
+        "matches": 2995,
+        "playtime": 1932908846,
         "finished": 1017,
         "finishtime": 801552975,
         "won": 1542,
-        "lost": 1366,
+        "lost": 1367,
         "forfeited": 557
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
@@ -3348,13 +3348,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 4439,
-        "playtime": 2914202974,
-        "finished": 1487,
-        "finishtime": 1133859653,
-        "won": 2244,
-        "lost": 2076,
-        "forfeited": 717
+        "matches": 4441,
+        "playtime": 2915140778,
+        "finished": 1488,
+        "finishtime": 1134576040,
+        "won": 2245,
+        "lost": 2077,
+        "forfeited": 718
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -4447,13 +4447,13 @@
         },
         "pb": 422356,
         "streak": 14,
-        "matches": 4841,
-        "playtime": 3134897046,
+        "matches": 4842,
+        "playtime": 3135700259,
         "finished": 1814,
         "finishtime": 1329037274,
         "won": 2500,
-        "lost": 2237,
-        "forfeited": 691
+        "lost": 2238,
+        "forfeited": 692
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
         "nickname": "iKme_",
@@ -4680,12 +4680,12 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 7520,
-        "playtime": 4879398514,
+        "matches": 7521,
+        "playtime": 4879953091,
         "finished": 2487,
         "finishtime": 1841555953,
         "won": 3704,
-        "lost": 3461,
+        "lost": 3462,
         "forfeited": 989
     },
     "da1d85337d244f789d60b009e1e2b346": {
