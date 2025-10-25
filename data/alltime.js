@@ -1207,11 +1207,11 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 15785,
-        "playtime": 10005018617,
+        "matches": 15786,
+        "playtime": 10005439789,
         "finished": 6719,
         "finishtime": 4634735482,
-        "won": 8731,
+        "won": 8732,
         "lost": 6799,
         "forfeited": 943
     },
@@ -3694,13 +3694,13 @@
         },
         "pb": 489901,
         "streak": 9,
-        "matches": 784,
-        "playtime": 487815919,
+        "matches": 785,
+        "playtime": 488171503,
         "finished": 338,
         "finishtime": 244520960,
         "won": 472,
-        "lost": 276,
-        "forfeited": 86
+        "lost": 277,
+        "forfeited": 87
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
         "nickname": "Reignex",
@@ -4254,39 +4254,6 @@
         "won": 500,
         "lost": 411,
         "forfeited": 190
-    },
-    "bdb7f407200d4882b78e656ca161bddf": {
-        "nickname": "L9_FUZZYFEMBOY16",
-        "country": "fk",
-        "top": {
-            "2": 1142,
-            "3": 1176,
-            "4": 1667,
-            "5": 1719,
-            "6": 1565,
-            "7": 1684,
-            "8": 1975,
-            "9": 1971
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 0
-        },
-        "pb": 424998,
-        "streak": 19,
-        "matches": 5420,
-        "playtime": 2850102583,
-        "finished": 1361,
-        "finishtime": 954134090,
-        "won": 2583,
-        "lost": 2522,
-        "forfeited": 1971
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
