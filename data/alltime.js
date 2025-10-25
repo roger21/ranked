@@ -688,11 +688,11 @@
         },
         "pb": 397415,
         "streak": 17,
-        "matches": 6565,
-        "playtime": 4077972507,
-        "finished": 2472,
-        "finishtime": 1716870879,
-        "won": 3297,
+        "matches": 6566,
+        "playtime": 4078584927,
+        "finished": 2473,
+        "finishtime": 1717483299,
+        "won": 3298,
         "lost": 2980,
         "forfeited": 689
     },
@@ -4920,39 +4920,6 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
-    },
-    "e811fb301b1a41ea81c1f481ea93c3be": {
-        "nickname": "nyachloe",
-        "country": "us",
-        "top": {
-            "1": 1310,
-            "3": 1257,
-            "4": 1222,
-            "5": 1678,
-            "6": 1666,
-            "7": 1731,
-            "8": 1994,
-            "9": 2088
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 10,
-            "6": 0,
-            "7": 0,
-            "8": 18,
-            "9": 20
-        },
-        "pb": 443397,
-        "streak": 11,
-        "matches": 1534,
-        "playtime": 945312081,
-        "finished": 566,
-        "finishtime": 394269035,
-        "won": 782,
-        "lost": 685,
-        "forfeited": 237
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
