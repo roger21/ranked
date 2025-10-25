@@ -226,11 +226,11 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 4457,
-        "playtime": 2881284013,
-        "finished": 1745,
-        "finishtime": 1249506412,
-        "won": 2285,
+        "matches": 4458,
+        "playtime": 2881929620,
+        "finished": 1746,
+        "finishtime": 1250152019,
+        "won": 2286,
         "lost": 2005,
         "forfeited": 410
     },
@@ -4053,12 +4053,12 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 4975,
-        "playtime": 3266524953,
+        "matches": 4976,
+        "playtime": 3267170560,
         "finished": 1832,
         "finishtime": 1310421367,
         "won": 2520,
-        "lost": 2267,
+        "lost": 2268,
         "forfeited": 190
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
@@ -5152,31 +5152,6 @@
         "finishtime": 1766464194,
         "won": 3470,
         "lost": 3227,
-        "forfeited": 952
-    },
-    "fe10b6edfc3a460a83d637fc8e008751": {
-        "nickname": "Mitthui",
-        "country": "vn",
-        "top": {
-            "6": 1402,
-            "7": 1731,
-            "8": 1851,
-            "9": 1955
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 14,
-            "9": 11
-        },
-        "pb": 459912,
-        "streak": 9,
-        "matches": 3258,
-        "playtime": 1848422836,
-        "finished": 1113,
-        "finishtime": 777660800,
-        "won": 1618,
-        "lost": 1507,
         "forfeited": 952
     }
 }
