@@ -226,11 +226,11 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 4448,
-        "playtime": 2875959111,
-        "finished": 1739,
-        "finishtime": 1245980674,
-        "won": 2279,
+        "matches": 4449,
+        "playtime": 2876775300,
+        "finished": 1740,
+        "finishtime": 1246796863,
+        "won": 2280,
         "lost": 2002,
         "forfeited": 410
     },
@@ -1011,7 +1011,7 @@
     },
     "2fe70934e7be458dba747c4ac830391c": {
         "nickname": "nhb_",
-        "country": null,
+        "country": "us",
         "top": {
             "2": 793,
             "3": 1302,
@@ -2045,13 +2045,13 @@
         },
         "pb": 411010,
         "streak": 13,
-        "matches": 2275,
-        "playtime": 1365095020,
+        "matches": 2277,
+        "playtime": 1365875829,
         "finished": 928,
         "finishtime": 618338590,
         "won": 1214,
-        "lost": 970,
-        "forfeited": 339
+        "lost": 972,
+        "forfeited": 341
     },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
@@ -3348,11 +3348,11 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 4434,
-        "playtime": 2911564953,
+        "matches": 4435,
+        "playtime": 2911912979,
         "finished": 1487,
         "finishtime": 1133859653,
-        "won": 2243,
+        "won": 2244,
         "lost": 2072,
         "forfeited": 716
     },
