@@ -1660,11 +1660,11 @@
         },
         "pb": 426361,
         "streak": 16,
-        "matches": 4919,
-        "playtime": 2927770861,
+        "matches": 4920,
+        "playtime": 2928221850,
         "finished": 1642,
         "finishtime": 1208926456,
-        "won": 2522,
+        "won": 2523,
         "lost": 2227,
         "forfeited": 1321
     },
@@ -4254,39 +4254,6 @@
         "won": 500,
         "lost": 411,
         "forfeited": 190
-    },
-    "bdb7f407200d4882b78e656ca161bddf": {
-        "nickname": "L9_FUZZYFEMBOY16",
-        "country": "fk",
-        "top": {
-            "2": 1142,
-            "3": 1176,
-            "4": 1667,
-            "5": 1719,
-            "6": 1565,
-            "7": 1684,
-            "8": 1975,
-            "9": 1971
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 0
-        },
-        "pb": 424998,
-        "streak": 19,
-        "matches": 5417,
-        "playtime": 2848069688,
-        "finished": 1360,
-        "finishtime": 953466277,
-        "won": 2582,
-        "lost": 2521,
-        "forfeited": 1971
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
