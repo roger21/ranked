@@ -261,11 +261,11 @@
         },
         "pb": 425524,
         "streak": 12,
-        "matches": 2878,
-        "playtime": 1706376069,
+        "matches": 2879,
+        "playtime": 1706769979,
         "finished": 1148,
         "finishtime": 795403814,
-        "won": 1502,
+        "won": 1503,
         "lost": 1275,
         "forfeited": 516
     },
@@ -2637,13 +2637,13 @@
         },
         "pb": 443695,
         "streak": 10,
-        "matches": 2778,
-        "playtime": 1778449113,
+        "matches": 2779,
+        "playtime": 1778843023,
         "finished": 941,
         "finishtime": 702359896,
         "won": 1401,
-        "lost": 1260,
-        "forfeited": 379
+        "lost": 1261,
+        "forfeited": 380
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
         "nickname": "L9_LABUBUDEALER6",
@@ -3519,12 +3519,12 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 5689,
-        "playtime": 3462130829,
+        "matches": 5690,
+        "playtime": 3462849356,
         "finished": 1858,
         "finishtime": 1373183728,
         "won": 2773,
-        "lost": 2605,
+        "lost": 2606,
         "forfeited": 1288
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
