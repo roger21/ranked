@@ -1168,13 +1168,13 @@
         },
         "pb": 526564,
         "streak": 11,
-        "matches": 1892,
-        "playtime": 1394552917,
+        "matches": 1893,
+        "playtime": 1395054879,
         "finished": 614,
         "finishtime": 528458064,
         "won": 974,
-        "lost": 818,
-        "forfeited": 196
+        "lost": 819,
+        "forfeited": 197
     },
     "36a441538cbc463da6a877e6ebc8af91": {
         "nickname": "megelimc",
