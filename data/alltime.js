@@ -125,13 +125,13 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2299,
-        "playtime": 1505813860,
+        "matches": 2300,
+        "playtime": 1506243674,
         "finished": 815,
         "finishtime": 621062358,
         "won": 1193,
-        "lost": 999,
-        "forfeited": 246
+        "lost": 1000,
+        "forfeited": 247
     },
     "070d5851c46a4a2da91e6ddfdb741d7f": {
         "nickname": "TheLandSharkJeff",
@@ -2957,7 +2957,7 @@
             "6": 933,
             "7": 1664,
             "8": 1851,
-            "9": 2073
+            "9": 2087
         },
         "points": {
             "6": 0,
@@ -2967,11 +2967,11 @@
         },
         "pb": 445193,
         "streak": 14,
-        "matches": 5309,
-        "playtime": 3145844151,
-        "finished": 1754,
-        "finishtime": 1278889527,
-        "won": 2642,
+        "matches": 5310,
+        "playtime": 3146358342,
+        "finished": 1755,
+        "finishtime": 1279403718,
+        "won": 2643,
         "lost": 2492,
         "forfeited": 1442
     },
@@ -3552,11 +3552,11 @@
         },
         "pb": 448289,
         "streak": 13,
-        "matches": 5694,
-        "playtime": 3464898259,
+        "matches": 5695,
+        "playtime": 3465328073,
         "finished": 1858,
         "finishtime": 1373183728,
-        "won": 2774,
+        "won": 2775,
         "lost": 2609,
         "forfeited": 1288
     },
@@ -4488,12 +4488,12 @@
         },
         "pb": 437937,
         "streak": 14,
-        "matches": 4716,
-        "playtime": 2880384016,
+        "matches": 4717,
+        "playtime": 2880898207,
         "finished": 1628,
         "finishtime": 1144082708,
         "won": 2351,
-        "lost": 2130,
+        "lost": 2131,
         "forfeited": 860
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
