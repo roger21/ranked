@@ -2043,13 +2043,13 @@
         },
         "pb": 406950,
         "streak": 13,
-        "matches": 2323,
-        "playtime": 1391663689,
+        "matches": 2324,
+        "playtime": 1391978890,
         "finished": 952,
         "finishtime": 632798653,
         "won": 1241,
-        "lost": 990,
-        "forfeited": 350
+        "lost": 991,
+        "forfeited": 351
     },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
@@ -2266,12 +2266,12 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3241,
-        "playtime": 2055679229,
+        "matches": 3242,
+        "playtime": 2056466995,
         "finished": 1091,
         "finishtime": 815340627,
         "won": 1624,
-        "lost": 1460,
+        "lost": 1461,
         "forfeited": 480
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
