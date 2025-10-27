@@ -2441,13 +2441,13 @@
         },
         "pb": 424838,
         "streak": 12,
-        "matches": 2373,
-        "playtime": 1593708669,
+        "matches": 2374,
+        "playtime": 1593769887,
         "finished": 899,
         "finishtime": 669645901,
         "won": 1259,
-        "lost": 998,
-        "forfeited": 26
+        "lost": 999,
+        "forfeited": 27
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
         "nickname": "Kxpow",
