@@ -67,6 +67,37 @@
         "lost": 3048,
         "forfeited": 706
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "ChugokuPoletop",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2064,
+            "9": 2168
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 28,
+            "9": 31
+        },
+        "pb": 379698,
+        "streak": 9,
+        "matches": 2399,
+        "playtime": 1350905802,
+        "finished": 868,
+        "finishtime": 583895365,
+        "won": 1199,
+        "lost": 1119,
+        "forfeited": 550
+    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "im",
@@ -1174,11 +1205,11 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 15823,
-        "playtime": 10025846724,
-        "finished": 6735,
-        "finishtime": 4644157691,
-        "won": 8754,
+        "matches": 15824,
+        "playtime": 10026499985,
+        "finished": 6736,
+        "finishtime": 4644810952,
+        "won": 8755,
         "lost": 6814,
         "forfeited": 946
     },
@@ -3280,12 +3311,12 @@
         },
         "pb": 414676,
         "streak": 20,
-        "matches": 9694,
-        "playtime": 5812660269,
+        "matches": 9695,
+        "playtime": 5813313530,
         "finished": 4154,
         "finishtime": 2805915055,
         "won": 5451,
-        "lost": 4026,
+        "lost": 4027,
         "forfeited": 1187
     },
     "939ddf85303441de901d60bfa4109318": {
@@ -4233,39 +4264,6 @@
         "won": 500,
         "lost": 411,
         "forfeited": 190
-    },
-    "bdb7f407200d4882b78e656ca161bddf": {
-        "nickname": "L9_FUZZYFEMBOY16",
-        "country": "fk",
-        "top": {
-            "2": 1142,
-            "3": 1176,
-            "4": 1667,
-            "5": 1719,
-            "6": 1565,
-            "7": 1684,
-            "8": 1975,
-            "9": 2048
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 0
-        },
-        "pb": 424998,
-        "streak": 19,
-        "matches": 5433,
-        "playtime": 2856713626,
-        "finished": 1365,
-        "finishtime": 956525374,
-        "won": 2590,
-        "lost": 2528,
-        "forfeited": 1973
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
