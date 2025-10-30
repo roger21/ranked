@@ -2644,7 +2644,7 @@
         "forfeited": 382
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
-        "nickname": "L9_LABUBUDEALER6",
+        "nickname": "TUDORULE",
         "country": "ro",
         "top": {
             "1": 1633,
