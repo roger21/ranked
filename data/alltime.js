@@ -1833,11 +1833,11 @@
         },
         "pb": 422881,
         "streak": 13,
-        "matches": 3368,
-        "playtime": 1906946093,
-        "finished": 1388,
-        "finishtime": 902575642,
-        "won": 1782,
+        "matches": 3369,
+        "playtime": 1907513656,
+        "finished": 1389,
+        "finishtime": 903143205,
+        "won": 1783,
         "lost": 1467,
         "forfeited": 816
     },
@@ -3381,13 +3381,13 @@
         },
         "pb": 464029,
         "streak": 11,
-        "matches": 4571,
-        "playtime": 2991652239,
+        "matches": 4573,
+        "playtime": 2992230822,
         "finished": 1530,
         "finishtime": 1163472830,
         "won": 2307,
-        "lost": 2142,
-        "forfeited": 736
+        "lost": 2143,
+        "forfeited": 737
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -4098,13 +4098,13 @@
         },
         "pb": 454009,
         "streak": 12,
-        "matches": 2973,
-        "playtime": 1798686673,
+        "matches": 2975,
+        "playtime": 1799525464,
         "finished": 1158,
         "finishtime": 828785105,
         "won": 1612,
-        "lost": 1320,
-        "forfeited": 626
+        "lost": 1322,
+        "forfeited": 627
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
         "nickname": "xShatter",
@@ -5101,6 +5101,41 @@
         "won": 1402,
         "lost": 1145,
         "forfeited": 397
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "L9_YURILOVER21",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2070
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 13
+        },
+        "pb": 473615,
+        "streak": 13,
+        "matches": 1126,
+        "playtime": 747540116,
+        "finished": 406,
+        "finishtime": 307644057,
+        "won": 599,
+        "lost": 474,
+        "forfeited": 88
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
