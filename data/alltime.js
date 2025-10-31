@@ -867,12 +867,12 @@
         },
         "pb": 439903,
         "streak": 11,
-        "matches": 3232,
-        "playtime": 2155674831,
+        "matches": 3233,
+        "playtime": 2156283757,
         "finished": 1276,
         "finishtime": 940371427,
         "won": 1724,
-        "lost": 1438,
+        "lost": 1439,
         "forfeited": 170
     },
     "2988fcfbc6b141a497faa915e13b6592": {
@@ -1675,7 +1675,7 @@
         "forfeited": 701
     },
     "48d9df3377554043ba39a8500c7ad702": {
-        "nickname": "L9_ANGRYMAN25",
+        "nickname": "Tenes9999",
         "country": "cn",
         "top": {
             "1": 1735,
@@ -2239,12 +2239,12 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3262,
-        "playtime": 2068483948,
+        "matches": 3263,
+        "playtime": 2069248305,
         "finished": 1097,
         "finishtime": 819513085,
         "won": 1634,
-        "lost": 1470,
+        "lost": 1471,
         "forfeited": 481
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
