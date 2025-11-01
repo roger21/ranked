@@ -3344,13 +3344,13 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 7029,
-        "playtime": 4397953388,
+        "matches": 7030,
+        "playtime": 4398532541,
         "finished": 2725,
         "finishtime": 1879805935,
         "won": 3532,
-        "lost": 3276,
-        "forfeited": 790
+        "lost": 3277,
+        "forfeited": 791
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "misfity",
@@ -3517,11 +3517,11 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 3846,
-        "playtime": 2225213464,
+        "matches": 3847,
+        "playtime": 2225792617,
         "finished": 1458,
         "finishtime": 1004847645,
-        "won": 1965,
+        "won": 1966,
         "lost": 1774,
         "forfeited": 812
     },
@@ -5101,6 +5101,41 @@
         "won": 1402,
         "lost": 1145,
         "forfeited": 397
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "L9_YURILOVER21",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2070
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 13
+        },
+        "pb": 473615,
+        "streak": 13,
+        "matches": 1139,
+        "playtime": 755149451,
+        "finished": 412,
+        "finishtime": 311319225,
+        "won": 606,
+        "lost": 480,
+        "forfeited": 88
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
