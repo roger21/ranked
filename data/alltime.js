@@ -347,7 +347,7 @@
             "6": 2005,
             "7": 2001,
             "8": 2226,
-            "9": 2071
+            "9": 2074
         },
         "points": {
             "1": 0,
@@ -362,11 +362,11 @@
         },
         "pb": 418085,
         "streak": 12,
-        "matches": 2246,
-        "playtime": 1348168021,
+        "matches": 2247,
+        "playtime": 1348351986,
         "finished": 918,
         "finishtime": 634006049,
-        "won": 1211,
+        "won": 1212,
         "lost": 946,
         "forfeited": 431
     },
@@ -1248,13 +1248,13 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 12727,
-        "playtime": 7626907869,
+        "matches": 12728,
+        "playtime": 7627091834,
         "finished": 5424,
         "finishtime": 3604461320,
         "won": 6896,
-        "lost": 5538,
-        "forfeited": 1690
+        "lost": 5539,
+        "forfeited": 1691
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -1876,13 +1876,13 @@
         },
         "pb": 398485,
         "streak": 11,
-        "matches": 3984,
-        "playtime": 2564440548,
+        "matches": 3985,
+        "playtime": 2564693398,
         "finished": 1653,
         "finishtime": 1177083641,
         "won": 2160,
-        "lost": 1739,
-        "forfeited": 371
+        "lost": 1740,
+        "forfeited": 372
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
         "nickname": "AstraF",
@@ -4490,11 +4490,11 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5023,
-        "playtime": 3238821240,
-        "finished": 1888,
-        "finishtime": 1375408536,
-        "won": 2589,
+        "matches": 5024,
+        "playtime": 3239556493,
+        "finished": 1889,
+        "finishtime": 1376143789,
+        "won": 2590,
         "lost": 2326,
         "forfeited": 725
     },
