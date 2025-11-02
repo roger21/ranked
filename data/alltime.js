@@ -1441,7 +1441,7 @@
             "6": 2020,
             "7": 2112,
             "8": 2193,
-            "9": 2241
+            "9": 2256
         },
         "points": {
             "1": 0,
@@ -1456,11 +1456,11 @@
         },
         "pb": 431959,
         "streak": 14,
-        "matches": 3860,
-        "playtime": 2603011193,
+        "matches": 3861,
+        "playtime": 2603463529,
         "finished": 1399,
         "finishtime": 1054552403,
-        "won": 1985,
+        "won": 1986,
         "lost": 1710,
         "forfeited": 203
     },
@@ -1806,13 +1806,13 @@
         },
         "pb": 395245,
         "streak": 13,
-        "matches": 3401,
-        "playtime": 1922028414,
+        "matches": 3402,
+        "playtime": 1922480750,
         "finished": 1397,
         "finishtime": 907603044,
         "won": 1794,
-        "lost": 1487,
-        "forfeited": 829
+        "lost": 1488,
+        "forfeited": 830
     },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
@@ -4127,13 +4127,13 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 5009,
-        "playtime": 3285656653,
+        "matches": 5010,
+        "playtime": 3286408670,
         "finished": 1842,
         "finishtime": 1316351127,
         "won": 2534,
-        "lost": 2286,
-        "forfeited": 196
+        "lost": 2287,
+        "forfeited": 197
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
