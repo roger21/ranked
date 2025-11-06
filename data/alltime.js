@@ -661,12 +661,12 @@
         },
         "pb": 469453,
         "streak": 9,
-        "matches": 2507,
-        "playtime": 1692659410,
+        "matches": 2508,
+        "playtime": 1693359517,
         "finished": 816,
         "finishtime": 647608527,
         "won": 1272,
-        "lost": 1124,
+        "lost": 1125,
         "forfeited": 233
     },
     "25349f93cf194f3baeee93d024eccc21": {
@@ -2400,11 +2400,11 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3296,
-        "playtime": 2090237126,
-        "finished": 1110,
-        "finishtime": 828532247,
-        "won": 1652,
+        "matches": 3297,
+        "playtime": 2090998327,
+        "finished": 1111,
+        "finishtime": 829293448,
+        "won": 1653,
         "lost": 1482,
         "forfeited": 482
     },
@@ -3095,7 +3095,7 @@
             "6": 1952,
             "7": 1972,
             "8": 1872,
-            "9": 1971
+            "9": 1978
         },
         "points": {
             "2": 0,
@@ -3109,13 +3109,13 @@
         },
         "pb": 397521,
         "streak": 14,
-        "matches": 4236,
-        "playtime": 2788109214,
-        "finished": 1444,
-        "finishtime": 1043779710,
-        "won": 2058,
-        "lost": 1854,
-        "forfeited": 115
+        "matches": 4238,
+        "playtime": 2789218716,
+        "finished": 1445,
+        "finishtime": 1044595633,
+        "won": 2059,
+        "lost": 1855,
+        "forfeited": 116
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
         "nickname": "xcr1mz0n",
