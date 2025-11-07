@@ -351,7 +351,7 @@
             "6": 2005,
             "7": 2001,
             "8": 2226,
-            "9": 2261
+            "9": 2269
         },
         "points": {
             "1": 0,
@@ -366,11 +366,11 @@
         },
         "pb": 418085,
         "streak": 12,
-        "matches": 2269,
-        "playtime": 1360657804,
-        "finished": 931,
-        "finishtime": 642056594,
-        "won": 1228,
+        "matches": 2271,
+        "playtime": 1361188177,
+        "finished": 932,
+        "finishtime": 642516858,
+        "won": 1230,
         "lost": 951,
         "forfeited": 432
     },
@@ -1005,12 +1005,12 @@
         },
         "pb": 392826,
         "streak": 11,
-        "matches": 4862,
-        "playtime": 2867189674,
+        "matches": 4863,
+        "playtime": 2867649938,
         "finished": 1957,
         "finishtime": 1269176093,
         "won": 2499,
-        "lost": 2113,
+        "lost": 2114,
         "forfeited": 581
     },
     "2f59967f6a7841ab840e2cb032589a04": {
@@ -1874,13 +1874,13 @@
         },
         "pb": 395245,
         "streak": 13,
-        "matches": 3443,
-        "playtime": 1943892899,
+        "matches": 3444,
+        "playtime": 1943963008,
         "finished": 1415,
         "finishtime": 918093400,
         "won": 1815,
-        "lost": 1509,
-        "forfeited": 840
+        "lost": 1510,
+        "forfeited": 841
     },
     "4f3e7905554345698e41f88caa4c088e": {
         "nickname": "rcolee",
@@ -3249,11 +3249,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 7040,
-        "playtime": 4751260667,
-        "finished": 2336,
-        "finishtime": 1853222836,
-        "won": 3526,
+        "matches": 7041,
+        "playtime": 4752075972,
+        "finished": 2337,
+        "finishtime": 1854038141,
+        "won": 3527,
         "lost": 3319,
         "forfeited": 793
     },
