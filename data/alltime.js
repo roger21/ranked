@@ -67,41 +67,6 @@
         "lost": 3097,
         "forfeited": 714
     },
-    "040e328fcb6e47b594c57ee9fc24333e": {
-        "nickname": "LilMinien",
-        "country": "no",
-        "top": {
-            "1": 1423,
-            "2": 1467,
-            "3": 1394,
-            "4": 1534,
-            "5": 1785,
-            "6": 1707,
-            "7": 1812,
-            "8": 1850,
-            "9": 2011
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 25,
-            "6": 0,
-            "7": 0,
-            "8": 3,
-            "9": 3
-        },
-        "pb": 465817,
-        "streak": 17,
-        "matches": 5326,
-        "playtime": 3272386697,
-        "finished": 1566,
-        "finishtime": 1190573873,
-        "won": 2546,
-        "lost": 2425,
-        "forfeited": 1298
-    },
     "048de51800794a208de7f01652513c32": {
         "nickname": "ChugokuPoletop",
         "country": "gr",
@@ -1042,12 +1007,12 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 6140,
-        "playtime": 3674755363,
+        "matches": 6141,
+        "playtime": 3675397180,
         "finished": 1972,
         "finishtime": 1403079203,
         "won": 2908,
-        "lost": 2761,
+        "lost": 2762,
         "forfeited": 1244
     },
     "31f96d84ed9844bcabbd07f828001290": {
@@ -3253,13 +3218,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 7049,
-        "playtime": 4756744640,
+        "matches": 7050,
+        "playtime": 4757263091,
         "finished": 2340,
         "finishtime": 1855907741,
         "won": 3531,
-        "lost": 3323,
-        "forfeited": 794
+        "lost": 3324,
+        "forfeited": 795
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
