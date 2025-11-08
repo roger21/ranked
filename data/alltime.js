@@ -4834,13 +4834,13 @@
         },
         "pb": 418768,
         "streak": 10,
-        "matches": 1039,
-        "playtime": 683064416,
+        "matches": 1040,
+        "playtime": 683395088,
         "finished": 426,
         "finishtime": 298321714,
         "won": 564,
-        "lost": 421,
-        "forfeited": 27
+        "lost": 422,
+        "forfeited": 28
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "yawduay_qig104",
