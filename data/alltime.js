@@ -2653,11 +2653,11 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 3056,
-        "playtime": 1973512402,
+        "matches": 3057,
+        "playtime": 1974124999,
         "finished": 1037,
         "finishtime": 817577061,
-        "won": 1572,
+        "won": 1573,
         "lost": 1396,
         "forfeited": 564
     },
@@ -3430,13 +3430,13 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 5035,
-        "playtime": 3269354453,
+        "matches": 5036,
+        "playtime": 3269967050,
         "finished": 1698,
         "finishtime": 1279355079,
         "won": 2538,
-        "lost": 2362,
-        "forfeited": 801
+        "lost": 2363,
+        "forfeited": 802
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
