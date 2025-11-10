@@ -59,13 +59,13 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6635,
-        "playtime": 4357431561,
+        "matches": 6637,
+        "playtime": 4358168136,
         "finished": 2279,
         "finishtime": 1721326243,
         "won": 3304,
-        "lost": 3099,
-        "forfeited": 714
+        "lost": 3101,
+        "forfeited": 716
     },
     "040e328fcb6e47b594c57ee9fc24333e": {
         "nickname": "LilMinien",
@@ -867,13 +867,13 @@
         },
         "pb": 502763,
         "streak": 11,
-        "matches": 729,
-        "playtime": 511824018,
+        "matches": 730,
+        "playtime": 512569493,
         "finished": 315,
         "finishtime": 250321424,
         "won": 434,
-        "lost": 274,
-        "forfeited": 40
+        "lost": 275,
+        "forfeited": 41
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
         "nickname": "SuperC_",
