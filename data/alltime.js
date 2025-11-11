@@ -3712,13 +3712,13 @@
         },
         "pb": 446474,
         "streak": 12,
-        "matches": 1088,
-        "playtime": 750360695,
+        "matches": 1089,
+        "playtime": 750900428,
         "finished": 397,
         "finishtime": 314172387,
         "won": 608,
-        "lost": 432,
-        "forfeited": 100
+        "lost": 433,
+        "forfeited": 101
     },
     "a53540ad086c490e9a0405171f0e0e58": {
         "nickname": "aleen",
