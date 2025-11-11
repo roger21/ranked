@@ -1180,12 +1180,12 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 16133,
-        "playtime": 10197661467,
+        "matches": 16134,
+        "playtime": 10198347454,
         "finished": 6868,
         "finishtime": 4725212079,
         "won": 8915,
-        "lost": 6959,
+        "lost": 6960,
         "forfeited": 978
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -4023,31 +4023,6 @@
         "lost": 1145,
         "forfeited": 315
     },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amari_06",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2016
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3
-        },
-        "pb": 476145,
-        "streak": 11,
-        "matches": 6697,
-        "playtime": 4077488152,
-        "finished": 2036,
-        "finishtime": 1573069204,
-        "won": 3279,
-        "lost": 3182,
-        "forfeited": 2004
-    },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
         "country": "de",
@@ -4207,11 +4182,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 6700,
-        "playtime": 3918940734,
-        "finished": 2479,
-        "finishtime": 1711733689,
-        "won": 3386,
+        "matches": 6701,
+        "playtime": 3919626721,
+        "finished": 2480,
+        "finishtime": 1712419676,
+        "won": 3387,
         "lost": 3094,
         "forfeited": 1280
     },
