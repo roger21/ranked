@@ -90,12 +90,12 @@
         },
         "pb": 379698,
         "streak": 9,
-        "matches": 2531,
-        "playtime": 1422044424,
+        "matches": 2533,
+        "playtime": 1422847471,
         "finished": 923,
         "finishtime": 617091223,
-        "won": 1264,
-        "lost": 1181,
+        "won": 1265,
+        "lost": 1182,
         "forfeited": 566
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -1390,12 +1390,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 8753,
-        "playtime": 5556303376,
+        "matches": 8754,
+        "playtime": 5556760013,
         "finished": 3156,
         "finishtime": 2307468603,
         "won": 4361,
-        "lost": 4103,
+        "lost": 4104,
         "forfeited": 1383
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -1863,7 +1863,7 @@
             "6": 2177,
             "7": 2128,
             "8": 2246,
-            "9": 2237
+            "9": 2246
         },
         "points": {
             "1": 0,
@@ -1878,11 +1878,11 @@
         },
         "pb": 395895,
         "streak": 11,
-        "matches": 4116,
-        "playtime": 2637831691,
-        "finished": 1714,
-        "finishtime": 1214468997,
-        "won": 2234,
+        "matches": 4117,
+        "playtime": 2638410625,
+        "finished": 1715,
+        "finishtime": 1215047931,
+        "won": 2235,
         "lost": 1793,
         "forfeited": 388
     },
@@ -4182,13 +4182,13 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 6693,
-        "playtime": 3915991956,
+        "matches": 6695,
+        "playtime": 3916558128,
         "finished": 2478,
         "finishtime": 1711202220,
-        "won": 3383,
-        "lost": 3090,
-        "forfeited": 1277
+        "won": 3384,
+        "lost": 3091,
+        "forfeited": 1278
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
         "nickname": "Sadekeppi",
@@ -4650,13 +4650,13 @@
         },
         "pb": 441909,
         "streak": 14,
-        "matches": 7655,
-        "playtime": 4960079037,
+        "matches": 7656,
+        "playtime": 4960421096,
         "finished": 2533,
         "finishtime": 1872574596,
         "won": 3773,
-        "lost": 3524,
-        "forfeited": 994
+        "lost": 3525,
+        "forfeited": 995
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
