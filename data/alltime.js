@@ -5098,13 +5098,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2588,
-        "playtime": 1735000865,
+        "matches": 2589,
+        "playtime": 1735481801,
         "finished": 939,
         "finishtime": 752983991,
         "won": 1402,
-        "lost": 1145,
-        "forfeited": 397
+        "lost": 1146,
+        "forfeited": 398
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "L9_YURILOVER21",
