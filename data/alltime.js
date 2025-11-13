@@ -133,37 +133,6 @@
         "lost": 1029,
         "forfeited": 253
     },
-    "070d5851c46a4a2da91e6ddfdb741d7f": {
-        "nickname": "TheLandSharkJeff",
-        "country": "no",
-        "top": {
-            "3": 1240,
-            "4": 1607,
-            "5": 1611,
-            "6": 1685,
-            "7": 1721,
-            "8": 1975,
-            "9": 2088
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 25,
-            "8": 21,
-            "9": 9
-        },
-        "pb": 452892,
-        "streak": 13,
-        "matches": 5737,
-        "playtime": 4181551347,
-        "finished": 1752,
-        "finishtime": 1423909391,
-        "won": 2751,
-        "lost": 2605,
-        "forfeited": 262
-    },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
         "country": null,
@@ -292,11 +261,11 @@
         },
         "pb": 415471,
         "streak": 12,
-        "matches": 2969,
-        "playtime": 1758791457,
-        "finished": 1184,
-        "finishtime": 817788744,
-        "won": 1548,
+        "matches": 2970,
+        "playtime": 1759301755,
+        "finished": 1185,
+        "finishtime": 818299042,
+        "won": 1549,
         "lost": 1317,
         "forfeited": 519
     },
@@ -327,12 +296,12 @@
         },
         "pb": 447881,
         "streak": 15,
-        "matches": 2152,
-        "playtime": 1548880365,
+        "matches": 2153,
+        "playtime": 1549379925,
         "finished": 809,
         "finishtime": 647724794,
         "won": 1174,
-        "lost": 926,
+        "lost": 927,
         "forfeited": 44
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
@@ -492,13 +461,13 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3772,
-        "playtime": 2692360473,
+        "matches": 3773,
+        "playtime": 2692708947,
         "finished": 1125,
         "finishtime": 929871180,
         "won": 1899,
-        "lost": 1662,
-        "forfeited": 445
+        "lost": 1663,
+        "forfeited": 446
     },
     "132807fea3a54a02b6b1ad057430b002": {
         "nickname": "slowunc",
@@ -1479,12 +1448,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 8773,
-        "playtime": 5566954374,
+        "matches": 8774,
+        "playtime": 5567894713,
         "finished": 3162,
         "finishtime": 2311217891,
         "won": 4369,
-        "lost": 4112,
+        "lost": 4113,
         "forfeited": 1385
     },
     "4129d8d1aafb4e73b97b9999db248060": {
