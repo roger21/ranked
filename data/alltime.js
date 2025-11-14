@@ -824,11 +824,11 @@
         },
         "pb": 446180,
         "streak": 10,
-        "matches": 1389,
-        "playtime": 978324966,
+        "matches": 1390,
+        "playtime": 978792691,
         "finished": 507,
         "finishtime": 390673612,
-        "won": 729,
+        "won": 730,
         "lost": 596,
         "forfeited": 35
     },
@@ -1308,13 +1308,13 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 13149,
-        "playtime": 7854198839,
+        "matches": 13151,
+        "playtime": 7855796157,
         "finished": 5615,
         "finishtime": 3714178479,
         "won": 7116,
-        "lost": 5728,
-        "forfeited": 1743
+        "lost": 5729,
+        "forfeited": 1744
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -2144,11 +2144,11 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 6366,
-        "playtime": 4039487383,
+        "matches": 6367,
+        "playtime": 4039894556,
         "finished": 2535,
         "finishtime": 1779503283,
-        "won": 3332,
+        "won": 3333,
         "lost": 2879,
         "forfeited": 663
     },
@@ -2800,13 +2800,13 @@
         },
         "pb": 402926,
         "streak": 14,
-        "matches": 7098,
-        "playtime": 3981612377,
+        "matches": 7099,
+        "playtime": 3982080102,
         "finished": 2193,
         "finishtime": 1410351928,
         "won": 3263,
-        "lost": 3172,
-        "forfeited": 1880
+        "lost": 3173,
+        "forfeited": 1881
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -4914,7 +4914,7 @@
             "5": 1322,
             "7": 1483,
             "8": 1800,
-            "9": 2054
+            "9": 2057
         },
         "points": {
             "1": 0,
@@ -4927,8 +4927,8 @@
         },
         "pb": 440865,
         "streak": 15,
-        "matches": 3810,
-        "playtime": 2410070665,
+        "matches": 3811,
+        "playtime": 2411260810,
         "finished": 1118,
         "finishtime": 859288692,
         "won": 1836,
