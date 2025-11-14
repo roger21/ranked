@@ -90,12 +90,12 @@
         },
         "pb": 379698,
         "streak": 9,
-        "matches": 2562,
-        "playtime": 1439619934,
+        "matches": 2563,
+        "playtime": 1440143297,
         "finished": 935,
         "finishtime": 624611563,
         "won": 1281,
-        "lost": 1195,
+        "lost": 1196,
         "forfeited": 568
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -1483,11 +1483,11 @@
         },
         "pb": 431959,
         "streak": 14,
-        "matches": 3920,
-        "playtime": 2638326451,
-        "finished": 1425,
-        "finishtime": 1070242805,
-        "won": 2015,
+        "matches": 3922,
+        "playtime": 2639227589,
+        "finished": 1426,
+        "finishtime": 1070799339,
+        "won": 2017,
         "lost": 1740,
         "forfeited": 203
     },
@@ -2954,7 +2954,7 @@
             "6": 1908,
             "7": 1899,
             "8": 2017,
-            "9": 2130
+            "9": 2144
         },
         "points": {
             "1": 0,
@@ -2969,13 +2969,13 @@
         },
         "pb": 440219,
         "streak": 22,
-        "matches": 7829,
-        "playtime": 5020314708,
-        "finished": 2527,
-        "finishtime": 1967524415,
-        "won": 3851,
-        "lost": 3681,
-        "forfeited": 1691
+        "matches": 7831,
+        "playtime": 5021182675,
+        "finished": 2528,
+        "finishtime": 1968047778,
+        "won": 3852,
+        "lost": 3682,
+        "forfeited": 1692
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
@@ -3348,11 +3348,11 @@
         },
         "pb": 430963,
         "streak": 9,
-        "matches": 2483,
-        "playtime": 1640549506,
-        "finished": 911,
-        "finishtime": 657813963,
-        "won": 1264,
+        "matches": 2484,
+        "playtime": 1641258181,
+        "finished": 912,
+        "finishtime": 658522638,
+        "won": 1265,
         "lost": 1108,
         "forfeited": 69
     },
@@ -3591,13 +3591,13 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 3939,
-        "playtime": 2279075374,
+        "matches": 3941,
+        "playtime": 2279962741,
         "finished": 1497,
         "finishtime": 1029175362,
         "won": 2008,
-        "lost": 1821,
-        "forfeited": 825
+        "lost": 1823,
+        "forfeited": 826
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "nickname": "sevensix_",
