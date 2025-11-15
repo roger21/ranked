@@ -1242,13 +1242,13 @@
         },
         "pb": 467689,
         "streak": 22,
-        "matches": 1528,
-        "playtime": 1002373729,
+        "matches": 1529,
+        "playtime": 1002470945,
         "finished": 599,
         "finishtime": 445503775,
         "won": 823,
-        "lost": 636,
-        "forfeited": 136
+        "lost": 637,
+        "forfeited": 137
     },
     "3b01d4b4fef14f178b75f05c04dd34ef": {
         "nickname": "BeefSalad",
@@ -2614,13 +2614,13 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 3076,
-        "playtime": 1985191397,
+        "matches": 3077,
+        "playtime": 1985782225,
         "finished": 1041,
         "finishtime": 820512226,
         "won": 1577,
-        "lost": 1411,
-        "forfeited": 573
+        "lost": 1412,
+        "forfeited": 574
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -2866,11 +2866,11 @@
         },
         "pb": 472432,
         "streak": 12,
-        "matches": 4240,
-        "playtime": 2552747887,
-        "finished": 1495,
-        "finishtime": 1121420435,
-        "won": 2197,
+        "matches": 4241,
+        "playtime": 2553277415,
+        "finished": 1496,
+        "finishtime": 1121949963,
+        "won": 2198,
         "lost": 1926,
         "forfeited": 944
     },
