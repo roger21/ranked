@@ -1831,12 +1831,12 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 3876,
-        "playtime": 2805179124,
+        "matches": 3877,
+        "playtime": 2805950604,
         "finished": 1206,
         "finishtime": 1033135396,
         "won": 1946,
-        "lost": 1747,
+        "lost": 1748,
         "forfeited": 316
     },
     "4cf401d7b9474756b06a653867d22fca": {
@@ -2864,12 +2864,12 @@
         },
         "pb": 472432,
         "streak": 12,
-        "matches": 4276,
-        "playtime": 2574843459,
+        "matches": 4277,
+        "playtime": 2575485042,
         "finished": 1511,
         "finishtime": 1132042505,
         "won": 2217,
-        "lost": 1940,
+        "lost": 1941,
         "forfeited": 945
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -3107,12 +3107,12 @@
         },
         "pb": 397521,
         "streak": 14,
-        "matches": 4284,
-        "playtime": 2817685404,
+        "matches": 4285,
+        "playtime": 2818395482,
         "finished": 1462,
         "finishtime": 1055949387,
         "won": 2081,
-        "lost": 1875,
+        "lost": 1876,
         "forfeited": 118
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -5000,39 +5000,6 @@
         "won": 667,
         "lost": 530,
         "forfeited": 11
-    },
-    "e811fb301b1a41ea81c1f481ea93c3be": {
-        "nickname": "nyachloe",
-        "country": "us",
-        "top": {
-            "1": 1310,
-            "3": 1257,
-            "4": 1222,
-            "5": 1678,
-            "6": 1666,
-            "7": 1731,
-            "8": 1994,
-            "9": 2146
-        },
-        "points": {
-            "1": 0,
-            "3": 0,
-            "4": 0,
-            "5": 10,
-            "6": 0,
-            "7": 0,
-            "8": 18,
-            "9": 20
-        },
-        "pb": 419854,
-        "streak": 11,
-        "matches": 1639,
-        "playtime": 1010280280,
-        "finished": 602,
-        "finishtime": 417049907,
-        "won": 836,
-        "lost": 733,
-        "forfeited": 237
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
