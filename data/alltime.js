@@ -2006,13 +2006,13 @@
         },
         "pb": 447970,
         "streak": 19,
-        "matches": 1152,
-        "playtime": 723086397,
+        "matches": 1153,
+        "playtime": 723364939,
         "finished": 450,
         "finishtime": 327895820,
         "won": 661,
-        "lost": 458,
-        "forfeited": 157
+        "lost": 459,
+        "forfeited": 158
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
@@ -2164,7 +2164,7 @@
             "6": 1999,
             "7": 2001,
             "8": 2073,
-            "9": 2105
+            "9": 2107
         },
         "points": {
             "1": 0,
@@ -2179,11 +2179,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 9325,
-        "playtime": 5848220477,
-        "finished": 3369,
-        "finishtime": 2512192429,
-        "won": 4645,
+        "matches": 9326,
+        "playtime": 5848762134,
+        "finished": 3370,
+        "finishtime": 2512734086,
+        "won": 4646,
         "lost": 4375,
         "forfeited": 1542
     },
