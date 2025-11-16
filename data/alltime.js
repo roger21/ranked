@@ -67,31 +67,6 @@
         "lost": 3140,
         "forfeited": 726
     },
-    "043ef55407594d059168eb4d8e233372": {
-        "nickname": "SwisRunz",
-        "country": "pr",
-        "top": {
-            "6": 1581,
-            "7": 1796,
-            "8": 1604,
-            "9": 2022
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 461492,
-        "streak": 17,
-        "matches": 4007,
-        "playtime": 2491032788,
-        "finished": 1279,
-        "finishtime": 952285208,
-        "won": 1917,
-        "lost": 1843,
-        "forfeited": 854
-    },
     "048de51800794a208de7f01652513c32": {
         "nickname": "ChugokuPoletop",
         "country": "gr",
@@ -3624,6 +3599,25 @@
         "lost": 1826,
         "forfeited": 828
     },
+    "9e5b62e9b832416dbcff82905576f2d6": {
+        "nickname": "faluhub",
+        "country": "kr",
+        "top": {
+            "9": 2011
+        },
+        "points": {
+            "9": 0
+        },
+        "pb": 433912,
+        "streak": 7,
+        "matches": 92,
+        "playtime": 57959432,
+        "finished": 52,
+        "finishtime": 33399522,
+        "won": 61,
+        "lost": 25,
+        "forfeited": 7
+    },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "nickname": "sevensix_",
         "country": "hk",
@@ -4219,10 +4213,10 @@
         "pb": 441859,
         "streak": 12,
         "matches": 3462,
-        "playtime": 2086396702,
-        "finished": 1339,
-        "finishtime": 944299956,
-        "won": 1846,
+        "playtime": 2086759084,
+        "finished": 1340,
+        "finishtime": 944897534,
+        "won": 1847,
         "lost": 1553,
         "forfeited": 668
     },
