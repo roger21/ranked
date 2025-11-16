@@ -67,31 +67,6 @@
         "lost": 3140,
         "forfeited": 726
     },
-    "043ef55407594d059168eb4d8e233372": {
-        "nickname": "SwisRunz",
-        "country": "pr",
-        "top": {
-            "6": 1581,
-            "7": 1796,
-            "8": 1604,
-            "9": 2022
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 461492,
-        "streak": 17,
-        "matches": 4009,
-        "playtime": 2492423206,
-        "finished": 1280,
-        "finishtime": 953078048,
-        "won": 1918,
-        "lost": 1844,
-        "forfeited": 854
-    },
     "048de51800794a208de7f01652513c32": {
         "nickname": "ChugokuPoletop",
         "country": "gr",
@@ -748,8 +723,8 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 2560,
-        "playtime": 1599891333,
+        "matches": 2561,
+        "playtime": 1600484072,
         "finished": 1222,
         "finishtime": 793509461,
         "won": 1464,
@@ -4218,11 +4193,11 @@
         },
         "pb": 441859,
         "streak": 12,
-        "matches": 3464,
-        "playtime": 2087859919,
-        "finished": 1340,
-        "finishtime": 944897534,
-        "won": 1848,
+        "matches": 3465,
+        "playtime": 2088450462,
+        "finished": 1341,
+        "finishtime": 945488077,
+        "won": 1849,
         "lost": 1554,
         "forfeited": 668
     },
