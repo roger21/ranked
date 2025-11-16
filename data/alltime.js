@@ -5129,13 +5129,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2596,
-        "playtime": 1740377390,
+        "matches": 2597,
+        "playtime": 1740720581,
         "finished": 942,
         "finishtime": 755409159,
         "won": 1407,
-        "lost": 1148,
-        "forfeited": 398
+        "lost": 1149,
+        "forfeited": 399
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
