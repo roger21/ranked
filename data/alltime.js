@@ -2482,12 +2482,12 @@
         },
         "pb": 424838,
         "streak": 12,
-        "matches": 2435,
-        "playtime": 1634793143,
+        "matches": 2436,
+        "playtime": 1635307715,
         "finished": 918,
         "finishtime": 683621932,
         "won": 1286,
-        "lost": 1029,
+        "lost": 1030,
         "forfeited": 27
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
@@ -3667,13 +3667,13 @@
         },
         "pb": 424299,
         "streak": 24,
-        "matches": 8364,
-        "playtime": 5063161237,
-        "finished": 2720,
-        "finishtime": 1980423326,
-        "won": 4112,
-        "lost": 3912,
-        "forfeited": 1795
+        "matches": 8366,
+        "playtime": 5064216213,
+        "finished": 2721,
+        "finishtime": 1981027926,
+        "won": 4113,
+        "lost": 3913,
+        "forfeited": 1796
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -4370,13 +4370,13 @@
         },
         "pb": 405299,
         "streak": 18,
-        "matches": 5475,
-        "playtime": 3103163611,
+        "matches": 5476,
+        "playtime": 3103258405,
         "finished": 2352,
         "finishtime": 1553566522,
         "won": 3028,
-        "lost": 2253,
-        "forfeited": 1226
+        "lost": 2254,
+        "forfeited": 1227
     },
     "bcb0f43558d745ee977841180b121267": {
         "nickname": "pavkin",
@@ -4475,7 +4475,7 @@
             "6": 2230,
             "7": 2063,
             "8": 2014,
-            "9": 2163
+            "9": 2190
         },
         "points": {
             "1": 0,
@@ -4490,11 +4490,11 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 2521,
-        "playtime": 1603860767,
+        "matches": 2522,
+        "playtime": 1603955561,
         "finished": 1038,
         "finishtime": 742347570,
-        "won": 1391,
+        "won": 1392,
         "lost": 1072,
         "forfeited": 244
     },
