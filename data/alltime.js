@@ -296,12 +296,12 @@
         },
         "pb": 447881,
         "streak": 15,
-        "matches": 2203,
-        "playtime": 1579903215,
+        "matches": 2204,
+        "playtime": 1580521200,
         "finished": 830,
         "finishtime": 661547581,
         "won": 1201,
-        "lost": 950,
+        "lost": 951,
         "forfeited": 47
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
@@ -3237,13 +3237,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11085,
-        "playtime": 7069024638,
+        "matches": 11086,
+        "playtime": 7069476211,
         "finished": 3755,
         "finishtime": 2942980371,
         "won": 5623,
-        "lost": 5237,
-        "forfeited": 2467
+        "lost": 5238,
+        "forfeited": 2468
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3592,7 +3592,7 @@
         "forfeited": 1021
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
-        "nickname": "loodlow",
+        "nickname": "loodlow_CAR89",
         "country": "ua",
         "top": {
             "2": 1597,
@@ -4915,12 +4915,12 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 8751,
-        "playtime": 5567487493,
+        "matches": 8752,
+        "playtime": 5568417130,
         "finished": 2660,
         "finishtime": 2095036406,
         "won": 4346,
-        "lost": 4140,
+        "lost": 4141,
         "forfeited": 2056
     },
     "e43dad544b244da9b690a12fdc8626dc": {
