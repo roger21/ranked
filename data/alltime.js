@@ -1831,12 +1831,12 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 3905,
-        "playtime": 2822726098,
+        "matches": 3906,
+        "playtime": 2823316240,
         "finished": 1216,
         "finishtime": 1039965520,
         "won": 1962,
-        "lost": 1758,
+        "lost": 1759,
         "forfeited": 319
     },
     "4cf401d7b9474756b06a653867d22fca": {
@@ -2612,12 +2612,12 @@
         },
         "pb": 519203,
         "streak": 12,
-        "matches": 3125,
-        "playtime": 2013274727,
+        "matches": 3126,
+        "playtime": 2013886357,
         "finished": 1060,
         "finishtime": 833860136,
         "won": 1602,
-        "lost": 1434,
+        "lost": 1435,
         "forfeited": 589
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
@@ -3108,7 +3108,7 @@
         "forfeited": 208
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
-        "nickname": "NottAntoo",
+        "nickname": "Antoo_CAR89",
         "country": "it",
         "top": {
             "2": 1538,
@@ -4317,11 +4317,11 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 6717,
-        "playtime": 3928543342,
-        "finished": 2484,
-        "finishtime": 1714851665,
-        "won": 3392,
+        "matches": 6719,
+        "playtime": 3929597220,
+        "finished": 2485,
+        "finishtime": 1715628586,
+        "won": 3394,
         "lost": 3104,
         "forfeited": 1285
     },
@@ -4552,13 +4552,13 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5213,
-        "playtime": 3348204332,
+        "matches": 5214,
+        "playtime": 3348481289,
         "finished": 1972,
         "finishtime": 1427441301,
         "won": 2683,
-        "lost": 2417,
-        "forfeited": 751
+        "lost": 2418,
+        "forfeited": 752
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
         "nickname": "iKme_",
