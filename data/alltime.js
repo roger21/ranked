@@ -296,13 +296,13 @@
         },
         "pb": 447881,
         "streak": 15,
-        "matches": 2211,
-        "playtime": 1584772464,
+        "matches": 2212,
+        "playtime": 1585143111,
         "finished": 834,
         "finishtime": 664140019,
         "won": 1205,
-        "lost": 954,
-        "forfeited": 48
+        "lost": 955,
+        "forfeited": 49
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
@@ -1041,7 +1041,7 @@
         "forfeited": 30
     },
     "2fe70934e7be458dba747c4ac830391c": {
-        "nickname": "nhb_",
+        "nickname": "carl_CAR89",
         "country": null,
         "top": {
             "2": 793,
@@ -1467,7 +1467,7 @@
             "6": 2022,
             "7": 1722,
             "8": 2109,
-            "9": 2055
+            "9": 2071
         },
         "points": {
             "1": 0,
@@ -1481,11 +1481,11 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 1656,
-        "playtime": 981470407,
-        "finished": 692,
-        "finishtime": 476570512,
-        "won": 888,
+        "matches": 1657,
+        "playtime": 982164149,
+        "finished": 693,
+        "finishtime": 477264254,
+        "won": 889,
         "lost": 729,
         "forfeited": 359
     },
@@ -3272,11 +3272,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 7135,
-        "playtime": 4810965784,
+        "matches": 7136,
+        "playtime": 4811336431,
         "finished": 2371,
         "finishtime": 1877604365,
-        "won": 3576,
+        "won": 3577,
         "lost": 3362,
         "forfeited": 804
     },
@@ -4412,12 +4412,12 @@
         },
         "pb": 463273,
         "streak": 14,
-        "matches": 1070,
-        "playtime": 638973774,
+        "matches": 1071,
+        "playtime": 639508794,
         "finished": 369,
         "finishtime": 250194728,
         "won": 536,
-        "lost": 442,
+        "lost": 443,
         "forfeited": 190
     },
     "be7a79f3331042f19c07230752b26725": {
