@@ -59,13 +59,13 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6724,
-        "playtime": 4411962512,
+        "matches": 6725,
+        "playtime": 4412589975,
         "finished": 2314,
         "finishtime": 1746646030,
         "won": 3347,
-        "lost": 3146,
-        "forfeited": 727
+        "lost": 3147,
+        "forfeited": 728
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "ChugokuPoletop",
@@ -3237,12 +3237,12 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11095,
-        "playtime": 7074180771,
+        "matches": 11096,
+        "playtime": 7074790568,
         "finished": 3757,
         "finishtime": 2944318222,
         "won": 5628,
-        "lost": 5242,
+        "lost": 5243,
         "forfeited": 2471
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
@@ -3443,12 +3443,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 7399,
-        "playtime": 4611281460,
+        "matches": 7400,
+        "playtime": 4612002152,
         "finished": 2861,
         "finishtime": 1965085325,
         "won": 3708,
-        "lost": 3457,
+        "lost": 3458,
         "forfeited": 833
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -3925,11 +3925,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 2880,
-        "playtime": 1665701898,
+        "matches": 2881,
+        "playtime": 1666202128,
         "finished": 1626,
         "finishtime": 974188303,
-        "won": 1942,
+        "won": 1943,
         "lost": 884,
         "forfeited": 38
     },
@@ -4253,13 +4253,13 @@
         },
         "pb": 441859,
         "streak": 12,
-        "matches": 3535,
-        "playtime": 2129883161,
+        "matches": 3536,
+        "playtime": 2130383391,
         "finished": 1371,
         "finishtime": 964554315,
         "won": 1882,
-        "lost": 1590,
-        "forfeited": 673
+        "lost": 1591,
+        "forfeited": 674
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
         "nickname": "xShatter",
