@@ -4915,13 +4915,13 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 8778,
-        "playtime": 5584059238,
+        "matches": 8779,
+        "playtime": 5584809937,
         "finished": 2673,
         "finishtime": 2103724371,
         "won": 4359,
-        "lost": 4152,
-        "forfeited": 2060
+        "lost": 4153,
+        "forfeited": 2061
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
