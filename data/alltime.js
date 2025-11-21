@@ -1901,12 +1901,12 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 3377,
-        "playtime": 2058706541,
+        "matches": 3378,
+        "playtime": 2059492621,
         "finished": 1257,
         "finishtime": 865344161,
         "won": 1702,
-        "lost": 1539,
+        "lost": 1540,
         "forfeited": 526
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
@@ -2254,7 +2254,7 @@
             "6": 1582,
             "7": 2203,
             "8": 2491,
-            "9": 2650
+            "9": 2654
         },
         "points": {
             "6": 0,
@@ -2263,12 +2263,12 @@
             "9": 128
         },
         "pb": 404464,
-        "streak": 18,
-        "matches": 3850,
-        "playtime": 2219382050,
-        "finished": 1907,
-        "finishtime": 1180490547,
-        "won": 2301,
+        "streak": 19,
+        "matches": 3851,
+        "playtime": 2219950213,
+        "finished": 1908,
+        "finishtime": 1181058710,
+        "won": 2302,
         "lost": 1459,
         "forfeited": 316
     },
@@ -3591,13 +3591,13 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 4059,
-        "playtime": 2346664886,
+        "matches": 4060,
+        "playtime": 2346940266,
         "finished": 1541,
         "finishtime": 1057240780,
         "won": 2063,
-        "lost": 1883,
-        "forfeited": 846
+        "lost": 1884,
+        "forfeited": 847
     },
     "9e5b62e9b832416dbcff82905576f2d6": {
         "nickname": "faluhub",
@@ -4744,12 +4744,12 @@
         },
         "pb": 414438,
         "streak": 11,
-        "matches": 3988,
-        "playtime": 2753337982,
+        "matches": 3990,
+        "playtime": 2754181525,
         "finished": 1310,
         "finishtime": 1023264408,
-        "won": 1993,
-        "lost": 1763,
+        "won": 1994,
+        "lost": 1764,
         "forfeited": 210
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
