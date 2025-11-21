@@ -1901,11 +1901,11 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 3376,
-        "playtime": 2058100014,
-        "finished": 1256,
-        "finishtime": 864737634,
-        "won": 1701,
+        "matches": 3377,
+        "playtime": 2058706541,
+        "finished": 1257,
+        "finishtime": 865344161,
+        "won": 1702,
         "lost": 1539,
         "forfeited": 526
     },
@@ -2254,7 +2254,7 @@
             "6": 1582,
             "7": 2203,
             "8": 2491,
-            "9": 2645
+            "9": 2650
         },
         "points": {
             "6": 0,
@@ -2264,11 +2264,11 @@
         },
         "pb": 404464,
         "streak": 18,
-        "matches": 3849,
-        "playtime": 2218726497,
-        "finished": 1906,
-        "finishtime": 1179834994,
-        "won": 2300,
+        "matches": 3850,
+        "playtime": 2219382050,
+        "finished": 1907,
+        "finishtime": 1180490547,
+        "won": 2301,
         "lost": 1459,
         "forfeited": 316
     },
@@ -2459,7 +2459,7 @@
             "6": 1520,
             "7": 1952,
             "8": 1922,
-            "9": 1982
+            "9": 2001
         },
         "points": {
             "1": 0,
@@ -2474,11 +2474,11 @@
         },
         "pb": 489065,
         "streak": 13,
-        "matches": 4933,
-        "playtime": 3229349086,
+        "matches": 4934,
+        "playtime": 3229754162,
         "finished": 1628,
         "finishtime": 1277169529,
-        "won": 2500,
+        "won": 2501,
         "lost": 2234,
         "forfeited": 771
     },
@@ -3591,13 +3591,13 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 4056,
-        "playtime": 2345008449,
+        "matches": 4058,
+        "playtime": 2346151074,
         "finished": 1540,
         "finishtime": 1056726968,
         "won": 2062,
-        "lost": 1882,
-        "forfeited": 845
+        "lost": 1883,
+        "forfeited": 846
     },
     "9e5b62e9b832416dbcff82905576f2d6": {
         "nickname": "faluhub",
@@ -4476,12 +4476,12 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 2574,
-        "playtime": 1635501837,
+        "matches": 2575,
+        "playtime": 1636157390,
         "finished": 1056,
         "finishtime": 753580691,
         "won": 1417,
-        "lost": 1096,
+        "lost": 1097,
         "forfeited": 244
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
