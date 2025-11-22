@@ -801,37 +801,6 @@
         "lost": 1756,
         "forfeited": 211
     },
-    "26c82339872246c489bf285760ca1af3": {
-        "nickname": "novadud",
-        "country": "us",
-        "top": {
-            "3": 1538,
-            "4": 1728,
-            "5": 1429,
-            "6": 1633,
-            "7": 1792,
-            "8": 1801,
-            "9": 2122
-        },
-        "points": {
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 5,
-            "7": 0,
-            "8": 0,
-            "9": 9
-        },
-        "pb": 446180,
-        "streak": 10,
-        "matches": 1461,
-        "playtime": 1022799002,
-        "finished": 535,
-        "finishtime": 408468776,
-        "won": 760,
-        "lost": 632,
-        "forfeited": 35
-    },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
         "country": "ca",
@@ -2043,13 +2012,13 @@
         },
         "pb": 406950,
         "streak": 13,
-        "matches": 2536,
-        "playtime": 1512726945,
+        "matches": 2537,
+        "playtime": 1513255953,
         "finished": 1040,
         "finishtime": 686597613,
         "won": 1344,
-        "lost": 1092,
-        "forfeited": 381
+        "lost": 1093,
+        "forfeited": 382
     },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
@@ -3408,12 +3377,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 7454,
-        "playtime": 4643270557,
+        "matches": 7455,
+        "playtime": 4643863870,
         "finished": 2886,
         "finishtime": 1981329874,
         "won": 3738,
-        "lost": 3481,
+        "lost": 3482,
         "forfeited": 838
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
