@@ -2006,12 +2006,12 @@
         },
         "pb": 447970,
         "streak": 19,
-        "matches": 1197,
-        "playtime": 748827662,
+        "matches": 1198,
+        "playtime": 749486709,
         "finished": 467,
         "finishtime": 338842859,
         "won": 686,
-        "lost": 474,
+        "lost": 475,
         "forfeited": 168
     },
     "59f81e4943014bffa80513d56de77728": {
