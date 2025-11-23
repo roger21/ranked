@@ -2191,7 +2191,7 @@
             "6": 2248,
             "7": 2138,
             "8": 1993,
-            "9": 1945
+            "9": 1946
         },
         "points": {
             "1": 0,
@@ -2206,11 +2206,11 @@
         },
         "pb": 418610,
         "streak": 13,
-        "matches": 2807,
-        "playtime": 1729790168,
-        "finished": 1126,
-        "finishtime": 781882185,
-        "won": 1491,
+        "matches": 2808,
+        "playtime": 1730382157,
+        "finished": 1127,
+        "finishtime": 782474174,
+        "won": 1492,
         "lost": 1188,
         "forfeited": 341
     },
@@ -3385,12 +3385,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 7471,
-        "playtime": 4653242144,
+        "matches": 7472,
+        "playtime": 4654374091,
         "finished": 2891,
         "finishtime": 1984361169,
         "won": 3744,
-        "lost": 3492,
+        "lost": 3493,
         "forfeited": 840
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -3715,11 +3715,11 @@
         },
         "pb": 417343,
         "streak": 11,
-        "matches": 3724,
-        "playtime": 2523723361,
-        "finished": 1340,
-        "finishtime": 999023080,
-        "won": 1887,
+        "matches": 3725,
+        "playtime": 2524855308,
+        "finished": 1341,
+        "finishtime": 1000155027,
+        "won": 1888,
         "lost": 1672,
         "forfeited": 177
     },
@@ -4696,7 +4696,7 @@
             "6": 1898,
             "7": 1838,
             "8": 1761,
-            "9": 2124
+            "9": 2136
         },
         "points": {
             "1": 0,
@@ -4711,11 +4711,11 @@
         },
         "pb": 414438,
         "streak": 11,
-        "matches": 3995,
-        "playtime": 2757430646,
-        "finished": 1314,
-        "finishtime": 1025845119,
-        "won": 1998,
+        "matches": 3996,
+        "playtime": 2758362975,
+        "finished": 1315,
+        "finishtime": 1026777448,
+        "won": 1999,
         "lost": 1765,
         "forfeited": 210
     },
