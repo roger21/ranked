@@ -1483,12 +1483,12 @@
         },
         "pb": 431959,
         "streak": 14,
-        "matches": 4010,
-        "playtime": 2690229561,
+        "matches": 4011,
+        "playtime": 2690845538,
         "finished": 1462,
         "finishtime": 1093497281,
         "won": 2063,
-        "lost": 1778,
+        "lost": 1779,
         "forfeited": 203
     },
     "43a6669e11474827802de8401a373169": {
@@ -2191,7 +2191,7 @@
             "6": 2248,
             "7": 2138,
             "8": 1993,
-            "9": 1993
+            "9": 2020
         },
         "points": {
             "1": 0,
@@ -2206,11 +2206,11 @@
         },
         "pb": 418610,
         "streak": 13,
-        "matches": 2814,
-        "playtime": 1734031935,
-        "finished": 1130,
-        "finishtime": 784308886,
-        "won": 1496,
+        "matches": 2815,
+        "playtime": 1734647912,
+        "finished": 1131,
+        "finishtime": 784924863,
+        "won": 1497,
         "lost": 1190,
         "forfeited": 341
     },
@@ -4746,13 +4746,13 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 3488,
-        "playtime": 2267778623,
+        "matches": 3490,
+        "playtime": 2268576271,
         "finished": 1249,
         "finishtime": 954201333,
-        "won": 1791,
-        "lost": 1584,
-        "forfeited": 427
+        "won": 1792,
+        "lost": 1585,
+        "forfeited": 428
     },
     "d7d0b271136647fea7398a444ab51c13": {
         "nickname": "JustAltoid",
