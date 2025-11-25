@@ -461,11 +461,11 @@
         },
         "pb": 439515,
         "streak": 10,
-        "matches": 3884,
-        "playtime": 2756452468,
-        "finished": 1167,
-        "finishtime": 955691460,
-        "won": 1952,
+        "matches": 3885,
+        "playtime": 2757035356,
+        "finished": 1168,
+        "finishtime": 956274348,
+        "won": 1953,
         "lost": 1716,
         "forfeited": 462
     },
@@ -1448,13 +1448,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 8828,
-        "playtime": 5598028386,
+        "matches": 8829,
+        "playtime": 5598631089,
         "finished": 3186,
         "finishtime": 2326863690,
         "won": 4398,
-        "lost": 4135,
-        "forfeited": 1396
+        "lost": 4136,
+        "forfeited": 1397
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -2542,13 +2542,13 @@
         },
         "pb": 475558,
         "streak": 12,
-        "matches": 567,
-        "playtime": 339368643,
+        "matches": 568,
+        "playtime": 340066464,
         "finished": 254,
         "finishtime": 176524909,
         "won": 340,
-        "lost": 212,
-        "forfeited": 110
+        "lost": 213,
+        "forfeited": 111
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
@@ -4975,12 +4975,12 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 8846,
-        "playtime": 5625624433,
+        "matches": 8847,
+        "playtime": 5626207321,
         "finished": 2705,
         "finishtime": 2123806615,
         "won": 4395,
-        "lost": 4182,
+        "lost": 4183,
         "forfeited": 2069
     },
     "e43dad544b244da9b690a12fdc8626dc": {
