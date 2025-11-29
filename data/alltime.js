@@ -2794,11 +2794,11 @@
         },
         "pb": 456918,
         "streak": 12,
-        "matches": 4336,
-        "playtime": 2609018464,
-        "finished": 1530,
-        "finishtime": 1144448404,
-        "won": 2246,
+        "matches": 4337,
+        "playtime": 2609644209,
+        "finished": 1531,
+        "finishtime": 1145074149,
+        "won": 2247,
         "lost": 1968,
         "forfeited": 949
     },
@@ -2941,31 +2941,6 @@
         "won": 1843,
         "lost": 1725,
         "forfeited": 659
-    },
-    "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
-        "country": "jp",
-        "top": {
-            "6": 933,
-            "7": 1664,
-            "8": 1851,
-            "9": 2165
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 20
-        },
-        "pb": 431658,
-        "streak": 14,
-        "matches": 5989,
-        "playtime": 3545119166,
-        "finished": 2036,
-        "finishtime": 1462451495,
-        "won": 2984,
-        "lost": 2813,
-        "forfeited": 1547
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
@@ -3511,11 +3486,11 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 4150,
-        "playtime": 2394283378,
-        "finished": 1574,
-        "finishtime": 1077515975,
-        "won": 2111,
+        "matches": 4151,
+        "playtime": 2394953098,
+        "finished": 1575,
+        "finishtime": 1078185695,
+        "won": 2112,
         "lost": 1925,
         "forfeited": 864
     },
@@ -4895,13 +4870,13 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 9024,
-        "playtime": 5734639416,
+        "matches": 9025,
+        "playtime": 5735165599,
         "finished": 2770,
         "finishtime": 2168571544,
         "won": 4477,
-        "lost": 4271,
-        "forfeited": 2095
+        "lost": 4272,
+        "forfeited": 2096
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
