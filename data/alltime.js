@@ -688,13 +688,13 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 6805,
-        "playtime": 4211140610,
+        "matches": 6806,
+        "playtime": 4211487657,
         "finished": 2578,
         "finishtime": 1779421537,
         "won": 3419,
-        "lost": 3094,
-        "forfeited": 710
+        "lost": 3095,
+        "forfeited": 711
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
@@ -1066,10 +1066,10 @@
         "pb": 378719,
         "streak": 13,
         "matches": 6413,
-        "playtime": 3823954863,
-        "finished": 2084,
-        "finishtime": 1471092750,
-        "won": 3041,
+        "playtime": 3824337235,
+        "finished": 2085,
+        "finishtime": 1471651840,
+        "won": 3042,
         "lost": 2896,
         "forfeited": 1289
     },
@@ -1761,12 +1761,12 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 3298,
-        "playtime": 1998974016,
+        "matches": 3299,
+        "playtime": 1999611423,
         "finished": 1105,
         "finishtime": 824491994,
         "won": 1627,
-        "lost": 1407,
+        "lost": 1408,
         "forfeited": 500
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -5151,41 +5151,6 @@
         "won": 1410,
         "lost": 1151,
         "forfeited": 400
-    },
-    "fb2bd99d6f664e7b96cc6a24834b9a76": {
-        "nickname": "L9_YURILOVER21",
-        "country": "ar",
-        "top": {
-            "1": 1572,
-            "2": 1410,
-            "3": 1486,
-            "4": 1655,
-            "5": 1540,
-            "6": 1435,
-            "7": 1613,
-            "8": 1955,
-            "9": 2142
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 18,
-            "9": 20
-        },
-        "pb": 458729,
-        "streak": 13,
-        "matches": 1252,
-        "playtime": 822386955,
-        "finished": 451,
-        "finishtime": 337136132,
-        "won": 664,
-        "lost": 533,
-        "forfeited": 89
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
