@@ -2476,13 +2476,13 @@
         },
         "pb": 475558,
         "streak": 12,
-        "matches": 619,
-        "playtime": 366501014,
+        "matches": 621,
+        "playtime": 367353239,
         "finished": 281,
         "finishtime": 193447366,
         "won": 374,
-        "lost": 228,
-        "forfeited": 124
+        "lost": 230,
+        "forfeited": 126
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
@@ -4325,7 +4325,7 @@
             "6": 1593,
             "7": 1602,
             "8": 1661,
-            "9": 2108
+            "9": 2126
         },
         "points": {
             "1": 0,
@@ -4340,11 +4340,11 @@
         },
         "pb": 441601,
         "streak": 12,
-        "matches": 639,
-        "playtime": 416090818,
-        "finished": 272,
-        "finishtime": 197870134,
-        "won": 399,
+        "matches": 640,
+        "playtime": 416595646,
+        "finished": 273,
+        "finishtime": 198374962,
+        "won": 400,
         "lost": 217,
         "forfeited": 13
     },
@@ -4445,11 +4445,11 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5346,
-        "playtime": 3422732099,
-        "finished": 2031,
-        "finishtime": 1464820585,
-        "won": 2751,
+        "matches": 5347,
+        "playtime": 3423348800,
+        "finished": 2032,
+        "finishtime": 1465437286,
+        "won": 2752,
         "lost": 2476,
         "forfeited": 768
     },
@@ -4573,12 +4573,12 @@
         },
         "pb": 495351,
         "streak": 11,
-        "matches": 4239,
-        "playtime": 2965661048,
+        "matches": 4241,
+        "playtime": 2966820227,
         "finished": 1407,
         "finishtime": 1104879908,
         "won": 2119,
-        "lost": 1972,
+        "lost": 1974,
         "forfeited": 247
     },
     "d0acbca0d50e4824bc38a44395cce096": {
@@ -5124,6 +5124,41 @@
         "won": 1410,
         "lost": 1151,
         "forfeited": 400
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "tucrack",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2142
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 20
+        },
+        "pb": 458729,
+        "streak": 13,
+        "matches": 1263,
+        "playtime": 828914765,
+        "finished": 456,
+        "finishtime": 339934499,
+        "won": 670,
+        "lost": 538,
+        "forfeited": 89
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "SCHWARZER_RABE97",
