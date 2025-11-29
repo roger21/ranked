@@ -3486,13 +3486,13 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 4147,
-        "playtime": 2393011358,
+        "matches": 4148,
+        "playtime": 2393032632,
         "finished": 1572,
         "finishtime": 1076265229,
         "won": 2109,
-        "lost": 1924,
-        "forfeited": 863
+        "lost": 1925,
+        "forfeited": 864
     },
     "9e5b62e9b832416dbcff82905576f2d6": {
         "nickname": "faluhub",
