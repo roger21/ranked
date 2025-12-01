@@ -67,6 +67,37 @@
         "lost": 3199,
         "forfeited": 731
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "ChugokuPoletop",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2064,
+            "9": 2334
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 28,
+            "9": 68
+        },
+        "pb": 379698,
+        "streak": 9,
+        "matches": 2629,
+        "playtime": 1475547717,
+        "finished": 965,
+        "finishtime": 641750828,
+        "won": 1317,
+        "lost": 1224,
+        "forfeited": 574
+    },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "epik48",
         "country": "br",
@@ -465,40 +496,13 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 3936,
-        "playtime": 2786601771,
+        "matches": 3937,
+        "playtime": 2787525501,
         "finished": 1189,
         "finishtime": 969687113,
         "won": 1979,
-        "lost": 1739,
+        "lost": 1740,
         "forfeited": 468
-    },
-    "132807fea3a54a02b6b1ad057430b002": {
-        "nickname": "slowunc",
-        "country": "de",
-        "top": {
-            "5": 1301,
-            "6": 1703,
-            "7": 1812,
-            "8": 1961,
-            "9": 2177
-        },
-        "points": {
-            "5": 0,
-            "6": 25,
-            "7": 40,
-            "8": 20,
-            "9": 31
-        },
-        "pb": 474212,
-        "streak": 12,
-        "matches": 5143,
-        "playtime": 3346679851,
-        "finished": 1602,
-        "finishtime": 1241230251,
-        "won": 2562,
-        "lost": 2392,
-        "forfeited": 877
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -1734,13 +1738,13 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 3331,
-        "playtime": 2019027343,
+        "matches": 3332,
+        "playtime": 2019287980,
         "finished": 1117,
         "finishtime": 833168516,
         "won": 1643,
-        "lost": 1425,
-        "forfeited": 505
+        "lost": 1426,
+        "forfeited": 506
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
@@ -2822,7 +2826,7 @@
             "6": 1879,
             "7": 1945,
             "8": 1908,
-            "9": 2126
+            "9": 2139
         },
         "points": {
             "1": 0,
@@ -2837,11 +2841,11 @@
         },
         "pb": 461933,
         "streak": 12,
-        "matches": 3073,
-        "playtime": 2055647456,
-        "finished": 1153,
-        "finishtime": 859764052,
-        "won": 1565,
+        "matches": 3074,
+        "playtime": 2056344795,
+        "finished": 1154,
+        "finishtime": 860461391,
+        "won": 1566,
         "lost": 1385,
         "forfeited": 147
     },
