@@ -129,13 +129,13 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2450,
-        "playtime": 1593486292,
+        "matches": 2451,
+        "playtime": 1593889984,
         "finished": 873,
         "finishtime": 658032497,
         "won": 1263,
-        "lost": 1071,
-        "forfeited": 267
+        "lost": 1072,
+        "forfeited": 268
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -692,13 +692,13 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 6839,
-        "playtime": 4230136030,
+        "matches": 6840,
+        "playtime": 4230738215,
         "finished": 2589,
         "finishtime": 1786715117,
         "won": 3434,
-        "lost": 3113,
-        "forfeited": 713
+        "lost": 3114,
+        "forfeited": 714
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
@@ -3356,11 +3356,11 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 5389,
-        "playtime": 3477167968,
+        "matches": 5390,
+        "playtime": 3477574162,
         "finished": 1838,
         "finishtime": 1373208795,
-        "won": 2717,
+        "won": 2718,
         "lost": 2527,
         "forfeited": 855
     },
@@ -4793,13 +4793,13 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 9108,
-        "playtime": 5786928523,
+        "matches": 9109,
+        "playtime": 5787568787,
         "finished": 2800,
         "finishtime": 2189689726,
         "won": 4515,
-        "lost": 4311,
-        "forfeited": 2117
+        "lost": 4312,
+        "forfeited": 2118
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
