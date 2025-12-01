@@ -2942,13 +2942,13 @@
         },
         "pb": 500589,
         "streak": 9,
-        "matches": 3763,
-        "playtime": 2535719334,
+        "matches": 3764,
+        "playtime": 2536848119,
         "finished": 1074,
         "finishtime": 895923594,
         "won": 1849,
-        "lost": 1733,
-        "forfeited": 661
+        "lost": 1734,
+        "forfeited": 662
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
@@ -3356,12 +3356,12 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 5380,
-        "playtime": 3471746557,
+        "matches": 5381,
+        "playtime": 3472386523,
         "finished": 1833,
         "finishtime": 1369906254,
         "won": 2712,
-        "lost": 2523,
+        "lost": 2524,
         "forfeited": 854
     },
     "99aa9e0e8034479a90259e244dfb9029": {
