@@ -59,13 +59,13 @@
         },
         "pb": 446535,
         "streak": 11,
-        "matches": 6845,
-        "playtime": 4489671535,
+        "matches": 6846,
+        "playtime": 4489966141,
         "finished": 2363,
         "finishtime": 1779777794,
         "won": 3410,
-        "lost": 3203,
-        "forfeited": 731
+        "lost": 3204,
+        "forfeited": 732
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "ChugokuPoletop",
@@ -1769,13 +1769,13 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2341,
-        "playtime": 1512296959,
+        "matches": 2342,
+        "playtime": 1512746581,
         "finished": 878,
         "finishtime": 618252712,
         "won": 1222,
-        "lost": 1040,
-        "forfeited": 118
+        "lost": 1041,
+        "forfeited": 119
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
@@ -3150,13 +3150,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11243,
-        "playtime": 7156314476,
+        "matches": 11244,
+        "playtime": 7156581007,
         "finished": 3804,
         "finishtime": 2976893963,
         "won": 5697,
-        "lost": 5321,
-        "forfeited": 2515
+        "lost": 5322,
+        "forfeited": 2516
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -4828,11 +4828,11 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 9121,
-        "playtime": 5795259568,
+        "matches": 9122,
+        "playtime": 5795554174,
         "finished": 2804,
         "finishtime": 2192363321,
-        "won": 4520,
+        "won": 4521,
         "lost": 4318,
         "forfeited": 2121
     },
