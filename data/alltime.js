@@ -4160,13 +4160,13 @@
         },
         "pb": 404473,
         "streak": 15,
-        "matches": 6889,
-        "playtime": 4026448910,
+        "matches": 6890,
+        "playtime": 4026870679,
         "finished": 2556,
         "finishtime": 1759515027,
         "won": 3485,
-        "lost": 3180,
-        "forfeited": 1306
+        "lost": 3181,
+        "forfeited": 1307
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
         "nickname": "Sadekeppi",
