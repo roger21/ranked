@@ -4968,13 +4968,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 6279,
-        "playtime": 3498934094,
+        "matches": 6280,
+        "playtime": 3499401680,
         "finished": 2345,
         "finishtime": 1559048486,
         "won": 3192,
-        "lost": 2907,
-        "forfeited": 1717
+        "lost": 2908,
+        "forfeited": 1718
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
