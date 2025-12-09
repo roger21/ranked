@@ -4651,13 +4651,13 @@
         },
         "pb": 437835,
         "streak": 14,
-        "matches": 7807,
-        "playtime": 5048129008,
+        "matches": 7809,
+        "playtime": 5049063492,
         "finished": 2593,
         "finishtime": 1910690923,
         "won": 3851,
-        "lost": 3591,
-        "forfeited": 1017
+        "lost": 3593,
+        "forfeited": 1018
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "Shiny_Chingling",
