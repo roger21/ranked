@@ -129,12 +129,12 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2489,
-        "playtime": 1615363131,
+        "matches": 2490,
+        "playtime": 1616469710,
         "finished": 885,
         "finishtime": 665735357,
         "won": 1281,
-        "lost": 1088,
+        "lost": 1089,
         "forfeited": 275
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -2235,13 +2235,13 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3562,
-        "playtime": 2253138384,
+        "matches": 3563,
+        "playtime": 2253661060,
         "finished": 1207,
         "finishtime": 892146454,
         "won": 1782,
-        "lost": 1610,
-        "forfeited": 500
+        "lost": 1611,
+        "forfeited": 501
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
         "nickname": "zidouri",
