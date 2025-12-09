@@ -129,12 +129,12 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2490,
-        "playtime": 1616469710,
+        "matches": 2491,
+        "playtime": 1617320818,
         "finished": 885,
         "finishtime": 665735357,
         "won": 1281,
-        "lost": 1089,
+        "lost": 1090,
         "forfeited": 275
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -1161,7 +1161,7 @@
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "_qed",
-        "country": "aq",
+        "country": "kr",
         "top": {
             "1": 1802,
             "2": 1813,
@@ -2235,11 +2235,11 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3563,
-        "playtime": 2253661060,
-        "finished": 1207,
-        "finishtime": 892146454,
-        "won": 1782,
+        "matches": 3564,
+        "playtime": 2254512168,
+        "finished": 1208,
+        "finishtime": 892997562,
+        "won": 1783,
         "lost": 1611,
         "forfeited": 501
     },
