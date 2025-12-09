@@ -94,13 +94,13 @@
         },
         "pb": 427073,
         "streak": 13,
-        "matches": 3871,
-        "playtime": 2239839979,
+        "matches": 3875,
+        "playtime": 2241522516,
         "finished": 1232,
         "finishtime": 870249233,
-        "won": 1938,
-        "lost": 1806,
-        "forfeited": 1069
+        "won": 1940,
+        "lost": 1808,
+        "forfeited": 1070
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -1151,12 +1151,12 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 16537,
-        "playtime": 10426710639,
-        "finished": 7069,
-        "finishtime": 4844113979,
-        "won": 9153,
-        "lost": 7123,
+        "matches": 16540,
+        "playtime": 10428342050,
+        "finished": 7070,
+        "finishtime": 4844692762,
+        "won": 9155,
+        "lost": 7124,
         "forfeited": 998
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1291,11 +1291,11 @@
         },
         "pb": 396692,
         "streak": 29,
-        "matches": 3964,
-        "playtime": 2386369955,
-        "finished": 2260,
-        "finishtime": 1424118227,
-        "won": 2771,
+        "matches": 3966,
+        "playtime": 2387226271,
+        "finished": 2261,
+        "finishtime": 1424659225,
+        "won": 2773,
         "lost": 1075,
         "forfeited": 33
     },
@@ -2152,12 +2152,12 @@
         },
         "pb": 418610,
         "streak": 13,
-        "matches": 3046,
-        "playtime": 1866859285,
-        "finished": 1228,
-        "finishtime": 843856400,
-        "won": 1620,
-        "lost": 1295,
+        "matches": 3048,
+        "playtime": 1868397299,
+        "finished": 1229,
+        "finishtime": 844593385,
+        "won": 1621,
+        "lost": 1296,
         "forfeited": 354
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
@@ -3964,31 +3964,6 @@
         "lost": 1168,
         "forfeited": 315
     },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "yxqa",
-        "country": "dj",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2151
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3
-        },
-        "pb": 465146,
-        "streak": 11,
-        "matches": 7423,
-        "playtime": 4517116746,
-        "finished": 2332,
-        "finishtime": 1768660436,
-        "won": 3641,
-        "lost": 3528,
-        "forfeited": 2120
-    },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
         "country": "de",
@@ -4084,12 +4059,12 @@
         },
         "pb": 428759,
         "streak": 12,
-        "matches": 3695,
-        "playtime": 2222234542,
+        "matches": 3696,
+        "playtime": 2222971527,
         "finished": 1435,
         "finishtime": 1004204887,
         "won": 1963,
-        "lost": 1661,
+        "lost": 1662,
         "forfeited": 686
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
@@ -4218,13 +4193,13 @@
         },
         "pb": 405299,
         "streak": 18,
-        "matches": 5661,
-        "playtime": 3205119188,
+        "matches": 5663,
+        "playtime": 3206209036,
         "finished": 2438,
         "finishtime": 1604177253,
         "won": 3126,
-        "lost": 2337,
-        "forfeited": 1251
+        "lost": 2339,
+        "forfeited": 1253
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
