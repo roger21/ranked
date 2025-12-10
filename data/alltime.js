@@ -399,11 +399,11 @@
         },
         "pb": 413607,
         "streak": 14,
-        "matches": 4051,
-        "playtime": 2440728214,
-        "finished": 1798,
-        "finishtime": 1185333861,
-        "won": 2194,
+        "matches": 4052,
+        "playtime": 2441342829,
+        "finished": 1799,
+        "finishtime": 1185948476,
+        "won": 2195,
         "lost": 1747,
         "forfeited": 441
     },
@@ -974,12 +974,12 @@
         },
         "pb": 392826,
         "streak": 11,
-        "matches": 5022,
-        "playtime": 2955341022,
+        "matches": 5023,
+        "playtime": 2955955637,
         "finished": 2035,
         "finishtime": 1313959255,
         "won": 2588,
-        "lost": 2181,
+        "lost": 2182,
         "forfeited": 582
     },
     "2f59967f6a7841ab840e2cb032589a04": {
@@ -3913,12 +3913,12 @@
         },
         "pb": 416306,
         "streak": 13,
-        "matches": 4891,
-        "playtime": 3200554601,
+        "matches": 4892,
+        "playtime": 3201100664,
         "finished": 1783,
         "finishtime": 1262045754,
         "won": 2527,
-        "lost": 2144,
+        "lost": 2145,
         "forfeited": 283
     },
     "addd890764404097b3f12acdde2adf33": {
@@ -3942,11 +3942,11 @@
         },
         "pb": 451154,
         "streak": 11,
-        "matches": 4082,
-        "playtime": 2521540628,
-        "finished": 1456,
-        "finishtime": 1027920546,
-        "won": 2063,
+        "matches": 4083,
+        "playtime": 2522086691,
+        "finished": 1457,
+        "finishtime": 1028466609,
+        "won": 2064,
         "lost": 1876,
         "forfeited": 548
     },
@@ -4246,31 +4246,6 @@
         "won": 3130,
         "lost": 2342,
         "forfeited": 1253
-    },
-    "be4ad7e999e14a74974d47ac650062a3": {
-        "nickname": "bbiddd",
-        "country": "ca",
-        "top": {
-            "6": 968,
-            "7": 1635,
-            "8": 1894,
-            "9": 2161
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 34
-        },
-        "pb": 438638,
-        "streak": 10,
-        "matches": 2107,
-        "playtime": 1358066178,
-        "finished": 683,
-        "finishtime": 486902811,
-        "won": 1002,
-        "lost": 911,
-        "forfeited": 297
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
