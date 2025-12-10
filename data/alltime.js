@@ -3371,11 +3371,11 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 5552,
-        "playtime": 3573614094,
+        "matches": 5553,
+        "playtime": 3574113798,
         "finished": 1902,
         "finishtime": 1415903375,
-        "won": 2801,
+        "won": 2802,
         "lost": 2602,
         "forfeited": 871
     },
@@ -4033,13 +4033,13 @@
         },
         "pb": 465146,
         "streak": 11,
-        "matches": 7437,
-        "playtime": 4524795673,
+        "matches": 7438,
+        "playtime": 4525295377,
         "finished": 2338,
         "finishtime": 1772764075,
         "won": 3648,
-        "lost": 3535,
-        "forfeited": 2123
+        "lost": 3536,
+        "forfeited": 2124
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
