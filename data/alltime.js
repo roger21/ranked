@@ -3293,12 +3293,12 @@
         },
         "pb": 430963,
         "streak": 12,
-        "matches": 2684,
-        "playtime": 1768809629,
+        "matches": 2685,
+        "playtime": 1769527707,
         "finished": 993,
         "finishtime": 714346916,
         "won": 1366,
-        "lost": 1201,
+        "lost": 1202,
         "forfeited": 71
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
@@ -3639,12 +3639,12 @@
         },
         "pb": 417343,
         "streak": 11,
-        "matches": 3856,
-        "playtime": 2604210826,
+        "matches": 3857,
+        "playtime": 2604819302,
         "finished": 1394,
         "finishtime": 1034266752,
         "won": 1953,
-        "lost": 1732,
+        "lost": 1733,
         "forfeited": 184
     },
     "a20541925b5648e1ae88a141ca37911e": {
@@ -4103,13 +4103,13 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 5127,
-        "playtime": 3350688191,
+        "matches": 5128,
+        "playtime": 3350967208,
         "finished": 1883,
         "finishtime": 1343138545,
         "won": 2596,
-        "lost": 2335,
-        "forfeited": 215
+        "lost": 2336,
+        "forfeited": 216
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
