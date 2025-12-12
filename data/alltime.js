@@ -67,41 +67,6 @@
         "lost": 3222,
         "forfeited": 733
     },
-    "0562802e736e47c581b2ef095e2ed067": {
-        "nickname": "epik48",
-        "country": "br",
-        "top": {
-            "1": 1448,
-            "2": 1459,
-            "3": 1229,
-            "4": 1440,
-            "5": 1805,
-            "6": 1743,
-            "7": 1698,
-            "8": 1894,
-            "9": 2298
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 5,
-            "7": 0,
-            "8": 15,
-            "9": 13
-        },
-        "pb": 427073,
-        "streak": 13,
-        "matches": 4002,
-        "playtime": 2314202193,
-        "finished": 1276,
-        "finishtime": 896490440,
-        "won": 1996,
-        "lost": 1874,
-        "forfeited": 1082
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "cf",
@@ -4614,11 +4579,11 @@
         },
         "pb": 537329,
         "streak": 13,
-        "matches": 823,
-        "playtime": 617029037,
-        "finished": 289,
-        "finishtime": 243935656,
-        "won": 436,
+        "matches": 824,
+        "playtime": 617936425,
+        "finished": 290,
+        "finishtime": 244843044,
+        "won": 437,
         "lost": 367,
         "forfeited": 60
     },
