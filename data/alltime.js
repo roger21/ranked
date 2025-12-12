@@ -364,13 +364,13 @@
         },
         "pb": 413607,
         "streak": 14,
-        "matches": 4065,
-        "playtime": 2448678189,
+        "matches": 4066,
+        "playtime": 2449224924,
         "finished": 1801,
         "finishtime": 1187017208,
         "won": 2197,
-        "lost": 1758,
-        "forfeited": 444
+        "lost": 1759,
+        "forfeited": 445
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
         "nickname": "xLourx",
@@ -3157,12 +3157,12 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11467,
-        "playtime": 7292661479,
+        "matches": 11468,
+        "playtime": 7293277780,
         "finished": 3900,
         "finishtime": 3045765892,
         "won": 5817,
-        "lost": 5422,
+        "lost": 5423,
         "forfeited": 2558
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
