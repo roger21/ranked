@@ -1893,11 +1893,11 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 3476,
-        "playtime": 2118542498,
-        "finished": 1304,
-        "finishtime": 895735588,
-        "won": 1754,
+        "matches": 3477,
+        "playtime": 2119202332,
+        "finished": 1305,
+        "finishtime": 896395422,
+        "won": 1755,
         "lost": 1584,
         "forfeited": 536
     },
@@ -3157,11 +3157,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11474,
-        "playtime": 7297045319,
-        "finished": 3902,
-        "finishtime": 3047076808,
-        "won": 5819,
+        "matches": 11475,
+        "playtime": 7297806652,
+        "finished": 3903,
+        "finishtime": 3047838141,
+        "won": 5820,
         "lost": 5427,
         "forfeited": 2558
     },
@@ -4280,31 +4280,6 @@
         "lost": 2342,
         "forfeited": 1253
     },
-    "be4ad7e999e14a74974d47ac650062a3": {
-        "nickname": "bbiddd",
-        "country": "ca",
-        "top": {
-            "6": 968,
-            "7": 1635,
-            "8": 1894,
-            "9": 2161
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 34
-        },
-        "pb": 438638,
-        "streak": 10,
-        "matches": 2108,
-        "playtime": 1358733762,
-        "finished": 683,
-        "finishtime": 486902811,
-        "won": 1002,
-        "lost": 912,
-        "forfeited": 297
-    },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
         "country": "ua",
@@ -4940,13 +4915,13 @@
         },
         "pb": 415394,
         "streak": 14,
-        "matches": 7364,
-        "playtime": 4586089635,
+        "matches": 7365,
+        "playtime": 4586659900,
         "finished": 3190,
         "finishtime": 2180911739,
         "won": 3967,
-        "lost": 3289,
-        "forfeited": 793
+        "lost": 3290,
+        "forfeited": 794
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
