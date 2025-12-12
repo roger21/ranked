@@ -98,41 +98,6 @@
         "lost": 1264,
         "forfeited": 588
     },
-    "0562802e736e47c581b2ef095e2ed067": {
-        "nickname": "epik48",
-        "country": "br",
-        "top": {
-            "1": 1448,
-            "2": 1459,
-            "3": 1229,
-            "4": 1440,
-            "5": 1805,
-            "6": 1743,
-            "7": 1698,
-            "8": 1894,
-            "9": 2298
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 5,
-            "7": 0,
-            "8": 15,
-            "9": 13
-        },
-        "pb": 427073,
-        "streak": 13,
-        "matches": 3994,
-        "playtime": 2309949747,
-        "finished": 1273,
-        "finishtime": 894597308,
-        "won": 1992,
-        "lost": 1870,
-        "forfeited": 1080
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "cf",
@@ -1450,13 +1415,13 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 8886,
-        "playtime": 5632827554,
+        "matches": 8887,
+        "playtime": 5633397435,
         "finished": 3203,
         "finishtime": 2337733732,
         "won": 4420,
-        "lost": 4170,
-        "forfeited": 1407
+        "lost": 4171,
+        "forfeited": 1408
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -1518,11 +1483,11 @@
         },
         "pb": 425224,
         "streak": 14,
-        "matches": 4143,
-        "playtime": 2767152353,
+        "matches": 4144,
+        "playtime": 2767687721,
         "finished": 1517,
         "finishtime": 1127371830,
-        "won": 2132,
+        "won": 2133,
         "lost": 1840,
         "forfeited": 204
     },
