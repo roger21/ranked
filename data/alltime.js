@@ -2497,13 +2497,13 @@
         },
         "pb": 470760,
         "streak": 9,
-        "matches": 1591,
-        "playtime": 1114513699,
+        "matches": 1592,
+        "playtime": 1114787513,
         "finished": 569,
         "finishtime": 472037900,
         "won": 865,
-        "lost": 669,
-        "forfeited": 185
+        "lost": 670,
+        "forfeited": 186
     },
     "745a819973974fe1bb1608e57fd439b6": {
         "nickname": "centuriee",
@@ -4078,12 +4078,12 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 5178,
-        "playtime": 3376844126,
+        "matches": 5179,
+        "playtime": 3377376823,
         "finished": 1902,
         "finishtime": 1355016067,
         "won": 2625,
-        "lost": 2358,
+        "lost": 2359,
         "forfeited": 224
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
