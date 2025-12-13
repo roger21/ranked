@@ -1872,12 +1872,12 @@
         },
         "pb": 395895,
         "streak": 11,
-        "matches": 4342,
-        "playtime": 2766355646,
+        "matches": 4344,
+        "playtime": 2767162213,
         "finished": 1823,
         "finishtime": 1279485806,
-        "won": 2361,
-        "lost": 1888,
+        "won": 2362,
+        "lost": 1889,
         "forfeited": 402
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -2214,7 +2214,7 @@
         "top": {
             "7": 1677,
             "8": 1875,
-            "9": 2109
+            "9": 2137
         },
         "points": {
             "7": 0,
@@ -2223,11 +2223,11 @@
         },
         "pb": 447620,
         "streak": 11,
-        "matches": 1699,
-        "playtime": 1084059178,
-        "finished": 628,
-        "finishtime": 448811687,
-        "won": 858,
+        "matches": 1700,
+        "playtime": 1084579313,
+        "finished": 629,
+        "finishtime": 449331822,
+        "won": 859,
         "lost": 745,
         "forfeited": 174
     },
@@ -4216,13 +4216,13 @@
         },
         "pb": 405299,
         "streak": 18,
-        "matches": 5677,
-        "playtime": 3214541139,
+        "matches": 5678,
+        "playtime": 3214827571,
         "finished": 2448,
         "finishtime": 1610029140,
         "won": 3136,
-        "lost": 2342,
-        "forfeited": 1253
+        "lost": 2343,
+        "forfeited": 1254
     },
     "bdb7f407200d4882b78e656ca161bddf": {
         "nickname": "sylvie0616",
