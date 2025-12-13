@@ -1927,7 +1927,7 @@
             "6": 1868,
             "7": 1704,
             "8": 1959,
-            "9": 1832
+            "9": 1852
         },
         "points": {
             "1": 0,
@@ -1942,13 +1942,13 @@
         },
         "pb": 447970,
         "streak": 19,
-        "matches": 1247,
-        "playtime": 778565577,
-        "finished": 489,
-        "finishtime": 353619225,
-        "won": 714,
-        "lost": 495,
-        "forfeited": 181
+        "matches": 1249,
+        "playtime": 779465484,
+        "finished": 490,
+        "finishtime": 354281184,
+        "won": 715,
+        "lost": 496,
+        "forfeited": 182
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "DougThePig",
@@ -4047,11 +4047,11 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 5162,
-        "playtime": 3368686767,
+        "matches": 5164,
+        "playtime": 3369146987,
         "finished": 1897,
         "finishtime": 1351832645,
-        "won": 2615,
+        "won": 2617,
         "lost": 2352,
         "forfeited": 223
     },
@@ -4589,13 +4589,13 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 3536,
-        "playtime": 2296433998,
+        "matches": 3537,
+        "playtime": 2296656270,
         "finished": 1272,
         "finishtime": 969833989,
         "won": 1821,
-        "lost": 1601,
-        "forfeited": 432
+        "lost": 1602,
+        "forfeited": 433
     },
     "d7d0b271136647fea7398a444ab51c13": {
         "nickname": "JustAltoid",
