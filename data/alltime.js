@@ -461,13 +461,13 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 4059,
-        "playtime": 2852930968,
+        "matches": 4061,
+        "playtime": 2853456111,
         "finished": 1219,
         "finishtime": 989946363,
         "won": 2029,
-        "lost": 1805,
-        "forfeited": 505
+        "lost": 1807,
+        "forfeited": 507
     },
     "132807fea3a54a02b6b1ad057430b002": {
         "nickname": "slowunc",
@@ -793,11 +793,11 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 3973,
-        "playtime": 2560958468,
-        "finished": 1525,
-        "finishtime": 1094958474,
-        "won": 2095,
+        "matches": 3974,
+        "playtime": 2561741706,
+        "finished": 1526,
+        "finishtime": 1095741712,
+        "won": 2096,
         "lost": 1801,
         "forfeited": 218
     },
@@ -2643,7 +2643,7 @@
             "6": 2273,
             "7": 2168,
             "8": 2257,
-            "9": 2275
+            "9": 2287
         },
         "points": {
             "1": 0,
@@ -2658,11 +2658,11 @@
         },
         "pb": 424025,
         "streak": 12,
-        "matches": 6333,
-        "playtime": 3877687908,
+        "matches": 6334,
+        "playtime": 3878342001,
         "finished": 2401,
         "finishtime": 1682727434,
-        "won": 3274,
+        "won": 3275,
         "lost": 2821,
         "forfeited": 978
     },
@@ -4043,13 +4043,13 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 5189,
-        "playtime": 3383264651,
+        "matches": 5190,
+        "playtime": 3383918744,
         "finished": 1908,
         "finishtime": 1358553908,
         "won": 2631,
-        "lost": 2363,
-        "forfeited": 225
+        "lost": 2364,
+        "forfeited": 226
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
