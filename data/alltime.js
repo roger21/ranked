@@ -4989,13 +4989,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2630,
-        "playtime": 1763362871,
+        "matches": 2631,
+        "playtime": 1763816441,
         "finished": 952,
         "finishtime": 763013602,
         "won": 1423,
-        "lost": 1166,
-        "forfeited": 401
+        "lost": 1167,
+        "forfeited": 402
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "tucrack",
