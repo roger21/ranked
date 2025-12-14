@@ -160,12 +160,12 @@
         },
         "pb": 433388,
         "streak": 14,
-        "matches": 539,
-        "playtime": 337041695,
+        "matches": 540,
+        "playtime": 337637728,
         "finished": 247,
         "finishtime": 171779732,
         "won": 334,
-        "lost": 194,
+        "lost": 195,
         "forfeited": 45
     },
     "0b08bb3e9b4f4e3c9bbdbf32c8f046b0": {
@@ -1225,7 +1225,7 @@
             "6": 1836,
             "7": 1972,
             "8": 1862,
-            "9": 2057
+            "9": 2078
         },
         "points": {
             "1": 0,
@@ -1240,11 +1240,11 @@
         },
         "pb": 467689,
         "streak": 22,
-        "matches": 1610,
-        "playtime": 1052824650,
-        "finished": 640,
-        "finishtime": 472435815,
-        "won": 871,
+        "matches": 1611,
+        "playtime": 1053392847,
+        "finished": 641,
+        "finishtime": 473004012,
+        "won": 872,
         "lost": 666,
         "forfeited": 138
     },
@@ -1415,12 +1415,12 @@
         },
         "pb": 399012,
         "streak": 12,
-        "matches": 8892,
-        "playtime": 5636446350,
+        "matches": 8893,
+        "playtime": 5637398660,
         "finished": 3205,
         "finishtime": 2339531437,
         "won": 4423,
-        "lost": 4173,
+        "lost": 4174,
         "forfeited": 1410
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -4395,41 +4395,6 @@
         "lost": 2168,
         "forfeited": 865
     },
-    "c81a44e0c18544c29d1a93e0362b7777": {
-        "nickname": "Snakezy",
-        "country": "pl",
-        "top": {
-            "1": 1385,
-            "2": 1164,
-            "3": 1467,
-            "4": 1348,
-            "5": 1526,
-            "6": 1470,
-            "7": 1660,
-            "8": 1844,
-            "9": 2100
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 4
-        },
-        "pb": 468922,
-        "streak": 12,
-        "matches": 4108,
-        "playtime": 2491160306,
-        "finished": 1353,
-        "finishtime": 1032379799,
-        "won": 2047,
-        "lost": 1947,
-        "forfeited": 1111
-    },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
         "country": "fr",
@@ -4620,12 +4585,12 @@
         },
         "pb": 437835,
         "streak": 14,
-        "matches": 7865,
-        "playtime": 5080037692,
+        "matches": 7866,
+        "playtime": 5081030692,
         "finished": 2618,
         "finishtime": 1925902150,
         "won": 3882,
-        "lost": 3616,
+        "lost": 3617,
         "forfeited": 1027
     },
     "da1d85337d244f789d60b009e1e2b346": {
