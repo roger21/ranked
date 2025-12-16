@@ -723,12 +723,12 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 2774,
-        "playtime": 1724622330,
+        "matches": 2775,
+        "playtime": 1725231638,
         "finished": 1329,
         "finishtime": 855660113,
         "won": 1579,
-        "lost": 1119,
+        "lost": 1120,
         "forfeited": 52
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
@@ -1205,11 +1205,11 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 16644,
-        "playtime": 10487520025,
-        "finished": 7119,
-        "finishtime": 4873265463,
-        "won": 9210,
+        "matches": 16645,
+        "playtime": 10488129333,
+        "finished": 7120,
+        "finishtime": 4873874771,
+        "won": 9211,
         "lost": 7171,
         "forfeited": 1005
     },
@@ -1748,7 +1748,7 @@
             "6": 1861,
             "7": 1947,
             "8": 2141,
-            "9": 2390
+            "9": 2402
         },
         "points": {
             "1": 0,
@@ -1763,11 +1763,11 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2419,
-        "playtime": 1557774957,
-        "finished": 924,
-        "finishtime": 645887470,
-        "won": 1271,
+        "matches": 2420,
+        "playtime": 1558513292,
+        "finished": 925,
+        "finishtime": 646625805,
+        "won": 1272,
         "lost": 1067,
         "forfeited": 119
     },
@@ -1840,31 +1840,6 @@
         "won": 1880,
         "lost": 1558,
         "forfeited": 853
-    },
-    "4f3e7905554345698e41f88caa4c088e": {
-        "nickname": "rcolee",
-        "country": "ca",
-        "top": {
-            "6": 1244,
-            "7": 1600,
-            "8": 1833,
-            "9": 2127
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 9
-        },
-        "pb": 442541,
-        "streak": 12,
-        "matches": 4828,
-        "playtime": 2957530311,
-        "finished": 1558,
-        "finishtime": 1126823531,
-        "won": 2287,
-        "lost": 2185,
-        "forfeited": 956
     },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
@@ -4237,12 +4212,12 @@
         },
         "pb": 405299,
         "streak": 18,
-        "matches": 5720,
-        "playtime": 3237481816,
+        "matches": 5721,
+        "playtime": 3238220151,
         "finished": 2470,
         "finishtime": 1622653850,
         "won": 3158,
-        "lost": 2360,
+        "lost": 2361,
         "forfeited": 1260
     },
     "be7a79f3331042f19c07230752b26725": {
