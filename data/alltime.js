@@ -3946,13 +3946,13 @@
         },
         "pb": 448905,
         "streak": 11,
-        "matches": 4176,
-        "playtime": 2576114524,
+        "matches": 4177,
+        "playtime": 2576710223,
         "finished": 1492,
         "finishtime": 1050254445,
         "won": 2107,
-        "lost": 1923,
-        "forfeited": 559
+        "lost": 1924,
+        "forfeited": 560
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -4692,13 +4692,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 11109,
-        "playtime": 7127962997,
+        "matches": 11110,
+        "playtime": 7128282662,
         "finished": 3925,
         "finishtime": 2871752715,
         "won": 5417,
-        "lost": 5102,
-        "forfeited": 1329
+        "lost": 5103,
+        "forfeited": 1330
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
         "nickname": "Traden",
