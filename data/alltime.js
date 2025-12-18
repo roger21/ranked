@@ -2181,13 +2181,13 @@
         },
         "pb": 418610,
         "streak": 13,
-        "matches": 3093,
-        "playtime": 1894326705,
+        "matches": 3094,
+        "playtime": 1894792770,
         "finished": 1240,
         "finishtime": 851157525,
         "won": 1637,
-        "lost": 1324,
-        "forfeited": 355
+        "lost": 1325,
+        "forfeited": 356
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
         "nickname": "edcr",
@@ -3443,7 +3443,7 @@
             "6": 1815,
             "7": 2026,
             "8": 2029,
-            "9": 2140
+            "9": 2153
         },
         "points": {
             "2": 0,
@@ -3457,11 +3457,11 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 4201,
-        "playtime": 2423766344,
-        "finished": 1600,
-        "finishtime": 1093641856,
-        "won": 2139,
+        "matches": 4202,
+        "playtime": 2424414676,
+        "finished": 1601,
+        "finishtime": 1094290188,
+        "won": 2140,
         "lost": 1948,
         "forfeited": 874
     },
@@ -4024,12 +4024,12 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 5225,
-        "playtime": 3404217967,
+        "matches": 5226,
+        "playtime": 3404866299,
         "finished": 1925,
         "finishtime": 1368892043,
         "won": 2651,
-        "lost": 2378,
+        "lost": 2379,
         "forfeited": 229
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
@@ -4447,7 +4447,7 @@
             "6": 1980,
             "7": 2038,
             "8": 1945,
-            "9": 2107
+            "9": 2124
         },
         "points": {
             "2": 0,
@@ -4461,11 +4461,11 @@
         },
         "pb": 495351,
         "streak": 11,
-        "matches": 4271,
-        "playtime": 2985314846,
+        "matches": 4272,
+        "playtime": 2985780911,
         "finished": 1422,
         "finishtime": 1115204945,
-        "won": 2137,
+        "won": 2138,
         "lost": 1986,
         "forfeited": 247
     },
