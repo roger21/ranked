@@ -67,37 +67,6 @@
         "lost": 3227,
         "forfeited": 733
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "ChugokuPoletop",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2064,
-            "9": 2334
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 28,
-            "9": 68
-        },
-        "pb": 379698,
-        "streak": 9,
-        "matches": 2800,
-        "playtime": 1570647210,
-        "finished": 1041,
-        "finishtime": 687597485,
-        "won": 1402,
-        "lost": 1302,
-        "forfeited": 599
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "cf",
@@ -461,11 +430,11 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 4103,
-        "playtime": 2878875664,
-        "finished": 1233,
-        "finishtime": 999019549,
-        "won": 2046,
+        "matches": 4104,
+        "playtime": 2879549232,
+        "finished": 1234,
+        "finishtime": 999693117,
+        "won": 2047,
         "lost": 1827,
         "forfeited": 514
     },
@@ -800,6 +769,37 @@
         "won": 2128,
         "lost": 1830,
         "forfeited": 220
+    },
+    "26c82339872246c489bf285760ca1af3": {
+        "nickname": "novadud",
+        "country": "us",
+        "top": {
+            "3": 1538,
+            "4": 1728,
+            "5": 1429,
+            "6": 1633,
+            "7": 1792,
+            "8": 1801,
+            "9": 2157
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 5,
+            "7": 0,
+            "8": 0,
+            "9": 18
+        },
+        "pb": 446180,
+        "streak": 10,
+        "matches": 1522,
+        "playtime": 1060521686,
+        "finished": 564,
+        "finishtime": 426501725,
+        "won": 793,
+        "lost": 658,
+        "forfeited": 35
     },
     "278f495d4e944ebe94ab01c571ac188e": {
         "nickname": "Thunderstorming",
@@ -2674,7 +2674,7 @@
             "6": 2470,
             "7": 2434,
             "8": 2185,
-            "9": 2163
+            "9": 2165
         },
         "points": {
             "1": 0,
@@ -2689,11 +2689,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 3291,
-        "playtime": 2005313098,
-        "finished": 1545,
-        "finishtime": 1016862939,
-        "won": 2039,
+        "matches": 3292,
+        "playtime": 2005863721,
+        "finished": 1546,
+        "finishtime": 1017413562,
+        "won": 2040,
         "lost": 1178,
         "forfeited": 270
     },
@@ -2724,11 +2724,11 @@
         },
         "pb": 452786,
         "streak": 12,
-        "matches": 4454,
-        "playtime": 2678073340,
-        "finished": 1578,
-        "finishtime": 1175622285,
-        "won": 2307,
+        "matches": 4455,
+        "playtime": 2678588003,
+        "finished": 1579,
+        "finishtime": 1176136948,
+        "won": 2308,
         "lost": 2022,
         "forfeited": 960
     },
