@@ -824,12 +824,12 @@
         },
         "pb": 446180,
         "streak": 10,
-        "matches": 1513,
-        "playtime": 1055218637,
+        "matches": 1514,
+        "playtime": 1055727961,
         "finished": 561,
         "finishtime": 424767142,
         "won": 790,
-        "lost": 652,
+        "lost": 653,
         "forfeited": 35
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -1086,7 +1086,7 @@
             "6": 2042,
             "7": 1955,
             "8": 1910,
-            "9": 1930
+            "9": 1936
         },
         "points": {
             "1": 0,
@@ -1100,11 +1100,11 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 2826,
-        "playtime": 1835446894,
-        "finished": 1027,
-        "finishtime": 758898396,
-        "won": 1449,
+        "matches": 2827,
+        "playtime": 1836050206,
+        "finished": 1028,
+        "finishtime": 759501708,
+        "won": 1450,
         "lost": 1279,
         "forfeited": 336
     },
@@ -3309,11 +3309,11 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 7723,
-        "playtime": 4802015721,
+        "matches": 7724,
+        "playtime": 4802645784,
         "finished": 2999,
         "finishtime": 2052796762,
-        "won": 3870,
+        "won": 3871,
         "lost": 3608,
         "forfeited": 869
     },
@@ -4084,13 +4084,13 @@
         },
         "pb": 428759,
         "streak": 12,
-        "matches": 3808,
-        "playtime": 2289595606,
+        "matches": 3809,
+        "playtime": 2290225669,
         "finished": 1478,
         "finishtime": 1031187063,
         "won": 2013,
-        "lost": 1721,
-        "forfeited": 691
+        "lost": 1722,
+        "forfeited": 692
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
         "nickname": "xShatter",
@@ -4776,7 +4776,7 @@
             "6": 2226,
             "7": 2224,
             "8": 2241,
-            "9": 2305
+            "9": 2320
         },
         "points": {
             "1": 0,
@@ -4791,11 +4791,11 @@
         },
         "pb": 415394,
         "streak": 14,
-        "matches": 7436,
-        "playtime": 4628456345,
-        "finished": 3231,
-        "finishtime": 2205738411,
-        "won": 4010,
+        "matches": 7437,
+        "playtime": 4628965669,
+        "finished": 3232,
+        "finishtime": 2206247735,
+        "won": 4011,
         "lost": 3317,
         "forfeited": 797
     },
