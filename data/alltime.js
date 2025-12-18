@@ -67,37 +67,6 @@
         "lost": 3227,
         "forfeited": 733
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "ChugokuPoletop",
-        "country": "gr",
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2064,
-            "9": 2334
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 28,
-            "9": 68
-        },
-        "pb": 379698,
-        "streak": 9,
-        "matches": 2799,
-        "playtime": 1570016863,
-        "finished": 1040,
-        "finishtime": 686967138,
-        "won": 1401,
-        "lost": 1302,
-        "forfeited": 599
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "cf",
@@ -4288,11 +4257,11 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 2703,
-        "playtime": 1714736230,
-        "finished": 1109,
-        "finishtime": 786675868,
-        "won": 1482,
+        "matches": 2704,
+        "playtime": 1715377555,
+        "finished": 1110,
+        "finishtime": 787317193,
+        "won": 1483,
         "lost": 1157,
         "forfeited": 244
     },
@@ -4756,13 +4725,13 @@
         },
         "pb": 489021,
         "streak": 10,
-        "matches": 2523,
-        "playtime": 1822472611,
+        "matches": 2524,
+        "playtime": 1823137392,
         "finished": 892,
         "finishtime": 732866883,
         "won": 1324,
-        "lost": 1146,
-        "forfeited": 113
+        "lost": 1147,
+        "forfeited": 114
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
         "nickname": "dandannyboy",
