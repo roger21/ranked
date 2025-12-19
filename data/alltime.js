@@ -261,12 +261,12 @@
         },
         "pb": 415471,
         "streak": 12,
-        "matches": 3191,
-        "playtime": 1884575755,
+        "matches": 3192,
+        "playtime": 1885292338,
         "finished": 1280,
         "finishtime": 875988050,
         "won": 1670,
-        "lost": 1415,
+        "lost": 1416,
         "forfeited": 533
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
@@ -461,13 +461,13 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 4122,
-        "playtime": 2889478831,
+        "matches": 4123,
+        "playtime": 2890136479,
         "finished": 1243,
         "finishtime": 1005524081,
         "won": 2061,
-        "lost": 1829,
-        "forfeited": 515
+        "lost": 1830,
+        "forfeited": 516
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -1038,11 +1038,11 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 6632,
-        "playtime": 3946428724,
-        "finished": 2178,
-        "finishtime": 1526902811,
-        "won": 3152,
+        "matches": 6633,
+        "playtime": 3947040126,
+        "finished": 2179,
+        "finishtime": 1527514213,
+        "won": 3153,
         "lost": 3000,
         "forfeited": 1328
     },
@@ -2117,12 +2117,12 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 6663,
-        "playtime": 4205713074,
+        "matches": 6664,
+        "playtime": 4206324476,
         "finished": 2668,
         "finishtime": 1861552928,
         "won": 3478,
-        "lost": 3025,
+        "lost": 3026,
         "forfeited": 704
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -2237,11 +2237,11 @@
         },
         "pb": 404464,
         "streak": 29,
-        "matches": 3956,
-        "playtime": 2277635121,
-        "finished": 1978,
-        "finishtime": 1221080832,
-        "won": 2380,
+        "matches": 3957,
+        "playtime": 2278351704,
+        "finished": 1979,
+        "finishtime": 1221797415,
+        "won": 2381,
         "lost": 1485,
         "forfeited": 316
     },
@@ -3464,7 +3464,7 @@
         "forfeited": 1021
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
-        "nickname": "loodlow_CAR89",
+        "nickname": "loodlow",
         "country": "ua",
         "top": {
             "2": 1597,
