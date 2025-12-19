@@ -1738,12 +1738,12 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2423,
-        "playtime": 1560201170,
+        "matches": 2424,
+        "playtime": 1561192501,
         "finished": 926,
         "finishtime": 647153104,
         "won": 1273,
-        "lost": 1069,
+        "lost": 1070,
         "forfeited": 119
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
@@ -2213,29 +2213,6 @@
         "won": 2374,
         "lost": 1483,
         "forfeited": 316
-    },
-    "64858295eb754646b03caead840391a2": {
-        "nickname": "Casssual",
-        "country": "pl",
-        "top": {
-            "7": 1677,
-            "8": 1875,
-            "9": 2137
-        },
-        "points": {
-            "7": 0,
-            "8": 10,
-            "9": 7
-        },
-        "pb": 447620,
-        "streak": 11,
-        "matches": 1707,
-        "playtime": 1088148119,
-        "finished": 630,
-        "finishtime": 449905069,
-        "won": 862,
-        "lost": 749,
-        "forfeited": 176
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
@@ -4333,11 +4310,11 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5441,
-        "playtime": 3477008763,
-        "finished": 2069,
-        "finishtime": 1489254536,
-        "won": 2798,
+        "matches": 5442,
+        "playtime": 3477703456,
+        "finished": 2070,
+        "finishtime": 1489949229,
+        "won": 2799,
         "lost": 2519,
         "forfeited": 781
     },
