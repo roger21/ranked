@@ -766,13 +766,13 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 4049,
-        "playtime": 2606620164,
+        "matches": 4051,
+        "playtime": 2607226477,
         "finished": 1552,
         "finishtime": 1112968595,
-        "won": 2132,
-        "lost": 1840,
-        "forfeited": 223
+        "won": 2133,
+        "lost": 1841,
+        "forfeited": 224
     },
     "26c82339872246c489bf285760ca1af3": {
         "nickname": "novadud",
@@ -3616,11 +3616,11 @@
         },
         "pb": 417343,
         "streak": 11,
-        "matches": 3893,
-        "playtime": 2627746791,
+        "matches": 3894,
+        "playtime": 2628137881,
         "finished": 1407,
         "finishtime": 1042632397,
-        "won": 1968,
+        "won": 1969,
         "lost": 1754,
         "forfeited": 185
     },
