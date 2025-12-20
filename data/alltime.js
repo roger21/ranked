@@ -67,6 +67,37 @@
         "lost": 3227,
         "forfeited": 733
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "q3awreh4yu78i",
+        "country": "gr",
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2064,
+            "9": 2334
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 28,
+            "9": 68
+        },
+        "pb": 379698,
+        "streak": 9,
+        "matches": 2831,
+        "playtime": 1587200536,
+        "finished": 1052,
+        "finishtime": 693880919,
+        "won": 1417,
+        "lost": 1318,
+        "forfeited": 604
+    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "cf",
@@ -1038,12 +1069,12 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 6656,
-        "playtime": 3958508918,
+        "matches": 6657,
+        "playtime": 3959135772,
         "finished": 2186,
         "finishtime": 1531584759,
         "won": 3163,
-        "lost": 3013,
+        "lost": 3014,
         "forfeited": 1335
     },
     "31f96d84ed9844bcabbd07f828001290": {
