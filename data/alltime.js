@@ -1489,11 +1489,11 @@
         },
         "pb": 425224,
         "streak": 14,
-        "matches": 4185,
-        "playtime": 2791754559,
+        "matches": 4186,
+        "playtime": 2792249730,
         "finished": 1536,
         "finishtime": 1138855452,
-        "won": 2154,
+        "won": 2155,
         "lost": 1860,
         "forfeited": 204
     },
@@ -4688,13 +4688,13 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1210,
-        "playtime": 776975320,
+        "matches": 1211,
+        "playtime": 777470491,
         "finished": 502,
         "finishtime": 344157784,
         "won": 656,
-        "lost": 494,
-        "forfeited": 56
+        "lost": 495,
+        "forfeited": 57
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "Waluyoshi",
