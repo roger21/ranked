@@ -1841,11 +1841,11 @@
         },
         "pb": 442239,
         "streak": 13,
-        "matches": 3576,
-        "playtime": 2175309883,
-        "finished": 1349,
-        "finishtime": 923949536,
-        "won": 1803,
+        "matches": 3577,
+        "playtime": 2175845394,
+        "finished": 1350,
+        "finishtime": 924485047,
+        "won": 1804,
         "lost": 1633,
         "forfeited": 552
     },
@@ -2914,7 +2914,7 @@
         "forfeited": 208
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
-        "nickname": "Antoo_CAR89",
+        "nickname": "4antoo",
         "country": "cf",
         "top": {
             "2": 1538,
@@ -4960,12 +4960,12 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2685,
-        "playtime": 1801908620,
+        "matches": 2686,
+        "playtime": 1802639338,
         "finished": 977,
         "finishtime": 782097655,
         "won": 1455,
-        "lost": 1187,
+        "lost": 1188,
         "forfeited": 403
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
