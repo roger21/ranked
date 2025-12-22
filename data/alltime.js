@@ -1005,12 +1005,12 @@
         },
         "pb": 519000,
         "streak": 15,
-        "matches": 925,
-        "playtime": 653698175,
+        "matches": 926,
+        "playtime": 654296173,
         "finished": 362,
         "finishtime": 290324947,
         "won": 538,
-        "lost": 371,
+        "lost": 372,
         "forfeited": 30
     },
     "31f96d84ed9844bcabbd07f828001290": {
@@ -1806,13 +1806,13 @@
         },
         "pb": 395245,
         "streak": 13,
-        "matches": 3599,
-        "playtime": 2026512466,
+        "matches": 3600,
+        "playtime": 2027024583,
         "finished": 1488,
         "finishtime": 960716383,
         "won": 1900,
-        "lost": 1578,
-        "forfeited": 866
+        "lost": 1579,
+        "forfeited": 867
     },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
@@ -4756,11 +4756,11 @@
         },
         "pb": 415394,
         "streak": 14,
-        "matches": 7476,
-        "playtime": 4653021594,
+        "matches": 7477,
+        "playtime": 4653533711,
         "finished": 3246,
         "finishtime": 2214806941,
-        "won": 4028,
+        "won": 4029,
         "lost": 3339,
         "forfeited": 798
     },
