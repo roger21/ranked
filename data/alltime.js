@@ -762,13 +762,13 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 1478,
-        "playtime": 1087256567,
+        "matches": 1479,
+        "playtime": 1087702761,
         "finished": 493,
         "finishtime": 423201789,
         "won": 768,
-        "lost": 623,
-        "forfeited": 73
+        "lost": 624,
+        "forfeited": 74
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
         "nickname": "Hinart",
@@ -3455,12 +3455,12 @@
         },
         "pb": 445499,
         "streak": 13,
-        "matches": 6138,
-        "playtime": 3741206623,
+        "matches": 6139,
+        "playtime": 3741849046,
         "finished": 2043,
         "finishtime": 1489987014,
         "won": 2998,
-        "lost": 2812,
+        "lost": 2813,
         "forfeited": 1290
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
@@ -4945,7 +4945,7 @@
             "6": 1618,
             "7": 1741,
             "8": 1785,
-            "9": 1764
+            "9": 1786
         },
         "points": {
             "1": 0,
@@ -4960,11 +4960,11 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2679,
-        "playtime": 1797550239,
-        "finished": 974,
-        "finishtime": 780017703,
-        "won": 1452,
+        "matches": 2680,
+        "playtime": 1798156592,
+        "finished": 975,
+        "finishtime": 780624056,
+        "won": 1453,
         "lost": 1184,
         "forfeited": 403
     },
