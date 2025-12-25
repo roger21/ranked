@@ -226,11 +226,11 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 4600,
-        "playtime": 2961508789,
+        "matches": 4601,
+        "playtime": 2962150171,
         "finished": 1802,
         "finishtime": 1283425020,
-        "won": 2362,
+        "won": 2363,
         "lost": 2066,
         "forfeited": 413
     },
@@ -261,12 +261,12 @@
         },
         "pb": 415471,
         "streak": 12,
-        "matches": 3238,
-        "playtime": 1910872178,
+        "matches": 3239,
+        "playtime": 1911562769,
         "finished": 1298,
         "finishtime": 887233864,
         "won": 1691,
-        "lost": 1441,
+        "lost": 1442,
         "forfeited": 537
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
@@ -1575,7 +1575,7 @@
             "6": 1652,
             "7": 1587,
             "8": 1835,
-            "9": 1640
+            "9": 1659
         },
         "points": {
             "1": 0,
@@ -1590,11 +1590,11 @@
         },
         "pb": 473590,
         "streak": 9,
-        "matches": 1575,
-        "playtime": 1068821482,
+        "matches": 1576,
+        "playtime": 1069320819,
         "finished": 584,
         "finishtime": 453717362,
-        "won": 852,
+        "won": 853,
         "lost": 691,
         "forfeited": 192
     },
@@ -1835,11 +1835,11 @@
         },
         "pb": 395245,
         "streak": 13,
-        "matches": 3608,
-        "playtime": 2030751864,
-        "finished": 1492,
-        "finishtime": 962768313,
-        "won": 1906,
+        "matches": 3609,
+        "playtime": 2031294890,
+        "finished": 1493,
+        "finishtime": 963311339,
+        "won": 1907,
         "lost": 1581,
         "forfeited": 867
     },
@@ -2602,13 +2602,13 @@
         },
         "pb": 443695,
         "streak": 10,
-        "matches": 2877,
-        "playtime": 1835403091,
+        "matches": 2878,
+        "playtime": 1835898364,
         "finished": 974,
         "finishtime": 723760989,
         "won": 1447,
-        "lost": 1311,
-        "forfeited": 395
+        "lost": 1312,
+        "forfeited": 396
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
         "nickname": "TUDORULE",
@@ -2684,7 +2684,7 @@
             "6": 2470,
             "7": 2434,
             "8": 2185,
-            "9": 2278
+            "9": 2293
         },
         "points": {
             "1": 0,
@@ -2699,11 +2699,11 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 3317,
-        "playtime": 2019230800,
-        "finished": 1560,
-        "finishtime": 1025242535,
-        "won": 2056,
+        "matches": 3318,
+        "playtime": 2019921391,
+        "finished": 1561,
+        "finishtime": 1025933126,
+        "won": 2057,
         "lost": 1187,
         "forfeited": 270
     },
@@ -3072,11 +3072,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11630,
-        "playtime": 7384096360,
-        "finished": 3965,
-        "finishtime": 3087503441,
-        "won": 5899,
+        "matches": 11631,
+        "playtime": 7384758439,
+        "finished": 3966,
+        "finishtime": 3088165520,
+        "won": 5900,
         "lost": 5499,
         "forfeited": 2596
     },
@@ -3107,13 +3107,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 7585,
-        "playtime": 5102567735,
+        "matches": 7586,
+        "playtime": 5102794480,
         "finished": 2523,
         "finishtime": 1989710997,
         "won": 3792,
-        "lost": 3586,
-        "forfeited": 851
+        "lost": 3587,
+        "forfeited": 852
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
@@ -4626,13 +4626,13 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1233,
-        "playtime": 790318101,
+        "matches": 1234,
+        "playtime": 790959483,
         "finished": 510,
         "finishtime": 349237023,
         "won": 667,
-        "lost": 506,
-        "forfeited": 58
+        "lost": 507,
+        "forfeited": 59
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "Waluyoshi",
