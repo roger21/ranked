@@ -3286,13 +3286,13 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 5912,
-        "playtime": 3792163661,
+        "matches": 5913,
+        "playtime": 3792834543,
         "finished": 2039,
         "finishtime": 1506726874,
         "won": 2975,
-        "lost": 2783,
-        "forfeited": 909
+        "lost": 2784,
+        "forfeited": 910
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
