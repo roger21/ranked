@@ -2369,13 +2369,13 @@
         },
         "pb": 400502,
         "streak": 22,
-        "matches": 7089,
-        "playtime": 4083692099,
+        "matches": 7090,
+        "playtime": 4084205500,
         "finished": 3365,
         "finishtime": 2260442760,
         "won": 4372,
-        "lost": 2650,
-        "forfeited": 1141
+        "lost": 2651,
+        "forfeited": 1142
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -4420,12 +4420,12 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5516,
-        "playtime": 3519996754,
+        "matches": 5517,
+        "playtime": 3520691272,
         "finished": 2094,
         "finishtime": 1504924579,
         "won": 2832,
-        "lost": 2557,
+        "lost": 2558,
         "forfeited": 792
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
