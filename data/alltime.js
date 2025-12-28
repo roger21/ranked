@@ -1051,7 +1051,7 @@
             "6": 1985,
             "7": 2039,
             "8": 2121,
-            "9": 2431
+            "9": 2441
         },
         "points": {
             "2": 0,
@@ -1065,11 +1065,11 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 6779,
-        "playtime": 4028575712,
-        "finished": 2249,
-        "finishtime": 1570400297,
-        "won": 3233,
+        "matches": 6781,
+        "playtime": 4029610995,
+        "finished": 2251,
+        "finishtime": 1571435580,
+        "won": 3235,
         "lost": 3064,
         "forfeited": 1348
     },
@@ -1238,12 +1238,12 @@
         },
         "pb": 390818,
         "streak": 17,
-        "matches": 16932,
-        "playtime": 10651565085,
+        "matches": 16933,
+        "playtime": 10652055452,
         "finished": 7259,
         "finishtime": 4958864033,
         "won": 9368,
-        "lost": 7301,
+        "lost": 7302,
         "forfeited": 1035
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -3103,13 +3103,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11648,
-        "playtime": 7394481599,
+        "matches": 11649,
+        "playtime": 7394865917,
         "finished": 3971,
         "finishtime": 3091227325,
         "won": 5906,
-        "lost": 5509,
-        "forfeited": 2601
+        "lost": 5510,
+        "forfeited": 2602
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
