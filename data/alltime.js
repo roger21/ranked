@@ -26,11 +26,11 @@
         },
         "pb": 421401,
         "streak": 13,
-        "matches": 4944,
-        "playtime": 3108663532,
-        "finished": 1887,
-        "finishtime": 1338406451,
-        "won": 2511,
+        "matches": 4945,
+        "playtime": 3109235807,
+        "finished": 1888,
+        "finishtime": 1338978726,
+        "won": 2512,
         "lost": 2309,
         "forfeited": 528
     },
@@ -914,7 +914,7 @@
             "6": 2241,
             "7": 1982,
             "8": 1809,
-            "9": 2114
+            "9": 2115
         },
         "points": {
             "1": 0,
@@ -929,11 +929,11 @@
         },
         "pb": 462609,
         "streak": 14,
-        "matches": 1217,
-        "playtime": 786598302,
-        "finished": 616,
-        "finishtime": 428778839,
-        "won": 762,
+        "matches": 1218,
+        "playtime": 787620349,
+        "finished": 617,
+        "finishtime": 429800886,
+        "won": 763,
         "lost": 430,
         "forfeited": 5
     },
@@ -1065,11 +1065,11 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 6822,
-        "playtime": 4052144794,
+        "matches": 6823,
+        "playtime": 4052487577,
         "finished": 2267,
         "finishtime": 1580641095,
-        "won": 3253,
+        "won": 3254,
         "lost": 3087,
         "forfeited": 1351
     },
@@ -1308,13 +1308,13 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 13607,
-        "playtime": 8110511820,
+        "matches": 13608,
+        "playtime": 8110773589,
         "finished": 5841,
         "finishtime": 3845772245,
         "won": 7379,
-        "lost": 5917,
-        "forfeited": 1767
+        "lost": 5918,
+        "forfeited": 1768
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -3138,11 +3138,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 7763,
-        "playtime": 5215939730,
-        "finished": 2590,
-        "finishtime": 2039190539,
-        "won": 3882,
+        "matches": 7764,
+        "playtime": 5216611256,
+        "finished": 2591,
+        "finishtime": 2039862065,
+        "won": 3883,
         "lost": 3672,
         "forfeited": 874
     },
@@ -3414,11 +3414,11 @@
         },
         "pb": 418957,
         "streak": 29,
-        "matches": 2540,
-        "playtime": 1491470623,
+        "matches": 2541,
+        "playtime": 1491732392,
         "finished": 1326,
         "finishtime": 834805317,
-        "won": 1637,
+        "won": 1638,
         "lost": 873,
         "forfeited": 81
     },
@@ -4416,12 +4416,12 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5572,
-        "playtime": 3553489511,
+        "matches": 5573,
+        "playtime": 3554061786,
         "finished": 2114,
         "finishtime": 1518223507,
         "won": 2859,
-        "lost": 2585,
+        "lost": 2586,
         "forfeited": 800
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
@@ -4511,13 +4511,13 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4737,
-        "playtime": 2702908743,
+        "matches": 4738,
+        "playtime": 2703251526,
         "finished": 1738,
         "finishtime": 1200464124,
         "won": 2415,
-        "lost": 2146,
-        "forfeited": 1113
+        "lost": 2147,
+        "forfeited": 1114
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
@@ -5058,29 +5058,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f55a7e31e65a453e941ebec79cd39992": {
-        "nickname": "Brunted",
-        "country": "gb",
-        "top": {
-            "7": 941,
-            "8": 1448,
-            "9": 2121
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0
-        },
-        "pb": 465429,
-        "streak": 9,
-        "matches": 1310,
-        "playtime": 907643748,
-        "finished": 420,
-        "finishtime": 328063279,
-        "won": 630,
-        "lost": 566,
-        "forfeited": 47
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
