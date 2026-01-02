@@ -3186,7 +3186,7 @@
         "forfeited": 985
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
-        "nickname": "shimuon",
+        "nickname": "ogurikappa",
         "country": "my",
         "top": {
             "4": 1475,
