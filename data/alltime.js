@@ -359,37 +359,6 @@
         "lost": 1050,
         "forfeited": 56
     },
-    "0c35dc5580aa402c863cfe8d89b81704": {
-        "nickname": "wethr",
-        "country": "ca",
-        "top": {
-            "4": 1510,
-            "5": 1544,
-            "6": 1750,
-            "7": 1650,
-            "8": 1922,
-            "9": 1978,
-            "10": 1604
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 15,
-            "7": 0,
-            "8": 8,
-            "9": 0,
-            "10": 0
-        },
-        "pb": 441222,
-        "streak": 11,
-        "matches": 1656,
-        "playtime": 1090786160,
-        "finished": 564,
-        "finishtime": 428105335,
-        "won": 836,
-        "lost": 722,
-        "forfeited": 244
-    },
     "0c3cc22849a343b0964a89ac842fa3ca": {
         "nickname": "HDMICables",
         "country": "nl",
@@ -2448,11 +2417,11 @@
         },
         "pb": 406950,
         "streak": 13,
-        "matches": 2609,
-        "playtime": 1555964128,
-        "finished": 1087,
-        "finishtime": 715268604,
-        "won": 1393,
+        "matches": 2610,
+        "playtime": 1556515186,
+        "finished": 1088,
+        "finishtime": 715819662,
+        "won": 1394,
         "lost": 1116,
         "forfeited": 387
     },
@@ -3109,8 +3078,8 @@
         },
         "pb": 438854,
         "streak": 10,
-        "matches": 3130,
-        "playtime": 1985561495,
+        "matches": 3131,
+        "playtime": 1986110483,
         "finished": 1078,
         "finishtime": 791777108,
         "won": 1578,
@@ -3412,8 +3381,8 @@
         },
         "pb": 429445,
         "streak": 10,
-        "matches": 3130,
-        "playtime": 1841536397,
+        "matches": 3131,
+        "playtime": 1842085385,
         "finished": 1095,
         "finishtime": 733546264,
         "won": 1534,
@@ -4142,7 +4111,7 @@
             "7": 2028,
             "8": 2045,
             "9": 2181,
-            "10": 1551
+            "10": 1572
         },
         "points": {
             "1": 0,
@@ -4157,11 +4126,11 @@
         },
         "pb": 445499,
         "streak": 13,
-        "matches": 6343,
-        "playtime": 3871483605,
+        "matches": 6344,
+        "playtime": 3872216251,
         "finished": 2124,
         "finishtime": 1543526476,
-        "won": 3101,
+        "won": 3102,
         "lost": 2904,
         "forfeited": 1299
     },
@@ -5367,7 +5336,7 @@
             "7": 1804,
             "8": 2152,
             "9": 2534,
-            "10": 0
+            "10": 1573
         },
         "points": {
             "6": 0,
@@ -5378,12 +5347,12 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4794,
-        "playtime": 2733664868,
+        "matches": 4795,
+        "playtime": 2734215926,
         "finished": 1768,
         "finishtime": 1217680176,
         "won": 2451,
-        "lost": 2166,
+        "lost": 2167,
         "forfeited": 1119
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
@@ -6132,13 +6101,13 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 7420,
-        "playtime": 4791749174,
+        "matches": 7421,
+        "playtime": 4792481820,
         "finished": 2480,
         "finishtime": 1871670755,
         "won": 3678,
-        "lost": 3427,
-        "forfeited": 1013
+        "lost": 3428,
+        "forfeited": 1014
     },
     "fe10b6edfc3a460a83d637fc8e008751": {
         "nickname": "Mitthui",
