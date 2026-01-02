@@ -1,5 +1,5 @@
 {
-    "date": 1767321001000,
+    "date": 1767321601000,
     "players": [
         {
             "uuid": "048de51800794a208de7f01652513c32",
@@ -197,22 +197,36 @@
             "nickname": "Czelco",
             "stats": {
                 "rank": 9,
-                "elo": 1519,
-                "top": 1519,
+                "elo": 1537,
+                "top": 1537,
                 "points": 0,
                 "pb": 587214,
-                "current": 1,
+                "current": 2,
                 "streak": 2,
-                "matches": 5,
-                "playtime": 2662440,
+                "matches": 6,
+                "playtime": 2876090,
                 "finished": 1,
                 "finishtime": 587214,
-                "won": 3,
+                "won": 4,
                 "lost": 1,
                 "forfeited": 0
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1767321404000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "FlaxyB",
+                    "elo": 1537,
+                    "change": 18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 213650,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767319780000,
                     "type": "VILLAGE",
