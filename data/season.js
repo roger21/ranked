@@ -1,5 +1,5 @@
 {
-    "date": 1767320401000,
+    "date": 1767321001000,
     "players": [
         {
             "uuid": "048de51800794a208de7f01652513c32",
@@ -616,6 +616,28 @@
                 "forfeited": 0
             },
             "country": "us",
+            "matches": []
+        },
+        {
+            "uuid": "9c8c04c30ff44ca8baf86cfe68df0bc6",
+            "nickname": "GoopyBoots",
+            "stats": {
+                "rank": 27,
+                "elo": 1047,
+                "top": 1047,
+                "points": 0,
+                "pb": null,
+                "current": 0,
+                "streak": 0,
+                "matches": 4,
+                "playtime": 4271929,
+                "finished": 0,
+                "finishtime": 0,
+                "won": 0,
+                "lost": 3,
+                "forfeited": 1
+            },
+            "country": null,
             "matches": []
         }
     ]
