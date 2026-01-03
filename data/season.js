@@ -1,5 +1,5 @@
 {
-    "date": 1767429601000,
+    "date": 1767430801000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -7994,10 +7994,32 @@
             "matches": []
         },
         {
+            "uuid": "ac601ce7376f49cea7ce14cd577dac85",
+            "nickname": "BlazeMind",
+            "stats": {
+                "rank": 34,
+                "elo": 1631,
+                "top": 1631,
+                "points": 0,
+                "pb": 507291,
+                "current": 2,
+                "streak": 2,
+                "matches": 4,
+                "playtime": 2171539,
+                "finished": 3,
+                "finishtime": 1635643,
+                "won": 3,
+                "lost": 1,
+                "forfeited": 0
+            },
+            "country": "au",
+            "matches": []
+        },
+        {
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1628,
                 "top": 1631,
                 "points": 0,
@@ -8272,7 +8294,7 @@
             "uuid": "bd276bdda370440a8754989c7faab51a",
             "nickname": "CookieAddicts",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1623,
                 "top": 1623,
                 "points": 0,
@@ -8519,7 +8541,7 @@
             "uuid": "4c1fdb69c9b8483d8cfcb0b4ae870cc8",
             "nickname": "incel_chud",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1618,
                 "top": 1618,
                 "points": 0,
@@ -8724,7 +8746,7 @@
             "uuid": "c41b14ac0f1547aeb7690276d82aa458",
             "nickname": "Psemcovici",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1616,
                 "top": 1637,
                 "points": 0,
@@ -8901,7 +8923,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1615,
                 "top": 1615,
                 "points": 0,
@@ -8923,7 +8945,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1613,
                 "top": 1727,
                 "points": 0,
@@ -9506,7 +9528,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1611,
                 "top": 1611,
                 "points": 0,
@@ -9991,7 +10013,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1610,
                 "top": 1610,
                 "points": 0,
@@ -10252,7 +10274,7 @@
             "uuid": "7751d507ab364914bac767a4d2574753",
             "nickname": "lumeh_CAR89",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1610,
                 "top": 1701,
                 "points": 0,
@@ -10751,7 +10773,7 @@
             "uuid": "350579d3e06341a0997ac47a91f2ac98",
             "nickname": "xFray_",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1608,
                 "top": 1608,
                 "points": 0,
@@ -10900,7 +10922,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1607,
                 "top": 1607,
                 "points": 0,
@@ -10993,7 +11015,7 @@
             "uuid": "a162fe30a8074cc6b9600719bc5e5ed9",
             "nickname": "Maraico",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1606,
                 "top": 1642,
                 "points": 0,
@@ -11086,7 +11108,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1606,
                 "top": 1630,
                 "points": 0,
@@ -11179,7 +11201,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1605,
                 "top": 1668,
                 "points": 0,
@@ -11398,7 +11420,7 @@
             "uuid": "040e328fcb6e47b594c57ee9fc24333e",
             "nickname": "LilMinien",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1603,
                 "top": 1603,
                 "points": 0,
@@ -11519,7 +11541,7 @@
             "uuid": "56714245be364bd1a469d0853552c109",
             "nickname": "orachi_",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1600,
                 "top": 1600,
                 "points": 0,
@@ -11536,43 +11558,6 @@
             },
             "country": "il",
             "matches": []
-        },
-        {
-            "uuid": "bdb7f407200d4882b78e656ca161bddf",
-            "nickname": "pjfqepojedfpo",
-            "stats": {
-                "rank": 49,
-                "elo": 1600,
-                "top": 1622,
-                "points": 0,
-                "pb": 546489,
-                "current": 0,
-                "streak": 2,
-                "matches": 5,
-                "playtime": 2306150,
-                "finished": 2,
-                "finishtime": 1147808,
-                "won": 2,
-                "lost": 3,
-                "forfeited": 3
-            },
-            "country": "fk",
-            "matches": [
-                {
-                    "date": 1767346856000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dontfwjosh",
-                    "elo": 1600,
-                    "change": -22,
-                    "oelo": 1601,
-                    "ochange": 22,
-                    "time": 455776,
-                    "forfeited": true,
-                    "decayed": false
-                }
-            ]
         }
     ]
 }

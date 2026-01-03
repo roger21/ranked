@@ -314,12 +314,12 @@
         },
         "pb": 415471,
         "streak": 12,
-        "matches": 3299,
-        "playtime": 1945935079,
+        "matches": 3300,
+        "playtime": 1946512028,
         "finished": 1329,
         "finishtime": 906048786,
         "won": 1724,
-        "lost": 1468,
+        "lost": 1469,
         "forfeited": 543
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
@@ -1970,12 +1970,12 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 3458,
-        "playtime": 2096890921,
+        "matches": 3460,
+        "playtime": 2097991829,
         "finished": 1166,
         "finishtime": 865514614,
-        "won": 1706,
-        "lost": 1486,
+        "won": 1707,
+        "lost": 1487,
         "forfeited": 517
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -2709,7 +2709,7 @@
             "7": 1952,
             "8": 1922,
             "9": 2172,
-            "10": 1546
+            "10": 1582
         },
         "points": {
             "1": 0,
@@ -2725,11 +2725,11 @@
         },
         "pb": 455846,
         "streak": 13,
-        "matches": 5144,
-        "playtime": 3360726642,
-        "finished": 1714,
-        "finishtime": 1334270084,
-        "won": 2604,
+        "matches": 5146,
+        "playtime": 3362285774,
+        "finished": 1716,
+        "finishtime": 1335829216,
+        "won": 2606,
         "lost": 2337,
         "forfeited": 779
     },
@@ -4370,7 +4370,7 @@
             "7": 2123,
             "8": 2253,
             "9": 2523,
-            "10": 0
+            "10": 1631
         },
         "points": {
             "1": 0,
@@ -4386,11 +4386,11 @@
         },
         "pb": 378785,
         "streak": 13,
-        "matches": 5082,
-        "playtime": 3307083181,
-        "finished": 1886,
-        "finishtime": 1320160292,
-        "won": 2639,
+        "matches": 5083,
+        "playtime": 3307606701,
+        "finished": 1887,
+        "finishtime": 1320683812,
+        "won": 2640,
         "lost": 2219,
         "forfeited": 284
     },
