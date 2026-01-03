@@ -1,5 +1,5 @@
 {
-    "date": 1767432001000,
+    "date": 1767432601000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -8269,10 +8269,61 @@
             ]
         },
         {
+            "uuid": "ac601ce7376f49cea7ce14cd577dac85",
+            "nickname": "BlazeMind",
+            "stats": {
+                "rank": 35,
+                "elo": 1627,
+                "top": 1631,
+                "points": 0,
+                "pb": 507291,
+                "current": 1,
+                "streak": 2,
+                "matches": 6,
+                "playtime": 3381574,
+                "finished": 4,
+                "finishtime": 2237763,
+                "won": 4,
+                "lost": 2,
+                "forfeited": 0
+            },
+            "country": "au",
+            "matches": [
+                {
+                    "date": 1767432026000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Traden",
+                    "elo": 1627,
+                    "change": 17,
+                    "oelo": 1520,
+                    "ochange": -17,
+                    "time": 602120,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767431024000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "SammmyG",
+                    "elo": 1610,
+                    "change": -21,
+                    "oelo": 1620,
+                    "ochange": 21,
+                    "time": 607915,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "bd276bdda370440a8754989c7faab51a",
             "nickname": "CookieAddicts",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1623,
                 "top": 1623,
                 "points": 0,
@@ -8519,7 +8570,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1620,
                 "top": 1621,
                 "points": 0,
@@ -8864,7 +8915,7 @@
             "uuid": "4c1fdb69c9b8483d8cfcb0b4ae870cc8",
             "nickname": "incel_chud",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1618,
                 "top": 1618,
                 "points": 0,
@@ -9069,7 +9120,7 @@
             "uuid": "c41b14ac0f1547aeb7690276d82aa458",
             "nickname": "Psemcovici",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1616,
                 "top": 1637,
                 "points": 0,
@@ -9246,7 +9297,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1615,
                 "top": 1615,
                 "points": 0,
@@ -9268,7 +9319,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1613,
                 "top": 1727,
                 "points": 0,
@@ -9851,7 +9902,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1611,
                 "top": 1611,
                 "points": 0,
@@ -10336,7 +10387,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1610,
                 "top": 1610,
                 "points": 0,
@@ -10588,57 +10639,6 @@
                     "oelo": 1557,
                     "ochange": 20,
                     "time": 598760,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "ac601ce7376f49cea7ce14cd577dac85",
-            "nickname": "BlazeMind",
-            "stats": {
-                "rank": 35,
-                "elo": 1627,
-                "top": 1631,
-                "points": 0,
-                "pb": 507291,
-                "current": 1,
-                "streak": 2,
-                "matches": 6,
-                "playtime": 3381574,
-                "finished": 4,
-                "finishtime": 2237763,
-                "won": 4,
-                "lost": 2,
-                "forfeited": 0
-            },
-            "country": "au",
-            "matches": [
-                {
-                    "date": 1767432026000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Traden",
-                    "elo": 1627,
-                    "change": 17,
-                    "oelo": 1520,
-                    "ochange": -17,
-                    "time": 602120,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1767431024000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 1610,
-                    "change": -21,
-                    "oelo": 1620,
-                    "ochange": 21,
-                    "time": 607915,
                     "forfeited": false,
                     "decayed": false
                 }
