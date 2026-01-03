@@ -1,5 +1,5 @@
 {
-    "date": 1767431401000,
+    "date": 1767432001000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -10597,23 +10597,37 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 42,
-                "elo": 1610,
+                "rank": 35,
+                "elo": 1627,
                 "top": 1631,
                 "points": 0,
                 "pb": 507291,
-                "current": 0,
+                "current": 1,
                 "streak": 2,
-                "matches": 5,
-                "playtime": 2779454,
-                "finished": 3,
-                "finishtime": 1635643,
-                "won": 3,
+                "matches": 6,
+                "playtime": 3381574,
+                "finished": 4,
+                "finishtime": 2237763,
+                "won": 4,
                 "lost": 2,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1767432026000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Traden",
+                    "elo": 1627,
+                    "change": 17,
+                    "oelo": 1520,
+                    "ochange": -17,
+                    "time": 602120,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767431024000,
                     "type": "RUINED_PORTAL",
@@ -10634,7 +10648,7 @@
             "uuid": "7751d507ab364914bac767a4d2574753",
             "nickname": "lumeh_CAR89",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1610,
                 "top": 1701,
                 "points": 0,
