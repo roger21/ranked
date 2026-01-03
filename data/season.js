@@ -1,5 +1,5 @@
 {
-    "date": 1767466201000,
+    "date": 1767466801000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -13562,10 +13562,243 @@
             ]
         },
         {
+            "uuid": "2988fcfbc6b141a497faa915e13b6592",
+            "nickname": "AutomattPLUS",
+            "stats": {
+                "rank": 45,
+                "elo": 1623,
+                "top": 1668,
+                "points": 0,
+                "pb": 396273,
+                "current": 1,
+                "streak": 3,
+                "matches": 19,
+                "playtime": 10740100,
+                "finished": 10,
+                "finishtime": 5709795,
+                "won": 10,
+                "lost": 9,
+                "forfeited": 0
+            },
+            "country": "pl",
+            "matches": [
+                {
+                    "date": 1767466516000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "suravil",
+                    "elo": 1623,
+                    "change": 18,
+                    "oelo": 1544,
+                    "ochange": -18,
+                    "time": 723871,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767391892000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "KenanKardes",
+                    "elo": 1605,
+                    "change": -19,
+                    "oelo": 1670,
+                    "ochange": 19,
+                    "time": 601876,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767391090000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Maraico",
+                    "elo": 1624,
+                    "change": -21,
+                    "oelo": 1642,
+                    "ochange": 21,
+                    "time": 626424,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767390311000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "ColoOnPhilippine",
+                    "elo": 1645,
+                    "change": -20,
+                    "oelo": 1680,
+                    "ochange": 20,
+                    "time": 564178,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767389489000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Psemcovici",
+                    "elo": 1665,
+                    "change": 18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 600999,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767388801000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "okrzej_",
+                    "elo": 1647,
+                    "change": -18,
+                    "oelo": 1729,
+                    "ochange": 18,
+                    "time": 465178,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767388221000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "suravil",
+                    "elo": 1665,
+                    "change": 19,
+                    "oelo": 1607,
+                    "ochange": -19,
+                    "time": 396273,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767387734000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "ColoOnPhilippine",
+                    "elo": 1646,
+                    "change": 23,
+                    "oelo": 1680,
+                    "ochange": -23,
+                    "time": 547322,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767387115000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Gabryll",
+                    "elo": 1623,
+                    "change": 18,
+                    "oelo": 1543,
+                    "ochange": -18,
+                    "time": 483303,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767386547000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "q3awreh4yu78i",
+                    "elo": 1605,
+                    "change": -20,
+                    "oelo": 1656,
+                    "ochange": 20,
+                    "time": 640639,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767385859000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "suravil",
+                    "elo": 1625,
+                    "change": -21,
+                    "oelo": 1641,
+                    "ochange": 21,
+                    "time": 603234,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767385190000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "ColoOnPhilippine",
+                    "elo": 1646,
+                    "change": -22,
+                    "oelo": 1645,
+                    "ochange": 22,
+                    "time": 512705,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767384461000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "DARVY__X1",
+                    "elo": 1668,
+                    "change": 20,
+                    "oelo": 1636,
+                    "ochange": -20,
+                    "time": 630389,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767383783000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Duk4n_",
+                    "elo": 1648,
+                    "change": 18,
+                    "oelo": 1552,
+                    "ochange": -18,
+                    "time": 643276,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1767382922000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "XSpocony_MaciekX",
+                    "elo": 1630,
+                    "change": 24,
+                    "oelo": 1701,
+                    "ochange": -24,
+                    "time": 650543,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1621,
                 "top": 1621,
                 "points": 0,
@@ -13616,7 +13849,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1619,
                 "top": 1619,
                 "points": 0,
@@ -13779,7 +14012,7 @@
             "uuid": "4c1fdb69c9b8483d8cfcb0b4ae870cc8",
             "nickname": "incel_chud",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1618,
                 "top": 1618,
                 "points": 0,
@@ -13984,7 +14217,7 @@
             "uuid": "c41b14ac0f1547aeb7690276d82aa458",
             "nickname": "Psemcovici",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1616,
                 "top": 1637,
                 "points": 0,
@@ -14156,28 +14389,6 @@
                     "decayed": false
                 }
             ]
-        },
-        {
-            "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
-            "nickname": "nyachloe",
-            "stats": {
-                "rank": 50,
-                "elo": 1615,
-                "top": 1615,
-                "points": 0,
-                "pb": 503262,
-                "current": 0,
-                "streak": 1,
-                "matches": 4,
-                "playtime": 2376756,
-                "finished": 1,
-                "finishtime": 503262,
-                "won": 1,
-                "lost": 1,
-                "forfeited": 0
-            },
-            "country": "us",
-            "matches": []
         }
     ]
 }
