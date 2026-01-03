@@ -1,5 +1,5 @@
 {
-    "date": 1767424201000,
+    "date": 1767424801000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -6610,14 +6610,14 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 24,
-                "elo": 1657,
+                "elo": 1655,
                 "top": 1657,
                 "points": 0,
                 "pb": 533973,
                 "current": 4,
                 "streak": 4,
-                "matches": 9,
-                "playtime": 5423649,
+                "matches": 10,
+                "playtime": 5762151,
                 "finished": 6,
                 "finishtime": 3653909,
                 "won": 6,
@@ -6626,6 +6626,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767424595000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "b1ur_",
+                    "elo": 1655,
+                    "change": -2,
+                    "oelo": 1525,
+                    "ochange": 2,
+                    "time": 338502,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767424092000,
                     "type": "DESERT_TEMPLE",
@@ -6702,7 +6716,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 1655,
                 "top": 1655,
                 "points": 0,
