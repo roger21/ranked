@@ -1,5 +1,5 @@
 {
-    "date": 1767435001000,
+    "date": 1767435601000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -4682,48 +4682,40 @@
             ]
         },
         {
-            "uuid": "17e787d1d6374f818b294f2319db370d",
-            "nickname": "silverrruns",
-            "stats": {
-                "rank": 17,
-                "elo": 1675,
-                "top": 1675,
-                "points": 0,
-                "pb": 426886,
-                "current": 1,
-                "streak": 2,
-                "matches": 4,
-                "playtime": 1939108,
-                "finished": 3,
-                "finishtime": 1495435,
-                "won": 3,
-                "lost": 1,
-                "forfeited": 0
-            },
-            "country": "ca",
-            "matches": []
-        },
-        {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 17,
-                "elo": 1675,
-                "top": 1675,
+                "elo": 1690,
+                "top": 1690,
                 "points": 0,
                 "pb": 488903,
-                "current": 4,
-                "streak": 4,
-                "matches": 9,
-                "playtime": 5010701,
-                "finished": 7,
-                "finishtime": 3866890,
-                "won": 7,
+                "current": 5,
+                "streak": 5,
+                "matches": 10,
+                "playtime": 5811350,
+                "finished": 8,
+                "finishtime": 4667539,
+                "won": 8,
                 "lost": 2,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1767435261000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "IBringSuffering",
+                    "elo": 1690,
+                    "change": 15,
+                    "oelo": 1520,
+                    "ochange": -15,
+                    "time": 800649,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767434158000,
                     "type": "VILLAGE",
@@ -4797,10 +4789,32 @@
             ]
         },
         {
+            "uuid": "17e787d1d6374f818b294f2319db370d",
+            "nickname": "silverrruns",
+            "stats": {
+                "rank": 18,
+                "elo": 1675,
+                "top": 1675,
+                "points": 0,
+                "pb": 426886,
+                "current": 1,
+                "streak": 2,
+                "matches": 4,
+                "playtime": 1939108,
+                "finished": 3,
+                "finishtime": 1495435,
+                "won": 3,
+                "lost": 1,
+                "forfeited": 0
+            },
+            "country": "ca",
+            "matches": []
+        },
+        {
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 17,
+                "rank": 18,
                 "elo": 1675,
                 "top": 1675,
                 "points": 0,
