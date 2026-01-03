@@ -1,5 +1,5 @@
 {
-    "date": 1767464401000,
+    "date": 1767465001000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -8905,50 +8905,6 @@
             ]
         },
         {
-            "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
-            "nickname": "Pinne",
-            "stats": {
-                "rank": 30,
-                "elo": 1655,
-                "top": 1655,
-                "points": 0,
-                "pb": 468476,
-                "current": 0,
-                "streak": 3,
-                "matches": 4,
-                "playtime": 2051388,
-                "finished": 3,
-                "finishtime": 1521584,
-                "won": 3,
-                "lost": 1,
-                "forfeited": 0
-            },
-            "country": "no",
-            "matches": []
-        },
-        {
-            "uuid": "7665f76f431b41c6b321bea16aff913b",
-            "nickname": "lowk3y_",
-            "stats": {
-                "rank": 31,
-                "elo": 1651,
-                "top": 1651,
-                "points": 0,
-                "pb": 540975,
-                "current": 2,
-                "streak": 2,
-                "matches": 4,
-                "playtime": 2151411,
-                "finished": 3,
-                "finishtime": 1647349,
-                "won": 3,
-                "lost": 1,
-                "forfeited": 0
-            },
-            "country": null,
-            "matches": []
-        },
-        {
             "uuid": "fdff6a3e88054664974dbcd30583fe81",
             "nickname": "Finnitzko",
             "stats": {
@@ -9124,6 +9080,50 @@
                     "decayed": false
                 }
             ]
+        },
+        {
+            "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
+            "nickname": "Pinne",
+            "stats": {
+                "rank": 30,
+                "elo": 1655,
+                "top": 1655,
+                "points": 0,
+                "pb": 468476,
+                "current": 0,
+                "streak": 3,
+                "matches": 4,
+                "playtime": 2051388,
+                "finished": 3,
+                "finishtime": 1521584,
+                "won": 3,
+                "lost": 1,
+                "forfeited": 0
+            },
+            "country": "no",
+            "matches": []
+        },
+        {
+            "uuid": "7665f76f431b41c6b321bea16aff913b",
+            "nickname": "lowk3y_",
+            "stats": {
+                "rank": 31,
+                "elo": 1651,
+                "top": 1651,
+                "points": 0,
+                "pb": 540975,
+                "current": 2,
+                "streak": 2,
+                "matches": 4,
+                "playtime": 2151411,
+                "finished": 3,
+                "finishtime": 1647349,
+                "won": 3,
+                "lost": 1,
+                "forfeited": 0
+            },
+            "country": null,
+            "matches": []
         },
         {
             "uuid": "0b6c44a481e14c7e88ac836c92499ff4",
