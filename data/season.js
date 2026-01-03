@@ -1,5 +1,5 @@
 {
-    "date": 1767463201000,
+    "date": 1767463801000,
     "players": [
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
@@ -8905,18 +8905,40 @@
             ]
         },
         {
+            "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
+            "nickname": "Pinne",
+            "stats": {
+                "rank": 29,
+                "elo": 1655,
+                "top": 1655,
+                "points": 0,
+                "pb": 468476,
+                "current": 0,
+                "streak": 3,
+                "matches": 4,
+                "playtime": 2051388,
+                "finished": 3,
+                "finishtime": 1521584,
+                "won": 3,
+                "lost": 1,
+                "forfeited": 0
+            },
+            "country": "no",
+            "matches": []
+        },
+        {
             "uuid": "da363d16771d4b01b5a3f760c793b502",
             "nickname": "pogmonkey21",
             "stats": {
-                "rank": 29,
-                "elo": 1657,
+                "rank": 30,
+                "elo": 1654,
                 "top": 1657,
                 "points": 0,
                 "pb": 557994,
                 "current": 4,
                 "streak": 7,
-                "matches": 58,
-                "playtime": 38296113,
+                "matches": 59,
+                "playtime": 39062666,
                 "finished": 26,
                 "finishtime": 18916808,
                 "won": 34,
@@ -8925,6 +8947,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1767463349000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "SH1MCEN",
+                    "elo": 1654,
+                    "change": -3,
+                    "oelo": 1439,
+                    "ochange": 3,
+                    "time": 766553,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767462456000,
                     "type": "BURIED_TREASURE",
@@ -9668,28 +9704,6 @@
                     "decayed": false
                 }
             ]
-        },
-        {
-            "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
-            "nickname": "Pinne",
-            "stats": {
-                "rank": 30,
-                "elo": 1655,
-                "top": 1655,
-                "points": 0,
-                "pb": 468476,
-                "current": 0,
-                "streak": 3,
-                "matches": 4,
-                "playtime": 2051388,
-                "finished": 3,
-                "finishtime": 1521584,
-                "won": 3,
-                "lost": 1,
-                "forfeited": 0
-            },
-            "country": "no",
-            "matches": []
         },
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
