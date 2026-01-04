@@ -1,5 +1,5 @@
 {
-    "date": 1767532201000,
+    "date": 1767532801000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -9216,8 +9216,8 @@
                 "pb": 458859,
                 "current": 3,
                 "streak": 5,
-                "matches": 10,
-                "playtime": 5738793,
+                "matches": 11,
+                "playtime": 6236496,
                 "finished": 8,
                 "finishtime": 4590205,
                 "won": 8,
@@ -9226,6 +9226,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1767532591000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "slowunc",
+                    "elo": 1682,
+                    "change": 0,
+                    "oelo": 1652,
+                    "ochange": 0,
+                    "time": 497703,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767531719000,
                     "type": "VILLAGE",
@@ -9777,14 +9791,14 @@
             "nickname": "cornflakesmcsr",
             "stats": {
                 "rank": 29,
-                "elo": 1661,
+                "elo": 1660,
                 "top": 1661,
                 "points": 0,
                 "pb": 493472,
                 "current": 1,
                 "streak": 4,
-                "matches": 28,
-                "playtime": 17645739,
+                "matches": 29,
+                "playtime": 18581887,
                 "finished": 17,
                 "finishtime": 10452836,
                 "won": 18,
@@ -9793,6 +9807,20 @@
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1767532663000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "sanshynE",
+                    "elo": 1660,
+                    "change": -1,
+                    "oelo": 1554,
+                    "ochange": 1,
+                    "time": 936148,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767531483000,
                     "type": "BURIED_TREASURE",
@@ -11871,8 +11899,8 @@
                 "pb": 488176,
                 "current": 3,
                 "streak": 6,
-                "matches": 110,
-                "playtime": 60689224,
+                "matches": 111,
+                "playtime": 61186927,
                 "finished": 42,
                 "finishtime": 25519240,
                 "won": 55,
@@ -11881,6 +11909,20 @@
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1767532591000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "retropog",
+                    "elo": 1652,
+                    "change": 0,
+                    "oelo": 1682,
+                    "ochange": 0,
+                    "time": 497703,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767532039000,
                     "type": "VILLAGE",
