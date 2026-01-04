@@ -1059,12 +1059,12 @@
         },
         "pb": 503742,
         "streak": 11,
-        "matches": 6958,
-        "playtime": 5057598335,
+        "matches": 6959,
+        "playtime": 5058255684,
         "finished": 2394,
         "finishtime": 1979830724,
         "won": 3535,
-        "lost": 3204,
+        "lost": 3205,
         "forfeited": 259
     },
     "2ed132f3f7ef4eaaaffad4bc87e020cd": {
@@ -1972,12 +1972,12 @@
         },
         "pb": 442839,
         "streak": 10,
-        "matches": 3463,
-        "playtime": 2099201263,
+        "matches": 3464,
+        "playtime": 2100056387,
         "finished": 1166,
         "finishtime": 865514614,
         "won": 1708,
-        "lost": 1489,
+        "lost": 1490,
         "forfeited": 518
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -5296,11 +5296,11 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1328,
-        "playtime": 843900308,
-        "finished": 552,
-        "finishtime": 373935685,
-        "won": 714,
+        "matches": 1329,
+        "playtime": 844611922,
+        "finished": 553,
+        "finishtime": 374647299,
+        "won": 715,
         "lost": 553,
         "forfeited": 73
     },
@@ -5783,42 +5783,5 @@
         "won": 3689,
         "lost": 3431,
         "forfeited": 1014
-    },
-    "fe6771646c5d43c1b713023fb69c10c6": {
-        "nickname": "SammmyG",
-        "country": "au",
-        "top": {
-            "1": 1541,
-            "2": 1333,
-            "3": 1416,
-            "4": 1710,
-            "5": 1618,
-            "6": 1633,
-            "7": 1690,
-            "8": 1672,
-            "9": 2102,
-            "10": 1633
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 5,
-            "7": 10,
-            "8": 0,
-            "9": 7,
-            "10": 0
-        },
-        "pb": 427042,
-        "streak": 14,
-        "matches": 2270,
-        "playtime": 1587472132,
-        "finished": 740,
-        "finishtime": 595651815,
-        "won": 1162,
-        "lost": 989,
-        "forfeited": 203
     }
 }
