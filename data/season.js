@@ -1,5 +1,5 @@
 {
-    "date": 1767514802000,
+    "date": 1767515401000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -2832,14 +2832,14 @@
             "nickname": "doogile",
             "stats": {
                 "rank": 7,
-                "elo": 1771,
+                "elo": 1769,
                 "top": 1771,
                 "points": 0,
                 "pb": 449914,
                 "current": 6,
                 "streak": 6,
-                "matches": 24,
-                "playtime": 12833917,
+                "matches": 25,
+                "playtime": 13419266,
                 "finished": 15,
                 "finishtime": 8425587,
                 "won": 16,
@@ -2848,6 +2848,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767514962000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "21mustard",
+                    "elo": 1769,
+                    "change": -2,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 585349,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767513604000,
                     "type": "RUINED_PORTAL",
@@ -16087,23 +16101,37 @@
             "uuid": "6d160110ea1e4ab3b1513b3b45c53556",
             "nickname": "MaybeSoul",
             "stats": {
-                "rank": 43,
-                "elo": 1627,
+                "rank": 62,
+                "elo": 1605,
                 "top": 1662,
                 "points": 0,
                 "pb": 540158,
                 "current": 0,
                 "streak": 7,
-                "matches": 32,
-                "playtime": 20881021,
+                "matches": 33,
+                "playtime": 21495017,
                 "finished": 16,
                 "finishtime": 10172200,
                 "won": 18,
-                "lost": 11,
+                "lost": 12,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767515419000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "semcomet",
+                    "elo": 1605,
+                    "change": -22,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 613996,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767514539000,
                     "type": "SHIPWRECK",
@@ -16595,7 +16623,7 @@
             "uuid": "2ed132f3f7ef4eaaaffad4bc87e020cd",
             "nickname": "hitti9999",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1626,
                 "top": 1626,
                 "points": 0,
@@ -17346,7 +17374,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1626,
                 "top": 1633,
                 "points": 0,
@@ -17901,7 +17929,7 @@
             "uuid": "7751d507ab364914bac767a4d2574753",
             "nickname": "lumeh_CAR89",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1626,
                 "top": 1701,
                 "points": 0,
@@ -18470,7 +18498,7 @@
             "uuid": "04f166515e1f47dd93fe81de0938e49b",
             "nickname": "PandaRuns",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1624,
                 "top": 1624,
                 "points": 0,
@@ -18801,7 +18829,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1621,
                 "top": 1621,
                 "points": 0,
@@ -18852,7 +18880,7 @@
             "uuid": "25d4de4fe37248f0bba16b43ca1994bb",
             "nickname": "Hinart",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1619,
                 "top": 1619,
                 "points": 0,
