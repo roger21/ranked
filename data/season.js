@@ -1,5 +1,5 @@
 {
-    "date": 1767513001000,
+    "date": 1767513601000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -2831,7 +2831,7 @@
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
-                "rank": 7,
+                "rank": 8,
                 "elo": 1757,
                 "top": 1757,
                 "points": 0,
@@ -2966,23 +2966,37 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
-                "rank": 8,
-                "elo": 1754,
-                "top": 1754,
+                "rank": 7,
+                "elo": 1771,
+                "top": 1771,
                 "points": 0,
                 "pb": 449914,
-                "current": 5,
-                "streak": 5,
-                "matches": 23,
-                "playtime": 12170990,
-                "finished": 14,
-                "finishtime": 7762660,
-                "won": 15,
+                "current": 6,
+                "streak": 6,
+                "matches": 24,
+                "playtime": 12833917,
+                "finished": 15,
+                "finishtime": 8425587,
+                "won": 16,
                 "lost": 8,
                 "forfeited": 1
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767513604000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "MaybeSoul",
+                    "elo": 1771,
+                    "change": 17,
+                    "oelo": 1645,
+                    "ochange": -17,
+                    "time": 662927,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767512390000,
                     "type": "BURIED_TREASURE",
@@ -9683,23 +9697,37 @@
             "uuid": "6d160110ea1e4ab3b1513b3b45c53556",
             "nickname": "MaybeSoul",
             "stats": {
-                "rank": 27,
-                "elo": 1662,
+                "rank": 35,
+                "elo": 1645,
                 "top": 1662,
                 "points": 0,
                 "pb": 540158,
-                "current": 7,
+                "current": 0,
                 "streak": 7,
-                "matches": 30,
-                "playtime": 19570029,
+                "matches": 31,
+                "playtime": 20232956,
                 "finished": 16,
                 "finishtime": 10172200,
                 "won": 18,
-                "lost": 9,
+                "lost": 10,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767513604000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "doogile",
+                    "elo": 1645,
+                    "change": -17,
+                    "oelo": 1771,
+                    "ochange": 17,
+                    "time": 662927,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767512836000,
                     "type": "SHIPWRECK",
@@ -10345,7 +10373,7 @@
             "uuid": "6c4b4e74963d40e3b5a7118f3e0b0dc4",
             "nickname": "leah_mp3",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 1659,
                 "top": 1712,
                 "points": 0,
@@ -10970,7 +10998,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1655,
                 "top": 1655,
                 "points": 0,
@@ -10992,7 +11020,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 1652,
                 "top": 1673,
                 "points": 0,
@@ -11421,7 +11449,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 1651,
                 "top": 1651,
                 "points": 0,
@@ -11443,7 +11471,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 1649,
                 "top": 1701,
                 "points": 0,
@@ -12404,7 +12432,7 @@
             "uuid": "0b6c44a481e14c7e88ac836c92499ff4",
             "nickname": "TIGERMCSR",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1648,
                 "top": 1668,
                 "points": 0,
