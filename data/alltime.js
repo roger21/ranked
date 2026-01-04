@@ -1477,7 +1477,7 @@
             "7": 1759,
             "8": 1880,
             "9": 2002,
-            "10": 0
+            "10": 1524
         },
         "points": {
             "1": 0,
@@ -1493,11 +1493,11 @@
         },
         "pb": 493121,
         "streak": 12,
-        "matches": 2632,
-        "playtime": 1858026030,
-        "finished": 932,
-        "finishtime": 736496436,
-        "won": 1375,
+        "matches": 2634,
+        "playtime": 1858968506,
+        "finished": 933,
+        "finishtime": 737228450,
+        "won": 1377,
         "lost": 1173,
         "forfeited": 98
     },
@@ -1551,7 +1551,7 @@
             "7": 2395,
             "8": 2416,
             "9": 2607,
-            "10": 1709
+            "10": 1710
         },
         "points": {
             "1": 0,
@@ -1567,11 +1567,11 @@
         },
         "pb": 396692,
         "streak": 29,
-        "matches": 4008,
-        "playtime": 2408649765,
-        "finished": 2283,
-        "finishtime": 1436534104,
-        "won": 2800,
+        "matches": 4009,
+        "playtime": 2409131276,
+        "finished": 2284,
+        "finishtime": 1437015615,
+        "won": 2801,
         "lost": 1090,
         "forfeited": 34
     },
@@ -4355,13 +4355,13 @@
         },
         "pb": 448905,
         "streak": 11,
-        "matches": 4439,
-        "playtime": 2727720607,
+        "matches": 4441,
+        "playtime": 2728706310,
         "finished": 1597,
         "finishtime": 1117151621,
         "won": 2239,
-        "lost": 2049,
-        "forfeited": 584
+        "lost": 2050,
+        "forfeited": 585
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -5263,12 +5263,12 @@
         },
         "pb": 445327,
         "streak": 9,
-        "matches": 2063,
-        "playtime": 1209138883,
+        "matches": 2064,
+        "playtime": 1209620394,
         "finished": 483,
         "finishtime": 398683159,
         "won": 985,
-        "lost": 949,
+        "lost": 950,
         "forfeited": 687
     },
     "da5e15a7d3c04a84b432defd5a15c910": {
