@@ -36,7 +36,7 @@
     $season_p="&season=$season";
     $season_p1="?season=$season";
     $last_match=(file_get_contents($api_url."matches?count=1&".
-                                   "type=2&includedecay{$season_p}",
+                                   "type=2&includedecay=true{$season_p}",
                                    false, $context));
     if($last_match === false ||
        !isset($http_response_header[0]) ||
