@@ -1,5 +1,5 @@
 {
-    "date": 1767520801000,
+    "date": 1767521401000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -4403,14 +4403,14 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 12,
-                "elo": 1730,
+                "elo": 1729,
                 "top": 1743,
                 "points": 0,
                 "pb": 475885,
                 "current": 1,
                 "streak": 6,
-                "matches": 37,
-                "playtime": 19834350,
+                "matches": 38,
+                "playtime": 20436714,
                 "finished": 20,
                 "finishtime": 11394132,
                 "won": 24,
@@ -4419,6 +4419,20 @@
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1767521325000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "sevensix_",
+                    "elo": 1729,
+                    "change": -1,
+                    "oelo": 1606,
+                    "ochange": 1,
+                    "time": 602364,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767520657000,
                     "type": "VILLAGE",
