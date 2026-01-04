@@ -1,5 +1,5 @@
 {
-    "date": 1767527401000,
+    "date": 1767528001000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -10109,10 +10109,47 @@
             ]
         },
         {
+            "uuid": "25349f93cf194f3baeee93d024eccc21",
+            "nickname": "retropog",
+            "stats": {
+                "rank": 29,
+                "elo": 1660,
+                "top": 1660,
+                "points": 0,
+                "pb": 484995,
+                "current": 5,
+                "streak": 5,
+                "matches": 5,
+                "playtime": 2643989,
+                "finished": 5,
+                "finishtime": 2643989,
+                "won": 5,
+                "lost": 0,
+                "forfeited": 0
+            },
+            "country": "au",
+            "matches": [
+                {
+                    "date": 1767527587000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "TapL",
+                    "elo": 1660,
+                    "change": 16,
+                    "oelo": 1506,
+                    "ochange": -16,
+                    "time": 535168,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "6c4b4e74963d40e3b5a7118f3e0b0dc4",
             "nickname": "leah_mp3",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 1659,
                 "top": 1712,
                 "points": 0,
@@ -10737,7 +10774,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 1655,
                 "top": 1655,
                 "points": 0,
@@ -10759,7 +10796,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 1653,
                 "top": 1655,
                 "points": 0,
@@ -11412,7 +11449,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1652,
                 "top": 1673,
                 "points": 0,
@@ -11841,7 +11878,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1651,
                 "top": 1651,
                 "points": 0,
@@ -11863,7 +11900,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1649,
                 "top": 1701,
                 "points": 0,
@@ -12824,7 +12861,7 @@
             "uuid": "0b6c44a481e14c7e88ac836c92499ff4",
             "nickname": "TIGERMCSR",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1648,
                 "top": 1668,
                 "points": 0,
@@ -13318,28 +13355,6 @@
                     "decayed": false
                 }
             ]
-        },
-        {
-            "uuid": "25349f93cf194f3baeee93d024eccc21",
-            "nickname": "retropog",
-            "stats": {
-                "rank": 36,
-                "elo": 1644,
-                "top": 1644,
-                "points": 0,
-                "pb": 484995,
-                "current": 4,
-                "streak": 4,
-                "matches": 4,
-                "playtime": 2108821,
-                "finished": 4,
-                "finishtime": 2108821,
-                "won": 4,
-                "lost": 0,
-                "forfeited": 0
-            },
-            "country": "au",
-            "matches": []
         },
         {
             "uuid": "7d320034571e405a9b6889104489a3c4",
