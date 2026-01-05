@@ -1390,12 +1390,12 @@
         },
         "pb": 493121,
         "streak": 12,
-        "matches": 2658,
-        "playtime": 1875659762,
+        "matches": 2659,
+        "playtime": 1876402431,
         "finished": 944,
         "finishtime": 745183121,
         "won": 1390,
-        "lost": 1183,
+        "lost": 1184,
         "forfeited": 98
     },
     "3c59ed02bccf4ea3a0f626af7955be91": {
@@ -2550,12 +2550,12 @@
         },
         "pb": 400502,
         "streak": 22,
-        "matches": 7224,
-        "playtime": 4155498640,
+        "matches": 7225,
+        "playtime": 4156005128,
         "finished": 3428,
         "finishtime": 2297933775,
         "won": 4447,
-        "lost": 2710,
+        "lost": 2711,
         "forfeited": 1159
     },
     "734a1c6118754829acc234135470152c": {
@@ -3396,12 +3396,12 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11765,
-        "playtime": 7461668652,
+        "matches": 11766,
+        "playtime": 7462313086,
         "finished": 4014,
         "finishtime": 3119664770,
         "won": 5964,
-        "lost": 5566,
+        "lost": 5567,
         "forfeited": 2627
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
@@ -4073,7 +4073,7 @@
             "7": 2522,
             "8": 2464,
             "9": 2714,
-            "10": 1828
+            "10": 1844
         },
         "points": {
             "3": 0,
@@ -4087,11 +4087,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 3155,
-        "playtime": 1813673442,
-        "finished": 1797,
-        "finishtime": 1068100354,
-        "won": 2133,
+        "matches": 3156,
+        "playtime": 1814179930,
+        "finished": 1798,
+        "finishtime": 1068606842,
+        "won": 2134,
         "lost": 964,
         "forfeited": 39
     },
@@ -4289,11 +4289,11 @@
         },
         "pb": 444853,
         "streak": 11,
-        "matches": 4461,
-        "playtime": 2739742398,
-        "finished": 1607,
-        "finishtime": 1123040288,
-        "won": 2250,
+        "matches": 4462,
+        "playtime": 2740485067,
+        "finished": 1608,
+        "finishtime": 1123782957,
+        "won": 2251,
         "lost": 2058,
         "forfeited": 588
     },
@@ -4466,11 +4466,11 @@
         },
         "pb": 417327,
         "streak": 12,
-        "matches": 4260,
-        "playtime": 2558584770,
-        "finished": 1676,
-        "finishtime": 1156273580,
-        "won": 2236,
+        "matches": 4261,
+        "playtime": 2559283282,
+        "finished": 1677,
+        "finishtime": 1156972092,
+        "won": 2237,
         "lost": 1942,
         "forfeited": 716
     },
@@ -4829,7 +4829,7 @@
             "7": 1719,
             "8": 1805,
             "9": 2030,
-            "10": 1653
+            "10": 1671
         },
         "points": {
             "1": 0,
@@ -4845,11 +4845,11 @@
         },
         "pb": 444518,
         "streak": 10,
-        "matches": 4104,
-        "playtime": 2559317862,
-        "finished": 1439,
-        "finishtime": 1098566873,
-        "won": 2122,
+        "matches": 4105,
+        "playtime": 2560024951,
+        "finished": 1440,
+        "finishtime": 1099273962,
+        "won": 2123,
         "lost": 1885,
         "forfeited": 890
     },
@@ -5173,33 +5173,6 @@
         "won": 2130,
         "lost": 1884,
         "forfeited": 210
-    },
-    "d30aa493035d4b168c8a4a1c20c766c8": {
-        "nickname": "CxrtxR",
-        "country": "id",
-        "top": {
-            "6": 1245,
-            "7": 1569,
-            "8": 1696,
-            "9": 1876,
-            "10": 1626
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0
-        },
-        "pb": 465781,
-        "streak": 9,
-        "matches": 3230,
-        "playtime": 2262726167,
-        "finished": 981,
-        "finishtime": 762416080,
-        "won": 1496,
-        "lost": 1415,
-        "forfeited": 212
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
         "nickname": "boosterruns",
