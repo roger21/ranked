@@ -1,5 +1,5 @@
 {
-    "date": 1767595201000,
+    "date": 1767595801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -23723,14 +23723,14 @@
             "nickname": "dandannyboy",
             "stats": {
                 "rank": 45,
-                "elo": 1641,
+                "elo": 1640,
                 "top": 1744,
                 "points": 0,
                 "pb": 413740,
                 "current": 2,
                 "streak": 5,
-                "matches": 43,
-                "playtime": 25726436,
+                "matches": 44,
+                "playtime": 26327208,
                 "finished": 19,
                 "finishtime": 11633202,
                 "won": 23,
@@ -23739,6 +23739,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1767595823000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "MaybeSoul",
+                    "elo": 1640,
+                    "change": -1,
+                    "oelo": 1574,
+                    "ochange": 1,
+                    "time": 600772,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767595042000,
                     "type": "DESERT_TEMPLE",

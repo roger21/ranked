@@ -5510,8 +5510,8 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 7684,
-        "playtime": 4775532154,
+        "matches": 7685,
+        "playtime": 4776132926,
         "finished": 3329,
         "finishtime": 2266410406,
         "won": 4132,
@@ -5637,7 +5637,7 @@
             "7": 2021,
             "8": 2023,
             "9": 2044,
-            "10": 1601
+            "10": 1620
         },
         "points": {
             "2": 0,
@@ -5652,11 +5652,11 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 6336,
-        "playtime": 3530648270,
-        "finished": 2373,
-        "finishtime": 1576603682,
-        "won": 3224,
+        "matches": 6337,
+        "playtime": 3531279111,
+        "finished": 2374,
+        "finishtime": 1577234523,
+        "won": 3225,
         "lost": 2932,
         "forfeited": 1733
     },
