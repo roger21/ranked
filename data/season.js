@@ -1,5 +1,5 @@
 {
-    "date": 1767702601000,
+    "date": 1767703201000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -22316,23 +22316,37 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 30,
-                "elo": 1694,
+                "rank": 27,
+                "elo": 1713,
                 "top": 1744,
                 "points": 0,
                 "pb": 464218,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 41,
-                "playtime": 23822751,
-                "finished": 21,
-                "finishtime": 12376711,
-                "won": 24,
+                "matches": 42,
+                "playtime": 24469094,
+                "finished": 22,
+                "finishtime": 13023054,
+                "won": 25,
                 "lost": 14,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1767703220000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "cornflakesmcsr",
+                    "elo": 1713,
+                    "change": 19,
+                    "oelo": 1645,
+                    "ochange": -19,
+                    "time": 646343,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767702517000,
                     "type": "DESERT_TEMPLE",
@@ -27002,23 +27016,37 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 39,
-                "elo": 1664,
+                "rank": 48,
+                "elo": 1645,
                 "top": 1698,
                 "points": 0,
                 "pb": 493472,
-                "current": 1,
+                "current": 0,
                 "streak": 4,
-                "matches": 48,
-                "playtime": 29940680,
+                "matches": 49,
+                "playtime": 30587023,
                 "finished": 26,
                 "finishtime": 16292748,
                 "won": 28,
-                "lost": 19,
+                "lost": 20,
                 "forfeited": 0
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1767703220000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Erikfzf",
+                    "elo": 1645,
+                    "change": -19,
+                    "oelo": 1713,
+                    "ochange": 19,
+                    "time": 646343,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767702500000,
                     "type": "RUINED_PORTAL",
@@ -27641,7 +27669,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1663,
                 "top": 1709,
                 "points": 0,
@@ -28000,7 +28028,7 @@
             "uuid": "6c4b4e74963d40e3b5a7118f3e0b0dc4",
             "nickname": "leah_mp3",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1659,
                 "top": 1712,
                 "points": 0,
@@ -28625,7 +28653,7 @@
             "uuid": "b6f45b2b47aa4e73b7e515b247e3eabf",
             "nickname": "yunusbes",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1656,
                 "top": 1656,
                 "points": 0,
@@ -29978,7 +30006,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1655,
                 "top": 1655,
                 "points": 0,
@@ -30000,7 +30028,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1655,
                 "top": 1655,
                 "points": 0,
@@ -30933,7 +30961,7 @@
             "uuid": "0388b80ebe6c4216b4a8305c0cd27894",
             "nickname": "tomscaredfamrow",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1651,
                 "top": 1658,
                 "points": 0,
@@ -31278,7 +31306,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1651,
                 "top": 1651,
                 "points": 0,
@@ -31300,7 +31328,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1649,
                 "top": 1649,
                 "points": 0,
@@ -31575,7 +31603,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1649,
                 "top": 1701,
                 "points": 0,
