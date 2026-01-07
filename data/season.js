@@ -1,5 +1,5 @@
 {
-    "date": 1767789001000,
+    "date": 1767789601000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -40336,7 +40336,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1651,
                 "top": 1651,
                 "points": 0,
@@ -40358,7 +40358,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1649,
                 "top": 1701,
                 "points": 0,
