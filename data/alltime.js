@@ -1096,13 +1096,13 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 6969,
-        "playtime": 4134332316,
+        "matches": 6970,
+        "playtime": 4134542591,
         "finished": 2330,
         "finishtime": 1617653083,
         "won": 3326,
-        "lost": 3151,
-        "forfeited": 1366
+        "lost": 3152,
+        "forfeited": 1367
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -2594,7 +2594,7 @@
             "7": 1952,
             "8": 1922,
             "9": 2172,
-            "10": 1631
+            "10": 1647
         },
         "points": {
             "1": 0,
@@ -2610,11 +2610,11 @@
         },
         "pb": 454537,
         "streak": 13,
-        "matches": 5200,
-        "playtime": 3396405017,
-        "finished": 1737,
-        "finishtime": 1349132134,
-        "won": 2632,
+        "matches": 5201,
+        "playtime": 3397084768,
+        "finished": 1738,
+        "finishtime": 1349811885,
+        "won": 2633,
         "lost": 2360,
         "forfeited": 779
     },
@@ -5186,12 +5186,12 @@
         },
         "pb": 414438,
         "streak": 11,
-        "matches": 4298,
-        "playtime": 2944799345,
+        "matches": 4299,
+        "playtime": 2945454256,
         "finished": 1442,
         "finishtime": 1108401276,
         "won": 2149,
-        "lost": 1900,
+        "lost": 1901,
         "forfeited": 210
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
@@ -5244,7 +5244,7 @@
             "7": 2011,
             "8": 2030,
             "9": 2103,
-            "10": 1624
+            "10": 1643
         },
         "points": {
             "1": 0,
@@ -5260,11 +5260,11 @@
         },
         "pb": 437835,
         "streak": 14,
-        "matches": 8042,
-        "playtime": 5187582868,
-        "finished": 2693,
-        "finishtime": 1974954847,
-        "won": 3971,
+        "matches": 8043,
+        "playtime": 5188172415,
+        "finished": 2694,
+        "finishtime": 1975544394,
+        "won": 3972,
         "lost": 3700,
         "forfeited": 1059
     },
