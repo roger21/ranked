@@ -1,5 +1,5 @@
 {
-    "date": 1767747601000,
+    "date": 1767748201000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -1822,8 +1822,8 @@
                 "pb": 408296,
                 "current": 2,
                 "streak": 9,
-                "matches": 60,
-                "playtime": 33422194,
+                "matches": 61,
+                "playtime": 33935984,
                 "finished": 42,
                 "finishtime": 23411645,
                 "won": 45,
@@ -1832,6 +1832,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767747932000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Infume",
+                    "elo": 1959,
+                    "change": 0,
+                    "oelo": 1935,
+                    "ochange": 0,
+                    "time": 513790,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767746793000,
                     "type": "VILLAGE",
@@ -2629,8 +2643,8 @@
                 "pb": 460525,
                 "current": 2,
                 "streak": 6,
-                "matches": 35,
-                "playtime": 19248081,
+                "matches": 36,
+                "playtime": 19761871,
                 "finished": 23,
                 "finishtime": 13164532,
                 "won": 26,
@@ -2639,6 +2653,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767747932000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Feinberg",
+                    "elo": 1935,
+                    "change": 0,
+                    "oelo": 1959,
+                    "ochange": 0,
+                    "time": 513790,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1767747373000,
                     "type": "SHIPWRECK",
