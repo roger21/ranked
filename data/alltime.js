@@ -1323,7 +1323,7 @@
         "forfeited": 1050
     },
     "3910d98bea254b488a10d6e91e469f7e": {
-        "nickname": "_qed",
+        "nickname": "dwoh",
         "country": "kr",
         "top": {
             "1": 1802,
@@ -4566,11 +4566,11 @@
         },
         "pb": 394194,
         "streak": 12,
-        "matches": 4349,
-        "playtime": 2609185273,
-        "finished": 1718,
-        "finishtime": 1181448582,
-        "won": 2288,
+        "matches": 4350,
+        "playtime": 2610027557,
+        "finished": 1719,
+        "finishtime": 1182290866,
+        "won": 2289,
         "lost": 1978,
         "forfeited": 719
     },
