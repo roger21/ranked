@@ -1,5 +1,5 @@
 {
-    "date": 1767748801000,
+    "date": 1767749401000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -2637,22 +2637,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 4,
-                "elo": 1935,
-                "top": 1935,
+                "elo": 1952,
+                "top": 1952,
                 "points": 0,
                 "pb": 460525,
-                "current": 2,
+                "current": 3,
                 "streak": 6,
-                "matches": 36,
-                "playtime": 19761871,
-                "finished": 23,
-                "finishtime": 13164532,
-                "won": 26,
+                "matches": 37,
+                "playtime": 20407927,
+                "finished": 24,
+                "finishtime": 13810588,
+                "won": 27,
                 "lost": 8,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1767749183000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Ancoboyy",
+                    "elo": 1952,
+                    "change": 17,
+                    "oelo": 1834,
+                    "ochange": -17,
+                    "time": 646056,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767747932000,
                     "type": "RUINED_PORTAL",
@@ -6696,22 +6710,36 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 7,
-                "elo": 1851,
+                "elo": 1834,
                 "top": 1851,
                 "points": 0,
                 "pb": 390896,
-                "current": 3,
+                "current": 0,
                 "streak": 6,
-                "matches": 98,
-                "playtime": 53276180,
+                "matches": 99,
+                "playtime": 53922236,
                 "finished": 46,
                 "finishtime": 26080410,
                 "won": 55,
-                "lost": 41,
+                "lost": 42,
                 "forfeited": 6
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1767749183000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 1834,
+                    "change": -17,
+                    "oelo": 1952,
+                    "ochange": 17,
+                    "time": 646056,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767748483000,
                     "type": "BURIED_TREASURE",
