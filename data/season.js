@@ -1,5 +1,5 @@
 {
-    "date": 1767795001000,
+    "date": 1767795601000,
     "players": [
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
@@ -29207,7 +29207,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1682,
                 "top": 1682,
                 "points": 0,
@@ -29748,7 +29748,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1677,
                 "top": 1677,
                 "points": 0,
@@ -30331,7 +30331,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1675,
                 "top": 1675,
                 "points": 0,
@@ -30353,7 +30353,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1672,
                 "top": 1762,
                 "points": 0,
@@ -31034,23 +31034,37 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 39,
-                "elo": 1668,
-                "top": 1674,
+                "rank": 35,
+                "elo": 1686,
+                "top": 1686,
                 "points": 0,
                 "pb": 459476,
-                "current": 2,
+                "current": 3,
                 "streak": 5,
-                "matches": 121,
-                "playtime": 75543174,
-                "finished": 51,
-                "finishtime": 33185520,
-                "won": 60,
+                "matches": 122,
+                "playtime": 76250541,
+                "finished": 52,
+                "finishtime": 33892887,
+                "won": 61,
                 "lost": 56,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1767795603000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ua0",
+                    "elo": 1686,
+                    "change": 18,
+                    "oelo": 1592,
+                    "ochange": -18,
+                    "time": 707367,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767794825000,
                     "type": "BURIED_TREASURE",
@@ -32695,7 +32709,7 @@
             "uuid": "64858295eb754646b03caead840391a2",
             "nickname": "Casssual",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1668,
                 "top": 1668,
                 "points": 0,
