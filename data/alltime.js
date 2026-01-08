@@ -1906,11 +1906,11 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2551,
-        "playtime": 1634306085,
-        "finished": 981,
-        "finishtime": 680930902,
-        "won": 1339,
+        "matches": 2552,
+        "playtime": 1635114899,
+        "finished": 982,
+        "finishtime": 681739716,
+        "won": 1340,
         "lost": 1127,
         "forfeited": 119
     },
@@ -3281,33 +3281,6 @@
         "lost": 1786,
         "forfeited": 671
     },
-    "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
-        "country": "jp",
-        "top": {
-            "6": 933,
-            "7": 1664,
-            "8": 1851,
-            "9": 2165,
-            "10": 1658
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 20,
-            "10": 0
-        },
-        "pb": 431658,
-        "streak": 14,
-        "matches": 6620,
-        "playtime": 3892711444,
-        "finished": 2285,
-        "finishtime": 1621830097,
-        "won": 3301,
-        "lost": 3117,
-        "forfeited": 1697
-    },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
         "country": "vn",
@@ -4413,11 +4386,11 @@
         },
         "pb": 378785,
         "streak": 13,
-        "matches": 5146,
-        "playtime": 3343564276,
-        "finished": 1926,
-        "finishtime": 1343774973,
-        "won": 2683,
+        "matches": 5147,
+        "playtime": 3344106493,
+        "finished": 1927,
+        "finishtime": 1344317190,
+        "won": 2684,
         "lost": 2238,
         "forfeited": 284
     },
@@ -5527,12 +5500,12 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 7726,
-        "playtime": 4802279119,
+        "matches": 7727,
+        "playtime": 4802821336,
         "finished": 3351,
         "finishtime": 2281343064,
         "won": 4157,
-        "lost": 3455,
+        "lost": 3456,
         "forfeited": 802
     },
     "e4cd494a4e0a423b9988618b86858c96": {
