@@ -1,5 +1,5 @@
 {
-    "date": 1767856801000,
+    "date": 1767857401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18437,7 +18437,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 1761,
                 "top": 1847,
                 "points": 0,
@@ -19258,7 +19258,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 1760,
                 "top": 1808,
                 "points": 0,
@@ -19701,7 +19701,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1751,
                 "top": 1777,
                 "points": 0,
@@ -20018,23 +20018,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 21,
-                "elo": 1751,
+                "rank": 18,
+                "elo": 1766,
                 "top": 1827,
                 "points": 0,
                 "pb": 413740,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 78,
-                "playtime": 48218897,
-                "finished": 37,
-                "finishtime": 23907634,
-                "won": 43,
+                "matches": 79,
+                "playtime": 49166433,
+                "finished": 38,
+                "finishtime": 24855170,
+                "won": 44,
                 "lost": 32,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1767857408000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "SammmyG",
+                    "elo": 1766,
+                    "change": 15,
+                    "oelo": 1604,
+                    "ochange": -15,
+                    "time": 947536,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767856386000,
                     "type": "DESERT_TEMPLE",
