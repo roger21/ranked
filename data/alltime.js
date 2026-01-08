@@ -244,12 +244,12 @@
         },
         "pb": 415471,
         "streak": 12,
-        "matches": 3388,
-        "playtime": 1998502711,
+        "matches": 3389,
+        "playtime": 1999073041,
         "finished": 1375,
         "finishtime": 934039852,
         "won": 1776,
-        "lost": 1504,
+        "lost": 1505,
         "forfeited": 546
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
@@ -3983,7 +3983,7 @@
             "7": 2110,
             "8": 2151,
             "9": 2267,
-            "10": 1653
+            "10": 1656
         },
         "points": {
             "1": 0,
@@ -3999,11 +3999,11 @@
         },
         "pb": 417343,
         "streak": 11,
-        "matches": 4020,
-        "playtime": 2702761431,
-        "finished": 1461,
-        "finishtime": 1076136368,
-        "won": 2039,
+        "matches": 4021,
+        "playtime": 2703428754,
+        "finished": 1462,
+        "finishtime": 1076803691,
+        "won": 2040,
         "lost": 1809,
         "forfeited": 188
     },
@@ -4335,7 +4335,7 @@
             "7": 2123,
             "8": 2253,
             "9": 2523,
-            "10": 1996
+            "10": 2011
         },
         "points": {
             "1": 0,
@@ -4351,11 +4351,11 @@
         },
         "pb": 378785,
         "streak": 13,
-        "matches": 5153,
-        "playtime": 3347103322,
-        "finished": 1933,
-        "finishtime": 1347314019,
-        "won": 2690,
+        "matches": 5154,
+        "playtime": 3347673652,
+        "finished": 1934,
+        "finishtime": 1347884349,
+        "won": 2691,
         "lost": 2238,
         "forfeited": 284
     },
@@ -5706,12 +5706,12 @@
         },
         "pb": 433890,
         "streak": 16,
-        "matches": 9552,
-        "playtime": 5718712115,
+        "matches": 9553,
+        "playtime": 5719379438,
         "finished": 3250,
         "finishtime": 2434413859,
         "won": 4755,
-        "lost": 4411,
+        "lost": 4412,
         "forfeited": 2034
     },
     "f55a7e31e65a453e941ebec79cd39992": {
