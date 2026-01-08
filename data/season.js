@@ -1,5 +1,5 @@
 {
-    "date": 1767868201000,
+    "date": 1767868802000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -5609,22 +5609,36 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 6,
-                "elo": 1987,
-                "top": 1987,
+                "elo": 1996,
+                "top": 1996,
                 "points": 0,
                 "pb": 425077,
-                "current": 6,
+                "current": 7,
                 "streak": 9,
-                "matches": 73,
-                "playtime": 41168576,
-                "finished": 48,
-                "finishtime": 27766266,
-                "won": 52,
+                "matches": 74,
+                "playtime": 41668160,
+                "finished": 49,
+                "finishtime": 28265850,
+                "won": 53,
                 "lost": 20,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1767868438000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "blobserr",
+                    "elo": 1996,
+                    "change": 9,
+                    "oelo": 1638,
+                    "ochange": -9,
+                    "time": 499584,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767867110000,
                     "type": "BURIED_TREASURE",
