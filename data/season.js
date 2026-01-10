@@ -1,5 +1,5 @@
 {
-    "date": 1768032001000,
+    "date": 1768032601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -41071,7 +41071,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 1760,
                 "top": 1808,
                 "points": 0,
@@ -41514,23 +41514,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 32,
-                "elo": 1748,
+                "rank": 35,
+                "elo": 1728,
                 "top": 1808,
                 "points": 0,
                 "pb": 465522,
                 "current": 0,
                 "streak": 8,
-                "matches": 103,
-                "playtime": 56044746,
+                "matches": 104,
+                "playtime": 56606189,
                 "finished": 51,
                 "finishtime": 29690663,
                 "won": 58,
-                "lost": 41,
+                "lost": 42,
                 "forfeited": 8
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1768032608000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Erikfzf",
+                    "elo": 1728,
+                    "change": -20,
+                    "oelo": 1768,
+                    "ochange": 20,
+                    "time": 561443,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1767980070000,
                     "type": "DESERT_TEMPLE",
@@ -42909,23 +42923,37 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 32,
-                "elo": 1748,
+                "rank": 30,
+                "elo": 1768,
                 "top": 1805,
                 "points": 0,
                 "pb": 464218,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 68,
-                "playtime": 39927035,
-                "finished": 34,
-                "finishtime": 20034369,
-                "won": 39,
+                "matches": 69,
+                "playtime": 40488478,
+                "finished": 35,
+                "finishtime": 20595812,
+                "won": 40,
                 "lost": 25,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1768032608000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 1768,
+                    "change": 20,
+                    "oelo": 1728,
+                    "ochange": -20,
+                    "time": 561443,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768031996000,
                     "type": "DESERT_TEMPLE",
@@ -43828,7 +43856,7 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 1743,
                 "top": 1771,
                 "points": 0,
@@ -44159,7 +44187,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1741,
                 "top": 1765,
                 "points": 0,
