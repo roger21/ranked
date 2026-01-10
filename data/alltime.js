@@ -191,7 +191,7 @@
             "7": 1574,
             "8": 2268,
             "9": 2283,
-            "10": 1817
+            "10": 1830
         },
         "points": {
             "1": 0,
@@ -207,11 +207,11 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 4738,
-        "playtime": 3040055235,
-        "finished": 1861,
-        "finishtime": 1319735444,
-        "won": 2432,
+        "matches": 4739,
+        "playtime": 3040766795,
+        "finished": 1862,
+        "finishtime": 1320447004,
+        "won": 2433,
         "lost": 2127,
         "forfeited": 420
     },
@@ -2818,13 +2818,13 @@
         },
         "pb": 410665,
         "streak": 10,
-        "matches": 3282,
-        "playtime": 2073395339,
+        "matches": 3283,
+        "playtime": 2073616859,
         "finished": 1143,
         "finishtime": 834297556,
         "won": 1654,
-        "lost": 1492,
-        "forfeited": 440
+        "lost": 1493,
+        "forfeited": 441
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
         "nickname": "TUDORULE",
@@ -3201,12 +3201,12 @@
         },
         "pb": 500589,
         "streak": 9,
-        "matches": 3912,
-        "playtime": 2632312172,
+        "matches": 3913,
+        "playtime": 2632997142,
         "finished": 1124,
         "finishtime": 931996910,
         "won": 1924,
-        "lost": 1797,
+        "lost": 1798,
         "forfeited": 674
     },
     "8393e90d9dd94a3eb838146a5ae5b724": {
@@ -4487,11 +4487,11 @@
         },
         "pb": 394194,
         "streak": 12,
-        "matches": 4480,
-        "playtime": 2685244819,
+        "matches": 4481,
+        "playtime": 2685466339,
         "finished": 1776,
         "finishtime": 1216464524,
-        "won": 2355,
+        "won": 2356,
         "lost": 2039,
         "forfeited": 726
     },
