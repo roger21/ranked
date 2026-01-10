@@ -3127,11 +3127,11 @@
         },
         "pb": 429445,
         "streak": 10,
-        "matches": 3284,
-        "playtime": 1925398041,
+        "matches": 3285,
+        "playtime": 1925841463,
         "finished": 1153,
         "finishtime": 769193317,
-        "won": 1604,
+        "won": 1605,
         "lost": 1492,
         "forfeited": 713
     },
@@ -3201,13 +3201,13 @@
         },
         "pb": 500589,
         "streak": 9,
-        "matches": 3906,
-        "playtime": 2628433813,
+        "matches": 3907,
+        "playtime": 2628877235,
         "finished": 1122,
         "finishtime": 930540034,
         "won": 1922,
-        "lost": 1793,
-        "forfeited": 671
+        "lost": 1794,
+        "forfeited": 672
     },
     "8393e90d9dd94a3eb838146a5ae5b724": {
         "nickname": "takachaaaaaaan",
