@@ -543,7 +543,7 @@
             "7": 2306,
             "8": 2300,
             "9": 2480,
-            "10": 1773
+            "10": 1797
         },
         "points": {
             "1": 0,
@@ -559,11 +559,11 @@
         },
         "pb": 400578,
         "streak": 23,
-        "matches": 3428,
-        "playtime": 2069783033,
-        "finished": 1700,
-        "finishtime": 1082131793,
-        "won": 2116,
+        "matches": 3429,
+        "playtime": 2070341651,
+        "finished": 1701,
+        "finishtime": 1082690411,
+        "won": 2117,
         "lost": 1208,
         "forfeited": 60
     },
@@ -734,12 +734,12 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 2883,
-        "playtime": 1785850653,
+        "matches": 2884,
+        "playtime": 1786409271,
         "finished": 1392,
         "finishtime": 891957614,
         "won": 1649,
-        "lost": 1157,
+        "lost": 1158,
         "forfeited": 55
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
@@ -952,12 +952,12 @@
         },
         "pb": 396273,
         "streak": 14,
-        "matches": 1373,
-        "playtime": 879031462,
+        "matches": 1374,
+        "playtime": 879635891,
         "finished": 685,
         "finishtime": 471372927,
         "won": 841,
-        "lost": 503,
+        "lost": 504,
         "forfeited": 5
     },
     "2e12870c08ec4337bc2e8fbf54e79853": {
@@ -1009,7 +1009,7 @@
             "7": 2283,
             "8": 2204,
             "9": 2506,
-            "10": 1970
+            "10": 1996
         },
         "points": {
             "2": 0,
@@ -1024,11 +1024,11 @@
         },
         "pb": 389666,
         "streak": 14,
-        "matches": 5223,
-        "playtime": 3068104492,
-        "finished": 2135,
-        "finishtime": 1370526579,
-        "won": 2707,
+        "matches": 5224,
+        "playtime": 3068695883,
+        "finished": 2136,
+        "finishtime": 1371117970,
+        "won": 2708,
         "lost": 2252,
         "forfeited": 582
     },
@@ -1314,12 +1314,12 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 17291,
-        "playtime": 10854708916,
+        "matches": 17292,
+        "playtime": 10855333448,
         "finished": 7431,
         "finishtime": 5061575020,
         "won": 9561,
-        "lost": 7465,
+        "lost": 7466,
         "forfeited": 1055
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -3713,13 +3713,13 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 6204,
-        "playtime": 3962147178,
+        "matches": 6205,
+        "playtime": 3962425773,
         "finished": 2162,
         "finishtime": 1586425736,
         "won": 3123,
-        "lost": 2916,
-        "forfeited": 965
+        "lost": 2917,
+        "forfeited": 966
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -3787,11 +3787,11 @@
         },
         "pb": 408296,
         "streak": 29,
-        "matches": 2696,
-        "playtime": 1578665397,
-        "finished": 1413,
-        "finishtime": 884580315,
-        "won": 1733,
+        "matches": 2697,
+        "playtime": 1579289929,
+        "finished": 1414,
+        "finishtime": 885204847,
+        "won": 1734,
         "lost": 930,
         "forfeited": 83
     },
@@ -4149,12 +4149,12 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 3228,
-        "playtime": 1852530039,
+        "matches": 3229,
+        "playtime": 1853121430,
         "finished": 1843,
         "finishtime": 1093916850,
         "won": 2190,
-        "lost": 978,
+        "lost": 979,
         "forfeited": 39
     },
     "a5d83ff042164ff1b862dedc118c1dae": {
@@ -5014,13 +5014,13 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 4937,
-        "playtime": 2814426904,
+        "matches": 4938,
+        "playtime": 2814924037,
         "finished": 1856,
         "finishtime": 1269470892,
         "won": 2543,
-        "lost": 2216,
-        "forfeited": 1129
+        "lost": 2217,
+        "forfeited": 1130
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
