@@ -1,5 +1,5 @@
 {
-    "date": 1768042801000,
+    "date": 1768043401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43530,22 +43530,36 @@
             "nickname": "iluappi",
             "stats": {
                 "rank": 35,
-                "elo": 1725,
-                "top": 1725,
+                "elo": 1738,
+                "top": 1738,
                 "points": 0,
                 "pb": 462886,
-                "current": 1,
+                "current": 2,
                 "streak": 5,
-                "matches": 45,
-                "playtime": 25421187,
-                "finished": 20,
-                "finishtime": 11658634,
-                "won": 25,
+                "matches": 46,
+                "playtime": 26026043,
+                "finished": 21,
+                "finishtime": 12263490,
+                "won": 26,
                 "lost": 17,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1768042907000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "PlumberOfTheYear",
+                    "elo": 1738,
+                    "change": 13,
+                    "oelo": 1498,
+                    "ochange": -13,
+                    "time": 604856,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768042051000,
                     "type": "BURIED_TREASURE",
@@ -44126,7 +44140,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1725,
                 "top": 1768,
                 "points": 0,
