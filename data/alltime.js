@@ -3894,13 +3894,13 @@
         },
         "pb": 445499,
         "streak": 13,
-        "matches": 6389,
-        "playtime": 3899823816,
+        "matches": 6391,
+        "playtime": 3900720904,
         "finished": 2141,
         "finishtime": 1554328288,
         "won": 3124,
-        "lost": 2922,
-        "forfeited": 1300
+        "lost": 2924,
+        "forfeited": 1301
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
