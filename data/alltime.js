@@ -485,11 +485,11 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 5928,
-        "playtime": 3796561579,
+        "matches": 5929,
+        "playtime": 3796855043,
         "finished": 1882,
         "finishtime": 1417592629,
-        "won": 2931,
+        "won": 2932,
         "lost": 2763,
         "forfeited": 971
     },
@@ -3205,11 +3205,11 @@
         },
         "pb": 500589,
         "streak": 9,
-        "matches": 3931,
-        "playtime": 2644208609,
-        "finished": 1132,
-        "finishtime": 937263154,
-        "won": 1933,
+        "matches": 3932,
+        "playtime": 2644876984,
+        "finished": 1133,
+        "finishtime": 937931529,
+        "won": 1934,
         "lost": 1807,
         "forfeited": 677
     },
@@ -5711,7 +5711,7 @@
         "forfeited": 405
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
-        "nickname": "SCHWARZER_RABE97",
+        "nickname": "jpx_x",
         "country": null,
         "top": {
             "6": 2085,
