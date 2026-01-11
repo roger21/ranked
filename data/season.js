@@ -1,5 +1,5 @@
 {
-    "date": 1768165801000,
+    "date": 1768166401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -42464,22 +42464,36 @@
             "nickname": "KenanKardes",
             "stats": {
                 "rank": 27,
-                "elo": 1780,
+                "elo": 1793,
                 "top": 1830,
                 "points": 0,
                 "pb": 435751,
-                "current": 2,
+                "current": 3,
                 "streak": 4,
-                "matches": 95,
-                "playtime": 54098168,
-                "finished": 42,
-                "finishtime": 26251826,
-                "won": 49,
+                "matches": 96,
+                "playtime": 54568877,
+                "finished": 43,
+                "finishtime": 26722535,
+                "won": 50,
                 "lost": 41,
                 "forfeited": 5
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1768166236000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "CookieAddicts",
+                    "elo": 1793,
+                    "change": 13,
+                    "oelo": 1566,
+                    "ochange": -13,
+                    "time": 470709,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768164323000,
                     "type": "DESERT_TEMPLE",
