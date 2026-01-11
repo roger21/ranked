@@ -1,5 +1,5 @@
 {
-    "date": 1768093201000,
+    "date": 1768093801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27006,22 +27006,36 @@
             "nickname": "meebie",
             "stats": {
                 "rank": 19,
-                "elo": 1830,
+                "elo": 1843,
                 "top": 1921,
                 "points": 0,
                 "pb": 394194,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 337,
-                "playtime": 198098041,
-                "finished": 154,
-                "finishtime": 95073491,
-                "won": 179,
+                "matches": 338,
+                "playtime": 198695953,
+                "finished": 155,
+                "finishtime": 95671403,
+                "won": 180,
                 "lost": 151,
                 "forfeited": 14
             },
             "country": "cf",
             "matches": [
+                {
+                    "date": 1768093734000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "TapL",
+                    "elo": 1843,
+                    "change": 13,
+                    "oelo": 1624,
+                    "ochange": -13,
+                    "time": 597912,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768092328000,
                     "type": "BURIED_TREASURE",
