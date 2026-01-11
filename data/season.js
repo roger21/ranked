@@ -1,5 +1,5 @@
 {
-    "date": 1768155601000,
+    "date": 1768156201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -61656,23 +61656,37 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 44,
-                "elo": 1705,
+                "rank": 50,
+                "elo": 1682,
                 "top": 1705,
                 "points": 0,
                 "pb": 465920,
-                "current": 7,
+                "current": 0,
                 "streak": 7,
-                "matches": 171,
-                "playtime": 105620616,
+                "matches": 172,
+                "playtime": 106283169,
                 "finished": 66,
                 "finishtime": 44242660,
                 "won": 85,
-                "lost": 74,
+                "lost": 75,
                 "forfeited": 3
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1768156219000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "ulqt",
+                    "elo": 1682,
+                    "change": -23,
+                    "oelo": 1635,
+                    "ochange": 23,
+                    "time": 662553,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768155197000,
                     "type": "RUINED_PORTAL",
@@ -64017,7 +64031,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1702,
                 "top": 1702,
                 "points": 0,
@@ -64236,7 +64250,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1701,
                 "top": 1701,
                 "points": 0,
@@ -65155,7 +65169,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1687,
                 "top": 1738,
                 "points": 0,
@@ -65934,7 +65948,7 @@
             "uuid": "97800bfa7f1c42e19162ea1c2bc7078b",
             "nickname": "misfitO1",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1685,
                 "top": 1707,
                 "points": 0,
@@ -69247,7 +69261,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1685,
                 "top": 1685,
                 "points": 0,
@@ -69550,7 +69564,7 @@
             "uuid": "3c59ed02bccf4ea3a0f626af7955be91",
             "nickname": "Tookannn",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1683,
                 "top": 1735,
                 "points": 0,
