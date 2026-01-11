@@ -1,5 +1,5 @@
 {
-    "date": 1768122001000,
+    "date": 1768122601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65486,23 +65486,37 @@
             "uuid": "7d3a6bb9f62645ae80cf40840ca84c50",
             "nickname": "Frigbob",
             "stats": {
-                "rank": 48,
-                "elo": 1688,
+                "rank": 54,
+                "elo": 1679,
                 "top": 1705,
                 "points": 0,
                 "pb": 503238,
-                "current": 2,
+                "current": 0,
                 "streak": 5,
-                "matches": 141,
-                "playtime": 87315014,
+                "matches": 142,
+                "playtime": 87969217,
                 "finished": 52,
                 "finishtime": 35744993,
                 "won": 69,
-                "lost": 58,
+                "lost": 59,
                 "forfeited": 10
             },
             "country": "ie",
             "matches": [
+                {
+                    "date": 1768122606000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1679,
+                    "change": -9,
+                    "oelo": 2053,
+                    "ochange": 9,
+                    "time": 654203,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768121734000,
                     "type": "DESERT_TEMPLE",
@@ -68346,7 +68360,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1687,
                 "top": 1738,
                 "points": 0,
