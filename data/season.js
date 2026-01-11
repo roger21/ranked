@@ -1,5 +1,5 @@
 {
-    "date": 1768159201000,
+    "date": 1768159801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50156,7 +50156,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1746,
                 "top": 1809,
                 "points": 0,
@@ -51607,7 +51607,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1746,
                 "top": 1807,
                 "points": 0,
@@ -52932,7 +52932,7 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1743,
                 "top": 1771,
                 "points": 0,
@@ -53263,7 +53263,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1741,
                 "top": 1765,
                 "points": 0,
@@ -53846,23 +53846,37 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 38,
-                "elo": 1735,
+                "rank": 34,
+                "elo": 1752,
                 "top": 1830,
                 "points": 0,
                 "pb": 435751,
-                "current": 0,
+                "current": 1,
                 "streak": 4,
-                "matches": 89,
-                "playtime": 50648901,
-                "finished": 38,
-                "finishtime": 23657045,
-                "won": 45,
+                "matches": 90,
+                "playtime": 51252288,
+                "finished": 39,
+                "finishtime": 24260432,
+                "won": 46,
                 "lost": 40,
                 "forfeited": 5
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1768159813000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Blad_d",
+                    "elo": 1752,
+                    "change": 17,
+                    "oelo": 1631,
+                    "ochange": -17,
+                    "time": 603387,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768159043000,
                     "type": "RUINED_PORTAL",
