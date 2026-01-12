@@ -1,5 +1,5 @@
 {
-    "date": 1768205401000,
+    "date": 1768206001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7919,22 +7919,36 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 6,
-                "elo": 2012,
+                "elo": 2022,
                 "top": 2100,
                 "points": 0,
                 "pb": 408296,
-                "current": 1,
+                "current": 2,
                 "streak": 14,
-                "matches": 126,
-                "playtime": 70311653,
-                "finished": 80,
-                "finishtime": 45236177,
-                "won": 86,
+                "matches": 127,
+                "playtime": 70937200,
+                "finished": 81,
+                "finishtime": 45861724,
+                "won": 87,
                 "lost": 39,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1768205676000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "LEC666888",
+                    "elo": 2022,
+                    "change": 10,
+                    "oelo": 1681,
+                    "ochange": -10,
+                    "time": 625547,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768180704000,
                     "type": "DESERT_TEMPLE",
