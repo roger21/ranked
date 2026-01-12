@@ -1277,13 +1277,13 @@
         },
         "pb": 495954,
         "streak": 11,
-        "matches": 957,
-        "playtime": 644305617,
+        "matches": 958,
+        "playtime": 644541656,
         "finished": 396,
         "finishtime": 295805293,
         "won": 546,
-        "lost": 375,
-        "forfeited": 43
+        "lost": 376,
+        "forfeited": 44
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
@@ -2373,12 +2373,12 @@
         },
         "pb": 485390,
         "streak": 11,
-        "matches": 196,
-        "playtime": 128183138,
+        "matches": 197,
+        "playtime": 128857541,
         "finished": 93,
         "finishtime": 63382194,
         "won": 129,
-        "lost": 58,
+        "lost": 59,
         "forfeited": 0
     },
     "625146b684804a29af2eaeb483a59ddf": {
@@ -2927,13 +2927,13 @@
         },
         "pb": 401764,
         "streak": 14,
-        "matches": 7532,
-        "playtime": 4212781060,
+        "matches": 7533,
+        "playtime": 4213139310,
         "finished": 2372,
         "finishtime": 1512078847,
         "won": 3466,
-        "lost": 3369,
-        "forfeited": 1959
+        "lost": 3370,
+        "forfeited": 1960
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
