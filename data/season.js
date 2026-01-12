@@ -1,5 +1,5 @@
 {
-    "date": 1768185001000,
+    "date": 1768185601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -47662,22 +47662,36 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 29,
-                "elo": 1772,
+                "elo": 1789,
                 "top": 1796,
                 "points": 0,
                 "pb": 448618,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 85,
-                "playtime": 50058685,
-                "finished": 45,
-                "finishtime": 26232202,
-                "won": 47,
+                "matches": 86,
+                "playtime": 50628014,
+                "finished": 46,
+                "finishtime": 26801531,
+                "won": 48,
                 "lost": 35,
                 "forfeited": 1
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1768185462000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "dinonuggieboi",
+                    "elo": 1789,
+                    "change": 17,
+                    "oelo": 1676,
+                    "ochange": -17,
+                    "time": 569329,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768184620000,
                     "type": "VILLAGE",
