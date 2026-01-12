@@ -1,5 +1,5 @@
 {
-    "date": 1768184401000,
+    "date": 1768185001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -47662,14 +47662,14 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 29,
-                "elo": 1773,
+                "elo": 1772,
                 "top": 1796,
                 "points": 0,
                 "pb": 448618,
                 "current": 0,
                 "streak": 7,
-                "matches": 84,
-                "playtime": 49460537,
+                "matches": 85,
+                "playtime": 50058685,
                 "finished": 45,
                 "finishtime": 26232202,
                 "won": 47,
@@ -47678,6 +47678,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1768184620000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "tomscaredfamrow",
+                    "elo": 1772,
+                    "change": -1,
+                    "oelo": 1672,
+                    "ochange": 1,
+                    "time": 598148,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768182422000,
                     "type": "SHIPWRECK",
