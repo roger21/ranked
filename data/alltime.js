@@ -697,12 +697,12 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 7251,
-        "playtime": 4463375713,
+        "matches": 7252,
+        "playtime": 4463928407,
         "finished": 2786,
         "finishtime": 1901776512,
         "won": 3651,
-        "lost": 3300,
+        "lost": 3301,
         "forfeited": 739
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -2880,7 +2880,7 @@
             "7": 2168,
             "8": 2257,
             "9": 2287,
-            "10": 1829
+            "10": 1844
         },
         "points": {
             "1": 0,
@@ -2896,11 +2896,11 @@
         },
         "pb": 396670,
         "streak": 12,
-        "matches": 6438,
-        "playtime": 3933365105,
-        "finished": 2454,
-        "finishtime": 1713426874,
-        "won": 3331,
+        "matches": 6439,
+        "playtime": 3933917799,
+        "finished": 2455,
+        "finishtime": 1713979568,
+        "won": 3332,
         "lost": 2869,
         "forfeited": 997
     },
@@ -3462,13 +3462,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 11907,
-        "playtime": 7549013728,
+        "matches": 11908,
+        "playtime": 7549667530,
         "finished": 4074,
         "finishtime": 3160036708,
         "won": 6031,
-        "lost": 5638,
-        "forfeited": 2655
+        "lost": 5639,
+        "forfeited": 2656
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -4883,7 +4883,7 @@
         "forfeited": 185
     },
     "c670041ed84c480cab4a6ee904905b5f": {
-        "nickname": "paplerr",
+        "nickname": "edqr",
         "country": "fj",
         "top": {
             "1": 1389,
