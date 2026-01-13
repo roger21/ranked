@@ -1,5 +1,5 @@
 {
-    "date": 1768306201000,
+    "date": 1768306801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64235,14 +64235,14 @@
             "nickname": "Gabryll",
             "stats": {
                 "rank": 38,
-                "elo": 1760,
+                "elo": 1758,
                 "top": 1760,
                 "points": 0,
                 "pb": 465920,
                 "current": 3,
                 "streak": 7,
-                "matches": 200,
-                "playtime": 124377162,
+                "matches": 201,
+                "playtime": 125162805,
                 "finished": 81,
                 "finishtime": 54337921,
                 "won": 102,
@@ -64251,6 +64251,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1768306592000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "semcomet",
+                    "elo": 1758,
+                    "change": -2,
+                    "oelo": 1575,
+                    "ochange": 2,
+                    "time": 785643,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768305487000,
                     "type": "VILLAGE",
