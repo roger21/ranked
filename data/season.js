@@ -1,5 +1,5 @@
 {
-    "date": 1768308001000,
+    "date": 1768308601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64262,15 +64262,15 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 37,
-                "elo": 1761,
+                "rank": 38,
+                "elo": 1759,
                 "top": 1761,
                 "points": 0,
                 "pb": 429924,
                 "current": 1,
                 "streak": 5,
-                "matches": 240,
-                "playtime": 143618104,
+                "matches": 241,
+                "playtime": 144355624,
                 "finished": 98,
                 "finishtime": 59653948,
                 "won": 118,
@@ -64279,6 +64279,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1768308083000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "pplazzz",
+                    "elo": 1759,
+                    "change": -2,
+                    "oelo": 1610,
+                    "ochange": 2,
+                    "time": 737520,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768306945000,
                     "type": "BURIED_TREASURE",
