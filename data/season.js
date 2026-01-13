@@ -1,5 +1,5 @@
 {
-    "date": 1768345201000,
+    "date": 1768345801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -8162,22 +8162,36 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 5,
-                "elo": 2031,
+                "elo": 2041,
                 "top": 2100,
                 "points": 0,
                 "pb": 408296,
-                "current": 0,
+                "current": 1,
                 "streak": 14,
-                "matches": 148,
-                "playtime": 82838321,
-                "finished": 93,
-                "finishtime": 52684570,
-                "won": 100,
+                "matches": 149,
+                "playtime": 83383539,
+                "finished": 94,
+                "finishtime": 53229788,
+                "won": 101,
                 "lost": 46,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1768345304000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "amari_i",
+                    "elo": 2041,
+                    "change": 10,
+                    "oelo": 1704,
+                    "ochange": -10,
+                    "time": 545218,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768344247000,
                     "type": "VILLAGE",
