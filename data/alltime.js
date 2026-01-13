@@ -1123,12 +1123,12 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 7084,
-        "playtime": 4197685019,
+        "matches": 7085,
+        "playtime": 4198250708,
         "finished": 2382,
         "finishtime": 1649105425,
         "won": 3385,
-        "lost": 3199,
+        "lost": 3200,
         "forfeited": 1387
     },
     "31f96d84ed9844bcabbd07f828001290": {
@@ -2540,12 +2540,12 @@
         },
         "pb": 454537,
         "streak": 13,
-        "matches": 5245,
-        "playtime": 3423024313,
+        "matches": 5246,
+        "playtime": 3423834097,
         "finished": 1759,
         "finishtime": 1363450430,
         "won": 2659,
-        "lost": 2377,
+        "lost": 2378,
         "forfeited": 779
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3604,11 +3604,11 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 6274,
-        "playtime": 4003367504,
-        "finished": 2192,
-        "finishtime": 1606291137,
-        "won": 3160,
+        "matches": 6275,
+        "playtime": 4003933193,
+        "finished": 2193,
+        "finishtime": 1606856826,
+        "won": 3161,
         "lost": 2947,
         "forfeited": 973
     },
@@ -3750,13 +3750,13 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 4510,
-        "playtime": 2583607735,
+        "matches": 4511,
+        "playtime": 2584082503,
         "finished": 1716,
         "finishtime": 1163698813,
         "won": 2278,
-        "lost": 2094,
-        "forfeited": 974
+        "lost": 2095,
+        "forfeited": 975
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "nickname": "sevensix_",
@@ -4535,7 +4535,7 @@
             "7": 1816,
             "8": 1694,
             "9": 1922,
-            "10": 1704
+            "10": 1715
         },
         "points": {
             "1": 0,
@@ -4551,11 +4551,11 @@
         },
         "pb": 460168,
         "streak": 12,
-        "matches": 822,
-        "playtime": 566017973,
-        "finished": 325,
-        "finishtime": 257795400,
-        "won": 481,
+        "matches": 824,
+        "playtime": 566752399,
+        "finished": 326,
+        "finishtime": 258319138,
+        "won": 483,
         "lost": 311,
         "forfeited": 63
     },
