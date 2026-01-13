@@ -1,5 +1,5 @@
 {
-    "date": 1768290001000,
+    "date": 1768290601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77657,7 +77657,7 @@
             "uuid": "31bb6401944d4fc5ad97f6cf90c54616",
             "nickname": "darkk575",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1717,
                 "top": 1717,
                 "points": 0,
@@ -79318,7 +79318,7 @@
             "uuid": "7447dd83b8bc4b7fb97d3ec316f529dc",
             "nickname": "Kxpow",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1717,
                 "top": 1735,
                 "points": 0,
@@ -80111,7 +80111,7 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1714,
                 "top": 1714,
                 "points": 0,
@@ -82122,7 +82122,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1712,
                 "top": 1712,
                 "points": 0,
