@@ -1,5 +1,5 @@
 {
-    "date": 1768316401000,
+    "date": 1768317001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67197,23 +67197,37 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 39,
-                "elo": 1744,
+                "rank": 50,
+                "elo": 1718,
                 "top": 1775,
                 "points": 0,
                 "pb": 429924,
-                "current": 1,
+                "current": 0,
                 "streak": 5,
-                "matches": 250,
-                "playtime": 149942852,
+                "matches": 251,
+                "playtime": 150795638,
                 "finished": 102,
                 "finishtime": 62207458,
                 "won": 122,
-                "lost": 109,
+                "lost": 110,
                 "forfeited": 4
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1768317023000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "IBringSuffering",
+                    "elo": 1718,
+                    "change": -26,
+                    "oelo": 1601,
+                    "ochange": 26,
+                    "time": 852786,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768315313000,
                     "type": "RUINED_PORTAL",
@@ -70664,7 +70678,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1743,
                 "top": 1743,
                 "points": 0,
@@ -71653,7 +71667,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1742,
                 "top": 1858,
                 "points": 0,
@@ -74252,7 +74266,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1741,
                 "top": 1765,
                 "points": 0,
@@ -74835,7 +74849,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1738,
                 "top": 1797,
                 "points": 0,
@@ -77518,7 +77532,7 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1738,
                 "top": 1771,
                 "points": 0,
@@ -77863,7 +77877,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1738,
                 "top": 1738,
                 "points": 0,
@@ -78012,7 +78026,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1735,
                 "top": 1777,
                 "points": 0,
@@ -78399,7 +78413,7 @@
             "uuid": "1fcc556edb414dce89ee0ee31799e4e2",
             "nickname": "pandaendoz",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1731,
                 "top": 1731,
                 "points": 0,
@@ -78926,7 +78940,7 @@
             "uuid": "8195522a3c574d86b2162c8b8ec8bd3d",
             "nickname": "pardonmc",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1725,
                 "top": 1727,
                 "points": 0,
@@ -81959,7 +81973,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amari_i",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1724,
                 "top": 1735,
                 "points": 0,
@@ -85356,7 +85370,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1723,
                 "top": 1723,
                 "points": 0,
