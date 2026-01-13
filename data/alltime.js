@@ -1968,13 +1968,13 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 3993,
-        "playtime": 2878876821,
+        "matches": 3994,
+        "playtime": 2879224320,
         "finished": 1244,
         "finishtime": 1059786254,
         "won": 2000,
-        "lost": 1802,
-        "forfeited": 324
+        "lost": 1803,
+        "forfeited": 325
     },
     "4cf401d7b9474756b06a653867d22fca": {
         "nickname": "BadGamer",
@@ -3602,11 +3602,11 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 8000,
-        "playtime": 4971032215,
-        "finished": 3113,
-        "finishtime": 2125811779,
-        "won": 4003,
+        "matches": 8002,
+        "playtime": 4971784508,
+        "finished": 3114,
+        "finishtime": 2126352724,
+        "won": 4005,
         "lost": 3736,
         "forfeited": 880
     },
@@ -5553,7 +5553,7 @@
             "6": 1257,
             "7": 1598,
             "9": 1996,
-            "10": 1763
+            "10": 1776
         },
         "points": {
             "5": 0,
@@ -5564,11 +5564,11 @@
         },
         "pb": 449571,
         "streak": 9,
-        "matches": 2602,
-        "playtime": 1657051265,
-        "finished": 750,
-        "finishtime": 552017976,
-        "won": 1221,
+        "matches": 2603,
+        "playtime": 1657772941,
+        "finished": 751,
+        "finishtime": 552739652,
+        "won": 1222,
         "lost": 1127,
         "forfeited": 433
     },
@@ -5748,7 +5748,7 @@
             "7": 1690,
             "8": 1672,
             "9": 2102,
-            "10": 1760
+            "10": 1777
         },
         "points": {
             "1": 0,
@@ -5764,11 +5764,11 @@
         },
         "pb": 427042,
         "streak": 14,
-        "matches": 2392,
-        "playtime": 1662464798,
+        "matches": 2393,
+        "playtime": 1662795954,
         "finished": 794,
         "finishtime": 629001384,
-        "won": 1223,
+        "won": 1224,
         "lost": 1041,
         "forfeited": 203
     }
