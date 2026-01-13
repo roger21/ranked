@@ -1,5 +1,5 @@
 {
-    "date": 1768314001000,
+    "date": 1768314601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40303,7 +40303,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1827,
                 "top": 1847,
                 "points": 0,
@@ -41628,7 +41628,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 1824,
                 "top": 1824,
                 "points": 0,
@@ -43947,23 +43947,37 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 27,
-                "elo": 1815,
-                "top": 1823,
+                "rank": 25,
+                "elo": 1828,
+                "top": 1828,
                 "points": 0,
                 "pb": 442789,
-                "current": 1,
+                "current": 2,
                 "streak": 5,
-                "matches": 34,
-                "playtime": 18062038,
-                "finished": 16,
-                "finishtime": 9351206,
-                "won": 21,
+                "matches": 35,
+                "playtime": 18600855,
+                "finished": 17,
+                "finishtime": 9890023,
+                "won": 22,
                 "lost": 13,
                 "forfeited": 2
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1768314618000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "pogmonkey21",
+                    "elo": 1828,
+                    "change": 13,
+                    "oelo": 1590,
+                    "ochange": -13,
+                    "time": 538817,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768313854000,
                     "type": "SHIPWRECK",
@@ -44404,7 +44418,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 1815,
                 "top": 1815,
                 "points": 0,
