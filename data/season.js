@@ -1,5 +1,5 @@
 {
-    "date": 1768318201000,
+    "date": 1768318801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78492,7 +78492,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amari_i",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1724,
                 "top": 1735,
                 "points": 0,
@@ -81889,7 +81889,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1723,
                 "top": 1723,
                 "points": 0,
@@ -84348,23 +84348,37 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 50,
-                "elo": 1718,
+                "rank": 46,
+                "elo": 1731,
                 "top": 1775,
                 "points": 0,
                 "pb": 429924,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
-                "matches": 251,
-                "playtime": 150795638,
-                "finished": 102,
-                "finishtime": 62207458,
-                "won": 122,
+                "matches": 252,
+                "playtime": 151614365,
+                "finished": 103,
+                "finishtime": 63026185,
+                "won": 123,
                 "lost": 110,
                 "forfeited": 4
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1768318845000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "sahke",
+                    "elo": 1731,
+                    "change": 13,
+                    "oelo": 1504,
+                    "ochange": -13,
+                    "time": 818727,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768317023000,
                     "type": "SHIPWRECK",
