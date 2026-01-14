@@ -1,5 +1,5 @@
 {
-    "date": 1768363201000,
+    "date": 1768363801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -83695,23 +83695,37 @@
             "uuid": "681679a877ef413c97da63162e835935",
             "nickname": "egcr",
             "stats": {
-                "rank": 49,
-                "elo": 1726,
+                "rank": 59,
+                "elo": 1702,
                 "top": 1726,
                 "points": 0,
                 "pb": 486245,
-                "current": 5,
+                "current": 0,
                 "streak": 5,
-                "matches": 104,
-                "playtime": 56435804,
+                "matches": 105,
+                "playtime": 57168503,
                 "finished": 40,
                 "finishtime": 24903828,
                 "won": 51,
-                "lost": 43,
+                "lost": 44,
                 "forfeited": 19
             },
             "country": "gd",
             "matches": [
+                {
+                    "date": 1768363819000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "staremc",
+                    "elo": 1702,
+                    "change": -24,
+                    "oelo": 1650,
+                    "ochange": 24,
+                    "time": 732699,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768362528000,
                     "type": "DESERT_TEMPLE",
@@ -85118,7 +85132,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1723,
                 "top": 1723,
                 "points": 0,
