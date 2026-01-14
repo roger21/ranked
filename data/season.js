@@ -1,5 +1,5 @@
 {
-    "date": 1768357201000,
+    "date": 1768357801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64544,22 +64544,36 @@
             "nickname": "bbiddd",
             "stats": {
                 "rank": 35,
-                "elo": 1774,
-                "top": 1785,
+                "elo": 1788,
+                "top": 1788,
                 "points": 0,
                 "pb": 460072,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 129,
-                "playtime": 72157581,
-                "finished": 57,
-                "finishtime": 34927809,
-                "won": 64,
+                "matches": 130,
+                "playtime": 72944274,
+                "finished": 58,
+                "finishtime": 35714502,
+                "won": 65,
                 "lost": 55,
                 "forfeited": 14
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1768357469000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "CyberOG",
+                    "elo": 1788,
+                    "change": 14,
+                    "oelo": 1596,
+                    "ochange": -14,
+                    "time": 786693,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768356309000,
                     "type": "DESERT_TEMPLE",
