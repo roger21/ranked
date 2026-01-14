@@ -1,5 +1,5 @@
 {
-    "date": 1768365001000,
+    "date": 1768365601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64795,7 +64795,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1771,
                 "top": 1809,
                 "points": 0,
@@ -66442,7 +66442,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1769,
                 "top": 1797,
                 "points": 0,
@@ -66717,7 +66717,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1768,
                 "top": 1815,
                 "points": 0,
@@ -68182,23 +68182,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 38,
-                "elo": 1767,
+                "rank": 35,
+                "elo": 1781,
                 "top": 1987,
                 "points": 0,
                 "pb": 443673,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 118,
-                "playtime": 66630292,
-                "finished": 62,
-                "finishtime": 35438591,
-                "won": 66,
+                "matches": 119,
+                "playtime": 67177988,
+                "finished": 63,
+                "finishtime": 35986287,
+                "won": 67,
                 "lost": 51,
                 "forfeited": 5
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1768365628000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "TapL",
+                    "elo": 1781,
+                    "change": 14,
+                    "oelo": 1588,
+                    "ochange": -14,
+                    "time": 547696,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768364637000,
                     "type": "DESERT_TEMPLE",
