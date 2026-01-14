@@ -1,5 +1,5 @@
 {
-    "date": 1768416001000,
+    "date": 1768416601000,
     "players": [
         {
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
@@ -40746,8 +40746,8 @@
                 "pb": 428770,
                 "current": 1,
                 "streak": 11,
-                "matches": 227,
-                "playtime": 126263861,
+                "matches": 228,
+                "playtime": 126678726,
                 "finished": 104,
                 "finishtime": 62315299,
                 "won": 117,
@@ -40756,6 +40756,20 @@
             },
             "country": "cf",
             "matches": [
+                {
+                    "date": 1768416355000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "AutomattPLUS",
+                    "elo": 1881,
+                    "change": 0,
+                    "oelo": 1849,
+                    "ochange": 0,
+                    "time": 414865,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768415369000,
                     "type": "BURIED_TREASURE",
@@ -51020,8 +51034,8 @@
                 "pb": 396273,
                 "current": 0,
                 "streak": 5,
-                "matches": 170,
-                "playtime": 100312066,
+                "matches": 171,
+                "playtime": 100726931,
                 "finished": 77,
                 "finishtime": 47087840,
                 "won": 87,
@@ -51030,6 +51044,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1768416355000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "nhb_",
+                    "elo": 1849,
+                    "change": 0,
+                    "oelo": 1881,
+                    "ochange": 0,
+                    "time": 414865,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768415887000,
                     "type": "VILLAGE",
@@ -71033,23 +71061,37 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 39,
-                "elo": 1752,
+                "rank": 48,
+                "elo": 1731,
                 "top": 1797,
                 "points": 0,
                 "pb": 465920,
                 "current": 0,
                 "streak": 7,
-                "matches": 222,
-                "playtime": 137286919,
+                "matches": 223,
+                "playtime": 137876803,
                 "finished": 87,
                 "finishtime": 58092490,
                 "won": 111,
-                "lost": 97,
+                "lost": 98,
                 "forfeited": 3
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1768416631000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "ColoOnPhilippine",
+                    "elo": 1731,
+                    "change": -21,
+                    "oelo": 1737,
+                    "ochange": 21,
+                    "time": 589884,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768415971000,
                     "type": "BURIED_TREASURE",
@@ -74108,7 +74150,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1750,
                 "top": 1775,
                 "points": 0,
@@ -77617,7 +77659,7 @@
             "uuid": "8195522a3c574d86b2162c8b8ec8bd3d",
             "nickname": "pardonmc",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1746,
                 "top": 1746,
                 "points": 0,
@@ -80664,7 +80706,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1743,
                 "top": 1743,
                 "points": 0,
@@ -81653,7 +81695,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1741,
                 "top": 1765,
                 "points": 0,
@@ -82236,7 +82278,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1738,
                 "top": 1738,
                 "points": 0,
@@ -85954,7 +85996,7 @@
             "uuid": "681679a877ef413c97da63162e835935",
             "nickname": "egcr",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1725,
                 "top": 1726,
                 "points": 0,
@@ -87405,7 +87447,7 @@
             "uuid": "7751d507ab364914bac767a4d2574753",
             "nickname": "lumeh_CAR89",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1725,
                 "top": 1931,
                 "points": 0,
@@ -90844,7 +90886,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1724,
                 "top": 1724,
                 "points": 0,
