@@ -1,5 +1,5 @@
 {
-    "date": 1768455601000,
+    "date": 1768456201000,
     "players": [
         {
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
@@ -18511,22 +18511,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 10,
-                "elo": 1952,
+                "elo": 1964,
                 "top": 1987,
                 "points": 0,
                 "pb": 443673,
-                "current": 4,
+                "current": 5,
                 "streak": 9,
-                "matches": 160,
-                "playtime": 90552387,
-                "finished": 86,
-                "finishtime": 49034365,
-                "won": 93,
+                "matches": 161,
+                "playtime": 91313550,
+                "finished": 87,
+                "finishtime": 49795528,
+                "won": 94,
                 "lost": 64,
                 "forfeited": 5
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1768455751000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "FuzzKing",
+                    "elo": 1964,
+                    "change": 12,
+                    "oelo": 1703,
+                    "ochange": -12,
+                    "time": 761163,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768454845000,
                     "type": "DESERT_TEMPLE",
