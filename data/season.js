@@ -1,5 +1,5 @@
 {
-    "date": 1768474201000,
+    "date": 1768474801000,
     "players": [
         {
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
@@ -65619,8 +65619,8 @@
                 "pb": 469410,
                 "current": 3,
                 "streak": 7,
-                "matches": 208,
-                "playtime": 123513106,
+                "matches": 209,
+                "playtime": 124313368,
                 "finished": 74,
                 "finishtime": 47800570,
                 "won": 95,
@@ -65629,6 +65629,20 @@
             },
             "country": "rs",
             "matches": [
+                {
+                    "date": 1768474389000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "yeopgihoney",
+                    "elo": 1794,
+                    "change": 0,
+                    "oelo": 1771,
+                    "ochange": 0,
+                    "time": 800262,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768473287000,
                     "type": "RUINED_PORTAL",
@@ -70350,8 +70364,8 @@
                 "pb": 454537,
                 "current": 1,
                 "streak": 6,
-                "matches": 147,
-                "playtime": 90362206,
+                "matches": 148,
+                "playtime": 91162468,
                 "finished": 62,
                 "finishtime": 39893064,
                 "won": 73,
@@ -70360,6 +70374,20 @@
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1768474389000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "Duk4n_",
+                    "elo": 1771,
+                    "change": 0,
+                    "oelo": 1794,
+                    "ochange": 0,
+                    "time": 800262,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768473534000,
                     "type": "RUINED_PORTAL",
