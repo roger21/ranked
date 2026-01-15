@@ -48,7 +48,7 @@
             "7": 1965,
             "8": 1980,
             "9": 2101,
-            "10": 1723
+            "10": 1725
         },
         "points": {
             "2": 0,
@@ -63,11 +63,11 @@
         },
         "pb": 432449,
         "streak": 11,
-        "matches": 7175,
-        "playtime": 4702087066,
+        "matches": 7176,
+        "playtime": 4702543705,
         "finished": 2502,
         "finishtime": 1876634350,
-        "won": 3581,
+        "won": 3582,
         "lost": 3351,
         "forfeited": 735
     },
@@ -353,13 +353,13 @@
         },
         "pb": 400846,
         "streak": 14,
-        "matches": 4423,
-        "playtime": 2653417337,
+        "matches": 4424,
+        "playtime": 2653856363,
         "finished": 1975,
         "finishtime": 1291368937,
         "won": 2392,
-        "lost": 1915,
-        "forfeited": 474
+        "lost": 1916,
+        "forfeited": 475
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
         "nickname": "xLourx",
@@ -1250,6 +1250,39 @@
         "lost": 386,
         "forfeited": 46
     },
+    "37e378a50afe41aa9a91139d524a7ba0": {
+        "nickname": "Duk4n_",
+        "country": "rs",
+        "top": {
+            "3": 959.5,
+            "4": 1291,
+            "5": 1692,
+            "6": 1667,
+            "7": 1480,
+            "8": 1860,
+            "9": 2054,
+            "10": 1752
+        },
+        "points": {
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "6": 10,
+            "7": 0,
+            "8": 8,
+            "9": 19,
+            "10": 0
+        },
+        "pb": 448708,
+        "streak": 12,
+        "matches": 3165,
+        "playtime": 1968386589,
+        "finished": 920,
+        "finishtime": 707962019,
+        "won": 1530,
+        "lost": 1399,
+        "forfeited": 635
+    },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
         "country": "se",
@@ -1869,11 +1902,11 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2658,
-        "playtime": 1696072485,
+        "matches": 2659,
+        "playtime": 1696364410,
         "finished": 1030,
         "finishtime": 711479971,
-        "won": 1397,
+        "won": 1398,
         "lost": 1176,
         "forfeited": 124
     },
@@ -2861,12 +2894,12 @@
         },
         "pb": 401764,
         "streak": 14,
-        "matches": 7609,
-        "playtime": 4254438194,
+        "matches": 7610,
+        "playtime": 4255112423,
         "finished": 2394,
         "finishtime": 1524386330,
         "won": 3491,
-        "lost": 3404,
+        "lost": 3405,
         "forfeited": 1977
     },
     "7b5563464fdf4757905e681040791ac0": {
@@ -3614,12 +3647,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 8015,
-        "playtime": 4979546310,
+        "matches": 8016,
+        "playtime": 4980180316,
         "finished": 3118,
         "finishtime": 2128907014,
         "won": 4010,
-        "lost": 3744,
+        "lost": 3745,
         "forfeited": 880
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -4419,7 +4452,7 @@
             "7": 1736,
             "8": 2016,
             "9": 2327,
-            "10": 2007
+            "10": 2019
         },
         "points": {
             "1": 0,
@@ -4435,11 +4468,11 @@
         },
         "pb": 394194,
         "streak": 12,
-        "matches": 4666,
-        "playtime": 2797690484,
+        "matches": 4667,
+        "playtime": 2798129510,
         "finished": 1866,
         "finishtime": 1273680989,
-        "won": 2456,
+        "won": 2457,
         "lost": 2120,
         "forfeited": 733
     },
@@ -5203,13 +5236,13 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1367,
-        "playtime": 866248382,
+        "matches": 1368,
+        "playtime": 866705021,
         "finished": 571,
         "finishtime": 386243276,
         "won": 736,
-        "lost": 568,
-        "forfeited": 80
+        "lost": 569,
+        "forfeited": 81
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "fdcr",
