@@ -1,5 +1,5 @@
 {
-    "date": 1768462801000,
+    "date": 1768463401000,
     "players": [
         {
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
@@ -19519,22 +19519,36 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 10,
-                "elo": 1968,
+                "elo": 1980,
                 "top": 2088,
                 "points": 0,
                 "pb": 425077,
-                "current": 1,
+                "current": 2,
                 "streak": 15,
-                "matches": 96,
-                "playtime": 54305055,
-                "finished": 64,
-                "finishtime": 37086375,
-                "won": 68,
+                "matches": 97,
+                "playtime": 54909087,
+                "finished": 65,
+                "finishtime": 37690407,
+                "won": 69,
                 "lost": 27,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1768462911000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "egcr",
+                    "elo": 1980,
+                    "change": 12,
+                    "oelo": 1706,
+                    "ochange": -12,
+                    "time": 604032,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768461541000,
                     "type": "RUINED_PORTAL",
