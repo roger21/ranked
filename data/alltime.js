@@ -485,11 +485,11 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 6048,
-        "playtime": 3868094216,
-        "finished": 1927,
-        "finishtime": 1446404636,
-        "won": 2984,
+        "matches": 6049,
+        "playtime": 3868667141,
+        "finished": 1928,
+        "finishtime": 1446977561,
+        "won": 2985,
         "lost": 2811,
         "forfeited": 987
     },
@@ -1275,12 +1275,12 @@
         },
         "pb": 448708,
         "streak": 12,
-        "matches": 3173,
-        "playtime": 1973521028,
+        "matches": 3174,
+        "playtime": 1974097961,
         "finished": 923,
         "finishtime": 709860362,
         "won": 1534,
-        "lost": 1401,
+        "lost": 1402,
         "forfeited": 635
     },
     "388533d5a2ad4b349a31db4738670a4b": {
@@ -2676,7 +2676,7 @@
             "7": 1793,
             "8": 1718,
             "9": 1759,
-            "10": 1549
+            "10": 1566
         },
         "points": {
             "1": 0,
@@ -2692,11 +2692,11 @@
         },
         "pb": 514784,
         "streak": 12,
-        "matches": 3425,
-        "playtime": 2205728337,
-        "finished": 1176,
-        "finishtime": 920304968,
-        "won": 1754,
+        "matches": 3426,
+        "playtime": 2206268430,
+        "finished": 1177,
+        "finishtime": 920845061,
+        "won": 1755,
         "lost": 1576,
         "forfeited": 661
     },
@@ -4517,7 +4517,7 @@
             "7": 2259,
             "8": 1789,
             "9": 2395,
-            "10": 1923
+            "10": 1934
         },
         "points": {
             "4": 0,
@@ -4530,11 +4530,11 @@
         },
         "pb": 404473,
         "streak": 17,
-        "matches": 7321,
-        "playtime": 4271120423,
-        "finished": 2739,
-        "finishtime": 1870151099,
-        "won": 3711,
+        "matches": 7322,
+        "playtime": 4271697356,
+        "finished": 2740,
+        "finishtime": 1870728032,
+        "won": 3712,
         "lost": 3382,
         "forfeited": 1338
     },
