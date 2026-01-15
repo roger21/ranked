@@ -1,5 +1,5 @@
 {
-    "date": 1768504201000,
+    "date": 1768504801000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -96720,7 +96720,7 @@
             "uuid": "8195522a3c574d86b2162c8b8ec8bd3d",
             "nickname": "pardonmc",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1746,
                 "top": 1746,
                 "points": 0,
@@ -99767,7 +99767,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1743,
                 "top": 1743,
                 "points": 0,
@@ -100756,7 +100756,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1742,
                 "top": 1744,
                 "points": 0,
