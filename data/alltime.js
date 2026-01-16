@@ -456,13 +456,13 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 4441,
-        "playtime": 3075767647,
+        "matches": 4442,
+        "playtime": 3076420514,
         "finished": 1356,
         "finishtime": 1077111060,
         "won": 2207,
-        "lost": 1975,
-        "forfeited": 566
+        "lost": 1976,
+        "forfeited": 567
     },
     "132807fea3a54a02b6b1ad057430b002": {
         "nickname": "ulqt",
@@ -485,11 +485,11 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 6087,
-        "playtime": 3891387149,
+        "matches": 6088,
+        "playtime": 3891733387,
         "finished": 1942,
         "finishtime": 1455373062,
-        "won": 3001,
+        "won": 3002,
         "lost": 2827,
         "forfeited": 990
     },
@@ -1168,13 +1168,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 2936,
-        "playtime": 1896453587,
+        "matches": 2937,
+        "playtime": 1896799825,
         "finished": 1068,
         "finishtime": 786241903,
         "won": 1501,
-        "lost": 1334,
-        "forfeited": 366
+        "lost": 1335,
+        "forfeited": 367
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -2198,11 +2198,11 @@
         },
         "pb": 406950,
         "streak": 13,
-        "matches": 2739,
-        "playtime": 1629210514,
+        "matches": 2740,
+        "playtime": 1629622211,
         "finished": 1142,
         "finishtime": 747771797,
-        "won": 1461,
+        "won": 1462,
         "lost": 1172,
         "forfeited": 387
     },
@@ -2355,7 +2355,7 @@
             "7": 2138,
             "8": 1993,
             "9": 2421,
-            "10": 1853
+            "10": 1868
         },
         "points": {
             "1": 0,
@@ -2371,11 +2371,11 @@
         },
         "pb": 418610,
         "streak": 13,
-        "matches": 3352,
-        "playtime": 2042692902,
-        "finished": 1363,
-        "finishtime": 921538734,
-        "won": 1773,
+        "matches": 3353,
+        "playtime": 2043409722,
+        "finished": 1364,
+        "finishtime": 922255554,
+        "won": 1774,
         "lost": 1427,
         "forfeited": 366
     },
@@ -2546,12 +2546,12 @@
         },
         "pb": 454537,
         "streak": 13,
-        "matches": 5301,
-        "playtime": 3457751679,
+        "matches": 5302,
+        "playtime": 3458468499,
         "finished": 1780,
         "finishtime": 1377302222,
         "won": 2682,
-        "lost": 2407,
+        "lost": 2408,
         "forfeited": 781
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -2981,7 +2981,7 @@
             "7": 1458,
             "8": 0,
             "9": 0,
-            "10": 1484
+            "10": 1505
         },
         "points": {
             "1": 0,
@@ -2997,11 +2997,11 @@
         },
         "pb": 520075,
         "streak": 13,
-        "matches": 1318,
-        "playtime": 936049161,
-        "finished": 486,
-        "finishtime": 394727993,
-        "won": 714,
+        "matches": 1319,
+        "playtime": 936758382,
+        "finished": 487,
+        "finishtime": 395437214,
+        "won": 715,
         "lost": 564,
         "forfeited": 111
     },
@@ -3610,11 +3610,11 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 6326,
-        "playtime": 4034284325,
-        "finished": 2217,
-        "finishtime": 1621819543,
-        "won": 3187,
+        "matches": 6327,
+        "playtime": 4034838681,
+        "finished": 2218,
+        "finishtime": 1622373899,
+        "won": 3188,
         "lost": 2971,
         "forfeited": 976
     },
@@ -3654,37 +3654,6 @@
         "won": 2696,
         "lost": 2474,
         "forfeited": 887
-    },
-    "9a61b87c6a16403da56541258e74ed3e": {
-        "nickname": "Blad_d",
-        "country": "de",
-        "top": {
-            "4": 935,
-            "5": 1617,
-            "6": 1877,
-            "7": 1945,
-            "8": 1819,
-            "9": 1827,
-            "10": 1761
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 45,
-            "7": 35,
-            "8": 4,
-            "9": 0,
-            "10": 0
-        },
-        "pb": 431520,
-        "streak": 13,
-        "matches": 5181,
-        "playtime": 3080254852,
-        "finished": 1673,
-        "finishtime": 1197058933,
-        "won": 2533,
-        "lost": 2407,
-        "forfeited": 1273
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -3752,12 +3721,12 @@
         },
         "pb": 454462,
         "streak": 18,
-        "matches": 4243,
-        "playtime": 2698532772,
+        "matches": 4244,
+        "playtime": 2699178922,
         "finished": 1368,
         "finishtime": 1064395505,
         "won": 2180,
-        "lost": 1945,
+        "lost": 1946,
         "forfeited": 1038
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
@@ -4872,12 +4841,12 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5612,
-        "playtime": 3576057388,
+        "matches": 5613,
+        "playtime": 3576873945,
         "finished": 2133,
         "finishtime": 1529838277,
         "won": 2883,
-        "lost": 2600,
+        "lost": 2601,
         "forfeited": 805
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
@@ -5616,6 +5585,31 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
+    },
+    "f55a7e31e65a453e941ebec79cd39992": {
+        "nickname": "Brunted",
+        "country": "gb",
+        "top": {
+            "7": 941,
+            "8": 1448,
+            "9": 2121,
+            "10": 1858
+        },
+        "points": {
+            "7": 0,
+            "8": 0,
+            "9": 8,
+            "10": 0
+        },
+        "pb": 459476,
+        "streak": 9,
+        "matches": 1600,
+        "playtime": 1086384594,
+        "finished": 544,
+        "finishtime": 409241921,
+        "won": 774,
+        "lost": 699,
+        "forfeited": 48
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
