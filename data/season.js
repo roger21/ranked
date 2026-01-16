@@ -1,5 +1,5 @@
 {
-    "date": 1768547401000,
+    "date": 1768548001000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -97005,7 +97005,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1755,
                 "top": 1858,
                 "points": 0,
@@ -100738,7 +100738,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1753,
                 "top": 1763,
                 "points": 0,
@@ -105297,7 +105297,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1751,
                 "top": 1799,
                 "points": 0,
@@ -106776,7 +106776,7 @@
             "uuid": "f0103fdd182548828ba66883fdd05214",
             "nickname": "Magmania",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1750,
                 "top": 1852,
                 "points": 0,
