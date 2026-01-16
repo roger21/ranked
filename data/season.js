@@ -1,5 +1,5 @@
 {
-    "date": 1768575601000,
+    "date": 1768576201000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -22664,22 +22664,36 @@
             "nickname": "TUDORULE",
             "stats": {
                 "rank": 11,
-                "elo": 1963,
+                "elo": 1975,
                 "top": 1989,
                 "points": 0,
                 "pb": 396670,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 86,
-                "playtime": 46049949,
-                "finished": 48,
-                "finishtime": 27980523,
-                "won": 53,
+                "matches": 87,
+                "playtime": 46575621,
+                "finished": 49,
+                "finishtime": 28506195,
+                "won": 54,
                 "lost": 33,
                 "forfeited": 12
             },
             "country": "ro",
             "matches": [
+                {
+                    "date": 1768576141000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "cocuski",
+                    "elo": 1975,
+                    "change": 12,
+                    "oelo": 1729,
+                    "ochange": -12,
+                    "time": 525672,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768571736000,
                     "type": "DESERT_TEMPLE",
