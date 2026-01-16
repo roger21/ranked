@@ -1,27 +1,41 @@
 {
-    "date": 1768567801000,
+    "date": 1768568401000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 1,
-                "elo": 2170,
-                "top": 2170,
+                "elo": 2178,
+                "top": 2178,
                 "points": 0,
                 "pb": 420759,
-                "current": 7,
+                "current": 8,
                 "streak": 9,
-                "matches": 209,
-                "playtime": 120193076,
-                "finished": 125,
-                "finishtime": 72288866,
-                "won": 138,
+                "matches": 210,
+                "playtime": 120790957,
+                "finished": 126,
+                "finishtime": 72886747,
+                "won": 139,
                 "lost": 69,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1768567829000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "cornflakesmcsr",
+                    "elo": 2178,
+                    "change": 8,
+                    "oelo": 1779,
+                    "ochange": -8,
+                    "time": 597881,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768488727000,
                     "type": "BURIED_TREASURE",
