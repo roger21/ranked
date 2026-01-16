@@ -734,11 +734,11 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 2997,
-        "playtime": 1850482727,
-        "finished": 1447,
-        "finishtime": 923028624,
-        "won": 1711,
+        "matches": 2998,
+        "playtime": 1851009235,
+        "finished": 1448,
+        "finishtime": 923555132,
+        "won": 1712,
         "lost": 1207,
         "forfeited": 57
     },
@@ -1168,13 +1168,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 2927,
-        "playtime": 1890594427,
+        "matches": 2928,
+        "playtime": 1891352488,
         "finished": 1064,
         "finishtime": 783149572,
         "won": 1495,
-        "lost": 1331,
-        "forfeited": 365
+        "lost": 1332,
+        "forfeited": 366
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -1534,12 +1534,12 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 9355,
-        "playtime": 5903647018,
+        "matches": 9356,
+        "playtime": 5904103922,
         "finished": 3408,
         "finishtime": 2467132925,
         "won": 4667,
-        "lost": 4388,
+        "lost": 4389,
         "forfeited": 1463
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -4329,33 +4329,6 @@
         "won": 2007,
         "lost": 1168,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amari_i",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 1800
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 0
-        },
-        "pb": 465146,
-        "streak": 11,
-        "matches": 7930,
-        "playtime": 4806559118,
-        "finished": 2528,
-        "finishtime": 1897766331,
-        "won": 3890,
-        "lost": 3772,
-        "forfeited": 2219
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
