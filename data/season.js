@@ -1,5 +1,5 @@
 {
-    "date": 1768571401000,
+    "date": 1768572001000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -22664,22 +22664,36 @@
             "nickname": "TUDORULE",
             "stats": {
                 "rank": 11,
-                "elo": 1949,
+                "elo": 1963,
                 "top": 1989,
                 "points": 0,
                 "pb": 396670,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 85,
-                "playtime": 45411985,
-                "finished": 47,
-                "finishtime": 27342559,
-                "won": 52,
+                "matches": 86,
+                "playtime": 46049949,
+                "finished": 48,
+                "finishtime": 27980523,
+                "won": 53,
                 "lost": 33,
                 "forfeited": 12
             },
             "country": "ro",
             "matches": [
+                {
+                    "date": 1768571736000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "cornflakesmcsr",
+                    "elo": 1963,
+                    "change": 14,
+                    "oelo": 1775,
+                    "ochange": -14,
+                    "time": 637964,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768570874000,
                     "type": "RUINED_PORTAL",
@@ -75412,22 +75426,36 @@
             "nickname": "cornflakesmcsr",
             "stats": {
                 "rank": 37,
-                "elo": 1789,
+                "elo": 1775,
                 "top": 1799,
                 "points": 0,
                 "pb": 478273,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 124,
-                "playtime": 75773837,
+                "matches": 125,
+                "playtime": 76411801,
                 "finished": 58,
                 "finishtime": 36188919,
                 "won": 68,
-                "lost": 52,
+                "lost": 53,
                 "forfeited": 0
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1768571736000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "TUDORULE",
+                    "elo": 1775,
+                    "change": -14,
+                    "oelo": 1963,
+                    "ochange": 14,
+                    "time": 637964,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768571024000,
                     "type": "VILLAGE",
