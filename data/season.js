@@ -1,5 +1,5 @@
 {
-    "date": 1768567201000,
+    "date": 1768567801000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -75272,22 +75272,36 @@
             "nickname": "cornflakesmcsr",
             "stats": {
                 "rank": 37,
-                "elo": 1787,
+                "elo": 1779,
                 "top": 1799,
                 "points": 0,
                 "pb": 493472,
-                "current": 4,
+                "current": 0,
                 "streak": 9,
-                "matches": 119,
-                "playtime": 73037685,
+                "matches": 120,
+                "playtime": 73635566,
                 "finished": 56,
                 "finishtime": 35155027,
                 "won": 66,
-                "lost": 49,
+                "lost": 50,
                 "forfeited": 0
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1768567829000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1779,
+                    "change": -8,
+                    "oelo": 2178,
+                    "ochange": 8,
+                    "time": 597881,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768567080000,
                     "type": "DESERT_TEMPLE",
