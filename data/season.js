@@ -1,5 +1,5 @@
 {
-    "date": 1768548601000,
+    "date": 1768549201000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -21068,22 +21068,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 11,
-                "elo": 1949,
+                "elo": 1962,
                 "top": 2001,
                 "points": 0,
                 "pb": 443673,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 186,
-                "playtime": 105011766,
-                "finished": 97,
-                "finishtime": 55110295,
-                "won": 108,
+                "matches": 187,
+                "playtime": 105534281,
+                "finished": 98,
+                "finishtime": 55632810,
+                "won": 109,
                 "lost": 75,
                 "forfeited": 5
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1768549132000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "egcr",
+                    "elo": 1962,
+                    "change": 13,
+                    "oelo": 1727,
+                    "ochange": -13,
+                    "time": 522515,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1768547229000,
                     "type": "BURIED_TREASURE",
