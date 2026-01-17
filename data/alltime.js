@@ -485,13 +485,13 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 6141,
-        "playtime": 3922730314,
+        "matches": 6142,
+        "playtime": 3923209988,
         "finished": 1960,
         "finishtime": 1466785163,
         "won": 3025,
-        "lost": 2853,
-        "forfeited": 998
+        "lost": 2854,
+        "forfeited": 999
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
