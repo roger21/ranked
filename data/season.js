@@ -1,5 +1,5 @@
 {
-    "date": 1768633201000,
+    "date": 1768633801000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -34404,14 +34404,14 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 15,
-                "elo": 1918,
+                "elo": 1916,
                 "top": 2001,
                 "points": 0,
                 "pb": 443673,
                 "current": 0,
                 "streak": 9,
-                "matches": 201,
-                "playtime": 112973140,
+                "matches": 202,
+                "playtime": 113351392,
                 "finished": 102,
                 "finishtime": 57862974,
                 "won": 115,
@@ -34420,6 +34420,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1768633743000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "bdcr",
+                    "elo": 1916,
+                    "change": -2,
+                    "oelo": 1785,
+                    "ochange": 2,
+                    "time": 378252,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768632807000,
                     "type": "DESERT_TEMPLE",
@@ -87002,14 +87016,14 @@
             "nickname": "bdcr",
             "stats": {
                 "rank": 43,
-                "elo": 1783,
+                "elo": 1785,
                 "top": 1848,
                 "points": 0,
                 "pb": 460072,
                 "current": 0,
                 "streak": 7,
-                "matches": 161,
-                "playtime": 89582865,
+                "matches": 162,
+                "playtime": 89961117,
                 "finished": 71,
                 "finishtime": 43437453,
                 "won": 79,
@@ -87018,6 +87032,20 @@
             },
             "country": "gd",
             "matches": [
+                {
+                    "date": 1768633743000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "Aquacorde",
+                    "elo": 1785,
+                    "change": 2,
+                    "oelo": 1916,
+                    "ochange": -2,
+                    "time": 378252,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768628076000,
                     "type": "BURIED_TREASURE",
