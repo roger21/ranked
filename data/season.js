@@ -1,5 +1,5 @@
 {
-    "date": 1768751401000,
+    "date": 1768752001000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -36779,14 +36779,14 @@
             "nickname": "HDMICables",
             "stats": {
                 "rank": 16,
-                "elo": 1922,
+                "elo": 1921,
                 "top": 2019,
                 "points": 0,
                 "pb": 431511,
                 "current": 1,
                 "streak": 7,
-                "matches": 96,
-                "playtime": 53046557,
+                "matches": 97,
+                "playtime": 53683992,
                 "finished": 46,
                 "finishtime": 26583956,
                 "won": 57,
@@ -36795,6 +36795,20 @@
             },
             "country": "nl",
             "matches": [
+                {
+                    "date": 1768751821000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "BeefSalad",
+                    "elo": 1921,
+                    "change": -1,
+                    "oelo": 1850,
+                    "ochange": 1,
+                    "time": 637435,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768713963000,
                     "type": "SHIPWRECK",
@@ -66249,14 +66263,14 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 30,
-                "elo": 1849,
+                "elo": 1850,
                 "top": 2183,
                 "points": 0,
                 "pb": 374013,
                 "current": 0,
                 "streak": 8,
-                "matches": 323,
-                "playtime": 179845486,
+                "matches": 324,
+                "playtime": 180482921,
                 "finished": 164,
                 "finishtime": 94702549,
                 "won": 177,
@@ -66265,6 +66279,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1768751821000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "HDMICables",
+                    "elo": 1850,
+                    "change": 1,
+                    "oelo": 1921,
+                    "ochange": -1,
+                    "time": 637435,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768751131000,
                     "type": "RUINED_PORTAL",
@@ -70737,7 +70765,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 1849,
                 "top": 1849,
                 "points": 0,
