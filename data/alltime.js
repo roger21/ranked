@@ -2550,12 +2550,12 @@
         },
         "pb": 454537,
         "streak": 13,
-        "matches": 5342,
-        "playtime": 3482655128,
+        "matches": 5343,
+        "playtime": 3483370403,
         "finished": 1798,
         "finishtime": 1389269726,
         "won": 2703,
-        "lost": 2424,
+        "lost": 2425,
         "forfeited": 783
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3980,13 +3980,13 @@
         },
         "pb": 446474,
         "streak": 12,
-        "matches": 1150,
-        "playtime": 787636986,
+        "matches": 1151,
+        "playtime": 788339996,
         "finished": 418,
         "finishtime": 328895286,
         "won": 634,
-        "lost": 468,
-        "forfeited": 118
+        "lost": 469,
+        "forfeited": 119
     },
     "a53540ad086c490e9a0405171f0e0e58": {
         "nickname": "aleen",
@@ -5409,11 +5409,11 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 9407,
-        "playtime": 5970778468,
+        "matches": 9408,
+        "playtime": 5971432592,
         "finished": 2927,
         "finishtime": 2275182419,
-        "won": 4667,
+        "won": 4668,
         "lost": 4445,
         "forfeited": 2155
     },
