@@ -1,5 +1,5 @@
 {
-    "date": 1768694401000,
+    "date": 1768695001000,
     "players": [
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
@@ -17052,8 +17052,8 @@
                 "pb": 374013,
                 "current": 1,
                 "streak": 8,
-                "matches": 275,
-                "playtime": 153074719,
+                "matches": 276,
+                "playtime": 153748591,
                 "finished": 149,
                 "finishtime": 86373627,
                 "won": 158,
@@ -17062,6 +17062,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1768694805000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "HDMICables",
+                    "elo": 1986,
+                    "change": 0,
+                    "oelo": 1984,
+                    "ochange": 0,
+                    "time": 673872,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768694086000,
                     "type": "DESERT_TEMPLE",
@@ -20869,8 +20883,8 @@
                 "pb": 431511,
                 "current": 0,
                 "streak": 7,
-                "matches": 81,
-                "playtime": 44779347,
+                "matches": 82,
+                "playtime": 45453219,
                 "finished": 41,
                 "finishtime": 23867948,
                 "won": 52,
@@ -20879,6 +20893,20 @@
             },
             "country": "nl",
             "matches": [
+                {
+                    "date": 1768694805000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "BeefSalad",
+                    "elo": 1984,
+                    "change": 0,
+                    "oelo": 1986,
+                    "ochange": 0,
+                    "time": 673872,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1768693542000,
                     "type": "SHIPWRECK",
