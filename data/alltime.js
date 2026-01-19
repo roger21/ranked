@@ -3250,13 +3250,13 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 4394,
-        "playtime": 2701956689,
+        "matches": 4395,
+        "playtime": 2702342173,
         "finished": 1433,
         "finishtime": 1082868037,
         "won": 2207,
-        "lost": 2032,
-        "forfeited": 1109
+        "lost": 2033,
+        "forfeited": 1110
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
@@ -5384,11 +5384,11 @@
         },
         "pb": 429924,
         "streak": 15,
-        "matches": 4763,
-        "playtime": 2992818037,
-        "finished": 1500,
-        "finishtime": 1102282479,
-        "won": 2311,
+        "matches": 4764,
+        "playtime": 2993433999,
+        "finished": 1501,
+        "finishtime": 1102898441,
+        "won": 2312,
         "lost": 2203,
         "forfeited": 871
     },
@@ -5415,8 +5415,8 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 9429,
-        "playtime": 5984013189,
+        "matches": 9430,
+        "playtime": 5984556797,
         "finished": 2934,
         "finishtime": 2279732498,
         "won": 4677,
@@ -5776,42 +5776,5 @@
         "won": 3754,
         "lost": 3494,
         "forfeited": 1050
-    },
-    "fe6771646c5d43c1b713023fb69c10c6": {
-        "nickname": "SammmyG",
-        "country": "au",
-        "top": {
-            "1": 1541,
-            "2": 1333,
-            "3": 1416,
-            "4": 1710,
-            "5": 1618,
-            "6": 1633,
-            "7": 1690,
-            "8": 1672,
-            "9": 2102,
-            "10": 1852
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 5,
-            "7": 10,
-            "8": 0,
-            "9": 7,
-            "10": 0
-        },
-        "pb": 427042,
-        "streak": 14,
-        "matches": 2410,
-        "playtime": 1672870546,
-        "finished": 802,
-        "finishtime": 633871028,
-        "won": 1234,
-        "lost": 1048,
-        "forfeited": 203
     }
 }
