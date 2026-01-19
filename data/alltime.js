@@ -1964,7 +1964,7 @@
             "7": 2203,
             "8": 2187,
             "9": 2355,
-            "10": 1923
+            "10": 1934
         },
         "points": {
             "1": 0,
@@ -1980,11 +1980,11 @@
         },
         "pb": 395245,
         "streak": 13,
-        "matches": 3743,
-        "playtime": 2101042916,
-        "finished": 1558,
-        "finishtime": 1002129107,
-        "won": 1983,
+        "matches": 3744,
+        "playtime": 2101512798,
+        "finished": 1559,
+        "finishtime": 1002598989,
+        "won": 1984,
         "lost": 1636,
         "forfeited": 896
     },
@@ -2439,12 +2439,12 @@
         },
         "pb": 404464,
         "streak": 29,
-        "matches": 4138,
-        "playtime": 2378074994,
+        "matches": 4139,
+        "playtime": 2378544876,
         "finished": 2097,
         "finishtime": 1288486897,
         "won": 2514,
-        "lost": 1532,
+        "lost": 1533,
         "forfeited": 316
     },
     "6c4b4e74963d40e3b5a7118f3e0b0dc4": {
@@ -3250,13 +3250,13 @@
         },
         "pb": 490557,
         "streak": 11,
-        "matches": 4392,
-        "playtime": 2700837167,
+        "matches": 4393,
+        "playtime": 2701373906,
         "finished": 1432,
         "finishtime": 1082285254,
         "won": 2206,
-        "lost": 2031,
-        "forfeited": 1108
+        "lost": 2032,
+        "forfeited": 1109
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
