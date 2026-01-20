@@ -1,5 +1,5 @@
 {
-    "date": 1768917001000,
+    "date": 1768917601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -113996,7 +113996,7 @@
             "uuid": "8fc93aecda5b4f699cf76694116eaf11",
             "nickname": "rekrap2",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1792,
                 "top": 1792,
                 "points": 0,
@@ -115461,7 +115461,7 @@
             "uuid": "91ae361cfa7d480d9031baaaa3fa684f",
             "nickname": "MultiPori",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1784,
                 "top": 1784,
                 "points": 0,
@@ -117024,7 +117024,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1779,
                 "top": 1779,
                 "points": 0,
