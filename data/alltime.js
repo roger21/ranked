@@ -3090,13 +3090,13 @@
         },
         "pb": 429445,
         "streak": 10,
-        "matches": 3451,
-        "playtime": 2022853145,
+        "matches": 3452,
+        "playtime": 2023459959,
         "finished": 1219,
         "finishtime": 810057451,
         "won": 1687,
-        "lost": 1564,
-        "forfeited": 741
+        "lost": 1565,
+        "forfeited": 742
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
