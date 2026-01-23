@@ -697,12 +697,12 @@
         },
         "pb": 426663,
         "streak": 9,
-        "matches": 2889,
-        "playtime": 1925477287,
+        "matches": 2890,
+        "playtime": 1926166940,
         "finished": 969,
         "finishtime": 748727992,
         "won": 1466,
-        "lost": 1298,
+        "lost": 1299,
         "forfeited": 270
     },
     "25349f93cf194f3baeee93d024eccc21": {
@@ -4717,7 +4717,7 @@
             "7": 1635,
             "8": 1894,
             "9": 2245,
-            "10": 1856
+            "10": 1868
         },
         "points": {
             "6": 0,
@@ -4728,11 +4728,11 @@
         },
         "pb": 411914,
         "streak": 10,
-        "matches": 2477,
-        "playtime": 1564188970,
-        "finished": 838,
-        "finishtime": 579916891,
-        "won": 1183,
+        "matches": 2478,
+        "playtime": 1564878623,
+        "finished": 839,
+        "finishtime": 580606544,
+        "won": 1184,
         "lost": 1074,
         "forfeited": 335
     },
@@ -4809,43 +4809,6 @@
         "won": 1601,
         "lost": 1246,
         "forfeited": 246
-    },
-    "c41b14ac0f1547aeb7690276d82aa458": {
-        "nickname": "Psemcovici",
-        "country": "br",
-        "top": {
-            "1": 1719,
-            "2": 1631,
-            "3": 1610,
-            "4": 1761,
-            "5": 1526,
-            "6": 1629,
-            "7": 1719,
-            "8": 1805,
-            "9": 2030,
-            "10": 1836
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 0,
-            "7": 10,
-            "8": 12,
-            "9": 19,
-            "10": 0
-        },
-        "pb": 444518,
-        "streak": 10,
-        "matches": 4270,
-        "playtime": 2653762477,
-        "finished": 1513,
-        "finishtime": 1146317428,
-        "won": 2208,
-        "lost": 1961,
-        "forfeited": 921
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "modestmousefan11",
