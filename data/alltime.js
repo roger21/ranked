@@ -2257,7 +2257,7 @@
             "7": 1902,
             "8": 2062,
             "9": 2295,
-            "10": 1824
+            "10": 1844
         },
         "points": {
             "1": 0,
@@ -2272,11 +2272,11 @@
         },
         "pb": 413832,
         "streak": 10,
-        "matches": 1198,
-        "playtime": 726639556,
-        "finished": 468,
-        "finishtime": 328153536,
-        "won": 661,
+        "matches": 1199,
+        "playtime": 727118458,
+        "finished": 469,
+        "finishtime": 328632438,
+        "won": 662,
         "lost": 483,
         "forfeited": 205
     },
@@ -4356,33 +4356,6 @@
         "won": 2007,
         "lost": 1168,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amari_i",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 1838
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 0
-        },
-        "pb": 433729,
-        "streak": 11,
-        "matches": 8135,
-        "playtime": 4927167850,
-        "finished": 2615,
-        "finishtime": 1954660550,
-        "won": 3995,
-        "lost": 3866,
-        "forfeited": 2247
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
