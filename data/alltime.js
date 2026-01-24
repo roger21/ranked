@@ -1941,11 +1941,11 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2720,
-        "playtime": 1732080784,
+        "matches": 2721,
+        "playtime": 1732291207,
         "finished": 1061,
         "finishtime": 730740057,
-        "won": 1433,
+        "won": 1434,
         "lost": 1201,
         "forfeited": 127
     },
@@ -4365,7 +4365,7 @@
             "7": 1627,
             "8": 1803,
             "9": 2174,
-            "10": 1825
+            "10": 1838
         },
         "points": {
             "6": 0,
@@ -4376,13 +4376,13 @@
         },
         "pb": 433729,
         "streak": 11,
-        "matches": 8133,
-        "playtime": 4926667929,
+        "matches": 8135,
+        "playtime": 4927167850,
         "finished": 2615,
         "finishtime": 1954660550,
-        "won": 3994,
-        "lost": 3865,
-        "forfeited": 2246
+        "won": 3995,
+        "lost": 3866,
+        "forfeited": 2247
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
