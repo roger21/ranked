@@ -191,7 +191,7 @@
             "7": 1574,
             "8": 2268,
             "9": 2283,
-            "10": 1925
+            "10": 1957
         },
         "points": {
             "1": 0,
@@ -207,11 +207,11 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 4857,
-        "playtime": 3108277071,
-        "finished": 1915,
-        "finishtime": 1352028343,
-        "won": 2492,
+        "matches": 4858,
+        "playtime": 3108797569,
+        "finished": 1916,
+        "finishtime": 1352548841,
+        "won": 2493,
         "lost": 2181,
         "forfeited": 426
     },
@@ -516,11 +516,11 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 6384,
-        "playtime": 4058682023,
-        "finished": 2054,
-        "finishtime": 1523141310,
-        "won": 3142,
+        "matches": 6385,
+        "playtime": 4059277959,
+        "finished": 2055,
+        "finishtime": 1523737246,
+        "won": 3143,
         "lost": 2965,
         "forfeited": 1025
     },
@@ -1532,13 +1532,13 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 9515,
-        "playtime": 5993424761,
+        "matches": 9517,
+        "playtime": 5994292372,
         "finished": 3466,
         "finishtime": 2503253172,
         "won": 4739,
-        "lost": 4470,
-        "forfeited": 1486
+        "lost": 4471,
+        "forfeited": 1487
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -2396,12 +2396,12 @@
         },
         "pb": 404464,
         "streak": 29,
-        "matches": 4156,
-        "playtime": 2388325765,
+        "matches": 4158,
+        "playtime": 2389057101,
         "finished": 2113,
         "finishtime": 1297476119,
-        "won": 2530,
-        "lost": 1534,
+        "won": 2531,
+        "lost": 1535,
         "forfeited": 316
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
@@ -2824,12 +2824,12 @@
         },
         "pb": 410665,
         "streak": 10,
-        "matches": 3508,
-        "playtime": 2203581283,
+        "matches": 3509,
+        "playtime": 2204146319,
         "finished": 1243,
         "finishtime": 898296224,
         "won": 1769,
-        "lost": 1598,
+        "lost": 1599,
         "forfeited": 460
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
@@ -3121,13 +3121,13 @@
         },
         "pb": 429445,
         "streak": 10,
-        "matches": 3534,
-        "playtime": 2071742817,
+        "matches": 3535,
+        "playtime": 2072005639,
         "finished": 1254,
         "finishtime": 831482719,
         "won": 1722,
-        "lost": 1606,
-        "forfeited": 753
+        "lost": 1607,
+        "forfeited": 754
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
@@ -3596,13 +3596,13 @@
         },
         "pb": 400216,
         "streak": 20,
-        "matches": 10672,
-        "playtime": 6370541425,
-        "finished": 4694,
-        "finishtime": 3121763459,
-        "won": 6068,
-        "lost": 4381,
-        "forfeited": 1203
+        "matches": 10674,
+        "playtime": 6371317299,
+        "finished": 4695,
+        "finishtime": 3122328495,
+        "won": 6069,
+        "lost": 4382,
+        "forfeited": 1204
     },
     "939ddf85303441de901d60bfa4109318": {
         "nickname": "thecamo6",
@@ -4854,7 +4854,7 @@
             "7": 1873,
             "8": 1429,
             "9": 2249,
-            "10": 1915
+            "10": 1928
         },
         "points": {
             "1": 0,
@@ -4870,11 +4870,11 @@
         },
         "pb": 398090,
         "streak": 14,
-        "matches": 5664,
-        "playtime": 3607194720,
+        "matches": 5665,
+        "playtime": 3608402352,
         "finished": 2159,
         "finishtime": 1545612015,
-        "won": 2913,
+        "won": 2914,
         "lost": 2614,
         "forfeited": 807
     },
