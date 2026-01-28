@@ -1018,11 +1018,11 @@
         },
         "pb": 471172,
         "streak": 11,
-        "matches": 7271,
-        "playtime": 5267685952,
-        "finished": 2518,
-        "finishtime": 2069312757,
-        "won": 3685,
+        "matches": 7272,
+        "playtime": 5268746032,
+        "finished": 2519,
+        "finishtime": 2070372837,
+        "won": 3686,
         "lost": 3352,
         "forfeited": 260
     },
@@ -1440,7 +1440,7 @@
             "7": 2395,
             "8": 2416,
             "9": 2607,
-            "10": 2083
+            "10": 2084
         },
         "points": {
             "1": 0,
@@ -1456,11 +1456,11 @@
         },
         "pb": 396692,
         "streak": 29,
-        "matches": 4060,
-        "playtime": 2437518767,
-        "finished": 2319,
-        "finishtime": 1456480637,
-        "won": 2837,
+        "matches": 4061,
+        "playtime": 2438182541,
+        "finished": 2320,
+        "finishtime": 1457144411,
+        "won": 2838,
         "lost": 1102,
         "forfeited": 34
     },
@@ -3242,11 +3242,11 @@
         },
         "pb": 488421,
         "streak": 11,
-        "matches": 4529,
-        "playtime": 2773974732,
-        "finished": 1484,
-        "finishtime": 1115859650,
-        "won": 2278,
+        "matches": 4530,
+        "playtime": 2774565879,
+        "finished": 1485,
+        "finishtime": 1116450797,
+        "won": 2279,
         "lost": 2095,
         "forfeited": 1149
     },
@@ -4399,33 +4399,6 @@
         "won": 2007,
         "lost": 1168,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amari_i",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 1857
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 0
-        },
-        "pb": 433729,
-        "streak": 11,
-        "matches": 8275,
-        "playtime": 5008350574,
-        "finished": 2675,
-        "finishtime": 1992719156,
-        "won": 4066,
-        "lost": 3931,
-        "forfeited": 2271
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
