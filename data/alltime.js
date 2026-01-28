@@ -1197,12 +1197,12 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3033,
-        "playtime": 1951839708,
+        "matches": 3034,
+        "playtime": 1952556669,
         "finished": 1104,
         "finishtime": 809885713,
         "won": 1550,
-        "lost": 1380,
+        "lost": 1381,
         "forfeited": 388
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -1308,11 +1308,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 17592,
-        "playtime": 11022173743,
-        "finished": 7575,
-        "finishtime": 5146668060,
-        "won": 9723,
+        "matches": 17593,
+        "playtime": 11022862957,
+        "finished": 7576,
+        "finishtime": 5147357274,
+        "won": 9724,
         "lost": 7604,
         "forfeited": 1075
     },
@@ -1602,12 +1602,12 @@
         },
         "pb": 417845,
         "streak": 14,
-        "matches": 4515,
-        "playtime": 2983668677,
+        "matches": 4516,
+        "playtime": 2984277902,
         "finished": 1697,
         "finishtime": 1234324340,
         "won": 2341,
-        "lost": 1995,
+        "lost": 1996,
         "forfeited": 205
     },
     "43a6669e11474827802de8401a373169": {
@@ -3643,12 +3643,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 8142,
-        "playtime": 5058650247,
+        "matches": 8144,
+        "playtime": 5059712310,
         "finished": 3172,
         "finishtime": 2162382406,
-        "won": 4073,
-        "lost": 3797,
+        "won": 4074,
+        "lost": 3798,
         "forfeited": 880
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -4419,13 +4419,13 @@
         },
         "pb": 433729,
         "streak": 11,
-        "matches": 8279,
-        "playtime": 5011022885,
+        "matches": 8280,
+        "playtime": 5011395734,
         "finished": 2678,
         "finishtime": 1994727693,
         "won": 4069,
-        "lost": 3932,
-        "forfeited": 2271
+        "lost": 3933,
+        "forfeited": 2272
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
@@ -4840,6 +4840,43 @@
         "won": 1623,
         "lost": 1260,
         "forfeited": 246
+    },
+    "c41b14ac0f1547aeb7690276d82aa458": {
+        "nickname": "Psemcovici",
+        "country": "br",
+        "top": {
+            "1": 1719,
+            "2": 1631,
+            "3": 1610,
+            "4": 1761,
+            "5": 1526,
+            "6": 1629,
+            "7": 1719,
+            "8": 1805,
+            "9": 2030,
+            "10": 1902
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 10,
+            "8": 12,
+            "9": 19,
+            "10": 0
+        },
+        "pb": 444518,
+        "streak": 10,
+        "matches": 4346,
+        "playtime": 2697747405,
+        "finished": 1543,
+        "finishtime": 1166591869,
+        "won": 2246,
+        "lost": 1997,
+        "forfeited": 933
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "josh7eautwins",
@@ -5613,13 +5650,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 6430,
-        "playtime": 3583513039,
+        "matches": 6431,
+        "playtime": 3584005458,
         "finished": 2407,
         "finishtime": 1598361447,
         "won": 3267,
-        "lost": 2982,
-        "forfeited": 1764
+        "lost": 2983,
+        "forfeited": 1765
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
@@ -5751,13 +5788,13 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 7709,
-        "playtime": 4957641990,
+        "matches": 7710,
+        "playtime": 4957862839,
         "finished": 2594,
         "finishtime": 1944383643,
         "won": 3812,
-        "lost": 3558,
-        "forfeited": 1076
+        "lost": 3559,
+        "forfeited": 1077
     },
     "fe6771646c5d43c1b713023fb69c10c6": {
         "nickname": "SammmyG",
