@@ -4732,13 +4732,13 @@
         },
         "pb": 409203,
         "streak": 22,
-        "matches": 6340,
-        "playtime": 3332506848,
+        "matches": 6341,
+        "playtime": 3332720165,
         "finished": 1712,
         "finishtime": 1165367094,
         "won": 3022,
-        "lost": 2960,
-        "forfeited": 2267
+        "lost": 2961,
+        "forfeited": 2268
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bdcr",
@@ -4817,7 +4817,7 @@
             "7": 2063,
             "8": 2014,
             "9": 2228,
-            "10": 1930
+            "10": 1946
         },
         "points": {
             "1": 0,
@@ -4833,11 +4833,11 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 2949,
-        "playtime": 1860646137,
-        "finished": 1228,
-        "finishtime": 861172611,
-        "won": 1620,
+        "matches": 2950,
+        "playtime": 1861157500,
+        "finished": 1229,
+        "finishtime": 861683974,
+        "won": 1621,
         "lost": 1256,
         "forfeited": 246
     },
@@ -5434,12 +5434,12 @@
         },
         "pb": 476490,
         "streak": 14,
-        "matches": 9487,
-        "playtime": 6020110102,
+        "matches": 9488,
+        "playtime": 6020621465,
         "finished": 2961,
         "finishtime": 2297177661,
         "won": 4708,
-        "lost": 4477,
+        "lost": 4478,
         "forfeited": 2156
     },
     "e43dad544b244da9b690a12fdc8626dc": {
