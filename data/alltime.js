@@ -2431,12 +2431,12 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3622,
-        "playtime": 2291863748,
+        "matches": 3623,
+        "playtime": 2292417538,
         "finished": 1229,
         "finishtime": 906985405,
         "won": 1813,
-        "lost": 1635,
+        "lost": 1636,
         "forfeited": 508
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -2616,12 +2616,12 @@
         },
         "pb": 424838,
         "streak": 12,
-        "matches": 2616,
-        "playtime": 1753019343,
+        "matches": 2617,
+        "playtime": 1753513562,
         "finished": 1001,
         "finishtime": 741523124,
         "won": 1391,
-        "lost": 1099,
+        "lost": 1100,
         "forfeited": 27
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
@@ -3238,33 +3238,6 @@
         "lost": 1872,
         "forfeited": 693
     },
-    "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
-        "country": "jp",
-        "top": {
-            "6": 933,
-            "7": 1664,
-            "8": 1851,
-            "9": 2165,
-            "10": 1876
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 20,
-            "10": 0
-        },
-        "pb": 416198,
-        "streak": 14,
-        "matches": 6726,
-        "playtime": 3953390763,
-        "finished": 2332,
-        "finishtime": 1652712809,
-        "won": 3359,
-        "lost": 3164,
-        "forfeited": 1716
-    },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
         "country": "vn",
@@ -3658,11 +3631,11 @@
         },
         "pb": 400216,
         "streak": 20,
-        "matches": 10751,
-        "playtime": 6413419062,
-        "finished": 4725,
-        "finishtime": 3140107660,
-        "won": 6109,
+        "matches": 10752,
+        "playtime": 6413913281,
+        "finished": 4726,
+        "finishtime": 3140601879,
+        "won": 6110,
         "lost": 4419,
         "forfeited": 1211
     },
