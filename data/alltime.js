@@ -1125,12 +1125,12 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 7247,
-        "playtime": 4291315820,
+        "matches": 7248,
+        "playtime": 4291941676,
         "finished": 2459,
         "finishtime": 1693898947,
         "won": 3471,
-        "lost": 3267,
+        "lost": 3268,
         "forfeited": 1389
     },
     "31f96d84ed9844bcabbd07f828001290": {
@@ -3055,11 +3055,11 @@
         },
         "pb": 474004,
         "streak": 10,
-        "matches": 224,
-        "playtime": 139302188,
-        "finished": 90,
-        "finishtime": 61681361,
-        "won": 139,
+        "matches": 225,
+        "playtime": 139928044,
+        "finished": 91,
+        "finishtime": 62307217,
+        "won": 140,
         "lost": 74,
         "forfeited": 0
     },
@@ -3348,7 +3348,7 @@
         "forfeited": 130
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
-        "nickname": "xcr1mz0n",
+        "nickname": "argek",
         "country": "us",
         "top": {
             "1": 1771,
@@ -3816,13 +3816,13 @@
         },
         "pb": 454462,
         "streak": 18,
-        "matches": 4325,
-        "playtime": 2746459143,
+        "matches": 4326,
+        "playtime": 2747196792,
         "finished": 1398,
         "finishtime": 1085201341,
         "won": 2221,
-        "lost": 1984,
-        "forfeited": 1050
+        "lost": 1985,
+        "forfeited": 1051
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
         "nickname": "loodlow",
@@ -4178,11 +4178,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 3342,
-        "playtime": 1914520989,
+        "matches": 3343,
+        "playtime": 1914783011,
         "finished": 1917,
         "finishtime": 1134108928,
-        "won": 2271,
+        "won": 2272,
         "lost": 1011,
         "forfeited": 40
     },
@@ -4424,33 +4424,6 @@
         "won": 2007,
         "lost": 1168,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amar1y",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 1930
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 0
-        },
-        "pb": 433729,
-        "streak": 11,
-        "matches": 8297,
-        "playtime": 5021164481,
-        "finished": 2686,
-        "finishtime": 1999981384,
-        "won": 4077,
-        "lost": 3942,
-        "forfeited": 2274
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
