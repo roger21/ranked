@@ -4701,13 +4701,13 @@
         },
         "pb": 409203,
         "streak": 22,
-        "matches": 6404,
-        "playtime": 3364977341,
+        "matches": 6405,
+        "playtime": 3365544857,
         "finished": 1743,
         "finishtime": 1183083717,
         "won": 3058,
-        "lost": 2985,
-        "forfeited": 2285
+        "lost": 2986,
+        "forfeited": 2286
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bdcr",
