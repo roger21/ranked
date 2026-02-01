@@ -1869,11 +1869,11 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2799,
-        "playtime": 1778734700,
+        "matches": 2800,
+        "playtime": 1779032854,
         "finished": 1093,
         "finishtime": 750476571,
-        "won": 1470,
+        "won": 1471,
         "lost": 1240,
         "forfeited": 127
     },
@@ -1943,13 +1943,13 @@
         },
         "pb": 395245,
         "streak": 13,
-        "matches": 3831,
-        "playtime": 2146054237,
+        "matches": 3832,
+        "playtime": 2146352391,
         "finished": 1599,
         "finishtime": 1026010827,
         "won": 2030,
-        "lost": 1675,
-        "forfeited": 922
+        "lost": 1676,
+        "forfeited": 923
     },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
@@ -3458,12 +3458,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 7949,
-        "playtime": 5335046723,
+        "matches": 7950,
+        "playtime": 5335683376,
         "finished": 2664,
         "finishtime": 2088810758,
         "won": 3974,
-        "lost": 3751,
+        "lost": 3752,
         "forfeited": 889
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -4718,13 +4718,13 @@
         },
         "pb": 411914,
         "streak": 10,
-        "matches": 2657,
-        "playtime": 1665512849,
+        "matches": 2658,
+        "playtime": 1665872678,
         "finished": 918,
         "finishtime": 627458853,
         "won": 1276,
-        "lost": 1156,
-        "forfeited": 345
+        "lost": 1157,
+        "forfeited": 346
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
@@ -5634,12 +5634,12 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2893,
-        "playtime": 1939151402,
+        "matches": 2894,
+        "playtime": 1940449934,
         "finished": 1055,
         "finishtime": 839473582,
         "won": 1555,
-        "lost": 1286,
+        "lost": 1287,
         "forfeited": 409
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
