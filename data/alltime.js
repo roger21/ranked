@@ -1024,11 +1024,11 @@
         },
         "pb": 389666,
         "streak": 14,
-        "matches": 5470,
-        "playtime": 3206080998,
+        "matches": 5472,
+        "playtime": 3206587476,
         "finished": 2258,
         "finishtime": 1441022259,
-        "won": 2845,
+        "won": 2847,
         "lost": 2354,
         "forfeited": 582
     },
@@ -5255,13 +5255,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 11801,
-        "playtime": 7514862173,
+        "matches": 11802,
+        "playtime": 7515072235,
         "finished": 4195,
         "finishtime": 3044239333,
         "won": 5755,
-        "lost": 5424,
-        "forfeited": 1478
+        "lost": 5425,
+        "forfeited": 1479
     },
     "dd382293fed04a3e9fa850bb139279fc": {
         "nickname": "vorbh",
