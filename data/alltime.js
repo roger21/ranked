@@ -3713,12 +3713,12 @@
         },
         "pb": 439571,
         "streak": 10,
-        "matches": 5493,
-        "playtime": 3439252784,
-        "finished": 1995,
-        "finishtime": 1440138709,
-        "won": 2747,
-        "lost": 2517,
+        "matches": 5495,
+        "playtime": 3440600785,
+        "finished": 1996,
+        "finishtime": 1440736096,
+        "won": 2748,
+        "lost": 2518,
         "forfeited": 897
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
@@ -3915,7 +3915,7 @@
             "7": 2110,
             "8": 2151,
             "9": 2267,
-            "10": 1777
+            "10": 1795
         },
         "points": {
             "1": 0,
@@ -3931,11 +3931,11 @@
         },
         "pb": 417343,
         "streak": 11,
-        "matches": 4283,
-        "playtime": 2869053921,
-        "finished": 1566,
-        "finishtime": 1146872546,
-        "won": 2165,
+        "matches": 4285,
+        "playtime": 2870233520,
+        "finished": 1568,
+        "finishtime": 1148052145,
+        "won": 2167,
         "lost": 1931,
         "forfeited": 205
     },
@@ -4691,13 +4691,13 @@
         },
         "pb": 409203,
         "streak": 22,
-        "matches": 6436,
-        "playtime": 3379326430,
+        "matches": 6438,
+        "playtime": 3380168536,
         "finished": 1751,
         "finishtime": 1187510059,
         "won": 3070,
-        "lost": 3002,
-        "forfeited": 2301
+        "lost": 3004,
+        "forfeited": 2303
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bdcr",
@@ -5628,12 +5628,12 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2912,
-        "playtime": 1952230618,
-        "finished": 1062,
-        "finishtime": 844673835,
-        "won": 1564,
-        "lost": 1296,
+        "matches": 2914,
+        "playtime": 1953639433,
+        "finished": 1063,
+        "finishtime": 845474346,
+        "won": 1565,
+        "lost": 1297,
         "forfeited": 410
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
