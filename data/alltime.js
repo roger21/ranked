@@ -2402,12 +2402,12 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3713,
-        "playtime": 2347280771,
+        "matches": 3714,
+        "playtime": 2348093979,
         "finished": 1262,
         "finishtime": 928967660,
         "won": 1857,
-        "lost": 1677,
+        "lost": 1678,
         "forfeited": 514
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -2927,12 +2927,12 @@
         },
         "pb": 452786,
         "streak": 12,
-        "matches": 4937,
-        "playtime": 2960268084,
+        "matches": 4938,
+        "playtime": 2960958608,
         "finished": 1801,
         "finishtime": 1315278546,
         "won": 2557,
-        "lost": 2240,
+        "lost": 2241,
         "forfeited": 1024
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -3090,13 +3090,13 @@
         },
         "pb": 429445,
         "streak": 10,
-        "matches": 3656,
-        "playtime": 2141083684,
+        "matches": 3657,
+        "playtime": 2141673146,
         "finished": 1301,
         "finishtime": 860478723,
         "won": 1783,
-        "lost": 1663,
-        "forfeited": 773
+        "lost": 1664,
+        "forfeited": 774
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
