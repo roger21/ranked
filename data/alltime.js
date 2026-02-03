@@ -1316,12 +1316,12 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 17676,
-        "playtime": 11070565685,
+        "matches": 17678,
+        "playtime": 11071537139,
         "finished": 7622,
         "finishtime": 5174683424,
         "won": 9774,
-        "lost": 7636,
+        "lost": 7638,
         "forfeited": 1079
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1390,11 +1390,11 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 14344,
-        "playtime": 8515525353,
-        "finished": 6200,
-        "finishtime": 4054182967,
-        "won": 7780,
+        "matches": 14345,
+        "playtime": 8516106789,
+        "finished": 6201,
+        "finishtime": 4054764403,
+        "won": 7781,
         "lost": 6225,
         "forfeited": 1843
     },
@@ -1964,7 +1964,7 @@
             "7": 2203,
             "8": 2187,
             "9": 2355,
-            "10": 2058
+            "10": 2078
         },
         "points": {
             "1": 0,
@@ -1978,13 +1978,13 @@
             "9": 129,
             "10": 5
         },
-        "pb": 395245,
+        "pb": 390018,
         "streak": 13,
-        "matches": 3867,
-        "playtime": 2164024597,
-        "finished": 1615,
-        "finishtime": 1034819670,
-        "won": 2050,
+        "matches": 3868,
+        "playtime": 2164414615,
+        "finished": 1616,
+        "finishtime": 1035209688,
+        "won": 2051,
         "lost": 1690,
         "forfeited": 929
     },
@@ -2149,7 +2149,7 @@
             "7": 0,
             "8": 0,
             "9": 0,
-            "10": 1518
+            "10": 1538
         },
         "points": {
             "1": 0,
@@ -2165,11 +2165,11 @@
         },
         "pb": 611063,
         "streak": 10,
-        "matches": 874,
-        "playtime": 685695133,
-        "finished": 332,
-        "finishtime": 304835986,
-        "won": 496,
+        "matches": 875,
+        "playtime": 686533948,
+        "finished": 333,
+        "finishtime": 305674801,
+        "won": 497,
         "lost": 361,
         "forfeited": 68
     },
@@ -4948,7 +4948,7 @@
     },
     "d0acbca0d50e4824bc38a44395cce096": {
         "nickname": "Fyroah",
-        "country": null,
+        "country": "ca",
         "top": {
             "1": 1819,
             "2": 1718,
