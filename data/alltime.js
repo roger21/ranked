@@ -3001,12 +3001,12 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 3526,
-        "playtime": 2133331624,
+        "matches": 3527,
+        "playtime": 2133829068,
         "finished": 1680,
         "finishtime": 1090887894,
         "won": 2193,
-        "lost": 1255,
+        "lost": 1256,
         "forfeited": 272
     },
     "7d320034571e405a9b6889104489a3c4": {
@@ -3038,13 +3038,13 @@
         },
         "pb": 452786,
         "streak": 12,
-        "matches": 4956,
-        "playtime": 2970590651,
+        "matches": 4957,
+        "playtime": 2971244408,
         "finished": 1809,
         "finishtime": 1320039893,
         "won": 2566,
-        "lost": 2249,
-        "forfeited": 1028
+        "lost": 2250,
+        "forfeited": 1029
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
         "nickname": "Dimeax",
@@ -4268,7 +4268,7 @@
             "7": 0,
             "8": 1437,
             "9": 2161,
-            "10": 1705
+            "10": 1722
         },
         "points": {
             "1": 0,
@@ -4283,11 +4283,11 @@
         },
         "pb": 441415,
         "streak": 11,
-        "matches": 233,
-        "playtime": 151367469,
-        "finished": 125,
-        "finishtime": 85941614,
-        "won": 156,
+        "matches": 234,
+        "playtime": 151901868,
+        "finished": 126,
+        "finishtime": 86476013,
+        "won": 157,
         "lost": 59,
         "forfeited": 5
     },
@@ -4728,12 +4728,12 @@
         },
         "pb": 409203,
         "streak": 22,
-        "matches": 6448,
-        "playtime": 3385238553,
+        "matches": 6449,
+        "playtime": 3385977068,
         "finished": 1754,
         "finishtime": 1189211074,
         "won": 3074,
-        "lost": 3010,
+        "lost": 3011,
         "forfeited": 2307
     },
     "be4ad7e999e14a74974d47ac650062a3": {
@@ -5311,7 +5311,7 @@
             "7": 1483,
             "8": 1800,
             "9": 2223,
-            "10": 2061
+            "10": 2084
         },
         "points": {
             "1": 0,
@@ -5325,11 +5325,11 @@
         },
         "pb": 429924,
         "streak": 15,
-        "matches": 4905,
-        "playtime": 3076410984,
-        "finished": 1566,
-        "finishtime": 1142570810,
-        "won": 2387,
+        "matches": 4906,
+        "playtime": 3076908428,
+        "finished": 1567,
+        "finishtime": 1143068254,
+        "won": 2388,
         "lost": 2263,
         "forfeited": 874
     },
