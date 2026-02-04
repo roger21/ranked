@@ -63,13 +63,13 @@
         },
         "pb": 432449,
         "streak": 11,
-        "matches": 7408,
-        "playtime": 4849262156,
+        "matches": 7409,
+        "playtime": 4849509377,
         "finished": 2592,
         "finishtime": 1937539026,
         "won": 3694,
-        "lost": 3468,
-        "forfeited": 743
+        "lost": 3469,
+        "forfeited": 744
     },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "subdas",
@@ -1943,12 +1943,12 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2854,
-        "playtime": 1810614087,
+        "matches": 2855,
+        "playtime": 1811255594,
         "finished": 1120,
         "finishtime": 767122400,
         "won": 1500,
-        "lost": 1263,
+        "lost": 1264,
         "forfeited": 128
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
