@@ -485,12 +485,12 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 6608,
-        "playtime": 4187129849,
+        "matches": 6609,
+        "playtime": 4187825717,
         "finished": 2152,
         "finishtime": 1584890637,
         "won": 3255,
-        "lost": 3069,
+        "lost": 3070,
         "forfeited": 1047
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
@@ -771,11 +771,11 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 1506,
-        "playtime": 1107178968,
-        "finished": 500,
-        "finishtime": 429344832,
-        "won": 779,
+        "matches": 1507,
+        "playtime": 1108056514,
+        "finished": 501,
+        "finishtime": 430222378,
+        "won": 780,
         "lost": 637,
         "forfeited": 76
     },
@@ -2985,7 +2985,7 @@
             "7": 1833,
             "8": 1684,
             "9": 2146,
-            "10": 1915
+            "10": 1916
         },
         "points": {
             "1": 0,
@@ -3001,11 +3001,11 @@
         },
         "pb": 452786,
         "streak": 12,
-        "matches": 4978,
-        "playtime": 2983095783,
-        "finished": 1819,
-        "finishtime": 1326764999,
-        "won": 2581,
+        "matches": 4979,
+        "playtime": 2983691403,
+        "finished": 1820,
+        "finishtime": 1327360619,
+        "won": 2582,
         "lost": 2255,
         "forfeited": 1031
     },
@@ -3310,13 +3310,13 @@
         },
         "pb": 397521,
         "streak": 14,
-        "matches": 4613,
-        "playtime": 3023081537,
+        "matches": 4614,
+        "playtime": 3023379247,
         "finished": 1598,
         "finishtime": 1143388049,
         "won": 2242,
-        "lost": 2023,
-        "forfeited": 132
+        "lost": 2024,
+        "forfeited": 133
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
         "nickname": "argek",
