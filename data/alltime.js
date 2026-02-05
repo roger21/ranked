@@ -1464,13 +1464,13 @@
         },
         "pb": 396692,
         "streak": 29,
-        "matches": 4112,
-        "playtime": 2465813327,
+        "matches": 4113,
+        "playtime": 2466113809,
         "finished": 2352,
         "finishtime": 1473614606,
         "won": 2871,
-        "lost": 1117,
-        "forfeited": 34
+        "lost": 1118,
+        "forfeited": 35
     },
     "3da9e8cec2d348f781a98d095b1d0325": {
         "nickname": "dolqhin",
@@ -4367,7 +4367,7 @@
             "7": 1627,
             "8": 1803,
             "9": 2174,
-            "10": 2011
+            "10": 2038
         },
         "points": {
             "6": 0,
@@ -4378,11 +4378,11 @@
         },
         "pb": 433729,
         "streak": 11,
-        "matches": 8393,
-        "playtime": 5074169174,
+        "matches": 8394,
+        "playtime": 5074469656,
         "finished": 2727,
         "finishtime": 2025578751,
-        "won": 4126,
+        "won": 4127,
         "lost": 3987,
         "forfeited": 2289
     },
