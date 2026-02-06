@@ -145,35 +145,6 @@
         "lost": 1094,
         "forfeited": 276
     },
-    "06dcddbb0a82458bbf9bef66da684eb1": {
-        "nickname": "Yahiamice",
-        "country": "ma",
-        "top": {
-            "1": 1020,
-            "2": 1429,
-            "4": 1351,
-            "6": 1335,
-            "9": 1999,
-            "10": 1900
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "6": 0,
-            "9": 0,
-            "10": 5
-        },
-        "pb": 481401,
-        "streak": 11,
-        "matches": 3124,
-        "playtime": 2097053347,
-        "finished": 1094,
-        "finishtime": 834544295,
-        "won": 1549,
-        "lost": 1472,
-        "forfeited": 182
-    },
     "070d5851c46a4a2da91e6ddfdb741d7f": {
         "nickname": "TheLandSharkJeff",
         "country": "no",
@@ -3263,11 +3234,11 @@
         },
         "pb": 488421,
         "streak": 11,
-        "matches": 4563,
-        "playtime": 2794188560,
-        "finished": 1499,
-        "finishtime": 1125536078,
-        "won": 2297,
+        "matches": 4564,
+        "playtime": 2794839048,
+        "finished": 1500,
+        "finishtime": 1126186566,
+        "won": 2298,
         "lost": 2108,
         "forfeited": 1149
     },
