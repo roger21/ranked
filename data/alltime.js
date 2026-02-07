@@ -841,8 +841,8 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 1536,
-        "playtime": 1126642996,
+        "matches": 1537,
+        "playtime": 1127926496,
         "finished": 514,
         "finishtime": 439775275,
         "won": 796,
@@ -2997,11 +2997,11 @@
         },
         "pb": 452786,
         "streak": 12,
-        "matches": 5010,
-        "playtime": 3001873349,
-        "finished": 1834,
-        "finishtime": 1336076617,
-        "won": 2598,
+        "matches": 5011,
+        "playtime": 3002566992,
+        "finished": 1835,
+        "finishtime": 1336770260,
+        "won": 2599,
         "lost": 2269,
         "forfeited": 1037
     },
@@ -5600,31 +5600,6 @@
         "won": 292,
         "lost": 196,
         "forfeited": 1
-    },
-    "f55a7e31e65a453e941ebec79cd39992": {
-        "nickname": "Brunted",
-        "country": "gb",
-        "top": {
-            "7": 941,
-            "8": 1448,
-            "9": 2121,
-            "10": 1907
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 8,
-            "10": 3
-        },
-        "pb": 439490,
-        "streak": 9,
-        "matches": 1911,
-        "playtime": 1280081474,
-        "finished": 672,
-        "finishtime": 491032035,
-        "won": 924,
-        "lost": 840,
-        "forfeited": 50
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
