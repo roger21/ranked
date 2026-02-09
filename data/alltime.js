@@ -4018,7 +4018,7 @@
             "7": 2068,
             "8": 1715,
             "9": 1979,
-            "10": 1589
+            "10": 1608
         },
         "points": {
             "1": 0,
@@ -4034,13 +4034,13 @@
         },
         "pb": 446474,
         "streak": 12,
-        "matches": 1165,
-        "playtime": 795824640,
-        "finished": 425,
-        "finishtime": 333016100,
-        "won": 644,
-        "lost": 473,
-        "forfeited": 121
+        "matches": 1167,
+        "playtime": 796758648,
+        "finished": 426,
+        "finishtime": 333583165,
+        "won": 645,
+        "lost": 474,
+        "forfeited": 122
     },
     "a53540ad086c490e9a0405171f0e0e58": {
         "nickname": "aleen",
