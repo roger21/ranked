@@ -5529,12 +5529,12 @@
         },
         "pb": 419854,
         "streak": 11,
-        "matches": 1836,
-        "playtime": 1128507324,
+        "matches": 1837,
+        "playtime": 1129161049,
         "finished": 689,
         "finishtime": 469445424,
         "won": 944,
-        "lost": 807,
+        "lost": 808,
         "forfeited": 237
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
@@ -5670,6 +5670,43 @@
         "won": 1569,
         "lost": 1299,
         "forfeited": 411
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "tucrack",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2176,
+            "10": 1953
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 28,
+            "10": 0
+        },
+        "pb": 457567,
+        "streak": 13,
+        "matches": 1417,
+        "playtime": 922270712,
+        "finished": 528,
+        "finishtime": 384171188,
+        "won": 754,
+        "lost": 601,
+        "forfeited": 89
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "jpx_x",
