@@ -804,12 +804,12 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 1625,
-        "playtime": 1191561684,
+        "matches": 1626,
+        "playtime": 1192488390,
         "finished": 548,
         "finishtime": 466417406,
         "won": 841,
-        "lost": 689,
+        "lost": 690,
         "forfeited": 84
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -2013,13 +2013,13 @@
         },
         "pb": 440696,
         "streak": 13,
-        "matches": 4030,
-        "playtime": 2435336960,
+        "matches": 4031,
+        "playtime": 2435577419,
         "finished": 1538,
         "finishtime": 1041521473,
         "won": 2036,
-        "lost": 1839,
-        "forfeited": 598
+        "lost": 1840,
+        "forfeited": 599
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -2618,12 +2618,12 @@
         },
         "pb": 425449,
         "streak": 13,
-        "matches": 5703,
-        "playtime": 3706020073,
+        "matches": 5704,
+        "playtime": 3706683847,
         "finished": 1935,
         "finishtime": 1480684957,
         "won": 2880,
-        "lost": 2589,
+        "lost": 2590,
         "forfeited": 800
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3633,11 +3633,11 @@
         },
         "pb": 400216,
         "streak": 20,
-        "matches": 10860,
-        "playtime": 6473620775,
+        "matches": 10861,
+        "playtime": 6473920878,
         "finished": 4778,
         "finishtime": 3170685973,
-        "won": 6169,
+        "won": 6170,
         "lost": 4468,
         "forfeited": 1216
     },
@@ -4277,13 +4277,13 @@
         },
         "pb": 424094,
         "streak": 13,
-        "matches": 243,
-        "playtime": 156873463,
+        "matches": 244,
+        "playtime": 157173566,
         "finished": 133,
         "finishtime": 90553165,
         "won": 165,
-        "lost": 59,
-        "forfeited": 5
+        "lost": 60,
+        "forfeited": 6
     },
     "ac601ce7376f49cea7ce14cd577dac85": {
         "nickname": "BlazeMind",
@@ -5764,12 +5764,12 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2922,
-        "playtime": 1959153050,
+        "matches": 2923,
+        "playtime": 1959938483,
         "finished": 1066,
         "finishtime": 847668858,
         "won": 1569,
-        "lost": 1301,
+        "lost": 1302,
         "forfeited": 411
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
