@@ -423,8 +423,8 @@
         },
         "pb": 569138,
         "streak": 16,
-        "matches": 888,
-        "playtime": 651553008,
+        "matches": 889,
+        "playtime": 652161304,
         "finished": 332,
         "finishtime": 280826321,
         "won": 503,
@@ -506,7 +506,7 @@
             "7": 1812,
             "8": 1961,
             "9": 2255,
-            "10": 1899
+            "10": 1918
         },
         "points": {
             "5": 0,
@@ -518,11 +518,11 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 6735,
-        "playtime": 4259262184,
-        "finished": 2204,
-        "finishtime": 1617036256,
-        "won": 3321,
+        "matches": 6736,
+        "playtime": 4259950434,
+        "finished": 2205,
+        "finishtime": 1617724506,
+        "won": 3322,
         "lost": 3124,
         "forfeited": 1066
     },
@@ -804,13 +804,13 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 1642,
-        "playtime": 1203804902,
+        "matches": 1643,
+        "playtime": 1204217556,
         "finished": 552,
         "finishtime": 469281119,
         "won": 849,
-        "lost": 698,
-        "forfeited": 86
+        "lost": 699,
+        "forfeited": 87
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
         "nickname": "Hinart",
@@ -1680,12 +1680,12 @@
         },
         "pb": 479650,
         "streak": 12,
-        "matches": 2320,
-        "playtime": 1597812241,
+        "matches": 2321,
+        "playtime": 1598379526,
         "finished": 830,
         "finishtime": 668938785,
         "won": 1227,
-        "lost": 1015,
+        "lost": 1016,
         "forfeited": 232
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
@@ -5603,13 +5603,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 6470,
-        "playtime": 3607368665,
+        "matches": 6471,
+        "playtime": 3607659243,
         "finished": 2424,
         "finishtime": 1609580454,
         "won": 3287,
-        "lost": 2999,
-        "forfeited": 1775
+        "lost": 3000,
+        "forfeited": 1776
     },
     "eb136e7e26124f8daa99e521da609135": {
         "nickname": "Frolde",
@@ -5828,12 +5828,12 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 7844,
-        "playtime": 5036293305,
+        "matches": 7845,
+        "playtime": 5036899351,
         "finished": 2648,
         "finishtime": 1978661362,
         "won": 3887,
-        "lost": 3615,
+        "lost": 3616,
         "forfeited": 1082
     }
 }
