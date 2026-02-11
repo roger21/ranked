@@ -314,11 +314,11 @@
         },
         "pb": 447881,
         "streak": 15,
-        "matches": 2484,
-        "playtime": 1754032340,
-        "finished": 949,
-        "finishtime": 740929367,
-        "won": 1347,
+        "matches": 2485,
+        "playtime": 1754642743,
+        "finished": 950,
+        "finishtime": 741539770,
+        "won": 1348,
         "lost": 1079,
         "forfeited": 56
     },
@@ -2727,12 +2727,12 @@
         },
         "pb": 470760,
         "streak": 9,
-        "matches": 2103,
-        "playtime": 1440475330,
+        "matches": 2104,
+        "playtime": 1441085733,
         "finished": 739,
         "finishtime": 598153939,
         "won": 1118,
-        "lost": 914,
+        "lost": 915,
         "forfeited": 231
     },
     "745a819973974fe1bb1608e57fd439b6": {
@@ -3452,11 +3452,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12492,
-        "playtime": 7890378104,
-        "finished": 4311,
-        "finishtime": 3317306201,
-        "won": 6321,
+        "matches": 12493,
+        "playtime": 7891163324,
+        "finished": 4312,
+        "finishtime": 3318091421,
+        "won": 6322,
         "lost": 5927,
         "forfeited": 2787
     },
@@ -4389,33 +4389,6 @@
         "won": 2007,
         "lost": 1168,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amar1y",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 2111
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 11
-        },
-        "pb": 433729,
-        "streak": 11,
-        "matches": 8478,
-        "playtime": 5123579858,
-        "finished": 2760,
-        "finishtime": 2046426070,
-        "won": 4167,
-        "lost": 4028,
-        "forfeited": 2294
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
