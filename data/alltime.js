@@ -3489,13 +3489,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12511,
-        "playtime": 7902491273,
+        "matches": 12512,
+        "playtime": 7902901669,
         "finished": 4320,
         "finishtime": 3323588932,
         "won": 6332,
-        "lost": 5934,
-        "forfeited": 2790
+        "lost": 5935,
+        "forfeited": 2791
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -5471,11 +5471,11 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 8106,
-        "playtime": 5025300629,
+        "matches": 8107,
+        "playtime": 5025711025,
         "finished": 3521,
         "finishtime": 2388804362,
-        "won": 4352,
+        "won": 4353,
         "lost": 3637,
         "forfeited": 836
     },
