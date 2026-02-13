@@ -2363,11 +2363,11 @@
         },
         "pb": 427406,
         "streak": 18,
-        "matches": 6992,
-        "playtime": 4384116111,
-        "finished": 2820,
-        "finishtime": 1952558388,
-        "won": 3648,
+        "matches": 6993,
+        "playtime": 4384669226,
+        "finished": 2821,
+        "finishtime": 1953111503,
+        "won": 3649,
         "lost": 3175,
         "forfeited": 779
     },
@@ -2993,13 +2993,13 @@
         },
         "pb": 396670,
         "streak": 12,
-        "matches": 6526,
-        "playtime": 3981709413,
+        "matches": 6527,
+        "playtime": 3982206908,
         "finished": 2502,
         "finishtime": 1741566333,
         "won": 3385,
-        "lost": 2903,
-        "forfeited": 1002
+        "lost": 2904,
+        "forfeited": 1003
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "ogurikappa",
@@ -3728,12 +3728,12 @@
         },
         "pb": 400216,
         "streak": 20,
-        "matches": 10879,
-        "playtime": 6484100321,
+        "matches": 10880,
+        "playtime": 6484653436,
         "finished": 4792,
         "finishtime": 3178608771,
         "won": 6184,
-        "lost": 4472,
+        "lost": 4473,
         "forfeited": 1216
     },
     "939ddf85303441de901d60bfa4109318": {
@@ -5159,7 +5159,7 @@
             "7": 1838,
             "8": 1761,
             "9": 2215,
-            "10": 2039
+            "10": 2041
         },
         "points": {
             "1": 0,
@@ -5175,11 +5175,11 @@
         },
         "pb": 414438,
         "streak": 11,
-        "matches": 4564,
-        "playtime": 3106463668,
+        "matches": 4565,
+        "playtime": 3106961163,
         "finished": 1562,
         "finishtime": 1183961857,
-        "won": 2288,
+        "won": 2289,
         "lost": 2013,
         "forfeited": 211
     },
