@@ -28,13 +28,13 @@
         },
         "pb": 421401,
         "streak": 13,
-        "matches": 5193,
-        "playtime": 3257173996,
+        "matches": 5194,
+        "playtime": 3257675148,
         "finished": 1985,
         "finishtime": 1401303153,
         "won": 2641,
-        "lost": 2422,
-        "forfeited": 537
+        "lost": 2423,
+        "forfeited": 538
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
@@ -1232,12 +1232,12 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3207,
-        "playtime": 2045913641,
+        "matches": 3208,
+        "playtime": 2046352156,
         "finished": 1164,
         "finishtime": 850589557,
         "won": 1632,
-        "lost": 1466,
+        "lost": 1467,
         "forfeited": 445
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -1549,7 +1549,7 @@
             "7": 2129,
             "8": 2016,
             "9": 2287,
-            "10": 2146
+            "10": 2162
         },
         "points": {
             "1": 0,
@@ -1565,11 +1565,11 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 9877,
-        "playtime": 6203757687,
+        "matches": 9878,
+        "playtime": 6204132609,
         "finished": 3621,
         "finishtime": 2600797097,
-        "won": 4928,
+        "won": 4929,
         "lost": 4628,
         "forfeited": 1523
     },
@@ -3520,13 +3520,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12527,
-        "playtime": 7910741260,
+        "matches": 12529,
+        "playtime": 7912000667,
         "finished": 4323,
         "finishtime": 3325347553,
         "won": 6336,
-        "lost": 5945,
-        "forfeited": 2797
+        "lost": 5947,
+        "forfeited": 2798
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -4790,13 +4790,13 @@
         },
         "pb": 411914,
         "streak": 10,
-        "matches": 2830,
-        "playtime": 1762428563,
+        "matches": 2831,
+        "playtime": 1762803485,
         "finished": 991,
         "finishtime": 671518622,
         "won": 1361,
-        "lost": 1235,
-        "forfeited": 355
+        "lost": 1236,
+        "forfeited": 356
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
