@@ -1865,12 +1865,12 @@
         },
         "pb": 442839,
         "streak": 11,
-        "matches": 3589,
-        "playtime": 2176459215,
+        "matches": 3590,
+        "playtime": 2177205052,
         "finished": 1216,
         "finishtime": 899020067,
         "won": 1777,
-        "lost": 1540,
+        "lost": 1541,
         "forfeited": 530
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -3681,7 +3681,7 @@
         "forfeited": 880
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
-        "nickname": "misfitO1",
+        "nickname": "mi5f1t",
         "country": "br",
         "top": {
             "1": 1520,
