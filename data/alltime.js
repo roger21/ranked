@@ -1055,12 +1055,12 @@
         },
         "pb": 471172,
         "streak": 11,
-        "matches": 7507,
-        "playtime": 5424011221,
+        "matches": 7508,
+        "playtime": 5424626769,
         "finished": 2620,
         "finishtime": 2142487573,
         "won": 3809,
-        "lost": 3458,
+        "lost": 3459,
         "forfeited": 260
     },
     "2ef2bfed3d084649b56290328970ace9": {
@@ -2896,11 +2896,11 @@
         },
         "pb": 410665,
         "streak": 10,
-        "matches": 3744,
-        "playtime": 2335603765,
-        "finished": 1335,
-        "finishtime": 954834004,
-        "won": 1883,
+        "matches": 3745,
+        "playtime": 2336173324,
+        "finished": 1336,
+        "finishtime": 955403563,
+        "won": 1884,
         "lost": 1715,
         "forfeited": 488
     },
@@ -4730,13 +4730,13 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 6605,
-        "playtime": 3459798125,
+        "matches": 6606,
+        "playtime": 3460340555,
         "finished": 1809,
         "finishtime": 1219327894,
         "won": 3151,
-        "lost": 3079,
-        "forfeited": 2362
+        "lost": 3080,
+        "forfeited": 2363
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
@@ -5689,13 +5689,13 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 2956,
-        "playtime": 1982880014,
+        "matches": 2957,
+        "playtime": 1983415499,
         "finished": 1081,
         "finishtime": 858945243,
         "won": 1585,
-        "lost": 1317,
-        "forfeited": 414
+        "lost": 1318,
+        "forfeited": 415
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "jpx_x",
