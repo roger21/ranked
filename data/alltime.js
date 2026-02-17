@@ -730,11 +730,11 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 7584,
-        "playtime": 4652949564,
+        "matches": 7585,
+        "playtime": 4653442145,
         "finished": 2932,
         "finishtime": 1988586356,
-        "won": 3812,
+        "won": 3813,
         "lost": 3450,
         "forfeited": 764
     },
@@ -1022,12 +1022,12 @@
         },
         "pb": 471172,
         "streak": 11,
-        "matches": 7526,
-        "playtime": 5435988734,
+        "matches": 7527,
+        "playtime": 5436639369,
         "finished": 2626,
         "finishtime": 2147028541,
         "won": 3818,
-        "lost": 3468,
+        "lost": 3469,
         "forfeited": 260
     },
     "2ef2bfed3d084649b56290328970ace9": {
@@ -2013,13 +2013,13 @@
         },
         "pb": 440696,
         "streak": 13,
-        "matches": 4100,
-        "playtime": 2477185727,
+        "matches": 4101,
+        "playtime": 2477678308,
         "finished": 1568,
         "finishtime": 1060428655,
         "won": 2073,
-        "lost": 1871,
-        "forfeited": 602
+        "lost": 1872,
+        "forfeited": 603
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -2931,13 +2931,13 @@
         },
         "pb": 401764,
         "streak": 14,
-        "matches": 8096,
-        "playtime": 4518306422,
+        "matches": 8097,
+        "playtime": 4518535278,
         "finished": 2584,
         "finishtime": 1629977083,
         "won": 3709,
-        "lost": 3611,
-        "forfeited": 2067
+        "lost": 3612,
+        "forfeited": 2068
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
