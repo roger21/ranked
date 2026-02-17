@@ -2604,7 +2604,7 @@
             "7": 2017,
             "8": 1972,
             "9": 2012,
-            "10": 1865
+            "10": 1877
         },
         "points": {
             "1": 0,
@@ -2620,11 +2620,11 @@
         },
         "pb": 424838,
         "streak": 12,
-        "matches": 2659,
-        "playtime": 1780551610,
-        "finished": 1020,
-        "finishtime": 754912874,
-        "won": 1416,
+        "matches": 2660,
+        "playtime": 1781272727,
+        "finished": 1021,
+        "finishtime": 755633991,
+        "won": 1417,
         "lost": 1116,
         "forfeited": 27
     },
@@ -5298,13 +5298,13 @@
         },
         "pb": 392682,
         "streak": 12,
-        "matches": 12013,
-        "playtime": 7632161435,
-        "finished": 4268,
-        "finishtime": 3091720774,
-        "won": 5851,
-        "lost": 5522,
-        "forfeited": 1526
+        "matches": 12015,
+        "playtime": 7633172399,
+        "finished": 4269,
+        "finishtime": 3092287340,
+        "won": 5852,
+        "lost": 5523,
+        "forfeited": 1527
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
         "nickname": "Traden",
