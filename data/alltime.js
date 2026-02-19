@@ -1201,11 +1201,11 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3246,
-        "playtime": 2066745708,
-        "finished": 1176,
-        "finishtime": 858362986,
-        "won": 1649,
+        "matches": 3247,
+        "playtime": 2067355892,
+        "finished": 1177,
+        "finishtime": 858973170,
+        "won": 1650,
         "lost": 1487,
         "forfeited": 454
     },
@@ -2931,13 +2931,13 @@
         },
         "pb": 401764,
         "streak": 14,
-        "matches": 8147,
-        "playtime": 4545291927,
+        "matches": 8148,
+        "playtime": 4545552015,
         "finished": 2609,
         "finishtime": 1643766983,
         "won": 3741,
-        "lost": 3627,
-        "forfeited": 2075
+        "lost": 3628,
+        "forfeited": 2076
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -3475,7 +3475,7 @@
             "7": 1902,
             "8": 2010,
             "9": 2074,
-            "10": 1869
+            "10": 1889
         },
         "points": {
             "1": 0,
@@ -3491,11 +3491,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12596,
-        "playtime": 7952743561,
+        "matches": 12598,
+        "playtime": 7953758560,
         "finished": 4362,
         "finishtime": 3350757755,
-        "won": 6379,
+        "won": 6381,
         "lost": 5971,
         "forfeited": 2806
     },
@@ -4244,13 +4244,13 @@
         },
         "pb": 456658,
         "streak": 8,
-        "matches": 2495,
-        "playtime": 1474841920,
+        "matches": 2496,
+        "playtime": 1475226107,
         "finished": 767,
         "finishtime": 580924655,
         "won": 1214,
-        "lost": 1054,
-        "forfeited": 600
+        "lost": 1055,
+        "forfeited": 601
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
