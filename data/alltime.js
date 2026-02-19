@@ -1534,12 +1534,12 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 9958,
-        "playtime": 6250575269,
+        "matches": 9959,
+        "playtime": 6251185066,
         "finished": 3649,
         "finishtime": 2618814493,
         "won": 4961,
-        "lost": 4676,
+        "lost": 4677,
         "forfeited": 1532
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -2918,7 +2918,7 @@
             "7": 2056,
             "8": 2066,
             "9": 2305,
-            "10": 1855
+            "10": 1871
         },
         "points": {
             "4": 0,
@@ -2931,11 +2931,11 @@
         },
         "pb": 401764,
         "streak": 14,
-        "matches": 8135,
-        "playtime": 4538400912,
+        "matches": 8136,
+        "playtime": 4538874644,
         "finished": 2603,
         "finishtime": 1640413910,
-        "won": 3734,
+        "won": 3735,
         "lost": 3623,
         "forfeited": 2074
     },
@@ -3528,13 +3528,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8044,
-        "playtime": 5388090322,
+        "matches": 8045,
+        "playtime": 5388659673,
         "finished": 2685,
         "finishtime": 2102619122,
         "won": 4012,
-        "lost": 3795,
-        "forfeited": 907
+        "lost": 3796,
+        "forfeited": 908
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
