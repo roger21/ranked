@@ -730,13 +730,13 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 7602,
-        "playtime": 4663786725,
+        "matches": 7604,
+        "playtime": 4664351875,
         "finished": 2940,
         "finishtime": 1993635758,
         "won": 3821,
-        "lost": 3457,
-        "forfeited": 764
+        "lost": 3459,
+        "forfeited": 766
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
@@ -1849,7 +1849,7 @@
             "7": 1864,
             "8": 1952,
             "9": 2029,
-            "10": 1831
+            "10": 1854
         },
         "points": {
             "1": 0,
@@ -1865,11 +1865,11 @@
         },
         "pb": 442839,
         "streak": 11,
-        "matches": 3612,
-        "playtime": 2192673958,
+        "matches": 3613,
+        "playtime": 2193549869,
         "finished": 1227,
         "finishtime": 906801618,
-        "won": 1790,
+        "won": 1791,
         "lost": 1547,
         "forfeited": 530
     },
@@ -2013,13 +2013,13 @@
         },
         "pb": 440696,
         "streak": 13,
-        "matches": 4124,
-        "playtime": 2490934385,
+        "matches": 4125,
+        "playtime": 2491810296,
         "finished": 1579,
         "finishtime": 1067171785,
         "won": 2085,
-        "lost": 1883,
-        "forfeited": 606
+        "lost": 1884,
+        "forfeited": 607
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -2546,11 +2546,11 @@
         },
         "pb": 400502,
         "streak": 22,
-        "matches": 7347,
-        "playtime": 4224902217,
+        "matches": 7348,
+        "playtime": 4225187529,
         "finished": 3496,
         "finishtime": 2338001103,
-        "won": 4529,
+        "won": 4530,
         "lost": 2751,
         "forfeited": 1161
     },
