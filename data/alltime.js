@@ -1534,11 +1534,11 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 9953,
-        "playtime": 6247735350,
-        "finished": 3646,
-        "finishtime": 2616968766,
-        "won": 4958,
+        "matches": 9954,
+        "playtime": 6248375066,
+        "finished": 3647,
+        "finishtime": 2617608482,
+        "won": 4959,
         "lost": 4674,
         "forfeited": 1532
     },
@@ -2822,7 +2822,7 @@
             "7": 2507,
             "8": 2308,
             "9": 2419,
-            "10": 2066
+            "10": 2085
         },
         "points": {
             "1": 0,
@@ -2838,11 +2838,11 @@
         },
         "pb": 380341,
         "streak": 22,
-        "matches": 6235,
-        "playtime": 3932285721,
+        "matches": 6236,
+        "playtime": 3932744312,
         "finished": 3292,
         "finishtime": 2171105395,
-        "won": 4121,
+        "won": 4122,
         "lost": 1941,
         "forfeited": 181
     },
@@ -4798,12 +4798,12 @@
         },
         "pb": 441601,
         "streak": 12,
-        "matches": 777,
-        "playtime": 496934900,
+        "matches": 778,
+        "playtime": 497516878,
         "finished": 343,
         "finishtime": 239721326,
         "won": 477,
-        "lost": 274,
+        "lost": 275,
         "forfeited": 15
     },
     "c32cdd142a0147dcb91771319d745194": {
@@ -5261,13 +5261,13 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1502,
-        "playtime": 941577852,
+        "matches": 1503,
+        "playtime": 942036443,
         "finished": 630,
         "finishtime": 423662524,
         "won": 809,
-        "lost": 628,
-        "forfeited": 94
+        "lost": 629,
+        "forfeited": 95
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "autoqualler",
