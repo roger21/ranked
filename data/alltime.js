@@ -693,13 +693,13 @@
         },
         "pb": 426663,
         "streak": 9,
-        "matches": 3095,
-        "playtime": 2047328610,
+        "matches": 3096,
+        "playtime": 2047635192,
         "finished": 1054,
         "finishtime": 805593272,
         "won": 1573,
-        "lost": 1396,
-        "forfeited": 299
+        "lost": 1397,
+        "forfeited": 300
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
@@ -1201,12 +1201,12 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3241,
-        "playtime": 2064492202,
+        "matches": 3242,
+        "playtime": 2065251031,
         "finished": 1175,
         "finishtime": 857768501,
         "won": 1647,
-        "lost": 1484,
+        "lost": 1485,
         "forfeited": 452
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -4384,13 +4384,13 @@
         },
         "pb": 444853,
         "streak": 11,
-        "matches": 4655,
-        "playtime": 2849415946,
+        "matches": 4656,
+        "playtime": 2849743072,
         "finished": 1697,
         "finishtime": 1178813183,
         "won": 2354,
-        "lost": 2144,
-        "forfeited": 607
+        "lost": 2145,
+        "forfeited": 608
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
