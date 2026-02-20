@@ -1022,11 +1022,11 @@
         },
         "pb": 471172,
         "streak": 11,
-        "matches": 7540,
-        "playtime": 5445302632,
+        "matches": 7541,
+        "playtime": 5445851801,
         "finished": 2631,
         "finishtime": 2150808356,
-        "won": 3824,
+        "won": 3825,
         "lost": 3476,
         "forfeited": 260
     },
@@ -1902,13 +1902,13 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 2959,
-        "playtime": 1868811824,
+        "matches": 2960,
+        "playtime": 1869300176,
         "finished": 1162,
         "finishtime": 791663190,
         "won": 1549,
-        "lost": 1315,
-        "forfeited": 140
+        "lost": 1316,
+        "forfeited": 141
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
         "nickname": "Tompas_",
