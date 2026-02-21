@@ -4392,33 +4392,6 @@
         "lost": 1168,
         "forfeited": 315
     },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amar1y",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 2111
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 11
-        },
-        "pb": 433729,
-        "streak": 11,
-        "matches": 8683,
-        "playtime": 5244768844,
-        "finished": 2853,
-        "finishtime": 2105656786,
-        "won": 4268,
-        "lost": 4124,
-        "forfeited": 2326
-    },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
         "country": "sj",
