@@ -63,12 +63,12 @@
         },
         "pb": 432449,
         "streak": 11,
-        "matches": 7480,
-        "playtime": 4890915238,
+        "matches": 7481,
+        "playtime": 4891495201,
         "finished": 2620,
         "finishtime": 1956784546,
         "won": 3726,
-        "lost": 3507,
+        "lost": 3508,
         "forfeited": 768
     },
     "048de51800794a208de7f01652513c32": {
@@ -1175,7 +1175,7 @@
         "forfeited": 187
     },
     "359da0f53f574971acdaa4aa23de991d": {
-        "nickname": "_pizu",
+        "nickname": "wagapizu",
         "country": "im",
         "top": {
             "1": 980,
@@ -2766,11 +2766,11 @@
         },
         "pb": 514784,
         "streak": 12,
-        "matches": 3525,
-        "playtime": 2273993508,
-        "finished": 1216,
-        "finishtime": 950275693,
-        "won": 1808,
+        "matches": 3526,
+        "playtime": 2274673972,
+        "finished": 1217,
+        "finishtime": 950956157,
+        "won": 1809,
         "lost": 1621,
         "forfeited": 670
     },
@@ -5679,12 +5679,12 @@
         },
         "pb": 485698,
         "streak": 11,
-        "matches": 3049,
-        "playtime": 2043788483,
+        "matches": 3050,
+        "playtime": 2044421712,
         "finished": 1114,
         "finishtime": 882240740,
         "won": 1630,
-        "lost": 1360,
+        "lost": 1361,
         "forfeited": 421
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
