@@ -1129,12 +1129,12 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 7433,
-        "playtime": 4393256756,
+        "matches": 7434,
+        "playtime": 4393838278,
         "finished": 2532,
         "finishtime": 1735926900,
         "won": 3563,
-        "lost": 3353,
+        "lost": 3354,
         "forfeited": 1406
     },
     "31f96d84ed9844bcabbd07f828001290": {
@@ -1534,12 +1534,12 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 10055,
-        "playtime": 6305847699,
+        "matches": 10056,
+        "playtime": 6306388188,
         "finished": 3691,
         "finishtime": 2643845418,
         "won": 5012,
-        "lost": 4717,
+        "lost": 4718,
         "forfeited": 1540
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -1865,12 +1865,12 @@
         },
         "pb": 442839,
         "streak": 11,
-        "matches": 3667,
-        "playtime": 2226290783,
+        "matches": 3668,
+        "playtime": 2227043085,
         "finished": 1248,
         "finishtime": 920497634,
         "won": 1816,
-        "lost": 1576,
+        "lost": 1577,
         "forfeited": 535
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -3417,13 +3417,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12630,
-        "playtime": 7974401095,
+        "matches": 12631,
+        "playtime": 7975147072,
         "finished": 4375,
         "finishtime": 3359794831,
         "won": 6397,
-        "lost": 5987,
-        "forfeited": 2808
+        "lost": 5988,
+        "forfeited": 2809
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -5187,12 +5187,12 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1520,
-        "playtime": 951140267,
+        "matches": 1521,
+        "playtime": 951719784,
         "finished": 637,
         "finishtime": 427795649,
         "won": 817,
-        "lost": 637,
+        "lost": 638,
         "forfeited": 99
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
