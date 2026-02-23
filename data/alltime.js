@@ -63,11 +63,11 @@
         },
         "pb": 432449,
         "streak": 11,
-        "matches": 7498,
-        "playtime": 4901546441,
-        "finished": 2629,
-        "finishtime": 1963575798,
-        "won": 3738,
+        "matches": 7499,
+        "playtime": 4902207504,
+        "finished": 2630,
+        "finishtime": 1964236861,
+        "won": 3739,
         "lost": 3513,
         "forfeited": 771
     },
@@ -3481,11 +3481,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8159,
-        "playtime": 5459392230,
-        "finished": 2727,
-        "finishtime": 2131006346,
-        "won": 4065,
+        "matches": 8160,
+        "playtime": 5460264001,
+        "finished": 2728,
+        "finishtime": 2131878117,
+        "won": 4066,
         "lost": 3843,
         "forfeited": 925
     },
@@ -4381,33 +4381,6 @@
         "won": 2007,
         "lost": 1168,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amar1y",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 2111
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 11
-        },
-        "pb": 433729,
-        "streak": 11,
-        "matches": 8687,
-        "playtime": 5247008183,
-        "finished": 2855,
-        "finishtime": 2106774582,
-        "won": 4270,
-        "lost": 4126,
-        "forfeited": 2326
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
@@ -5383,12 +5356,12 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 8207,
-        "playtime": 5084320815,
+        "matches": 8208,
+        "playtime": 5084884670,
         "finished": 3566,
         "finishtime": 2417157325,
         "won": 4407,
-        "lost": 3682,
+        "lost": 3683,
         "forfeited": 848
     },
     "e4cd494a4e0a423b9988618b86858c96": {
@@ -5674,6 +5647,43 @@
         "won": 1647,
         "lost": 1371,
         "forfeited": 421
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "tucrack",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2176,
+            "10": 2021
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 28,
+            "10": 0
+        },
+        "pb": 426500,
+        "streak": 13,
+        "matches": 1513,
+        "playtime": 979104994,
+        "finished": 569,
+        "finishtime": 409691544,
+        "won": 802,
+        "lost": 644,
+        "forfeited": 89
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "jpx_x",
