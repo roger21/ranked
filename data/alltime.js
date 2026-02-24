@@ -1199,13 +1199,13 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 7461,
-        "playtime": 4407958101,
+        "matches": 7462,
+        "playtime": 4408373438,
         "finished": 2546,
         "finishtime": 1744106594,
         "won": 3578,
-        "lost": 3366,
-        "forfeited": 1413
+        "lost": 3367,
+        "forfeited": 1414
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -2262,12 +2262,12 @@
         },
         "pb": 569124,
         "streak": 10,
-        "matches": 1120,
-        "playtime": 872132289,
+        "matches": 1121,
+        "playtime": 873176035,
         "finished": 418,
         "finishtime": 377887339,
         "won": 613,
-        "lost": 478,
+        "lost": 479,
         "forfeited": 68
     },
     "5a32f1e5609847c691c07730f973397c": {
@@ -2830,12 +2830,12 @@
         },
         "pb": 470760,
         "streak": 9,
-        "matches": 2201,
-        "playtime": 1504285190,
+        "matches": 2202,
+        "playtime": 1504812995,
         "finished": 776,
         "finishtime": 625584964,
         "won": 1166,
-        "lost": 960,
+        "lost": 961,
         "forfeited": 237
     },
     "745a819973974fe1bb1608e57fd439b6": {
@@ -3518,12 +3518,12 @@
         },
         "pb": 416628,
         "streak": 14,
-        "matches": 1540,
-        "playtime": 999749382,
+        "matches": 1541,
+        "playtime": 1000394176,
         "finished": 632,
         "finishtime": 461183956,
         "won": 864,
-        "lost": 623,
+        "lost": 624,
         "forfeited": 132
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
@@ -3592,12 +3592,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8207,
-        "playtime": 5490610862,
+        "matches": 8208,
+        "playtime": 5491232312,
         "finished": 2747,
         "finishtime": 2144930575,
         "won": 4090,
-        "lost": 3862,
+        "lost": 3863,
         "forfeited": 925
     },
     "8e662c4655534e00802d563043cd8739": {
