@@ -63,11 +63,11 @@
         },
         "pb": 432449,
         "streak": 11,
-        "matches": 7509,
-        "playtime": 4908684920,
-        "finished": 2634,
-        "finishtime": 1966724459,
-        "won": 3743,
+        "matches": 7510,
+        "playtime": 4909303730,
+        "finished": 2635,
+        "finishtime": 1967343269,
+        "won": 3744,
         "lost": 3518,
         "forfeited": 772
     },
@@ -1347,6 +1347,29 @@
         "lost": 388,
         "forfeited": 48
     },
+    "373fddb563124e13b043ea9c571595cd": {
+        "nickname": "FuzzKing",
+        "country": "gl",
+        "top": {
+            "8": 1385,
+            "9": 1862,
+            "10": 2016
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+        },
+        "pb": 481367,
+        "streak": 10,
+        "matches": 2596,
+        "playtime": 1719295211,
+        "finished": 821,
+        "finishtime": 614806110,
+        "won": 1219,
+        "lost": 1177,
+        "forfeited": 310
+    },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
         "country": "se",
@@ -1545,7 +1568,7 @@
             "7": 1834,
             "8": 1676,
             "9": 1800,
-            "10": 2023
+            "10": 2039
         },
         "points": {
             "1": 0,
@@ -1561,11 +1584,11 @@
         },
         "pb": 467274,
         "streak": 12,
-        "matches": 1194,
-        "playtime": 769197453,
+        "matches": 1195,
+        "playtime": 769513437,
         "finished": 555,
         "finishtime": 387056876,
-        "won": 716,
+        "won": 717,
         "lost": 436,
         "forfeited": 43
     },
@@ -3518,11 +3541,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12657,
-        "playtime": 7989438402,
+        "matches": 12658,
+        "playtime": 7990155903,
         "finished": 4382,
         "finishtime": 3364325721,
-        "won": 6406,
+        "won": 6407,
         "lost": 6005,
         "forfeited": 2819
     },
@@ -5684,43 +5707,6 @@
         "won": 1670,
         "lost": 1392,
         "forfeited": 425
-    },
-    "fb2bd99d6f664e7b96cc6a24834b9a76": {
-        "nickname": "tucrack",
-        "country": "ar",
-        "top": {
-            "1": 1572,
-            "2": 1410,
-            "3": 1486,
-            "4": 1655,
-            "5": 1540,
-            "6": 1435,
-            "7": 1613,
-            "8": 1955,
-            "9": 2176,
-            "10": 2021
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 18,
-            "9": 28,
-            "10": 0
-        },
-        "pb": 426500,
-        "streak": 13,
-        "matches": 1513,
-        "playtime": 979104994,
-        "finished": 569,
-        "finishtime": 409691544,
-        "won": 802,
-        "lost": 644,
-        "forfeited": 89
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "jpx_x",
