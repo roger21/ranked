@@ -932,7 +932,7 @@
             "7": 2055,
             "8": 1880,
             "9": 2250,
-            "10": 1714
+            "10": 1716
         },
         "points": {
             "1": 0,
@@ -948,11 +948,11 @@
         },
         "pb": 439903,
         "streak": 11,
-        "matches": 3486,
-        "playtime": 2308066781,
-        "finished": 1392,
-        "finishtime": 1015012641,
-        "won": 1859,
+        "matches": 3487,
+        "playtime": 2308693975,
+        "finished": 1393,
+        "finishtime": 1015639835,
+        "won": 1860,
         "lost": 1553,
         "forfeited": 176
     },
@@ -2503,12 +2503,12 @@
         },
         "pb": 469419,
         "streak": 11,
-        "matches": 3893,
-        "playtime": 2460021269,
+        "matches": 3894,
+        "playtime": 2460707490,
         "finished": 1334,
         "finishtime": 977231389,
         "won": 1943,
-        "lost": 1760,
+        "lost": 1761,
         "forfeited": 527
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -2635,7 +2635,7 @@
             "7": 1952,
             "8": 1922,
             "9": 2172,
-            "10": 1997
+            "10": 2004
         },
         "points": {
             "1": 0,
@@ -2651,11 +2651,11 @@
         },
         "pb": 425449,
         "streak": 13,
-        "matches": 5917,
-        "playtime": 3837371164,
-        "finished": 2019,
-        "finishtime": 1536044443,
-        "won": 2987,
+        "matches": 5918,
+        "playtime": 3838367363,
+        "finished": 2020,
+        "finishtime": 1537040642,
+        "won": 2988,
         "lost": 2687,
         "forfeited": 810
     },
@@ -4666,12 +4666,12 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 6201,
-        "playtime": 3499219660,
+        "matches": 6202,
+        "playtime": 3500215859,
         "finished": 2711,
         "finishtime": 1762079406,
         "won": 3434,
-        "lost": 2558,
+        "lost": 2559,
         "forfeited": 1305
     },
     "bcb0f43558d745ee977841180b121267": {
