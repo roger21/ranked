@@ -5465,13 +5465,13 @@
         },
         "pb": 477474,
         "streak": 12,
-        "matches": 464,
-        "playtime": 264745406,
+        "matches": 465,
+        "playtime": 265172014,
         "finished": 176,
         "finishtime": 126294576,
         "won": 257,
-        "lost": 182,
-        "forfeited": 109
+        "lost": 183,
+        "forfeited": 110
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "nickname": "VMiZ",
