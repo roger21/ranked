@@ -1137,7 +1137,7 @@
     },
     "2fe70934e7be458dba747c4ac830391c": {
         "nickname": "steezFemboy",
-        "country": null,
+        "country": "us",
         "top": {
             "2": 793,
             "3": 1302,
@@ -1561,11 +1561,11 @@
         },
         "pb": 467274,
         "streak": 12,
-        "matches": 1190,
-        "playtime": 766146091,
+        "matches": 1191,
+        "playtime": 766842957,
         "finished": 553,
         "finishtime": 385381588,
-        "won": 713,
+        "won": 714,
         "lost": 435,
         "forfeited": 43
     },
@@ -5778,12 +5778,12 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 7998,
-        "playtime": 5129878987,
+        "matches": 7999,
+        "playtime": 5130859913,
         "finished": 2707,
         "finishtime": 2018339106,
         "won": 3958,
-        "lost": 3693,
+        "lost": 3694,
         "forfeited": 1097
     }
 }
