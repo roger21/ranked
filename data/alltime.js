@@ -3335,13 +3335,13 @@
         },
         "pb": 456217,
         "streak": 11,
-        "matches": 4670,
-        "playtime": 2858615293,
+        "matches": 4671,
+        "playtime": 2859005133,
         "finished": 1545,
         "finishtime": 1154489472,
         "won": 2348,
-        "lost": 2159,
-        "forfeited": 1165
+        "lost": 2160,
+        "forfeited": 1166
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
