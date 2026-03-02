@@ -730,11 +730,11 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 7752,
-        "playtime": 4748904125,
-        "finished": 3008,
-        "finishtime": 2034356127,
-        "won": 3896,
+        "matches": 7753,
+        "playtime": 4749376515,
+        "finished": 3009,
+        "finishtime": 2034828517,
+        "won": 3897,
         "lost": 3522,
         "forfeited": 780
     },
@@ -2050,12 +2050,12 @@
         },
         "pb": 391295,
         "streak": 11,
-        "matches": 5026,
-        "playtime": 3148842092,
+        "matches": 5027,
+        "playtime": 3149496734,
         "finished": 2155,
         "finishtime": 1477954430,
         "won": 2738,
-        "lost": 2184,
+        "lost": 2185,
         "forfeited": 456
     },
     "562a308be86c4ec09438387860e792cc": {
@@ -3160,11 +3160,11 @@
         },
         "pb": 495464,
         "streak": 9,
-        "matches": 4276,
-        "playtime": 2865345670,
-        "finished": 1245,
-        "finishtime": 1018962728,
-        "won": 2103,
+        "matches": 4277,
+        "playtime": 2866157750,
+        "finished": 1246,
+        "finishtime": 1019774808,
+        "won": 2104,
         "lost": 1963,
         "forfeited": 701
     },
@@ -4317,33 +4317,6 @@
         "won": 2007,
         "lost": 1168,
         "forfeited": 315
-    },
-    "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amariyy",
-        "country": "hk",
-        "top": {
-            "6": 919,
-            "7": 1627,
-            "8": 1803,
-            "9": 2174,
-            "10": 2111
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 23
-        },
-        "pb": 433729,
-        "streak": 11,
-        "matches": 8701,
-        "playtime": 5256289532,
-        "finished": 2864,
-        "finishtime": 2112762202,
-        "won": 4279,
-        "lost": 4131,
-        "forfeited": 2327
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
@@ -5530,6 +5503,43 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
+    },
+    "f2e05ad464b54d288fa18da14e9a2786": {
+        "nickname": "LEC666888",
+        "country": "cn",
+        "top": {
+            "1": 1161,
+            "2": 1536,
+            "3": 1419,
+            "4": 1558,
+            "5": 1627,
+            "6": 1849,
+            "7": 1951,
+            "8": 1983,
+            "9": 2103,
+            "10": 2052
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 20,
+            "6": 30,
+            "7": 5,
+            "8": 25,
+            "9": 11,
+            "10": 10
+        },
+        "pb": 433890,
+        "streak": 16,
+        "matches": 9835,
+        "playtime": 5888960651,
+        "finished": 3375,
+        "finishtime": 2517379106,
+        "won": 4906,
+        "lost": 4539,
+        "forfeited": 2072
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
