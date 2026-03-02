@@ -386,13 +386,13 @@
         },
         "pb": 400846,
         "streak": 14,
-        "matches": 4683,
-        "playtime": 2798968732,
+        "matches": 4685,
+        "playtime": 2799798878,
         "finished": 2094,
         "finishtime": 1362648267,
-        "won": 2531,
-        "lost": 2031,
-        "forfeited": 495
+        "won": 2532,
+        "lost": 2032,
+        "forfeited": 496
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
         "nickname": "xLourx",
@@ -693,12 +693,12 @@
         },
         "pb": 426663,
         "streak": 9,
-        "matches": 3260,
-        "playtime": 2145457205,
+        "matches": 3261,
+        "playtime": 2146220813,
         "finished": 1120,
         "finishtime": 849938121,
         "won": 1653,
-        "lost": 1477,
+        "lost": 1478,
         "forfeited": 320
     },
     "25349f93cf194f3baeee93d024eccc21": {
@@ -1057,11 +1057,11 @@
         },
         "pb": 389666,
         "streak": 14,
-        "matches": 5550,
-        "playtime": 3250527290,
+        "matches": 5551,
+        "playtime": 3251123786,
         "finished": 2300,
         "finishtime": 1464836415,
-        "won": 2892,
+        "won": 2893,
         "lost": 2382,
         "forfeited": 582
     },
@@ -1129,13 +1129,13 @@
         },
         "pb": 378719,
         "streak": 13,
-        "matches": 7631,
-        "playtime": 4504078847,
-        "finished": 2628,
-        "finishtime": 1790869566,
-        "won": 3670,
-        "lost": 3442,
-        "forfeited": 1428
+        "matches": 7633,
+        "playtime": 4504907943,
+        "finished": 2629,
+        "finishtime": 1791465012,
+        "won": 3671,
+        "lost": 3443,
+        "forfeited": 1429
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -3197,13 +3197,13 @@
         },
         "pb": 456217,
         "streak": 11,
-        "matches": 4707,
-        "playtime": 2878921340,
+        "matches": 4708,
+        "playtime": 2879175383,
         "finished": 1557,
         "finishtime": 1161851430,
         "won": 2362,
-        "lost": 2179,
-        "forfeited": 1175
+        "lost": 2180,
+        "forfeited": 1176
     },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
