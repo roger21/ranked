@@ -1174,6 +1174,37 @@
         "lost": 411,
         "forfeited": 187
     },
+    "350579d3e06341a0997ac47a91f2ac98": {
+        "nickname": "xFray_",
+        "country": "sg",
+        "top": {
+            "4": 1086,
+            "5": 1014,
+            "6": 1394,
+            "7": 1342,
+            "8": 1758,
+            "9": 1938,
+            "10": 2038
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 3,
+            "9": 0,
+            "10": 9
+        },
+        "pb": 465265,
+        "streak": 9,
+        "matches": 1427,
+        "playtime": 953753853,
+        "finished": 534,
+        "finishtime": 389013461,
+        "won": 725,
+        "lost": 624,
+        "forfeited": 91
+    },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "wagapizu",
         "country": "im",
@@ -1201,13 +1232,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3379,
-        "playtime": 2146563362,
-        "finished": 1232,
-        "finishtime": 895454380,
-        "won": 1712,
-        "lost": 1550,
-        "forfeited": 482
+        "matches": 3381,
+        "playtime": 2147644940,
+        "finished": 1233,
+        "finishtime": 896042045,
+        "won": 1713,
+        "lost": 1551,
+        "forfeited": 483
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -5327,11 +5358,11 @@
         },
         "pb": 477474,
         "streak": 12,
-        "matches": 479,
-        "playtime": 275066164,
+        "matches": 480,
+        "playtime": 275579807,
         "finished": 184,
         "finishtime": 132012183,
-        "won": 266,
+        "won": 267,
         "lost": 188,
         "forfeited": 112
     },
