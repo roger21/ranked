@@ -874,12 +874,12 @@
         },
         "pb": 445416,
         "streak": 15,
-        "matches": 1679,
-        "playtime": 1158054207,
+        "matches": 1680,
+        "playtime": 1158785541,
         "finished": 638,
         "finishtime": 473730731,
         "won": 880,
-        "lost": 723,
+        "lost": 724,
         "forfeited": 35
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -1022,11 +1022,11 @@
         },
         "pb": 471172,
         "streak": 11,
-        "matches": 7675,
-        "playtime": 5532385705,
-        "finished": 2679,
-        "finishtime": 2184596493,
-        "won": 3886,
+        "matches": 7676,
+        "playtime": 5533145890,
+        "finished": 2680,
+        "finishtime": 2185356678,
+        "won": 3887,
         "lost": 3545,
         "forfeited": 260
     },
@@ -3432,7 +3432,7 @@
             "7": 1902,
             "8": 2010,
             "9": 2074,
-            "10": 1950
+            "10": 1961
         },
         "points": {
             "1": 0,
@@ -3448,11 +3448,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12774,
-        "playtime": 8061866336,
-        "finished": 4433,
-        "finishtime": 3400269959,
-        "won": 6469,
+        "matches": 12775,
+        "playtime": 8062597670,
+        "finished": 4434,
+        "finishtime": 3401001293,
+        "won": 6470,
         "lost": 6056,
         "forfeited": 2841
     },
@@ -5360,12 +5360,12 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 8337,
-        "playtime": 5159516799,
+        "matches": 8338,
+        "playtime": 5160211967,
         "finished": 3625,
         "finishtime": 2453353729,
         "won": 4473,
-        "lost": 3745,
+        "lost": 3746,
         "forfeited": 855
     },
     "e4cd494a4e0a423b9988618b86858c96": {
@@ -5583,6 +5583,43 @@
         "won": 1695,
         "lost": 1415,
         "forfeited": 427
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "tucrack",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2176,
+            "10": 2163
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 28,
+            "10": 9
+        },
+        "pb": 426500,
+        "streak": 13,
+        "matches": 1571,
+        "playtime": 1014071008,
+        "finished": 595,
+        "finishtime": 425620738,
+        "won": 831,
+        "lost": 672,
+        "forfeited": 89
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "jpx_x",
