@@ -1022,12 +1022,12 @@
         },
         "pb": 471172,
         "streak": 11,
-        "matches": 7673,
-        "playtime": 5531042895,
+        "matches": 7674,
+        "playtime": 5531695610,
         "finished": 2679,
         "finishtime": 2184596493,
         "won": 3886,
-        "lost": 3543,
+        "lost": 3544,
         "forfeited": 260
     },
     "2ef2bfed3d084649b56290328970ace9": {
@@ -1173,6 +1173,37 @@
         "won": 491,
         "lost": 411,
         "forfeited": 187
+    },
+    "350579d3e06341a0997ac47a91f2ac98": {
+        "nickname": "xFray_",
+        "country": "sg",
+        "top": {
+            "4": 1086,
+            "5": 1014,
+            "6": 1394,
+            "7": 1342,
+            "8": 1758,
+            "9": 1938,
+            "10": 2038
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 3,
+            "9": 0,
+            "10": 9
+        },
+        "pb": 465265,
+        "streak": 9,
+        "matches": 1427,
+        "playtime": 953753853,
+        "finished": 534,
+        "finishtime": 389013461,
+        "won": 725,
+        "lost": 624,
+        "forfeited": 91
     },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "wagapizu",
@@ -3417,11 +3448,11 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12771,
-        "playtime": 8059914123,
-        "finished": 4430,
-        "finishtime": 3398317746,
-        "won": 6466,
+        "matches": 12772,
+        "playtime": 8060643829,
+        "finished": 4431,
+        "finishtime": 3399047452,
+        "won": 6467,
         "lost": 6056,
         "forfeited": 2841
     },
@@ -5329,12 +5360,12 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 8334,
-        "playtime": 5157651591,
+        "matches": 8335,
+        "playtime": 5158381297,
         "finished": 3624,
         "finishtime": 2452722672,
         "won": 4472,
-        "lost": 3743,
+        "lost": 3744,
         "forfeited": 855
     },
     "e4cd494a4e0a423b9988618b86858c96": {
