@@ -2307,8 +2307,8 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 10183,
-        "playtime": 6357832364,
+        "matches": 10184,
+        "playtime": 6358446876,
         "finished": 3726,
         "finishtime": 2744868092,
         "won": 5069,
@@ -3380,13 +3380,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12787,
-        "playtime": 8069336174,
+        "matches": 12788,
+        "playtime": 8069905289,
         "finished": 4437,
         "finishtime": 3402706095,
         "won": 6473,
-        "lost": 6065,
-        "forfeited": 2844
+        "lost": 6066,
+        "forfeited": 2845
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3679,37 +3679,6 @@
         "won": 2897,
         "lost": 2654,
         "forfeited": 931
-    },
-    "9a61b87c6a16403da56541258e74ed3e": {
-        "nickname": "Blad_d",
-        "country": "de",
-        "top": {
-            "4": 935,
-            "5": 1617,
-            "6": 1877,
-            "7": 1945,
-            "8": 1819,
-            "9": 1827,
-            "10": 2095
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 45,
-            "7": 35,
-            "8": 4,
-            "9": 0,
-            "10": 6
-        },
-        "pb": 425671,
-        "streak": 13,
-        "matches": 5494,
-        "playtime": 3256941526,
-        "finished": 1801,
-        "finishtime": 1281954882,
-        "won": 2695,
-        "lost": 2552,
-        "forfeited": 1353
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
@@ -4718,11 +4687,11 @@
         },
         "pb": 418636,
         "streak": 12,
-        "matches": 808,
-        "playtime": 514864919,
-        "finished": 360,
-        "finishtime": 249296985,
-        "won": 497,
+        "matches": 809,
+        "playtime": 515314244,
+        "finished": 361,
+        "finishtime": 249746310,
+        "won": 498,
         "lost": 284,
         "forfeited": 15
     },
