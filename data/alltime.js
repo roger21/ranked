@@ -2155,13 +2155,13 @@
         },
         "pb": 447970,
         "streak": 19,
-        "matches": 1685,
-        "playtime": 1014602405,
+        "matches": 1686,
+        "playtime": 1015038016,
         "finished": 655,
         "finishtime": 459668354,
         "won": 925,
-        "lost": 705,
-        "forfeited": 304
+        "lost": 706,
+        "forfeited": 305
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "ninathepig",
