@@ -1347,13 +1347,13 @@
         },
         "pb": 467689,
         "streak": 22,
-        "matches": 1762,
-        "playtime": 1146639066,
+        "matches": 1763,
+        "playtime": 1147047217,
         "finished": 708,
         "finishtime": 516411613,
         "won": 951,
-        "lost": 734,
-        "forfeited": 139
+        "lost": 735,
+        "forfeited": 140
     },
     "3b01d4b4fef14f178b75f05c04dd34ef": {
         "nickname": "BeefSalad",
@@ -3399,7 +3399,7 @@
             "7": 1826,
             "8": 1829,
             "9": 1964,
-            "10": 1977
+            "10": 1984
         },
         "points": {
             "1": 0,
@@ -3415,11 +3415,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8415,
-        "playtime": 5621693217,
-        "finished": 2836,
-        "finishtime": 2207730059,
-        "won": 4202,
+        "matches": 8416,
+        "playtime": 5622237637,
+        "finished": 2837,
+        "finishtime": 2208274479,
+        "won": 4203,
         "lost": 3955,
         "forfeited": 944
     },
@@ -5570,11 +5570,11 @@
         },
         "pb": 474969,
         "streak": 11,
-        "matches": 3186,
-        "playtime": 2132638331,
+        "matches": 3187,
+        "playtime": 2133046482,
         "finished": 1173,
         "finishtime": 924559094,
-        "won": 1703,
+        "won": 1704,
         "lost": 1421,
         "forfeited": 429
     },
