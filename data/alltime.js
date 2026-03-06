@@ -2122,13 +2122,13 @@
         },
         "pb": 447970,
         "streak": 19,
-        "matches": 1695,
-        "playtime": 1020191817,
+        "matches": 1696,
+        "playtime": 1020520122,
         "finished": 661,
         "finishtime": 463334997,
         "won": 931,
-        "lost": 709,
-        "forfeited": 308
+        "lost": 710,
+        "forfeited": 309
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "ninathepig",
@@ -3799,7 +3799,7 @@
             "7": 2028,
             "8": 2045,
             "9": 2181,
-            "10": 2003
+            "10": 2020
         },
         "points": {
             "1": 0,
@@ -3814,11 +3814,11 @@
         },
         "pb": 445499,
         "streak": 13,
-        "matches": 6631,
-        "playtime": 4049417366,
+        "matches": 6632,
+        "playtime": 4049745671,
         "finished": 2244,
         "finishtime": 1619334302,
-        "won": 3247,
+        "won": 3248,
         "lost": 3024,
         "forfeited": 1309
     },
@@ -4543,12 +4543,12 @@
         },
         "pb": 404473,
         "streak": 17,
-        "matches": 7771,
-        "playtime": 4534889107,
+        "matches": 7772,
+        "playtime": 4535459550,
         "finished": 2940,
         "finishtime": 1991962658,
         "won": 3944,
-        "lost": 3583,
+        "lost": 3584,
         "forfeited": 1338
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
@@ -4955,11 +4955,11 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 5341,
-        "playtime": 3034596386,
-        "finished": 2059,
-        "finishtime": 1386865958,
-        "won": 2775,
+        "matches": 5342,
+        "playtime": 3035166829,
+        "finished": 2060,
+        "finishtime": 1387436401,
+        "won": 2776,
         "lost": 2385,
         "forfeited": 1173
     },
