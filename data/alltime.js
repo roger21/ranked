@@ -1199,13 +1199,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3444,
-        "playtime": 2185977347,
+        "matches": 3445,
+        "playtime": 2186413764,
         "finished": 1258,
         "finishtime": 912885684,
         "won": 1747,
-        "lost": 1579,
-        "forfeited": 487
+        "lost": 1580,
+        "forfeited": 488
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -2507,13 +2507,13 @@
         },
         "pb": 400502,
         "streak": 22,
-        "matches": 7580,
-        "playtime": 4351347173,
+        "matches": 7581,
+        "playtime": 4351577754,
         "finished": 3594,
         "finishtime": 2394472044,
         "won": 4652,
-        "lost": 2857,
-        "forfeited": 1169
+        "lost": 2858,
+        "forfeited": 1170
     },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
@@ -4543,11 +4543,11 @@
         },
         "pb": 404473,
         "streak": 17,
-        "matches": 7778,
-        "playtime": 4539044934,
+        "matches": 7779,
+        "playtime": 4539275515,
         "finished": 2942,
         "finishtime": 1992986836,
-        "won": 3946,
+        "won": 3947,
         "lost": 3588,
         "forfeited": 1338
     },
