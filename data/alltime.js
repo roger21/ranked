@@ -697,13 +697,13 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 7783,
-        "playtime": 4766564119,
+        "matches": 7784,
+        "playtime": 4766866816,
         "finished": 3020,
         "finishtime": 2041738979,
         "won": 3910,
-        "lost": 3537,
-        "forfeited": 783
+        "lost": 3538,
+        "forfeited": 784
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
         "nickname": "Aquacorde",
@@ -1495,11 +1495,11 @@
         },
         "pb": 467274,
         "streak": 12,
-        "matches": 1218,
-        "playtime": 782904955,
-        "finished": 566,
-        "finishtime": 393579015,
-        "won": 728,
+        "matches": 1219,
+        "playtime": 783450065,
+        "finished": 567,
+        "finishtime": 394124125,
+        "won": 729,
         "lost": 446,
         "forfeited": 43
     },
@@ -3415,13 +3415,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8461,
-        "playtime": 5648603239,
+        "matches": 8462,
+        "playtime": 5649145238,
         "finished": 2852,
         "finishtime": 2218270648,
         "won": 4222,
-        "lost": 3979,
-        "forfeited": 950
+        "lost": 3980,
+        "forfeited": 951
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
@@ -5601,13 +5601,13 @@
         },
         "pb": 474969,
         "streak": 11,
-        "matches": 3198,
-        "playtime": 2139938515,
+        "matches": 3200,
+        "playtime": 2141104547,
         "finished": 1178,
         "finishtime": 928221600,
         "won": 1709,
-        "lost": 1427,
-        "forfeited": 430
+        "lost": 1429,
+        "forfeited": 431
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "tucrack",
