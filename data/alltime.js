@@ -1532,12 +1532,12 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 10332,
-        "playtime": 6472180531,
+        "matches": 10333,
+        "playtime": 6472759938,
         "finished": 3806,
         "finishtime": 2715178728,
         "won": 5148,
-        "lost": 4851,
+        "lost": 4852,
         "forfeited": 1547
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -1884,7 +1884,7 @@
             "7": 1947,
             "8": 2141,
             "9": 2438,
-            "10": 2067
+            "10": 2082
         },
         "points": {
             "1": 0,
@@ -1900,11 +1900,11 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 3098,
-        "playtime": 1948597649,
-        "finished": 1229,
-        "finishtime": 831954140,
-        "won": 1621,
+        "matches": 3100,
+        "playtime": 1949640875,
+        "finished": 1231,
+        "finishtime": 832997366,
+        "won": 1623,
         "lost": 1380,
         "forfeited": 150
     },
@@ -3378,13 +3378,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 12804,
-        "playtime": 8079580504,
-        "finished": 4443,
-        "finishtime": 3406738719,
-        "won": 6481,
-        "lost": 6074,
-        "forfeited": 2849
+        "matches": 12806,
+        "playtime": 8080662275,
+        "finished": 4444,
+        "finishtime": 3407553864,
+        "won": 6482,
+        "lost": 6075,
+        "forfeited": 2850
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -3415,13 +3415,13 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8439,
-        "playtime": 5635295662,
+        "matches": 8440,
+        "playtime": 5635670065,
         "finished": 2842,
         "finishtime": 2211325485,
         "won": 4211,
-        "lost": 3969,
-        "forfeited": 947
+        "lost": 3970,
+        "forfeited": 948
     },
     "8e662c4655534e00802d563043cd8739": {
         "nickname": "Parkertwo",
@@ -5311,11 +5311,11 @@
         },
         "pb": 465432,
         "streak": 14,
-        "matches": 9766,
-        "playtime": 6188371083,
+        "matches": 9767,
+        "playtime": 6188637709,
         "finished": 3067,
         "finishtime": 2365165207,
-        "won": 4843,
+        "won": 4844,
         "lost": 4612,
         "forfeited": 2157
     },
