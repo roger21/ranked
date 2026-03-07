@@ -390,11 +390,11 @@
         },
         "pb": 536869,
         "streak": 16,
-        "matches": 988,
-        "playtime": 722072208,
+        "matches": 989,
+        "playtime": 722387754,
         "finished": 372,
         "finishtime": 310755367,
-        "won": 549,
+        "won": 550,
         "lost": 412,
         "forfeited": 20
     },
@@ -2196,13 +2196,13 @@
         },
         "pb": 406950,
         "streak": 13,
-        "matches": 2998,
-        "playtime": 1777319896,
+        "matches": 2999,
+        "playtime": 1777640069,
         "finished": 1264,
         "finishtime": 820336856,
         "won": 1600,
-        "lost": 1288,
-        "forfeited": 411
+        "lost": 1289,
+        "forfeited": 412
     },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
@@ -2601,7 +2601,7 @@
             "7": 1798,
             "8": 1396,
             "9": 2127,
-            "10": 1795
+            "10": 1814
         },
         "points": {
             "1": 0,
@@ -2616,13 +2616,13 @@
         },
         "pb": 455961,
         "streak": 12,
-        "matches": 782,
-        "playtime": 451731357,
-        "finished": 346,
-        "finishtime": 232764102,
-        "won": 458,
-        "lost": 297,
-        "forfeited": 162
+        "matches": 784,
+        "playtime": 452463430,
+        "finished": 347,
+        "finishtime": 233282487,
+        "won": 459,
+        "lost": 298,
+        "forfeited": 163
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
@@ -3633,13 +3633,13 @@
         },
         "pb": 434412,
         "streak": 11,
-        "matches": 6424,
-        "playtime": 4090493900,
+        "matches": 6426,
+        "playtime": 4091393759,
         "finished": 2257,
         "finishtime": 1647583863,
         "won": 3236,
-        "lost": 3015,
-        "forfeited": 995
+        "lost": 3017,
+        "forfeited": 996
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -5589,13 +5589,13 @@
         },
         "pb": 474969,
         "streak": 11,
-        "matches": 3226,
-        "playtime": 2156726077,
+        "matches": 3227,
+        "playtime": 2157236657,
         "finished": 1184,
         "finishtime": 932798049,
         "won": 1718,
-        "lost": 1445,
-        "forfeited": 437
+        "lost": 1446,
+        "forfeited": 438
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "tucrack",
