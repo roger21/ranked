@@ -1847,7 +1847,7 @@
             "7": 1864,
             "8": 1952,
             "9": 2029,
-            "10": 1941
+            "10": 1966
         },
         "points": {
             "1": 0,
@@ -1863,11 +1863,11 @@
         },
         "pb": 442839,
         "streak": 11,
-        "matches": 3719,
-        "playtime": 2258988332,
-        "finished": 1271,
-        "finishtime": 936532604,
-        "won": 1845,
+        "matches": 3720,
+        "playtime": 2259854054,
+        "finished": 1272,
+        "finishtime": 937398326,
+        "won": 1846,
         "lost": 1596,
         "forfeited": 539
     },
@@ -2544,12 +2544,12 @@
         },
         "pb": 425449,
         "streak": 13,
-        "matches": 5927,
-        "playtime": 3844679903,
+        "matches": 5928,
+        "playtime": 3845545625,
         "finished": 2027,
         "finishtime": 1541827744,
         "won": 2995,
-        "lost": 2689,
+        "lost": 2690,
         "forfeited": 810
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3415,11 +3415,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8466,
-        "playtime": 5651714734,
+        "matches": 8467,
+        "playtime": 5652370687,
         "finished": 2854,
         "finishtime": 2219577710,
-        "won": 4224,
+        "won": 4225,
         "lost": 3982,
         "forfeited": 952
     },
@@ -5601,13 +5601,13 @@
         },
         "pb": 474969,
         "streak": 11,
-        "matches": 3203,
-        "playtime": 2143131543,
+        "matches": 3204,
+        "playtime": 2143787496,
         "finished": 1179,
         "finishtime": 928953796,
         "won": 1710,
-        "lost": 1431,
-        "forfeited": 431
+        "lost": 1432,
+        "forfeited": 432
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "tucrack",
