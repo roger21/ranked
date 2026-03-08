@@ -2513,12 +2513,12 @@
         },
         "pb": 425449,
         "streak": 13,
-        "matches": 5977,
-        "playtime": 3875223233,
+        "matches": 5978,
+        "playtime": 3875844653,
         "finished": 2044,
         "finishtime": 1553042618,
         "won": 3018,
-        "lost": 2714,
+        "lost": 2715,
         "forfeited": 811
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -2756,12 +2756,12 @@
         },
         "pb": 410665,
         "streak": 10,
-        "matches": 3889,
-        "playtime": 2418502201,
+        "matches": 3890,
+        "playtime": 2419067255,
         "finished": 1395,
         "finishtime": 993125127,
         "won": 1955,
-        "lost": 1784,
+        "lost": 1785,
         "forfeited": 506
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
@@ -3528,13 +3528,13 @@
         },
         "pb": 400216,
         "streak": 20,
-        "matches": 10966,
-        "playtime": 6533514050,
+        "matches": 10967,
+        "playtime": 6533837766,
         "finished": 4845,
         "finishtime": 3209690232,
         "won": 6244,
-        "lost": 4499,
-        "forfeited": 1217
+        "lost": 4500,
+        "forfeited": 1218
     },
     "939ddf85303441de901d60bfa4109318": {
         "nickname": "thecamo6",
@@ -5634,12 +5634,12 @@
         },
         "pb": 405962,
         "streak": 10,
-        "matches": 8102,
-        "playtime": 5192758026,
+        "matches": 8103,
+        "playtime": 5193329033,
         "finished": 2747,
         "finishtime": 2044786233,
         "won": 4010,
-        "lost": 3743,
+        "lost": 3744,
         "forfeited": 1107
     }
 }
