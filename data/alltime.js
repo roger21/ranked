@@ -1024,11 +1024,11 @@
         },
         "pb": 389666,
         "streak": 14,
-        "matches": 5656,
-        "playtime": 3309407830,
-        "finished": 2354,
-        "finishtime": 1494482070,
-        "won": 2950,
+        "matches": 5657,
+        "playtime": 3309940384,
+        "finished": 2355,
+        "finishtime": 1495014624,
+        "won": 2951,
         "lost": 2428,
         "forfeited": 582
     },
@@ -5350,13 +5350,13 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 8409,
-        "playtime": 5201144153,
+        "matches": 8411,
+        "playtime": 5201965373,
         "finished": 3656,
         "finishtime": 2473078812,
         "won": 4510,
-        "lost": 3779,
-        "forfeited": 861
+        "lost": 3781,
+        "forfeited": 862
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
@@ -5566,13 +5566,13 @@
         },
         "pb": 470975,
         "streak": 11,
-        "matches": 3281,
-        "playtime": 2191804683,
+        "matches": 3282,
+        "playtime": 2192194408,
         "finished": 1208,
         "finishtime": 949610374,
         "won": 1746,
-        "lost": 1470,
-        "forfeited": 440
+        "lost": 1471,
+        "forfeited": 441
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "tucrack",
