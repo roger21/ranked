@@ -5628,13 +5628,13 @@
         },
         "pb": 470975,
         "streak": 11,
-        "matches": 3303,
-        "playtime": 2207159779,
+        "matches": 3304,
+        "playtime": 2207612869,
         "finished": 1219,
         "finishtime": 958077252,
         "won": 1760,
-        "lost": 1477,
-        "forfeited": 441
+        "lost": 1478,
+        "forfeited": 442
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "jpx_x",
