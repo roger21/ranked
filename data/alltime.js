@@ -2237,11 +2237,11 @@
         },
         "pb": 400440,
         "streak": 18,
-        "matches": 7313,
-        "playtime": 4557724846,
+        "matches": 7314,
+        "playtime": 4558005220,
         "finished": 2965,
         "finishtime": 2037881279,
-        "won": 3816,
+        "won": 3817,
         "lost": 3320,
         "forfeited": 822
     },
@@ -5076,13 +5076,13 @@
         },
         "pb": 437835,
         "streak": 14,
-        "matches": 8482,
-        "playtime": 5453312139,
+        "matches": 8483,
+        "playtime": 5453592513,
         "finished": 2887,
         "finishtime": 2098951212,
         "won": 4201,
-        "lost": 3901,
-        "forfeited": 1090
+        "lost": 3902,
+        "forfeited": 1091
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "Shiny_Chingling",
@@ -5483,7 +5483,7 @@
             "7": 2021,
             "8": 2023,
             "9": 2044,
-            "10": 1724
+            "10": 1745
         },
         "points": {
             "2": 0,
@@ -5498,11 +5498,11 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 6710,
-        "playtime": 3739962909,
-        "finished": 2518,
-        "finishtime": 1670951322,
-        "won": 3404,
+        "matches": 6711,
+        "playtime": 3740588448,
+        "finished": 2519,
+        "finishtime": 1671576861,
+        "won": 3405,
         "lost": 3108,
         "forfeited": 1846
     },
