@@ -1189,7 +1189,7 @@
             "7": 1640,
             "8": 1563,
             "9": 1707,
-            "10": 1548
+            "10": 1570
         },
         "points": {
             "1": 0,
@@ -1205,11 +1205,11 @@
         },
         "pb": 526564,
         "streak": 11,
-        "matches": 2001,
-        "playtime": 1467401626,
-        "finished": 658,
-        "finishtime": 561100647,
-        "won": 1029,
+        "matches": 2002,
+        "playtime": 1468102760,
+        "finished": 659,
+        "finishtime": 561801781,
+        "won": 1030,
         "lost": 861,
         "forfeited": 205
     },
@@ -1390,11 +1390,11 @@
         },
         "pb": 493121,
         "streak": 12,
-        "matches": 2795,
-        "playtime": 1966545259,
-        "finished": 987,
-        "finishtime": 774971528,
-        "won": 1456,
+        "matches": 2796,
+        "playtime": 1967214975,
+        "finished": 988,
+        "finishtime": 775641244,
+        "won": 1457,
         "lost": 1243,
         "forfeited": 99
     },
@@ -1832,12 +1832,12 @@
         },
         "pb": 442839,
         "streak": 11,
-        "matches": 3731,
-        "playtime": 2267141317,
+        "matches": 3732,
+        "playtime": 2267695656,
         "finished": 1279,
         "finishtime": 942130850,
         "won": 1853,
-        "lost": 1600,
+        "lost": 1601,
         "forfeited": 539
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -2674,7 +2674,7 @@
             "7": 1793,
             "8": 1718,
             "9": 1759,
-            "10": 1817
+            "10": 1843
         },
         "points": {
             "1": 0,
@@ -2690,11 +2690,11 @@
         },
         "pb": 514784,
         "streak": 12,
-        "matches": 3564,
-        "playtime": 2300962423,
-        "finished": 1237,
-        "finishtime": 966169498,
-        "won": 1831,
+        "matches": 3565,
+        "playtime": 2301516762,
+        "finished": 1238,
+        "finishtime": 966723837,
+        "won": 1832,
         "lost": 1635,
         "forfeited": 673
     },
