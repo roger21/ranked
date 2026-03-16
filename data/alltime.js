@@ -3273,13 +3273,13 @@
         },
         "pb": 397260,
         "streak": 20,
-        "matches": 2156,
-        "playtime": 1321537685,
+        "matches": 2157,
+        "playtime": 1321858649,
         "finished": 879,
         "finishtime": 596080483,
         "won": 1181,
-        "lost": 885,
-        "forfeited": 192
+        "lost": 886,
+        "forfeited": 193
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
         "nickname": "Mar1n",
