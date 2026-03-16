@@ -660,13 +660,13 @@
         },
         "pb": 426663,
         "streak": 9,
-        "matches": 3340,
-        "playtime": 2192253939,
+        "matches": 3341,
+        "playtime": 2192851853,
         "finished": 1151,
         "finishtime": 868850761,
         "won": 1693,
-        "lost": 1515,
-        "forfeited": 329
+        "lost": 1516,
+        "forfeited": 330
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
