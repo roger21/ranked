@@ -318,12 +318,12 @@
         },
         "pb": 364576,
         "streak": 12,
-        "matches": 2688,
-        "playtime": 1591272991,
+        "matches": 2689,
+        "playtime": 1592080312,
         "finished": 1127,
         "finishtime": 754571266,
         "won": 1458,
-        "lost": 1125,
+        "lost": 1126,
         "forfeited": 462
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
@@ -1721,13 +1721,13 @@
         },
         "pb": 534504,
         "streak": 11,
-        "matches": 1294,
-        "playtime": 915990053,
+        "matches": 1295,
+        "playtime": 916308317,
         "finished": 346,
         "finishtime": 308995995,
         "won": 641,
-        "lost": 573,
-        "forfeited": 249
+        "lost": 574,
+        "forfeited": 250
     },
     "4863326cccf043ecbb8ff88628bed781": {
         "nickname": "pulsar32",
@@ -4592,11 +4592,11 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 6281,
-        "playtime": 3541553327,
-        "finished": 2751,
-        "finishtime": 1785218594,
-        "won": 3478,
+        "matches": 6282,
+        "playtime": 3542360648,
+        "finished": 2752,
+        "finishtime": 1786025915,
+        "won": 3479,
         "lost": 2594,
         "forfeited": 1316
     },
@@ -4887,7 +4887,7 @@
             "7": 1518,
             "8": 1657,
             "9": 1530,
-            "10": 1721
+            "10": 1744
         },
         "points": {
             "1": 0,
@@ -4903,11 +4903,11 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2754,
-        "playtime": 1819513821,
+        "matches": 2755,
+        "playtime": 1819838603,
         "finished": 892,
         "finishtime": 725899833,
-        "won": 1428,
+        "won": 1429,
         "lost": 1206,
         "forfeited": 563
     },
@@ -5498,13 +5498,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 6767,
-        "playtime": 3770644153,
+        "matches": 6768,
+        "playtime": 3771133302,
         "finished": 2544,
         "finishtime": 1686759482,
         "won": 3436,
-        "lost": 3131,
-        "forfeited": 1860
+        "lost": 3132,
+        "forfeited": 1861
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
