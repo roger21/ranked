@@ -1359,7 +1359,7 @@
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "dwoh",
-        "country": null,
+        "country": "kr",
         "top": {
             "1": 1802,
             "2": 1813,
