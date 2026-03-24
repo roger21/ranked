@@ -3135,13 +3135,13 @@
         },
         "pb": 444127,
         "streak": 9,
-        "matches": 4446,
-        "playtime": 2984371756,
+        "matches": 4447,
+        "playtime": 2984713919,
         "finished": 1314,
         "finishtime": 1070458358,
         "won": 2182,
-        "lost": 2046,
-        "forfeited": 710
+        "lost": 2047,
+        "forfeited": 711
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "Ialreadylostgg",
