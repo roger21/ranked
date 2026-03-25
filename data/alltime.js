@@ -592,12 +592,12 @@
         },
         "pb": 400578,
         "streak": 23,
-        "matches": 3852,
-        "playtime": 2310548356,
+        "matches": 3853,
+        "playtime": 2311172202,
         "finished": 1902,
         "finishtime": 1199707568,
         "won": 2346,
-        "lost": 1387,
+        "lost": 1388,
         "forfeited": 61
     },
     "182a4a03fae54aa7aed4de1cf1f93d2b": {
@@ -3042,31 +3042,6 @@
         "lost": 643,
         "forfeited": 131
     },
-    "7f93d3e698cd4d648accc2a4d46ce119": {
-        "nickname": "woofdoggo_",
-        "country": null,
-        "top": {
-            "3": 1575,
-            "6": 1309,
-            "7": 1508,
-            "10": 2305
-        },
-        "points": {
-            "3": 0,
-            "6": 0,
-            "7": 0,
-            "10": 42
-        },
-        "pb": 429938,
-        "streak": 10,
-        "matches": 619,
-        "playtime": 369884763,
-        "finished": 261,
-        "finishtime": 165575085,
-        "won": 337,
-        "lost": 267,
-        "forfeited": 0
-    },
     "7fad8dae2ab04971bc07a6440f84d609": {
         "nickname": "suravil",
         "country": "pl",
@@ -3271,11 +3246,11 @@
         },
         "pb": 456217,
         "streak": 11,
-        "matches": 4982,
-        "playtime": 3033823573,
-        "finished": 1658,
-        "finishtime": 1226624405,
-        "won": 2498,
+        "matches": 4983,
+        "playtime": 3034427241,
+        "finished": 1659,
+        "finishtime": 1227228073,
+        "won": 2499,
         "lost": 2307,
         "forfeited": 1220
     },
