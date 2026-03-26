@@ -4254,11 +4254,11 @@
         },
         "pb": 378785,
         "streak": 15,
-        "matches": 5493,
-        "playtime": 3535897005,
-        "finished": 2118,
-        "finishtime": 1452696785,
-        "won": 2893,
+        "matches": 5494,
+        "playtime": 3536441170,
+        "finished": 2119,
+        "finishtime": 1453240950,
+        "won": 2894,
         "lost": 2370,
         "forfeited": 284
     },
@@ -5129,13 +5129,13 @@
         },
         "pb": 437835,
         "streak": 14,
-        "matches": 8595,
-        "playtime": 5519124053,
+        "matches": 8597,
+        "playtime": 5519700951,
         "finished": 2936,
         "finishtime": 2129258548,
         "won": 4255,
-        "lost": 3959,
-        "forfeited": 1110
+        "lost": 3961,
+        "forfeited": 1112
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "Shiny_Chingling",
@@ -5411,12 +5411,12 @@
         },
         "pb": 477474,
         "streak": 12,
-        "matches": 559,
-        "playtime": 323215022,
+        "matches": 560,
+        "playtime": 323768296,
         "finished": 206,
         "finishtime": 146865869,
         "won": 302,
-        "lost": 227,
+        "lost": 228,
         "forfeited": 118
     },
     "e691063a2afc4c47ac987c0f307297ad": {
@@ -5518,13 +5518,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 6910,
-        "playtime": 3847544883,
+        "matches": 6911,
+        "playtime": 3847810354,
         "finished": 2598,
         "finishtime": 1719635194,
         "won": 3504,
-        "lost": 3201,
-        "forfeited": 1906
+        "lost": 3202,
+        "forfeited": 1907
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
