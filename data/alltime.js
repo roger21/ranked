@@ -808,13 +808,13 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 4448,
-        "playtime": 2855292689,
+        "matches": 4449,
+        "playtime": 2856057568,
         "finished": 1707,
         "finishtime": 1219032240,
         "won": 2334,
-        "lost": 2026,
-        "forfeited": 234
+        "lost": 2027,
+        "forfeited": 235
     },
     "26c82339872246c489bf285760ca1af3": {
         "nickname": "novadud",
@@ -1168,13 +1168,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3659,
-        "playtime": 2312978616,
+        "matches": 3660,
+        "playtime": 2313435539,
         "finished": 1347,
         "finishtime": 969571183,
         "won": 1854,
-        "lost": 1677,
-        "forfeited": 514
+        "lost": 1678,
+        "forfeited": 515
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -2017,11 +2017,11 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 5293,
-        "playtime": 3295200578,
-        "finished": 2280,
-        "finishtime": 1551066074,
-        "won": 2883,
+        "matches": 5294,
+        "playtime": 3295722565,
+        "finished": 2281,
+        "finishtime": 1551588061,
+        "won": 2884,
         "lost": 2298,
         "forfeited": 476
     },
@@ -4549,12 +4549,12 @@
         },
         "pb": 404473,
         "streak": 17,
-        "matches": 8133,
-        "playtime": 4749042168,
+        "matches": 8134,
+        "playtime": 4749564155,
         "finished": 3103,
         "finishtime": 2088402482,
         "won": 4128,
-        "lost": 3751,
+        "lost": 3752,
         "forfeited": 1338
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
@@ -4934,13 +4934,13 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2820,
-        "playtime": 1860378004,
+        "matches": 2821,
+        "playtime": 1860588122,
         "finished": 914,
         "finishtime": 742263915,
         "won": 1460,
-        "lost": 1237,
-        "forfeited": 575
+        "lost": 1238,
+        "forfeited": 576
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "LoveWalter",
