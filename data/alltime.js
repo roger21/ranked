@@ -1300,7 +1300,7 @@
             "7": 1972,
             "8": 1862,
             "9": 2154,
-            "10": 1991
+            "10": 2010
         },
         "points": {
             "1": 0,
@@ -1316,11 +1316,11 @@
         },
         "pb": 467689,
         "streak": 22,
-        "matches": 1841,
-        "playtime": 1195814673,
+        "matches": 1842,
+        "playtime": 1196296077,
         "finished": 743,
         "finishtime": 539588258,
-        "won": 995,
+        "won": 996,
         "lost": 766,
         "forfeited": 142
     },
@@ -2017,11 +2017,11 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 5298,
-        "playtime": 3298157526,
-        "finished": 2282,
-        "finishtime": 1552177986,
-        "won": 2885,
+        "matches": 5299,
+        "playtime": 3298706108,
+        "finished": 2283,
+        "finishtime": 1552726568,
+        "won": 2886,
         "lost": 2301,
         "forfeited": 476
     },
@@ -3090,13 +3090,13 @@
         },
         "pb": 429445,
         "streak": 10,
-        "matches": 3949,
-        "playtime": 2314098404,
+        "matches": 3950,
+        "playtime": 2314579808,
         "finished": 1418,
         "finishtime": 934916415,
         "won": 1930,
-        "lost": 1795,
-        "forfeited": 831
+        "lost": 1796,
+        "forfeited": 832
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
