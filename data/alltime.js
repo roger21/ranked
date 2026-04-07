@@ -3384,12 +3384,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8933,
-        "playtime": 5933349910,
+        "matches": 8934,
+        "playtime": 5934013791,
         "finished": 3014,
         "finishtime": 2332514500,
         "won": 4440,
-        "lost": 4215,
+        "lost": 4216,
         "forfeited": 1017
     },
     "8e662c4655534e00802d563043cd8739": {
@@ -4897,13 +4897,13 @@
         },
         "pb": 506326,
         "streak": 10,
-        "matches": 2829,
-        "playtime": 1864763417,
+        "matches": 2830,
+        "playtime": 1865213296,
         "finished": 917,
         "finishtime": 744648548,
         "won": 1463,
-        "lost": 1243,
-        "forfeited": 580
+        "lost": 1244,
+        "forfeited": 581
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "LoveWalter",
@@ -5307,12 +5307,12 @@
         },
         "pb": 465432,
         "streak": 14,
-        "matches": 9886,
-        "playtime": 6263129037,
+        "matches": 9887,
+        "playtime": 6263816930,
         "finished": 3121,
         "finishtime": 2401232370,
         "won": 4909,
-        "lost": 4663,
+        "lost": 4664,
         "forfeited": 2157
     },
     "e43dad544b244da9b690a12fdc8626dc": {
