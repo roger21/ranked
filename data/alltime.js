@@ -2476,12 +2476,12 @@
         },
         "pb": 429312,
         "streak": 11,
-        "matches": 4154,
-        "playtime": 2617684189,
+        "matches": 4155,
+        "playtime": 2618487173,
         "finished": 1430,
         "finishtime": 1040695905,
         "won": 2074,
-        "lost": 1873,
+        "lost": 1874,
         "forfeited": 546
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -2867,13 +2867,13 @@
         },
         "pb": 396670,
         "streak": 12,
-        "matches": 6747,
-        "playtime": 4100954695,
+        "matches": 6748,
+        "playtime": 4101485420,
         "finished": 2615,
         "finishtime": 1806300071,
         "won": 3504,
-        "lost": 3004,
-        "forfeited": 1033
+        "lost": 3005,
+        "forfeited": 1034
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "mina_ha",
@@ -5008,12 +5008,12 @@
         },
         "pb": 500132,
         "streak": 10,
-        "matches": 2862,
-        "playtime": 1883927364,
+        "matches": 2863,
+        "playtime": 1884751797,
         "finished": 928,
         "finishtime": 752412232,
         "won": 1477,
-        "lost": 1260,
+        "lost": 1261,
         "forfeited": 590
     },
     "cc432b2626a44ae1836a50244adbf468": {
