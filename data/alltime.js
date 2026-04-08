@@ -808,12 +808,12 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 3512,
-        "playtime": 2129004342,
+        "matches": 3513,
+        "playtime": 2129491457,
         "finished": 1698,
         "finishtime": 1063318618,
         "won": 1992,
-        "lost": 1426,
+        "lost": 1427,
         "forfeited": 83
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
@@ -1353,11 +1353,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 19191,
-        "playtime": 11920127552,
-        "finished": 8317,
-        "finishtime": 5593434112,
-        "won": 10565,
+        "matches": 19192,
+        "playtime": 11920614667,
+        "finished": 8318,
+        "finishtime": 5593921227,
+        "won": 10566,
         "lost": 8351,
         "forfeited": 1200
     },
@@ -2202,12 +2202,12 @@
         },
         "pb": 510816,
         "streak": 10,
-        "matches": 2006,
-        "playtime": 1498132377,
+        "matches": 2007,
+        "playtime": 1498886195,
         "finished": 733,
         "finishtime": 622209583,
         "won": 1036,
-        "lost": 899,
+        "lost": 900,
         "forfeited": 68
     },
     "5a32f1e5609847c691c07730f973397c": {
@@ -2311,13 +2311,13 @@
         },
         "pb": 400440,
         "streak": 18,
-        "matches": 7755,
-        "playtime": 4792572327,
+        "matches": 7756,
+        "playtime": 4793151062,
         "finished": 3158,
         "finishtime": 2152112801,
         "won": 4045,
-        "lost": 3527,
-        "forfeited": 908
+        "lost": 3528,
+        "forfeited": 909
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
@@ -3602,12 +3602,12 @@
         },
         "pb": 397915,
         "streak": 20,
-        "matches": 11240,
-        "playtime": 6686077479,
+        "matches": 11241,
+        "playtime": 6686647124,
         "finished": 4995,
         "finishtime": 3295887587,
         "won": 6416,
-        "lost": 4600,
+        "lost": 4601,
         "forfeited": 1224
     },
     "939ddf85303441de901d60bfa4109318": {
@@ -3822,13 +3822,13 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 5214,
-        "playtime": 2963839438,
+        "matches": 5215,
+        "playtime": 2964061856,
         "finished": 2023,
         "finishtime": 1346032505,
         "won": 2639,
-        "lost": 2417,
-        "forfeited": 1077
+        "lost": 2418,
+        "forfeited": 1078
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "nickname": "sevensix_",
@@ -4367,7 +4367,7 @@
             "7": 1627,
             "8": 1803,
             "9": 2174,
-            "10": 2288
+            "10": 2303
         },
         "points": {
             "6": 0,
@@ -4378,11 +4378,11 @@
         },
         "pb": 433729,
         "streak": 11,
-        "matches": 9149,
-        "playtime": 5510930082,
+        "matches": 9150,
+        "playtime": 5511152500,
         "finished": 3066,
         "finishtime": 2237064082,
-        "won": 4511,
+        "won": 4512,
         "lost": 4338,
         "forfeited": 2364
     },
@@ -4770,7 +4770,7 @@
             "7": 1602,
             "8": 1661,
             "9": 2207,
-            "10": 2330
+            "10": 2356
         },
         "points": {
             "1": 0,
@@ -4786,11 +4786,11 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 931,
-        "playtime": 580877724,
-        "finished": 418,
-        "finishtime": 282205953,
-        "won": 564,
+        "matches": 932,
+        "playtime": 581447369,
+        "finished": 419,
+        "finishtime": 282775598,
+        "won": 565,
         "lost": 334,
         "forfeited": 30
     },
