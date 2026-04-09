@@ -4967,13 +4967,13 @@
         },
         "pb": 500132,
         "streak": 10,
-        "matches": 2878,
-        "playtime": 1895675763,
+        "matches": 2879,
+        "playtime": 1895932880,
         "finished": 937,
         "finishtime": 759522191,
         "won": 1487,
-        "lost": 1265,
-        "forfeited": 590
+        "lost": 1266,
+        "forfeited": 591
     },
     "cc432b2626a44ae1836a50244adbf468": {
         "nickname": "LoveWalter",
