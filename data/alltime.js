@@ -2013,13 +2013,13 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 4195,
-        "playtime": 3015023587,
+        "matches": 4196,
+        "playtime": 3015615968,
         "finished": 1317,
         "finishtime": 1115460872,
         "won": 2100,
-        "lost": 1894,
-        "forfeited": 339
+        "lost": 1895,
+        "forfeited": 340
     },
     "4cf401d7b9474756b06a653867d22fca": {
         "nickname": "BadGamer",
