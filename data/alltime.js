@@ -100,12 +100,12 @@
         },
         "pb": 396880,
         "streak": 13,
-        "matches": 6115,
-        "playtime": 3529940908,
+        "matches": 6116,
+        "playtime": 3530646200,
         "finished": 2137,
         "finishtime": 1434400000,
         "won": 3053,
-        "lost": 2887,
+        "lost": 2888,
         "forfeited": 1346
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -1571,12 +1571,12 @@
         },
         "pb": 392365,
         "streak": 29,
-        "matches": 4486,
-        "playtime": 2665895840,
+        "matches": 4487,
+        "playtime": 2666401102,
         "finished": 2562,
         "finishtime": 1587013013,
         "won": 3104,
-        "lost": 1246,
+        "lost": 1247,
         "forfeited": 36
     },
     "3da9e8cec2d348f781a98d095b1d0325": {
@@ -3975,7 +3975,7 @@
             "7": 1992,
             "8": 2002,
             "9": 2239,
-            "10": 2205
+            "10": 2211
         },
         "points": {
             "1": 0,
@@ -3991,11 +3991,11 @@
         },
         "pb": 424299,
         "streak": 24,
-        "matches": 9644,
-        "playtime": 5849200747,
-        "finished": 3220,
-        "finishtime": 2294992518,
-        "won": 4727,
+        "matches": 9645,
+        "playtime": 5849706009,
+        "finished": 3221,
+        "finishtime": 2295497780,
+        "won": 4728,
         "lost": 4493,
         "forfeited": 1848
     },
@@ -4435,7 +4435,7 @@
             "7": 1914,
             "8": 2025,
             "9": 2297,
-            "10": 2305
+            "10": 2323
         },
         "points": {
             "4": 0,
@@ -4448,11 +4448,11 @@
         },
         "pb": 444853,
         "streak": 11,
-        "matches": 5308,
-        "playtime": 3216462298,
-        "finished": 1981,
-        "finishtime": 1351319217,
-        "won": 2681,
+        "matches": 5309,
+        "playtime": 3217167590,
+        "finished": 1982,
+        "finishtime": 1352024509,
+        "won": 2682,
         "lost": 2442,
         "forfeited": 687
     },
