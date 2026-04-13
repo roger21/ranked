@@ -3699,12 +3699,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 8818,
-        "playtime": 5465566136,
+        "matches": 8819,
+        "playtime": 5466100455,
         "finished": 3442,
         "finishtime": 2330519885,
         "won": 4401,
-        "lost": 4114,
+        "lost": 4115,
         "forfeited": 880
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -3954,13 +3954,13 @@
         },
         "pb": 424299,
         "streak": 24,
-        "matches": 9652,
-        "playtime": 5854247975,
+        "matches": 9653,
+        "playtime": 5854555326,
         "finished": 3225,
         "finishtime": 2298238367,
         "won": 4732,
-        "lost": 4495,
-        "forfeited": 1848
+        "lost": 4496,
+        "forfeited": 1849
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
         "nickname": "jamyreaf",
@@ -4883,11 +4883,11 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 978,
-        "playtime": 605522956,
+        "matches": 979,
+        "playtime": 605830307,
         "finished": 438,
         "finishtime": 293144208,
-        "won": 586,
+        "won": 587,
         "lost": 359,
         "forfeited": 36
     },
@@ -5744,6 +5744,43 @@
         "won": 1922,
         "lost": 1635,
         "forfeited": 477
+    },
+    "fb2bd99d6f664e7b96cc6a24834b9a76": {
+        "nickname": "TuCarta",
+        "country": "ar",
+        "top": {
+            "1": 1572,
+            "2": 1410,
+            "3": 1486,
+            "4": 1655,
+            "5": 1540,
+            "6": 1435,
+            "7": 1613,
+            "8": 1955,
+            "9": 2176,
+            "10": 2284
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 18,
+            "9": 28,
+            "10": 25
+        },
+        "pb": 407738,
+        "streak": 13,
+        "matches": 1805,
+        "playtime": 1151712869,
+        "finished": 689,
+        "finishtime": 484039077,
+        "won": 944,
+        "lost": 785,
+        "forfeited": 89
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
         "nickname": "jpx_x",
