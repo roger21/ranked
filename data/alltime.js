@@ -63,13 +63,13 @@
         },
         "pb": 432449,
         "streak": 12,
-        "matches": 7991,
-        "playtime": 5203892416,
+        "matches": 7992,
+        "playtime": 5204117321,
         "finished": 2835,
         "finishtime": 2099921769,
         "won": 3984,
-        "lost": 3747,
-        "forfeited": 812
+        "lost": 3748,
+        "forfeited": 813
     },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "subdas",
