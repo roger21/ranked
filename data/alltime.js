@@ -5688,13 +5688,13 @@
         },
         "pb": 470975,
         "streak": 11,
-        "matches": 3639,
-        "playtime": 2416369342,
+        "matches": 3640,
+        "playtime": 2416796485,
         "finished": 1350,
         "finishtime": 1048359663,
         "won": 1924,
-        "lost": 1639,
-        "forfeited": 478
+        "lost": 1640,
+        "forfeited": 479
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "TuCarta",
