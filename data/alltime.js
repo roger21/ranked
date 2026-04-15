@@ -3662,13 +3662,13 @@
         },
         "pb": 397915,
         "streak": 20,
-        "matches": 11292,
-        "playtime": 6714239579,
+        "matches": 11293,
+        "playtime": 6714540051,
         "finished": 5022,
         "finishtime": 3311287369,
         "won": 6446,
-        "lost": 4622,
-        "forfeited": 1226
+        "lost": 4623,
+        "forfeited": 1227
     },
     "939ddf85303441de901d60bfa4109318": {
         "nickname": "thecamo6",
@@ -5861,12 +5861,12 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 8251,
-        "playtime": 5276932978,
+        "matches": 8252,
+        "playtime": 5277461849,
         "finished": 2807,
         "finishtime": 2082789557,
         "won": 4083,
-        "lost": 3810,
+        "lost": 3811,
         "forfeited": 1134
     }
 }
