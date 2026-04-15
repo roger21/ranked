@@ -1059,11 +1059,11 @@
         },
         "pb": 471172,
         "streak": 12,
-        "matches": 8017,
-        "playtime": 5768287894,
+        "matches": 8018,
+        "playtime": 5768688609,
         "finished": 2821,
         "finishtime": 2289455802,
-        "won": 4056,
+        "won": 4057,
         "lost": 3705,
         "forfeited": 260
     },
@@ -3333,12 +3333,12 @@
         },
         "pb": 397521,
         "streak": 14,
-        "matches": 5445,
-        "playtime": 3520695477,
+        "matches": 5446,
+        "playtime": 3521196982,
         "finished": 1941,
         "finishtime": 1364986154,
         "won": 2654,
-        "lost": 2411,
+        "lost": 2412,
         "forfeited": 174
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -3465,7 +3465,7 @@
             "7": 1826,
             "8": 1829,
             "9": 1964,
-            "10": 1984
+            "10": 1986
         },
         "points": {
             "1": 0,
@@ -3481,11 +3481,11 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 8993,
-        "playtime": 5971496741,
+        "matches": 8994,
+        "playtime": 5972279514,
         "finished": 3043,
         "finishtime": 2352479845,
-        "won": 4477,
+        "won": 4478,
         "lost": 4236,
         "forfeited": 1023
     },
@@ -5342,12 +5342,12 @@
         },
         "pb": 411349,
         "streak": 15,
-        "matches": 5850,
-        "playtime": 3636016849,
+        "matches": 5851,
+        "playtime": 3636602227,
         "finished": 1954,
         "finishtime": 1382003656,
         "won": 2849,
-        "lost": 2705,
+        "lost": 2706,
         "forfeited": 917
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
@@ -5589,13 +5589,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7178,
-        "playtime": 3989137114,
+        "matches": 7179,
+        "playtime": 3989489095,
         "finished": 2707,
         "finishtime": 1788691379,
         "won": 3629,
-        "lost": 3335,
-        "forfeited": 2003
+        "lost": 3336,
+        "forfeited": 2004
     },
     "eb136e7e26124f8daa99e521da609135": {
         "nickname": "Frolde",
