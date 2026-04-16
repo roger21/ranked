@@ -734,13 +734,13 @@
         },
         "pb": 426663,
         "streak": 9,
-        "matches": 3476,
-        "playtime": 2275169845,
+        "matches": 3477,
+        "playtime": 2275574021,
         "finished": 1206,
         "finishtime": 903942818,
         "won": 1761,
-        "lost": 1577,
-        "forfeited": 338
+        "lost": 1578,
+        "forfeited": 339
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
@@ -3240,11 +3240,11 @@
         },
         "pb": 456217,
         "streak": 11,
-        "matches": 5320,
-        "playtime": 3230405185,
+        "matches": 5321,
+        "playtime": 3230774385,
         "finished": 1799,
         "finishtime": 1316356820,
-        "won": 2664,
+        "won": 2665,
         "lost": 2468,
         "forfeited": 1272
     },
@@ -4751,12 +4751,12 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 3248,
-        "playtime": 1998128575,
+        "matches": 3249,
+        "playtime": 1998754023,
         "finished": 1198,
         "finishtime": 793219655,
         "won": 1582,
-        "lost": 1427,
+        "lost": 1428,
         "forfeited": 382
     },
     "be7a79f3331042f19c07230752b26725": {
@@ -5426,13 +5426,13 @@
         },
         "pb": 413740,
         "streak": 14,
-        "matches": 8830,
-        "playtime": 5444374540,
+        "matches": 8831,
+        "playtime": 5444648602,
         "finished": 3830,
         "finishtime": 2583495975,
         "won": 4718,
-        "lost": 3984,
-        "forfeited": 907
+        "lost": 3985,
+        "forfeited": 908
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
