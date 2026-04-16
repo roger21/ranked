@@ -5589,37 +5589,6 @@
         "lost": 2652,
         "forfeited": 1486
     },
-    "ed0605bc88fa411f8f1d530323efd867": {
-        "nickname": "Prince_01",
-        "country": "in",
-        "top": {
-            "4": 1058,
-            "5": 1253,
-            "6": 1254,
-            "7": 1231,
-            "8": 1768,
-            "9": 2019,
-            "10": 2203
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 6
-        },
-        "pb": 422228,
-        "streak": 12,
-        "matches": 9173,
-        "playtime": 5865736405,
-        "finished": 2485,
-        "finishtime": 1936907789,
-        "won": 4261,
-        "lost": 4195,
-        "forfeited": 2276
-    },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
         "country": null,
