@@ -2081,13 +2081,13 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 5440,
-        "playtime": 3375852018,
+        "matches": 5441,
+        "playtime": 3376202361,
         "finished": 2344,
         "finishtime": 1588173612,
         "won": 2953,
-        "lost": 2375,
-        "forfeited": 494
+        "lost": 2376,
+        "forfeited": 495
     },
     "562a308be86c4ec09438387860e792cc": {
         "nickname": "Oxidiot",
