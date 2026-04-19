@@ -1026,12 +1026,12 @@
         },
         "pb": 471172,
         "streak": 12,
-        "matches": 8052,
-        "playtime": 5789894256,
+        "matches": 8053,
+        "playtime": 5790674921,
         "finished": 2833,
         "finishtime": 2297591800,
         "won": 4074,
-        "lost": 3722,
+        "lost": 3723,
         "forfeited": 260
     },
     "2ef2bfed3d084649b56290328970ace9": {
@@ -5258,39 +5258,6 @@
         "won": 6075,
         "lost": 5746,
         "forfeited": 1616
-    },
-    "dd382293fed04a3e9fa850bb139279fc": {
-        "nickname": "vorbh",
-        "country": "no",
-        "top": {
-            "1": 1344,
-            "2": 1340,
-            "4": 1344,
-            "5": 1322,
-            "7": 1483,
-            "8": 1800,
-            "9": 2223,
-            "10": 2474
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "5": 0,
-            "7": 0,
-            "8": 4,
-            "9": 24,
-            "10": 24
-        },
-        "pb": 411349,
-        "streak": 15,
-        "matches": 5943,
-        "playtime": 3688593997,
-        "finished": 1987,
-        "finishtime": 1402639954,
-        "won": 2889,
-        "lost": 2752,
-        "forfeited": 918
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
         "nickname": "Traden",
