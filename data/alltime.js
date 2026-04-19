@@ -485,8 +485,8 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 7290,
-        "playtime": 4570011035,
+        "matches": 7291,
+        "playtime": 4570749557,
         "finished": 2425,
         "finishtime": 1754317329,
         "won": 3590,
@@ -543,7 +543,7 @@
             "7": 1807,
             "8": 1866,
             "9": 1927,
-            "10": 2219
+            "10": 2223
         },
         "points": {
             "1": 0,
@@ -559,11 +559,11 @@
         },
         "pb": 459344,
         "streak": 11,
-        "matches": 1480,
-        "playtime": 943731243,
+        "matches": 1481,
+        "playtime": 943942146,
         "finished": 521,
         "finishtime": 380883147,
-        "won": 770,
+        "won": 771,
         "lost": 572,
         "forfeited": 90
     },
@@ -3139,12 +3139,12 @@
         },
         "pb": 444127,
         "streak": 9,
-        "matches": 4745,
-        "playtime": 3179307158,
+        "matches": 4746,
+        "playtime": 3180026345,
         "finished": 1422,
         "finishtime": 1149472485,
         "won": 2329,
-        "lost": 2187,
+        "lost": 2188,
         "forfeited": 730
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
@@ -3651,11 +3651,11 @@
         },
         "pb": 439571,
         "streak": 11,
-        "matches": 6110,
-        "playtime": 3802025442,
+        "matches": 6111,
+        "playtime": 3802575216,
         "finished": 2239,
         "finishtime": 1592707486,
-        "won": 3044,
+        "won": 3045,
         "lost": 2804,
         "forfeited": 974
     },
@@ -5669,13 +5669,13 @@
         },
         "pb": 470975,
         "streak": 11,
-        "matches": 3656,
-        "playtime": 2426845092,
+        "matches": 3657,
+        "playtime": 2427394866,
         "finished": 1359,
         "finishtime": 1054549583,
         "won": 1934,
-        "lost": 1644,
-        "forfeited": 479
+        "lost": 1645,
+        "forfeited": 480
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "TuCarta",
