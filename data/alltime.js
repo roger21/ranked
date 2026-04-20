@@ -5648,31 +5648,6 @@
         "lost": 288,
         "forfeited": 45
     },
-    "f55a7e31e65a453e941ebec79cd39992": {
-        "nickname": "Brunted",
-        "country": "gb",
-        "top": {
-            "7": 941,
-            "8": 1448,
-            "9": 2121,
-            "10": 2201
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 8,
-            "10": 14
-        },
-        "pb": 429392,
-        "streak": 9,
-        "matches": 2357,
-        "playtime": 1546987025,
-        "finished": 861,
-        "finishtime": 608385678,
-        "won": 1149,
-        "lost": 1044,
-        "forfeited": 55
-    },
     "fa1bec35058546c98f9279f8be7cf9bc": {
         "nickname": "MoleyG",
         "country": "au",
