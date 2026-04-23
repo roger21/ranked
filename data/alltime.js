@@ -28,12 +28,12 @@
         },
         "pb": 392337,
         "streak": 13,
-        "matches": 5569,
-        "playtime": 3476907733,
+        "matches": 5570,
+        "playtime": 3477566432,
         "finished": 2149,
         "finishtime": 1505040335,
         "won": 2833,
-        "lost": 2594,
+        "lost": 2595,
         "forfeited": 555
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -101,43 +101,6 @@
         "won": 1168,
         "lost": 1077,
         "forfeited": 210
-    },
-    "0562802e736e47c581b2ef095e2ed067": {
-        "nickname": "subdas",
-        "country": "br",
-        "top": {
-            "1": 1448,
-            "2": 1459,
-            "3": 1229,
-            "4": 1440,
-            "5": 1805,
-            "6": 1743,
-            "7": 1698,
-            "8": 1894,
-            "9": 2298,
-            "10": 2311
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 5,
-            "7": 0,
-            "8": 15,
-            "9": 13,
-            "10": 10
-        },
-        "pb": 396880,
-        "streak": 13,
-        "matches": 6498,
-        "playtime": 3753572449,
-        "finished": 2301,
-        "finishtime": 1535890012,
-        "won": 3240,
-        "lost": 3078,
-        "forfeited": 1391
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -946,12 +909,12 @@
         },
         "pb": 445416,
         "streak": 15,
-        "matches": 1897,
-        "playtime": 1294410782,
+        "matches": 1898,
+        "playtime": 1294920917,
         "finished": 734,
         "finishtime": 534739200,
         "won": 990,
-        "lost": 816,
+        "lost": 817,
         "forfeited": 36
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -5551,7 +5514,7 @@
             "7": 1731,
             "8": 1994,
             "9": 2414,
-            "10": 2307
+            "10": 2326
         },
         "points": {
             "1": 0,
@@ -5566,11 +5529,11 @@
         },
         "pb": 412292,
         "streak": 11,
-        "matches": 2017,
-        "playtime": 1234694194,
-        "finished": 777,
-        "finishtime": 523024106,
-        "won": 1046,
+        "matches": 2018,
+        "playtime": 1235352893,
+        "finished": 778,
+        "finishtime": 523682805,
+        "won": 1047,
         "lost": 883,
         "forfeited": 238
     },
