@@ -3888,13 +3888,13 @@
         },
         "pb": 409586,
         "streak": 15,
-        "matches": 5419,
-        "playtime": 3065880865,
+        "matches": 5420,
+        "playtime": 3066406674,
         "finished": 2106,
         "finishtime": 1394863486,
         "won": 2734,
-        "lost": 2524,
-        "forfeited": 1143
+        "lost": 2525,
+        "forfeited": 1144
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "nickname": "sevensix_",
