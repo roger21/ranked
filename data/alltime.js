@@ -493,12 +493,12 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 5010,
-        "playtime": 3400633913,
+        "matches": 5011,
+        "playtime": 3401701744,
         "finished": 1550,
         "finishtime": 1201506285,
         "won": 2476,
-        "lost": 2218,
+        "lost": 2219,
         "forfeited": 696
     },
     "132807fea3a54a02b6b1ad057430b002": {
@@ -771,12 +771,12 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 8210,
-        "playtime": 5007406798,
+        "matches": 8211,
+        "playtime": 5007939646,
         "finished": 3203,
         "finishtime": 2151411439,
         "won": 4128,
-        "lost": 3731,
+        "lost": 3732,
         "forfeited": 814
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -1316,11 +1316,11 @@
         },
         "pb": 495954,
         "streak": 11,
-        "matches": 1000,
-        "playtime": 671302588,
-        "finished": 408,
-        "finishtime": 304000916,
-        "won": 562,
+        "matches": 1001,
+        "playtime": 671923279,
+        "finished": 409,
+        "finishtime": 304621607,
+        "won": 563,
         "lost": 398,
         "forfeited": 52
     },
@@ -2099,41 +2099,6 @@
         "lost": 2446,
         "forfeited": 504
     },
-    "554b53dfe17f43bdb792e1f5069c2887": {
-        "nickname": "AstraF",
-        "country": "jp",
-        "top": {
-            "1": 1655,
-            "2": 1468,
-            "3": 1579,
-            "4": 1619,
-            "5": 1754,
-            "7": 1816,
-            "8": 1503,
-            "9": 2071,
-            "10": 2215
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 20,
-            "7": 25,
-            "8": 0,
-            "9": 3,
-            "10": 0
-        },
-        "pb": 380344,
-        "streak": 13,
-        "matches": 2651,
-        "playtime": 1618720941,
-        "finished": 847,
-        "finishtime": 596871407,
-        "won": 1297,
-        "lost": 1149,
-        "forfeited": 479
-    },
     "562a308be86c4ec09438387860e792cc": {
         "nickname": "Oxidiot",
         "country": "us",
@@ -2536,12 +2501,12 @@
         },
         "pb": 429312,
         "streak": 11,
-        "matches": 4425,
-        "playtime": 2781722448,
+        "matches": 4426,
+        "playtime": 2782695703,
         "finished": 1536,
         "finishtime": 1110012129,
         "won": 2204,
-        "lost": 2006,
+        "lost": 2007,
         "forfeited": 557
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -3699,12 +3664,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 9008,
-        "playtime": 5585048644,
+        "matches": 9009,
+        "playtime": 5585532994,
         "finished": 3531,
         "finishtime": 2385697415,
         "won": 4499,
-        "lost": 4197,
+        "lost": 4198,
         "forfeited": 880
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -3773,11 +3738,11 @@
         },
         "pb": 439571,
         "streak": 11,
-        "matches": 6168,
-        "playtime": 3835234825,
-        "finished": 2262,
-        "finishtime": 1606724417,
-        "won": 3074,
+        "matches": 6169,
+        "playtime": 3835719175,
+        "finished": 2263,
+        "finishtime": 1607208767,
+        "won": 3075,
         "lost": 2830,
         "forfeited": 981
     },
@@ -5007,6 +4972,29 @@
         "won": 2527,
         "lost": 2266,
         "forfeited": 885
+    },
+    "c9f3dc334bb84708911c611e94751b5a": {
+        "nickname": "Koereit",
+        "country": "ph",
+        "top": {
+            "8": 1238,
+            "9": 1855,
+            "10": 2220
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+        },
+        "pb": 437225,
+        "streak": 12,
+        "matches": 3706,
+        "playtime": 2219816771,
+        "finished": 1250,
+        "finishtime": 892261860,
+        "won": 1773,
+        "lost": 1696,
+        "forfeited": 921
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
