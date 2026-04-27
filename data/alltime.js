@@ -4848,13 +4848,13 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 3259,
-        "playtime": 2046520455,
+        "matches": 3261,
+        "playtime": 2047475934,
         "finished": 1373,
         "finishtime": 950042936,
         "won": 1779,
-        "lost": 1400,
-        "forfeited": 250
+        "lost": 1402,
+        "forfeited": 251
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "josh7eautwins",
