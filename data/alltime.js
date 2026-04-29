@@ -156,7 +156,7 @@
             "7": 1721,
             "8": 1975,
             "9": 2175,
-            "10": 2255
+            "10": 2281
         },
         "points": {
             "3": 0,
@@ -170,11 +170,11 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 7538,
-        "playtime": 5283487202,
+        "matches": 7539,
+        "playtime": 5283968883,
         "finished": 2465,
         "finishtime": 1872267176,
-        "won": 3623,
+        "won": 3624,
         "lost": 3419,
         "forfeited": 263
     },
@@ -557,13 +557,13 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 5090,
-        "playtime": 3446624382,
+        "matches": 5091,
+        "playtime": 3446913305,
         "finished": 1574,
         "finishtime": 1216200607,
         "won": 2511,
-        "lost": 2261,
-        "forfeited": 712
+        "lost": 2262,
+        "forfeited": 713
     },
     "132807fea3a54a02b6b1ad057430b002": {
         "nickname": "ulqt",
@@ -586,11 +586,11 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 7364,
-        "playtime": 4611543345,
-        "finished": 2458,
-        "finishtime": 1774324985,
-        "won": 3630,
+        "matches": 7365,
+        "playtime": 4612099947,
+        "finished": 2459,
+        "finishtime": 1774881587,
+        "won": 3631,
         "lost": 3423,
         "forfeited": 1150
     },
@@ -833,12 +833,12 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 8259,
-        "playtime": 5034207057,
+        "matches": 8260,
+        "playtime": 5034660462,
         "finished": 3222,
         "finishtime": 2162365993,
         "won": 4152,
-        "lost": 3755,
+        "lost": 3756,
         "forfeited": 816
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -1088,12 +1088,12 @@
         },
         "pb": 396273,
         "streak": 14,
-        "matches": 1911,
-        "playtime": 1198813082,
+        "matches": 1912,
+        "playtime": 1199504655,
         "finished": 919,
         "finishtime": 617643178,
         "won": 1112,
-        "lost": 749,
+        "lost": 750,
         "forfeited": 5
     },
     "2e12870c08ec4337bc2e8fbf54e79853": {
@@ -1709,11 +1709,11 @@
         },
         "pb": 417845,
         "streak": 14,
-        "matches": 5205,
-        "playtime": 3375979669,
-        "finished": 2040,
-        "finishtime": 1434872413,
-        "won": 2725,
+        "matches": 5206,
+        "playtime": 3376433074,
+        "finished": 2041,
+        "finishtime": 1435325818,
+        "won": 2726,
         "lost": 2292,
         "forfeited": 206
     },
@@ -4926,12 +4926,12 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 3298,
-        "playtime": 2068789129,
+        "matches": 3299,
+        "playtime": 2069345731,
         "finished": 1392,
         "finishtime": 961274160,
         "won": 1801,
-        "lost": 1417,
+        "lost": 1418,
         "forfeited": 251
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
@@ -5124,13 +5124,13 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 5769,
-        "playtime": 3264624886,
+        "matches": 5770,
+        "playtime": 3265106567,
         "finished": 2261,
         "finishtime": 1501643917,
         "won": 2997,
-        "lost": 2586,
-        "forfeited": 1233
+        "lost": 2587,
+        "forfeited": 1234
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
@@ -5843,7 +5843,7 @@
             "7": 1933,
             "8": 1935,
             "9": 2059,
-            "10": 2041
+            "10": 2057
         },
         "points": {
             "1": 0,
@@ -5859,11 +5859,11 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 8379,
-        "playtime": 5351933077,
+        "matches": 8380,
+        "playtime": 5352238601,
         "finished": 2855,
         "finishtime": 2113931852,
-        "won": 4144,
+        "won": 4145,
         "lost": 3871,
         "forfeited": 1150
     }
