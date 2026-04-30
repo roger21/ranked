@@ -1700,7 +1700,7 @@
             "8": 1756,
             "9": 1706,
             "10": 2018,
-            "11": 1617
+            "11": 1652
         },
         "points": {
             "4": 0,
@@ -1714,11 +1714,11 @@
         },
         "pb": 466754,
         "streak": 11,
-        "matches": 4860,
-        "playtime": 3330636647,
+        "matches": 4862,
+        "playtime": 3331368575,
         "finished": 1300,
         "finishtime": 1062753014,
-        "won": 2293,
+        "won": 2295,
         "lost": 2195,
         "forfeited": 875
     },
@@ -2687,7 +2687,7 @@
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
         "nickname": "AstraF",
-        "country": "jp",
+        "country": "fr",
         "top": {
             "1": 1655,
             "2": 1468,
@@ -3335,11 +3335,11 @@
         },
         "pb": 502523,
         "streak": 9,
-        "matches": 1490,
-        "playtime": 980832201,
-        "finished": 513,
-        "finishtime": 371587458,
-        "won": 707,
+        "matches": 1491,
+        "playtime": 981409861,
+        "finished": 514,
+        "finishtime": 372165118,
+        "won": 708,
         "lost": 640,
         "forfeited": 66
     },
@@ -4509,13 +4509,13 @@
         },
         "pb": 429596,
         "streak": 10,
-        "matches": 3496,
-        "playtime": 2237220966,
+        "matches": 3498,
+        "playtime": 2238263643,
         "finished": 1192,
         "finishtime": 868229315,
         "won": 1769,
-        "lost": 1572,
-        "forfeited": 529
+        "lost": 1573,
+        "forfeited": 530
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
