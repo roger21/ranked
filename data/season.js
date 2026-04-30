@@ -1,5 +1,5 @@
 {
-    "date": 1777549801000,
+    "date": 1777550401000,
     "players": [
         {
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
@@ -5318,6 +5318,43 @@
             "matches": []
         },
         {
+            "uuid": "9cd54d4874c04380b3ca1fb251decbf2",
+            "nickname": "KindPlays",
+            "stats": {
+                "rank": 37,
+                "elo": 1565,
+                "top": 1565,
+                "points": 0,
+                "pb": 648502,
+                "current": 1,
+                "streak": 1,
+                "matches": 5,
+                "playtime": 3171767,
+                "finished": 2,
+                "finishtime": 1558087,
+                "won": 2,
+                "lost": 3,
+                "forfeited": 0
+            },
+            "country": "is",
+            "matches": [
+                {
+                    "date": 1777550187000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "xFray_",
+                    "elo": 1565,
+                    "change": 22,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 909585,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "04ba5cf10a9546eb878fc3609f61ba5f",
             "nickname": "Feuerdrache",
             "stats": {
@@ -5521,7 +5558,7 @@
             "uuid": "2da4eedfeda04cab843b8bf367e14a3f",
             "nickname": "Quaggmire",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1563,
                 "top": 1577,
                 "points": 0,
@@ -5614,7 +5651,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "vorbhfan2",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1562,
                 "top": 1562,
                 "points": 0,
@@ -5889,7 +5926,7 @@
             "uuid": "97d59e1daaa74e4094fff1c47cd091c2",
             "nickname": "pigswitch",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1562,
                 "top": 1619,
                 "points": 0,
@@ -6038,7 +6075,7 @@
             "uuid": "3a07fee4ce5a4f22b5f2bf207d075e0f",
             "nickname": "21mustard",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1561,
                 "top": 1561,
                 "points": 0,
@@ -6131,7 +6168,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1561,
                 "top": 1596,
                 "points": 0,
@@ -6322,7 +6359,7 @@
             "uuid": "185b039b70284aa9a98850db4ba88e0d",
             "nickname": "ElegantRobin",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1561,
                 "top": 1597,
                 "points": 0,
@@ -6513,7 +6550,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1561,
                 "top": 1579,
                 "points": 0,
@@ -6900,7 +6937,7 @@
             "uuid": "04f166515e1f47dd93fe81de0938e49b",
             "nickname": "PandaRuns",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1557,
                 "top": 1557,
                 "points": 0,
@@ -6922,7 +6959,7 @@
             "uuid": "1a709bc2947b4e3f8b4d590b95b7b0bc",
             "nickname": "le4ves",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1557,
                 "top": 1557,
                 "points": 0,
@@ -6944,7 +6981,7 @@
             "uuid": "bae9f9a51afd4eabbacd453f9bcc430d",
             "nickname": "stapl3r_",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1557,
                 "top": 1578,
                 "points": 0,
@@ -6995,7 +7032,7 @@
             "uuid": "e50aa94be9cc400ba30bf0ca89b60828",
             "nickname": "47cpss",
             "stats": {
-                "rank": 49,
+                "rank": 51,
                 "elo": 1552,
                 "top": 1571,
                 "points": 0,
@@ -7051,57 +7088,6 @@
                     "oelo": 1422,
                     "ochange": -16,
                     "time": 612525,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "0478fbcaf4da4cf983e1be6d6e11678c",
-            "nickname": "_KrakerS",
-            "stats": {
-                "rank": 50,
-                "elo": 1551,
-                "top": 1569,
-                "points": 0,
-                "pb": 573085,
-                "current": 0,
-                "streak": 2,
-                "matches": 6,
-                "playtime": 3555128,
-                "finished": 3,
-                "finishtime": 1894656,
-                "won": 3,
-                "lost": 2,
-                "forfeited": 1
-            },
-            "country": "pl",
-            "matches": [
-                {
-                    "date": 1777516210000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1551,
-                    "change": -18,
-                    "oelo": 1633,
-                    "ochange": 18,
-                    "time": 328617,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777515784000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "kW1st",
-                    "elo": 1569,
-                    "change": 18,
-                    "oelo": 1466,
-                    "ochange": -18,
-                    "time": 651469,
                     "forfeited": false,
                     "decayed": false
                 }
