@@ -1,5 +1,5 @@
 {
-    "date": 1777551601000,
+    "date": 1777552201000,
     "players": [
         {
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
@@ -500,22 +500,36 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 3,
-                "elo": 1780,
-                "top": 1780,
+                "elo": 1794,
+                "top": 1794,
                 "points": 0,
                 "pb": 457067,
-                "current": 7,
-                "streak": 7,
-                "matches": 20,
-                "playtime": 10540863,
-                "finished": 13,
-                "finishtime": 7486958,
-                "won": 15,
+                "current": 8,
+                "streak": 8,
+                "matches": 21,
+                "playtime": 11048926,
+                "finished": 14,
+                "finishtime": 7995021,
+                "won": 16,
                 "lost": 4,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1777551876000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "SammmyG",
+                    "elo": 1794,
+                    "change": 14,
+                    "oelo": 1591,
+                    "ochange": -14,
+                    "time": 508063,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1777550494000,
                     "type": "DESERT_TEMPLE",
@@ -3866,37 +3880,65 @@
             ]
         },
         {
-            "uuid": "fe6771646c5d43c1b713023fb69c10c6",
-            "nickname": "SammmyG",
+            "uuid": "9cd54d4874c04380b3ca1fb251decbf2",
+            "nickname": "KindPlays",
             "stats": {
                 "rank": 23,
-                "elo": 1605,
-                "top": 1605,
+                "elo": 1603,
+                "top": 1603,
                 "points": 0,
-                "pb": 560274,
-                "current": 1,
-                "streak": 1,
-                "matches": 5,
-                "playtime": 3237157,
-                "finished": 2,
-                "finishtime": 1214738,
-                "won": 2,
+                "pb": 637474,
+                "current": 3,
+                "streak": 3,
+                "matches": 7,
+                "playtime": 4479000,
+                "finished": 4,
+                "finishtime": 2865320,
+                "won": 4,
                 "lost": 3,
                 "forfeited": 0
             },
-            "country": "au",
+            "country": "is",
             "matches": [
                 {
-                    "date": 1777551140000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
+                    "date": 1777551799000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1605,
+                    "opponent": "EpicSnek",
+                    "elo": 1603,
                     "change": 20,
                     "oelo": 0,
                     "ochange": 0,
-                    "time": 654464,
+                    "time": 637474,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1777551013000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "hikari_dcr",
+                    "elo": 1583,
+                    "change": 18,
+                    "oelo": 1498,
+                    "ochange": -18,
+                    "time": 669759,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1777550187000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "xFray_",
+                    "elo": 1565,
+                    "change": 22,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 909585,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -3906,7 +3948,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 1603,
                 "top": 1641,
                 "points": 0,
@@ -3999,7 +4041,7 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 1603,
                 "top": 1666,
                 "points": 0,
@@ -4527,10 +4569,61 @@
             ]
         },
         {
+            "uuid": "fe6771646c5d43c1b713023fb69c10c6",
+            "nickname": "SammmyG",
+            "stats": {
+                "rank": 28,
+                "elo": 1591,
+                "top": 1605,
+                "points": 0,
+                "pb": 560274,
+                "current": 0,
+                "streak": 1,
+                "matches": 6,
+                "playtime": 3745220,
+                "finished": 2,
+                "finishtime": 1214738,
+                "won": 2,
+                "lost": 4,
+                "forfeited": 0
+            },
+            "country": "au",
+            "matches": [
+                {
+                    "date": 1777551876000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "BlazeMind",
+                    "elo": 1591,
+                    "change": -14,
+                    "oelo": 1794,
+                    "ochange": 14,
+                    "time": 508063,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1777551140000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "xFray_",
+                    "elo": 1605,
+                    "change": 20,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 654464,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "2422bff025e344d0ad1f4a818e04a830",
             "nickname": "qam022",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 1590,
                 "top": 1603,
                 "points": 0,
@@ -4693,7 +4786,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 1589,
                 "top": 1628,
                 "points": 0,
@@ -4870,7 +4963,7 @@
             "uuid": "69429adb53f44250b920844018cad601",
             "nickname": "21MashedPotatoes",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 1587,
                 "top": 1587,
                 "points": 0,
@@ -4892,7 +4985,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 1584,
                 "top": 1614,
                 "points": 0,
@@ -5102,57 +5195,6 @@
                     "oelo": 1551,
                     "ochange": -21,
                     "time": 512331,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "9cd54d4874c04380b3ca1fb251decbf2",
-            "nickname": "KindPlays",
-            "stats": {
-                "rank": 32,
-                "elo": 1583,
-                "top": 1583,
-                "points": 0,
-                "pb": 648502,
-                "current": 2,
-                "streak": 2,
-                "matches": 6,
-                "playtime": 3841526,
-                "finished": 3,
-                "finishtime": 2227846,
-                "won": 3,
-                "lost": 3,
-                "forfeited": 0
-            },
-            "country": "is",
-            "matches": [
-                {
-                    "date": 1777551013000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "hikari_dcr",
-                    "elo": 1583,
-                    "change": 18,
-                    "oelo": 1498,
-                    "ochange": -18,
-                    "time": 669759,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777550187000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1565,
-                    "change": 22,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 909585,
                     "forfeited": false,
                     "decayed": false
                 }
