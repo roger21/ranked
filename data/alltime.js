@@ -48,7 +48,7 @@
             "8": 1613,
             "9": 1847,
             "10": 1929,
-            "11": 1611
+            "11": 1631
         },
         "points": {
             "5": 0,
@@ -61,11 +61,11 @@
         },
         "pb": 418736,
         "streak": 8,
-        "matches": 617,
-        "playtime": 380378001,
-        "finished": 209,
-        "finishtime": 144146010,
-        "won": 313,
+        "matches": 618,
+        "playtime": 380935469,
+        "finished": 210,
+        "finishtime": 144703478,
+        "won": 314,
         "lost": 253,
         "forfeited": 89
     },
@@ -1506,11 +1506,11 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3853,
-        "playtime": 2426420334,
+        "matches": 3855,
+        "playtime": 2427368029,
         "finished": 1427,
         "finishtime": 1022242842,
-        "won": 1953,
+        "won": 1954,
         "lost": 1764,
         "forfeited": 553
     },
@@ -2773,12 +2773,12 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 8023,
-        "playtime": 4937382897,
+        "matches": 8024,
+        "playtime": 4937995245,
         "finished": 3276,
         "finishtime": 2221500847,
         "won": 4178,
-        "lost": 3654,
+        "lost": 3655,
         "forfeited": 947
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -6510,13 +6510,13 @@
         },
         "pb": 433890,
         "streak": 16,
-        "matches": 10743,
-        "playtime": 6404861524,
+        "matches": 10744,
+        "playtime": 6405147147,
         "finished": 3770,
         "finishtime": 2774875265,
         "won": 5362,
-        "lost": 4974,
-        "forfeited": 2230
+        "lost": 4975,
+        "forfeited": 2231
     },
     "f55a7e31e65a453e941ebec79cd39992": {
         "nickname": "Brunted",
