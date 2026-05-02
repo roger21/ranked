@@ -875,13 +875,13 @@
         },
         "pb": 411137,
         "streak": 13,
-        "matches": 7827,
-        "playtime": 4826129552,
+        "matches": 7828,
+        "playtime": 4826710098,
         "finished": 2267,
         "finishtime": 1781329736,
         "won": 3818,
-        "lost": 3680,
-        "forfeited": 2077
+        "lost": 3681,
+        "forfeited": 2078
     },
     "1f88c82f9cc84c9885a5d38dd531f4c6": {
         "nickname": "RRed",
@@ -2263,11 +2263,11 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 4269,
-        "playtime": 3065739581,
+        "matches": 4270,
+        "playtime": 3066093742,
         "finished": 1348,
         "finishtime": 1139239198,
-        "won": 2138,
+        "won": 2139,
         "lost": 1925,
         "forfeited": 344
     },

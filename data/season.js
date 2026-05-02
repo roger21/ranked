@@ -1,5 +1,5 @@
 {
-    "date": 1777714201000,
+    "date": 1777714801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19037,23 +19037,37 @@
             "uuid": "1f844c3aedb34559b537f45771a7a61d",
             "nickname": "Bodek",
             "stats": {
-                "rank": 38,
-                "elo": 1659,
+                "rank": 54,
+                "elo": 1634,
                 "top": 1659,
                 "points": 0,
                 "pb": 481975,
-                "current": 3,
+                "current": 0,
                 "streak": 3,
-                "matches": 17,
-                "playtime": 9331926,
+                "matches": 18,
+                "playtime": 9912472,
                 "finished": 9,
                 "finishtime": 5401754,
                 "won": 11,
-                "lost": 4,
-                "forfeited": 0
+                "lost": 5,
+                "forfeited": 1
             },
             "country": "mf",
             "matches": [
+                {
+                    "date": 1777714831000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "lyxier",
+                    "elo": 1634,
+                    "change": -25,
+                    "oelo": 1551,
+                    "ochange": 25,
+                    "time": 580546,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1777713728000,
                     "type": "DESERT_TEMPLE",
@@ -19242,7 +19256,7 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1657,
                 "top": 1657,
                 "points": 0,
@@ -19264,7 +19278,7 @@
             "uuid": "c92021f449a94bdc9811a3e5e299820e",
             "nickname": "oshgay",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1657,
                 "top": 1657,
                 "points": 0,
@@ -19497,7 +19511,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1654,
                 "top": 1654,
                 "points": 0,
@@ -19940,7 +19954,7 @@
             "uuid": "a731c9fa43e04b2490ad15f216b8d2b8",
             "nickname": "SamonMCSR",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1653,
                 "top": 1673,
                 "points": 0,
@@ -20537,7 +20551,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1652,
                 "top": 1774,
                 "points": 0,
@@ -20910,7 +20924,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1652,
                 "top": 1652,
                 "points": 0,
@@ -21031,7 +21045,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1652,
                 "top": 1652,
                 "points": 0,
@@ -21166,7 +21180,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1650,
                 "top": 1650,
                 "points": 0,
@@ -21735,7 +21749,7 @@
             "uuid": "8d52ed9bf12146c68321f1729e28cbf5",
             "nickname": "WarioTime1",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1647,
                 "top": 1718,
                 "points": 0,
@@ -22500,7 +22514,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1643,
                 "top": 1663,
                 "points": 0,
@@ -22761,7 +22775,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1643,
                 "top": 1643,
                 "points": 0,
