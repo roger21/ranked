@@ -881,35 +881,6 @@
         "lost": 1611,
         "forfeited": 349
     },
-    "1fcc556edb414dce89ee0ee31799e4e2": {
-        "nickname": "pandaendoz",
-        "country": "us",
-        "top": {
-            "1": 806,
-            "7": 1257,
-            "8": 1586,
-            "9": 2004,
-            "10": 2114,
-            "11": 1637
-        },
-        "points": {
-            "1": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 16,
-            "11": 0
-        },
-        "pb": 417240,
-        "streak": 11,
-        "matches": 3402,
-        "playtime": 2279744186,
-        "finished": 1025,
-        "finishtime": 736719583,
-        "won": 1564,
-        "lost": 1474,
-        "forfeited": 208
-    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -2212,12 +2183,12 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4012,
-        "playtime": 2444416469,
+        "matches": 4013,
+        "playtime": 2445067078,
         "finished": 1408,
         "finishtime": 1026478535,
         "won": 2001,
-        "lost": 1724,
+        "lost": 1725,
         "forfeited": 540
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -4730,6 +4701,39 @@
         "lost": 660,
         "forfeited": 64
     },
+    "a731c9fa43e04b2490ad15f216b8d2b8": {
+        "nickname": "SamonMCSR",
+        "country": "jp",
+        "top": {
+            "4": 958,
+            "5": 1288,
+            "6": 1431,
+            "7": 1340,
+            "8": 1594,
+            "9": 1759,
+            "10": 1630,
+            "11": 1663
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+        },
+        "pb": 438890,
+        "streak": 13,
+        "matches": 2162,
+        "playtime": 1396445132,
+        "finished": 560,
+        "finishtime": 431349289,
+        "won": 967,
+        "lost": 950,
+        "forfeited": 419
+    },
     "a81886565121479782d42408d94fe97d": {
         "nickname": "affordab1e",
         "country": "cn",
@@ -6522,13 +6526,13 @@
         },
         "pb": 455391,
         "streak": 11,
-        "matches": 3787,
-        "playtime": 2510355478,
+        "matches": 3788,
+        "playtime": 2510811936,
         "finished": 1409,
         "finishtime": 1088671482,
         "won": 1995,
-        "lost": 1710,
-        "forfeited": 483
+        "lost": 1711,
+        "forfeited": 484
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "TuCarta",
