@@ -1,5 +1,5 @@
 {
-    "date": 1777788601000,
+    "date": 1777789201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13201,7 +13201,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "vorbhfan4",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 1741,
                 "top": 1764,
                 "points": 0,
@@ -14078,7 +14078,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 1738,
                 "top": 1787,
                 "points": 0,
@@ -14563,7 +14563,7 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1732,
                 "top": 1732,
                 "points": 0,
@@ -15216,7 +15216,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 1730,
                 "top": 1752,
                 "points": 0,
@@ -15477,7 +15477,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1729,
                 "top": 1825,
                 "points": 0,
@@ -16536,23 +16536,37 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 24,
-                "elo": 1727,
-                "top": 1727,
+                "rank": 19,
+                "elo": 1747,
+                "top": 1747,
                 "points": 0,
                 "pb": 470160,
-                "current": 2,
+                "current": 3,
                 "streak": 5,
-                "matches": 46,
-                "playtime": 27182485,
-                "finished": 23,
-                "finishtime": 13387200,
-                "won": 26,
+                "matches": 47,
+                "playtime": 27763332,
+                "finished": 24,
+                "finishtime": 13968047,
+                "won": 27,
                 "lost": 16,
                 "forfeited": 0
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1777789210000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 1747,
+                    "change": 20,
+                    "oelo": 1705,
+                    "ochange": -20,
+                    "time": 580847,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1777781639000,
                     "type": "RUINED_PORTAL",
@@ -17147,23 +17161,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 25,
-                "elo": 1725,
+                "rank": 28,
+                "elo": 1705,
                 "top": 1786,
                 "points": 0,
                 "pb": 435958,
                 "current": 0,
                 "streak": 5,
-                "matches": 54,
-                "playtime": 31472004,
+                "matches": 55,
+                "playtime": 32052851,
                 "finished": 27,
                 "finishtime": 15831516,
                 "won": 28,
-                "lost": 19,
+                "lost": 20,
                 "forfeited": 1
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1777789210000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "yeopgihoney",
+                    "elo": 1705,
+                    "change": -20,
+                    "oelo": 1747,
+                    "ochange": 20,
+                    "time": 580847,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1777788518000,
                     "type": "SHIPWRECK",
@@ -17870,7 +17898,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1721,
                 "top": 1721,
                 "points": 0,
@@ -18509,7 +18537,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1717,
                 "top": 1758,
                 "points": 0,
@@ -18924,7 +18952,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1712,
                 "top": 1712,
                 "points": 0,
