@@ -1,5 +1,5 @@
 {
-    "date": 1777894801000,
+    "date": 1777895401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32362,7 +32362,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 1712,
                 "top": 1712,
                 "points": 0,
@@ -32595,7 +32595,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 1710,
                 "top": 1710,
                 "points": 0,
@@ -32716,7 +32716,7 @@
             "uuid": "b6f45b2b47aa4e73b7e515b247e3eabf",
             "nickname": "yunusbes",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1709,
                 "top": 1729,
                 "points": 0,
@@ -33481,7 +33481,7 @@
             "uuid": "31bb6401944d4fc5ad97f6cf90c54616",
             "nickname": "darkk575",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1704,
                 "top": 1704,
                 "points": 0,
@@ -34092,7 +34092,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1703,
                 "top": 1836,
                 "points": 0,
@@ -34955,7 +34955,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1701,
                 "top": 1701,
                 "points": 0,
@@ -35398,7 +35398,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1700,
                 "top": 1717,
                 "points": 0,
@@ -35855,23 +35855,37 @@
             "uuid": "1a71528dc0274145a5d111f57ab6c270",
             "nickname": "Starchomper",
             "stats": {
-                "rank": 41,
-                "elo": 1697,
-                "top": 1713,
+                "rank": 33,
+                "elo": 1715,
+                "top": 1715,
                 "points": 0,
                 "pb": 554999,
-                "current": 5,
-                "streak": 5,
-                "matches": 100,
-                "playtime": 69813568,
-                "finished": 44,
-                "finishtime": 33243697,
-                "won": 56,
+                "current": 6,
+                "streak": 6,
+                "matches": 101,
+                "playtime": 70493379,
+                "finished": 45,
+                "finishtime": 33923508,
+                "won": 57,
                 "lost": 41,
                 "forfeited": 0
             },
             "country": "jp",
             "matches": [
+                {
+                    "date": 1777895412000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "TUDORULE",
+                    "elo": 1715,
+                    "change": 18,
+                    "oelo": 1626,
+                    "ochange": -18,
+                    "time": 679811,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1777894448000,
                     "type": "VILLAGE",
@@ -37222,7 +37236,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1697,
                 "top": 1697,
                 "points": 0,
