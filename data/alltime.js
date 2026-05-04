@@ -501,7 +501,7 @@
             "8": 2185,
             "9": 2490,
             "10": 2292,
-            "11": 1696
+            "11": 1714
         },
         "points": {
             "2": 0,
@@ -517,11 +517,11 @@
         },
         "pb": 400846,
         "streak": 14,
-        "matches": 5103,
-        "playtime": 3039429536,
-        "finished": 2275,
-        "finishtime": 1472558374,
-        "won": 2741,
+        "matches": 5104,
+        "playtime": 3040018884,
+        "finished": 2276,
+        "finishtime": 1473147722,
+        "won": 2742,
         "lost": 2231,
         "forfeited": 537
     },
@@ -1315,7 +1315,7 @@
             "8": 2121,
             "9": 2516,
             "10": 2680,
-            "11": 1772
+            "11": 1796
         },
         "points": {
             "2": 0,
@@ -1331,11 +1331,11 @@
         },
         "pb": 358323,
         "streak": 13,
-        "matches": 8454,
-        "playtime": 4950769063,
-        "finished": 3015,
-        "finishtime": 2008233519,
-        "won": 4111,
+        "matches": 8455,
+        "playtime": 4951335051,
+        "finished": 3016,
+        "finishtime": 2008799507,
+        "won": 4112,
         "lost": 3812,
         "forfeited": 1497
     },
@@ -3295,12 +3295,12 @@
         },
         "pb": 399929,
         "streak": 14,
-        "matches": 9574,
-        "playtime": 5290067482,
+        "matches": 9575,
+        "playtime": 5290656830,
         "finished": 3179,
         "finishtime": 1961266321,
         "won": 4405,
-        "lost": 4258,
+        "lost": 4259,
         "forfeited": 2375
     },
     "7b5563464fdf4757905e681040791ac0": {
@@ -4655,12 +4655,12 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4194,
-        "playtime": 2371346625,
+        "matches": 4195,
+        "playtime": 2371912613,
         "finished": 2456,
         "finishtime": 1426903280,
         "won": 2868,
-        "lost": 1257,
+        "lost": 1258,
         "forfeited": 40
     },
     "a5d83ff042164ff1b862dedc118c1dae": {
