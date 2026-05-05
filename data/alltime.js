@@ -4869,13 +4869,13 @@
         },
         "pb": 429541,
         "streak": 11,
-        "matches": 9408,
-        "playtime": 5658771852,
+        "matches": 9409,
+        "playtime": 5659149441,
         "finished": 3182,
         "finishtime": 2306068374,
         "won": 4641,
-        "lost": 4459,
-        "forfeited": 2374
+        "lost": 4460,
+        "forfeited": 2375
     },
     "b39f5648c91d42dfb121655f2aa52970": {
         "nickname": "dimowo",
