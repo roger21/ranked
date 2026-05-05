@@ -842,12 +842,12 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 8332,
-        "playtime": 5075916671,
+        "matches": 8333,
+        "playtime": 5076416122,
         "finished": 3255,
         "finishtime": 2181726695,
         "won": 4190,
-        "lost": 3783,
+        "lost": 3784,
         "forfeited": 816
     },
     "253b53d832ab4bafb5ee0308d5164ccf": {
@@ -942,7 +942,7 @@
             "8": 1994,
             "9": 2137,
             "10": 1988,
-            "11": 1595
+            "11": 1611
         },
         "points": {
             "1": 0,
@@ -959,11 +959,11 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 4515,
-        "playtime": 2897228660,
-        "finished": 1735,
-        "finishtime": 1238044885,
-        "won": 2370,
+        "matches": 4516,
+        "playtime": 2897811949,
+        "finished": 1736,
+        "finishtime": 1238628174,
+        "won": 2371,
         "lost": 2055,
         "forfeited": 241
     },
@@ -1270,43 +1270,6 @@
         "won": 4120,
         "lost": 3813,
         "forfeited": 1497
-    },
-    "31bb6401944d4fc5ad97f6cf90c54616": {
-        "nickname": "darkk575",
-        "country": "br",
-        "top": {
-            "2": 1346,
-            "3": 1508,
-            "4": 1461,
-            "5": 1741,
-            "6": 1717,
-            "7": 1556,
-            "8": 1900,
-            "9": 2059,
-            "10": 2205,
-            "11": 1704
-        },
-        "points": {
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 18,
-            "9": 13,
-            "10": 22,
-            "11": 0
-        },
-        "pb": 450208,
-        "streak": 10,
-        "matches": 3693,
-        "playtime": 2342613893,
-        "finished": 1270,
-        "finishtime": 976320004,
-        "won": 1908,
-        "lost": 1697,
-        "forfeited": 696
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -3089,12 +3052,12 @@
         },
         "pb": 453304,
         "streak": 13,
-        "matches": 787,
-        "playtime": 480341221,
+        "matches": 788,
+        "playtime": 480924510,
         "finished": 383,
         "finishtime": 252447526,
         "won": 474,
-        "lost": 261,
+        "lost": 262,
         "forfeited": 41
     },
     "7665f76f431b41c6b321bea16aff913b": {
@@ -4707,7 +4670,7 @@
             "8": 1763,
             "9": 1923,
             "10": 2098,
-            "11": 1708
+            "11": 1732
         },
         "points": {
             "6": 0,
@@ -4719,11 +4682,11 @@
         },
         "pb": 386516,
         "streak": 16,
-        "matches": 7186,
-        "playtime": 4522740788,
-        "finished": 1912,
-        "finishtime": 1417384621,
-        "won": 3337,
+        "matches": 7187,
+        "playtime": 4523240239,
+        "finished": 1913,
+        "finishtime": 1417884072,
+        "won": 3338,
         "lost": 3289,
         "forfeited": 1727
     },
@@ -6480,12 +6443,12 @@
         },
         "pb": 411602,
         "streak": 9,
-        "matches": 2459,
-        "playtime": 1607066060,
+        "matches": 2460,
+        "playtime": 1607797494,
         "finished": 909,
         "finishtime": 636687287,
         "won": 1200,
-        "lost": 1087,
+        "lost": 1088,
         "forfeited": 56
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
