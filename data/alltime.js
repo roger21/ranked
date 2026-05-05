@@ -776,6 +776,25 @@
         "lost": 165,
         "forfeited": 18
     },
+    "1f73cddff7c54cd2aba4b8905ad1296d": {
+        "nickname": "homebaton1",
+        "country": "cc",
+        "top": {
+            "11": 1687
+        },
+        "points": {
+            "11": 0
+        },
+        "pb": 420841,
+        "streak": 6,
+        "matches": 136,
+        "playtime": 77116322,
+        "finished": 62,
+        "finishtime": 39092954,
+        "won": 73,
+        "lost": 59,
+        "forfeited": 31
+    },
     "1f88c82f9cc84c9885a5d38dd531f4c6": {
         "nickname": "RRed",
         "country": "us",
@@ -3200,8 +3219,8 @@
         },
         "pb": 399929,
         "streak": 14,
-        "matches": 9637,
-        "playtime": 5323381855,
+        "matches": 9638,
+        "playtime": 5324164580,
         "finished": 3203,
         "finishtime": 1973899315,
         "won": 4431,
@@ -6538,44 +6557,5 @@
         "won": 4193,
         "lost": 3918,
         "forfeited": 1169
-    },
-    "fe6771646c5d43c1b713023fb69c10c6": {
-        "nickname": "SammmyG",
-        "country": "au",
-        "top": {
-            "1": 1541,
-            "2": 1333,
-            "3": 1416,
-            "4": 1710,
-            "5": 1618,
-            "6": 1633,
-            "7": 1690,
-            "8": 1672,
-            "9": 2102,
-            "10": 2208,
-            "11": 1708
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 5,
-            "7": 10,
-            "8": 0,
-            "9": 7,
-            "10": 11,
-            "11": 0
-        },
-        "pb": 426548,
-        "streak": 14,
-        "matches": 2853,
-        "playtime": 1942639085,
-        "finished": 989,
-        "finishtime": 751583444,
-        "won": 1463,
-        "lost": 1238,
-        "forfeited": 204
     }
 }
