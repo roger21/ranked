@@ -1395,13 +1395,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3917,
-        "playtime": 2460730726,
+        "matches": 3918,
+        "playtime": 2460941209,
         "finished": 1451,
         "finishtime": 1037918115,
         "won": 1982,
-        "lost": 1794,
-        "forfeited": 573
+        "lost": 1795,
+        "forfeited": 574
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -1668,12 +1668,12 @@
         },
         "pb": 435482,
         "streak": 13,
-        "matches": 1903,
-        "playtime": 1230174124,
+        "matches": 1904,
+        "playtime": 1230651031,
         "finished": 792,
         "finishtime": 551744135,
         "won": 1010,
-        "lost": 817,
+        "lost": 818,
         "forfeited": 20
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -3120,11 +3120,11 @@
         },
         "pb": 380341,
         "streak": 22,
-        "matches": 6512,
-        "playtime": 4083126527,
-        "finished": 3442,
-        "finishtime": 2255346649,
-        "won": 4291,
+        "matches": 6513,
+        "playtime": 4083603434,
+        "finished": 3443,
+        "finishtime": 2255823556,
+        "won": 4292,
         "lost": 2040,
         "forfeited": 182
     },
@@ -3740,35 +3740,6 @@
         "won": 906,
         "lost": 652,
         "forfeited": 136
-    },
-    "8c7208adf2784bacb3715ab657cd80bd": {
-        "nickname": "BinEin",
-        "country": "pl",
-        "top": {
-            "6": 1418,
-            "7": 1554,
-            "8": 1705,
-            "9": 2008,
-            "10": 2101,
-            "11": 1681
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 6,
-            "11": 0
-        },
-        "pb": 392016,
-        "streak": 12,
-        "matches": 1944,
-        "playtime": 1371907372,
-        "finished": 705,
-        "finishtime": 553371359,
-        "won": 997,
-        "lost": 882,
-        "forfeited": 35
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
         "nickname": "WarioTime1",
@@ -4888,12 +4859,12 @@
         },
         "pb": 444853,
         "streak": 11,
-        "matches": 5423,
-        "playtime": 3278313764,
+        "matches": 5424,
+        "playtime": 3278825583,
         "finished": 2025,
         "finishtime": 1377584026,
         "won": 2736,
-        "lost": 2495,
+        "lost": 2496,
         "forfeited": 709
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
