@@ -1,5 +1,5 @@
 {
-    "date": 1777962601000,
+    "date": 1777963201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -20990,22 +20990,36 @@
             "nickname": "yeopgihoney",
             "stats": {
                 "rank": 21,
-                "elo": 1773,
+                "elo": 1789,
                 "top": 1805,
                 "points": 0,
                 "pb": 426804,
-                "current": 3,
+                "current": 4,
                 "streak": 5,
-                "matches": 143,
-                "playtime": 87825630,
-                "finished": 65,
-                "finishtime": 40679047,
-                "won": 76,
+                "matches": 144,
+                "playtime": 88351734,
+                "finished": 66,
+                "finishtime": 41205151,
+                "won": 77,
                 "lost": 60,
                 "forfeited": 0
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1777962863000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "MaybeSoul",
+                    "elo": 1789,
+                    "change": 16,
+                    "oelo": 1632,
+                    "ochange": -16,
+                    "time": 526104,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1777961933000,
                     "type": "DESERT_TEMPLE",
