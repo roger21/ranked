@@ -1,5 +1,5 @@
 {
-    "date": 1777945201000,
+    "date": 1777945801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -35288,23 +35288,37 @@
             "uuid": "3c59ed02bccf4ea3a0f626af7955be91",
             "nickname": "tookannn",
             "stats": {
-                "rank": 34,
-                "elo": 1729,
+                "rank": 38,
+                "elo": 1717,
                 "top": 1803,
                 "points": 0,
                 "pb": 523949,
                 "current": 0,
                 "streak": 7,
-                "matches": 63,
-                "playtime": 37403201,
+                "matches": 64,
+                "playtime": 37985536,
                 "finished": 27,
                 "finishtime": 17116873,
                 "won": 31,
-                "lost": 27,
+                "lost": 28,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1777945804000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Feinberg",
+                    "elo": 1717,
+                    "change": -12,
+                    "oelo": 1982,
+                    "ochange": 12,
+                    "time": 582335,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1777945055000,
                     "type": "SHIPWRECK",
@@ -36137,7 +36151,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1727,
                 "top": 1748,
                 "points": 0,
@@ -36832,7 +36846,7 @@
             "uuid": "d10be6f072a34e069882ae04bfe60c98",
             "nickname": "Unknwonc",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1726,
                 "top": 1742,
                 "points": 0,
@@ -38353,7 +38367,7 @@
             "uuid": "f2e05ad464b54d288fa18da14e9a2786",
             "nickname": "LEC666888",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 1722,
                 "top": 1722,
                 "points": 0,
@@ -38922,7 +38936,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 1718,
                 "top": 1718,
                 "points": 0,
