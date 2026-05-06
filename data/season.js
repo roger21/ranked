@@ -1,5 +1,5 @@
 {
-    "date": 1778067601000,
+    "date": 1778068201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45442,14 +45442,14 @@
             "nickname": "Blad_d",
             "stats": {
                 "rank": 39,
-                "elo": 1743,
+                "elo": 1742,
                 "top": 1743,
                 "points": 0,
                 "pb": 490124,
                 "current": 4,
                 "streak": 6,
-                "matches": 54,
-                "playtime": 30990423,
+                "matches": 55,
+                "playtime": 31389315,
                 "finished": 25,
                 "finishtime": 15622434,
                 "won": 33,
@@ -45458,6 +45458,20 @@
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1778067930000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Vintex0",
+                    "elo": 1742,
+                    "change": -1,
+                    "oelo": 1632,
+                    "ochange": 1,
+                    "time": 398892,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778067197000,
                     "type": "VILLAGE",
@@ -46150,7 +46164,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1742,
                 "top": 1748,
                 "points": 0,
