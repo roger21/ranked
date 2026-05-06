@@ -2275,7 +2275,7 @@
             "8": 2106,
             "9": 2148,
             "10": 2372,
-            "11": 1781
+            "11": 1795
         },
         "points": {
             "1": 0,
@@ -2292,11 +2292,11 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 5043,
-        "playtime": 3016626143,
-        "finished": 1961,
-        "finishtime": 1305366778,
-        "won": 2544,
+        "matches": 5044,
+        "playtime": 3017281294,
+        "finished": 1962,
+        "finishtime": 1306021929,
+        "won": 2545,
         "lost": 2319,
         "forfeited": 704
     },
@@ -3396,13 +3396,13 @@
         },
         "pb": 520075,
         "streak": 13,
-        "matches": 1513,
-        "playtime": 1070283989,
+        "matches": 1514,
+        "playtime": 1070957368,
         "finished": 564,
         "finishtime": 454320700,
         "won": 809,
-        "lost": 659,
-        "forfeited": 135
+        "lost": 660,
+        "forfeited": 136
     },
     "7f93d3e698cd4d648accc2a4d46ce119": {
         "nickname": "woofdoggo_",
@@ -4029,12 +4029,12 @@
         },
         "pb": 397915,
         "streak": 20,
-        "matches": 11616,
-        "playtime": 6893613439,
+        "matches": 11617,
+        "playtime": 6894297022,
         "finished": 5189,
         "finishtime": 3407712867,
         "won": 6628,
-        "lost": 4761,
+        "lost": 4762,
         "forfeited": 1240
     },
     "939ddf85303441de901d60bfa4109318": {
@@ -5839,11 +5839,11 @@
         },
         "pb": 450708,
         "streak": 12,
-        "matches": 4231,
-        "playtime": 2559560372,
-        "finished": 1506,
-        "finishtime": 1052259030,
-        "won": 2102,
+        "matches": 4232,
+        "playtime": 2560243955,
+        "finished": 1507,
+        "finishtime": 1052942613,
+        "won": 2103,
         "lost": 1968,
         "forfeited": 673
     },
