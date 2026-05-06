@@ -1,5 +1,5 @@
 {
-    "date": 1778052001000,
+    "date": 1778052601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52784,7 +52784,7 @@
             "uuid": "9cd54d4874c04380b3ca1fb251decbf2",
             "nickname": "KindPlays",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1709,
                 "top": 1736,
                 "points": 0,
@@ -53227,7 +53227,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1707,
                 "top": 1707,
                 "points": 0,
@@ -53348,7 +53348,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1706,
                 "top": 1726,
                 "points": 0,
@@ -53749,7 +53749,7 @@
             "uuid": "ea96ade538b3498d9de431a5aec6ffbf",
             "nickname": "jonahhhhhhhh",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1706,
                 "top": 1706,
                 "points": 0,
@@ -54794,7 +54794,7 @@
             "uuid": "1fcc556edb414dce89ee0ee31799e4e2",
             "nickname": "pandaendoz",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1704,
                 "top": 1704,
                 "points": 0,
