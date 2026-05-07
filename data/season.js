@@ -1,5 +1,5 @@
 {
-    "date": 1778155801000,
+    "date": 1778156401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -59956,7 +59956,7 @@
             "uuid": "2beddb5776d347b8b1f5ab0a71023f38",
             "nickname": "Poomy1234",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1726,
                 "top": 1726,
                 "points": 0,
@@ -60665,7 +60665,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1722,
                 "top": 1722,
                 "points": 0,
@@ -62004,7 +62004,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1718,
                 "top": 1718,
                 "points": 0,
