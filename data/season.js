@@ -1,5 +1,5 @@
 {
-    "date": 1778151001000,
+    "date": 1778151601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45564,14 +45564,14 @@
             "nickname": "SammmyG",
             "stats": {
                 "rank": 37,
-                "elo": 1750,
+                "elo": 1749,
                 "top": 1750,
                 "points": 0,
                 "pb": 426548,
                 "current": 3,
                 "streak": 6,
-                "matches": 54,
-                "playtime": 32225258,
+                "matches": 55,
+                "playtime": 32599528,
                 "finished": 27,
                 "finishtime": 16277986,
                 "won": 31,
@@ -45580,6 +45580,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778151104000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "alexchoo",
+                    "elo": 1749,
+                    "change": -1,
+                    "oelo": 1688,
+                    "ochange": 1,
+                    "time": 374270,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778150506000,
                     "type": "SHIPWRECK",
