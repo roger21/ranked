@@ -3231,12 +3231,12 @@
         },
         "pb": 396670,
         "streak": 12,
-        "matches": 6796,
-        "playtime": 4127443944,
+        "matches": 6797,
+        "playtime": 4127968296,
         "finished": 2642,
         "finishtime": 1821666555,
         "won": 3534,
-        "lost": 3023,
+        "lost": 3024,
         "forfeited": 1042
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
@@ -3546,12 +3546,12 @@
         },
         "pb": 429445,
         "streak": 10,
-        "matches": 4251,
-        "playtime": 2487908162,
+        "matches": 4252,
+        "playtime": 2488517701,
         "finished": 1529,
         "finishtime": 1003461168,
         "won": 2069,
-        "lost": 1940,
+        "lost": 1941,
         "forfeited": 880
     },
     "82a111625c614f31a44789d5464a969a": {
@@ -4076,11 +4076,11 @@
         },
         "pb": 397915,
         "streak": 20,
-        "matches": 11656,
-        "playtime": 6915459269,
-        "finished": 5209,
-        "finishtime": 3419275038,
-        "won": 6650,
+        "matches": 11657,
+        "playtime": 6915983621,
+        "finished": 5210,
+        "finishtime": 3419799390,
+        "won": 6651,
         "lost": 4779,
         "forfeited": 1241
     },
@@ -4755,35 +4755,6 @@
         "won": 1218,
         "lost": 1066,
         "forfeited": 611
-    },
-    "a888602136ee48208516c4f7960ba997": {
-        "nickname": "1_viewer",
-        "country": "il",
-        "top": {
-            "6": 1154,
-            "7": 1511,
-            "8": 1763,
-            "9": 1923,
-            "10": 2098,
-            "11": 1798
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 386516,
-        "streak": 16,
-        "matches": 7222,
-        "playtime": 4546066965,
-        "finished": 1929,
-        "finishtime": 1429253412,
-        "won": 3355,
-        "lost": 3305,
-        "forfeited": 1727
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
@@ -5460,11 +5431,11 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 3348,
-        "playtime": 2098171409,
-        "finished": 1418,
-        "finishtime": 976452446,
-        "won": 1827,
+        "matches": 3349,
+        "playtime": 2098727274,
+        "finished": 1419,
+        "finishtime": 977008311,
+        "won": 1828,
         "lost": 1438,
         "forfeited": 251
     },
@@ -6605,7 +6576,7 @@
             "8": 1672,
             "9": 2102,
             "10": 2208,
-            "11": 1780
+            "11": 1796
         },
         "points": {
             "1": 0,
@@ -6622,11 +6593,11 @@
         },
         "pb": 426548,
         "streak": 14,
-        "matches": 2872,
-        "playtime": 1953704077,
-        "finished": 1000,
-        "finishtime": 757767506,
-        "won": 1475,
+        "matches": 2873,
+        "playtime": 1954309702,
+        "finished": 1001,
+        "finishtime": 758373131,
+        "won": 1476,
         "lost": 1244,
         "forfeited": 204
     }
