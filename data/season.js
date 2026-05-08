@@ -1,5 +1,5 @@
 {
-    "date": 1778233801000,
+    "date": 1778234401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28224,22 +28224,36 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 19,
-                "elo": 1820,
+                "elo": 1833,
                 "top": 1967,
                 "points": 0,
                 "pb": 423982,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
-                "matches": 132,
-                "playtime": 72641565,
-                "finished": 69,
-                "finishtime": 39090800,
-                "won": 75,
+                "matches": 133,
+                "playtime": 73144629,
+                "finished": 70,
+                "finishtime": 39593864,
+                "won": 76,
                 "lost": 55,
                 "forfeited": 2
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778234217000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Boosfer",
+                    "elo": 1833,
+                    "change": 13,
+                    "oelo": 1611,
+                    "ochange": -13,
+                    "time": 503064,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778225851000,
                     "type": "VILLAGE",
