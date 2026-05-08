@@ -3214,7 +3214,7 @@
             "8": 2257,
             "9": 2287,
             "10": 2274,
-            "11": 1799
+            "11": 1802
         },
         "points": {
             "1": 0,
@@ -3231,11 +3231,11 @@
         },
         "pb": 396670,
         "streak": 12,
-        "matches": 6799,
-        "playtime": 4129162958,
-        "finished": 2643,
-        "finishtime": 1822224560,
-        "won": 3535,
+        "matches": 6800,
+        "playtime": 4129723328,
+        "finished": 2644,
+        "finishtime": 1822784930,
+        "won": 3536,
         "lost": 3025,
         "forfeited": 1042
     },
@@ -3264,8 +3264,8 @@
         },
         "pb": 399929,
         "streak": 14,
-        "matches": 9749,
-        "playtime": 5383180703,
+        "matches": 9750,
+        "playtime": 5383656588,
         "finished": 3235,
         "finishtime": 1990622239,
         "won": 4472,
@@ -4076,8 +4076,8 @@
         },
         "pb": 397915,
         "streak": 20,
-        "matches": 11658,
-        "playtime": 6916617805,
+        "matches": 11659,
+        "playtime": 6917340581,
         "finished": 5210,
         "finishtime": 3419799390,
         "won": 6651,
@@ -5843,12 +5843,12 @@
         },
         "pb": 450708,
         "streak": 12,
-        "matches": 4248,
-        "playtime": 2569757190,
+        "matches": 4249,
+        "playtime": 2570317560,
         "finished": 1516,
         "finishtime": 1058923853,
         "won": 2112,
-        "lost": 1975,
+        "lost": 1976,
         "forfeited": 675
     },
     "d1718c79c34e4bce93cd688ac5254b58": {
@@ -6605,7 +6605,7 @@
             "8": 1672,
             "9": 2102,
             "10": 2208,
-            "11": 1815
+            "11": 1816
         },
         "points": {
             "1": 0,
@@ -6622,8 +6622,8 @@
         },
         "pb": 426548,
         "streak": 14,
-        "matches": 2874,
-        "playtime": 1954946359,
+        "matches": 2875,
+        "playtime": 1955669135,
         "finished": 1002,
         "finishtime": 759009788,
         "won": 1477,
