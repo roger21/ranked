@@ -1,5 +1,5 @@
 {
-    "date": 1778307601000,
+    "date": 1778308201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21646,22 +21646,36 @@
             "nickname": "vorbhfan6",
             "stats": {
                 "rank": 13,
-                "elo": 1911,
+                "elo": 1924,
                 "top": 1960,
                 "points": 0,
                 "pb": 425210,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
-                "matches": 136,
-                "playtime": 73349360,
-                "finished": 67,
-                "finishtime": 39065887,
-                "won": 75,
+                "matches": 137,
+                "playtime": 73970223,
+                "finished": 68,
+                "finishtime": 39686750,
+                "won": 76,
                 "lost": 56,
                 "forfeited": 8
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1778307890000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "dinonuggieboi",
+                    "elo": 1924,
+                    "change": 13,
+                    "oelo": 1710,
+                    "ochange": -13,
+                    "time": 620863,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778306904000,
                     "type": "BURIED_TREASURE",
