@@ -1,5 +1,5 @@
 {
-    "date": 1778310602000,
+    "date": 1778311201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21673,23 +21673,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "vorbhfan6",
             "stats": {
-                "rank": 13,
-                "elo": 1925,
+                "rank": 14,
+                "elo": 1897,
                 "top": 1960,
                 "points": 0,
                 "pb": 425210,
-                "current": 1,
+                "current": 0,
                 "streak": 5,
-                "matches": 138,
-                "playtime": 74456064,
+                "matches": 139,
+                "playtime": 75041688,
                 "finished": 68,
                 "finishtime": 39686750,
                 "won": 76,
-                "lost": 56,
+                "lost": 57,
                 "forfeited": 8
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1778311217000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "dolqhin",
+                    "elo": 1897,
+                    "change": -28,
+                    "oelo": 1730,
+                    "ochange": 28,
+                    "time": 585624,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778309122000,
                     "type": "RUINED_PORTAL",
@@ -23572,7 +23586,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 14,
+                "rank": 13,
                 "elo": 1904,
                 "top": 1904,
                 "points": 0,
