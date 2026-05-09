@@ -120,7 +120,7 @@
             "8": 2064,
             "9": 2334,
             "10": 2339,
-            "11": 1814
+            "11": 1823
         },
         "points": {
             "1": 0,
@@ -135,11 +135,11 @@
         },
         "pb": 379698,
         "streak": 9,
-        "matches": 3627,
-        "playtime": 2025219734,
-        "finished": 1397,
-        "finishtime": 901632031,
-        "won": 1818,
+        "matches": 3628,
+        "playtime": 2025827389,
+        "finished": 1398,
+        "finishtime": 902239686,
+        "won": 1819,
         "lost": 1679,
         "forfeited": 697
     },
@@ -4078,12 +4078,12 @@
         },
         "pb": 413049,
         "streak": 9,
-        "matches": 1858,
-        "playtime": 1265026532,
+        "matches": 1860,
+        "playtime": 1265897215,
         "finished": 608,
         "finishtime": 486313619,
-        "won": 918,
-        "lost": 831,
+        "won": 919,
+        "lost": 832,
         "forfeited": 187
     },
     "9649236873db4cb9b7bdc2dae693ed39": {
@@ -4092,7 +4092,7 @@
         "top": {
             "9": 1347,
             "10": 2022,
-            "11": 1757
+            "11": 1772
         },
         "points": {
             "9": 0,
@@ -4101,11 +4101,11 @@
         },
         "pb": 448618,
         "streak": 9,
-        "matches": 887,
-        "playtime": 698249555,
-        "finished": 340,
-        "finishtime": 297007925,
-        "won": 450,
+        "matches": 888,
+        "playtime": 698817735,
+        "finished": 341,
+        "finishtime": 297576105,
+        "won": 451,
         "lost": 365,
         "forfeited": 66
     },
@@ -5388,13 +5388,13 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 3364,
-        "playtime": 2108122001,
+        "matches": 3365,
+        "playtime": 2108385029,
         "finished": 1428,
         "finishtime": 982716163,
         "won": 1838,
-        "lost": 1443,
-        "forfeited": 251
+        "lost": 1444,
+        "forfeited": 252
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "josh7eautwins",
@@ -5530,11 +5530,11 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4016,
-        "playtime": 2371037632,
+        "matches": 4017,
+        "playtime": 2371613555,
         "finished": 1357,
         "finishtime": 956805933,
-        "won": 1919,
+        "won": 1920,
         "lost": 1847,
         "forfeited": 1014
     },
