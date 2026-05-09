@@ -174,11 +174,11 @@
         },
         "pb": 396880,
         "streak": 13,
-        "matches": 7038,
-        "playtime": 4058865400,
-        "finished": 2539,
-        "finishtime": 1678619386,
-        "won": 3508,
+        "matches": 7039,
+        "playtime": 4059495674,
+        "finished": 2540,
+        "finishtime": 1679249660,
+        "won": 3509,
         "lost": 3338,
         "forfeited": 1455
     },
@@ -2869,12 +2869,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 6764,
-        "playtime": 4349775767,
+        "matches": 6765,
+        "playtime": 4350406041,
         "finished": 2372,
         "finishtime": 1756934127,
         "won": 3411,
-        "lost": 3074,
+        "lost": 3075,
         "forfeited": 821
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -5858,39 +5858,6 @@
         "won": 4358,
         "lost": 4054,
         "forfeited": 1114
-    },
-    "d7e1777addd845b994867237ba0a6473": {
-        "nickname": "Jppsh",
-        "country": "ca",
-        "top": {
-            "4": 1220,
-            "5": 1469,
-            "6": 1757,
-            "7": 1444,
-            "8": 1859,
-            "9": 1934,
-            "10": 1900,
-            "11": 1782
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 400505,
-        "streak": 9,
-        "matches": 5427,
-        "playtime": 3971152644,
-        "finished": 1635,
-        "finishtime": 1310858182,
-        "won": 2580,
-        "lost": 2442,
-        "forfeited": 151
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "Shiny_Chingling",
