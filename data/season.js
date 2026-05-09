@@ -1,5 +1,5 @@
 {
-    "date": 1778350801000,
+    "date": 1778351401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32134,22 +32134,36 @@
             "nickname": "subdas",
             "stats": {
                 "rank": 21,
-                "elo": 1839,
+                "elo": 1852,
                 "top": 1902,
                 "points": 0,
                 "pb": 406116,
-                "current": 3,
+                "current": 4,
                 "streak": 7,
-                "matches": 308,
-                "playtime": 171896370,
-                "finished": 138,
-                "finishtime": 82150371,
-                "won": 156,
+                "matches": 309,
+                "playtime": 172452468,
+                "finished": 139,
+                "finishtime": 82706469,
+                "won": 157,
                 "lost": 142,
                 "forfeited": 36
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1778351077000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "AstroSaysGG",
+                    "elo": 1852,
+                    "change": 13,
+                    "oelo": 1633,
+                    "ochange": -13,
+                    "time": 556098,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778350201000,
                     "type": "BURIED_TREASURE",
@@ -36398,7 +36412,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1839,
                 "top": 1894,
                 "points": 0,
