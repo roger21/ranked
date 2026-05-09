@@ -1,5 +1,5 @@
 {
-    "date": 1778305801000,
+    "date": 1778306401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21632,22 +21632,36 @@
             "nickname": "vorbhfan6",
             "stats": {
                 "rank": 13,
-                "elo": 1918,
+                "elo": 1930,
                 "top": 1960,
                 "points": 0,
                 "pb": 425210,
-                "current": 2,
+                "current": 3,
                 "streak": 5,
-                "matches": 134,
-                "playtime": 72356875,
-                "finished": 66,
-                "finishtime": 38528873,
-                "won": 74,
+                "matches": 135,
+                "playtime": 72893889,
+                "finished": 67,
+                "finishtime": 39065887,
+                "won": 75,
                 "lost": 55,
                 "forfeited": 8
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1778306400000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "yeopgihoney",
+                    "elo": 1930,
+                    "change": 12,
+                    "oelo": 1680,
+                    "ochange": -12,
+                    "time": 537014,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778304227000,
                     "type": "BURIED_TREASURE",
