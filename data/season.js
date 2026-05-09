@@ -1,5 +1,5 @@
 {
-    "date": 1778358002000,
+    "date": 1778358601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56076,7 +56076,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "dowophin",
+                    "opponent": "edcrfan",
                     "elo": 1594,
                     "change": 19,
                     "oelo": 1534,
