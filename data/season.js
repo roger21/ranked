@@ -1,5 +1,5 @@
 {
-    "date": 1778442001000,
+    "date": 1778442601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65055,14 +65055,14 @@
             "nickname": "okshey",
             "stats": {
                 "rank": 42,
-                "elo": 1781,
+                "elo": 1780,
                 "top": 1935,
                 "points": 0,
                 "pb": 407930,
                 "current": 0,
                 "streak": 6,
-                "matches": 118,
-                "playtime": 69063831,
+                "matches": 119,
+                "playtime": 69743394,
                 "finished": 62,
                 "finishtime": 36692215,
                 "won": 64,
@@ -65071,6 +65071,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1778442633000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "ZitMaGaming",
+                    "elo": 1780,
+                    "change": -1,
+                    "oelo": 1656,
+                    "ochange": 1,
+                    "time": 679563,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778441891000,
                     "type": "BURIED_TREASURE",
