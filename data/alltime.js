@@ -5548,13 +5548,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4132,
-        "playtime": 2430178209,
+        "matches": 4133,
+        "playtime": 2430515823,
         "finished": 1395,
         "finishtime": 980924820,
         "won": 1970,
-        "lost": 1901,
-        "forfeited": 1042
+        "lost": 1902,
+        "forfeited": 1043
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
