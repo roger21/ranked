@@ -1411,13 +1411,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 3976,
-        "playtime": 2492860208,
+        "matches": 3977,
+        "playtime": 2493655468,
         "finished": 1473,
         "finishtime": 1052482642,
         "won": 2010,
-        "lost": 1822,
-        "forfeited": 589
+        "lost": 1823,
+        "forfeited": 590
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -1528,11 +1528,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 19908,
-        "playtime": 12330369820,
-        "finished": 8653,
-        "finishtime": 5793122674,
-        "won": 10944,
+        "matches": 19909,
+        "playtime": 12330844455,
+        "finished": 8654,
+        "finishtime": 5793597309,
+        "won": 10945,
         "lost": 8679,
         "forfeited": 1200
     },
@@ -1684,12 +1684,12 @@
         },
         "pb": 435482,
         "streak": 13,
-        "matches": 1986,
-        "playtime": 1279290259,
+        "matches": 1988,
+        "playtime": 1279986156,
         "finished": 830,
         "finishtime": 575103161,
-        "won": 1053,
-        "lost": 856,
+        "won": 1054,
+        "lost": 857,
         "forfeited": 20
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -2150,11 +2150,11 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4098,
-        "playtime": 2495140298,
+        "matches": 4099,
+        "playtime": 2495935558,
         "finished": 1436,
         "finishtime": 1044518746,
-        "won": 2041,
+        "won": 2042,
         "lost": 1762,
         "forfeited": 540
     },
@@ -4807,35 +4807,6 @@
         "lost": 95,
         "forfeited": 8
     },
-    "aa756a8da9784c16b9496f5f5fcaba09": {
-        "nickname": "Czelco",
-        "country": "cz",
-        "top": {
-            "6": 1114,
-            "7": 1291,
-            "8": 1652,
-            "9": 2011,
-            "10": 2114,
-            "11": 1783
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 8,
-            "10": 12,
-            "11": 0
-        },
-        "pb": 444851,
-        "streak": 11,
-        "matches": 4683,
-        "playtime": 3391125732,
-        "finished": 1201,
-        "finishtime": 980197878,
-        "won": 2059,
-        "lost": 1946,
-        "forfeited": 287
-    },
     "ac601ce7376f49cea7ce14cd577dac85": {
         "nickname": "BlazeMind",
         "country": "au",
@@ -4900,13 +4871,13 @@
         },
         "pb": 444853,
         "streak": 11,
-        "matches": 5503,
-        "playtime": 3322440959,
-        "finished": 2055,
-        "finishtime": 1395105863,
-        "won": 2773,
-        "lost": 2533,
-        "forfeited": 719
+        "matches": 5505,
+        "playtime": 3323412934,
+        "finished": 2056,
+        "finishtime": 1395856576,
+        "won": 2774,
+        "lost": 2534,
+        "forfeited": 720
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -6274,13 +6245,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7360,
-        "playtime": 4086598164,
+        "matches": 7361,
+        "playtime": 4087220041,
         "finished": 2786,
         "finishtime": 1836792002,
         "won": 3725,
-        "lost": 3415,
-        "forfeited": 2062
+        "lost": 3416,
+        "forfeited": 2063
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
