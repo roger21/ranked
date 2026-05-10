@@ -1,5 +1,5 @@
 {
-    "date": 1778415001000,
+    "date": 1778415601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -61545,23 +61545,37 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 41,
-                "elo": 1788,
+                "rank": 46,
+                "elo": 1761,
                 "top": 1813,
                 "points": 0,
                 "pb": 483689,
                 "current": 0,
                 "streak": 6,
-                "matches": 169,
-                "playtime": 99438095,
+                "matches": 170,
+                "playtime": 100106584,
                 "finished": 71,
                 "finishtime": 44394035,
                 "won": 88,
-                "lost": 74,
+                "lost": 75,
                 "forfeited": 1
             },
             "country": "mf",
             "matches": [
+                {
+                    "date": 1778415619000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "MoleyG",
+                    "elo": 1761,
+                    "change": -27,
+                    "oelo": 1628,
+                    "ochange": 27,
+                    "time": 668489,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778414720000,
                     "type": "VILLAGE",
@@ -63864,7 +63878,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1785,
                 "top": 1785,
                 "points": 0,
@@ -65399,7 +65413,7 @@
             "uuid": "9cd54d4874c04380b3ca1fb251decbf2",
             "nickname": "KindPlays",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1775,
                 "top": 1775,
                 "points": 0,
@@ -66234,7 +66248,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1770,
                 "top": 1770,
                 "points": 0,
@@ -66509,7 +66523,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "vorbhfan4",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1766,
                 "top": 1777,
                 "points": 0,
@@ -68282,7 +68296,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1765,
                 "top": 1765,
                 "points": 0,
