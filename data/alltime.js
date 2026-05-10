@@ -2520,7 +2520,7 @@
             "8": 2062,
             "9": 2295,
             "10": 2346,
-            "11": 1608
+            "11": 1632
         },
         "points": {
             "1": 0,
@@ -2536,11 +2536,11 @@
         },
         "pb": 413832,
         "streak": 10,
-        "matches": 1403,
-        "playtime": 846766371,
-        "finished": 578,
-        "finishtime": 393951931,
-        "won": 782,
+        "matches": 1404,
+        "playtime": 847424155,
+        "finished": 579,
+        "finishtime": 394609715,
+        "won": 783,
         "lost": 560,
         "forfeited": 206
     },
@@ -5067,12 +5067,12 @@
         },
         "pb": 409197,
         "streak": 11,
-        "matches": 5389,
-        "playtime": 3494915114,
+        "matches": 5390,
+        "playtime": 3495465329,
         "finished": 1984,
         "finishtime": 1407034354,
         "won": 2728,
-        "lost": 2462,
+        "lost": 2463,
         "forfeited": 261
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
@@ -6369,13 +6369,13 @@
         },
         "pb": 455391,
         "streak": 11,
-        "matches": 3834,
-        "playtime": 2539891993,
+        "matches": 3835,
+        "playtime": 2540378598,
         "finished": 1428,
         "finishtime": 1101676299,
         "won": 2021,
-        "lost": 1729,
-        "forfeited": 487
+        "lost": 1730,
+        "forfeited": 488
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "TuCarta",
