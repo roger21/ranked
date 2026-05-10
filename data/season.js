@@ -1,5 +1,5 @@
 {
-    "date": 1778443201000,
+    "date": 1778443801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65054,23 +65054,37 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 42,
-                "elo": 1780,
+                "rank": 49,
+                "elo": 1754,
                 "top": 1935,
                 "points": 0,
                 "pb": 407930,
                 "current": 0,
                 "streak": 6,
-                "matches": 119,
-                "playtime": 69743394,
+                "matches": 120,
+                "playtime": 70320057,
                 "finished": 62,
                 "finishtime": 36692215,
                 "won": 64,
-                "lost": 49,
+                "lost": 50,
                 "forfeited": 1
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1778443807000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Candypat",
+                    "elo": 1754,
+                    "change": -26,
+                    "oelo": 1641,
+                    "ochange": 26,
+                    "time": 576663,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778442633000,
                     "type": "BURIED_TREASURE",
@@ -66687,7 +66701,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1774,
                 "top": 1774,
                 "points": 0,
@@ -67018,7 +67032,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1774,
                 "top": 1862,
                 "points": 0,
@@ -68273,7 +68287,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1770,
                 "top": 1770,
                 "points": 0,
@@ -68548,7 +68562,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1765,
                 "top": 1765,
                 "points": 0,
@@ -69061,7 +69075,7 @@
             "uuid": "fb2bd99d6f664e7b96cc6a24834b9a76",
             "nickname": "TuCarta",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1759,
                 "top": 1844,
                 "points": 0,
@@ -70106,7 +70120,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "vorbhfan4",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1757,
                 "top": 1777,
                 "points": 0,
@@ -72019,7 +72033,7 @@
             "uuid": "86334fc9e38344bdabf1a97f63c7be23",
             "nickname": "Anjoru",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1756,
                 "top": 1756,
                 "points": 0,
@@ -72952,7 +72966,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1754,
                 "top": 1766,
                 "points": 0,
