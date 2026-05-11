@@ -1,5 +1,5 @@
 {
-    "date": 1778493601000,
+    "date": 1778494201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65321,23 +65321,37 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 38,
-                "elo": 1793,
+                "rank": 46,
+                "elo": 1772,
                 "top": 1967,
                 "points": 0,
                 "pb": 423982,
                 "current": 0,
                 "streak": 7,
-                "matches": 166,
-                "playtime": 92106027,
+                "matches": 167,
+                "playtime": 92821288,
                 "finished": 87,
                 "finishtime": 49575584,
                 "won": 94,
-                "lost": 68,
+                "lost": 69,
                 "forfeited": 4
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778494212000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "wagasuner",
+                    "elo": 1772,
+                    "change": -21,
+                    "oelo": 1782,
+                    "ochange": 21,
+                    "time": 715261,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778493440000,
                     "type": "DESERT_TEMPLE",
@@ -69371,7 +69385,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1791,
                 "top": 1791,
                 "points": 0,
@@ -69898,7 +69912,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1788,
                 "top": 1788,
                 "points": 0,
@@ -73910,7 +73924,7 @@
             "uuid": "31bb6401944d4fc5ad97f6cf90c54616",
             "nickname": "darkk575",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1771,
                 "top": 1829,
                 "points": 0,
@@ -74857,7 +74871,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1770,
                 "top": 1770,
                 "points": 0,
@@ -75132,7 +75146,7 @@
             "uuid": "86334fc9e38344bdabf1a97f63c7be23",
             "nickname": "Anjoru",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1768,
                 "top": 1773,
                 "points": 0,
@@ -76107,7 +76121,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1767,
                 "top": 1852,
                 "points": 0,
@@ -78118,7 +78132,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1765,
                 "top": 1765,
                 "points": 0,
