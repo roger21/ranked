@@ -1,5 +1,5 @@
 {
-    "date": 1778507401000,
+    "date": 1778508001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -69017,22 +69017,50 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 42,
-                "elo": 1777,
+                "elo": 1774,
                 "top": 1967,
                 "points": 0,
                 "pb": 423982,
                 "current": 1,
                 "streak": 7,
-                "matches": 178,
-                "playtime": 98375479,
+                "matches": 180,
+                "playtime": 99252921,
                 "finished": 92,
                 "finishtime": 52209541,
-                "won": 99,
-                "lost": 74,
+                "won": 100,
+                "lost": 75,
                 "forfeited": 7
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778507958000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Ayreliaa",
+                    "elo": 1774,
+                    "change": 19,
+                    "oelo": 1720,
+                    "ochange": -19,
+                    "time": 271822,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1778507517000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "cofesho",
+                    "elo": 1755,
+                    "change": -22,
+                    "oelo": 1755,
+                    "ochange": 22,
+                    "time": 605620,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778501963000,
                     "type": "BURIED_TREASURE",
@@ -71475,7 +71503,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1774,
                 "top": 1774,
                 "points": 0,
@@ -71806,7 +71834,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1774,
                 "top": 1862,
                 "points": 0,
