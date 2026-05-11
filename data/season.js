@@ -1,5 +1,5 @@
 {
-    "date": 1778505001000,
+    "date": 1778505601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -36109,7 +36109,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 1871,
                 "top": 1896,
                 "points": 0,
@@ -37238,7 +37238,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 1861,
                 "top": 1861,
                 "points": 0,
@@ -38913,7 +38913,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1860,
                 "top": 1902,
                 "points": 0,
@@ -44424,23 +44424,37 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 24,
-                "elo": 1858,
+                "rank": 20,
+                "elo": 1875,
                 "top": 1887,
                 "points": 0,
                 "pb": 444497,
-                "current": 2,
+                "current": 3,
                 "streak": 6,
-                "matches": 45,
-                "playtime": 24257829,
-                "finished": 26,
-                "finishtime": 14769753,
-                "won": 30,
+                "matches": 46,
+                "playtime": 24756196,
+                "finished": 27,
+                "finishtime": 15268120,
+                "won": 31,
                 "lost": 15,
                 "forfeited": 2
             },
             "country": "ro",
             "matches": [
+                {
+                    "date": 1778505619000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Ayreliaa",
+                    "elo": 1875,
+                    "change": 17,
+                    "oelo": 1766,
+                    "ochange": -17,
+                    "time": 498367,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778504599000,
                     "type": "VILLAGE",
@@ -68027,23 +68041,37 @@
             "uuid": "b5ae858c09384b79989ea305a4b5cedf",
             "nickname": "Ayreliaa",
             "stats": {
-                "rank": 41,
-                "elo": 1783,
+                "rank": 50,
+                "elo": 1766,
                 "top": 1787,
                 "points": 0,
                 "pb": 534793,
-                "current": 1,
+                "current": 0,
                 "streak": 12,
-                "matches": 47,
-                "playtime": 26678197,
+                "matches": 48,
+                "playtime": 27176564,
                 "finished": 19,
                 "finishtime": 12715975,
                 "won": 28,
-                "lost": 16,
+                "lost": 17,
                 "forfeited": 6
             },
             "country": "ru",
             "matches": [
+                {
+                    "date": 1778505619000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "TUDORULE",
+                    "elo": 1766,
+                    "change": -17,
+                    "oelo": 1875,
+                    "ochange": 17,
+                    "time": 498367,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778502227000,
                     "type": "BURIED_TREASURE",
@@ -68638,7 +68666,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1779,
                 "top": 1793,
                 "points": 0,
@@ -69585,7 +69613,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1777,
                 "top": 1967,
                 "points": 0,
@@ -72044,7 +72072,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1774,
                 "top": 1774,
                 "points": 0,
@@ -72375,7 +72403,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1774,
                 "top": 1862,
                 "points": 0,
@@ -73630,7 +73658,7 @@
             "uuid": "31bb6401944d4fc5ad97f6cf90c54616",
             "nickname": "darkk575",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1771,
                 "top": 1829,
                 "points": 0,
@@ -74577,7 +74605,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1770,
                 "top": 1770,
                 "points": 0,
@@ -74852,7 +74880,7 @@
             "uuid": "86334fc9e38344bdabf1a97f63c7be23",
             "nickname": "Anjoru",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1768,
                 "top": 1773,
                 "points": 0,
@@ -75827,7 +75855,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1767,
                 "top": 1935,
                 "points": 0,
@@ -77698,7 +77726,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1767,
                 "top": 1852,
                 "points": 0,
