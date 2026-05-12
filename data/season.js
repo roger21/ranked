@@ -1,5 +1,5 @@
 {
-    "date": 1778590801000,
+    "date": 1778591401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50471,14 +50471,14 @@
             "nickname": "Erikfzf",
             "stats": {
                 "rank": 30,
-                "elo": 1830,
+                "elo": 1829,
                 "top": 1830,
                 "points": 0,
                 "pb": 458849,
                 "current": 3,
                 "streak": 7,
-                "matches": 86,
-                "playtime": 49964940,
+                "matches": 87,
+                "playtime": 50754552,
                 "finished": 47,
                 "finishtime": 27931491,
                 "won": 49,
@@ -50487,6 +50487,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778591252000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "vorbhfan3",
+                    "elo": 1829,
+                    "change": -1,
+                    "oelo": 1749,
+                    "ochange": 1,
+                    "time": 789612,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778590338000,
                     "type": "BURIED_TREASURE",
