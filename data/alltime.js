@@ -423,7 +423,7 @@
             "8": 1922,
             "9": 1978,
             "10": 2240,
-            "11": 1813
+            "11": 1824
         },
         "points": {
             "4": 0,
@@ -437,11 +437,11 @@
         },
         "pb": 441222,
         "streak": 11,
-        "matches": 2284,
-        "playtime": 1469014900,
-        "finished": 836,
-        "finishtime": 599343532,
-        "won": 1164,
+        "matches": 2285,
+        "playtime": 1469659601,
+        "finished": 837,
+        "finishtime": 599988233,
+        "won": 1165,
         "lost": 992,
         "forfeited": 266
     },
@@ -513,12 +513,12 @@
         },
         "pb": 400846,
         "streak": 14,
-        "matches": 5254,
-        "playtime": 3127073489,
+        "matches": 5255,
+        "playtime": 3127758107,
         "finished": 2349,
         "finishtime": 1517256218,
         "won": 2820,
-        "lost": 2301,
+        "lost": 2302,
         "forfeited": 549
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
@@ -1374,11 +1374,11 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 4013,
-        "playtime": 2513070393,
-        "finished": 1489,
-        "finishtime": 1062198524,
-        "won": 2028,
+        "matches": 4014,
+        "playtime": 2513755011,
+        "finished": 1490,
+        "finishtime": 1062883142,
+        "won": 2029,
         "lost": 1836,
         "forfeited": 600
     },
@@ -1459,31 +1459,6 @@
         "won": 568,
         "lost": 405,
         "forfeited": 52
-    },
-    "373fddb563124e13b043ea9c571595cd": {
-        "nickname": "FuzzKing",
-        "country": "gl",
-        "top": {
-            "8": 1385,
-            "9": 1862,
-            "10": 2172,
-            "11": 1768
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 5,
-            "11": 0
-        },
-        "pb": 356932,
-        "streak": 10,
-        "matches": 3802,
-        "playtime": 2450831622,
-        "finished": 1294,
-        "finishtime": 924657138,
-        "won": 1803,
-        "lost": 1731,
-        "forfeited": 409
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
