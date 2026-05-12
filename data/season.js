@@ -1,5 +1,5 @@
 {
-    "date": 1778578801000,
+    "date": 1778579401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -47801,23 +47801,37 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 29,
-                "elo": 1825,
+                "rank": 35,
+                "elo": 1802,
                 "top": 1825,
                 "points": 0,
                 "pb": 468462,
-                "current": 3,
+                "current": 0,
                 "streak": 6,
-                "matches": 185,
-                "playtime": 108840017,
+                "matches": 186,
+                "playtime": 109276815,
                 "finished": 80,
                 "finishtime": 49694018,
                 "won": 97,
-                "lost": 80,
+                "lost": 81,
                 "forfeited": 1
             },
             "country": "mf",
             "matches": [
+                {
+                    "date": 1778579424000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "MYKEYBOARD",
+                    "elo": 1802,
+                    "change": -23,
+                    "oelo": 1769,
+                    "ochange": 23,
+                    "time": 436798,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778518159000,
                     "type": "BURIED_TREASURE",
@@ -50330,7 +50344,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 1814,
                 "top": 1829,
                 "points": 0,
@@ -51249,7 +51263,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1808,
                 "top": 1967,
                 "points": 0,
@@ -53736,7 +53750,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1808,
                 "top": 1808,
                 "points": 0,
@@ -54739,7 +54753,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 1806,
                 "top": 1897,
                 "points": 0,
@@ -57898,7 +57912,7 @@
             "uuid": "3c59ed02bccf4ea3a0f626af7955be91",
             "nickname": "tookannn",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 1803,
                 "top": 1882,
                 "points": 0,
@@ -60315,7 +60329,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 1803,
                 "top": 1803,
                 "points": 0,
@@ -61388,7 +61402,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1802,
                 "top": 1835,
                 "points": 0,
@@ -85179,7 +85193,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1767,
                 "top": 1852,
                 "points": 0,
@@ -87190,7 +87204,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1765,
                 "top": 1770,
                 "points": 0,
