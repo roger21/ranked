@@ -1,5 +1,5 @@
 {
-    "date": 1778650801000,
+    "date": 1778651401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19448,7 +19448,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 10,
+                "rank": 11,
                 "elo": 1965,
                 "top": 1973,
                 "points": 0,
@@ -20395,23 +20395,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 11,
-                "elo": 1956,
+                "rank": 10,
+                "elo": 1971,
                 "top": 2055,
                 "points": 0,
                 "pb": 425019,
-                "current": 3,
+                "current": 4,
                 "streak": 6,
-                "matches": 212,
-                "playtime": 118289248,
-                "finished": 115,
-                "finishtime": 64516979,
-                "won": 122,
+                "matches": 213,
+                "playtime": 118852078,
+                "finished": 116,
+                "finishtime": 65079809,
+                "won": 123,
                 "lost": 88,
                 "forfeited": 1
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1778651405000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "FuzzKing",
+                    "elo": 1971,
+                    "change": 15,
+                    "oelo": 1792,
+                    "ochange": -15,
+                    "time": 562830,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778649757000,
                     "type": "VILLAGE",
@@ -75186,23 +75200,37 @@
             "uuid": "373fddb563124e13b043ea9c571595cd",
             "nickname": "FuzzKing",
             "stats": {
-                "rank": 40,
-                "elo": 1807,
+                "rank": 48,
+                "elo": 1792,
                 "top": 1807,
                 "points": 0,
                 "pb": 466378,
-                "current": 3,
+                "current": 0,
                 "streak": 6,
-                "matches": 212,
-                "playtime": 122463030,
+                "matches": 213,
+                "playtime": 123025860,
                 "finished": 84,
                 "finishtime": 52590359,
                 "won": 107,
-                "lost": 91,
+                "lost": 92,
                 "forfeited": 23
             },
             "country": "gl",
             "matches": [
+                {
+                    "date": 1778651405000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 1792,
+                    "change": -15,
+                    "oelo": 1971,
+                    "ochange": 15,
+                    "time": 562830,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778620090000,
                     "type": "DESERT_TEMPLE",
@@ -78079,7 +78107,7 @@
             "uuid": "ed0605bc88fa411f8f1d530323efd867",
             "nickname": "huhPrince",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1806,
                 "top": 1808,
                 "points": 0,
@@ -83464,7 +83492,7 @@
             "uuid": "8fc93aecda5b4f699cf76694116eaf11",
             "nickname": "rekrap2",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1803,
                 "top": 1803,
                 "points": 0,
@@ -84551,7 +84579,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1802,
                 "top": 1835,
                 "points": 0,
@@ -86086,7 +86114,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1801,
                 "top": 1805,
                 "points": 0,
@@ -87761,7 +87789,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1801,
                 "top": 1843,
                 "points": 0,
@@ -89618,7 +89646,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1799,
                 "top": 1896,
                 "points": 0,
@@ -90845,7 +90873,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1798,
                 "top": 1798,
                 "points": 0,
@@ -91190,7 +91218,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1797,
                 "top": 1830,
                 "points": 0,
