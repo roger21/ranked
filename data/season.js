@@ -1,5 +1,5 @@
 {
-    "date": 1778656201000,
+    "date": 1778656801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -26112,22 +26112,36 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 13,
-                "elo": 1927,
-                "top": 1939,
+                "elo": 1940,
+                "top": 1940,
                 "points": 0,
                 "pb": 431814,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 74,
-                "playtime": 41549837,
-                "finished": 47,
-                "finishtime": 26428076,
-                "won": 49,
+                "matches": 75,
+                "playtime": 42056143,
+                "finished": 48,
+                "finishtime": 26934382,
+                "won": 50,
                 "lost": 23,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778656278000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "_Pasha1337_",
+                    "elo": 1940,
+                    "change": 13,
+                    "oelo": 1704,
+                    "ochange": -13,
+                    "time": 506306,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778655535000,
                     "type": "BURIED_TREASURE",
@@ -27100,7 +27114,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 13,
+                "rank": 14,
                 "elo": 1927,
                 "top": 1971,
                 "points": 0,
