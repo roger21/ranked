@@ -1672,11 +1672,11 @@
         },
         "pb": 435482,
         "streak": 13,
-        "matches": 2032,
-        "playtime": 1305557271,
+        "matches": 2033,
+        "playtime": 1305770008,
         "finished": 848,
         "finishtime": 586479458,
-        "won": 1075,
+        "won": 1076,
         "lost": 879,
         "forfeited": 20
     },
@@ -2576,7 +2576,7 @@
             "8": 2062,
             "9": 2295,
             "10": 2346,
-            "11": 1684
+            "11": 1701
         },
         "points": {
             "1": 0,
@@ -2592,11 +2592,11 @@
         },
         "pb": 413832,
         "streak": 10,
-        "matches": 1410,
-        "playtime": 850994423,
-        "finished": 582,
-        "finishtime": 396488418,
-        "won": 787,
+        "matches": 1411,
+        "playtime": 851584297,
+        "finished": 583,
+        "finishtime": 397078292,
+        "won": 788,
         "lost": 561,
         "forfeited": 206
     },
@@ -4787,12 +4787,12 @@
         },
         "pb": 412015,
         "streak": 11,
-        "matches": 5561,
-        "playtime": 3354823779,
+        "matches": 5562,
+        "playtime": 3355413399,
         "finished": 2080,
         "finishtime": 1410089144,
         "won": 2802,
-        "lost": 2559,
+        "lost": 2560,
         "forfeited": 729
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
@@ -5149,13 +5149,13 @@
         },
         "pb": 375123,
         "streak": 14,
-        "matches": 1617,
-        "playtime": 941505022,
+        "matches": 1618,
+        "playtime": 941717759,
         "finished": 625,
         "finishtime": 399049123,
         "won": 836,
-        "lost": 675,
-        "forfeited": 216
+        "lost": 676,
+        "forfeited": 217
     },
     "bdb7f407200d4882b78e656ca161bddf": {
         "nickname": "wagasylvie",
