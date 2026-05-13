@@ -1,27 +1,41 @@
 {
-    "date": 1778640601000,
+    "date": 1778641201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2147,
+                "elo": 2164,
                 "top": 2219,
                 "points": 0,
                 "pb": 414522,
-                "current": 1,
+                "current": 2,
                 "streak": 13,
-                "matches": 120,
-                "playtime": 64249163,
-                "finished": 87,
-                "finishtime": 47773804,
-                "won": 96,
+                "matches": 121,
+                "playtime": 64792219,
+                "finished": 88,
+                "finishtime": 48316860,
+                "won": 97,
                 "lost": 24,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1778640908000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Infume",
+                    "elo": 2164,
+                    "change": 17,
+                    "oelo": 2061,
+                    "ochange": -17,
+                    "time": 543056,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778640316000,
                     "type": "DESERT_TEMPLE",
@@ -2460,22 +2474,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 3,
-                "elo": 2078,
+                "elo": 2061,
                 "top": 2114,
                 "points": 0,
                 "pb": 401695,
-                "current": 4,
+                "current": 0,
                 "streak": 8,
-                "matches": 194,
-                "playtime": 104886606,
+                "matches": 195,
+                "playtime": 105429662,
                 "finished": 120,
                 "finishtime": 65458779,
                 "won": 130,
-                "lost": 62,
+                "lost": 63,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1778640908000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2061,
+                    "change": -17,
+                    "oelo": 2164,
+                    "ochange": 17,
+                    "time": 543056,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778639004000,
                     "type": "VILLAGE",
@@ -90854,7 +90882,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1797,
                 "top": 1830,
                 "points": 0,
@@ -92067,7 +92095,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "MYKEYBOARD",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1791,
                 "top": 1811,
                 "points": 0,
@@ -96864,7 +96892,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1791,
                 "top": 1791,
                 "points": 0,
