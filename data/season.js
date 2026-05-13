@@ -1,5 +1,5 @@
 {
-    "date": 1778661601000,
+    "date": 1778662201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19449,22 +19449,36 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 10,
-                "elo": 1967,
-                "top": 1967,
+                "elo": 1979,
+                "top": 1979,
                 "points": 0,
                 "pb": 431814,
-                "current": 5,
+                "current": 6,
                 "streak": 8,
-                "matches": 77,
-                "playtime": 43053978,
+                "matches": 78,
+                "playtime": 43304065,
                 "finished": 50,
                 "finishtime": 27932217,
-                "won": 52,
+                "won": 53,
                 "lost": 23,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778661770000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "MYKEYBOARD",
+                    "elo": 1979,
+                    "change": 12,
+                    "oelo": 1722,
+                    "ochange": -12,
+                    "time": 250087,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778659963000,
                     "type": "DESERT_TEMPLE",
