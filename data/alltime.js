@@ -1672,12 +1672,12 @@
         },
         "pb": 435482,
         "streak": 13,
-        "matches": 2027,
-        "playtime": 1302573523,
+        "matches": 2028,
+        "playtime": 1303233671,
         "finished": 846,
         "finishtime": 585210123,
         "won": 1073,
-        "lost": 876,
+        "lost": 877,
         "forfeited": 20
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -4287,7 +4287,7 @@
             "8": 2002,
             "9": 2239,
             "10": 2340,
-            "11": 1666
+            "11": 1668
         },
         "points": {
             "1": 0,
@@ -4304,11 +4304,11 @@
         },
         "pb": 417448,
         "streak": 24,
-        "matches": 9897,
-        "playtime": 5998904715,
-        "finished": 3329,
-        "finishtime": 2360601707,
-        "won": 4850,
+        "matches": 9898,
+        "playtime": 5999464791,
+        "finished": 3330,
+        "finishtime": 2361161783,
+        "won": 4851,
         "lost": 4608,
         "forfeited": 1850
     },
@@ -4573,11 +4573,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4315,
-        "playtime": 2436746625,
-        "finished": 2529,
-        "finishtime": 1466459116,
-        "won": 2945,
+        "matches": 4316,
+        "playtime": 2437406773,
+        "finished": 2530,
+        "finishtime": 1467119264,
+        "won": 2946,
         "lost": 1300,
         "forfeited": 40
     },
@@ -6128,13 +6128,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7451,
-        "playtime": 4130194973,
+        "matches": 7452,
+        "playtime": 4130883728,
         "finished": 2808,
         "finishtime": 1850580489,
         "won": 3766,
-        "lost": 3462,
-        "forfeited": 2098
+        "lost": 3463,
+        "forfeited": 2099
     },
     "ed0605bc88fa411f8f1d530323efd867": {
         "nickname": "huhPrince",
