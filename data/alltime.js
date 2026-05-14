@@ -67,12 +67,12 @@
         },
         "pb": 416164,
         "streak": 12,
-        "matches": 8331,
-        "playtime": 5412320937,
+        "matches": 8332,
+        "playtime": 5413085820,
         "finished": 2987,
         "finishtime": 2200966814,
         "won": 4165,
-        "lost": 3895,
+        "lost": 3896,
         "forfeited": 838
     },
     "0478fbcaf4da4cf983e1be6d6e11678c": {
@@ -3017,13 +3017,13 @@
         },
         "pb": 514784,
         "streak": 12,
-        "matches": 3906,
-        "playtime": 2516664126,
+        "matches": 3908,
+        "playtime": 2517484894,
         "finished": 1379,
         "finishtime": 1068767439,
         "won": 2004,
-        "lost": 1797,
-        "forfeited": 715
+        "lost": 1799,
+        "forfeited": 716
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -5947,13 +5947,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9092,
-        "playtime": 5594787390,
+        "matches": 9093,
+        "playtime": 5595381971,
         "finished": 3951,
         "finishtime": 2658593014,
         "won": 4853,
-        "lost": 4099,
-        "forfeited": 938
+        "lost": 4100,
+        "forfeited": 939
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
