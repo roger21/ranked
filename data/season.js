@@ -1,5 +1,5 @@
 {
-    "date": 1778732401000,
+    "date": 1778733001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90262,23 +90262,37 @@
             "uuid": "1f88c82f9cc84c9885a5d38dd531f4c6",
             "nickname": "RRed",
             "stats": {
-                "rank": 46,
-                "elo": 1789,
+                "rank": 56,
+                "elo": 1766,
                 "top": 1809,
                 "points": 0,
                 "pb": 493877,
                 "current": 0,
                 "streak": 13,
-                "matches": 87,
-                "playtime": 52921806,
+                "matches": 88,
+                "playtime": 53590523,
                 "finished": 40,
                 "finishtime": 27359059,
                 "won": 49,
-                "lost": 36,
+                "lost": 37,
                 "forfeited": 5
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1778733020000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "FuzzKing",
+                    "elo": 1766,
+                    "change": -23,
+                    "oelo": 1720,
+                    "ochange": 23,
+                    "time": 668717,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778732288000,
                     "type": "BURIED_TREASURE",
@@ -92030,7 +92044,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1788,
                 "top": 1831,
                 "points": 0,
@@ -92935,7 +92949,7 @@
             "uuid": "08476f5847fc4daeba74a2544fc9d65b",
             "nickname": "Zylenox",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1781,
                 "top": 1781,
                 "points": 0,
@@ -93252,7 +93266,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1780,
                 "top": 1897,
                 "points": 0,
