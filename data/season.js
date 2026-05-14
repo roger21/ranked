@@ -1,5 +1,5 @@
 {
-    "date": 1778797202000,
+    "date": 1778797801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14284,22 +14284,36 @@
             "nickname": "okshey",
             "stats": {
                 "rank": 7,
-                "elo": 2042,
+                "elo": 2054,
                 "top": 2090,
                 "points": 0,
                 "pb": 407930,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 194,
-                "playtime": 113310946,
-                "finished": 104,
-                "finishtime": 61723507,
-                "won": 109,
+                "matches": 195,
+                "playtime": 113777836,
+                "finished": 105,
+                "finishtime": 62190397,
+                "won": 110,
                 "lost": 74,
                 "forfeited": 2
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1778797352000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "loodlow",
+                    "elo": 2054,
+                    "change": 12,
+                    "oelo": 1804,
+                    "ochange": -12,
+                    "time": 466890,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778796649000,
                     "type": "RUINED_PORTAL",
@@ -88057,22 +88071,36 @@
             "nickname": "loodlow",
             "stats": {
                 "rank": 42,
-                "elo": 1816,
+                "elo": 1804,
                 "top": 1872,
                 "points": 0,
                 "pb": 471613,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
-                "matches": 56,
-                "playtime": 30747273,
+                "matches": 57,
+                "playtime": 31214163,
                 "finished": 29,
                 "finishtime": 17308418,
                 "won": 33,
-                "lost": 22,
+                "lost": 23,
                 "forfeited": 5
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1778797352000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "okshey",
+                    "elo": 1804,
+                    "change": -12,
+                    "oelo": 2054,
+                    "ochange": 12,
+                    "time": 466890,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778796462000,
                     "type": "RUINED_PORTAL",
@@ -88793,7 +88821,7 @@
             "uuid": "d0acbca0d50e4824bc38a44395cce096",
             "nickname": "Fyroah",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1804,
                 "top": 1804,
                 "points": 0,
@@ -90496,7 +90524,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1804,
                 "top": 1804,
                 "points": 0,
