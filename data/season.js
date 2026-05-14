@@ -1,5 +1,5 @@
 {
-    "date": 1778751001000,
+    "date": 1778751601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45662,14 +45662,14 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 23,
-                "elo": 1882,
+                "elo": 1879,
                 "top": 1915,
                 "points": 0,
                 "pb": 422925,
                 "current": 2,
                 "streak": 6,
-                "matches": 104,
-                "playtime": 57122375,
+                "matches": 105,
+                "playtime": 57664606,
                 "finished": 46,
                 "finishtime": 25916437,
                 "won": 55,
@@ -45678,6 +45678,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778751231000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "boywithcards",
+                    "elo": 1879,
+                    "change": -3,
+                    "oelo": 1641,
+                    "ochange": 3,
+                    "time": 542231,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778750365000,
                     "type": "DESERT_TEMPLE",
@@ -47084,7 +47098,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 1879,
                 "top": 1898,
                 "points": 0,
