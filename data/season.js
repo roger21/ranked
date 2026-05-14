@@ -1,5 +1,5 @@
 {
-    "date": 1778798401000,
+    "date": 1778799001000,
     "players": [
         {
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
@@ -14298,14 +14298,14 @@
             "nickname": "okshey",
             "stats": {
                 "rank": 7,
-                "elo": 2038,
+                "elo": 2037,
                 "top": 2090,
                 "points": 0,
                 "pb": 407930,
                 "current": 0,
                 "streak": 11,
-                "matches": 196,
-                "playtime": 114361548,
+                "matches": 197,
+                "playtime": 115069865,
                 "finished": 105,
                 "finishtime": 62190397,
                 "won": 110,
@@ -14314,6 +14314,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1778798743000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "nahhann",
+                    "elo": 2037,
+                    "change": -1,
+                    "oelo": 1971,
+                    "ochange": 1,
+                    "time": 708317,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778797983000,
                     "type": "RUINED_PORTAL",
@@ -24470,14 +24484,14 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 11,
-                "elo": 1970,
+                "elo": 1971,
                 "top": 2039,
                 "points": 0,
                 "pb": 402891,
                 "current": 1,
                 "streak": 7,
-                "matches": 251,
-                "playtime": 136954329,
+                "matches": 252,
+                "playtime": 137662646,
                 "finished": 130,
                 "finishtime": 72776257,
                 "won": 147,
@@ -24486,6 +24500,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1778798743000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "okshey",
+                    "elo": 1971,
+                    "change": 1,
+                    "oelo": 2037,
+                    "ochange": -1,
+                    "time": 708317,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778797819000,
                     "type": "DESERT_TEMPLE",
