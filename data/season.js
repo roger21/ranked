@@ -1,5 +1,5 @@
 {
-    "date": 1778761201000,
+    "date": 1778761802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -26719,14 +26719,14 @@
             "nickname": "bing_pigs",
             "stats": {
                 "rank": 12,
-                "elo": 1978,
+                "elo": 1975,
                 "top": 2001,
                 "points": 0,
                 "pb": 423982,
                 "current": 0,
                 "streak": 11,
-                "matches": 203,
-                "playtime": 111804712,
+                "matches": 204,
+                "playtime": 112489717,
                 "finished": 110,
                 "finishtime": 62497320,
                 "won": 119,
@@ -26735,6 +26735,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778761583000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "1_viewer",
+                    "elo": 1975,
+                    "change": -3,
+                    "oelo": 1761,
+                    "ochange": 3,
+                    "time": 685005,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778760117000,
                     "type": "SHIPWRECK",
