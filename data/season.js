@@ -1,5 +1,5 @@
 {
-    "date": 1778725801000,
+    "date": 1778726401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52926,23 +52926,37 @@
             "uuid": "3c59ed02bccf4ea3a0f626af7955be91",
             "nickname": "tookannn",
             "stats": {
-                "rank": 26,
-                "elo": 1858,
+                "rank": 31,
+                "elo": 1844,
                 "top": 1882,
                 "points": 0,
                 "pb": 467566,
                 "current": 0,
                 "streak": 7,
-                "matches": 195,
-                "playtime": 114232650,
+                "matches": 196,
+                "playtime": 114846048,
                 "finished": 85,
                 "finishtime": 53141690,
                 "won": 99,
-                "lost": 89,
+                "lost": 90,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1778726422000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 1844,
+                    "change": -14,
+                    "oelo": 2033,
+                    "ochange": 14,
+                    "time": 613398,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778725645000,
                     "type": "VILLAGE",
@@ -55609,7 +55623,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1853,
                 "top": 2003,
                 "points": 0,
@@ -59342,7 +59356,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 1852,
                 "top": 1852,
                 "points": 0,
@@ -59883,7 +59897,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1850,
                 "top": 1917,
                 "points": 0,
@@ -62328,7 +62342,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "vorbhfan4",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 1849,
                 "top": 1853,
                 "points": 0,
@@ -65025,7 +65039,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "vorbhfan6",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1846,
                 "top": 1960,
                 "points": 0,
