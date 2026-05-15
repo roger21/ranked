@@ -1,5 +1,5 @@
 {
-    "date": 1778858401000,
+    "date": 1778859001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -27186,22 +27186,36 @@
             "nickname": "Watermelon1708",
             "stats": {
                 "rank": 11,
-                "elo": 1980,
+                "elo": 1993,
                 "top": 2032,
                 "points": 0,
                 "pb": 442705,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 152,
-                "playtime": 82254122,
+                "matches": 153,
+                "playtime": 82530347,
                 "finished": 80,
                 "finishtime": 46279012,
-                "won": 88,
+                "won": 89,
                 "lost": 62,
                 "forfeited": 16
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1778858659000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "nonsochiamaa",
+                    "elo": 1993,
+                    "change": 13,
+                    "oelo": 1756,
+                    "ochange": -13,
+                    "time": 276225,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778857309000,
                     "type": "VILLAGE",
