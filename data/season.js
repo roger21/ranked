@@ -1,5 +1,5 @@
 {
-    "date": 1778817601000,
+    "date": 1778818201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -48587,7 +48587,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1879,
                 "top": 1898,
                 "points": 0,
@@ -49674,23 +49674,37 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 24,
-                "elo": 1870,
+                "rank": 23,
+                "elo": 1887,
                 "top": 1955,
                 "points": 0,
                 "pb": 454104,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 141,
-                "playtime": 82777974,
-                "finished": 64,
-                "finishtime": 37767456,
-                "won": 69,
+                "matches": 142,
+                "playtime": 83441053,
+                "finished": 65,
+                "finishtime": 38430535,
+                "won": 70,
                 "lost": 60,
                 "forfeited": 1
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1778818206000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Fyroah",
+                    "elo": 1887,
+                    "change": 17,
+                    "oelo": 1758,
+                    "ochange": -17,
+                    "time": 663079,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778817382000,
                     "type": "BURIED_TREASURE",
