@@ -1,5 +1,5 @@
 {
-    "date": 1778828401000,
+    "date": 1778829001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -3333,22 +3333,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 2,
-                "elo": 2164,
+                "elo": 2172,
                 "top": 2219,
                 "points": 0,
                 "pb": 414522,
-                "current": 2,
+                "current": 3,
                 "streak": 13,
-                "matches": 121,
-                "playtime": 64792219,
-                "finished": 88,
-                "finishtime": 48316860,
-                "won": 97,
+                "matches": 122,
+                "playtime": 65315054,
+                "finished": 89,
+                "finishtime": 48839695,
+                "won": 98,
                 "lost": 24,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1778828862000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "dolqhin",
+                    "elo": 2172,
+                    "change": 8,
+                    "oelo": 1786,
+                    "ochange": -8,
+                    "time": 522835,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778640908000,
                     "type": "RUINED_PORTAL",
