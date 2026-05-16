@@ -1,5 +1,5 @@
 {
-    "date": 1778942401000,
+    "date": 1778943001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -73639,22 +73639,36 @@
             "nickname": "nonsochiamaa",
             "stats": {
                 "rank": 36,
-                "elo": 1833,
+                "elo": 1850,
                 "top": 1859,
                 "points": 0,
                 "pb": 391139,
-                "current": 0,
+                "current": 1,
                 "streak": 5,
-                "matches": 170,
-                "playtime": 92892591,
-                "finished": 78,
-                "finishtime": 46199162,
-                "won": 90,
+                "matches": 171,
+                "playtime": 93420844,
+                "finished": 79,
+                "finishtime": 46727415,
+                "won": 91,
                 "lost": 73,
                 "forfeited": 28
             },
             "country": "it",
             "matches": [
+                {
+                    "date": 1778942459000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "VojtaH007",
+                    "elo": 1850,
+                    "change": 17,
+                    "oelo": 1732,
+                    "ochange": -17,
+                    "time": 528253,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778941629000,
                     "type": "VILLAGE",
