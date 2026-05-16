@@ -437,11 +437,11 @@
         },
         "pb": 364576,
         "streak": 12,
-        "matches": 3044,
-        "playtime": 1790312748,
-        "finished": 1293,
-        "finishtime": 850882940,
-        "won": 1644,
+        "matches": 3045,
+        "playtime": 1790929913,
+        "finished": 1294,
+        "finishtime": 851500105,
+        "won": 1645,
         "lost": 1283,
         "forfeited": 495
     },
@@ -1486,6 +1486,31 @@
         "won": 578,
         "lost": 410,
         "forfeited": 52
+    },
+    "373fddb563124e13b043ea9c571595cd": {
+        "nickname": "FuzzKing",
+        "country": "gl",
+        "top": {
+            "8": 1385,
+            "9": 1862,
+            "10": 2172,
+            "11": 1840
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 5,
+            "11": 0
+        },
+        "pb": 356932,
+        "streak": 10,
+        "matches": 3887,
+        "playtime": 2503279088,
+        "finished": 1332,
+        "finishtime": 949994389,
+        "won": 1845,
+        "lost": 1771,
+        "forfeited": 412
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
@@ -5495,12 +5520,12 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4284,
-        "playtime": 2508313875,
+        "matches": 4285,
+        "playtime": 2509283929,
         "finished": 1456,
         "finishtime": 1017756945,
         "won": 2047,
-        "lost": 1971,
+        "lost": 1972,
         "forfeited": 1084
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
