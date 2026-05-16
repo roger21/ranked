@@ -3526,13 +3526,13 @@
         },
         "pb": 411269,
         "streak": 10,
-        "matches": 4314,
-        "playtime": 2522451760,
+        "matches": 4315,
+        "playtime": 2522805872,
         "finished": 1553,
         "finishtime": 1017687581,
         "won": 2095,
-        "lost": 1969,
-        "forfeited": 890
+        "lost": 1970,
+        "forfeited": 891
     },
     "82a111625c614f31a44789d5464a969a": {
         "nickname": "DECTHEELITE",
@@ -4319,12 +4319,12 @@
         },
         "pb": 415830,
         "streak": 13,
-        "matches": 7132,
-        "playtime": 4343511868,
+        "matches": 7133,
+        "playtime": 4344081758,
         "finished": 2454,
         "finishtime": 1745395333,
         "won": 3500,
-        "lost": 3243,
+        "lost": 3244,
         "forfeited": 1326
     },
     "a0a672a0bc194540bc195220dc170dba": {
