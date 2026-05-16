@@ -1,5 +1,5 @@
 {
-    "date": 1778914201000,
+    "date": 1778914801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -74702,15 +74702,15 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 35,
-                "elo": 1849,
+                "rank": 36,
+                "elo": 1848,
                 "top": 1920,
                 "points": 0,
                 "pb": 426548,
                 "current": 0,
                 "streak": 9,
-                "matches": 76,
-                "playtime": 45449760,
+                "matches": 77,
+                "playtime": 45969453,
                 "finished": 40,
                 "finishtime": 24028290,
                 "won": 44,
@@ -74719,6 +74719,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778914742000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "MYKEYBOARD",
+                    "elo": 1848,
+                    "change": -1,
+                    "oelo": 1763,
+                    "ochange": 1,
+                    "time": 519693,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778913933000,
                     "type": "RUINED_PORTAL",
