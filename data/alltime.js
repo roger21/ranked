@@ -437,11 +437,11 @@
         },
         "pb": 364576,
         "streak": 12,
-        "matches": 3045,
-        "playtime": 1790929913,
+        "matches": 3046,
+        "playtime": 1791628216,
         "finished": 1294,
         "finishtime": 851500105,
-        "won": 1645,
+        "won": 1646,
         "lost": 1283,
         "forfeited": 495
     },
@@ -1486,6 +1486,31 @@
         "won": 578,
         "lost": 410,
         "forfeited": 52
+    },
+    "373fddb563124e13b043ea9c571595cd": {
+        "nickname": "FuzzKing",
+        "country": "gl",
+        "top": {
+            "8": 1385,
+            "9": 1862,
+            "10": 2172,
+            "11": 1840
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 5,
+            "11": 0
+        },
+        "pb": 356932,
+        "streak": 10,
+        "matches": 3889,
+        "playtime": 2504488019,
+        "finished": 1333,
+        "finishtime": 950499892,
+        "won": 1846,
+        "lost": 1771,
+        "forfeited": 412
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
@@ -3836,13 +3861,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 13621,
-        "playtime": 8560872673,
+        "matches": 13622,
+        "playtime": 8561174652,
         "finished": 4781,
         "finishtime": 3628405144,
         "won": 6892,
-        "lost": 6473,
-        "forfeited": 2987
+        "lost": 6474,
+        "forfeited": 2988
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
@@ -5275,13 +5300,13 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 3515,
-        "playtime": 2146633670,
+        "matches": 3516,
+        "playtime": 2147331973,
         "finished": 1318,
         "finishtime": 863506118,
         "won": 1717,
-        "lost": 1545,
-        "forfeited": 395
+        "lost": 1546,
+        "forfeited": 396
     },
     "be7a79f3331042f19c07230752b26725": {
         "nickname": "dinonuggieboi",
@@ -5495,11 +5520,11 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4287,
-        "playtime": 2510142278,
-        "finished": 1456,
-        "finishtime": 1017756945,
-        "won": 2047,
+        "matches": 4288,
+        "playtime": 2510750474,
+        "finished": 1457,
+        "finishtime": 1018365141,
+        "won": 2048,
         "lost": 1974,
         "forfeited": 1086
     },
