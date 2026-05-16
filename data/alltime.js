@@ -1462,7 +1462,7 @@
             "8": 1569,
             "9": 1912,
             "10": 1578,
-            "11": 1583
+            "11": 1603
         },
         "points": {
             "1": 0,
@@ -1479,38 +1479,13 @@
         },
         "pb": 495954,
         "streak": 11,
-        "matches": 1028,
-        "playtime": 690205615,
-        "finished": 421,
-        "finishtime": 313214667,
-        "won": 577,
+        "matches": 1029,
+        "playtime": 690958715,
+        "finished": 422,
+        "finishtime": 313967767,
+        "won": 578,
         "lost": 410,
         "forfeited": 52
-    },
-    "373fddb563124e13b043ea9c571595cd": {
-        "nickname": "FuzzKing",
-        "country": "gl",
-        "top": {
-            "8": 1385,
-            "9": 1862,
-            "10": 2172,
-            "11": 1840
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 5,
-            "11": 0
-        },
-        "pb": 356932,
-        "streak": 10,
-        "matches": 3883,
-        "playtime": 2500976597,
-        "finished": 1331,
-        "finishtime": 949285024,
-        "won": 1843,
-        "lost": 1769,
-        "forfeited": 412
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
@@ -1828,7 +1803,7 @@
             "8": 2016,
             "9": 2287,
             "10": 2346,
-            "11": 1871
+            "11": 1889
         },
         "points": {
             "1": 0,
@@ -1845,11 +1820,11 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 11164,
-        "playtime": 6974697584,
-        "finished": 4158,
-        "finishtime": 2934429246,
-        "won": 5562,
+        "matches": 11165,
+        "playtime": 6975232312,
+        "finished": 4159,
+        "finishtime": 2934963974,
+        "won": 5563,
         "lost": 5233,
         "forfeited": 1555
     },
@@ -2948,6 +2923,45 @@
         "lost": 3046,
         "forfeited": 1222
     },
+    "728fdcab24b249b686c081a7fc53176e": {
+        "nickname": "ContraVz",
+        "country": "ie",
+        "top": {
+            "1": 1384,
+            "2": 1254,
+            "3": 1166,
+            "4": 1718,
+            "5": 1755,
+            "6": 2045,
+            "7": 1958,
+            "8": 1912,
+            "9": 2122,
+            "10": 2145,
+            "11": 1804
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 20,
+            "5": 25,
+            "6": 55,
+            "7": 60,
+            "8": 19,
+            "9": 26,
+            "10": 22,
+            "11": 0
+        },
+        "pb": 402082,
+        "streak": 15,
+        "matches": 5446,
+        "playtime": 3239200521,
+        "finished": 1933,
+        "finishtime": 1376279090,
+        "won": 2702,
+        "lost": 2483,
+        "forfeited": 1323
+    },
     "734a1c6118754829acc234135470152c": {
         "nickname": "yeopgihoney",
         "country": "kr",
@@ -3744,12 +3758,12 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 5671,
-        "playtime": 3657295911,
+        "matches": 5672,
+        "playtime": 3657842203,
         "finished": 2041,
         "finishtime": 1428022281,
         "won": 2771,
-        "lost": 2507,
+        "lost": 2508,
         "forfeited": 180
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -5495,11 +5509,11 @@
         },
         "pb": 437937,
         "streak": 14,
-        "matches": 5062,
-        "playtime": 3081972722,
+        "matches": 5063,
+        "playtime": 3082182960,
         "finished": 1789,
         "finishtime": 1242169421,
-        "won": 2537,
+        "won": 2538,
         "lost": 2274,
         "forfeited": 886
     },
@@ -5520,13 +5534,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4274,
-        "playtime": 2502793892,
+        "matches": 4275,
+        "playtime": 2503004130,
         "finished": 1450,
         "finishtime": 1014179679,
         "won": 2041,
-        "lost": 1968,
-        "forfeited": 1082
+        "lost": 1969,
+        "forfeited": 1083
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
