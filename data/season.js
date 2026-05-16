@@ -1,5 +1,5 @@
 {
-    "date": 1778954401000,
+    "date": 1778955001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -67162,23 +67162,37 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 32,
-                "elo": 1880,
+                "rank": 35,
+                "elo": 1852,
                 "top": 1880,
                 "points": 0,
                 "pb": 480998,
-                "current": 8,
+                "current": 0,
                 "streak": 8,
-                "matches": 170,
-                "playtime": 98840386,
+                "matches": 171,
+                "playtime": 99455545,
                 "finished": 79,
                 "finishtime": 47509606,
                 "won": 91,
-                "lost": 65,
+                "lost": 66,
                 "forfeited": 0
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1778955036000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "iKme_",
+                    "elo": 1852,
+                    "change": -28,
+                    "oelo": 1675,
+                    "ochange": 28,
+                    "time": 615159,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778954008000,
                     "type": "BURIED_TREASURE",
@@ -69495,7 +69509,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 1879,
                 "top": 1898,
                 "points": 0,
@@ -70582,7 +70596,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 1877,
                 "top": 1884,
                 "points": 0,
@@ -71067,7 +71081,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 1860,
                 "top": 1955,
                 "points": 0,
@@ -73302,7 +73316,7 @@
             "uuid": "3c59ed02bccf4ea3a0f626af7955be91",
             "nickname": "tookannn",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 1852,
                 "top": 1882,
                 "points": 0,
