@@ -1,5 +1,5 @@
 {
-    "date": 1778908201000,
+    "date": 1778908801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -36648,14 +36648,14 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 17,
-                "elo": 1936,
+                "elo": 1935,
                 "top": 2069,
                 "points": 0,
                 "pb": 423216,
                 "current": 2,
                 "streak": 9,
-                "matches": 241,
-                "playtime": 141539384,
+                "matches": 242,
+                "playtime": 142435691,
                 "finished": 119,
                 "finishtime": 72074140,
                 "won": 130,
@@ -36664,6 +36664,20 @@
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1778908810000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "cofesho",
+                    "elo": 1935,
+                    "change": -1,
+                    "oelo": 1828,
+                    "ochange": 1,
+                    "time": 896307,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778907409000,
                     "type": "RUINED_PORTAL",
@@ -83124,7 +83138,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "vorbhfan3",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1827,
                 "top": 1931,
                 "points": 0,
@@ -86578,14 +86592,14 @@
             "nickname": "cofesho",
             "stats": {
                 "rank": 40,
-                "elo": 1827,
+                "elo": 1828,
                 "top": 1843,
                 "points": 0,
                 "pb": 426466,
                 "current": 4,
                 "streak": 6,
-                "matches": 229,
-                "playtime": 132785673,
+                "matches": 230,
+                "playtime": 133681980,
                 "finished": 93,
                 "finishtime": 56040431,
                 "won": 109,
@@ -86594,6 +86608,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1778908810000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "v_strid",
+                    "elo": 1828,
+                    "change": 1,
+                    "oelo": 1935,
+                    "ochange": -1,
+                    "time": 896307,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778907844000,
                     "type": "SHIPWRECK",
