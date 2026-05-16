@@ -1,5 +1,5 @@
 {
-    "date": 1778922001000,
+    "date": 1778922601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -55917,7 +55917,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 1904,
                 "top": 1917,
                 "points": 0,
@@ -58488,7 +58488,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 1902,
                 "top": 2006,
                 "points": 0,
@@ -60457,7 +60457,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 1902,
                 "top": 2003,
                 "points": 0,
@@ -64512,23 +64512,37 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 30,
-                "elo": 1893,
+                "rank": 27,
+                "elo": 1907,
                 "top": 1920,
                 "points": 0,
                 "pb": 426548,
-                "current": 4,
+                "current": 5,
                 "streak": 9,
-                "matches": 85,
-                "playtime": 50567718,
+                "matches": 86,
+                "playtime": 50916412,
                 "finished": 45,
                 "finishtime": 27047514,
-                "won": 50,
+                "won": 51,
                 "lost": 31,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1778922624000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "nonsochiamaa",
+                    "elo": 1907,
+                    "change": 14,
+                    "oelo": 1716,
+                    "ochange": -14,
+                    "time": 348694,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778921404000,
                     "type": "VILLAGE",
