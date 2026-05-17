@@ -1,5 +1,5 @@
 {
-    "date": 1779022201000,
+    "date": 1779022801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -81235,15 +81235,15 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 36,
-                "elo": 1850,
+                "rank": 37,
+                "elo": 1849,
                 "top": 1859,
                 "points": 0,
                 "pb": 391139,
                 "current": 1,
                 "streak": 5,
-                "matches": 171,
-                "playtime": 93420844,
+                "matches": 172,
+                "playtime": 94099821,
                 "finished": 79,
                 "finishtime": 46727415,
                 "won": 91,
@@ -81252,6 +81252,20 @@
             },
             "country": "it",
             "matches": [
+                {
+                    "date": 1779022507000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "ulqtfan2",
+                    "elo": 1849,
+                    "change": -1,
+                    "oelo": 1760,
+                    "ochange": 1,
+                    "time": 678977,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1778942459000,
                     "type": "DESERT_TEMPLE",
