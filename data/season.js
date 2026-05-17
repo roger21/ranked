@@ -1,5 +1,5 @@
 {
-    "date": 1778980201000,
+    "date": 1778980801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -82219,23 +82219,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 39,
-                "elo": 1849,
+                "rank": 40,
+                "elo": 1831,
                 "top": 1855,
                 "points": 0,
                 "pb": 438313,
-                "current": 5,
+                "current": 0,
                 "streak": 5,
-                "matches": 265,
-                "playtime": 160807609,
+                "matches": 266,
+                "playtime": 161385692,
                 "finished": 113,
                 "finishtime": 70582568,
                 "won": 132,
-                "lost": 119,
+                "lost": 120,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1778980838000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "priffie",
+                    "elo": 1831,
+                    "change": -18,
+                    "oelo": 1929,
+                    "ochange": 18,
+                    "time": 578083,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778979970000,
                     "type": "SHIPWRECK",
@@ -85882,7 +85896,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "vorbhfan6",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1842,
                 "top": 1960,
                 "points": 0,
