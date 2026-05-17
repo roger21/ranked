@@ -1,5 +1,5 @@
 {
-    "date": 1779034801000,
+    "date": 1779035401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -98238,7 +98238,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 1832,
                 "top": 1832,
                 "points": 0,
@@ -100235,7 +100235,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1829,
                 "top": 1912,
                 "points": 0,
@@ -102610,7 +102610,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 1829,
                 "top": 1848,
                 "points": 0,
@@ -103529,7 +103529,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1823,
                 "top": 1879,
                 "points": 0,
@@ -104504,23 +104504,37 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 48,
-                "elo": 1818,
+                "rank": 44,
+                "elo": 1833,
                 "top": 1884,
                 "points": 0,
                 "pb": 431546,
-                "current": 5,
+                "current": 6,
                 "streak": 6,
-                "matches": 166,
-                "playtime": 96449629,
-                "finished": 73,
-                "finishtime": 44112819,
-                "won": 87,
+                "matches": 167,
+                "playtime": 97084282,
+                "finished": 74,
+                "finishtime": 44747472,
+                "won": 88,
                 "lost": 72,
                 "forfeited": 1
             },
             "country": "fi",
             "matches": [
+                {
+                    "date": 1779035406000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "1_viewer",
+                    "elo": 1833,
+                    "change": 15,
+                    "oelo": 1653,
+                    "ochange": -15,
+                    "time": 634653,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779034569000,
                     "type": "DESERT_TEMPLE",
