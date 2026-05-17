@@ -1401,11 +1401,11 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 4071,
-        "playtime": 2546148004,
+        "matches": 4072,
+        "playtime": 2546707832,
         "finished": 1512,
         "finishtime": 1077561069,
-        "won": 2055,
+        "won": 2056,
         "lost": 1864,
         "forfeited": 616
     },
@@ -5300,12 +5300,12 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 1237,
-        "playtime": 750086291,
+        "matches": 1238,
+        "playtime": 750786714,
         "finished": 562,
         "finishtime": 365362970,
         "won": 727,
-        "lost": 473,
+        "lost": 474,
         "forfeited": 53
     },
     "c32cdd142a0147dcb91771319d745194": {
@@ -6213,13 +6213,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7524,
-        "playtime": 4166156327,
+        "matches": 7526,
+        "playtime": 4166942689,
         "finished": 2833,
         "finishtime": 1866228029,
         "won": 3806,
-        "lost": 3494,
-        "forfeited": 2124
+        "lost": 3496,
+        "forfeited": 2126
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
