@@ -1,5 +1,5 @@
 {
-    "date": 1779033001000,
+    "date": 1779033601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -107845,7 +107845,7 @@
             "uuid": "31bb6401944d4fc5ad97f6cf90c54616",
             "nickname": "darkk575",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1813,
                 "top": 1829,
                 "points": 0,
@@ -109968,7 +109968,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1812,
                 "top": 1812,
                 "points": 0,
