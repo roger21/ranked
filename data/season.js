@@ -1,5 +1,5 @@
 {
-    "date": 1779000601000,
+    "date": 1779001201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -62977,23 +62977,37 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "vorbhfan2",
             "stats": {
-                "rank": 29,
-                "elo": 1889,
+                "rank": 26,
+                "elo": 1908,
                 "top": 1995,
                 "points": 0,
                 "pb": 430507,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
-                "matches": 250,
-                "playtime": 147831228,
-                "finished": 103,
-                "finishtime": 63757949,
-                "won": 127,
+                "matches": 251,
+                "playtime": 148451278,
+                "finished": 104,
+                "finishtime": 64377999,
+                "won": 128,
                 "lost": 110,
                 "forfeited": 2
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1779001230000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "wagasylvie",
+                    "elo": 1908,
+                    "change": 19,
+                    "oelo": 1829,
+                    "ochange": -19,
+                    "time": 620050,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779000339000,
                     "type": "DESERT_TEMPLE",
@@ -66402,7 +66416,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 1889,
                 "top": 1889,
                 "points": 0,
@@ -88150,23 +88164,37 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 39,
-                "elo": 1848,
+                "rank": 43,
+                "elo": 1829,
                 "top": 1848,
                 "points": 0,
                 "pb": 420759,
-                "current": 4,
+                "current": 0,
                 "streak": 8,
-                "matches": 65,
-                "playtime": 35686296,
+                "matches": 66,
+                "playtime": 36306346,
                 "finished": 31,
                 "finishtime": 17504904,
                 "won": 35,
-                "lost": 23,
+                "lost": 24,
                 "forfeited": 4
             },
             "country": "fk",
             "matches": [
+                {
+                    "date": 1779001230000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "vorbhfan2",
+                    "elo": 1829,
+                    "change": -19,
+                    "oelo": 1908,
+                    "ochange": 19,
+                    "time": 620050,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779000549000,
                     "type": "DESERT_TEMPLE",
@@ -89055,7 +89083,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "vorbhfan6",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1842,
                 "top": 1960,
                 "points": 0,
@@ -91696,7 +91724,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1837,
                 "top": 1897,
                 "points": 0,
@@ -95401,7 +95429,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1837,
                 "top": 1837,
                 "points": 0,
@@ -96180,7 +96208,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1829,
                 "top": 1912,
                 "points": 0,
