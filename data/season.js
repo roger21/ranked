@@ -1,5 +1,5 @@
 {
-    "date": 1779115201000,
+    "date": 1779115801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -12571,7 +12571,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 5,
+                "rank": 6,
                 "elo": 2101,
                 "top": 2101,
                 "points": 0,
@@ -15646,7 +15646,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 6,
+                "rank": 7,
                 "elo": 2093,
                 "top": 2112,
                 "points": 0,
@@ -17027,23 +17027,37 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 7,
-                "elo": 2091,
+                "rank": 3,
+                "elo": 2105,
                 "top": 2124,
                 "points": 0,
                 "pb": 423982,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 252,
-                "playtime": 137057743,
-                "finished": 134,
-                "finishtime": 76158400,
-                "won": 152,
+                "matches": 253,
+                "playtime": 137675382,
+                "finished": 135,
+                "finishtime": 76776039,
+                "won": 153,
                 "lost": 94,
                 "forfeited": 9
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1779115805000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "NoHacsJustRoblox",
+                    "elo": 2105,
+                    "change": 14,
+                    "oelo": 1912,
+                    "ochange": -14,
+                    "time": 617639,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779113479000,
                     "type": "DESERT_TEMPLE",
@@ -58429,22 +58443,36 @@
             "nickname": "NoHacsJustRoblox",
             "stats": {
                 "rank": 26,
-                "elo": 1926,
+                "elo": 1912,
                 "top": 1957,
                 "points": 0,
                 "pb": 416321,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
-                "matches": 68,
-                "playtime": 37466886,
+                "matches": 69,
+                "playtime": 38084525,
                 "finished": 41,
                 "finishtime": 22427297,
                 "won": 43,
-                "lost": 21,
+                "lost": 22,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1779115805000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "bing_pigs",
+                    "elo": 1912,
+                    "change": -14,
+                    "oelo": 2105,
+                    "ochange": 14,
+                    "time": 617639,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1778877919000,
                     "type": "SHIPWRECK",
