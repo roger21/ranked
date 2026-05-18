@@ -2304,35 +2304,6 @@
         "lost": 2000,
         "forfeited": 1012
     },
-    "4f3e7905554345698e41f88caa4c088e": {
-        "nickname": "cofesho",
-        "country": "ca",
-        "top": {
-            "6": 1244,
-            "7": 1600,
-            "8": 1833,
-            "9": 2129,
-            "10": 2252,
-            "11": 1843
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 9,
-            "10": 14,
-            "11": 0
-        },
-        "pb": 407956,
-        "streak": 12,
-        "matches": 7669,
-        "playtime": 4706041775,
-        "finished": 2652,
-        "finishtime": 1822342149,
-        "won": 3625,
-        "lost": 3475,
-        "forfeited": 991
-    },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
         "country": "in",
@@ -6267,6 +6238,31 @@
         "won": 3811,
         "lost": 3504,
         "forfeited": 2133
+    },
+    "ef0c8ab50e8541e5a18e94373d409f47": {
+        "nickname": "Tadanoisikoro",
+        "country": "jp",
+        "top": {
+            "8": 1086,
+            "9": 1514,
+            "10": 2026,
+            "11": 1818
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+        },
+        "pb": 469848,
+        "streak": 11,
+        "matches": 847,
+        "playtime": 531856535,
+        "finished": 221,
+        "finishtime": 160793015,
+        "won": 383,
+        "lost": 324,
+        "forfeited": 197
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
