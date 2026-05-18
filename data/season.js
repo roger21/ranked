@@ -1,5 +1,5 @@
 {
-    "date": 1779112201000,
+    "date": 1779112801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -56921,7 +56921,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1926,
                 "top": 1957,
                 "points": 0,
@@ -57840,23 +57840,37 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 26,
-                "elo": 1922,
+                "rank": 23,
+                "elo": 1934,
                 "top": 2016,
                 "points": 0,
                 "pb": 444708,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 107,
-                "playtime": 61010031,
-                "finished": 58,
-                "finishtime": 32493342,
-                "won": 62,
+                "matches": 108,
+                "playtime": 61601531,
+                "finished": 59,
+                "finishtime": 33084842,
+                "won": 63,
                 "lost": 39,
                 "forfeited": 0
             },
             "country": "nl",
             "matches": [
+                {
+                    "date": 1779112939000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Frolde",
+                    "elo": 1934,
+                    "change": 12,
+                    "oelo": 1690,
+                    "ochange": -12,
+                    "time": 591500,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779112174000,
                     "type": "BURIED_TREASURE",
