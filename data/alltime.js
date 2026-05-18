@@ -2304,35 +2304,6 @@
         "lost": 2000,
         "forfeited": 1012
     },
-    "4f3e7905554345698e41f88caa4c088e": {
-        "nickname": "cofesho",
-        "country": "ca",
-        "top": {
-            "6": 1244,
-            "7": 1600,
-            "8": 1833,
-            "9": 2129,
-            "10": 2252,
-            "11": 1843
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 6,
-            "9": 9,
-            "10": 14,
-            "11": 0
-        },
-        "pb": 407956,
-        "streak": 12,
-        "matches": 7669,
-        "playtime": 4706041775,
-        "finished": 2652,
-        "finishtime": 1822342149,
-        "won": 3625,
-        "lost": 3475,
-        "forfeited": 991
-    },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
         "country": "in",
@@ -3260,11 +3231,11 @@
         },
         "pb": 386806,
         "streak": 12,
-        "matches": 6879,
-        "playtime": 4169751899,
+        "matches": 6880,
+        "playtime": 4170001611,
         "finished": 2676,
         "finishtime": 1839895793,
-        "won": 3577,
+        "won": 3578,
         "lost": 3061,
         "forfeited": 1057
     },
@@ -3293,13 +3264,13 @@
         },
         "pb": 399929,
         "streak": 14,
-        "matches": 10009,
-        "playtime": 5514289981,
+        "matches": 10010,
+        "playtime": 5514513141,
         "finished": 3333,
         "finishtime": 2041515808,
         "won": 4586,
-        "lost": 4440,
-        "forfeited": 2462
+        "lost": 4441,
+        "forfeited": 2463
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
