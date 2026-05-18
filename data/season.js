@@ -1,5 +1,5 @@
 {
-    "date": 1779105601000,
+    "date": 1779106201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -103907,23 +103907,37 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 46,
-                "elo": 1813,
+                "rank": 45,
+                "elo": 1827,
                 "top": 2001,
                 "points": 0,
                 "pb": 386806,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
-                "matches": 106,
-                "playtime": 55135780,
-                "finished": 49,
-                "finishtime": 26893925,
-                "won": 60,
+                "matches": 107,
+                "playtime": 55656819,
+                "finished": 50,
+                "finishtime": 27414964,
+                "won": 61,
                 "lost": 44,
                 "forfeited": 16
             },
             "country": "ro",
             "matches": [
+                {
+                    "date": 1779106415000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Boosfer",
+                    "elo": 1827,
+                    "change": 14,
+                    "oelo": 1614,
+                    "ochange": -14,
+                    "time": 521039,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779105374000,
                     "type": "SHIPWRECK",
