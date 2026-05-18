@@ -1,5 +1,5 @@
 {
-    "date": 1779095401000,
+    "date": 1779096001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -105185,23 +105185,37 @@
             "uuid": "4eea0516cb0c4c528cefe85448cac786",
             "nickname": "blobserr",
             "stats": {
-                "rank": 49,
-                "elo": 1806,
+                "rank": 67,
+                "elo": 1781,
                 "top": 1833,
                 "points": 0,
                 "pb": 492433,
-                "current": 2,
+                "current": 0,
                 "streak": 9,
-                "matches": 274,
-                "playtime": 175039903,
+                "matches": 275,
+                "playtime": 176058195,
                 "finished": 124,
                 "finishtime": 82793344,
                 "won": 141,
-                "lost": 126,
+                "lost": 127,
                 "forfeited": 0
             },
             "country": "vn",
             "matches": [
+                {
+                    "date": 1779096004000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "LawnMobius",
+                    "elo": 1781,
+                    "change": -25,
+                    "oelo": 1676,
+                    "ochange": 25,
+                    "time": 1018292,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779094729000,
                     "type": "RUINED_PORTAL",
