@@ -1497,31 +1497,6 @@
         "lost": 411,
         "forfeited": 52
     },
-    "373fddb563124e13b043ea9c571595cd": {
-        "nickname": "FuzzKing",
-        "country": "gl",
-        "top": {
-            "8": 1385,
-            "9": 1862,
-            "10": 2172,
-            "11": 1874
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 5,
-            "11": 0
-        },
-        "pb": 356932,
-        "streak": 10,
-        "matches": 3910,
-        "playtime": 2517095879,
-        "finished": 1341,
-        "finishtime": 955882344,
-        "won": 1856,
-        "lost": 1782,
-        "forfeited": 414
-    },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
         "country": "se",
