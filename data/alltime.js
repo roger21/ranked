@@ -1397,13 +1397,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 4080,
-        "playtime": 2549431028,
+        "matches": 4081,
+        "playtime": 2549645999,
         "finished": 1512,
         "finishtime": 1077561069,
         "won": 2058,
-        "lost": 1870,
-        "forfeited": 621
+        "lost": 1871,
+        "forfeited": 622
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -1482,6 +1482,31 @@
         "won": 587,
         "lost": 417,
         "forfeited": 52
+    },
+    "373fddb563124e13b043ea9c571595cd": {
+        "nickname": "FuzzKing",
+        "country": "gl",
+        "top": {
+            "8": 1385,
+            "9": 1862,
+            "10": 2172,
+            "11": 1874
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 5,
+            "11": 0
+        },
+        "pb": 356932,
+        "streak": 10,
+        "matches": 3946,
+        "playtime": 2538712743,
+        "finished": 1358,
+        "finishtime": 966690612,
+        "won": 1874,
+        "lost": 1799,
+        "forfeited": 418
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
@@ -3250,13 +3275,13 @@
         },
         "pb": 399929,
         "streak": 14,
-        "matches": 10046,
-        "playtime": 5534625000,
+        "matches": 10048,
+        "playtime": 5535229654,
         "finished": 3344,
         "finishtime": 2047374977,
         "won": 4601,
-        "lost": 4457,
-        "forfeited": 2469
+        "lost": 4459,
+        "forfeited": 2471
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -6188,13 +6213,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7546,
-        "playtime": 4177428362,
+        "matches": 7547,
+        "playtime": 4177639495,
         "finished": 2840,
         "finishtime": 1870480040,
         "won": 3814,
-        "lost": 3507,
-        "forfeited": 2136
+        "lost": 3508,
+        "forfeited": 2137
     },
     "eb136e7e26124f8daa99e521da609135": {
         "nickname": "Frolde",
