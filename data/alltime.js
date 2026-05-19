@@ -1208,12 +1208,12 @@
         },
         "pb": 430828,
         "streak": 12,
-        "matches": 8400,
-        "playtime": 6021648881,
+        "matches": 8401,
+        "playtime": 6022296369,
         "finished": 2981,
         "finishtime": 2402063493,
         "won": 4254,
-        "lost": 3879,
+        "lost": 3880,
         "forfeited": 260
     },
     "2ef2bfed3d084649b56290328970ace9": {
@@ -1397,13 +1397,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 4081,
-        "playtime": 2549645999,
+        "matches": 4082,
+        "playtime": 2550245972,
         "finished": 1512,
         "finishtime": 1077561069,
         "won": 2058,
-        "lost": 1871,
-        "forfeited": 622
+        "lost": 1872,
+        "forfeited": 623
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -1482,31 +1482,6 @@
         "won": 587,
         "lost": 417,
         "forfeited": 52
-    },
-    "373fddb563124e13b043ea9c571595cd": {
-        "nickname": "FuzzKing",
-        "country": "gl",
-        "top": {
-            "8": 1385,
-            "9": 1862,
-            "10": 2172,
-            "11": 1874
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 5,
-            "11": 0
-        },
-        "pb": 356932,
-        "streak": 10,
-        "matches": 3949,
-        "playtime": 2540695542,
-        "finished": 1360,
-        "finishtime": 967921634,
-        "won": 1876,
-        "lost": 1800,
-        "forfeited": 418
     },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
@@ -2314,6 +2289,43 @@
         "won": 2459,
         "lost": 2000,
         "forfeited": 1012
+    },
+    "4eea0516cb0c4c528cefe85448cac786": {
+        "nickname": "blobserr",
+        "country": "vn",
+        "top": {
+            "1": 1466,
+            "3": 1424,
+            "4": 1368,
+            "5": 1143,
+            "6": 1653,
+            "7": 1769,
+            "8": 1581,
+            "9": 1920,
+            "10": 2152,
+            "11": 1833
+        },
+        "points": {
+            "1": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 25,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+        },
+        "pb": 492433,
+        "streak": 11,
+        "matches": 3155,
+        "playtime": 2152802667,
+        "finished": 1195,
+        "finishtime": 889761732,
+        "won": 1620,
+        "lost": 1422,
+        "forfeited": 10
     },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
