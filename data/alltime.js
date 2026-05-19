@@ -1483,31 +1483,6 @@
         "lost": 417,
         "forfeited": 52
     },
-    "373fddb563124e13b043ea9c571595cd": {
-        "nickname": "FuzzKing",
-        "country": "gl",
-        "top": {
-            "8": 1385,
-            "9": 1862,
-            "10": 2172,
-            "11": 1874
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 5,
-            "11": 0
-        },
-        "pb": 356932,
-        "streak": 10,
-        "matches": 3944,
-        "playtime": 2537347490,
-        "finished": 1357,
-        "finishtime": 966118737,
-        "won": 1873,
-        "lost": 1798,
-        "forfeited": 418
-    },
     "388533d5a2ad4b349a31db4738670a4b": {
         "nickname": "v_strid",
         "country": "se",
@@ -2693,13 +2668,13 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 10775,
-        "playtime": 6711484090,
+        "matches": 10776,
+        "playtime": 6711864835,
         "finished": 3966,
         "finishtime": 2903799151,
         "won": 5356,
-        "lost": 5059,
-        "forfeited": 1702
+        "lost": 5060,
+        "forfeited": 1703
     },
     "60bfac463733422f8708733f3140cd94": {
         "nickname": "TheCrazedTank",
@@ -5685,11 +5660,11 @@
         },
         "pb": 492339,
         "streak": 13,
-        "matches": 1634,
-        "playtime": 1173499762,
-        "finished": 637,
-        "finishtime": 497601336,
-        "won": 860,
+        "matches": 1635,
+        "playtime": 1174118973,
+        "finished": 638,
+        "finishtime": 498220547,
+        "won": 861,
         "lost": 739,
         "forfeited": 71
     },
@@ -5952,11 +5927,11 @@
         },
         "pb": 345484,
         "streak": 12,
-        "matches": 12850,
-        "playtime": 8103335289,
-        "finished": 4590,
-        "finishtime": 3292572246,
-        "won": 6247,
+        "matches": 12851,
+        "playtime": 8103970580,
+        "finished": 4591,
+        "finishtime": 3293207537,
+        "won": 6248,
         "lost": 5910,
         "forfeited": 1687
     },
