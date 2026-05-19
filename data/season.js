@@ -1,5 +1,5 @@
 {
-    "date": 1779184201000,
+    "date": 1779184801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -94688,7 +94688,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1847,
                 "top": 1847,
                 "points": 0,
@@ -96811,7 +96811,7 @@
             "uuid": "2beddb5776d347b8b1f5ab0a71023f38",
             "nickname": "Poomy1234",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1839,
                 "top": 1839,
                 "points": 0,
@@ -97926,7 +97926,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1837,
                 "top": 1837,
                 "points": 0,
@@ -98705,23 +98705,37 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "vorbhfan3",
             "stats": {
-                "rank": 43,
-                "elo": 1835,
+                "rank": 40,
+                "elo": 1854,
                 "top": 1931,
                 "points": 0,
                 "pb": 395829,
-                "current": 4,
+                "current": 5,
                 "streak": 8,
-                "matches": 281,
-                "playtime": 159397277,
-                "finished": 125,
-                "finishtime": 72860357,
-                "won": 143,
+                "matches": 282,
+                "playtime": 160024261,
+                "finished": 126,
+                "finishtime": 73487341,
+                "won": 144,
                 "lost": 125,
                 "forfeited": 7
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1779184852000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "vorbhhater",
+                    "elo": 1854,
+                    "change": 19,
+                    "oelo": 1775,
+                    "ochange": -19,
+                    "time": 626984,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779184164000,
                     "type": "DESERT_TEMPLE",
