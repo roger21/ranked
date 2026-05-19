@@ -1,5 +1,5 @@
 {
-    "date": 1779178801000,
+    "date": 1779179402000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -94688,23 +94688,37 @@
             "uuid": "373fddb563124e13b043ea9c571595cd",
             "nickname": "FuzzKing",
             "stats": {
-                "rank": 40,
-                "elo": 1853,
+                "rank": 44,
+                "elo": 1830,
                 "top": 1874,
                 "points": 0,
                 "pb": 466378,
-                "current": 3,
+                "current": 0,
                 "streak": 6,
-                "matches": 354,
-                "playtime": 209069823,
+                "matches": 355,
+                "playtime": 209821600,
                 "finished": 147,
                 "finishtime": 93994206,
                 "won": 177,
-                "lost": 158,
+                "lost": 159,
                 "forfeited": 32
             },
             "country": "gl",
             "matches": [
+                {
+                    "date": 1779179406000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "blobserr",
+                    "elo": 1830,
+                    "change": -23,
+                    "oelo": 1806,
+                    "ochange": 23,
+                    "time": 751777,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779178597000,
                     "type": "VILLAGE",
@@ -99569,7 +99583,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1847,
                 "top": 1847,
                 "points": 0,
@@ -101692,7 +101706,7 @@
             "uuid": "2beddb5776d347b8b1f5ab0a71023f38",
             "nickname": "Poomy1234",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1839,
                 "top": 1839,
                 "points": 0,
@@ -102807,7 +102821,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 1837,
                 "top": 1837,
                 "points": 0,
@@ -103586,7 +103600,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1832,
                 "top": 1832,
                 "points": 0,
