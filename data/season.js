@@ -1,5 +1,5 @@
 {
-    "date": 1779154801000,
+    "date": 1779155401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -60197,7 +60197,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1910,
                 "top": 1910,
                 "points": 0,
@@ -61718,7 +61718,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 1902,
                 "top": 2006,
                 "points": 0,
@@ -63687,23 +63687,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 27,
-                "elo": 1900,
+                "rank": 25,
+                "elo": 1917,
                 "top": 2069,
                 "points": 0,
                 "pb": 423216,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 289,
-                "playtime": 168777381,
-                "finished": 139,
-                "finishtime": 84235654,
-                "won": 154,
+                "matches": 290,
+                "playtime": 169460289,
+                "finished": 140,
+                "finishtime": 84918562,
+                "won": 155,
                 "lost": 128,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1779155458000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "suravil",
+                    "elo": 1917,
+                    "change": 17,
+                    "oelo": 1795,
+                    "ochange": -17,
+                    "time": 682908,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779154495000,
                     "type": "DESERT_TEMPLE",
@@ -100548,23 +100562,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 44,
-                "elo": 1831,
+                "rank": 53,
+                "elo": 1809,
                 "top": 2003,
                 "points": 0,
                 "pb": 408840,
-                "current": 2,
+                "current": 0,
                 "streak": 11,
-                "matches": 337,
-                "playtime": 184130632,
+                "matches": 338,
+                "playtime": 184977211,
                 "finished": 169,
                 "finishtime": 95812919,
                 "won": 179,
-                "lost": 147,
+                "lost": 148,
                 "forfeited": 30
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1779155494000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "FuzzKing",
+                    "elo": 1809,
+                    "change": -22,
+                    "oelo": 1794,
+                    "ochange": 22,
+                    "time": 846579,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1779154408000,
                     "type": "DESERT_TEMPLE",
@@ -105219,7 +105247,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1829,
                 "top": 1848,
                 "points": 0,
@@ -106138,7 +106166,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1823,
                 "top": 1879,
                 "points": 0,
@@ -107113,7 +107141,7 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "vorbhfan",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1817,
                 "top": 1817,
                 "points": 0,
@@ -109754,7 +109782,7 @@
             "uuid": "74ce14cf794b431bb3e10d5311d0777f",
             "nickname": "Seauu",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1817,
                 "top": 1817,
                 "points": 0,
@@ -110267,7 +110295,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1816,
                 "top": 1816,
                 "points": 0,
@@ -110696,7 +110724,7 @@
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "nickname": "MrBudgiee",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1814,
                 "top": 1897,
                 "points": 0,
