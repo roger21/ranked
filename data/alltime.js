@@ -30,13 +30,13 @@
         },
         "pb": 392337,
         "streak": 13,
-        "matches": 5846,
-        "playtime": 3639658639,
+        "matches": 5847,
+        "playtime": 3640301899,
         "finished": 2270,
         "finishtime": 1580108443,
         "won": 2970,
-        "lost": 2724,
-        "forfeited": 580
+        "lost": 2725,
+        "forfeited": 581
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
@@ -1189,12 +1189,12 @@
         },
         "pb": 430828,
         "streak": 12,
-        "matches": 8449,
-        "playtime": 6053726501,
+        "matches": 8450,
+        "playtime": 6054381205,
         "finished": 2998,
         "finishtime": 2414589350,
         "won": 4276,
-        "lost": 3903,
+        "lost": 3904,
         "forfeited": 260
     },
     "2ef2bfed3d084649b56290328970ace9": {
@@ -1791,12 +1791,12 @@
         },
         "pb": 434759,
         "streak": 14,
-        "matches": 2063,
-        "playtime": 1428060089,
+        "matches": 2064,
+        "playtime": 1428603887,
         "finished": 787,
         "finishtime": 592071618,
         "won": 1038,
-        "lost": 901,
+        "lost": 902,
         "forfeited": 196
     },
     "410e5776b03a424d8740557bac2d9014": {
@@ -2218,11 +2218,11 @@
         },
         "pb": 372000,
         "streak": 11,
-        "matches": 3628,
-        "playtime": 2244922319,
-        "finished": 1478,
-        "finishtime": 979404862,
-        "won": 1895,
+        "matches": 3629,
+        "playtime": 2245466117,
+        "finished": 1479,
+        "finishtime": 979948660,
+        "won": 1896,
         "lost": 1623,
         "forfeited": 185
     },
@@ -4638,7 +4638,7 @@
             "8": 2464,
             "9": 2714,
             "10": 2808,
-            "11": 2311
+            "11": 2314
         },
         "points": {
             "3": 0,
@@ -4653,11 +4653,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4384,
-        "playtime": 2473653866,
+        "matches": 4385,
+        "playtime": 2474297126,
         "finished": 2579,
         "finishtime": 1492933191,
-        "won": 2996,
+        "won": 2997,
         "lost": 1317,
         "forfeited": 40
     },
