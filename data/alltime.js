@@ -2688,12 +2688,12 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 10790,
-        "playtime": 6720554351,
+        "matches": 10791,
+        "playtime": 6721103436,
         "finished": 3971,
         "finishtime": 2906896442,
         "won": 5363,
-        "lost": 5066,
+        "lost": 5067,
         "forfeited": 1704
     },
     "60bfac463733422f8708733f3140cd94": {
@@ -4209,12 +4209,12 @@
         },
         "pb": 418867,
         "streak": 18,
-        "matches": 5170,
-        "playtime": 3281570104,
+        "matches": 5171,
+        "playtime": 3282160167,
         "finished": 1714,
         "finishtime": 1301321166,
         "won": 2635,
-        "lost": 2370,
+        "lost": 2371,
         "forfeited": 1106
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
@@ -4791,7 +4791,7 @@
             "8": 2025,
             "9": 2297,
             "10": 2331,
-            "11": 1808
+            "11": 1828
         },
         "points": {
             "4": 0,
@@ -4805,11 +4805,11 @@
         },
         "pb": 412015,
         "streak": 11,
-        "matches": 5700,
-        "playtime": 3433089410,
-        "finished": 2138,
-        "finishtime": 1444492773,
-        "won": 2866,
+        "matches": 5701,
+        "playtime": 3433676945,
+        "finished": 2139,
+        "finishtime": 1445080308,
+        "won": 2867,
         "lost": 2622,
         "forfeited": 752
     },
@@ -6066,13 +6066,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9157,
-        "playtime": 5631094562,
+        "matches": 9158,
+        "playtime": 5631510007,
         "finished": 3982,
         "finishtime": 2678172937,
         "won": 4889,
-        "lost": 4125,
-        "forfeited": 949
+        "lost": 4126,
+        "forfeited": 950
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
@@ -6216,13 +6216,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7627,
-        "playtime": 4216731216,
+        "matches": 7628,
+        "playtime": 4217179493,
         "finished": 2860,
         "finishtime": 1883045390,
         "won": 3848,
-        "lost": 3548,
-        "forfeited": 2167
+        "lost": 3549,
+        "forfeited": 2168
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
