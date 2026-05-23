@@ -661,13 +661,13 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 5209,
-        "playtime": 3513287893,
+        "matches": 5210,
+        "playtime": 3513591626,
         "finished": 1624,
         "finishtime": 1246414554,
         "won": 2571,
-        "lost": 2305,
-        "forfeited": 735
+        "lost": 2306,
+        "forfeited": 736
     },
     "132807fea3a54a02b6b1ad057430b002": {
         "nickname": "ulqt",
@@ -5087,13 +5087,13 @@
         },
         "pb": 404473,
         "streak": 17,
-        "matches": 8755,
-        "playtime": 5107202736,
-        "finished": 3381,
-        "finishtime": 2252370056,
-        "won": 4441,
-        "lost": 4038,
-        "forfeited": 1357
+        "matches": 8757,
+        "playtime": 5107937213,
+        "finished": 3382,
+        "finishtime": 2252894358,
+        "won": 4442,
+        "lost": 4039,
+        "forfeited": 1358
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
         "nickname": "Sadekeppi",
