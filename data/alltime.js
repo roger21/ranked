@@ -143,45 +143,6 @@
         "lost": 1752,
         "forfeited": 723
     },
-    "0562802e736e47c581b2ef095e2ed067": {
-        "nickname": "subdas",
-        "country": "br",
-        "top": {
-            "1": 1448,
-            "2": 1459,
-            "3": 1229,
-            "4": 1440,
-            "5": 1805,
-            "6": 1743,
-            "7": 1698,
-            "8": 1894,
-            "9": 2298,
-            "10": 2412,
-            "11": 2067
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 5,
-            "7": 0,
-            "8": 15,
-            "9": 13,
-            "10": 19,
-            "11": 0
-        },
-        "pb": 396880,
-        "streak": 13,
-        "matches": 7474,
-        "playtime": 4300789250,
-        "finished": 2736,
-        "finishtime": 1797173009,
-        "won": 3733,
-        "lost": 3542,
-        "forfeited": 1503
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "it",
@@ -443,13 +404,13 @@
         },
         "pb": 434589,
         "streak": 15,
-        "matches": 2723,
-        "playtime": 1906691463,
+        "matches": 2724,
+        "playtime": 1907722981,
         "finished": 1047,
         "finishtime": 807825483,
         "won": 1468,
-        "lost": 1189,
-        "forfeited": 58
+        "lost": 1190,
+        "forfeited": 59
     },
     "0c35dc5580aa402c863cfe8d89b81704": {
         "nickname": "wethr",
@@ -3118,13 +3079,13 @@
         },
         "pb": 514784,
         "streak": 12,
-        "matches": 4036,
-        "playtime": 2599484975,
+        "matches": 4037,
+        "playtime": 2599999652,
         "finished": 1429,
         "finishtime": 1105822957,
         "won": 2066,
-        "lost": 1864,
-        "forfeited": 747
+        "lost": 1865,
+        "forfeited": 748
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -3653,13 +3614,13 @@
         },
         "pb": 444127,
         "streak": 10,
-        "matches": 5065,
-        "playtime": 3381233445,
+        "matches": 5066,
+        "playtime": 3381519408,
         "finished": 1527,
         "finishtime": 1225208950,
         "won": 2476,
-        "lost": 2339,
-        "forfeited": 767
+        "lost": 2340,
+        "forfeited": 768
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "W_edcrGPT",
@@ -5299,12 +5260,12 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 7185,
-        "playtime": 3760670281,
+        "matches": 7186,
+        "playtime": 3761203129,
         "finished": 2022,
         "finishtime": 1340939718,
         "won": 3427,
-        "lost": 3341,
+        "lost": 3342,
         "forfeited": 2524
     },
     "be4ad7e999e14a74974d47ac650062a3": {
