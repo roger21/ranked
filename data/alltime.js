@@ -1491,11 +1491,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 20211,
-        "playtime": 12504242648,
+        "matches": 20212,
+        "playtime": 12504541343,
         "finished": 8793,
         "finishtime": 5877479217,
-        "won": 11109,
+        "won": 11110,
         "lost": 8811,
         "forfeited": 1200
     },
@@ -2672,12 +2672,12 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 10834,
-        "playtime": 6746780497,
+        "matches": 10835,
+        "playtime": 6747378825,
         "finished": 3989,
         "finishtime": 2918783909,
         "won": 5386,
-        "lost": 5085,
+        "lost": 5086,
         "forfeited": 1707
     },
     "60bfac463733422f8708733f3140cd94": {
@@ -4828,13 +4828,13 @@
         },
         "pb": 412015,
         "streak": 11,
-        "matches": 5770,
-        "playtime": 3471946294,
+        "matches": 5771,
+        "playtime": 3472297583,
         "finished": 2169,
         "finishtime": 1463095948,
         "won": 2900,
-        "lost": 2656,
-        "forfeited": 761
+        "lost": 2657,
+        "forfeited": 762
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -5509,12 +5509,12 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4446,
-        "playtime": 2596795324,
+        "matches": 4447,
+        "playtime": 2597390609,
         "finished": 1518,
         "finishtime": 1057119691,
         "won": 2127,
-        "lost": 2045,
+        "lost": 2046,
         "forfeited": 1120
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
@@ -5902,13 +5902,13 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1794,
-        "playtime": 1105867267,
+        "matches": 1795,
+        "playtime": 1106165962,
         "finished": 772,
         "finishtime": 508550560,
         "won": 965,
-        "lost": 758,
-        "forfeited": 127
+        "lost": 759,
+        "forfeited": 128
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "zorn89",
