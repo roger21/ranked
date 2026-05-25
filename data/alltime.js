@@ -30,13 +30,13 @@
         },
         "pb": 392337,
         "streak": 13,
-        "matches": 5919,
-        "playtime": 3679620346,
+        "matches": 5920,
+        "playtime": 3680131750,
         "finished": 2295,
         "finishtime": 1595650740,
         "won": 2998,
-        "lost": 2767,
-        "forfeited": 605
+        "lost": 2768,
+        "forfeited": 606
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
