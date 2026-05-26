@@ -877,13 +877,13 @@
         },
         "pb": 426663,
         "streak": 13,
-        "matches": 3650,
-        "playtime": 2378622758,
+        "matches": 3651,
+        "playtime": 2378979649,
         "finished": 1276,
         "finishtime": 951460635,
         "won": 1847,
-        "lost": 1655,
-        "forfeited": 359
+        "lost": 1656,
+        "forfeited": 360
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
@@ -994,12 +994,12 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2104,
-        "playtime": 1537543806,
+        "matches": 2105,
+        "playtime": 1538402144,
         "finished": 725,
         "finishtime": 602980965,
         "won": 1061,
-        "lost": 898,
+        "lost": 899,
         "forfeited": 100
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
