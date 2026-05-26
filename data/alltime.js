@@ -1647,11 +1647,11 @@
         },
         "pb": 491988,
         "streak": 12,
-        "matches": 3296,
-        "playtime": 2290706533,
+        "matches": 3297,
+        "playtime": 2291003889,
         "finished": 1182,
         "finishtime": 908412457,
-        "won": 1700,
+        "won": 1701,
         "lost": 1477,
         "forfeited": 106
     },
@@ -6247,12 +6247,12 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7678,
-        "playtime": 4241529272,
+        "matches": 7679,
+        "playtime": 4242189573,
         "finished": 2883,
         "finishtime": 1896987061,
         "won": 3876,
-        "lost": 3568,
+        "lost": 3569,
         "forfeited": 2180
     },
     "f1611fd339b1401f84154afee3a5f14a": {
@@ -6379,13 +6379,13 @@
         },
         "pb": 455391,
         "streak": 11,
-        "matches": 3947,
-        "playtime": 2611531838,
+        "matches": 3948,
+        "playtime": 2612124041,
         "finished": 1475,
         "finishtime": 1133492729,
         "won": 2077,
-        "lost": 1783,
-        "forfeited": 498
+        "lost": 1784,
+        "forfeited": 499
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "TuCarta",
