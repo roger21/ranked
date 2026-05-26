@@ -1647,12 +1647,12 @@
         },
         "pb": 491988,
         "streak": 12,
-        "matches": 3283,
-        "playtime": 2281891979,
+        "matches": 3284,
+        "playtime": 2282495622,
         "finished": 1176,
         "finishtime": 904216790,
         "won": 1693,
-        "lost": 1471,
+        "lost": 1472,
         "forfeited": 106
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -2604,11 +2604,11 @@
         },
         "pb": 413832,
         "streak": 10,
-        "matches": 1462,
-        "playtime": 881516198,
+        "matches": 1463,
+        "playtime": 881787295,
         "finished": 615,
         "finishtime": 415589988,
-        "won": 822,
+        "won": 823,
         "lost": 578,
         "forfeited": 206
     },
@@ -4277,12 +4277,12 @@
         },
         "pb": 415830,
         "streak": 13,
-        "matches": 7191,
-        "playtime": 4379403982,
+        "matches": 7192,
+        "playtime": 4380187672,
         "finished": 2482,
         "finishtime": 1762387013,
         "won": 3533,
-        "lost": 3266,
+        "lost": 3267,
         "forfeited": 1328
     },
     "a0a672a0bc194540bc195220dc170dba": {
@@ -4799,13 +4799,13 @@
         },
         "pb": 412015,
         "streak": 11,
-        "matches": 5803,
-        "playtime": 3490749358,
+        "matches": 5804,
+        "playtime": 3490959624,
         "finished": 2182,
         "finishtime": 1471152116,
         "won": 2914,
-        "lost": 2675,
-        "forfeited": 767
+        "lost": 2676,
+        "forfeited": 768
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -6060,13 +6060,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9250,
-        "playtime": 5680586652,
+        "matches": 9251,
+        "playtime": 5680857749,
         "finished": 4026,
         "finishtime": 2703791091,
         "won": 4940,
-        "lost": 4166,
-        "forfeited": 964
+        "lost": 4167,
+        "forfeited": 965
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
