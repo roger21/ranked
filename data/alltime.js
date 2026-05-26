@@ -955,12 +955,12 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2098,
-        "playtime": 1533333477,
+        "matches": 2099,
+        "playtime": 1533922726,
         "finished": 724,
         "finishtime": 602356743,
         "won": 1060,
-        "lost": 894,
+        "lost": 895,
         "forfeited": 100
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -1491,11 +1491,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 20247,
-        "playtime": 12525419061,
+        "matches": 20248,
+        "playtime": 12525677967,
         "finished": 8810,
         "finishtime": 5888175984,
-        "won": 11130,
+        "won": 11131,
         "lost": 8826,
         "forfeited": 1200
     },
@@ -5873,13 +5873,13 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1822,
-        "playtime": 1121027868,
+        "matches": 1823,
+        "playtime": 1121286774,
         "finished": 784,
         "finishtime": 515462672,
         "won": 978,
-        "lost": 771,
-        "forfeited": 129
+        "lost": 772,
+        "forfeited": 130
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "zorn89",
