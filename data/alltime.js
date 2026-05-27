@@ -67,13 +67,13 @@
         },
         "pb": 416164,
         "streak": 12,
-        "matches": 8389,
-        "playtime": 5445869576,
+        "matches": 8390,
+        "playtime": 5446615085,
         "finished": 3007,
         "finishtime": 2213185321,
         "won": 4188,
-        "lost": 3929,
-        "forfeited": 857
+        "lost": 3930,
+        "forfeited": 858
     },
     "0478fbcaf4da4cf983e1be6d6e11678c": {
         "nickname": "_KrakerS",
