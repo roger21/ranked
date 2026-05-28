@@ -30,12 +30,12 @@
         },
         "pb": 392337,
         "streak": 13,
-        "matches": 5945,
-        "playtime": 3693679180,
+        "matches": 5946,
+        "playtime": 3694376907,
         "finished": 2304,
         "finishtime": 1601628160,
         "won": 3011,
-        "lost": 2780,
+        "lost": 2781,
         "forfeited": 612
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
@@ -3954,7 +3954,7 @@
             "8": 1801,
             "9": 2052,
             "10": 2121,
-            "11": 1841
+            "11": 1858
         },
         "points": {
             "3": 0,
@@ -3969,11 +3969,11 @@
         },
         "pb": 430963,
         "streak": 12,
-        "matches": 3504,
-        "playtime": 2277244563,
+        "matches": 3505,
+        "playtime": 2277808447,
         "finished": 1349,
         "finishtime": 947358609,
-        "won": 1793,
+        "won": 1794,
         "lost": 1563,
         "forfeited": 71
     },
@@ -6023,11 +6023,11 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9279,
-        "playtime": 5696476446,
-        "finished": 4038,
-        "finishtime": 2711459924,
-        "won": 4953,
+        "matches": 9280,
+        "playtime": 5696991584,
+        "finished": 4039,
+        "finishtime": 2711975062,
+        "won": 4954,
         "lost": 4182,
         "forfeited": 969
     },
@@ -6173,13 +6173,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7714,
-        "playtime": 4258439106,
+        "matches": 7715,
+        "playtime": 4259191714,
         "finished": 2895,
         "finishtime": 1904094043,
         "won": 3893,
-        "lost": 3586,
-        "forfeited": 2192
+        "lost": 3587,
+        "forfeited": 2193
     },
     "f0103fdd182548828ba66883fdd05214": {
         "nickname": "Magmania",
