@@ -30,13 +30,13 @@
         },
         "pb": 392337,
         "streak": 13,
-        "matches": 5951,
-        "playtime": 3697458064,
+        "matches": 5952,
+        "playtime": 3697841160,
         "finished": 2308,
         "finishtime": 1604109901,
         "won": 3015,
-        "lost": 2782,
-        "forfeited": 612
+        "lost": 2783,
+        "forfeited": 613
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
@@ -1754,11 +1754,11 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 11349,
-        "playtime": 7086639129,
+        "matches": 11350,
+        "playtime": 7087022225,
         "finished": 4239,
         "finishtime": 2983569929,
-        "won": 5654,
+        "won": 5655,
         "lost": 5322,
         "forfeited": 1557
     },
@@ -6023,11 +6023,11 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9283,
-        "playtime": 5698682849,
-        "finished": 4041,
-        "finishtime": 2712999236,
-        "won": 4956,
+        "matches": 9284,
+        "playtime": 5699304684,
+        "finished": 4042,
+        "finishtime": 2713621071,
+        "won": 4957,
         "lost": 4183,
         "forfeited": 970
     },
@@ -6180,35 +6180,6 @@
         "won": 3894,
         "lost": 3587,
         "forfeited": 2193
-    },
-    "f0103fdd182548828ba66883fdd05214": {
-        "nickname": "Magmania",
-        "country": "au",
-        "top": {
-            "5": 0,
-            "6": 1257,
-            "7": 1598,
-            "9": 1996,
-            "10": 2199,
-            "11": 1903
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 400010,
-        "streak": 9,
-        "matches": 4747,
-        "playtime": 2903407450,
-        "finished": 1583,
-        "finishtime": 1048667558,
-        "won": 2220,
-        "lost": 2062,
-        "forfeited": 631
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
