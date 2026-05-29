@@ -2692,7 +2692,7 @@
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
         "nickname": "edcr",
-        "country": "no",
+        "country": "gb",
         "top": {
             "6": 1582,
             "7": 2203,
@@ -4248,13 +4248,13 @@
         },
         "pb": 415830,
         "streak": 13,
-        "matches": 7227,
-        "playtime": 4400035214,
+        "matches": 7228,
+        "playtime": 4400482037,
         "finished": 2496,
         "finishtime": 1770210393,
         "won": 3549,
-        "lost": 3284,
-        "forfeited": 1329
+        "lost": 3285,
+        "forfeited": 1330
     },
     "a0a672a0bc194540bc195220dc170dba": {
         "nickname": "JackoWacko62",
