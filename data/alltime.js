@@ -2421,13 +2421,13 @@
         },
         "pb": 421423,
         "streak": 19,
-        "matches": 1939,
-        "playtime": 1152671594,
+        "matches": 1940,
+        "playtime": 1152971783,
         "finished": 755,
         "finishtime": 520645908,
         "won": 1050,
-        "lost": 822,
-        "forfeited": 359
+        "lost": 823,
+        "forfeited": 360
     },
     "59f81e4943014bffa80513d56de77728": {
         "nickname": "ninaknowswhen",
@@ -3305,12 +3305,12 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 5525,
-        "playtime": 3285215198,
+        "matches": 5526,
+        "playtime": 3285750523,
         "finished": 2072,
         "finishtime": 1478851593,
         "won": 2871,
-        "lost": 2502,
+        "lost": 2503,
         "forfeited": 1098
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -3478,12 +3478,12 @@
         },
         "pb": 411269,
         "streak": 10,
-        "matches": 4405,
-        "playtime": 2573539967,
+        "matches": 4406,
+        "playtime": 2574463059,
         "finished": 1594,
         "finishtime": 1042351176,
         "won": 2143,
-        "lost": 2008,
+        "lost": 2009,
         "forfeited": 906
     },
     "82a111625c614f31a44789d5464a969a": {
@@ -4248,12 +4248,12 @@
         },
         "pb": 415830,
         "streak": 13,
-        "matches": 7238,
-        "playtime": 4406845400,
+        "matches": 7239,
+        "playtime": 4407575342,
         "finished": 2501,
         "finishtime": 1773209826,
         "won": 3554,
-        "lost": 3290,
+        "lost": 3291,
         "forfeited": 1330
     },
     "a0a672a0bc194540bc195220dc170dba": {
@@ -6144,13 +6144,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7751,
-        "playtime": 4277211488,
+        "matches": 7752,
+        "playtime": 4277834360,
         "finished": 2907,
         "finishtime": 1911415069,
         "won": 3908,
-        "lost": 3608,
-        "forfeited": 2212
+        "lost": 3609,
+        "forfeited": 2213
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
