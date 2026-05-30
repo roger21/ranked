@@ -2210,12 +2210,12 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 4314,
-        "playtime": 3094974882,
+        "matches": 4315,
+        "playtime": 3095888135,
         "finished": 1365,
         "finishtime": 1152164470,
         "won": 2161,
-        "lost": 1945,
+        "lost": 1946,
         "forfeited": 348
     },
     "4cf401d7b9474756b06a653867d22fca": {
@@ -2596,13 +2596,13 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 8094,
-        "playtime": 4976735327,
+        "matches": 8095,
+        "playtime": 4976947628,
         "finished": 3307,
         "finishtime": 2240010398,
         "won": 4215,
-        "lost": 3685,
-        "forfeited": 961
+        "lost": 3686,
+        "forfeited": 962
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
@@ -3692,11 +3692,11 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 5780,
-        "playtime": 3722762280,
+        "matches": 5782,
+        "playtime": 3723544510,
         "finished": 2088,
         "finishtime": 1458609389,
-        "won": 2825,
+        "won": 2826,
         "lost": 2559,
         "forfeited": 184
     },
@@ -4117,13 +4117,13 @@
         },
         "pb": 439571,
         "streak": 11,
-        "matches": 6334,
-        "playtime": 3931096961,
+        "matches": 6335,
+        "playtime": 3932006882,
         "finished": 2325,
         "finishtime": 1646533621,
         "won": 3150,
-        "lost": 2908,
-        "forfeited": 1008
+        "lost": 2909,
+        "forfeited": 1009
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
