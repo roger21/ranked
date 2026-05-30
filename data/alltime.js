@@ -2203,7 +2203,7 @@
             "8": 2187,
             "9": 2355,
             "10": 2592,
-            "11": 2081
+            "11": 2104
         },
         "points": {
             "1": 0,
@@ -2220,11 +2220,11 @@
         },
         "pb": 359485,
         "streak": 13,
-        "matches": 4639,
-        "playtime": 2581648036,
-        "finished": 2019,
-        "finishtime": 1266289383,
-        "won": 2487,
+        "matches": 4640,
+        "playtime": 2582269737,
+        "finished": 2020,
+        "finishtime": 1266911084,
+        "won": 2488,
         "lost": 2015,
         "forfeited": 1021
     },
@@ -2257,12 +2257,12 @@
         },
         "pb": 492433,
         "streak": 11,
-        "matches": 3236,
-        "playtime": 2205182036,
+        "matches": 3237,
+        "playtime": 2205754884,
         "finished": 1235,
         "finishtime": 916766803,
         "won": 1663,
-        "lost": 1458,
+        "lost": 1459,
         "forfeited": 10
     },
     "529c478ae270415ba12044771a99249a": {
@@ -4766,12 +4766,12 @@
         },
         "pb": 378785,
         "streak": 15,
-        "matches": 5932,
-        "playtime": 3776745734,
+        "matches": 5933,
+        "playtime": 3777367435,
         "finished": 2370,
         "finishtime": 1593877806,
         "won": 3172,
-        "lost": 2521,
+        "lost": 2522,
         "forfeited": 284
     },
     "addd890764404097b3f12acdde2adf33": {
@@ -5581,13 +5581,13 @@
         },
         "pb": 391139,
         "streak": 10,
-        "matches": 2469,
-        "playtime": 1458165544,
+        "matches": 2470,
+        "playtime": 1458619843,
         "finished": 872,
         "finishtime": 587120345,
         "won": 1228,
-        "lost": 1099,
-        "forfeited": 421
+        "lost": 1100,
+        "forfeited": 422
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
