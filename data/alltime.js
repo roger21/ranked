@@ -838,13 +838,13 @@
         },
         "pb": 426663,
         "streak": 13,
-        "matches": 3673,
-        "playtime": 2392865258,
+        "matches": 3674,
+        "playtime": 2393269027,
         "finished": 1290,
         "finishtime": 960700502,
         "won": 1862,
-        "lost": 1663,
-        "forfeited": 363
+        "lost": 1664,
+        "forfeited": 364
     },
     "23e7466f0a1b4597bf89c17d53c4d0ae": {
         "nickname": "Lexanh",
@@ -1403,13 +1403,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 4167,
-        "playtime": 2597909481,
+        "matches": 4168,
+        "playtime": 2598526276,
         "finished": 1547,
         "finishtime": 1099997341,
         "won": 2101,
-        "lost": 1909,
-        "forfeited": 637
+        "lost": 1910,
+        "forfeited": 638
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -4039,12 +4039,12 @@
         },
         "pb": 403425,
         "streak": 14,
-        "matches": 9476,
-        "playtime": 5870325387,
+        "matches": 9477,
+        "playtime": 5870918672,
         "finished": 3728,
         "finishtime": 2508792395,
         "won": 4725,
-        "lost": 4408,
+        "lost": 4409,
         "forfeited": 880
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
