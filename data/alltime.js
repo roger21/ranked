@@ -2208,8 +2208,8 @@
         },
         "pb": 482535,
         "streak": 11,
-        "matches": 4315,
-        "playtime": 3095888135,
+        "matches": 4316,
+        "playtime": 3096183566,
         "finished": 1365,
         "finishtime": 1152164470,
         "won": 2161,
@@ -4658,7 +4658,7 @@
             "8": 1763,
             "9": 1923,
             "10": 2098,
-            "11": 1925
+            "11": 1941
         },
         "points": {
             "6": 0,
@@ -4670,13 +4670,13 @@
         },
         "pb": 386516,
         "streak": 16,
-        "matches": 7577,
-        "playtime": 4753592302,
-        "finished": 2076,
-        "finishtime": 1521728006,
-        "won": 3528,
-        "lost": 3469,
-        "forfeited": 1761
+        "matches": 7579,
+        "playtime": 4754575446,
+        "finished": 2077,
+        "finishtime": 1522319752,
+        "won": 3529,
+        "lost": 3470,
+        "forfeited": 1762
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
@@ -5128,7 +5128,7 @@
             "8": 1694,
             "9": 1922,
             "10": 2108,
-            "11": 1897
+            "11": 1921
         },
         "points": {
             "1": 0,
@@ -5145,11 +5145,11 @@
         },
         "pb": 448114,
         "streak": 12,
-        "matches": 1037,
-        "playtime": 693061233,
+        "matches": 1038,
+        "playtime": 693372884,
         "finished": 431,
         "finishtime": 322677942,
-        "won": 605,
+        "won": 606,
         "lost": 395,
         "forfeited": 63
     },
@@ -5567,13 +5567,13 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 5977,
-        "playtime": 3378079950,
+        "matches": 5978,
+        "playtime": 3378391601,
         "finished": 2371,
         "finishtime": 1565068919,
         "won": 3117,
-        "lost": 2672,
-        "forfeited": 1254
+        "lost": 2673,
+        "forfeited": 1255
     },
     "cf1102ea451241d187aaa62e05cab5c3": {
         "nickname": "nonsochiamaa",
@@ -5754,12 +5754,12 @@
         },
         "pb": 425520,
         "streak": 14,
-        "matches": 8914,
-        "playtime": 5716792953,
+        "matches": 8915,
+        "playtime": 5717384699,
         "finished": 3078,
         "finishtime": 2219437901,
         "won": 4420,
-        "lost": 4101,
+        "lost": 4102,
         "forfeited": 1114
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
