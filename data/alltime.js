@@ -2915,12 +2915,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7097,
-        "playtime": 4549825989,
+        "matches": 7098,
+        "playtime": 4550674608,
         "finished": 2508,
         "finishtime": 1840405262,
         "won": 3574,
-        "lost": 3231,
+        "lost": 3232,
         "forfeited": 821
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3211,11 +3211,11 @@
         },
         "pb": 386806,
         "streak": 12,
-        "matches": 6948,
-        "playtime": 4203840114,
+        "matches": 6949,
+        "playtime": 4204050212,
         "finished": 2703,
         "finishtime": 1855506911,
-        "won": 3611,
+        "won": 3612,
         "lost": 3092,
         "forfeited": 1075
     },
@@ -3719,12 +3719,12 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 5815,
-        "playtime": 3742122969,
+        "matches": 5816,
+        "playtime": 3742701146,
         "finished": 2099,
         "finishtime": 1465580094,
         "won": 2842,
-        "lost": 2574,
+        "lost": 2575,
         "forfeited": 185
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -5102,13 +5102,13 @@
         },
         "pb": 399463,
         "streak": 17,
-        "matches": 8899,
-        "playtime": 5183609647,
+        "matches": 8900,
+        "playtime": 5183819745,
         "finished": 3435,
         "finishtime": 2284007402,
         "won": 4509,
-        "lost": 4110,
-        "forfeited": 1394
+        "lost": 4111,
+        "forfeited": 1395
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
         "nickname": "Sadekeppi",
@@ -5495,13 +5495,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4596,
-        "playtime": 2673613448,
+        "matches": 4597,
+        "playtime": 2673859730,
         "finished": 1582,
         "finishtime": 1096691729,
         "won": 2204,
-        "lost": 2114,
-        "forfeited": 1160
+        "lost": 2115,
+        "forfeited": 1161
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
