@@ -906,11 +906,11 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 8511,
-        "playtime": 5174874217,
-        "finished": 3328,
-        "finishtime": 2224432333,
-        "won": 4280,
+        "matches": 8512,
+        "playtime": 5175456615,
+        "finished": 3329,
+        "finishtime": 2225014731,
+        "won": 4281,
         "lost": 3860,
         "forfeited": 817
     },
@@ -4434,7 +4434,7 @@
         "forfeited": 123
     },
     "a501fd2185d94d3591ac9075880d6350": {
-        "nickname": "AkaStu",
+        "nickname": "KostuGaming",
         "country": "pl",
         "top": {
             "1": 1576,
