@@ -100,13 +100,13 @@
         },
         "pb": 455087,
         "streak": 13,
-        "matches": 2692,
-        "playtime": 1779180114,
+        "matches": 2693,
+        "playtime": 1779501722,
         "finished": 854,
         "finishtime": 641349035,
         "won": 1289,
-        "lost": 1186,
-        "forfeited": 259
+        "lost": 1187,
+        "forfeited": 260
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "SocratesDisciple",
@@ -2129,7 +2129,7 @@
             "8": 1201,
             "9": 1740,
             "10": 2019,
-            "11": 1934
+            "11": 1947
         },
         "points": {
             "7": 0,
@@ -2140,11 +2140,11 @@
         },
         "pb": 470307,
         "streak": 11,
-        "matches": 5327,
-        "playtime": 3412266695,
+        "matches": 5328,
+        "playtime": 3412588303,
         "finished": 1566,
         "finishtime": 1238901607,
-        "won": 2542,
+        "won": 2543,
         "lost": 2465,
         "forfeited": 1349
     },
@@ -3186,13 +3186,13 @@
         },
         "pb": 399929,
         "streak": 14,
-        "matches": 10345,
-        "playtime": 5685225917,
+        "matches": 10346,
+        "playtime": 5685827169,
         "finished": 3455,
         "finishtime": 2104499111,
         "won": 4732,
-        "lost": 4578,
-        "forfeited": 2538
+        "lost": 4579,
+        "forfeited": 2539
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -5256,13 +5256,13 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 1323,
-        "playtime": 796354529,
+        "matches": 1324,
+        "playtime": 796777996,
         "finished": 596,
         "finishtime": 385212888,
         "won": 773,
-        "lost": 511,
-        "forfeited": 59
+        "lost": 512,
+        "forfeited": 60
     },
     "c32cdd142a0147dcb91771319d745194": {
         "nickname": "Erikfzf",
@@ -5437,11 +5437,11 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4615,
-        "playtime": 2684400302,
+        "matches": 4616,
+        "playtime": 2684823769,
         "finished": 1591,
         "finishtime": 1101910959,
-        "won": 2213,
+        "won": 2214,
         "lost": 2123,
         "forfeited": 1162
     },
