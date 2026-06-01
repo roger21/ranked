@@ -3557,7 +3557,7 @@
         "forfeited": 770
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
-        "nickname": "W_edcrGPT",
+        "nickname": "karatebaby_",
         "country": "vn",
         "top": {
             "1": 1649,
@@ -6379,8 +6379,8 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 8757,
-        "playtime": 5573565640,
+        "matches": 8758,
+        "playtime": 5573871328,
         "finished": 3010,
         "finishtime": 2211588203,
         "won": 4325,
@@ -6401,7 +6401,7 @@
             "8": 1672,
             "9": 2102,
             "10": 2208,
-            "11": 2090
+            "11": 2098
         },
         "points": {
             "1": 0,
@@ -6418,11 +6418,11 @@
         },
         "pb": 426548,
         "streak": 14,
-        "matches": 2932,
-        "playtime": 1988486153,
-        "finished": 1036,
-        "finishtime": 779473278,
-        "won": 1516,
+        "matches": 2933,
+        "playtime": 1989124499,
+        "finished": 1037,
+        "finishtime": 780111624,
+        "won": 1517,
         "lost": 1260,
         "forfeited": 204
     }
