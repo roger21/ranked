@@ -4519,11 +4519,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4461,
-        "playtime": 2515784027,
+        "matches": 4462,
+        "playtime": 2516058318,
         "finished": 2617,
         "finishtime": 1514559208,
-        "won": 3041,
+        "won": 3042,
         "lost": 1348,
         "forfeited": 40
     },
@@ -5410,13 +5410,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4682,
-        "playtime": 2718306997,
+        "matches": 4683,
+        "playtime": 2718634488,
         "finished": 1615,
         "finishtime": 1117044348,
         "won": 2244,
-        "lost": 2156,
-        "forfeited": 1180
+        "lost": 2157,
+        "forfeited": 1181
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
@@ -5478,13 +5478,13 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 6004,
-        "playtime": 3392350097,
+        "matches": 6005,
+        "playtime": 3392624388,
         "finished": 2386,
         "finishtime": 1573830657,
         "won": 3134,
-        "lost": 2682,
-        "forfeited": 1258
+        "lost": 2683,
+        "forfeited": 1259
     },
     "cdf98ee293f3483fa3890bb3582dbda3": {
         "nickname": "NoHacsJustRoblox",
