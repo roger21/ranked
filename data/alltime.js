@@ -174,12 +174,12 @@
         },
         "pb": 396880,
         "streak": 13,
-        "matches": 7724,
-        "playtime": 4438359066,
+        "matches": 7726,
+        "playtime": 4439066077,
         "finished": 2852,
         "finishtime": 1866246111,
-        "won": 3867,
-        "lost": 3654,
+        "won": 3868,
+        "lost": 3655,
         "forfeited": 1545
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -5478,13 +5478,13 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 5998,
-        "playtime": 3389225523,
+        "matches": 5999,
+        "playtime": 3389519817,
         "finished": 2382,
         "finishtime": 1571492387,
         "won": 3130,
-        "lost": 2680,
-        "forfeited": 1256
+        "lost": 2681,
+        "forfeited": 1257
     },
     "cdf98ee293f3483fa3890bb3582dbda3": {
         "nickname": "NoHacsJustRoblox",
