@@ -955,11 +955,11 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2170,
-        "playtime": 1578919118,
+        "matches": 2171,
+        "playtime": 1579368772,
         "finished": 750,
         "finishtime": 620007775,
-        "won": 1094,
+        "won": 1095,
         "lost": 924,
         "forfeited": 104
     },
@@ -3878,7 +3878,7 @@
             "8": 1801,
             "9": 2052,
             "10": 2121,
-            "11": 1891
+            "11": 1909
         },
         "points": {
             "3": 0,
@@ -3893,11 +3893,11 @@
         },
         "pb": 430963,
         "streak": 12,
-        "matches": 3512,
-        "playtime": 2282488149,
+        "matches": 3513,
+        "playtime": 2282999239,
         "finished": 1353,
         "finishtime": 950065214,
-        "won": 1798,
+        "won": 1799,
         "lost": 1565,
         "forfeited": 71
     },
@@ -4509,12 +4509,12 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4465,
-        "playtime": 2517464177,
+        "matches": 4466,
+        "playtime": 2517926810,
         "finished": 2618,
         "finishtime": 1515099747,
         "won": 3044,
-        "lost": 1349,
+        "lost": 1350,
         "forfeited": 40
     },
     "a5d83ff042164ff1b862dedc118c1dae": {
@@ -5400,13 +5400,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4687,
-        "playtime": 2721030468,
+        "matches": 4688,
+        "playtime": 2721541558,
         "finished": 1616,
         "finishtime": 1117656299,
         "won": 2246,
-        "lost": 2158,
-        "forfeited": 1181
+        "lost": 2159,
+        "forfeited": 1182
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
