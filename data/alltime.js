@@ -1655,35 +1655,6 @@
         "lost": 535,
         "forfeited": 44
     },
-    "3fa40d15dadb46368aa72bc4827dae73": {
-        "nickname": "staremc",
-        "country": "us",
-        "top": {
-            "6": 1111,
-            "7": 1077,
-            "8": 1333,
-            "9": 1838,
-            "10": 2171,
-            "11": 1999
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 5
-        },
-        "pb": 434759,
-        "streak": 14,
-        "matches": 2137,
-        "playtime": 1472352451,
-        "finished": 818,
-        "finishtime": 612112611,
-        "won": 1076,
-        "lost": 934,
-        "forfeited": 196
-    },
     "410e5776b03a424d8740557bac2d9014": {
         "nickname": "vorbhfan2",
         "country": "no",
