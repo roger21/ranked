@@ -5902,31 +5902,6 @@
         "lost": 4791,
         "forfeited": 2159
     },
-    "de8e3203f8674303ad4a2baa55a15c87": {
-        "nickname": "fnhvr",
-        "country": "cx",
-        "top": {
-            "8": 1439,
-            "9": 1714,
-            "10": 2128,
-            "11": 1972
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 13,
-            "11": 3
-        },
-        "pb": 464278,
-        "streak": 7,
-        "matches": 593,
-        "playtime": 378345062,
-        "finished": 243,
-        "finishtime": 162216475,
-        "won": 314,
-        "lost": 239,
-        "forfeited": 11
-    },
     "e43dad544b244da9b690a12fdc8626dc": {
         "nickname": "NiceTwice",
         "country": "de",
