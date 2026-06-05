@@ -198,7 +198,7 @@
             "8": 1975,
             "9": 2175,
             "10": 2281,
-            "11": 1874
+            "11": 1886
         },
         "points": {
             "3": 0,
@@ -213,11 +213,11 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 7949,
-        "playtime": 5521748351,
-        "finished": 2616,
-        "finishtime": 1963433603,
-        "won": 3815,
+        "matches": 7950,
+        "playtime": 5522340159,
+        "finished": 2617,
+        "finishtime": 1964025411,
+        "won": 3816,
         "lost": 3594,
         "forfeited": 263
     },
@@ -932,7 +932,7 @@
             "8": 1422,
             "9": 1517,
             "10": 1731,
-            "11": 1717
+            "11": 1723
         },
         "points": {
             "1": 0,
@@ -949,11 +949,11 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2176,
-        "playtime": 1582431501,
-        "finished": 752,
-        "finishtime": 621502778,
-        "won": 1097,
+        "matches": 2177,
+        "playtime": 1583141112,
+        "finished": 753,
+        "finishtime": 622212389,
+        "won": 1098,
         "lost": 926,
         "forfeited": 104
     },
@@ -2968,11 +2968,11 @@
         },
         "pb": 470760,
         "streak": 12,
-        "matches": 3141,
-        "playtime": 2114787477,
-        "finished": 1125,
-        "finishtime": 877093093,
-        "won": 1621,
+        "matches": 3142,
+        "playtime": 2115830901,
+        "finished": 1126,
+        "finishtime": 878136517,
+        "won": 1622,
         "lost": 1406,
         "forfeited": 280
     },
@@ -5394,13 +5394,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4717,
-        "playtime": 2736123853,
+        "matches": 4718,
+        "playtime": 2736469899,
         "finished": 1630,
         "finishtime": 1126197257,
         "won": 2261,
-        "lost": 2172,
-        "forfeited": 1191
+        "lost": 2173,
+        "forfeited": 1192
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
