@@ -4004,13 +4004,13 @@
         },
         "pb": 430220,
         "streak": 11,
-        "matches": 7113,
-        "playtime": 4493987822,
+        "matches": 7114,
+        "playtime": 4494201161,
         "finished": 2522,
         "finishtime": 1823640852,
         "won": 3579,
-        "lost": 3340,
-        "forfeited": 1146
+        "lost": 3341,
+        "forfeited": 1147
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -4785,11 +4785,11 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 3449,
-        "playtime": 2178326207,
+        "matches": 3450,
+        "playtime": 2178730777,
         "finished": 1611,
         "finishtime": 1144932710,
-        "won": 2130,
+        "won": 2131,
         "lost": 1256,
         "forfeited": 315
     },
@@ -5676,13 +5676,13 @@
         },
         "pb": 425520,
         "streak": 14,
-        "matches": 9002,
-        "playtime": 5769097765,
+        "matches": 9003,
+        "playtime": 5769502335,
         "finished": 3112,
         "finishtime": 2241107213,
         "won": 4465,
-        "lost": 4139,
-        "forfeited": 1116
+        "lost": 4140,
+        "forfeited": 1117
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "Shiny_Chingling",
