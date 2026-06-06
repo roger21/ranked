@@ -1569,11 +1569,11 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 16044,
-        "playtime": 9435371478,
+        "matches": 16045,
+        "playtime": 9435964626,
         "finished": 7011,
         "finishtime": 4518855513,
-        "won": 8692,
+        "won": 8693,
         "lost": 6977,
         "forfeited": 2006
     },
@@ -5007,13 +5007,13 @@
         },
         "pb": 399463,
         "streak": 17,
-        "matches": 8957,
-        "playtime": 5214581143,
+        "matches": 8958,
+        "playtime": 5215174291,
         "finished": 3467,
         "finishtime": 2302460335,
         "won": 4545,
-        "lost": 4131,
-        "forfeited": 1406
+        "lost": 4132,
+        "forfeited": 1407
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
         "nickname": "Sadekeppi",
@@ -5400,12 +5400,12 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 4783,
-        "playtime": 2769565640,
+        "matches": 4784,
+        "playtime": 2770091572,
         "finished": 1656,
         "finishtime": 1141904363,
         "won": 2295,
-        "lost": 2201,
+        "lost": 2202,
         "forfeited": 1210
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
