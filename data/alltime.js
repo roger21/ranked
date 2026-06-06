@@ -5826,13 +5826,13 @@
         },
         "pb": 345484,
         "streak": 12,
-        "matches": 13182,
-        "playtime": 8302226205,
+        "matches": 13183,
+        "playtime": 8302480807,
         "finished": 4729,
         "finishtime": 3380763875,
         "won": 6410,
-        "lost": 6066,
-        "forfeited": 1712
+        "lost": 6067,
+        "forfeited": 1713
     },
     "dd382293fed04a3e9fa850bb139279fc": {
         "nickname": "vorbh",
