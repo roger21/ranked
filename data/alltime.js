@@ -108,6 +108,41 @@
         "lost": 1198,
         "forfeited": 263
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "SocratesDisciple",
+        "country": null,
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2064,
+            "9": 2334,
+            "10": 2339,
+            "11": 2092
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 28,
+            "9": 77,
+            "10": 27,
+            "11": 15
+        },
+        "pb": 379698,
+        "streak": 9,
+        "matches": 3875,
+        "playtime": 2159636157,
+        "finished": 1517,
+        "finishtime": 972141801,
+        "won": 1946,
+        "lost": 1788,
+        "forfeited": 729
+    },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "subdas",
         "country": "br",
@@ -213,12 +248,12 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 7954,
-        "playtime": 5524335988,
+        "matches": 7955,
+        "playtime": 5525005467,
         "finished": 2618,
         "finishtime": 1964656821,
         "won": 3818,
-        "lost": 3596,
+        "lost": 3597,
         "forfeited": 263
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -810,35 +845,6 @@
         "won": 1865,
         "lost": 1664,
         "forfeited": 364
-    },
-    "23e7466f0a1b4597bf89c17d53c4d0ae": {
-        "nickname": "Lexanh",
-        "country": "no",
-        "top": {
-            "1": 1016,
-            "5": 913,
-            "8": 1560,
-            "9": 1911,
-            "10": 2185,
-            "11": 1967
-        },
-        "points": {
-            "1": 0,
-            "5": 0,
-            "8": 0,
-            "9": 0,
-            "10": 12,
-            "11": 7
-        },
-        "pb": 395223,
-        "streak": 10,
-        "matches": 4185,
-        "playtime": 2534091171,
-        "finished": 1515,
-        "finishtime": 1034576523,
-        "won": 2006,
-        "lost": 1894,
-        "forfeited": 660
     },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
@@ -2561,11 +2567,11 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 8099,
-        "playtime": 4979165745,
-        "finished": 3309,
-        "finishtime": 2241280126,
-        "won": 4218,
+        "matches": 8100,
+        "playtime": 4979725673,
+        "finished": 3310,
+        "finishtime": 2241840054,
+        "won": 4219,
         "lost": 3687,
         "forfeited": 962
     },
@@ -4004,12 +4010,12 @@
         },
         "pb": 430220,
         "streak": 11,
-        "matches": 7114,
-        "playtime": 4494201161,
+        "matches": 7115,
+        "playtime": 4494813690,
         "finished": 2522,
         "finishtime": 1823640852,
         "won": 3579,
-        "lost": 3341,
+        "lost": 3342,
         "forfeited": 1147
     },
     "99aa9e0e8034479a90259e244dfb9029": {
@@ -5522,11 +5528,11 @@
         },
         "pb": 391139,
         "streak": 10,
-        "matches": 2591,
-        "playtime": 1526805850,
-        "finished": 921,
-        "finishtime": 616062704,
-        "won": 1287,
+        "matches": 2592,
+        "playtime": 1527418379,
+        "finished": 922,
+        "finishtime": 616675233,
+        "won": 1288,
         "lost": 1155,
         "forfeited": 437
     },
@@ -5685,7 +5691,7 @@
         "forfeited": 1117
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
-        "nickname": "Shiny_Chingling",
+        "nickname": "hack_page",
         "country": "be",
         "top": {
             "2": 1327,
