@@ -108,45 +108,6 @@
         "lost": 1198,
         "forfeited": 263
     },
-    "0562802e736e47c581b2ef095e2ed067": {
-        "nickname": "subdas",
-        "country": "br",
-        "top": {
-            "1": 1448,
-            "2": 1459,
-            "3": 1229,
-            "4": 1440,
-            "5": 1805,
-            "6": 1743,
-            "7": 1698,
-            "8": 1894,
-            "9": 2298,
-            "10": 2412,
-            "11": 2084
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 5,
-            "7": 0,
-            "8": 15,
-            "9": 13,
-            "10": 19,
-            "11": 9
-        },
-        "pb": 396880,
-        "streak": 13,
-        "matches": 7853,
-        "playtime": 4508804208,
-        "finished": 2903,
-        "finishtime": 1897329195,
-        "won": 3930,
-        "lost": 3719,
-        "forfeited": 1567
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "it",
@@ -3713,6 +3674,27 @@
         "won": 6955,
         "lost": 6532,
         "forfeited": 3000
+    },
+    "8d95a99f8e2e412eb31a65b0f4911225": {
+        "nickname": "litdab",
+        "country": null,
+        "top": {
+            "10": 1662,
+            "11": 1984
+        },
+        "points": {
+            "10": 0,
+            "11": 3
+        },
+        "pb": 405711,
+        "streak": 12,
+        "matches": 681,
+        "playtime": 461694505,
+        "finished": 301,
+        "finishtime": 228861013,
+        "won": 381,
+        "lost": 282,
+        "forfeited": 32
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "nickname": "emia",
