@@ -803,11 +803,11 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 8624,
-        "playtime": 5241731897,
-        "finished": 3383,
-        "finishtime": 2256630630,
-        "won": 4342,
+        "matches": 8625,
+        "playtime": 5242386572,
+        "finished": 3384,
+        "finishtime": 2257285305,
+        "won": 4343,
         "lost": 3906,
         "forfeited": 817
     },
@@ -2339,12 +2339,12 @@
         },
         "pb": 409321,
         "streak": 19,
-        "matches": 1972,
-        "playtime": 1169240044,
+        "matches": 1973,
+        "playtime": 1169851713,
         "finished": 770,
         "finishtime": 529407392,
         "won": 1068,
-        "lost": 837,
+        "lost": 838,
         "forfeited": 370
     },
     "59f81e4943014bffa80513d56de77728": {
@@ -4532,35 +4532,6 @@
         "lost": 1066,
         "forfeited": 611
     },
-    "a888602136ee48208516c4f7960ba997": {
-        "nickname": "1_viewer",
-        "country": "il",
-        "top": {
-            "6": 1154,
-            "7": 1511,
-            "8": 1763,
-            "9": 1923,
-            "10": 2098,
-            "11": 2054
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 3
-        },
-        "pb": 386516,
-        "streak": 16,
-        "matches": 7624,
-        "playtime": 4780932248,
-        "finished": 2099,
-        "finishtime": 1535786709,
-        "won": 3555,
-        "lost": 3487,
-        "forfeited": 1762
-    },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
         "country": "us",
@@ -6355,11 +6326,11 @@
         },
         "pb": 426548,
         "streak": 14,
-        "matches": 2943,
-        "playtime": 1995495919,
+        "matches": 2944,
+        "playtime": 1995772409,
         "finished": 1042,
         "finishtime": 783140027,
-        "won": 1522,
+        "won": 1523,
         "lost": 1265,
         "forfeited": 204
     }
