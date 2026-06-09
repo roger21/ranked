@@ -803,11 +803,11 @@
         },
         "pb": 390762,
         "streak": 17,
-        "matches": 8630,
-        "playtime": 5244978145,
-        "finished": 3385,
-        "finishtime": 2257796878,
-        "won": 4345,
+        "matches": 8631,
+        "playtime": 5245517651,
+        "finished": 3386,
+        "finishtime": 2258336384,
+        "won": 4346,
         "lost": 3909,
         "forfeited": 817
     },
@@ -2029,11 +2029,11 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4163,
-        "playtime": 2535988687,
-        "finished": 1460,
-        "finishtime": 1060367880,
-        "won": 2072,
+        "matches": 4164,
+        "playtime": 2536805107,
+        "finished": 1461,
+        "finishtime": 1061184300,
+        "won": 2073,
         "lost": 1790,
         "forfeited": 540
     },
@@ -3443,35 +3443,6 @@
         "lost": 2375,
         "forfeited": 771
     },
-    "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
-        "country": "jp",
-        "top": {
-            "6": 933,
-            "7": 1664,
-            "8": 1851,
-            "9": 2165,
-            "10": 2168,
-            "11": 1985
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 20,
-            "10": 10,
-            "11": 3
-        },
-        "pb": 404297,
-        "streak": 14,
-        "matches": 8534,
-        "playtime": 4959968220,
-        "finished": 3092,
-        "finishtime": 2137868887,
-        "won": 4278,
-        "lost": 4021,
-        "forfeited": 2069
-    },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
         "country": "vn",
@@ -3887,13 +3858,13 @@
         },
         "pb": 397915,
         "streak": 20,
-        "matches": 11882,
-        "playtime": 7036903994,
+        "matches": 11883,
+        "playtime": 7037238011,
         "finished": 5320,
         "finishtime": 3483392422,
         "won": 6779,
-        "lost": 4871,
-        "forfeited": 1258
+        "lost": 4872,
+        "forfeited": 1259
     },
     "939ddf85303441de901d60bfa4109318": {
         "nickname": "thecamo6",
