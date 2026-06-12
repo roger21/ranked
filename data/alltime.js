@@ -920,13 +920,13 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2298,
-        "playtime": 1664801158,
+        "matches": 2300,
+        "playtime": 1665579273,
         "finished": 792,
         "finishtime": 651083257,
         "won": 1148,
-        "lost": 991,
-        "forfeited": 115
+        "lost": 993,
+        "forfeited": 117
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
         "nickname": "Hinart",
