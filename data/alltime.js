@@ -402,12 +402,12 @@
         },
         "pb": 410286,
         "streak": 11,
-        "matches": 2416,
-        "playtime": 1545316881,
+        "matches": 2417,
+        "playtime": 1545841787,
         "finished": 895,
         "finishtime": 635020064,
         "won": 1232,
-        "lost": 1054,
+        "lost": 1055,
         "forfeited": 278
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
@@ -920,12 +920,12 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2292,
-        "playtime": 1660358975,
+        "matches": 2293,
+        "playtime": 1661100839,
         "finished": 790,
         "finishtime": 649194286,
         "won": 1146,
-        "lost": 987,
+        "lost": 988,
         "forfeited": 113
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -1495,13 +1495,13 @@
         },
         "pb": 467689,
         "streak": 22,
-        "matches": 1877,
-        "playtime": 1217461078,
+        "matches": 1878,
+        "playtime": 1217865725,
         "finished": 758,
         "finishtime": 549072548,
         "won": 1013,
-        "lost": 783,
-        "forfeited": 144
+        "lost": 784,
+        "forfeited": 145
     },
     "3b01d4b4fef14f178b75f05c04dd34ef": {
         "nickname": "BeefSalad",
@@ -1680,12 +1680,12 @@
         },
         "pb": 434759,
         "streak": 14,
-        "matches": 2173,
-        "playtime": 1494696599,
+        "matches": 2174,
+        "playtime": 1495346121,
         "finished": 842,
         "finishtime": 627713863,
         "won": 1103,
-        "lost": 943,
+        "lost": 944,
         "forfeited": 196
     },
     "410e5776b03a424d8740557bac2d9014": {
