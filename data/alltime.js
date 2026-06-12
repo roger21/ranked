@@ -402,11 +402,11 @@
         },
         "pb": 410286,
         "streak": 11,
-        "matches": 2418,
-        "playtime": 1546484735,
-        "finished": 895,
-        "finishtime": 635020064,
-        "won": 1232,
+        "matches": 2419,
+        "playtime": 1547199552,
+        "finished": 896,
+        "finishtime": 635734881,
+        "won": 1233,
         "lost": 1056,
         "forfeited": 278
     },
@@ -3972,6 +3972,29 @@
         "won": 4819,
         "lost": 4490,
         "forfeited": 880
+    },
+    "9649236873db4cb9b7bdc2dae693ed39": {
+        "nickname": "Yosa1003",
+        "country": "jp",
+        "top": {
+            "9": 1347,
+            "10": 2022,
+            "11": 2001
+        },
+        "points": {
+            "9": 0,
+            "10": 0,
+            "11": 4
+        },
+        "pb": 448618,
+        "streak": 9,
+        "matches": 1024,
+        "playtime": 779232988,
+        "finished": 400,
+        "finishtime": 334208840,
+        "won": 520,
+        "lost": 420,
+        "forfeited": 67
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "mi5f1t",
