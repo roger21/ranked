@@ -3182,12 +3182,12 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 10594,
-        "playtime": 5819790055,
+        "matches": 10595,
+        "playtime": 5820425202,
         "finished": 3566,
         "finishtime": 2165665098,
         "won": 4854,
-        "lost": 4678,
+        "lost": 4679,
         "forfeited": 2564
     },
     "7b5563464fdf4757905e681040791ac0": {
@@ -5686,12 +5686,12 @@
         },
         "pb": 425520,
         "streak": 14,
-        "matches": 9148,
-        "playtime": 5855732093,
+        "matches": 9149,
+        "playtime": 5856257022,
         "finished": 3185,
         "finishtime": 2286382655,
         "won": 4543,
-        "lost": 4203,
+        "lost": 4204,
         "forfeited": 1123
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
@@ -6132,13 +6132,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 7885,
-        "playtime": 4346042938,
+        "matches": 7886,
+        "playtime": 4346761591,
         "finished": 2952,
         "finishtime": 1938623171,
         "won": 3969,
-        "lost": 3674,
-        "forfeited": 2266
+        "lost": 3675,
+        "forfeited": 2267
     },
     "eb136e7e26124f8daa99e521da609135": {
         "nickname": "Frolde",
