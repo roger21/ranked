@@ -1,5 +1,5 @@
 {
-    "date": 1781438401000,
+    "date": 1781439001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -87825,7 +87825,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 21,
+                "rank": 20,
                 "elo": 2110,
                 "top": 2195,
                 "points": 5,
@@ -92216,7 +92216,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 22,
+                "rank": 21,
                 "elo": 2109,
                 "top": 2203,
                 "points": 29,
@@ -95179,7 +95179,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 2100,
                 "top": 2230,
                 "points": 9,
@@ -111960,7 +111960,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 2099,
                 "top": 2155,
                 "points": 23,
@@ -230467,7 +230467,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2012,
                 "top": 2041,
                 "points": 13,
@@ -232114,7 +232114,7 @@
             "uuid": "b6f45b2b47aa4e73b7e515b247e3eabf",
             "nickname": "yunusbes",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2009,
                 "top": 2053,
                 "points": 0,
@@ -243197,7 +243197,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2008,
                 "top": 2008,
                 "points": 0,
@@ -247518,7 +247518,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2003,
                 "top": 2013,
                 "points": 0,
