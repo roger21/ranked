@@ -1719,11 +1719,11 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 11535,
-        "playtime": 7196276644,
+        "matches": 11536,
+        "playtime": 7196758768,
         "finished": 4325,
         "finishtime": 3035108289,
-        "won": 5748,
+        "won": 5749,
         "lost": 5408,
         "forfeited": 1561
     },
@@ -4452,13 +4452,13 @@
         },
         "pb": 446474,
         "streak": 12,
-        "matches": 1175,
-        "playtime": 801839086,
+        "matches": 1176,
+        "playtime": 802218287,
         "finished": 431,
         "finishtime": 336986770,
         "won": 651,
-        "lost": 476,
-        "forfeited": 122
+        "lost": 477,
+        "forfeited": 123
     },
     "a53540ad086c490e9a0405171f0e0e58": {
         "nickname": "aleen",
