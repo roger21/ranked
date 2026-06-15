@@ -1534,11 +1534,11 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 16151,
-        "playtime": 9493283382,
-        "finished": 7070,
-        "finishtime": 4551455167,
-        "won": 8760,
+        "matches": 16152,
+        "playtime": 9493857205,
+        "finished": 7071,
+        "finishtime": 4552028990,
+        "won": 8761,
         "lost": 7016,
         "forfeited": 2010
     },
@@ -6226,33 +6226,6 @@
         "won": 3982,
         "lost": 3685,
         "forfeited": 2276
-    },
-    "eb136e7e26124f8daa99e521da609135": {
-        "nickname": "Frolde",
-        "country": "dk",
-        "top": {
-            "7": 1407,
-            "8": 1469,
-            "9": 1891,
-            "10": 2288,
-            "11": 2057
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 14,
-            "11": 3
-        },
-        "pb": 409037,
-        "streak": 10,
-        "matches": 6373,
-        "playtime": 3820254998,
-        "finished": 2096,
-        "finishtime": 1502488310,
-        "won": 3107,
-        "lost": 3012,
-        "forfeited": 1616
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
