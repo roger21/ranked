@@ -1,5 +1,5 @@
 {
-    "date": 1781481001000,
+    "date": 1781481601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -31526,7 +31526,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 8,
+                "rank": 9,
                 "elo": 2203,
                 "top": 2203,
                 "points": 26,
@@ -38325,7 +38325,7 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 9,
+                "rank": 10,
                 "elo": 2188,
                 "top": 2188,
                 "points": 3,
@@ -43822,23 +43822,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 9,
-                "elo": 2188,
+                "rank": 7,
+                "elo": 2206,
                 "top": 2354,
                 "points": 11,
                 "pb": 408840,
-                "current": 2,
+                "current": 3,
                 "streak": 13,
-                "matches": 858,
-                "playtime": 466823624,
-                "finished": 432,
-                "finishtime": 245146708,
-                "won": 475,
+                "matches": 859,
+                "playtime": 467513035,
+                "finished": 433,
+                "finishtime": 245836119,
+                "won": 476,
                 "lost": 362,
                 "forfeited": 70
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1781481605000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "silverrruns",
+                    "elo": 2206,
+                    "change": 18,
+                    "oelo": 2106,
+                    "ochange": -18,
+                    "time": 689411,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781480201000,
                     "type": "SHIPWRECK",
@@ -55787,7 +55801,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 9,
+                "rank": 10,
                 "elo": 2188,
                 "top": 2210,
                 "points": 18,
@@ -69412,23 +69426,37 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 16,
-                "elo": 2124,
+                "rank": 24,
+                "elo": 2106,
                 "top": 2203,
                 "points": 29,
                 "pb": 440977,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 211,
-                "playtime": 119126492,
+                "matches": 212,
+                "playtime": 119815903,
                 "finished": 110,
                 "finishtime": 62468550,
                 "won": 118,
-                "lost": 89,
+                "lost": 90,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1781481605000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 2106,
+                    "change": -18,
+                    "oelo": 2206,
+                    "ochange": 18,
+                    "time": 689411,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781480869000,
                     "type": "VILLAGE",
@@ -72389,7 +72417,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 17,
+                "rank": 16,
                 "elo": 2123,
                 "top": 2251,
                 "points": 40,
@@ -75688,7 +75716,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 18,
+                "rank": 17,
                 "elo": 2121,
                 "top": 2130,
                 "points": 3,
@@ -81871,7 +81899,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 19,
+                "rank": 18,
                 "elo": 2118,
                 "top": 2155,
                 "points": 23,
@@ -86206,7 +86234,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 20,
+                "rank": 19,
                 "elo": 2112,
                 "top": 2135,
                 "points": 0,
@@ -92459,7 +92487,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 20,
+                "rank": 19,
                 "elo": 2112,
                 "top": 2113,
                 "points": 9,
@@ -94638,7 +94666,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 22,
+                "rank": 21,
                 "elo": 2111,
                 "top": 2156,
                 "points": 38,
@@ -95767,7 +95795,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 2110,
                 "top": 2110,
                 "points": 10,
@@ -104232,7 +104260,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 2110,
                 "top": 2195,
                 "points": 5,
@@ -108623,7 +108651,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2106,
                 "top": 2106,
                 "points": 6,
@@ -115268,7 +115296,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2106,
                 "top": 2173,
                 "points": 0,
