@@ -1534,12 +1534,12 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 16165,
-        "playtime": 9501213568,
+        "matches": 16166,
+        "playtime": 9501814047,
         "finished": 7078,
         "finishtime": 4556053959,
         "won": 8768,
-        "lost": 7022,
+        "lost": 7023,
         "forfeited": 2010
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -1795,11 +1795,11 @@
         },
         "pb": 407930,
         "streak": 14,
-        "matches": 5581,
-        "playtime": 3591899871,
-        "finished": 2232,
-        "finishtime": 1547765539,
-        "won": 2935,
+        "matches": 5582,
+        "playtime": 3592500350,
+        "finished": 2233,
+        "finishtime": 1548366018,
+        "won": 2936,
         "lost": 2444,
         "forfeited": 212
     },
@@ -2446,12 +2446,12 @@
         },
         "pb": 478945,
         "streak": 10,
-        "matches": 3235,
-        "playtime": 2306014338,
+        "matches": 3236,
+        "playtime": 2306632329,
         "finished": 1188,
         "finishtime": 941242974,
         "won": 1632,
-        "lost": 1470,
+        "lost": 1471,
         "forfeited": 68
     },
     "5a32f1e5609847c691c07730f973397c": {
@@ -2561,13 +2561,13 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 8243,
-        "playtime": 5057626389,
+        "matches": 8244,
+        "playtime": 5057838482,
         "finished": 3371,
         "finishtime": 2277017669,
         "won": 4292,
-        "lost": 3750,
-        "forfeited": 979
+        "lost": 3751,
+        "forfeited": 980
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
@@ -3549,6 +3549,35 @@
         "won": 2532,
         "lost": 2378,
         "forfeited": 771
+    },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2003
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 3
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8683,
+        "playtime": 5040433448,
+        "finished": 3153,
+        "finishtime": 2175453351,
+        "won": 4353,
+        "lost": 4088,
+        "forfeited": 2097
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -4931,33 +4960,6 @@
         "lost": 2481,
         "forfeited": 266
     },
-    "b6f45b2b47aa4e73b7e515b247e3eabf": {
-        "nickname": "yunusbes",
-        "country": "tr",
-        "top": {
-            "7": 1161,
-            "8": 1379,
-            "9": 1803,
-            "10": 2149,
-            "11": 2079
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 423497,
-        "streak": 11,
-        "matches": 6752,
-        "playtime": 4347784537,
-        "finished": 2108,
-        "finishtime": 1555072652,
-        "won": 3148,
-        "lost": 3071,
-        "forfeited": 1114
-    },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
         "country": "so",
@@ -5964,11 +5966,11 @@
         },
         "pb": 345484,
         "streak": 12,
-        "matches": 13367,
-        "playtime": 8408167446,
-        "finished": 4795,
-        "finishtime": 3422226816,
-        "won": 6498,
+        "matches": 13368,
+        "playtime": 8408815700,
+        "finished": 4796,
+        "finishtime": 3422875070,
+        "won": 6499,
         "lost": 6151,
         "forfeited": 1737
     },
