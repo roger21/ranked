@@ -1,5 +1,5 @@
 {
-    "date": 1781542801000,
+    "date": 1781543401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -195936,23 +195936,37 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 40,
-                "elo": 2041,
+                "rank": 42,
+                "elo": 2024,
                 "top": 2041,
                 "points": 6,
                 "pb": 408882,
-                "current": 2,
+                "current": 0,
                 "streak": 5,
-                "matches": 309,
-                "playtime": 170029107,
+                "matches": 310,
+                "playtime": 170609567,
                 "finished": 134,
                 "finishtime": 78620734,
                 "won": 166,
-                "lost": 138,
+                "lost": 139,
                 "forfeited": 28
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1781543488000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 2024,
+                    "change": -17,
+                    "oelo": 2151,
+                    "ochange": 17,
+                    "time": 580460,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781542690000,
                     "type": "RUINED_PORTAL",
@@ -200285,7 +200299,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2040,
                 "top": 2040,
                 "points": 0,
@@ -204200,7 +204214,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2035,
                 "top": 2135,
                 "points": 20,
