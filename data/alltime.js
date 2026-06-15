@@ -198,7 +198,7 @@
             "8": 1975,
             "9": 2175,
             "10": 2281,
-            "11": 1998
+            "11": 2000
         },
         "points": {
             "3": 0,
@@ -213,11 +213,11 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 8058,
-        "playtime": 5584246635,
-        "finished": 2661,
-        "finishtime": 1991208642,
-        "won": 3869,
+        "matches": 8059,
+        "playtime": 5585037388,
+        "finished": 2662,
+        "finishtime": 1991999395,
+        "won": 3870,
         "lost": 3643,
         "forfeited": 268
     },
@@ -3550,6 +3550,35 @@
         "lost": 2375,
         "forfeited": 771
     },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2003
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 3
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8683,
+        "playtime": 5040433448,
+        "finished": 3153,
+        "finishtime": 2175453351,
+        "won": 4353,
+        "lost": 4088,
+        "forfeited": 2097
+    },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
         "country": "vn",
@@ -3774,12 +3803,12 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 13763,
-        "playtime": 8649884856,
+        "matches": 13764,
+        "playtime": 8650645288,
         "finished": 4841,
         "finishtime": 3669403701,
         "won": 6965,
-        "lost": 6536,
+        "lost": 6537,
         "forfeited": 3001
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
@@ -4004,11 +4033,11 @@
         },
         "pb": 394023,
         "streak": 14,
-        "matches": 9730,
-        "playtime": 6028600180,
+        "matches": 9731,
+        "playtime": 6028946270,
         "finished": 3834,
         "finishtime": 2575724157,
-        "won": 4852,
+        "won": 4853,
         "lost": 4523,
         "forfeited": 880
     },
@@ -5139,11 +5168,11 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 7095,
-        "playtime": 3974430279,
-        "finished": 3129,
-        "finishtime": 1999720296,
-        "won": 3907,
+        "matches": 7096,
+        "playtime": 3975010739,
+        "finished": 3130,
+        "finishtime": 2000300756,
+        "won": 3908,
         "lost": 2959,
         "forfeited": 1405
     },
@@ -5273,12 +5302,12 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 1398,
-        "playtime": 836718713,
+        "matches": 1399,
+        "playtime": 837160900,
         "finished": 626,
         "finishtime": 402690487,
         "won": 812,
-        "lost": 547,
+        "lost": 548,
         "forfeited": 74
     },
     "c32cdd142a0147dcb91771319d745194": {
@@ -6232,33 +6261,6 @@
         "won": 3990,
         "lost": 3689,
         "forfeited": 2279
-    },
-    "eb136e7e26124f8daa99e521da609135": {
-        "nickname": "Frolde",
-        "country": "dk",
-        "top": {
-            "7": 1407,
-            "8": 1469,
-            "9": 1891,
-            "10": 2288,
-            "11": 2057
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 14,
-            "11": 3
-        },
-        "pb": 409037,
-        "streak": 10,
-        "matches": 6388,
-        "playtime": 3828193666,
-        "finished": 2101,
-        "finishtime": 1505327528,
-        "won": 3114,
-        "lost": 3019,
-        "forfeited": 1618
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
