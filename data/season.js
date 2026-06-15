@@ -1,5 +1,5 @@
 {
-    "date": 1781524201000,
+    "date": 1781524801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -119898,22 +119898,50 @@
             "nickname": "ogurikappa",
             "stats": {
                 "rank": 27,
-                "elo": 2089,
-                "top": 2095,
+                "elo": 2100,
+                "top": 2100,
                 "points": 0,
                 "pb": 395923,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 1128,
-                "playtime": 592911297,
+                "matches": 1130,
+                "playtime": 593670385,
                 "finished": 434,
                 "finishtime": 230199961,
-                "won": 503,
+                "won": 504,
                 "lost": 463,
                 "forfeited": 192
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1781524659000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "LEC666888",
+                    "elo": 2100,
+                    "change": 13,
+                    "oelo": 1870,
+                    "ochange": -13,
+                    "time": 221689,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1781524350000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "Magmania",
+                    "elo": 2087,
+                    "change": -2,
+                    "oelo": 1907,
+                    "ochange": 2,
+                    "time": 537399,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1781520862000,
                     "type": "BURIED_TREASURE",
