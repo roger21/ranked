@@ -1,5 +1,5 @@
 {
-    "date": 1781491201000,
+    "date": 1781491801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -159500,7 +159500,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2057,
                 "top": 2230,
                 "points": 9,
@@ -176715,7 +176715,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2057,
                 "top": 2106,
                 "points": 8,
@@ -179846,7 +179846,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyyyy",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2053,
                 "top": 2053,
                 "points": 7,
@@ -185651,7 +185651,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 2051,
                 "top": 2119,
                 "points": 17,
@@ -188110,23 +188110,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 40,
-                "elo": 2046,
+                "rank": 35,
+                "elo": 2058,
                 "top": 2089,
                 "points": 0,
                 "pb": 395923,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 1123,
-                "playtime": 590204263,
-                "finished": 430,
-                "finishtime": 228078567,
-                "won": 499,
+                "matches": 1124,
+                "playtime": 590712437,
+                "finished": 431,
+                "finishtime": 228586741,
+                "won": 500,
                 "lost": 462,
                 "forfeited": 192
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1781491819000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "thecamo6",
+                    "elo": 2058,
+                    "change": 12,
+                    "oelo": 1803,
+                    "ochange": -12,
+                    "time": 508174,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781489477000,
                     "type": "VILLAGE",
