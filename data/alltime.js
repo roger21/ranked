@@ -4964,33 +4964,6 @@
         "lost": 2481,
         "forfeited": 266
     },
-    "b6f45b2b47aa4e73b7e515b247e3eabf": {
-        "nickname": "yunusbes",
-        "country": "tr",
-        "top": {
-            "7": 1161,
-            "8": 1379,
-            "9": 1803,
-            "10": 2149,
-            "11": 2079
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 423497,
-        "streak": 11,
-        "matches": 6749,
-        "playtime": 4346077448,
-        "finished": 2107,
-        "finishtime": 1554394750,
-        "won": 3147,
-        "lost": 3069,
-        "forfeited": 1113
-    },
     "ba31689fe7d24431bf7997a52efcc21c": {
         "nickname": "meebie",
         "country": "so",
