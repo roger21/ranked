@@ -1,5 +1,5 @@
 {
-    "date": 1781567401000,
+    "date": 1781568001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -145595,7 +145595,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2074,
                 "top": 2139,
                 "points": 21,
@@ -150406,7 +150406,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2070,
                 "top": 2070,
                 "points": 11,
@@ -151535,7 +151535,7 @@
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2064,
                 "top": 2183,
                 "points": 25,
@@ -155044,23 +155044,37 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 34,
-                "elo": 2061,
+                "rank": 30,
+                "elo": 2081,
                 "top": 2130,
                 "points": 3,
                 "pb": 467838,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 451,
-                "playtime": 274349055,
-                "finished": 207,
-                "finishtime": 130091563,
-                "won": 239,
+                "matches": 452,
+                "playtime": 274980154,
+                "finished": 208,
+                "finishtime": 130722662,
+                "won": 240,
                 "lost": 195,
                 "forfeited": 12
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1781568054000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "cofesho",
+                    "elo": 2081,
+                    "change": 20,
+                    "oelo": 2037,
+                    "ochange": -20,
+                    "time": 631099,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781567301000,
                     "type": "BURIED_TREASURE",
@@ -163280,23 +163294,37 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 36,
-                "elo": 2057,
+                "rank": 40,
+                "elo": 2037,
                 "top": 2093,
                 "points": 0,
                 "pb": 420603,
                 "current": 0,
                 "streak": 8,
-                "matches": 725,
-                "playtime": 427076442,
+                "matches": 726,
+                "playtime": 427707541,
                 "finished": 295,
                 "finishtime": 178545724,
                 "won": 350,
-                "lost": 321,
+                "lost": 322,
                 "forfeited": 6
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1781568054000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "JustAltoid",
+                    "elo": 2037,
+                    "change": -20,
+                    "oelo": 2081,
+                    "ochange": 20,
+                    "time": 631099,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781567376000,
                     "type": "BURIED_TREASURE",
@@ -173397,7 +173425,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyyyy",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2053,
                 "top": 2053,
                 "points": 7,
@@ -179202,7 +179230,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2052,
                 "top": 2106,
                 "points": 8,
@@ -182347,7 +182375,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2051,
                 "top": 2119,
                 "points": 17,
@@ -184806,7 +184834,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2040,
                 "top": 2040,
                 "points": 0,
