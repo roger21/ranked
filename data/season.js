@@ -1,5 +1,5 @@
 {
-    "date": 1781619001000,
+    "date": 1781619601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -126641,23 +126641,37 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 25,
-                "elo": 2106,
+                "rank": 29,
+                "elo": 2097,
                 "top": 2106,
                 "points": 6,
                 "pb": 391139,
-                "current": 2,
+                "current": 0,
                 "streak": 9,
-                "matches": 478,
-                "playtime": 260017427,
+                "matches": 479,
+                "playtime": 260588703,
                 "finished": 203,
                 "finishtime": 118389086,
                 "won": 245,
-                "lost": 208,
+                "lost": 209,
                 "forfeited": 69
             },
             "country": "it",
             "matches": [
+                {
+                    "date": 1781619654000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2097,
+                    "change": -9,
+                    "oelo": 2444,
+                    "ochange": 9,
+                    "time": 571276,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781454882000,
                     "type": "BURIED_TREASURE",
@@ -137019,7 +137033,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyyyy",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2102,
                 "top": 2102,
                 "points": 7,
@@ -143048,7 +143062,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2101,
                 "top": 2156,
                 "points": 38,
@@ -144205,7 +144219,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2099,
                 "top": 2155,
                 "points": 12,
