@@ -1,5 +1,5 @@
 {
-    "date": 1781649601000,
+    "date": 1781650201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -183934,22 +183934,36 @@
             "nickname": "subdas",
             "stats": {
                 "rank": 41,
-                "elo": 2025,
+                "elo": 2038,
                 "top": 2230,
                 "points": 9,
                 "pb": 406116,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 1249,
-                "playtime": 691830940,
-                "finished": 554,
-                "finishtime": 332774999,
-                "won": 643,
+                "matches": 1250,
+                "playtime": 692472805,
+                "finished": 555,
+                "finishtime": 333416864,
+                "won": 644,
                 "lost": 583,
                 "forfeited": 160
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1781649689000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Kickz",
+                    "elo": 2038,
+                    "change": 13,
+                    "oelo": 1815,
+                    "ochange": -13,
+                    "time": 641865,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781648898000,
                     "type": "BURIED_TREASURE",
