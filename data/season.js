@@ -1,5 +1,5 @@
 {
-    "date": 1781590801000,
+    "date": 1781592601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -217097,7 +217097,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2003,
                 "top": 2013,
                 "points": 0,
@@ -219920,7 +219920,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2003,
                 "top": 2003,
                 "points": 3,
@@ -228175,7 +228175,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1997,
                 "top": 2040,
                 "points": 13,
@@ -228954,7 +228954,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 51,
+                "rank": 50,
                 "elo": 1992,
                 "top": 2143,
                 "points": 4,
