@@ -1,5 +1,5 @@
 {
-    "date": 1781643601000,
+    "date": 1781644201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -185594,23 +185594,37 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 42,
-                "elo": 2018,
+                "rank": 46,
+                "elo": 2006,
                 "top": 2230,
                 "points": 9,
                 "pb": 406116,
                 "current": 0,
                 "streak": 8,
-                "matches": 1247,
-                "playtime": 690877422,
+                "matches": 1248,
+                "playtime": 691384366,
                 "finished": 554,
                 "finishtime": 332774999,
                 "won": 642,
-                "lost": 582,
+                "lost": 583,
                 "forfeited": 160
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1781644214000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 2006,
+                    "change": -12,
+                    "oelo": 2272,
+                    "ochange": 12,
+                    "time": 506944,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781643598000,
                     "type": "SHIPWRECK",
@@ -202977,7 +202991,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2015,
                 "top": 2042,
                 "points": 3,
@@ -210476,7 +210490,7 @@
             "uuid": "c41b14ac0f1547aeb7690276d82aa458",
             "nickname": "Psemcovici",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2009,
                 "top": 2009,
                 "points": 0,
@@ -216757,7 +216771,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2007,
                 "top": 2007,
                 "points": 0,
@@ -219608,7 +219622,7 @@
             "uuid": "7fad8dae2ab04971bc07a6440f84d609",
             "nickname": "suravil",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2007,
                 "top": 2062,
                 "points": 12,
