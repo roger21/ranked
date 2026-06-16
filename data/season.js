@@ -1,5 +1,5 @@
 {
-    "date": 1781598001000,
+    "date": 1781603401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -167971,7 +167971,7 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 36,
-                "elo": 2058,
+                "elo": 2053,
                 "top": 2158,
                 "points": 32,
                 "pb": 410465,
@@ -167987,6 +167987,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1781599144000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2053,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1781512734000,
                     "type": null,
@@ -228274,7 +228288,7 @@
             "nickname": "7rowl",
             "stats": {
                 "rank": 49,
-                "elo": 1997,
+                "elo": 1992,
                 "top": 2040,
                 "points": 13,
                 "pb": 457610,
@@ -228290,6 +228304,20 @@
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1781599685000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1992,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1781513275000,
                     "type": null,
@@ -229052,7 +229080,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1992,
                 "top": 2143,
                 "points": 4,
