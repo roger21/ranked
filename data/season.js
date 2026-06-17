@@ -1,5 +1,5 @@
 {
-    "date": 1781666401000,
+    "date": 1781667001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66888,23 +66888,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 14,
-                "elo": 2185,
+                "rank": 16,
+                "elo": 2160,
                 "top": 2185,
                 "points": 0,
                 "pb": 395923,
-                "current": 9,
+                "current": 0,
                 "streak": 9,
-                "matches": 1143,
-                "playtime": 601746094,
+                "matches": 1144,
+                "playtime": 602344401,
                 "finished": 442,
                 "finishtime": 234921513,
                 "won": 513,
-                "lost": 466,
+                "lost": 467,
                 "forfeited": 192
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1781667005000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "JustAltoid",
+                    "elo": 2160,
+                    "change": -25,
+                    "oelo": 2083,
+                    "ochange": 25,
+                    "time": 598307,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781665841000,
                     "type": "BURIED_TREASURE",
@@ -82829,7 +82843,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 15,
+                "rank": 14,
                 "elo": 2184,
                 "top": 2251,
                 "points": 40,
@@ -86184,7 +86198,7 @@
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
-                "rank": 16,
+                "rank": 15,
                 "elo": 2178,
                 "top": 2219,
                 "points": 42,
@@ -136846,7 +136860,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2080,
                 "top": 2080,
                 "points": 10,
@@ -141755,7 +141769,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2076,
                 "top": 2174,
                 "points": 0,
@@ -146090,7 +146104,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2075,
                 "top": 2173,
                 "points": 0,
@@ -149921,7 +149935,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2074,
                 "top": 2139,
                 "points": 21,
@@ -154732,7 +154746,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2066,
                 "top": 2203,
                 "points": 29,
@@ -157891,7 +157905,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2065,
                 "top": 2070,
                 "points": 11,
@@ -159034,7 +159048,7 @@
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2059,
                 "top": 2183,
                 "points": 25,
@@ -162557,23 +162571,37 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 35,
-                "elo": 2058,
+                "rank": 28,
+                "elo": 2083,
                 "top": 2152,
                 "points": 3,
                 "pb": 467838,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 494,
-                "playtime": 298380664,
-                "finished": 226,
-                "finishtime": 140897602,
-                "won": 262,
+                "matches": 495,
+                "playtime": 298978971,
+                "finished": 227,
+                "finishtime": 141495909,
+                "won": 263,
                 "lost": 214,
                 "forfeited": 12
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1781667005000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "ogurikappa",
+                    "elo": 2083,
+                    "change": 25,
+                    "oelo": 2160,
+                    "ochange": -25,
+                    "time": 598307,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781666327000,
                     "type": "RUINED_PORTAL",
