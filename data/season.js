@@ -1,5 +1,5 @@
 {
-    "date": 1781699401000,
+    "date": 1781700001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -74677,22 +74677,36 @@
             "nickname": "Erikfzf",
             "stats": {
                 "rank": 16,
-                "elo": 2168,
-                "top": 2168,
+                "elo": 2181,
+                "top": 2181,
                 "points": 17,
                 "pb": 449505,
-                "current": 6,
+                "current": 7,
                 "streak": 7,
-                "matches": 190,
-                "playtime": 108210645,
-                "finished": 101,
-                "finishtime": 59831113,
-                "won": 110,
+                "matches": 191,
+                "playtime": 108793920,
+                "finished": 102,
+                "finishtime": 60414388,
+                "won": 111,
                 "lost": 74,
                 "forfeited": 4
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1781699633000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Yosa1003",
+                    "elo": 2181,
+                    "change": 13,
+                    "oelo": 1951,
+                    "ochange": -13,
+                    "time": 583275,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781698944000,
                     "type": "RUINED_PORTAL",
