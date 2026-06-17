@@ -5154,7 +5154,7 @@
             "8": 1975,
             "9": 2233,
             "10": 2131,
-            "11": 2061
+            "11": 2102
         },
         "points": {
             "2": 0,
@@ -5170,11 +5170,11 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 7379,
-        "playtime": 3867348475,
-        "finished": 2112,
-        "finishtime": 1394114801,
-        "won": 3528,
+        "matches": 7381,
+        "playtime": 3868126354,
+        "finished": 2113,
+        "finishtime": 1394641166,
+        "won": 3530,
         "lost": 3428,
         "forfeited": 2563
     },
@@ -5277,13 +5277,13 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 3475,
-        "playtime": 2170669532,
+        "matches": 3477,
+        "playtime": 2171263139,
         "finished": 1487,
         "finishtime": 1017662179,
-        "won": 1901,
-        "lost": 1489,
-        "forfeited": 254
+        "won": 1902,
+        "lost": 1490,
+        "forfeited": 255
     },
     "c41b14ac0f1547aeb7690276d82aa458": {
         "nickname": "Psemcovici",
@@ -5779,12 +5779,12 @@
         },
         "pb": 425520,
         "streak": 14,
-        "matches": 9318,
-        "playtime": 5955455837,
+        "matches": 9319,
+        "playtime": 5955982202,
         "finished": 3263,
         "finishtime": 2333751398,
         "won": 4636,
-        "lost": 4278,
+        "lost": 4279,
         "forfeited": 1126
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
