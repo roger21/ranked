@@ -1,5 +1,5 @@
 {
-    "date": 1781824801000,
+    "date": 1781825401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5918,22 +5918,36 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 3,
-                "elo": 2246,
-                "top": 2246,
+                "elo": 2257,
+                "top": 2257,
                 "points": 42,
                 "pb": 368221,
-                "current": 3,
+                "current": 4,
                 "streak": 15,
-                "matches": 323,
-                "playtime": 178927937,
-                "finished": 192,
-                "finishtime": 108875856,
-                "won": 203,
+                "matches": 324,
+                "playtime": 179457583,
+                "finished": 193,
+                "finishtime": 109405502,
+                "won": 204,
                 "lost": 116,
                 "forfeited": 4
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1781825014000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Lexanh",
+                    "elo": 2257,
+                    "change": 11,
+                    "oelo": 1981,
+                    "ochange": -11,
+                    "time": 529646,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781823282000,
                     "type": "BURIED_TREASURE",
