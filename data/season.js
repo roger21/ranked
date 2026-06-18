@@ -1,5 +1,5 @@
 {
-    "date": 1781816401000,
+    "date": 1781817001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5918,22 +5918,36 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 3,
-                "elo": 2275,
+                "elo": 2287,
                 "top": 2354,
                 "points": 11,
                 "pb": 408840,
-                "current": 0,
+                "current": 1,
                 "streak": 13,
-                "matches": 911,
-                "playtime": 497422681,
-                "finished": 463,
-                "finishtime": 263563011,
-                "won": 509,
+                "matches": 912,
+                "playtime": 497945004,
+                "finished": 464,
+                "finishtime": 264085334,
+                "won": 510,
                 "lost": 381,
                 "forfeited": 70
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1781816964000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "loodlow",
+                    "elo": 2287,
+                    "change": 12,
+                    "oelo": 2019,
+                    "ochange": -12,
+                    "time": 522323,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781816183000,
                     "type": "DESERT_TEMPLE",
@@ -181358,22 +181372,36 @@
             "nickname": "loodlow",
             "stats": {
                 "rank": 41,
-                "elo": 2031,
+                "elo": 2019,
                 "top": 2031,
                 "points": 0,
                 "pb": 412783,
-                "current": 4,
+                "current": 0,
                 "streak": 8,
-                "matches": 126,
-                "playtime": 66375851,
+                "matches": 127,
+                "playtime": 66898174,
                 "finished": 65,
                 "finishtime": 38586959,
                 "won": 75,
-                "lost": 49,
+                "lost": 50,
                 "forfeited": 21
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1781816964000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 2019,
+                    "change": -12,
+                    "oelo": 2287,
+                    "ochange": 12,
+                    "time": 522323,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781816322000,
                     "type": "DESERT_TEMPLE",
@@ -183200,7 +183228,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2019,
                 "top": 2158,
                 "points": 3,
