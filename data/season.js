@@ -1,5 +1,5 @@
 {
-    "date": 1781804401000,
+    "date": 1781805002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -117434,23 +117434,37 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 24,
-                "elo": 2111,
+                "rank": 26,
+                "elo": 2096,
                 "top": 2208,
                 "points": 5,
                 "pb": 442002,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 341,
-                "playtime": 206050546,
+                "matches": 342,
+                "playtime": 206585026,
                 "finished": 161,
                 "finishtime": 102562778,
                 "won": 190,
-                "lost": 140,
+                "lost": 141,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1781805015000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 2096,
+                    "change": -15,
+                    "oelo": 2270,
+                    "ochange": 15,
+                    "time": 534480,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781804248000,
                     "type": "SHIPWRECK",
@@ -122175,7 +122189,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2110,
                 "top": 2230,
                 "points": 9,
@@ -139796,7 +139810,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyyyy",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2102,
                 "top": 2102,
                 "points": 7,
