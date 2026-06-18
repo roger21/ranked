@@ -3521,35 +3521,6 @@
         "lost": 2390,
         "forfeited": 773
     },
-    "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
-        "country": "jp",
-        "top": {
-            "6": 933,
-            "7": 1664,
-            "8": 1851,
-            "9": 2165,
-            "10": 2168,
-            "11": 2003
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 12,
-            "9": 20,
-            "10": 10,
-            "11": 3
-        },
-        "pb": 404297,
-        "streak": 14,
-        "matches": 8683,
-        "playtime": 5040433448,
-        "finished": 3153,
-        "finishtime": 2175453351,
-        "won": 4353,
-        "lost": 4088,
-        "forfeited": 2097
-    },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
         "country": "vn",
@@ -4025,12 +3996,12 @@
         },
         "pb": 394023,
         "streak": 14,
-        "matches": 9791,
-        "playtime": 6065870475,
+        "matches": 9792,
+        "playtime": 6066342566,
         "finished": 3860,
         "finishtime": 2592464409,
         "won": 4883,
-        "lost": 4551,
+        "lost": 4552,
         "forfeited": 880
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -4294,11 +4265,11 @@
         },
         "pb": 417448,
         "streak": 24,
-        "matches": 10143,
-        "playtime": 6146743297,
+        "matches": 10144,
+        "playtime": 6146962401,
         "finished": 3439,
         "finishtime": 2426893029,
-        "won": 4968,
+        "won": 4969,
         "lost": 4720,
         "forfeited": 1850
     },
@@ -4563,12 +4534,12 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4508,
-        "playtime": 2539982443,
+        "matches": 4509,
+        "playtime": 2540499179,
         "finished": 2645,
         "finishtime": 1530140352,
         "won": 3075,
-        "lost": 1361,
+        "lost": 1362,
         "forfeited": 40
     },
     "a5d83ff042164ff1b862dedc118c1dae": {
@@ -5290,6 +5261,45 @@
         "won": 1912,
         "lost": 1492,
         "forfeited": 255
+    },
+    "c41b14ac0f1547aeb7690276d82aa458": {
+        "nickname": "Psemcovici",
+        "country": "br",
+        "top": {
+            "1": 1719,
+            "2": 1631,
+            "3": 1610,
+            "4": 1761,
+            "5": 1526,
+            "6": 1629,
+            "7": 1719,
+            "8": 1805,
+            "9": 2030,
+            "10": 1902,
+            "11": 2030
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 10,
+            "5": 0,
+            "6": 0,
+            "7": 10,
+            "8": 12,
+            "9": 19,
+            "10": 0,
+            "11": 0
+        },
+        "pb": 444518,
+        "streak": 10,
+        "matches": 5040,
+        "playtime": 3092537945,
+        "finished": 1826,
+        "finishtime": 1354629897,
+        "won": 2597,
+        "lost": 2323,
+        "forfeited": 1096
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "josh7eautwins",
