@@ -1,5 +1,5 @@
 {
-    "date": 1781826001000,
+    "date": 1781826601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -195734,7 +195734,7 @@
             "uuid": "8d95a99f8e2e412eb31a65b0f4911225",
             "nickname": "litdab",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2013,
                 "top": 2013,
                 "points": 3,
@@ -205641,7 +205641,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2011,
                 "top": 2041,
                 "points": 6,
@@ -210466,7 +210466,7 @@
             "uuid": "7fad8dae2ab04971bc07a6440f84d609",
             "nickname": "suravil",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2007,
                 "top": 2062,
                 "points": 12,
@@ -216593,7 +216593,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2004,
                 "top": 2249,
                 "points": 36,
@@ -221474,7 +221474,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2004,
                 "top": 2004,
                 "points": 8,
@@ -226397,7 +226397,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2003,
                 "top": 2013,
                 "points": 0,
@@ -229220,7 +229220,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2003,
                 "top": 2003,
                 "points": 3,
