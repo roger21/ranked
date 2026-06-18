@@ -6081,13 +6081,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9420,
-        "playtime": 5777105365,
+        "matches": 9421,
+        "playtime": 5778007959,
         "finished": 4110,
         "finishtime": 2754835755,
         "won": 5032,
-        "lost": 4241,
-        "forfeited": 979
+        "lost": 4242,
+        "forfeited": 980
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
