@@ -910,13 +910,13 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 4131,
-        "playtime": 2471961738,
+        "matches": 4132,
+        "playtime": 2472171955,
         "finished": 2013,
         "finishtime": 1240250020,
         "won": 2337,
-        "lost": 1694,
-        "forfeited": 94
+        "lost": 1695,
+        "forfeited": 95
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
         "nickname": "temp_gd",
@@ -6081,11 +6081,11 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9419,
-        "playtime": 5776895148,
+        "matches": 9420,
+        "playtime": 5777105365,
         "finished": 4110,
         "finishtime": 2754835755,
-        "won": 5031,
+        "won": 5032,
         "lost": 4241,
         "forfeited": 979
     },
