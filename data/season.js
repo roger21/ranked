@@ -1,5 +1,5 @@
 {
-    "date": 1781747401000,
+    "date": 1781748001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18135,22 +18135,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 4,
-                "elo": 2246,
+                "elo": 2257,
                 "top": 2345,
                 "points": 47,
                 "pb": 401695,
-                "current": 2,
+                "current": 3,
                 "streak": 10,
-                "matches": 384,
-                "playtime": 206328525,
-                "finished": 233,
-                "finishtime": 127346116,
-                "won": 257,
+                "matches": 385,
+                "playtime": 206899081,
+                "finished": 234,
+                "finishtime": 127916672,
+                "won": 258,
                 "lost": 123,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1781747850000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Lexanh",
+                    "elo": 2257,
+                    "change": 11,
+                    "oelo": 1975,
+                    "ochange": -11,
+                    "time": 570556,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781745933000,
                     "type": "RUINED_PORTAL",
