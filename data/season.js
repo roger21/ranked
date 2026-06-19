@@ -1,5 +1,5 @@
 {
-    "date": 1781851201000,
+    "date": 1781851801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -173212,20 +173212,6 @@
                     "time": 300439,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777531731000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1553,
-                    "change": 21,
-                    "oelo": 1551,
-                    "ochange": -21,
-                    "time": 512331,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -220093,20 +220079,6 @@
                     "oelo": 1581,
                     "ochange": -15,
                     "time": 501945,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777531459000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "wagasylvie",
-                    "elo": 1722,
-                    "change": 19,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 556165,
                     "forfeited": false,
                     "decayed": false
                 }
