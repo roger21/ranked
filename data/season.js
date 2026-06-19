@@ -1,5 +1,5 @@
 {
-    "date": 1781843401000,
+    "date": 1781844001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50353,20 +50353,6 @@
                     "time": 492540,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777523825000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "tomorrowsharvest",
-                    "elo": 1819,
-                    "change": 12,
-                    "oelo": 1570,
-                    "ochange": -12,
-                    "time": 518400,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -63888,20 +63874,6 @@
                     "oelo": 1597,
                     "ochange": 24,
                     "time": 629458,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777523408000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1696,
-                    "change": -22,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 615962,
                     "forfeited": false,
                     "decayed": false
                 }
