@@ -1,5 +1,5 @@
 {
-    "date": 1781910601000,
+    "date": 1781911201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18271,20 +18271,6 @@
                     "time": 496592,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777591017000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "woofdoggo_",
-                    "elo": 1748,
-                    "change": 21,
-                    "oelo": 1731,
-                    "ochange": -21,
-                    "time": 659424,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -30906,20 +30892,6 @@
                     "oelo": 1767,
                     "ochange": 19,
                     "time": 496592,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777591134000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "TuCarta",
-                    "elo": 1711,
-                    "change": -23,
-                    "oelo": 1686,
-                    "ochange": 23,
-                    "time": 575051,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -73218,20 +73190,6 @@
                     "time": 584091,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777591017000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1731,
-                    "change": -21,
-                    "oelo": 1748,
-                    "ochange": 21,
-                    "time": 659424,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -109723,20 +109681,6 @@
                     "time": 737419,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777590770000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1586,
-                    "change": -20,
-                    "oelo": 1613,
-                    "ochange": 20,
-                    "time": 826515,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -128064,20 +128008,6 @@
                     "oelo": 1514,
                     "ochange": -17,
                     "time": 639121,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777590770000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "okshey",
-                    "elo": 1613,
-                    "change": 20,
-                    "oelo": 1586,
-                    "ochange": -20,
-                    "time": 826515,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -213958,20 +213888,6 @@
                     "ochange": 17,
                     "time": 639121,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777590750000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1531,
-                    "change": -20,
-                    "oelo": 1574,
-                    "ochange": 20,
-                    "time": 537285,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
