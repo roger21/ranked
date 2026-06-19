@@ -1,5 +1,5 @@
 {
-    "date": 1781910001000,
+    "date": 1781910601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9853,20 +9853,6 @@
                     "time": 684357,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777590580000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1778,
-                    "change": 16,
-                    "oelo": 1638,
-                    "ochange": -16,
-                    "time": 523910,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -18298,20 +18284,6 @@
                     "ochange": -21,
                     "time": 659424,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777590310000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "JackoWacko62",
-                    "elo": 1727,
-                    "change": -1,
-                    "oelo": 1616,
-                    "ochange": 1,
-                    "time": 520363,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -30949,34 +30921,6 @@
                     "ochange": 23,
                     "time": 575051,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777590504000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "OG_MineMan",
-                    "elo": 1734,
-                    "change": 14,
-                    "oelo": 1536,
-                    "ochange": -14,
-                    "time": 342613,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777590044000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "woofdoggo_",
-                    "elo": 1720,
-                    "change": -20,
-                    "oelo": 1752,
-                    "ochange": 20,
-                    "time": 302225,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -73287,20 +73231,6 @@
                     "ochange": 21,
                     "time": 659424,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777590044000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1752,
-                    "change": 20,
-                    "oelo": 1720,
-                    "ochange": -20,
-                    "time": 302225,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -171362,20 +171292,6 @@
                     "oelo": 1504,
                     "ochange": -18,
                     "time": 619054,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777590555000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "_zupi",
-                    "elo": 1575,
-                    "change": 21,
-                    "oelo": 1573,
-                    "ochange": -21,
-                    "time": 708717,
                     "forfeited": false,
                     "decayed": false
                 }
