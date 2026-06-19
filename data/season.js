@@ -1,5 +1,5 @@
 {
-    "date": 1781872801000,
+    "date": 1781873401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -49555,20 +49555,6 @@
                     "time": 606349,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777552922000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 1630,
-                    "change": 27,
-                    "oelo": 1767,
-                    "ochange": -27,
-                    "time": 664105,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -72485,20 +72471,6 @@
                     "time": 572381,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777552922000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1767,
-                    "change": -27,
-                    "oelo": 1630,
-                    "ochange": 27,
-                    "time": 664105,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82246,20 +82218,6 @@
                     "ochange": 0,
                     "time": 539871,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777553120000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Wayyyyyy_",
-                    "elo": 1653,
-                    "change": 18,
-                    "oelo": 1574,
-                    "ochange": -18,
-                    "time": 687800,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -137653,20 +137611,6 @@
                     "oelo": 1556,
                     "ochange": 21,
                     "time": 523621,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777553363000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Dalex127",
-                    "elo": 1550,
-                    "change": -22,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 665779,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195949,20 +195893,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 776409,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777553093000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Atu_rtaaaaaaaaa",
-                    "elo": 1263,
-                    "change": 21,
-                    "oelo": 1254,
-                    "ochange": -21,
-                    "time": 714574,
                     "forfeited": false,
                     "decayed": false
                 }
