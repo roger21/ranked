@@ -1,5 +1,5 @@
 {
-    "date": 1781848201000,
+    "date": 1781848801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10425,20 +10425,6 @@
                     "oelo": 1589,
                     "ochange": 25,
                     "time": 758147,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777528370000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1718,
-                    "change": 17,
-                    "oelo": 1608,
-                    "ochange": -17,
-                    "time": 557891,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -61933,20 +61919,6 @@
                     "oelo": 1564,
                     "ochange": 22,
                     "time": 646245,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777528226000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "wethr",
-                    "elo": 1598,
-                    "change": -23,
-                    "oelo": 1561,
-                    "ochange": 23,
-                    "time": 558280,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -155362,20 +155334,6 @@
                     "oelo": 1693,
                     "ochange": -25,
                     "time": 758147,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777528364000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1564,
-                    "change": 18,
-                    "oelo": 1464,
-                    "ochange": -18,
-                    "time": 661061,
                     "forfeited": false,
                     "decayed": false
                 }
