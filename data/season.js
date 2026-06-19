@@ -1,5 +1,5 @@
 {
-    "date": 1781866801000,
+    "date": 1781867401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -72539,20 +72539,6 @@
                     "oelo": 1603,
                     "ochange": -16,
                     "time": 468511,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777546919000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nana_takahashi",
-                    "elo": 1733,
-                    "change": 14,
-                    "oelo": 1533,
-                    "ochange": -14,
-                    "time": 457067,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175557,23 +175543,37 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 39,
-                "elo": 2045,
+                "rank": 42,
+                "elo": 2017,
                 "top": 2158,
                 "points": 3,
                 "pb": 467838,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 566,
-                "playtime": 342756421,
+                "matches": 567,
+                "playtime": 343369694,
                 "finished": 260,
                 "finishtime": 162931771,
                 "won": 299,
-                "lost": 247,
+                "lost": 248,
                 "forfeited": 13
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1781867451000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "huhPrince",
+                    "elo": 2017,
+                    "change": -28,
+                    "oelo": 1825,
+                    "ochange": 28,
+                    "time": 613273,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781866305000,
                     "type": "BURIED_TREASURE",
@@ -183448,7 +183448,7 @@
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2044,
                 "top": 2183,
                 "points": 25,
@@ -187013,7 +187013,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2038,
                 "top": 2158,
                 "points": 32,
@@ -189024,7 +189024,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2032,
                 "top": 2106,
                 "points": 8,
