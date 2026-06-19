@@ -1,5 +1,5 @@
 {
-    "date": 1781892001000,
+    "date": 1781892601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -113190,20 +113190,6 @@
                     "time": 509002,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777572289000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1653,
-                    "change": 18,
-                    "oelo": 1564,
-                    "ochange": -18,
-                    "time": 672410,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -123482,20 +123468,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 554763,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777572307000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "steez",
-                    "elo": 1730,
-                    "change": 19,
-                    "oelo": 1664,
-                    "ochange": -19,
-                    "time": 479147,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -178287,20 +178259,6 @@
                     "oelo": 1602,
                     "ochange": -18,
                     "time": 638517,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777572307000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1664,
-                    "change": -19,
-                    "oelo": 1730,
-                    "ochange": 19,
-                    "time": 479147,
                     "forfeited": false,
                     "decayed": false
                 }
