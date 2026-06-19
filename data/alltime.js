@@ -2417,12 +2417,12 @@
         },
         "pb": 478945,
         "streak": 10,
-        "matches": 3346,
-        "playtime": 2377313687,
+        "matches": 3347,
+        "playtime": 2378008369,
         "finished": 1229,
         "finishtime": 970023008,
         "won": 1683,
-        "lost": 1519,
+        "lost": 1520,
         "forfeited": 68
     },
     "5a32f1e5609847c691c07730f973397c": {
@@ -5176,13 +5176,13 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 7447,
-        "playtime": 3903433996,
+        "matches": 7448,
+        "playtime": 3904016424,
         "finished": 2145,
         "finishtime": 1412450661,
         "won": 3568,
-        "lost": 3455,
-        "forfeited": 2571
+        "lost": 3456,
+        "forfeited": 2572
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
@@ -5970,11 +5970,11 @@
         },
         "pb": 393306,
         "streak": 15,
-        "matches": 6934,
-        "playtime": 4267413109,
+        "matches": 6935,
+        "playtime": 4267995537,
         "finished": 2410,
         "finishtime": 1652637944,
-        "won": 3378,
+        "won": 3379,
         "lost": 3202,
         "forfeited": 948
     },
