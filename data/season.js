@@ -1,5 +1,5 @@
 {
-    "date": 1781902801000,
+    "date": 1781903401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9992,20 +9992,6 @@
                     "ochange": 0,
                     "time": 612267,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777583229000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1707,
-                    "change": -23,
-                    "oelo": 1674,
-                    "ochange": 23,
-                    "time": 681304,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -57665,20 +57651,6 @@
                     "time": 554034,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777583229000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1674,
-                    "change": 23,
-                    "oelo": 1707,
-                    "ochange": -23,
-                    "time": 681304,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -83622,14 +83594,14 @@
             "nickname": "vorbh",
             "stats": {
                 "rank": 19,
-                "elo": 2159,
+                "elo": 2157,
                 "top": 2181,
                 "points": 7,
                 "pb": 399797,
                 "current": 0,
                 "streak": 7,
-                "matches": 748,
-                "playtime": 433543953,
+                "matches": 749,
+                "playtime": 434144944,
                 "finished": 329,
                 "finishtime": 193174737,
                 "won": 376,
@@ -83638,6 +83610,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1781903384000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "loodlow",
+                    "elo": 2157,
+                    "change": -2,
+                    "oelo": 1945,
+                    "ochange": 2,
+                    "time": 600991,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1781785975000,
                     "type": "RUINED_PORTAL",
@@ -134471,20 +134457,6 @@
                     "oelo": 1700,
                     "ochange": 22,
                     "time": 528670,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777583151000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 1731,
-                    "change": 22,
-                    "oelo": 1752,
-                    "ochange": -22,
-                    "time": 612512,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -187596,20 +187568,6 @@
                     "oelo": 1709,
                     "ochange": -22,
                     "time": 528670,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777582846000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1678,
-                    "change": -22,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 488302,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -258499,20 +258457,6 @@
                     "oelo": 1659,
                     "ochange": 24,
                     "time": 490008,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777583151000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1752,
-                    "change": -22,
-                    "oelo": 1731,
-                    "ochange": 22,
-                    "time": 612512,
                     "forfeited": false,
                     "decayed": false
                 }
