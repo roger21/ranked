@@ -1,5 +1,5 @@
 {
-    "date": 1781853001000,
+    "date": 1781853601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19025,20 +19025,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 458130,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777533216000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1628,
-                    "change": -23,
-                    "oelo": 1598,
-                    "ochange": 23,
-                    "time": 582156,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -173155,20 +173141,6 @@
                     "ochange": 0,
                     "time": 676133,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777533434000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "pardonmc",
-                    "elo": 1573,
-                    "change": -20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 543001,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
