@@ -1,5 +1,5 @@
 {
-    "date": 1781900401000,
+    "date": 1781901001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -62924,20 +62924,6 @@
                     "time": 552605,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777580411000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "woofdoggo_",
-                    "elo": 1665,
-                    "change": -22,
-                    "oelo": 1651,
-                    "ochange": 22,
-                    "time": 507545,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -68624,20 +68610,6 @@
                     "oelo": 1608,
                     "ochange": -19,
                     "time": 563104,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777580411000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BadGamer",
-                    "elo": 1651,
-                    "change": 22,
-                    "oelo": 1665,
-                    "ochange": -22,
-                    "time": 507545,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107273,20 +107245,6 @@
                     "time": 593711,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777580979000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1592,
-                    "change": -17,
-                    "oelo": 1712,
-                    "ochange": 17,
-                    "time": 761761,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -123939,20 +123897,6 @@
                     "oelo": 1757,
                     "ochange": -22,
                     "time": 630311,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777580979000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "darvy__",
-                    "elo": 1712,
-                    "change": 17,
-                    "oelo": 1592,
-                    "ochange": -17,
-                    "time": 761761,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -197267,20 +197211,6 @@
                     "time": 912891,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777580633000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "trashboatracer19",
-                    "elo": 1390,
-                    "change": 20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 814146,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -236356,23 +236286,37 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 48,
-                "elo": 2006,
+                "rank": 53,
+                "elo": 1993,
                 "top": 2230,
                 "points": 9,
                 "pb": 406116,
                 "current": 0,
                 "streak": 8,
-                "matches": 1298,
-                "playtime": 717648774,
+                "matches": 1299,
+                "playtime": 718384444,
                 "finished": 573,
                 "finishtime": 344015256,
                 "won": 669,
-                "lost": 606,
+                "lost": 607,
                 "forfeited": 166
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1781901074000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "wagasylvie",
+                    "elo": 1993,
+                    "change": -13,
+                    "oelo": 2227,
+                    "ochange": 13,
+                    "time": 735670,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781900161000,
                     "type": "SHIPWRECK",
@@ -254201,7 +254145,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2004,
                 "top": 2249,
                 "points": 36,
@@ -258732,7 +258676,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2004,
                 "top": 2004,
                 "points": 8,
