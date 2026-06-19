@@ -1,5 +1,5 @@
 {
-    "date": 1781876401000,
+    "date": 1781877001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3757,20 +3757,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 510175,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777556751000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1688,
-                    "change": 20,
-                    "oelo": 1646,
-                    "ochange": -20,
-                    "time": 537219,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -49457,20 +49443,6 @@
                     "time": 442856,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777556751000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1646,
-                    "change": -20,
-                    "oelo": 1688,
-                    "ochange": 20,
-                    "time": 537219,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92432,20 +92404,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 557420,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777556869000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Squirrelzh",
-                    "elo": 1602,
-                    "change": -21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 654262,
                     "forfeited": false,
                     "decayed": false
                 }
