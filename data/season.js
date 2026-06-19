@@ -1,5 +1,5 @@
 {
-    "date": 1781872201000,
+    "date": 1781872801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -137669,20 +137669,6 @@
                     "time": 665779,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777552583000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1572,
-                    "change": -19,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 648768,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -195978,20 +195964,6 @@
                     "ochange": -21,
                     "time": 714574,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777552307000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "IIXABII",
-                    "elo": 1242,
-                    "change": 0,
-                    "oelo": 1237,
-                    "ochange": 0,
-                    "time": 934282,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
