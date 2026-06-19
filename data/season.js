@@ -1,5 +1,5 @@
 {
-    "date": 1781844001000,
+    "date": 1781844601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50339,20 +50339,6 @@
                     "time": 533304,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777524480000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1830,
-                    "change": 11,
-                    "oelo": 1538,
-                    "ochange": -11,
-                    "time": 492540,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -63860,20 +63846,6 @@
                     "oelo": 1665,
                     "ochange": 21,
                     "time": 529225,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777524152000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "TuCarta",
-                    "elo": 1672,
-                    "change": -24,
-                    "oelo": 1597,
-                    "ochange": 24,
-                    "time": 629458,
                     "forfeited": false,
                     "decayed": false
                 }
