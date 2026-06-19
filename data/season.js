@@ -1,5 +1,5 @@
 {
-    "date": 1781850001000,
+    "date": 1781850601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66977,20 +66977,6 @@
                     "oelo": 1572,
                     "ochange": -15,
                     "time": 487208,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777530435000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1713,
-                    "change": 16,
-                    "oelo": 1575,
-                    "ochange": -16,
-                    "time": 533106,
                     "forfeited": false,
                     "decayed": false
                 }
