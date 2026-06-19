@@ -1,5 +1,5 @@
 {
-    "date": 1781845201000,
+    "date": 1781845801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50323,20 +50323,6 @@
                     "oelo": 1669,
                     "ochange": -14,
                     "time": 507103,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777525326000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1844,
-                    "change": 14,
-                    "oelo": 1651,
-                    "ochange": -14,
-                    "time": 533304,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -220416,20 +220402,6 @@
                     "ochange": -14,
                     "time": 289772,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777525593000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1666,
-                    "change": 19,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 593795,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
