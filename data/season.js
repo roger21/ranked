@@ -1,5 +1,5 @@
 {
-    "date": 1781862001000,
+    "date": 1781862601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10315,20 +10315,6 @@
                     "time": 528695,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777542148000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1713,
-                    "change": -16,
-                    "oelo": 1854,
-                    "ochange": 16,
-                    "time": 620251,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -18801,20 +18787,6 @@
                     "oelo": 1561,
                     "ochange": -16,
                     "time": 567141,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777542170000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1690,
-                    "change": -21,
-                    "oelo": 1694,
-                    "ochange": 21,
-                    "time": 563860,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -72653,20 +72625,6 @@
                     "time": 597751,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777542170000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1694,
-                    "change": 21,
-                    "oelo": 1690,
-                    "ochange": -21,
-                    "time": 563860,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82441,20 +82399,6 @@
                     "oelo": 1671,
                     "ochange": -23,
                     "time": 597751,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777542387000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ElegantRobin",
-                    "elo": 1612,
-                    "change": 20,
-                    "oelo": 1577,
-                    "ochange": -20,
-                    "time": 610993,
                     "forfeited": false,
                     "decayed": false
                 }
