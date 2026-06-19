@@ -1,5 +1,5 @@
 {
-    "date": 1781857201000,
+    "date": 1781857801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18941,20 +18941,6 @@
                     "oelo": 1574,
                     "ochange": -18,
                     "time": 564821,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777537713000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Pi1Mu9353",
-                    "elo": 1660,
-                    "change": 15,
-                    "oelo": 1486,
-                    "ochange": -15,
-                    "time": 524032,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -72861,20 +72847,6 @@
                     "oelo": 1574,
                     "ochange": -18,
                     "time": 612616,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777537655000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 1642,
-                    "change": 16,
-                    "oelo": 1498,
-                    "ochange": -16,
-                    "time": 558921,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -186625,23 +186597,37 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 43,
-                "elo": 2013,
+                "rank": 52,
+                "elo": 1992,
                 "top": 2158,
                 "points": 3,
                 "pb": 467838,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 557,
-                "playtime": 337049282,
+                "matches": 558,
+                "playtime": 337652871,
                 "finished": 254,
                 "finishtime": 158987092,
                 "won": 293,
-                "lost": 244,
+                "lost": 245,
                 "forfeited": 13
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1781857861000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "1_viewer",
+                    "elo": 1992,
+                    "change": -21,
+                    "oelo": 2008,
+                    "ochange": 21,
+                    "time": 603589,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781856549000,
                     "type": "SHIPWRECK",
@@ -204297,7 +204283,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2011,
                 "top": 2041,
                 "points": 6,
