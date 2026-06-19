@@ -1,5 +1,5 @@
 {
-    "date": 1781874001000,
+    "date": 1781874601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -49527,20 +49527,6 @@
                     "time": 487169,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777554429000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "TheCrazedTank",
-                    "elo": 1631,
-                    "change": -21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 586800,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82161,20 +82147,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 493546,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777554461000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "KindPlays",
-                    "elo": 1671,
-                    "change": 19,
-                    "oelo": 1607,
-                    "ochange": -19,
-                    "time": 522851,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195823,20 +195795,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 628852,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777554149000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "lisesnow",
-                    "elo": 1281,
-                    "change": 18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 776409,
                     "forfeited": false,
                     "decayed": false
                 }
