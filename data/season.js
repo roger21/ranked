@@ -1,5 +1,5 @@
 {
-    "date": 1781854801000,
+    "date": 1781855401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18983,20 +18983,6 @@
                     "oelo": 1555,
                     "ochange": -19,
                     "time": 502973,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777534936000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1627,
-                    "change": 18,
-                    "oelo": 1543,
-                    "ochange": -18,
-                    "time": 487591,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -173084,20 +173070,6 @@
                     "oelo": 1473,
                     "ochange": -18,
                     "time": 577733,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777535111000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1556,
-                    "change": -17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 590509,
                     "forfeited": false,
                     "decayed": false
                 }
