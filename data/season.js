@@ -1,5 +1,5 @@
 {
-    "date": 1781877601000,
+    "date": 1781878201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3730,20 +3730,6 @@
                     "ochange": 0,
                     "time": 619357,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777557993000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Brunted",
-                    "elo": 1723,
-                    "change": 16,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 439014,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -49399,20 +49385,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 594418,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777557857000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1684,
-                    "change": 18,
-                    "oelo": 1594,
-                    "ochange": -18,
-                    "time": 519125,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195543,20 +195515,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 550869,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777557809000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MakaronY_Y",
-                    "elo": 1321,
-                    "change": 21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 641316,
                     "forfeited": false,
                     "decayed": false
                 }
