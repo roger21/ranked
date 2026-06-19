@@ -1,5 +1,5 @@
 {
-    "date": 1781852401000,
+    "date": 1781853001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -173170,20 +173170,6 @@
                     "time": 543001,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777532753000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "LEC666888",
-                    "elo": 1593,
-                    "change": 20,
-                    "oelo": 1561,
-                    "ochange": -20,
-                    "time": 563125,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -220023,20 +220009,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 495067,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777532920000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Frolde",
-                    "elo": 1712,
-                    "change": -25,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 520150,
                     "forfeited": false,
                     "decayed": false
                 }
