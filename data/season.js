@@ -1,5 +1,5 @@
 {
-    "date": 1781847001000,
+    "date": 1781847601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10439,20 +10439,6 @@
                     "oelo": 1608,
                     "ochange": -17,
                     "time": 557891,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777527377000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Unknwonc",
-                    "elo": 1701,
-                    "change": 21,
-                    "oelo": 1686,
-                    "ochange": -21,
-                    "time": 592878,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -155392,20 +155378,6 @@
                     "time": 661061,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777527431000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "dandannyboy",
-                    "elo": 1546,
-                    "change": 1,
-                    "oelo": 1646,
-                    "ochange": -1,
-                    "time": 836483,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -220359,20 +220331,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 483994,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777527437000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1714,
-                    "change": 17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 510061,
                     "forfeited": false,
                     "decayed": false
                 }
