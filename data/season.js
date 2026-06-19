@@ -1,5 +1,5 @@
 {
-    "date": 1781856601000,
+    "date": 1781857201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18955,20 +18955,6 @@
                     "oelo": 1486,
                     "ochange": -15,
                     "time": 524032,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777536953000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 1645,
-                    "change": 21,
-                    "oelo": 1626,
-                    "ochange": -21,
-                    "time": 542711,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -72889,20 +72875,6 @@
                     "oelo": 1498,
                     "ochange": -16,
                     "time": 558921,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777536953000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1626,
-                    "change": -21,
-                    "oelo": 1645,
-                    "ochange": 21,
-                    "time": 542711,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -173029,20 +173001,6 @@
                     "ochange": -20,
                     "time": 441634,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777537190000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "harusame_0123",
-                    "elo": 1575,
-                    "change": 20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 658942,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
