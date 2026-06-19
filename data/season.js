@@ -1,5 +1,5 @@
 {
-    "date": 1781841601000,
+    "date": 1781842201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10481,20 +10481,6 @@
                     "oelo": 1535,
                     "ochange": 26,
                     "time": 481018,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777521830000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1687,
-                    "change": -17,
-                    "oelo": 1816,
-                    "ochange": 17,
-                    "time": 490131,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -50479,20 +50465,6 @@
                     "time": 475966,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777521830000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1816,
-                    "change": 17,
-                    "oelo": 1687,
-                    "ochange": -17,
-                    "time": 490131,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -64042,20 +64014,6 @@
                     "oelo": 1630,
                     "ochange": -18,
                     "time": 470483,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777522048000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TuCarta",
-                    "elo": 1700,
-                    "change": 18,
-                    "oelo": 1615,
-                    "ochange": -18,
-                    "time": 669553,
                     "forfeited": false,
                     "decayed": false
                 }
