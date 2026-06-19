@@ -1,5 +1,5 @@
 {
-    "date": 1781912401000,
+    "date": 1781913001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9825,20 +9825,6 @@
                     "time": 598672,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777592856000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1810,
-                    "change": 17,
-                    "oelo": 1693,
-                    "ochange": -17,
-                    "time": 582592,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -18213,20 +18199,6 @@
                     "oelo": 1650,
                     "ochange": -15,
                     "time": 598553,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777592962000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 1798,
-                    "change": 16,
-                    "oelo": 1660,
-                    "ochange": -16,
-                    "time": 478861,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30808,20 +30780,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 539488,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777592856000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1693,
-                    "change": -17,
-                    "oelo": 1810,
-                    "ochange": 17,
-                    "time": 582592,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -109569,20 +109527,6 @@
                     "time": 605051,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777592773000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1607,
-                    "change": 21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 694683,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127911,20 +127855,6 @@
                     "ochange": 0,
                     "time": 955421,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777592559000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1649,
-                    "change": 19,
-                    "oelo": 1574,
-                    "ochange": -19,
-                    "time": 490883,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -171124,20 +171054,6 @@
                     "oelo": 1517,
                     "ochange": -19,
                     "time": 651169,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777592431000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1575,
-                    "change": -18,
-                    "oelo": 1676,
-                    "ochange": 18,
-                    "time": 698563,
                     "forfeited": false,
                     "decayed": false
                 }
