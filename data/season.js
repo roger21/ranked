@@ -1,5 +1,5 @@
 {
-    "date": 1781848801000,
+    "date": 1781849401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10411,20 +10411,6 @@
                     "oelo": 1739,
                     "ochange": 19,
                     "time": 510104,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777529322000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 1693,
-                    "change": -25,
-                    "oelo": 1589,
-                    "ochange": 25,
-                    "time": 758147,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -61905,20 +61891,6 @@
                     "oelo": 1552,
                     "ochange": 22,
                     "time": 561387,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777529041000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Feuerdrache",
-                    "elo": 1576,
-                    "change": -22,
-                    "oelo": 1564,
-                    "ochange": 22,
-                    "time": 646245,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -155322,20 +155294,6 @@
                     "time": 580036,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777529322000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1589,
-                    "change": 25,
-                    "oelo": 1693,
-                    "ochange": -25,
-                    "time": 758147,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -220261,20 +220219,6 @@
                     "oelo": 1550,
                     "ochange": -15,
                     "time": 627946,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777528985000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TuCarta",
-                    "elo": 1710,
-                    "change": 18,
-                    "oelo": 1607,
-                    "ochange": -18,
-                    "time": 525035,
                     "forfeited": false,
                     "decayed": false
                 }
