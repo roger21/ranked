@@ -1,5 +1,5 @@
 {
-    "date": 1781853601000,
+    "date": 1781854201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18997,34 +18997,6 @@
                     "oelo": 1543,
                     "ochange": -18,
                     "time": 487591,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777534182000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "BlazeMind",
-                    "elo": 1609,
-                    "change": 1,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 360795,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777533766000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "wagasylvie",
-                    "elo": 1608,
-                    "change": -20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 458130,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55065,20 +55037,6 @@
                     "ochange": -17,
                     "time": 420759,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777534195000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "IBringSuffering",
-                    "elo": 1627,
-                    "change": -1,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 280820,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -219967,20 +219925,6 @@
                     "oelo": 1558,
                     "ochange": -14,
                     "time": 649909,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777533744000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 1730,
-                    "change": 18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 495067,
                     "forfeited": false,
                     "decayed": false
                 }
