@@ -1,5 +1,5 @@
 {
-    "date": 1781865601000,
+    "date": 1781866201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -72553,20 +72553,6 @@
                     "oelo": 1533,
                     "ochange": -14,
                     "time": 457067,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777545905000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "CookieAddicts",
-                    "elo": 1719,
-                    "change": 15,
-                    "oelo": 1548,
-                    "ochange": -15,
-                    "time": 566625,
                     "forfeited": false,
                     "decayed": false
                 }
