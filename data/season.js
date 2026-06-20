@@ -1,5 +1,5 @@
 {
-    "date": 1781918401000,
+    "date": 1781919001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30474,20 +30474,6 @@
                     "time": 811285,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777598888000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1692,
-                    "change": -22,
-                    "oelo": 1669,
-                    "ochange": 22,
-                    "time": 706971,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -48447,20 +48433,6 @@
                     "oelo": 1885,
                     "ochange": 21,
                     "time": 822345,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777598464000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1904,
-                    "change": 11,
-                    "oelo": 1628,
-                    "ochange": -11,
-                    "time": 506241,
                     "forfeited": false,
                     "decayed": false
                 }
