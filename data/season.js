@@ -1,5 +1,5 @@
 {
-    "date": 1781924401000,
+    "date": 1781925001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9627,20 +9627,6 @@
                     "oelo": 1960,
                     "ochange": -24,
                     "time": 520941,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777604758000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "WarioTime1",
-                    "elo": 1873,
-                    "change": 14,
-                    "oelo": 1662,
-                    "ochange": -14,
-                    "time": 591821,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -94947,20 +94933,6 @@
                     "oelo": 1617,
                     "ochange": -18,
                     "time": 535315,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777604968000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 1677,
-                    "change": 18,
-                    "oelo": 1592,
-                    "ochange": -18,
-                    "time": 591663,
                     "forfeited": false,
                     "decayed": false
                 }
