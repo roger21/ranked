@@ -1,5 +1,5 @@
 {
-    "date": 1781945401000,
+    "date": 1781946002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -146885,20 +146885,6 @@
                     "time": 669736,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777625851000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "a4102545",
-                    "elo": 1530,
-                    "change": -20,
-                    "oelo": 1576,
-                    "ochange": 20,
-                    "time": 569046,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -205473,20 +205459,6 @@
                     "oelo": 1595,
                     "ochange": 19,
                     "time": 658362,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777625950000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "LilMinien",
-                    "elo": 1555,
-                    "change": -20,
-                    "oelo": 1596,
-                    "ochange": 20,
-                    "time": 521599,
                     "forfeited": false,
                     "decayed": false
                 }
