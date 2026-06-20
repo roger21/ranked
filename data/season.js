@@ -1,5 +1,5 @@
 {
-    "date": 1781916601000,
+    "date": 1781917201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30557,20 +30557,6 @@
                     "ochange": 14,
                     "time": 530835,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777596962000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "stapl3r_",
-                    "elo": 1711,
-                    "change": 14,
-                    "oelo": 1522,
-                    "ochange": -14,
-                    "time": 482912,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -228537,20 +228523,6 @@
                     "time": 524031,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777596942000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BTYR3KT",
-                    "elo": 1554,
-                    "change": -23,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 801647,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -234685,23 +234657,37 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 49,
-                "elo": 2004,
+                "rank": 57,
+                "elo": 1976,
                 "top": 2230,
                 "points": 9,
                 "pb": 406116,
                 "current": 0,
                 "streak": 8,
-                "matches": 1304,
-                "playtime": 721025225,
+                "matches": 1305,
+                "playtime": 721617878,
                 "finished": 575,
                 "finishtime": 345117621,
                 "won": 672,
-                "lost": 609,
+                "lost": 610,
                 "forfeited": 166
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1781917202000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "OG_MineMan",
+                    "elo": 1976,
+                    "change": -28,
+                    "oelo": 1786,
+                    "ochange": 28,
+                    "time": 592653,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781916476000,
                     "type": "SHIPWRECK",
@@ -252353,20 +252339,6 @@
                     "oelo": 1474,
                     "ochange": -20,
                     "time": 528944,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777597082000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yubbawubba8",
-                    "elo": 1498,
-                    "change": -19,
-                    "oelo": 1550,
-                    "ochange": 19,
-                    "time": 650337,
                     "forfeited": false,
                     "decayed": false
                 }
