@@ -1,5 +1,5 @@
 {
-    "date": 1781931001000,
+    "date": 1781931601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12760,20 +12760,6 @@
                     "time": 562714,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777611557000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "JackoWacko62",
-                    "elo": 1653,
-                    "change": -24,
-                    "oelo": 1600,
-                    "ochange": 24,
-                    "time": 630703,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -17737,20 +17723,6 @@
                     "oelo": 1704,
                     "ochange": -14,
                     "time": 557927,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777611551000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1880,
-                    "change": 12,
-                    "oelo": 1609,
-                    "ochange": -12,
-                    "time": 695326,
                     "forfeited": false,
                     "decayed": false
                 }
