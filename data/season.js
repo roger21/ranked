@@ -1,5 +1,5 @@
 {
-    "date": 1781929801000,
+    "date": 1781930401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12788,20 +12788,6 @@
                     "time": 497173,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777609998000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1660,
-                    "change": -14,
-                    "oelo": 1856,
-                    "ochange": 14,
-                    "time": 496921,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -17793,20 +17779,6 @@
                     "oelo": 1597,
                     "ochange": -12,
                     "time": 587192,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777609998000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nhb_",
-                    "elo": 1856,
-                    "change": 14,
-                    "oelo": 1660,
-                    "ochange": -14,
-                    "time": 496921,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -120346,20 +120318,6 @@
                     "oelo": 1576,
                     "ochange": -20,
                     "time": 659663,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777609880000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1609,
-                    "change": 20,
-                    "oelo": 1579,
-                    "ochange": -20,
-                    "time": 580036,
                     "forfeited": false,
                     "decayed": false
                 }
