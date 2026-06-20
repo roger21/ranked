@@ -2068,12 +2068,12 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4317,
-        "playtime": 2632271090,
+        "matches": 4318,
+        "playtime": 2632864553,
         "finished": 1522,
         "finishtime": 1102363181,
         "won": 2154,
-        "lost": 1851,
+        "lost": 1852,
         "forfeited": 540
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -3520,6 +3520,35 @@
         "won": 2541,
         "lost": 2390,
         "forfeited": 773
+    },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2003
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 3
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8683,
+        "playtime": 5040433448,
+        "finished": 3153,
+        "finishtime": 2175453351,
+        "won": 4353,
+        "lost": 4088,
+        "forfeited": 2097
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -5176,11 +5205,11 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 7451,
-        "playtime": 3905552159,
+        "matches": 7452,
+        "playtime": 3906193175,
         "finished": 2146,
         "finishtime": 1412946574,
-        "won": 3569,
+        "won": 3570,
         "lost": 3458,
         "forfeited": 2574
     },
@@ -5244,13 +5273,13 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 1433,
-        "playtime": 856937887,
+        "matches": 1434,
+        "playtime": 857578903,
         "finished": 643,
         "finishtime": 412871475,
         "won": 830,
-        "lost": 564,
-        "forfeited": 79
+        "lost": 565,
+        "forfeited": 80
     },
     "c32cdd142a0147dcb91771319d745194": {
         "nickname": "Erikfzf",
