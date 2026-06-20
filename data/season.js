@@ -1,5 +1,5 @@
 {
-    "date": 1781970001000,
+    "date": 1781970601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -57810,20 +57810,6 @@
                     "time": 514557,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777650114000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1638,
-                    "change": -19,
-                    "oelo": 1715,
-                    "ochange": 19,
-                    "time": 306388,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -72718,20 +72704,6 @@
                     "ochange": -20,
                     "time": 547192,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777650171000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ranik_",
-                    "elo": 1586,
-                    "change": 23,
-                    "oelo": 1621,
-                    "ochange": -23,
-                    "time": 469548,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -94877,20 +94849,6 @@
                     "oelo": 1735,
                     "ochange": 20,
                     "time": 647062,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777650048000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1712,
-                    "change": 18,
-                    "oelo": 1615,
-                    "ochange": -18,
-                    "time": 528131,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -146632,20 +146590,6 @@
                     "ochange": 1,
                     "time": 627120,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777650048000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "darvy__",
-                    "elo": 1615,
-                    "change": -18,
-                    "oelo": 1712,
-                    "ochange": 18,
-                    "time": 528131,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
