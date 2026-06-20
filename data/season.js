@@ -1,5 +1,5 @@
 {
-    "date": 1781925601000,
+    "date": 1781926201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9613,20 +9613,6 @@
                     "oelo": 1682,
                     "ochange": -13,
                     "time": 654050,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777605724000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1897,
-                    "change": 24,
-                    "oelo": 1960,
-                    "ochange": -24,
-                    "time": 520941,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -48097,20 +48083,6 @@
                     "oelo": 1670,
                     "ochange": -11,
                     "time": 498053,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777605724000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1960,
-                    "change": -24,
-                    "oelo": 1897,
-                    "ochange": 24,
-                    "time": 520941,
                     "forfeited": false,
                     "decayed": false
                 }
