@@ -1,5 +1,5 @@
 {
-    "date": 1781971201000,
+    "date": 1781971801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -72677,20 +72677,6 @@
                     "time": 559319,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777651715000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1591,
-                    "change": -15,
-                    "oelo": 1750,
-                    "ochange": 15,
-                    "time": 543691,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -94809,20 +94795,6 @@
                     "time": 524462,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777651423000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1709,
-                    "change": 17,
-                    "oelo": 1597,
-                    "ochange": -17,
-                    "time": 515357,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97112,20 +97084,6 @@
                     "oelo": 1636,
                     "ochange": 20,
                     "time": 623386,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777651296000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Kickz",
-                    "elo": 1617,
-                    "change": 19,
-                    "oelo": 1558,
-                    "ochange": -19,
-                    "time": 555274,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -115026,20 +114984,6 @@
                     "oelo": 1563,
                     "ochange": -19,
                     "time": 557957,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777651665000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1603,
-                    "change": 20,
-                    "oelo": 1563,
-                    "ochange": -20,
-                    "time": 725893,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -146505,20 +146449,6 @@
                     "oelo": 1579,
                     "ochange": 21,
                     "time": 553390,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777651423000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "darvy__",
-                    "elo": 1597,
-                    "change": -17,
-                    "oelo": 1709,
-                    "ochange": 17,
-                    "time": 515357,
                     "forfeited": false,
                     "decayed": false
                 }
