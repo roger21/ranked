@@ -1,5 +1,5 @@
 {
-    "date": 1781972401000,
+    "date": 1781973001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -42672,20 +42672,6 @@
                     "time": 509545,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777652971000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "darvy__",
-                    "elo": 1751,
-                    "change": -22,
-                    "oelo": 1747,
-                    "ochange": 22,
-                    "time": 610174,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -72649,20 +72635,6 @@
                     "time": 581499,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777652476000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "4antoo",
-                    "elo": 1591,
-                    "change": 0,
-                    "oelo": 1578,
-                    "ochange": 0,
-                    "time": 559319,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -94753,20 +94725,6 @@
                     "time": 675033,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777652971000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1747,
-                    "change": 22,
-                    "oelo": 1751,
-                    "ochange": -22,
-                    "time": 610174,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97028,20 +96986,6 @@
                     "oelo": 1647,
                     "ochange": -23,
                     "time": 581773,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777652706000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 1577,
-                    "change": -20,
-                    "oelo": 1614,
-                    "ochange": 20,
-                    "time": 529672,
                     "forfeited": false,
                     "decayed": false
                 }
