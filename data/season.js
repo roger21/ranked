@@ -1,5 +1,5 @@
 {
-    "date": 1781997601000,
+    "date": 1781998201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21382,20 +21382,6 @@
                     "oelo": 1683,
                     "ochange": -14,
                     "time": 678598,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777677742000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "WarioTime1",
-                    "elo": 1858,
-                    "change": 14,
-                    "oelo": 1658,
-                    "ochange": -14,
-                    "time": 656414,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -100147,20 +100133,6 @@
                     "time": 564378,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777677849000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "6crimson",
-                    "elo": 1739,
-                    "change": 16,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 640421,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -121750,20 +121722,6 @@
                     "oelo": 1872,
                     "ochange": 14,
                     "time": 678598,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777678037000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1697,
-                    "change": 19,
-                    "oelo": 1638,
-                    "ochange": -19,
-                    "time": 705124,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -206323,20 +206281,6 @@
                     "oelo": 1657,
                     "ochange": -21,
                     "time": 493047,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777678037000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1638,
-                    "change": -19,
-                    "oelo": 1697,
-                    "ochange": 19,
-                    "time": 705124,
                     "forfeited": false,
                     "decayed": false
                 }
