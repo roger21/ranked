@@ -1,5 +1,5 @@
 {
-    "date": 1781995201000,
+    "date": 1781995801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21411,20 +21411,6 @@
                     "ochange": 27,
                     "time": 776741,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777675307000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1871,
-                    "change": 14,
-                    "oelo": 1678,
-                    "ochange": -14,
-                    "time": 738319,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -56760,20 +56746,6 @@
                     "time": 768180,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777675307000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 1582,
-                    "change": 19,
-                    "oelo": 1526,
-                    "ochange": -19,
-                    "time": 727564,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -63278,20 +63250,6 @@
                     "ochange": -22,
                     "time": 668904,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777675307000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1678,
-                    "change": -14,
-                    "oelo": 1871,
-                    "ochange": 14,
-                    "time": 738319,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -100245,20 +100203,6 @@
                     "time": 626655,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777675307000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1688,
-                    "change": -23,
-                    "oelo": 1664,
-                    "ochange": 23,
-                    "time": 609255,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -121905,20 +121849,6 @@
                     "ochange": -20,
                     "time": 508972,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777675307000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1652,
-                    "change": 20,
-                    "oelo": 1608,
-                    "ochange": -20,
-                    "time": 686727,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -159599,20 +159529,6 @@
                     "ochange": -21,
                     "time": 639192,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777675307000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Voxio",
-                    "elo": 1665,
-                    "change": 18,
-                    "oelo": 1585,
-                    "ochange": -18,
-                    "time": 443215,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
