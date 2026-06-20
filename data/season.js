@@ -1,5 +1,5 @@
 {
-    "date": 1781998801000,
+    "date": 1781999401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21368,20 +21368,6 @@
                     "oelo": 1669,
                     "ochange": 28,
                     "time": 425210,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777678892000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 1872,
-                    "change": 14,
-                    "oelo": 1683,
-                    "ochange": -14,
-                    "time": 678598,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -100119,20 +100105,6 @@
                     "time": 556183,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777678864000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1755,
-                    "change": 16,
-                    "oelo": 1622,
-                    "ochange": -16,
-                    "time": 564378,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -121708,20 +121680,6 @@
                     "oelo": 1637,
                     "ochange": 23,
                     "time": 504662,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777678892000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1683,
-                    "change": -14,
-                    "oelo": 1872,
-                    "ochange": 14,
-                    "time": 678598,
                     "forfeited": false,
                     "decayed": false
                 }
