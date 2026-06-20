@@ -1,5 +1,5 @@
 {
-    "date": 1781917801000,
+    "date": 1781918401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9741,20 +9741,6 @@
                     "time": 822345,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777598286000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TuCarta",
-                    "elo": 1864,
-                    "change": 13,
-                    "oelo": 1652,
-                    "ochange": -13,
-                    "time": 520718,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -18045,20 +18031,6 @@
                     "oelo": 1605,
                     "ochange": -12,
                     "time": 634920,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777598147000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1850,
-                    "change": 12,
-                    "oelo": 1604,
-                    "ochange": -12,
-                    "time": 642903,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30514,20 +30486,6 @@
                     "oelo": 1669,
                     "ochange": 22,
                     "time": 706971,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777598125000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1714,
-                    "change": 17,
-                    "oelo": 1592,
-                    "ochange": -17,
-                    "time": 493778,
                     "forfeited": false,
                     "decayed": false
                 }
