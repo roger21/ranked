@@ -1,5 +1,5 @@
 {
-    "date": 1781931601000,
+    "date": 1781932201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -94599,20 +94599,6 @@
                     "time": 557927,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777611626000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 1718,
-                    "change": 17,
-                    "oelo": 1612,
-                    "ochange": -17,
-                    "time": 578588,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -120220,20 +120206,6 @@
                     "oelo": 1528,
                     "ochange": -18,
                     "time": 544310,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777611626000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1612,
-                    "change": -17,
-                    "oelo": 1718,
-                    "ochange": 17,
-                    "time": 578588,
                     "forfeited": false,
                     "decayed": false
                 }
