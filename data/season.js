@@ -1,5 +1,5 @@
 {
-    "date": 1781936401000,
+    "date": 1781937001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17667,20 +17667,6 @@
                     "oelo": 1755,
                     "ochange": -16,
                     "time": 502576,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777616980000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "amariyyyy",
-                    "elo": 1890,
-                    "change": 11,
-                    "oelo": 1597,
-                    "ochange": -11,
-                    "time": 603834,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -94445,20 +94431,6 @@
                     "time": 502576,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777616753000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Zylenox",
-                    "elo": 1771,
-                    "change": 15,
-                    "oelo": 1594,
-                    "ochange": -15,
-                    "time": 524664,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127266,20 +127238,6 @@
                     "oelo": 1555,
                     "ochange": 22,
                     "time": 844174,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777616980000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1597,
-                    "change": -11,
-                    "oelo": 1890,
-                    "ochange": 11,
-                    "time": 603834,
                     "forfeited": false,
                     "decayed": false
                 }
