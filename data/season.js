@@ -1,5 +1,5 @@
 {
-    "date": 1781986201000,
+    "date": 1781986801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -95770,20 +95770,6 @@
                     "time": 442094,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777666422000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wethr",
-                    "elo": 1618,
-                    "change": 19,
-                    "oelo": 1555,
-                    "ochange": -19,
-                    "time": 538168,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -113375,20 +113361,6 @@
                     "ochange": -24,
                     "time": 411342,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777666457000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1663,
-                    "change": 18,
-                    "oelo": 1563,
-                    "ochange": -18,
-                    "time": 520174,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -207753,20 +207725,6 @@
                     "time": 596824,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777666215000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Pjoes",
-                    "elo": 1557,
-                    "change": -23,
-                    "oelo": 1530,
-                    "ochange": 23,
-                    "time": 490471,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -223626,20 +223584,6 @@
                     "oelo": 1402,
                     "ochange": 20,
                     "time": 589093,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777666248000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "ValdarenMC",
-                    "elo": 1392,
-                    "change": -18,
-                    "oelo": 1471,
-                    "ochange": 18,
-                    "time": 668501,
                     "forfeited": false,
                     "decayed": false
                 }
