@@ -1,5 +1,5 @@
 {
-    "date": 1781996401000,
+    "date": 1781997001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21396,20 +21396,6 @@
                     "oelo": 1658,
                     "ochange": -14,
                     "time": 656414,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777676932000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1844,
-                    "change": -27,
-                    "oelo": 1699,
-                    "ochange": 27,
-                    "time": 776741,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -121808,20 +121794,6 @@
                     "time": 222653,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777676932000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1699,
-                    "change": 27,
-                    "oelo": 1844,
-                    "ochange": -27,
-                    "time": 776741,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -206407,20 +206379,6 @@
                     "oelo": 1526,
                     "ochange": -17,
                     "time": 555808,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777676648000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1640,
-                    "change": 21,
-                    "oelo": 1622,
-                    "ochange": -21,
-                    "time": 539660,
                     "forfeited": false,
                     "decayed": false
                 }
