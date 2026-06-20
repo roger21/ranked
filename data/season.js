@@ -1,5 +1,5 @@
 {
-    "date": 1781956801000,
+    "date": 1781957401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -174307,14 +174307,14 @@
             "nickname": "ogurikappa",
             "stats": {
                 "rank": 40,
-                "elo": 2052,
+                "elo": 2051,
                 "top": 2204,
                 "points": 0,
                 "pb": 395923,
                 "current": 1,
                 "streak": 9,
-                "matches": 1233,
-                "playtime": 649306482,
+                "matches": 1234,
+                "playtime": 649857521,
                 "finished": 473,
                 "finishtime": 252184569,
                 "won": 555,
@@ -174323,6 +174323,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1781957190000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "yeopgihoney",
+                    "elo": 2051,
+                    "change": -1,
+                    "oelo": 1974,
+                    "ochange": 1,
+                    "time": 551039,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1781955549000,
                     "type": "BURIED_TREASURE",
