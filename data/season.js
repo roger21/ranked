@@ -1,5 +1,5 @@
 {
-    "date": 1781948401000,
+    "date": 1781949001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -114732,23 +114732,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 24,
-                "elo": 2118,
+                "rank": 28,
+                "elo": 2093,
                 "top": 2139,
                 "points": 21,
                 "pb": 401156,
-                "current": 2,
+                "current": 0,
                 "streak": 8,
-                "matches": 375,
-                "playtime": 207230805,
+                "matches": 376,
+                "playtime": 207522060,
                 "finished": 188,
                 "finishtime": 109637226,
                 "won": 212,
-                "lost": 158,
-                "forfeited": 29
+                "lost": 159,
+                "forfeited": 30
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1781949004000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "ogurikappa",
+                    "elo": 2093,
+                    "change": -25,
+                    "oelo": 1989,
+                    "ochange": 25,
+                    "time": 291255,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1781948012000,
                     "type": "VILLAGE",
@@ -119991,7 +120005,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2113,
                 "top": 2234,
                 "points": 3,
@@ -125096,7 +125110,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2106,
                 "top": 2106,
                 "points": 11,
@@ -126323,7 +126337,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyyyy",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2102,
                 "top": 2102,
                 "points": 7,
@@ -132212,7 +132226,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2100,
                 "top": 2173,
                 "points": 0,
@@ -205417,20 +205431,6 @@
                     "oelo": 1497,
                     "ochange": -18,
                     "time": 541452,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777628689000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1576,
-                    "change": 21,
-                    "oelo": 1574,
-                    "ochange": -21,
-                    "time": 653124,
                     "forfeited": false,
                     "decayed": false
                 }
