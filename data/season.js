@@ -1,5 +1,5 @@
 {
-    "date": 1781950801000,
+    "date": 1781951401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -84781,20 +84781,6 @@
                     "time": 767056,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777630827000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "wagasylvie",
-                    "elo": 1673,
-                    "change": 25,
-                    "oelo": 1749,
-                    "ochange": -25,
-                    "time": 562636,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -136008,20 +135994,6 @@
                     "time": 491306,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777630827000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1749,
-                    "change": -25,
-                    "oelo": 1673,
-                    "ochange": 25,
-                    "time": 562636,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146813,20 +146785,6 @@
                     "oelo": 1615,
                     "ochange": -23,
                     "time": 476109,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777631177000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "jackuroo",
-                    "elo": 1546,
-                    "change": -22,
-                    "oelo": 1542,
-                    "ochange": 22,
-                    "time": 817151,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -222464,20 +222422,6 @@
                     "oelo": 1639,
                     "ochange": 21,
                     "time": 654902,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777631235000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1650,
-                    "change": 19,
-                    "oelo": 1590,
-                    "ochange": -19,
-                    "time": 598560,
                     "forfeited": false,
                     "decayed": false
                 }
