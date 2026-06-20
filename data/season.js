@@ -1,5 +1,5 @@
 {
-    "date": 1781971801000,
+    "date": 1781972401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -57796,20 +57796,6 @@
                     "time": 749741,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777652132000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "cofesho",
-                    "elo": 1637,
-                    "change": -1,
-                    "oelo": 1594,
-                    "ochange": 1,
-                    "time": 514557,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -94781,20 +94767,6 @@
                     "time": 610174,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777652236000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Brunted",
-                    "elo": 1725,
-                    "change": 16,
-                    "oelo": 1571,
-                    "ochange": -16,
-                    "time": 524462,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97070,20 +97042,6 @@
                     "oelo": 1614,
                     "ochange": 20,
                     "time": 529672,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777652069000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1597,
-                    "change": -20,
-                    "oelo": 1636,
-                    "ochange": 20,
-                    "time": 623386,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -114970,20 +114928,6 @@
                     "oelo": 1558,
                     "ochange": -18,
                     "time": 679243,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777652289000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Poomy1234",
-                    "elo": 1622,
-                    "change": 19,
-                    "oelo": 1563,
-                    "ochange": -19,
-                    "time": 557957,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -146435,20 +146379,6 @@
                     "oelo": 1640,
                     "ochange": 18,
                     "time": 679243,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777652258000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Kickz",
-                    "elo": 1576,
-                    "change": -21,
-                    "oelo": 1579,
-                    "ochange": 21,
-                    "time": 553390,
                     "forfeited": false,
                     "decayed": false
                 }
