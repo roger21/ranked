@@ -1,5 +1,5 @@
 {
-    "date": 1781937601000,
+    "date": 1781938201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90054,20 +90054,6 @@
                     "time": 569666,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777618079000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1644,
-                    "change": 17,
-                    "oelo": 1538,
-                    "ochange": -17,
-                    "time": 420759,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127197,20 +127183,6 @@
                     "ochange": -16,
                     "time": 592312,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777617905000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Vintex0",
-                    "elo": 1575,
-                    "change": -22,
-                    "oelo": 1555,
-                    "ochange": 22,
-                    "time": 844174,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
