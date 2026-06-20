@@ -1,5 +1,5 @@
 {
-    "date": 1781952601000,
+    "date": 1781953202000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141625,20 +141625,6 @@
                     "ochange": -20,
                     "time": 527124,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777632990000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1532,
-                    "change": -17,
-                    "oelo": 1660,
-                    "ochange": 17,
-                    "time": 565503,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
