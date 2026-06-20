@@ -1,5 +1,5 @@
 {
-    "date": 1781965801000,
+    "date": 1781966401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3491,20 +3491,6 @@
                     "oelo": 1633,
                     "ochange": -11,
                     "time": 528969,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777646029000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "amariyyyy",
-                    "elo": 1908,
-                    "change": 12,
-                    "oelo": 1666,
-                    "ochange": -12,
-                    "time": 513356,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -57978,20 +57964,6 @@
                     "time": 550618,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777645884000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1630,
-                    "change": -21,
-                    "oelo": 1643,
-                    "ochange": 21,
-                    "time": 602259,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -72969,20 +72941,6 @@
                     "oelo": 1625,
                     "ochange": 19,
                     "time": 654972,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777646012000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Potatifier",
-                    "elo": 1583,
-                    "change": 21,
-                    "oelo": 1563,
-                    "ochange": -21,
-                    "time": 436722,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -121253,20 +121211,6 @@
                     "time": 682291,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777646029000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1666,
-                    "change": -12,
-                    "oelo": 1908,
-                    "ochange": 12,
-                    "time": 513356,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -125026,20 +124970,6 @@
                     "oelo": 1778,
                     "ochange": 16,
                     "time": 514865,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777645833000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1648,
-                    "change": 21,
-                    "oelo": 1644,
-                    "ochange": -21,
-                    "time": 699571,
                     "forfeited": false,
                     "decayed": false
                 }
