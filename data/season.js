@@ -1,5 +1,5 @@
 {
-    "date": 1781926201000,
+    "date": 1781926801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9601,20 +9601,6 @@
                     "time": 555041,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777606426000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 1910,
-                    "change": 13,
-                    "oelo": 1682,
-                    "ochange": -13,
-                    "time": 654050,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -17891,20 +17877,6 @@
                     "oelo": 1987,
                     "ochange": 16,
                     "time": 621701,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777606274000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1862,
-                    "change": 12,
-                    "oelo": 1605,
-                    "ochange": -12,
-                    "time": 634920,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -48069,20 +48041,6 @@
                     "oelo": 1846,
                     "ochange": -16,
                     "time": 621701,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777606470000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "WarioTime1",
-                    "elo": 1971,
-                    "change": 11,
-                    "oelo": 1670,
-                    "ochange": -11,
-                    "time": 498053,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -94863,20 +94821,6 @@
                     "oelo": 1649,
                     "ochange": -19,
                     "time": 515118,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777606426000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1682,
-                    "change": -13,
-                    "oelo": 1910,
-                    "ochange": 13,
-                    "time": 654050,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -172123,7 +172067,7 @@
             "nickname": "priffie",
             "stats": {
                 "rank": 40,
-                "elo": 2032,
+                "elo": 2027,
                 "top": 2106,
                 "points": 8,
                 "pb": 433309,
@@ -172139,6 +172083,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1781926859000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2027,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1781840457000,
                     "type": null,
@@ -175323,7 +175281,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2031,
                 "top": 2139,
                 "points": 21,
