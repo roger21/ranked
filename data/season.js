@@ -1,5 +1,5 @@
 {
-    "date": 1781997001000,
+    "date": 1781997601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100161,20 +100161,6 @@
                     "time": 640421,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777677031000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "MultiPori",
-                    "elo": 1723,
-                    "change": 16,
-                    "oelo": 1572,
-                    "ochange": -16,
-                    "time": 592431,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -121779,20 +121765,6 @@
                     "ochange": -19,
                     "time": 705124,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777677208000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1678,
-                    "change": -21,
-                    "oelo": 1701,
-                    "ochange": 21,
-                    "time": 222653,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -206365,20 +206337,6 @@
                     "oelo": 1697,
                     "ochange": 19,
                     "time": 705124,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777677279000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BinEin",
-                    "elo": 1657,
-                    "change": 17,
-                    "oelo": 1526,
-                    "ochange": -17,
-                    "time": 555808,
                     "forfeited": false,
                     "decayed": false
                 }
