@@ -1,5 +1,5 @@
 {
-    "date": 1781976001000,
+    "date": 1781976601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29828,20 +29828,6 @@
                     "oelo": 1872,
                     "ochange": 17,
                     "time": 553944,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777656410000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1778,
-                    "change": 15,
-                    "oelo": 1619,
-                    "ochange": -15,
-                    "time": 634377,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -96764,20 +96750,6 @@
                     "time": 719590,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777656331000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1578,
-                    "change": -21,
-                    "oelo": 1597,
-                    "ochange": 21,
-                    "time": 536952,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114580,20 +114552,6 @@
                     "time": 562714,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777656186000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "Pinne",
-                    "elo": 1641,
-                    "change": 0,
-                    "oelo": 1628,
-                    "ochange": 0,
-                    "time": 560779,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -129333,20 +129291,6 @@
                     "oelo": 1640,
                     "ochange": 20,
                     "time": 526912,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777656410000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1619,
-                    "change": -15,
-                    "oelo": 1778,
-                    "ochange": 15,
-                    "time": 634377,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -145975,20 +145919,6 @@
                     "time": 572834,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777656331000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 1597,
-                    "change": 21,
-                    "oelo": 1578,
-                    "ochange": -21,
-                    "time": 536952,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -147131,20 +147061,6 @@
                     "ochange": -19,
                     "time": 499213,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777656186000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "romuxii",
-                    "elo": 1628,
-                    "change": 0,
-                    "oelo": 1641,
-                    "ochange": 0,
-                    "time": 560779,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -163462,20 +163378,6 @@
                     "oelo": 1535,
                     "ochange": 21,
                     "time": 718889,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777656221000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "CxrtxR",
-                    "elo": 1543,
-                    "change": -22,
-                    "oelo": 1531,
-                    "ochange": 22,
-                    "time": 664900,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -192428,20 +192330,6 @@
                     "time": 553944,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777656587000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1855,
-                    "change": 17,
-                    "oelo": 1728,
-                    "ochange": -17,
-                    "time": 594519,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -209936,20 +209824,6 @@
                     "ochange": -20,
                     "time": 526912,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777656477000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "lvckyruns",
-                    "elo": 1620,
-                    "change": 0,
-                    "oelo": 1621,
-                    "ochange": 0,
-                    "time": 576893,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
