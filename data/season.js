@@ -1,5 +1,5 @@
 {
-    "date": 1781955001000,
+    "date": 1781955601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -102196,20 +102196,6 @@
                     "time": 544875,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777635284000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1626,
-                    "change": 17,
-                    "oelo": 1516,
-                    "ochange": -17,
-                    "time": 667847,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -156320,20 +156306,6 @@
                     "time": 544875,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777635343000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1676,
-                    "change": -19,
-                    "oelo": 1735,
-                    "ochange": 19,
-                    "time": 623762,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -174391,22 +174363,36 @@
             "nickname": "ogurikappa",
             "stats": {
                 "rank": 40,
-                "elo": 2040,
+                "elo": 2052,
                 "top": 2204,
                 "points": 0,
                 "pb": 395923,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 1232,
-                "playtime": 648659591,
-                "finished": 472,
-                "finishtime": 251537678,
-                "won": 554,
+                "matches": 1233,
+                "playtime": 649306482,
+                "finished": 473,
+                "finishtime": 252184569,
+                "won": 555,
                 "lost": 507,
                 "forfeited": 201
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1781955549000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Yosa1003",
+                    "elo": 2052,
+                    "change": 12,
+                    "oelo": 1788,
+                    "ochange": -12,
+                    "time": 646891,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781954707000,
                     "type": "RUINED_PORTAL",
