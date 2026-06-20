@@ -1,5 +1,5 @@
 {
-    "date": 1781967001000,
+    "date": 1781967601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3464,20 +3464,6 @@
                     "ochange": -13,
                     "time": 504666,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777647292000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1931,
-                    "change": 12,
-                    "oelo": 1679,
-                    "ochange": -12,
-                    "time": 580687,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -57922,20 +57908,6 @@
                     "time": 439882,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777647147000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1627,
-                    "change": 17,
-                    "oelo": 1520,
-                    "ochange": -17,
-                    "time": 565300,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -72885,20 +72857,6 @@
                     "oelo": 1537,
                     "ochange": -21,
                     "time": 592209,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777647441000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 1543,
-                    "change": -21,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 485530,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -115364,20 +115322,6 @@
                     "time": 439657,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777647032000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Unknwonc",
-                    "elo": 1584,
-                    "change": -21,
-                    "oelo": 1597,
-                    "ochange": 21,
-                    "time": 497136,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -124872,20 +124816,6 @@
                     "oelo": 1698,
                     "ochange": 19,
                     "time": 662494,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777647429000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "4antoo",
-                    "elo": 1650,
-                    "change": 18,
-                    "oelo": 1558,
-                    "ochange": -18,
-                    "time": 471247,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135825,20 +135755,6 @@
                     "ochange": 13,
                     "time": 504666,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777647104000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 1731,
-                    "change": 17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 523581,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
