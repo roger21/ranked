@@ -1,5 +1,5 @@
 {
-    "date": 1781934001000,
+    "date": 1781934601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -94541,20 +94541,6 @@
                     "oelo": 1563,
                     "ochange": -16,
                     "time": 634215,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777614016000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Zylenox",
-                    "elo": 1698,
-                    "change": -24,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 447802,
                     "forfeited": false,
                     "decayed": false
                 }
