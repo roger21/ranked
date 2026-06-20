@@ -1,5 +1,5 @@
 {
-    "date": 1781930401000,
+    "date": 1781931001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12774,20 +12774,6 @@
                     "time": 630703,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777610635000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1677,
-                    "change": 17,
-                    "oelo": 1549,
-                    "ochange": -17,
-                    "time": 497173,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -17765,20 +17751,6 @@
                     "oelo": 1609,
                     "ochange": -12,
                     "time": 695326,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777610785000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "FuzzKing",
-                    "elo": 1868,
-                    "change": 12,
-                    "oelo": 1597,
-                    "ochange": -12,
-                    "time": 587192,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -94669,20 +94641,6 @@
                     "time": 578588,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777610985000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Bloonskiller",
-                    "elo": 1701,
-                    "change": 19,
-                    "oelo": 1649,
-                    "ochange": -19,
-                    "time": 515118,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -120304,20 +120262,6 @@
                     "oelo": 1718,
                     "ochange": 17,
                     "time": 578588,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777610858000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 1629,
-                    "change": 20,
-                    "oelo": 1576,
-                    "ochange": -20,
-                    "time": 659663,
                     "forfeited": false,
                     "decayed": false
                 }
