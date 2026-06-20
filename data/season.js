@@ -1,5 +1,5 @@
 {
-    "date": 1781974201000,
+    "date": 1781974801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -57726,20 +57726,6 @@
                     "time": 828310,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777654434000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "pandaendoz",
-                    "elo": 1612,
-                    "change": -21,
-                    "oelo": 1632,
-                    "ochange": 21,
-                    "time": 668886,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -72563,20 +72549,6 @@
                     "oelo": 1623,
                     "ochange": -22,
                     "time": 598667,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777654211000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Kickz",
-                    "elo": 1592,
-                    "change": 20,
-                    "oelo": 1539,
-                    "ochange": -20,
-                    "time": 824294,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -114748,20 +114720,6 @@
                     "time": 598667,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777654262000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1645,
-                    "change": -15,
-                    "oelo": 1801,
-                    "ochange": 15,
-                    "time": 496616,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146171,20 +146129,6 @@
                     "time": 501628,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777654533000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1558,
-                    "change": 20,
-                    "oelo": 1525,
-                    "ochange": -20,
-                    "time": 527958,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -163714,20 +163658,6 @@
                     "oelo": 1628,
                     "ochange": 19,
                     "time": 562933,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777654702000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "pardonmc",
-                    "elo": 1584,
-                    "change": 20,
-                    "oelo": 1531,
-                    "ochange": -20,
-                    "time": 618762,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -192720,20 +192650,6 @@
                     "oelo": 1729,
                     "ochange": -18,
                     "time": 548716,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777654262000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1801,
-                    "change": 15,
-                    "oelo": 1645,
-                    "ochange": -15,
-                    "time": 496616,
                     "forfeited": false,
                     "decayed": false
                 }
