@@ -1,5 +1,5 @@
 {
-    "date": 1781949601000,
+    "date": 1781950201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -84793,20 +84793,6 @@
                     "oelo": 1749,
                     "ochange": -25,
                     "time": 562636,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777630005000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "_pizu",
-                    "elo": 1648,
-                    "change": 18,
-                    "oelo": 1552,
-                    "ochange": -18,
-                    "time": 837339,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -222521,20 +222507,6 @@
                     "ochange": -20,
                     "time": 344453,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777630018000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Japonk",
-                    "elo": 1611,
-                    "change": 17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 635986,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
