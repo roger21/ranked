@@ -1,5 +1,5 @@
 {
-    "date": 1781922601000,
+    "date": 1781923201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9655,20 +9655,6 @@
                     "oelo": 1622,
                     "ochange": -13,
                     "time": 627106,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777602860000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1846,
-                    "change": -17,
-                    "oelo": 1956,
-                    "ochange": 17,
-                    "time": 586620,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30320,34 +30306,6 @@
                     "time": 569744,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777603133000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "WarioTime1",
-                    "elo": 1767,
-                    "change": 19,
-                    "oelo": 1699,
-                    "ochange": -19,
-                    "time": 477129,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777602609000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1748,
-                    "change": 15,
-                    "oelo": 1587,
-                    "ochange": -15,
-                    "time": 459710,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -48223,20 +48181,6 @@
                     "oelo": 1598,
                     "ochange": -9,
                     "time": 544882,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777602860000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1956,
-                    "change": 17,
-                    "oelo": 1846,
-                    "ochange": -17,
-                    "time": 586620,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -95073,20 +95017,6 @@
                     "oelo": 1975,
                     "ochange": 10,
                     "time": 623161,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777602776000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 1693,
-                    "change": 18,
-                    "oelo": 1608,
-                    "ochange": -18,
-                    "time": 544655,
                     "forfeited": false,
                     "decayed": false
                 }
