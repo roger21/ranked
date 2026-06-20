@@ -920,11 +920,11 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2503,
-        "playtime": 1801798862,
+        "matches": 2504,
+        "playtime": 1802304426,
         "finished": 866,
         "finishtime": 705541966,
-        "won": 1242,
+        "won": 1243,
         "lost": 1083,
         "forfeited": 129
     },
@@ -5400,13 +5400,13 @@
         },
         "pb": 418665,
         "streak": 14,
-        "matches": 5223,
-        "playtime": 3176531425,
+        "matches": 5224,
+        "playtime": 3176882950,
         "finished": 1850,
         "finishtime": 1279336314,
         "won": 2612,
-        "lost": 2341,
-        "forfeited": 893
+        "lost": 2342,
+        "forfeited": 894
     },
     "c9f3dc334bb84708911c611e94751b5a": {
         "nickname": "poopiefart13",
