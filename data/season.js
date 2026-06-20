@@ -1,5 +1,5 @@
 {
-    "date": 1781932801000,
+    "date": 1781933401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -94555,20 +94555,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 447802,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777613184000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1722,
-                    "change": 18,
-                    "oelo": 1626,
-                    "ochange": -18,
-                    "time": 705317,
                     "forfeited": false,
                     "decayed": false
                 }
