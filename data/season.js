@@ -1,5 +1,5 @@
 {
-    "date": 1781970601000,
+    "date": 1781971201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -72691,20 +72691,6 @@
                     "time": 543691,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777650880000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Brunted",
-                    "elo": 1606,
-                    "change": 20,
-                    "oelo": 1564,
-                    "ochange": -20,
-                    "time": 547192,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -94837,20 +94823,6 @@
                     "time": 515357,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777650813000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1692,
-                    "change": -20,
-                    "oelo": 1735,
-                    "ochange": 20,
-                    "time": 647062,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97154,20 +97126,6 @@
                     "oelo": 1558,
                     "ochange": -19,
                     "time": 555274,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777650683000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1598,
-                    "change": 25,
-                    "oelo": 1688,
-                    "ochange": -25,
-                    "time": 682392,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135448,20 +135406,6 @@
                     "time": 550694,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777650683000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 1688,
-                    "change": -25,
-                    "oelo": 1598,
-                    "ochange": 25,
-                    "time": 682392,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146576,20 +146520,6 @@
                     "ochange": 17,
                     "time": 515357,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777650755000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "cofesho",
-                    "elo": 1614,
-                    "change": -1,
-                    "oelo": 1574,
-                    "ochange": 1,
-                    "time": 627120,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
