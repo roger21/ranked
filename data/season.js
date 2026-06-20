@@ -1,5 +1,5 @@
 {
-    "date": 1781935201000,
+    "date": 1781935801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17695,20 +17695,6 @@
                     "oelo": 1756,
                     "ochange": 26,
                     "time": 483224,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777615418000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1905,
-                    "change": 11,
-                    "oelo": 1614,
-                    "ochange": -11,
-                    "time": 610241,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -94515,20 +94501,6 @@
                     "time": 483224,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777615518000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "amariyyyy",
-                    "elo": 1730,
-                    "change": 16,
-                    "oelo": 1588,
-                    "ochange": -16,
-                    "time": 619218,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127364,20 +127336,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 548551,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777615518000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1588,
-                    "change": -16,
-                    "oelo": 1730,
-                    "ochange": 16,
-                    "time": 619218,
                     "forfeited": false,
                     "decayed": false
                 }
