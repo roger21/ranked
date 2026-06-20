@@ -1,5 +1,5 @@
 {
-    "date": 1781934601000,
+    "date": 1781935201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -94529,20 +94529,6 @@
                     "time": 619218,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777614838000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "moo_god",
-                    "elo": 1714,
-                    "change": 16,
-                    "oelo": 1563,
-                    "ochange": -16,
-                    "time": 634215,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127392,20 +127378,6 @@
                     "oelo": 1730,
                     "ochange": 16,
                     "time": 619218,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777614651000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1604,
-                    "change": 22,
-                    "oelo": 1625,
-                    "ochange": -22,
-                    "time": 605372,
                     "forfeited": false,
                     "decayed": false
                 }
