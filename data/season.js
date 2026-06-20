@@ -1,5 +1,5 @@
 {
-    "date": 1781960401000,
+    "date": 1781961001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58118,20 +58118,6 @@
                     "time": 637098,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777640593000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1587,
-                    "change": -18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 543715,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73235,20 +73221,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 576386,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777640732000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Pi1Mu9353",
-                    "elo": 1687,
-                    "change": 18,
-                    "oelo": 1585,
-                    "ochange": -18,
-                    "time": 600718,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -89011,7 +88983,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "darvy__",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 2134,
                 "top": 2158,
                 "points": 8,
@@ -95502,7 +95474,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 2133,
                 "top": 2177,
                 "points": 4,
@@ -97835,23 +97807,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 21,
-                "elo": 2127,
+                "rank": 19,
+                "elo": 2140,
                 "top": 2178,
                 "points": 0,
                 "pb": 399463,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 474,
-                "playtime": 255543060,
-                "finished": 213,
-                "finishtime": 123853883,
-                "won": 249,
+                "matches": 475,
+                "playtime": 256062731,
+                "finished": 214,
+                "finishtime": 124373554,
+                "won": 250,
                 "lost": 208,
                 "forfeited": 79
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1781961012000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "pigswitch",
+                    "elo": 2140,
+                    "change": 13,
+                    "oelo": 1910,
+                    "ochange": -13,
+                    "time": 519671,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781960311000,
                     "type": "RUINED_PORTAL",
