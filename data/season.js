@@ -1,5 +1,5 @@
 {
-    "date": 1781950201000,
+    "date": 1781950801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -146829,20 +146829,6 @@
                     "time": 817151,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777630269000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "mystiqly",
-                    "elo": 1568,
-                    "change": 18,
-                    "oelo": 1481,
-                    "ochange": -18,
-                    "time": 347625,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -222493,20 +222479,6 @@
                     "ochange": -19,
                     "time": 598560,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777630411000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1631,
-                    "change": 20,
-                    "oelo": 1578,
-                    "ochange": -20,
-                    "time": 344453,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
