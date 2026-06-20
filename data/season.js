@@ -1,5 +1,5 @@
 {
-    "date": 1781989801000,
+    "date": 1781990401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -87268,20 +87268,6 @@
                     "time": 765684,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777669814000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 1728,
-                    "change": -24,
-                    "oelo": 1659,
-                    "ochange": 24,
-                    "time": 563401,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100651,20 +100637,6 @@
                     "time": 516024,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777669814000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 1659,
-                    "change": 24,
-                    "oelo": 1728,
-                    "ochange": -24,
-                    "time": 563401,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -113039,20 +113011,6 @@
                     "ochange": 23,
                     "time": 705681,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777669855000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "lvckyruns",
-                    "elo": 1668,
-                    "change": -1,
-                    "oelo": 1601,
-                    "ochange": 1,
-                    "time": 661099,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -160272,20 +160230,6 @@
                     "time": 586637,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777670334000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Big_Wazza69",
-                    "elo": 1582,
-                    "change": 20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 655515,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -207263,20 +207207,6 @@
                     "time": 457578,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777670226000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Yahiamice",
-                    "elo": 1536,
-                    "change": 21,
-                    "oelo": 1529,
-                    "ochange": -21,
-                    "time": 621977,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -223066,20 +222996,6 @@
                     "oelo": 1386,
                     "ochange": -20,
                     "time": 860144,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777670046000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ItIsNooby",
-                    "elo": 1411,
-                    "change": 17,
-                    "oelo": 1302,
-                    "ochange": -17,
-                    "time": 785286,
                     "forfeited": false,
                     "decayed": false
                 }
