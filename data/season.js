@@ -1,5 +1,5 @@
 {
-    "date": 1782010201000,
+    "date": 1782010801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29198,20 +29198,6 @@
                     "oelo": 1917,
                     "ochange": 18,
                     "time": 536817,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777690656000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BadGamer",
-                    "elo": 1840,
-                    "change": 15,
-                    "oelo": 1674,
-                    "ochange": -15,
-                    "time": 786187,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -64700,20 +64686,6 @@
                     "oelo": 1618,
                     "ochange": -19,
                     "time": 554549,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777690656000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1674,
-                    "change": -15,
-                    "oelo": 1840,
-                    "ochange": 15,
-                    "time": 786187,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -104620,20 +104592,6 @@
                     "oelo": 1571,
                     "ochange": -17,
                     "time": 565100,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777690545000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1661,
-                    "change": 21,
-                    "oelo": 1637,
-                    "ochange": -21,
-                    "time": 716123,
                     "forfeited": false,
                     "decayed": false
                 }
