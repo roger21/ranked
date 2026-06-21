@@ -1,5 +1,5 @@
 {
-    "date": 1782037201000,
+    "date": 1782037801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -164109,20 +164109,6 @@
                     "time": 680528,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777717475000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1597,
-                    "change": 21,
-                    "oelo": 1578,
-                    "ochange": -21,
-                    "time": 724350,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -195539,20 +195525,6 @@
                     "oelo": 1522,
                     "ochange": -15,
                     "time": 473777,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777717789000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Bodek",
-                    "elo": 1681,
-                    "change": -23,
-                    "oelo": 1652,
-                    "ochange": 23,
-                    "time": 550919,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -230719,20 +230691,6 @@
                     "oelo": 1456,
                     "ochange": -20,
                     "time": 676635,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777717328000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Urenzal",
-                    "elo": 1467,
-                    "change": -21,
-                    "oelo": 1472,
-                    "ochange": 21,
-                    "time": 621842,
                     "forfeited": false,
                     "decayed": false
                 }
