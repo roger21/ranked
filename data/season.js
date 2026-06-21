@@ -1,5 +1,5 @@
 {
-    "date": 1782023401000,
+    "date": 1782024001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28848,20 +28848,6 @@
                     "oelo": 1682,
                     "ochange": 25,
                     "time": 781359,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777703722000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1802,
-                    "change": -22,
-                    "oelo": 1784,
-                    "ochange": 22,
-                    "time": 566013,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -62507,20 +62493,6 @@
                     "oelo": 1647,
                     "ochange": -16,
                     "time": 554947,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777703722000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1784,
-                    "change": 22,
-                    "oelo": 1802,
-                    "ochange": -22,
-                    "time": 566013,
                     "forfeited": false,
                     "decayed": false
                 }
