@@ -1,5 +1,5 @@
 {
-    "date": 1782074401000,
+    "date": 1782075001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -25614,20 +25614,6 @@
                     "oelo": 1629,
                     "ochange": -21,
                     "time": 654902,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777754424000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "vorbhhater2",
-                    "elo": 1618,
-                    "change": 18,
-                    "oelo": 1534,
-                    "ochange": -18,
-                    "time": 586087,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -130716,20 +130702,6 @@
                     "time": 210170,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777754748000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1649,
-                    "change": -19,
-                    "oelo": 1702,
-                    "ochange": 19,
-                    "time": 562215,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -161817,20 +161789,6 @@
                     "time": 461412,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777754977000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1758,
-                    "change": 19,
-                    "oelo": 1684,
-                    "ochange": -19,
-                    "time": 571205,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168856,20 +168814,6 @@
                     "oelo": 1589,
                     "ochange": -19,
                     "time": 635438,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777754495000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "IlLoonCrack",
-                    "elo": 1627,
-                    "change": -25,
-                    "oelo": 1544,
-                    "ochange": 25,
-                    "time": 779522,
                     "forfeited": false,
                     "decayed": false
                 }
