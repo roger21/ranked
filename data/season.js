@@ -1,5 +1,5 @@
 {
-    "date": 1782001201000,
+    "date": 1782001801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -121598,20 +121598,6 @@
                     "time": 553417,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777681768000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "WarioTime1",
-                    "elo": 1722,
-                    "change": 18,
-                    "oelo": 1632,
-                    "ochange": -18,
-                    "time": 470304,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -206100,20 +206086,6 @@
                     "ochange": -19,
                     "time": 555660,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777681241000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1577,
-                    "change": -19,
-                    "oelo": 1650,
-                    "ochange": 19,
-                    "time": 479910,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
