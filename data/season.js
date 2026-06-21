@@ -1,5 +1,5 @@
 {
-    "date": 1782009601000,
+    "date": 1782010201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29214,20 +29214,6 @@
                     "time": 786187,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777689630000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 1825,
-                    "change": 12,
-                    "oelo": 1576,
-                    "ochange": -12,
-                    "time": 292614,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -46641,20 +46627,6 @@
                     "oelo": 1753,
                     "ochange": 27,
                     "time": 583081,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777690055000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 1926,
-                    "change": -28,
-                    "oelo": 1753,
-                    "ochange": 28,
-                    "time": 608145,
                     "forfeited": false,
                     "decayed": false
                 }
