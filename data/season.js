@@ -1,5 +1,5 @@
 {
-    "date": 1782001801000,
+    "date": 1782002401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -104958,20 +104958,6 @@
                     "time": 359579,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777682281000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "21MashedPotatoes",
-                    "elo": 1630,
-                    "change": 18,
-                    "oelo": 1528,
-                    "ochange": -18,
-                    "time": 544310,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -206072,20 +206058,6 @@
                     "ochange": 18,
                     "time": 476314,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777681864000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pigswitch",
-                    "elo": 1596,
-                    "change": 19,
-                    "oelo": 1519,
-                    "ochange": -19,
-                    "time": 555660,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
