@@ -1,5 +1,5 @@
 {
-    "date": 1782022801000,
+    "date": 1782023401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28862,20 +28862,6 @@
                     "oelo": 1784,
                     "ochange": 22,
                     "time": 566013,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777703029000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "dolqhin",
-                    "elo": 1824,
-                    "change": -27,
-                    "oelo": 1677,
-                    "ochange": 27,
-                    "time": 619323,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -62535,20 +62521,6 @@
                     "oelo": 1802,
                     "ochange": -22,
                     "time": 566013,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777703093000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1762,
-                    "change": 18,
-                    "oelo": 1658,
-                    "ochange": -18,
-                    "time": 874231,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195483,20 +195455,6 @@
                     "oelo": 1614,
                     "ochange": 22,
                     "time": 672883,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777703093000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1658,
-                    "change": -18,
-                    "oelo": 1762,
-                    "ochange": 18,
-                    "time": 874231,
                     "forfeited": false,
                     "decayed": false
                 }
