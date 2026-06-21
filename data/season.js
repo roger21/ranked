@@ -1,5 +1,5 @@
 {
-    "date": 1782009001000,
+    "date": 1782009601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29228,20 +29228,6 @@
                     "time": 292614,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777689164000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1813,
-                    "change": -16,
-                    "oelo": 1954,
-                    "ochange": 16,
-                    "time": 604939,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46669,20 +46655,6 @@
                     "oelo": 1753,
                     "ochange": 28,
                     "time": 608145,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777689164000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1954,
-                    "change": 16,
-                    "oelo": 1813,
-                    "ochange": -16,
-                    "time": 604939,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -178668,7 +178640,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "LuoShui_TianY",
+                    "opponent": "TraveLMaybefan",
                     "elo": 1544,
                     "change": 20,
                     "oelo": 1493,
