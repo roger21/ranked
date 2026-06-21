@@ -1,5 +1,5 @@
 {
-    "date": 1781999401000,
+    "date": 1782000002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -121668,20 +121668,6 @@
                     "time": 574769,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777679661000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Frolde",
-                    "elo": 1660,
-                    "change": -23,
-                    "oelo": 1637,
-                    "ochange": 23,
-                    "time": 504662,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -206197,34 +206183,6 @@
                     "oelo": 1621,
                     "ochange": 21,
                     "time": 602155,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777679893000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 1617,
-                    "change": -21,
-                    "oelo": 1641,
-                    "ochange": 21,
-                    "time": 337500,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777679493000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SamonMCSR",
-                    "elo": 1638,
-                    "change": -21,
-                    "oelo": 1645,
-                    "ochange": 21,
-                    "time": 755294,
                     "forfeited": false,
                     "decayed": false
                 }
