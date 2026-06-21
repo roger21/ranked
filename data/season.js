@@ -1,5 +1,5 @@
 {
-    "date": 1782021601000,
+    "date": 1782022201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24263,20 +24263,6 @@
                     "time": 823223,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777701715000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "WarioTime1",
-                    "elo": 1698,
-                    "change": -23,
-                    "oelo": 1668,
-                    "ochange": 23,
-                    "time": 615529,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28890,20 +28876,6 @@
                     "oelo": 1677,
                     "ochange": 27,
                     "time": 619323,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777702152000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1851,
-                    "change": -26,
-                    "oelo": 1744,
-                    "ochange": 26,
-                    "time": 545602,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -62577,20 +62549,6 @@
                     "oelo": 1658,
                     "ochange": -18,
                     "time": 874231,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777702152000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1744,
-                    "change": 26,
-                    "oelo": 1851,
-                    "ochange": -26,
-                    "time": 545602,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195539,20 +195497,6 @@
                     "oelo": 1762,
                     "ochange": 18,
                     "time": 874231,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777702083000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1676,
-                    "change": 19,
-                    "oelo": 1622,
-                    "ochange": -19,
-                    "time": 667948,
                     "forfeited": false,
                     "decayed": false
                 }

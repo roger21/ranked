@@ -5244,13 +5244,13 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 1443,
-        "playtime": 861883326,
+        "matches": 1444,
+        "playtime": 862131603,
         "finished": 646,
         "finishtime": 414568077,
         "won": 834,
-        "lost": 570,
-        "forfeited": 82
+        "lost": 571,
+        "forfeited": 83
     },
     "c32cdd142a0147dcb91771319d745194": {
         "nickname": "Erikfzf",
