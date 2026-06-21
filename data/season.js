@@ -1,5 +1,5 @@
 {
-    "date": 1782018001000,
+    "date": 1782018601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24319,20 +24319,6 @@
                     "time": 581483,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777698532000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SamonMCSR",
-                    "elo": 1740,
-                    "change": 18,
-                    "oelo": 1645,
-                    "ochange": -18,
-                    "time": 499537,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -29002,20 +28988,6 @@
                     "oelo": 1725,
                     "ochange": -15,
                     "time": 581483,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777698385000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1890,
-                    "change": 13,
-                    "oelo": 1677,
-                    "ochange": -13,
-                    "time": 689523,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195763,20 +195735,6 @@
                     "oelo": 1669,
                     "ochange": 21,
                     "time": 583646,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777698385000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1677,
-                    "change": -13,
-                    "oelo": 1890,
-                    "ochange": 13,
-                    "time": 689523,
                     "forfeited": false,
                     "decayed": false
                 }
