@@ -1,5 +1,5 @@
 {
-    "date": 1782004801000,
+    "date": 1782005401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46753,20 +46753,6 @@
                     "oelo": 1831,
                     "ochange": 27,
                     "time": 474420,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777685098000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "hack_page",
-                    "elo": 2008,
-                    "change": -31,
-                    "oelo": 1731,
-                    "ochange": 31,
-                    "time": 547303,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -121456,20 +121442,6 @@
                     "oelo": 1699,
                     "ochange": -18,
                     "time": 750911,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777684824000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "HDMICables",
-                    "elo": 1777,
-                    "change": 23,
-                    "oelo": 1804,
-                    "ochange": -23,
-                    "time": 626395,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -205820,20 +205792,6 @@
                     "ochange": 20,
                     "time": 300328,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777685106000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "natebridge",
-                    "elo": 1574,
-                    "change": 17,
-                    "oelo": 1461,
-                    "ochange": -17,
-                    "time": 635184,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
