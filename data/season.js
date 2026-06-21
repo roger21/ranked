@@ -1,5 +1,5 @@
 {
-    "date": 1782007201000,
+    "date": 1782007801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -145893,8 +145893,8 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 33,
-                "elo": 2081,
+                "rank": 36,
+                "elo": 2076,
                 "top": 2156,
                 "points": 38,
                 "pb": 403492,
@@ -145910,6 +145910,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1782007802000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2076,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1781921399000,
                     "type": null,
@@ -149201,7 +149215,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2080,
                 "top": 2234,
                 "points": 3,
@@ -154166,7 +154180,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2080,
                 "top": 2080,
                 "points": 10,
