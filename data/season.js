@@ -1,5 +1,5 @@
 {
-    "date": 1782079201000,
+    "date": 1782079801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -16785,20 +16785,6 @@
                     "oelo": 1701,
                     "ochange": 22,
                     "time": 625107,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777759428000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1740,
-                    "change": -24,
-                    "oelo": 1687,
-                    "ochange": 24,
-                    "time": 511181,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -59792,20 +59778,6 @@
                     "time": 591163,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777759383000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 1678,
-                    "change": 18,
-                    "oelo": 1590,
-                    "ochange": -18,
-                    "time": 652329,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73873,20 +73845,6 @@
                     "oelo": 1702,
                     "ochange": 24,
                     "time": 591163,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777759342000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 1787,
-                    "change": 15,
-                    "oelo": 1606,
-                    "ochange": -15,
-                    "time": 687905,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -130338,20 +130296,6 @@
                     "time": 625107,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777759657000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1679,
-                    "change": -20,
-                    "oelo": 1706,
-                    "ochange": 20,
-                    "time": 602510,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135917,20 +135861,6 @@
                     "oelo": 1805,
                     "ochange": 17,
                     "time": 538975,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777759657000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "iluappi",
-                    "elo": 1706,
-                    "change": 20,
-                    "oelo": 1679,
-                    "ochange": -20,
-                    "time": 602510,
                     "forfeited": false,
                     "decayed": false
                 }
