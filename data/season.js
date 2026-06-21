@@ -1,5 +1,5 @@
 {
-    "date": 1782016201000,
+    "date": 1782016801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24359,20 +24359,6 @@
                     "oelo": 1767,
                     "ochange": -24,
                     "time": 598018,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777696512000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1677,
-                    "change": 20,
-                    "oelo": 1627,
-                    "ochange": -20,
-                    "time": 589062,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -64380,20 +64366,6 @@
                     "time": 598018,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777696453000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1791,
-                    "change": 14,
-                    "oelo": 1593,
-                    "ochange": -14,
-                    "time": 561929,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -104200,20 +104172,6 @@
                     "oelo": 1619,
                     "ochange": 21,
                     "time": 596609,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777696294000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1615,
-                    "change": -20,
-                    "oelo": 1652,
-                    "ochange": 20,
-                    "time": 470160,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195945,20 +195903,6 @@
                     "oelo": 1632,
                     "ochange": -20,
                     "time": 616992,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777696294000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 1652,
-                    "change": 20,
-                    "oelo": 1615,
-                    "ochange": -20,
-                    "time": 470160,
                     "forfeited": false,
                     "decayed": false
                 }
