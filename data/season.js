@@ -1,5 +1,5 @@
 {
-    "date": 1782019801000,
+    "date": 1782020401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24289,20 +24289,6 @@
                     "oelo": 1700,
                     "ochange": 22,
                     "time": 668904,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777700112000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1743,
-                    "change": 18,
-                    "oelo": 1661,
-                    "ochange": -18,
-                    "time": 493588,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195651,34 +195637,6 @@
                     "oelo": 1692,
                     "ochange": -23,
                     "time": 738549,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777700306000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1634,
-                    "change": -1,
-                    "oelo": 1534,
-                    "ochange": 1,
-                    "time": 312440,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777699892000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1635,
-                    "change": -21,
-                    "oelo": 1662,
-                    "ochange": 21,
-                    "time": 665214,
                     "forfeited": false,
                     "decayed": false
                 }
