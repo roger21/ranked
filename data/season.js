@@ -1,5 +1,5 @@
 {
-    "date": 1782012001000,
+    "date": 1782012601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29172,20 +29172,6 @@
                     "time": 557368,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777692275000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1840,
-                    "change": 18,
-                    "oelo": 1748,
-                    "ochange": -18,
-                    "time": 623005,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46557,20 +46543,6 @@
                     "oelo": 1679,
                     "ochange": -13,
                     "time": 548279,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777692597000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1890,
-                    "change": -27,
-                    "oelo": 1739,
-                    "ochange": 27,
-                    "time": 637282,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -64602,20 +64574,6 @@
                     "oelo": 1706,
                     "ochange": -19,
                     "time": 546656,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777692597000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1739,
-                    "change": 27,
-                    "oelo": 1890,
-                    "ochange": -27,
-                    "time": 637282,
                     "forfeited": false,
                     "decayed": false
                 }
