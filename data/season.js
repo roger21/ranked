@@ -1,5 +1,5 @@
 {
-    "date": 1782019201000,
+    "date": 1782019801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24305,20 +24305,6 @@
                     "time": 493588,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777699384000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1725,
-                    "change": -15,
-                    "oelo": 1905,
-                    "ochange": 15,
-                    "time": 581483,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28974,20 +28960,6 @@
                     "oelo": 1715,
                     "ochange": 28,
                     "time": 576148,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777699384000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nhb_",
-                    "elo": 1905,
-                    "change": 15,
-                    "oelo": 1725,
-                    "ochange": -15,
-                    "time": 581483,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -104018,20 +103990,6 @@
                     "oelo": 1545,
                     "ochange": -20,
                     "time": 695917,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777699547000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1571,
-                    "change": 19,
-                    "oelo": 1514,
-                    "ochange": -19,
-                    "time": 662625,
                     "forfeited": false,
                     "decayed": false
                 }
