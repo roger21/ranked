@@ -1,5 +1,5 @@
 {
-    "date": 1782013801000,
+    "date": 1782014401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29130,20 +29130,6 @@
                     "time": 485154,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777694306000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1887,
-                    "change": 21,
-                    "oelo": 1882,
-                    "ochange": -21,
-                    "time": 521372,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46487,20 +46473,6 @@
                     "oelo": 1790,
                     "ochange": 24,
                     "time": 516345,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777694306000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1882,
-                    "change": -21,
-                    "oelo": 1887,
-                    "ochange": 21,
-                    "time": 521372,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -64504,20 +64476,6 @@
                     "oelo": 1675,
                     "ochange": -19,
                     "time": 554092,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777694152000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "21MashedPotatoes",
-                    "elo": 1733,
-                    "change": -25,
-                    "oelo": 1645,
-                    "ochange": 25,
-                    "time": 614900,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -218788,20 +218746,6 @@
                     "ochange": -22,
                     "time": 470854,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777694156000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Fairy330",
-                    "elo": 1595,
-                    "change": -1,
-                    "oelo": 1528,
-                    "ochange": 1,
-                    "time": 827538,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
