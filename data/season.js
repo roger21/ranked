@@ -1,5 +1,5 @@
 {
-    "date": 1782081001000,
+    "date": 1782081601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -16743,20 +16743,6 @@
                     "oelo": 1922,
                     "ochange": 15,
                     "time": 551316,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777761449000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1757,
-                    "change": 19,
-                    "oelo": 1701,
-                    "ochange": -19,
-                    "time": 431973,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -59708,20 +59694,6 @@
                     "time": 599307,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777761449000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1701,
-                    "change": -19,
-                    "oelo": 1757,
-                    "ochange": 19,
-                    "time": 431973,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73747,20 +73719,6 @@
                     "oelo": 1856,
                     "ochange": 17,
                     "time": 621370,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777761210000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1764,
-                    "change": 18,
-                    "oelo": 1671,
-                    "ochange": -18,
-                    "time": 589269,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135765,20 +135723,6 @@
                     "time": 594518,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777761210000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 1671,
-                    "change": -18,
-                    "oelo": 1764,
-                    "ochange": 18,
-                    "time": 589269,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -161157,20 +161101,6 @@
                     "oelo": 1697,
                     "ochange": 26,
                     "time": 594518,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777761129000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1827,
-                    "change": 22,
-                    "oelo": 1827,
-                    "ochange": -22,
-                    "time": 530834,
                     "forfeited": false,
                     "decayed": false
                 }
