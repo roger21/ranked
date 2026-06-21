@@ -1,5 +1,5 @@
 {
-    "date": 1782013201000,
+    "date": 1782013801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29144,20 +29144,6 @@
                     "time": 521372,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777693737000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 1866,
-                    "change": 14,
-                    "oelo": 1668,
-                    "ochange": -14,
-                    "time": 542475,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46515,20 +46501,6 @@
                     "oelo": 1887,
                     "ochange": 21,
                     "time": 521372,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777693511000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1903,
-                    "change": 13,
-                    "oelo": 1679,
-                    "ochange": -13,
-                    "time": 548279,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -64546,20 +64518,6 @@
                     "oelo": 1645,
                     "ochange": 25,
                     "time": 614900,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777693259000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1758,
-                    "change": 19,
-                    "oelo": 1706,
-                    "ochange": -19,
-                    "time": 546656,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -104410,20 +104368,6 @@
                     "oelo": 1740,
                     "ochange": 18,
                     "time": 553940,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777693737000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1668,
-                    "change": -14,
-                    "oelo": 1866,
-                    "ochange": 14,
-                    "time": 542475,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -218857,20 +218801,6 @@
                     "oelo": 1528,
                     "ochange": 1,
                     "time": 827538,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777693249000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "xFray_",
-                    "elo": 1596,
-                    "change": 0,
-                    "oelo": 1605,
-                    "ochange": 0,
-                    "time": 434185,
                     "forfeited": true,
                     "decayed": false
                 }
