@@ -1,5 +1,5 @@
 {
-    "date": 1782028801000,
+    "date": 1782029401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -195413,20 +195413,6 @@
                     "oelo": 1659,
                     "ochange": 22,
                     "time": 555888,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777709290000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "SamonMCSR",
-                    "elo": 1691,
-                    "change": 20,
-                    "oelo": 1653,
-                    "ochange": -20,
-                    "time": 876047,
                     "forfeited": false,
                     "decayed": false
                 }
