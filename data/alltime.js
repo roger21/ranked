@@ -161,7 +161,7 @@
             "8": 1755,
             "9": 1945,
             "10": 1617,
-            "11": 1621
+            "11": 1624
         },
         "points": {
             "1": 0,
@@ -178,11 +178,11 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2529,
-        "playtime": 1639003464,
-        "finished": 906,
-        "finishtime": 679007810,
-        "won": 1308,
+        "matches": 2530,
+        "playtime": 1639558552,
+        "finished": 907,
+        "finishtime": 679562898,
+        "won": 1309,
         "lost": 1099,
         "forfeited": 278
     },
@@ -949,13 +949,13 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2575,
-        "playtime": 1847014227,
+        "matches": 2576,
+        "playtime": 1847508674,
         "finished": 893,
         "finishtime": 723502847,
         "won": 1279,
-        "lost": 1113,
-        "forfeited": 129
+        "lost": 1114,
+        "forfeited": 130
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
         "nickname": "Hinart",
@@ -1468,7 +1468,7 @@
             "8": 2252,
             "9": 2514,
             "10": 2581,
-            "11": 2242
+            "11": 2257
         },
         "points": {
             "1": 0,
@@ -1485,11 +1485,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 20368,
-        "playtime": 12593631775,
+        "matches": 20369,
+        "playtime": 12594159990,
         "finished": 8872,
         "finishtime": 5924812229,
-        "won": 11203,
+        "won": 11204,
         "lost": 8874,
         "forfeited": 1200
     },
@@ -1563,11 +1563,11 @@
         },
         "pb": 366383,
         "streak": 17,
-        "matches": 16253,
-        "playtime": 9552538978,
-        "finished": 7121,
-        "finishtime": 4580954349,
-        "won": 8815,
+        "matches": 16254,
+        "playtime": 9553110629,
+        "finished": 7122,
+        "finishtime": 4581526000,
+        "won": 8816,
         "lost": 7061,
         "forfeited": 2010
     },
@@ -3618,12 +3618,12 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 5918,
-        "playtime": 3802869488,
+        "matches": 5919,
+        "playtime": 3803386495,
         "finished": 2142,
         "finishtime": 1493424872,
         "won": 2898,
-        "lost": 2618,
+        "lost": 2619,
         "forfeited": 190
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -4705,11 +4705,11 @@
         },
         "pb": 378785,
         "streak": 15,
-        "matches": 6021,
-        "playtime": 3826221969,
-        "finished": 2419,
-        "finishtime": 1621032935,
-        "won": 3225,
+        "matches": 6022,
+        "playtime": 3826801985,
+        "finished": 2420,
+        "finishtime": 1621612951,
+        "won": 3226,
         "lost": 2555,
         "forfeited": 284
     },
@@ -4878,12 +4878,12 @@
         },
         "pb": 410586,
         "streak": 14,
-        "matches": 8712,
-        "playtime": 5398066007,
+        "matches": 8713,
+        "playtime": 5398637658,
         "finished": 2857,
         "finishtime": 2069125872,
         "won": 4232,
-        "lost": 4058,
+        "lost": 4059,
         "forfeited": 1334
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
@@ -5026,12 +5026,12 @@
         },
         "pb": 399463,
         "streak": 17,
-        "matches": 9071,
-        "playtime": 5273873429,
+        "matches": 9072,
+        "playtime": 5274453445,
         "finished": 3522,
         "finishtime": 2333750523,
         "won": 4607,
-        "lost": 4180,
+        "lost": 4181,
         "forfeited": 1422
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
@@ -5547,13 +5547,13 @@
         },
         "pb": 391139,
         "streak": 10,
-        "matches": 2701,
-        "playtime": 1587988295,
+        "matches": 2702,
+        "playtime": 1588516510,
         "finished": 971,
         "finishtime": 645766467,
         "won": 1348,
-        "lost": 1199,
-        "forfeited": 442
+        "lost": 1200,
+        "forfeited": 443
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
         "nickname": "danterus",
