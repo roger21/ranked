@@ -1,5 +1,5 @@
 {
-    "date": 1782098401000,
+    "date": 1782099001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13697,20 +13697,6 @@
                     "ochange": 23,
                     "time": 460885,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777778468000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "staremc",
-                    "elo": 1806,
-                    "change": -2,
-                    "oelo": 1612,
-                    "ochange": 2,
-                    "time": 612835,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -52750,20 +52736,6 @@
                     "ochange": 17,
                     "time": 845976,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777778465000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 1703,
-                    "change": -20,
-                    "oelo": 1736,
-                    "ochange": 20,
-                    "time": 338357,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -106889,20 +106861,6 @@
                     "ochange": -18,
                     "time": 651142,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777778468000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "nahhann",
-                    "elo": 1612,
-                    "change": 2,
-                    "oelo": 1806,
-                    "ochange": -2,
-                    "time": 612835,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -195078,34 +195036,6 @@
                     "ochange": 0,
                     "time": 536306,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777778968000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "MrBudgiee",
-                    "elo": 1620,
-                    "change": 0,
-                    "oelo": 1620,
-                    "ochange": 0,
-                    "time": 307957,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777778609000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 1620,
-                    "change": 20,
-                    "oelo": 1571,
-                    "ochange": -20,
-                    "time": 641213,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
