@@ -1,5 +1,5 @@
 {
-    "date": 1782099601000,
+    "date": 1782100201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13668,20 +13668,6 @@
                     "oelo": 1626,
                     "ochange": -14,
                     "time": 478025,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777780157000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1800,
-                    "change": 17,
-                    "oelo": 1695,
-                    "ochange": -17,
-                    "time": 540696,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -106806,20 +106792,6 @@
                     "time": 578861,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777779839000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 1649,
-                    "change": 19,
-                    "oelo": 1572,
-                    "ochange": -19,
-                    "time": 558317,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -177407,20 +177379,6 @@
                     "time": 578861,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777780157000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1695,
-                    "change": -17,
-                    "oelo": 1800,
-                    "ochange": 17,
-                    "time": 540696,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -194980,20 +194938,6 @@
                     "ochange": -20,
                     "time": 544505,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777779619000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "xFray_",
-                    "elo": 1620,
-                    "change": 0,
-                    "oelo": 1599,
-                    "ochange": 0,
-                    "time": 536306,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -240321,7 +240265,7 @@
                     "type": "VILLAGE",
                     "bastion": "TREASURE",
                     "result": "draw",
-                    "opponent": "vorbhhater2",
+                    "opponent": "Darko_RL",
                     "elo": 1546,
                     "change": 0,
                     "oelo": 1515,
