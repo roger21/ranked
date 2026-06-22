@@ -1,5 +1,5 @@
 {
-    "date": 1782090601000,
+    "date": 1782091201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -22203,20 +22203,6 @@
                     "oelo": 1711,
                     "ochange": -23,
                     "time": 632849,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777771028000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1645,
-                    "change": 22,
-                    "oelo": 1669,
-                    "ochange": -22,
-                    "time": 607689,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -93071,20 +93057,6 @@
                     "oelo": 1644,
                     "ochange": -25,
                     "time": 513153,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777770727000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "CookieAddicts",
-                    "elo": 1529,
-                    "change": 21,
-                    "oelo": 1521,
-                    "ochange": -21,
-                    "time": 496236,
                     "forfeited": false,
                     "decayed": false
                 }
