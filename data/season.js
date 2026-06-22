@@ -1,5 +1,5 @@
 {
-    "date": 1782124201000,
+    "date": 1782124801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24902,20 +24902,6 @@
                     "time": 493774,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777804562000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1812,
-                    "change": -22,
-                    "oelo": 1807,
-                    "ochange": 22,
-                    "time": 684165,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46058,14 +46044,14 @@
             "nickname": "Erikfzf",
             "stats": {
                 "rank": 11,
-                "elo": 2205,
+                "elo": 2203,
                 "top": 2205,
                 "points": 17,
                 "pb": 449505,
                 "current": 9,
                 "streak": 9,
-                "matches": 193,
-                "playtime": 110390830,
+                "matches": 194,
+                "playtime": 110858022,
                 "finished": 104,
                 "finishtime": 62011298,
                 "won": 113,
@@ -46074,6 +46060,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1782124662000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Bloonskiller",
+                    "elo": 2203,
+                    "change": -2,
+                    "oelo": 2016,
+                    "ochange": 2,
+                    "time": 467192,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782122420000,
                     "type": "DESERT_TEMPLE",
@@ -67803,20 +67803,6 @@
                     "ochange": 15,
                     "time": 493774,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777804692000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1658,
-                    "change": -19,
-                    "oelo": 1722,
-                    "ochange": 19,
-                    "time": 399840,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -176371,20 +176357,6 @@
                     "time": 612088,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777804261000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Unknwonc",
-                    "elo": 1628,
-                    "change": -25,
-                    "oelo": 1551,
-                    "ochange": 25,
-                    "time": 775761,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -211377,14 +211349,14 @@
             "nickname": "Bloonskiller",
             "stats": {
                 "rank": 46,
-                "elo": 2014,
+                "elo": 2016,
                 "top": 2040,
                 "points": 5,
                 "pb": 398256,
                 "current": 4,
                 "streak": 7,
-                "matches": 434,
-                "playtime": 253004420,
+                "matches": 435,
+                "playtime": 253471612,
                 "finished": 196,
                 "finishtime": 122556741,
                 "won": 225,
@@ -211393,6 +211365,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1782124662000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Erikfzf",
+                    "elo": 2016,
+                    "change": 2,
+                    "oelo": 2203,
+                    "ochange": -2,
+                    "time": 467192,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782123745000,
                     "type": "DESERT_TEMPLE",
@@ -217097,7 +217083,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2014,
                 "top": 2093,
                 "points": 0,
@@ -220906,20 +220892,6 @@
                     "ochange": -16,
                     "time": 670695,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777804383000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1670,
-                    "change": 16,
-                    "oelo": 1518,
-                    "ochange": -16,
-                    "time": 340683,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -230028,20 +230000,6 @@
                     "oelo": 1627,
                     "ochange": 19,
                     "time": 631865,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777804613000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "mystiqly",
-                    "elo": 1567,
-                    "change": 20,
-                    "oelo": 1532,
-                    "ochange": -20,
-                    "time": 691763,
                     "forfeited": false,
                     "decayed": false
                 }
