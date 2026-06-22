@@ -1,5 +1,5 @@
 {
-    "date": 1782131401000,
+    "date": 1782132001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -102172,20 +102172,6 @@
                     "time": 559038,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777811418000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "kohout135",
-                    "elo": 1617,
-                    "change": 20,
-                    "oelo": 1580,
-                    "ochange": -20,
-                    "time": 571553,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -166533,20 +166519,6 @@
                     "ochange": 1,
                     "time": 647777,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777811551000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1706,
-                    "change": 22,
-                    "oelo": 1714,
-                    "ochange": -22,
-                    "time": 536895,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
