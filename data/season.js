@@ -1,5 +1,5 @@
 {
-    "date": 1782132001000,
+    "date": 1782132601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -102158,20 +102158,6 @@
                     "time": 602255,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777812029000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1636,
-                    "change": 19,
-                    "oelo": 1571,
-                    "ochange": -19,
-                    "time": 559038,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107095,20 +107081,6 @@
                     "time": 543928,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777812082000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1779,
-                    "change": 17,
-                    "oelo": 1667,
-                    "ochange": -17,
-                    "time": 738912,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107116,23 +107088,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 24,
-                "elo": 2126,
+                "rank": 23,
+                "elo": 2140,
                 "top": 2178,
                 "points": 0,
                 "pb": 399463,
-                "current": 4,
+                "current": 5,
                 "streak": 9,
-                "matches": 488,
-                "playtime": 262056871,
-                "finished": 221,
-                "finishtime": 128328936,
-                "won": 257,
+                "matches": 489,
+                "playtime": 262530157,
+                "finished": 222,
+                "finishtime": 128802222,
+                "won": 258,
                 "lost": 214,
                 "forfeited": 84
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1782132186000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "kohout135",
+                    "elo": 2140,
+                    "change": 14,
+                    "oelo": 1946,
+                    "ochange": -14,
+                    "time": 473286,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782130531000,
                     "type": "DESERT_TEMPLE",
@@ -166506,20 +166492,6 @@
                     "time": 551330,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777812490000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1705,
-                    "change": -1,
-                    "oelo": 1641,
-                    "ochange": 1,
-                    "time": 647777,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -176048,20 +176020,6 @@
                     "ochange": -19,
                     "time": 554970,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777812082000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 1667,
-                    "change": -17,
-                    "oelo": 1779,
-                    "ochange": 17,
-                    "time": 738912,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
