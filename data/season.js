@@ -1,5 +1,5 @@
 {
-    "date": 1782132601000,
+    "date": 1782133201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -102144,20 +102144,6 @@
                     "time": 838739,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777812737000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1656,
-                    "change": 20,
-                    "oelo": 1621,
-                    "ochange": -20,
-                    "time": 602255,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107065,20 +107051,6 @@
                     "oelo": 1661,
                     "ochange": -17,
                     "time": 627334,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777812819000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1761,
-                    "change": -18,
-                    "oelo": 1862,
-                    "ochange": 18,
-                    "time": 543928,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176007,20 +175979,6 @@
                     "time": 551330,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777812820000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 1686,
-                    "change": 19,
-                    "oelo": 1608,
-                    "ochange": -19,
-                    "time": 554970,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -244550,20 +244508,6 @@
                     "oelo": 1577,
                     "ochange": -18,
                     "time": 530177,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777813058000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1640,
-                    "change": -17,
-                    "oelo": 1757,
-                    "ochange": 17,
-                    "time": 587469,
                     "forfeited": false,
                     "decayed": false
                 }
