@@ -1,5 +1,5 @@
 {
-    "date": 1782097801000,
+    "date": 1782098401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52765,20 +52765,6 @@
                     "time": 338357,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777778077000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "JeffyEinstein",
-                    "elo": 1723,
-                    "change": -25,
-                    "oelo": 1625,
-                    "ochange": 25,
-                    "time": 670857,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92946,20 +92932,6 @@
                     "ochange": -1,
                     "time": 660433,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777778105000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Gon_mcsr",
-                    "elo": 1532,
-                    "change": 17,
-                    "oelo": 1428,
-                    "ochange": -17,
-                    "time": 411742,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -195133,20 +195105,6 @@
                     "oelo": 1571,
                     "ochange": -20,
                     "time": 641213,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777777913000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Byugoi",
-                    "elo": 1600,
-                    "change": 17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 611053,
                     "forfeited": false,
                     "decayed": false
                 }
