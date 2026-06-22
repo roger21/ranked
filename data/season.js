@@ -1,5 +1,5 @@
 {
-    "date": 1782103201000,
+    "date": 1782103801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -92764,20 +92764,6 @@
                     "ochange": -17,
                     "time": 348090,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777783630000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Jppsh",
-                    "elo": 1527,
-                    "change": 18,
-                    "oelo": 1432,
-                    "ochange": -18,
-                    "time": 483562,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -194755,20 +194741,6 @@
                     "oelo": 1743,
                     "ochange": 19,
                     "time": 639470,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777783542000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JeffyEinstein",
-                    "elo": 1690,
-                    "change": 17,
-                    "oelo": 1583,
-                    "ochange": -17,
-                    "time": 614619,
                     "forfeited": false,
                     "decayed": false
                 }
