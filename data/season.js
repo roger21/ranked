@@ -1,5 +1,5 @@
 {
-    "date": 1782088201000,
+    "date": 1782088801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -22259,20 +22259,6 @@
                     "oelo": 1599,
                     "ochange": 21,
                     "time": 775700,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777768655000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "FlaxyB",
-                    "elo": 1602,
-                    "change": 17,
-                    "oelo": 1498,
-                    "ochange": -17,
-                    "time": 638197,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -93169,20 +93155,6 @@
                     "oelo": 1545,
                     "ochange": 21,
                     "time": 800982,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777768502000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1552,
-                    "change": -21,
-                    "oelo": 1580,
-                    "ochange": 21,
-                    "time": 859232,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195343,20 +195315,6 @@
                     "oelo": 1610,
                     "ochange": -22,
                     "time": 611989,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777768502000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ogurikappa",
-                    "elo": 1580,
-                    "change": 21,
-                    "oelo": 1552,
-                    "ochange": -21,
-                    "time": 859232,
                     "forfeited": false,
                     "decayed": false
                 }
