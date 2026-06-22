@@ -1,5 +1,5 @@
 {
-    "date": 1782121801000,
+    "date": 1782122401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24916,20 +24916,6 @@
                     "time": 684165,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777801993000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1834,
-                    "change": 16,
-                    "oelo": 1688,
-                    "ochange": -16,
-                    "time": 597613,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46071,7 +46057,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 11,
+                "rank": 12,
                 "elo": 2198,
                 "top": 2203,
                 "points": 26,
@@ -52422,7 +52408,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 2196,
                 "top": 2215,
                 "points": 18,
@@ -53915,7 +53901,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 13,
+                "rank": 14,
                 "elo": 2195,
                 "top": 2195,
                 "points": 4,
@@ -55870,7 +55856,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 14,
+                "rank": 15,
                 "elo": 2194,
                 "top": 2203,
                 "points": 29,
@@ -58889,23 +58875,37 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 15,
-                "elo": 2193,
-                "top": 2193,
+                "rank": 11,
+                "elo": 2205,
+                "top": 2205,
                 "points": 17,
                 "pb": 449505,
-                "current": 8,
-                "streak": 8,
-                "matches": 192,
-                "playtime": 109421306,
-                "finished": 103,
-                "finishtime": 61041774,
-                "won": 112,
+                "current": 9,
+                "streak": 9,
+                "matches": 193,
+                "playtime": 110390830,
+                "finished": 104,
+                "finishtime": 62011298,
+                "won": 113,
                 "lost": 74,
                 "forfeited": 4
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1782122420000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Geegeeboy_25",
+                    "elo": 2205,
+                    "change": 12,
+                    "oelo": 1952,
+                    "ochange": -12,
+                    "time": 969524,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782120870000,
                     "type": "VILLAGE",
@@ -67859,20 +67859,6 @@
                     "ochange": 0,
                     "time": 453138,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777802281000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Bodek",
-                    "elo": 1617,
-                    "change": -19,
-                    "oelo": 1675,
-                    "ochange": 19,
-                    "time": 386452,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -101475,20 +101461,6 @@
                     "oelo": 1700,
                     "ochange": -17,
                     "time": 422925,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777802279000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1805,
-                    "change": 16,
-                    "oelo": 1653,
-                    "ochange": -16,
-                    "time": 519866,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176483,20 +176455,6 @@
                     "time": 607244,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777801880000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1696,
-                    "change": -19,
-                    "oelo": 1751,
-                    "ochange": 19,
-                    "time": 538732,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -215338,20 +215296,6 @@
                     "oelo": 1587,
                     "ochange": -18,
                     "time": 501254,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777802279000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1653,
-                    "change": -16,
-                    "oelo": 1805,
-                    "ochange": 16,
-                    "time": 519866,
                     "forfeited": false,
                     "decayed": false
                 }
