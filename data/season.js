@@ -1,5 +1,5 @@
 {
-    "date": 1782099001000,
+    "date": 1782099601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13682,20 +13682,6 @@
                     "oelo": 1695,
                     "ochange": -17,
                     "time": 540696,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777779016000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 1783,
-                    "change": -23,
-                    "oelo": 1759,
-                    "ochange": 23,
-                    "time": 460885,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -92891,20 +92877,6 @@
                     "time": 787033,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777779543000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "JeffyEinstein",
-                    "elo": 1533,
-                    "change": 1,
-                    "oelo": 1624,
-                    "ochange": -1,
-                    "time": 660433,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -106846,20 +106818,6 @@
                     "oelo": 1572,
                     "ochange": -19,
                     "time": 558317,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777779181000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Snakezy",
-                    "elo": 1630,
-                    "change": 18,
-                    "oelo": 1528,
-                    "ochange": -18,
-                    "time": 651142,
                     "forfeited": false,
                     "decayed": false
                 }
