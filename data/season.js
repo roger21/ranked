@@ -1,5 +1,5 @@
 {
-    "date": 1782127801000,
+    "date": 1782128401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24858,20 +24858,6 @@
                     "oelo": 1747,
                     "ochange": -17,
                     "time": 621370,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777808014000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1839,
-                    "change": -21,
-                    "oelo": 1842,
-                    "ochange": 21,
-                    "time": 524569,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107193,20 +107179,6 @@
                     "time": 744732,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777808092000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1615,
-                    "change": 21,
-                    "oelo": 1608,
-                    "ochange": -21,
-                    "time": 657463,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -176285,20 +176257,6 @@
                     "oelo": 1536,
                     "ochange": -18,
                     "time": 459313,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777808092000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 1608,
-                    "change": -21,
-                    "oelo": 1615,
-                    "ochange": 21,
-                    "time": 657463,
                     "forfeited": false,
                     "decayed": false
                 }
