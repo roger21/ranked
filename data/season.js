@@ -1,5 +1,5 @@
 {
-    "date": 1782130201000,
+    "date": 1782130801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -102186,20 +102186,6 @@
                     "time": 571553,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777810789000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1597,
-                    "change": 17,
-                    "oelo": 1491,
-                    "ochange": -17,
-                    "time": 785239,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107159,22 +107145,36 @@
             "nickname": "romuxii",
             "stats": {
                 "rank": 24,
-                "elo": 2113,
+                "elo": 2126,
                 "top": 2178,
                 "points": 0,
                 "pb": 399463,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 487,
-                "playtime": 261394969,
-                "finished": 220,
-                "finishtime": 127667034,
-                "won": 256,
+                "matches": 488,
+                "playtime": 262056871,
+                "finished": 221,
+                "finishtime": 128328936,
+                "won": 257,
                 "lost": 214,
                 "forfeited": 84
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1782130531000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Geegeeboy_25",
+                    "elo": 2126,
+                    "change": 13,
+                    "oelo": 1913,
+                    "ochange": -13,
+                    "time": 661902,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782129778000,
                     "type": "VILLAGE",
@@ -176132,20 +176132,6 @@
                     "ochange": -19,
                     "time": 535043,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777810665000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "kohout135",
-                    "elo": 1665,
-                    "change": 19,
-                    "oelo": 1600,
-                    "ochange": -19,
-                    "time": 868948,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
