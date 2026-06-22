@@ -1,5 +1,5 @@
 {
-    "date": 1782090001000,
+    "date": 1782090601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -22218,20 +22218,6 @@
                     "ochange": -22,
                     "time": 607689,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777770351000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 1623,
-                    "change": 21,
-                    "oelo": 1620,
-                    "ochange": -21,
-                    "time": 328725,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -93099,20 +93085,6 @@
                     "oelo": 1521,
                     "ochange": -21,
                     "time": 496236,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777770168000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "FuzzKing",
-                    "elo": 1508,
-                    "change": -23,
-                    "oelo": 1476,
-                    "ochange": 23,
-                    "time": 557939,
                     "forfeited": false,
                     "decayed": false
                 }
