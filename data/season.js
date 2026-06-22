@@ -1,5 +1,5 @@
 {
-    "date": 1782117601000,
+    "date": 1782118201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9291,20 +9291,6 @@
                     "oelo": 1756,
                     "ochange": -14,
                     "time": 503907,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777798165000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1937,
-                    "change": 14,
-                    "oelo": 1741,
-                    "ochange": -14,
-                    "time": 567695,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24956,20 +24942,6 @@
                     "oelo": 1732,
                     "ochange": -18,
                     "time": 650806,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777798066000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1800,
-                    "change": 15,
-                    "oelo": 1619,
-                    "ochange": -15,
-                    "time": 701564,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -67970,20 +67942,6 @@
                     "oelo": 1636,
                     "ochange": -21,
                     "time": 677828,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777797986000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1635,
-                    "change": -19,
-                    "oelo": 1703,
-                    "ochange": 19,
-                    "time": 617565,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176693,20 +176651,6 @@
                     "time": 558335,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777797986000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1703,
-                    "change": 19,
-                    "oelo": 1635,
-                    "ochange": -19,
-                    "time": 617565,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -215646,20 +215590,6 @@
                     "oelo": 1515,
                     "ochange": -16,
                     "time": 216349,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777797745000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "_pizu",
-                    "elo": 1641,
-                    "change": -1,
-                    "oelo": 1596,
-                    "ochange": 1,
-                    "time": 649082,
                     "forfeited": true,
                     "decayed": false
                 }
