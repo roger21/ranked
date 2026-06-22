@@ -1,5 +1,5 @@
 {
-    "date": 1782106801000,
+    "date": 1782107401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13570,20 +13570,6 @@
                     "oelo": 1878,
                     "ochange": -21,
                     "time": 578702,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777787250000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BadGamer",
-                    "elo": 1872,
-                    "change": 18,
-                    "oelo": 1791,
-                    "ochange": -18,
-                    "time": 441309,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -54158,20 +54144,6 @@
                     "oelo": 1699,
                     "ochange": -17,
                     "time": 606262,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777787250000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1791,
-                    "change": -18,
-                    "oelo": 1872,
-                    "ochange": 18,
-                    "time": 441309,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -194601,20 +194573,6 @@
                     "oelo": 1808,
                     "ochange": 17,
                     "time": 606262,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777787293000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1716,
-                    "change": 23,
-                    "oelo": 1743,
-                    "ochange": -23,
-                    "time": 622913,
                     "forfeited": false,
                     "decayed": false
                 }
