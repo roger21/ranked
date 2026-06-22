@@ -1,5 +1,5 @@
 {
-    "date": 1782100201000,
+    "date": 1782100801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -92849,20 +92849,6 @@
                     "time": 388063,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777780390000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "sacanagem_online",
-                    "elo": 1512,
-                    "change": -21,
-                    "oelo": 1533,
-                    "ochange": 21,
-                    "time": 787033,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106776,20 +106762,6 @@
                     "oelo": 1557,
                     "ochange": 24,
                     "time": 703582,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777780794000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1631,
-                    "change": -18,
-                    "oelo": 1713,
-                    "ochange": 18,
-                    "time": 578861,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -177365,20 +177337,6 @@
                     "time": 534340,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777780794000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 1713,
-                    "change": 18,
-                    "oelo": 1631,
-                    "ochange": -18,
-                    "time": 578861,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -194923,20 +194881,6 @@
                     "oelo": 1814,
                     "ochange": 14,
                     "time": 478025,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777780463000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "JeffyEinstein",
-                    "elo": 1640,
-                    "change": 20,
-                    "oelo": 1604,
-                    "ochange": -20,
-                    "time": 544505,
                     "forfeited": false,
                     "decayed": false
                 }
