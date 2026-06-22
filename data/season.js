@@ -1,5 +1,5 @@
 {
-    "date": 1782119401000,
+    "date": 1782120001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67914,20 +67914,6 @@
                     "oelo": 1750,
                     "ochange": 18,
                     "time": 472232,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777799639000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1673,
-                    "change": 17,
-                    "oelo": 1557,
-                    "ochange": -17,
-                    "time": 501866,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176581,20 +176567,6 @@
                     "time": 440203,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777799823000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1681,
-                    "change": 18,
-                    "oelo": 1577,
-                    "ochange": -18,
-                    "time": 344713,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -215492,20 +215464,6 @@
                     "oelo": 1477,
                     "ochange": -15,
                     "time": 503264,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777799645000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1619,
-                    "change": -17,
-                    "oelo": 1732,
-                    "ochange": 17,
-                    "time": 603134,
                     "forfeited": false,
                     "decayed": false
                 }
