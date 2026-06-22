@@ -1,5 +1,5 @@
 {
-    "date": 1782133201000,
+    "date": 1782133801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -48437,20 +48437,6 @@
                     "oelo": 1620,
                     "ochange": 22,
                     "time": 540365,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777813314000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "kohout135",
-                    "elo": 1656,
-                    "change": 19,
-                    "oelo": 1581,
-                    "ochange": -19,
-                    "time": 602596,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -166450,20 +166436,6 @@
                     "time": 588580,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777813424000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1724,
-                    "change": 19,
-                    "oelo": 1667,
-                    "ochange": -19,
-                    "time": 551330,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -175963,20 +175935,6 @@
                     "oelo": 1577,
                     "ochange": -17,
                     "time": 734674,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777813424000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1667,
-                    "change": -19,
-                    "oelo": 1724,
-                    "ochange": 19,
-                    "time": 551330,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -207858,20 +207816,6 @@
                     "oelo": 1658,
                     "ochange": 18,
                     "time": 530177,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777813210000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "KindPlays",
-                    "elo": 1595,
-                    "change": 20,
-                    "oelo": 1545,
-                    "ochange": -20,
-                    "time": 480008,
                     "forfeited": false,
                     "decayed": false
                 }
