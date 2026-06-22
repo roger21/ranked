@@ -1,5 +1,5 @@
 {
-    "date": 1782105001000,
+    "date": 1782105601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13640,20 +13640,6 @@
                     "oelo": 1639,
                     "ochange": -14,
                     "time": 519689,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777785341000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "MaybeSoul",
-                    "elo": 1827,
-                    "change": 13,
-                    "oelo": 1611,
-                    "ochange": -13,
-                    "time": 612108,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -92735,20 +92721,6 @@
                     "oelo": 1503,
                     "ochange": -20,
                     "time": 560965,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777785429000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "okCobalt",
-                    "elo": 1521,
-                    "change": -23,
-                    "oelo": 1482,
-                    "ochange": 23,
-                    "time": 940964,
                     "forfeited": false,
                     "decayed": false
                 }
