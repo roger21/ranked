@@ -1,5 +1,5 @@
 {
-    "date": 1782120601000,
+    "date": 1782121201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58904,22 +58904,36 @@
             "nickname": "Erikfzf",
             "stats": {
                 "rank": 15,
-                "elo": 2181,
-                "top": 2181,
+                "elo": 2193,
+                "top": 2193,
                 "points": 17,
                 "pb": 449505,
-                "current": 7,
-                "streak": 7,
-                "matches": 191,
-                "playtime": 108793920,
-                "finished": 102,
-                "finishtime": 60414388,
-                "won": 111,
+                "current": 8,
+                "streak": 8,
+                "matches": 192,
+                "playtime": 109421306,
+                "finished": 103,
+                "finishtime": 61041774,
+                "won": 112,
                 "lost": 74,
                 "forfeited": 4
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1782120870000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Sadekeppi",
+                    "elo": 2193,
+                    "change": 12,
+                    "oelo": 1921,
+                    "ochange": -12,
+                    "time": 627386,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1781699633000,
                     "type": "BURIED_TREASURE",
@@ -67887,20 +67901,6 @@
                     "ochange": 0,
                     "time": 582065,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777801085000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1636,
-                    "change": -19,
-                    "oelo": 1715,
-                    "ochange": 19,
-                    "time": 626075,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -176525,20 +176525,6 @@
                     "time": 538732,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777801085000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1715,
-                    "change": 19,
-                    "oelo": 1636,
-                    "ochange": -19,
-                    "time": 626075,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -215409,20 +215395,6 @@
                     "ochange": -16,
                     "time": 568377,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777800800000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_pizu",
-                    "elo": 1653,
-                    "change": 19,
-                    "oelo": 1588,
-                    "ochange": -19,
-                    "time": 398449,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
