@@ -1,5 +1,5 @@
 {
-    "date": 1782096601000,
+    "date": 1782097201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -92987,20 +92987,6 @@
                     "oelo": 1519,
                     "ochange": 21,
                     "time": 706311,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777776603000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "JeffyEinstein",
-                    "elo": 1536,
-                    "change": -20,
-                    "oelo": 1580,
-                    "ochange": 20,
-                    "time": 676520,
                     "forfeited": false,
                     "decayed": false
                 }
