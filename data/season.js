@@ -1,5 +1,5 @@
 {
-    "date": 1782121201000,
+    "date": 1782121801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24928,20 +24928,6 @@
                     "oelo": 1688,
                     "ochange": -16,
                     "time": 597613,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777801288000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1818,
-                    "change": 18,
-                    "oelo": 1732,
-                    "ochange": -18,
-                    "time": 650806,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -67886,20 +67872,6 @@
                     "oelo": 1675,
                     "ochange": 19,
                     "time": 386452,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777801758000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "xFray_",
-                    "elo": 1636,
-                    "change": 0,
-                    "oelo": 1615,
-                    "ochange": 0,
-                    "time": 582065,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -215380,20 +215352,6 @@
                     "oelo": 1805,
                     "ochange": 16,
                     "time": 519866,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777801475000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Blad_d",
-                    "elo": 1669,
-                    "change": 16,
-                    "oelo": 1536,
-                    "ochange": -16,
-                    "time": 568377,
                     "forfeited": false,
                     "decayed": false
                 }
