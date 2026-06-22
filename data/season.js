@@ -1,5 +1,5 @@
 {
-    "date": 1782117001000,
+    "date": 1782117601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9305,20 +9305,6 @@
                     "oelo": 1741,
                     "ochange": -14,
                     "time": 567695,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777797023000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 1923,
-                    "change": 16,
-                    "oelo": 1785,
-                    "ochange": -16,
-                    "time": 517077,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24984,20 +24970,6 @@
                     "oelo": 1619,
                     "ochange": -15,
                     "time": 701564,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777797023000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1785,
-                    "change": -16,
-                    "oelo": 1923,
-                    "ochange": 16,
-                    "time": 517077,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -68014,20 +67986,6 @@
                     "time": 617565,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777797243000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1654,
-                    "change": 21,
-                    "oelo": 1634,
-                    "ochange": -21,
-                    "time": 667414,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -101657,34 +101615,6 @@
                     "oelo": 1686,
                     "ochange": -17,
                     "time": 558335,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777797592000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1772,
-                    "change": 19,
-                    "oelo": 1719,
-                    "ochange": -19,
-                    "time": 514097,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777797031000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1753,
-                    "change": 17,
-                    "oelo": 1642,
-                    "ochange": -17,
-                    "time": 500524,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176777,20 +176707,6 @@
                     "time": 617565,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777797308000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ElegantRobin",
-                    "elo": 1684,
-                    "change": 15,
-                    "oelo": 1514,
-                    "ochange": -15,
-                    "time": 593611,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -197434,7 +197350,7 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 43,
-                "elo": 2028,
+                "elo": 2023,
                 "top": 2158,
                 "points": 32,
                 "pb": 410465,
@@ -197450,6 +197366,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1782117604000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2023,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782031203000,
                     "type": null,
@@ -215731,20 +215661,6 @@
                     "ochange": 1,
                     "time": 649082,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777797031000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1642,
-                    "change": -17,
-                    "oelo": 1753,
-                    "ochange": 17,
-                    "time": 500524,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
