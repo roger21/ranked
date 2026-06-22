@@ -1,5 +1,5 @@
 {
-    "date": 1782115801000,
+    "date": 1782116401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9333,20 +9333,6 @@
                     "oelo": 1736,
                     "ochange": -15,
                     "time": 519464,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777795880000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1892,
-                    "change": 14,
-                    "oelo": 1688,
-                    "ochange": -14,
-                    "time": 563593,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -25026,20 +25012,6 @@
                     "oelo": 1923,
                     "ochange": 16,
                     "time": 517077,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777796123000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Duk4n_",
-                    "elo": 1801,
-                    "change": 15,
-                    "oelo": 1643,
-                    "ochange": -15,
-                    "time": 585710,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -101757,20 +101729,6 @@
                     "time": 519464,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777795830000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1751,
-                    "change": 20,
-                    "oelo": 1721,
-                    "ochange": -20,
-                    "time": 583483,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -176887,20 +176845,6 @@
                     "oelo": 1740,
                     "ochange": 19,
                     "time": 699870,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777795880000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1688,
-                    "change": -14,
-                    "oelo": 1892,
-                    "ochange": 14,
-                    "time": 563593,
                     "forfeited": false,
                     "decayed": false
                 }
