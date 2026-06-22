@@ -1,5 +1,5 @@
 {
-    "date": 1782133801000,
+    "date": 1782134401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -48423,20 +48423,6 @@
                     "oelo": 1704,
                     "ochange": 18,
                     "time": 569505,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777814114000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "xFray_",
-                    "elo": 1634,
-                    "change": -22,
-                    "oelo": 1620,
-                    "ochange": 22,
-                    "time": 540365,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107023,20 +107009,6 @@
                     "oelo": 1702,
                     "ochange": -18,
                     "time": 534408,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777814247000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1778,
-                    "change": 17,
-                    "oelo": 1661,
-                    "ochange": -17,
-                    "time": 627334,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -166422,20 +166394,6 @@
                     "time": 552117,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777814285000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1745,
-                    "change": 21,
-                    "oelo": 1720,
-                    "ochange": -21,
-                    "time": 588580,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -175922,20 +175880,6 @@
                     "ochange": 0,
                     "time": 386774,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777814230000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1684,
-                    "change": 17,
-                    "oelo": 1577,
-                    "ochange": -17,
-                    "time": 734674,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -207802,20 +207746,6 @@
                     "oelo": 1575,
                     "ochange": -21,
                     "time": 770875,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777813809000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "1_viewer",
-                    "elo": 1577,
-                    "change": -18,
-                    "oelo": 1658,
-                    "ochange": 18,
-                    "time": 530177,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -244438,20 +244368,6 @@
                     "oelo": 1890,
                     "ochange": 12,
                     "time": 615086,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777813809000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1658,
-                    "change": 18,
-                    "oelo": 1577,
-                    "ochange": -18,
-                    "time": 530177,
                     "forfeited": false,
                     "decayed": false
                 }
