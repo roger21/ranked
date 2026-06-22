@@ -1,5 +1,5 @@
 {
-    "date": 1782097201000,
+    "date": 1782097801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52779,20 +52779,6 @@
                     "time": 670857,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777777299000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "hack_page",
-                    "elo": 1748,
-                    "change": 17,
-                    "oelo": 1619,
-                    "ochange": -17,
-                    "time": 755814,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92973,20 +92959,6 @@
                     "oelo": 1428,
                     "ochange": -17,
                     "time": 411742,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777777562000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KalelSUP",
-                    "elo": 1515,
-                    "change": -21,
-                    "oelo": 1519,
-                    "ochange": 21,
-                    "time": 706311,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195175,20 +195147,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 611053,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777777225000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1583,
-                    "change": 19,
-                    "oelo": 1509,
-                    "ochange": -19,
-                    "time": 607809,
                     "forfeited": false,
                     "decayed": false
                 }
