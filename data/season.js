@@ -1,5 +1,5 @@
 {
-    "date": 1782198001000,
+    "date": 1782198601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -164882,20 +164882,6 @@
                     "time": 662222,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777878532000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1672,
-                    "change": 21,
-                    "oelo": 1649,
-                    "ochange": -21,
-                    "time": 650976,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -180816,20 +180802,6 @@
                     "oelo": 1676,
                     "ochange": 22,
                     "time": 654821,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777878261000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dolqhin",
-                    "elo": 1716,
-                    "change": -22,
-                    "oelo": 1717,
-                    "ochange": 22,
-                    "time": 574573,
                     "forfeited": false,
                     "decayed": false
                 }
