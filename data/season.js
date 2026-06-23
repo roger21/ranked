@@ -1,5 +1,5 @@
 {
-    "date": 1782196801000,
+    "date": 1782197401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -25166,20 +25166,6 @@
                     "oelo": 1955,
                     "ochange": 21,
                     "time": 552609,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777876826000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1948,
-                    "change": 15,
-                    "oelo": 1764,
-                    "ochange": -15,
-                    "time": 527763,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -185489,20 +185475,6 @@
                     "time": 624966,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777876826000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1764,
-                    "change": -15,
-                    "oelo": 1948,
-                    "ochange": 15,
-                    "time": 527763,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -207064,20 +207036,6 @@
                     "oelo": 1670,
                     "ochange": -17,
                     "time": 639660,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777877093000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1765,
-                    "change": 14,
-                    "oelo": 1579,
-                    "ochange": -14,
-                    "time": 528184,
                     "forfeited": false,
                     "decayed": false
                 }
