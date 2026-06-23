@@ -1,5 +1,5 @@
 {
-    "date": 1782185401000,
+    "date": 1782186001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27851,20 +27851,6 @@
                     "time": 496490,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777865706000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1731,
-                    "change": 24,
-                    "oelo": 1803,
-                    "ochange": -24,
-                    "time": 386619,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -35998,20 +35984,6 @@
                     "time": 487646,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777865706000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nhb_",
-                    "elo": 1803,
-                    "change": -24,
-                    "oelo": 1731,
-                    "ochange": 24,
-                    "time": 386619,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -40584,20 +40556,6 @@
                     "ochange": -16,
                     "time": 487646,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777865445000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "woofdoggo_",
-                    "elo": 1914,
-                    "change": -23,
-                    "oelo": 1874,
-                    "ochange": 23,
-                    "time": 551921,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -62972,20 +62930,6 @@
                     "oelo": 1611,
                     "ochange": -19,
                     "time": 580186,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777865697000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ogurikappa",
-                    "elo": 1646,
-                    "change": -23,
-                    "oelo": 1620,
-                    "ochange": 23,
-                    "time": 529408,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86092,20 +86036,6 @@
                     "time": 578228,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777865697000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1620,
-                    "change": 23,
-                    "oelo": 1646,
-                    "ochange": -23,
-                    "time": 529408,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -88157,20 +88087,6 @@
                     "oelo": 1846,
                     "ochange": -20,
                     "time": 522342,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777865445000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1874,
-                    "change": 23,
-                    "oelo": 1914,
-                    "ochange": -23,
-                    "time": 551921,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -139423,20 +139339,6 @@
                     "time": 479052,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777865508000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "12BrainCells",
-                    "elo": 1605,
-                    "change": 20,
-                    "oelo": 1572,
-                    "ochange": -20,
-                    "time": 574761,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -186766,7 +186668,7 @@
             "nickname": "priffie",
             "stats": {
                 "rank": 43,
-                "elo": 2029,
+                "elo": 2024,
                 "top": 2106,
                 "points": 8,
                 "pb": 433309,
@@ -186782,6 +186684,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1782186066000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2024,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1781947646000,
                     "type": "RUINED_PORTAL",
@@ -190008,7 +189924,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2028,
                 "top": 2354,
                 "points": 11,
