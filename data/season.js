@@ -1,5 +1,5 @@
 {
-    "date": 1782199801000,
+    "date": 1782200402000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -139101,20 +139101,6 @@
                     "time": 485238,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777880152000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "tomorrowsharvest",
-                    "elo": 1622,
-                    "change": 17,
-                    "oelo": 1511,
-                    "ochange": -17,
-                    "time": 667556,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -185417,20 +185403,6 @@
                     "oelo": 1691,
                     "ochange": 22,
                     "time": 509234,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777880390000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "lyxier",
-                    "elo": 1711,
-                    "change": 17,
-                    "oelo": 1593,
-                    "ochange": -17,
-                    "time": 1080209,
                     "forfeited": false,
                     "decayed": false
                 }
