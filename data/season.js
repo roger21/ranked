@@ -1,5 +1,5 @@
 {
-    "date": 1782184201000,
+    "date": 1782184801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27878,20 +27878,6 @@
                     "ochange": -20,
                     "time": 557064,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777864379000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1687,
-                    "change": 16,
-                    "oelo": 1547,
-                    "ochange": -16,
-                    "time": 275274,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -63056,20 +63042,6 @@
                     "oelo": 1707,
                     "ochange": 20,
                     "time": 557064,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777864380000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1689,
-                    "change": -17,
-                    "oelo": 1819,
-                    "ochange": 17,
-                    "time": 656365,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -202259,20 +202231,6 @@
                     "ochange": 19,
                     "time": 294302,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777864380000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1819,
-                    "change": 17,
-                    "oelo": 1689,
-                    "ochange": -17,
-                    "time": 656365,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
