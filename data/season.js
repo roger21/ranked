@@ -1,5 +1,5 @@
 {
-    "date": 1782226801000,
+    "date": 1782227402000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -175186,20 +175186,6 @@
                     "time": 606891,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777907194000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1726,
-                    "change": 19,
-                    "oelo": 1656,
-                    "ochange": -19,
-                    "time": 663332,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -230486,20 +230472,6 @@
                     "ochange": 23,
                     "time": 530749,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777906884000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1615,
-                    "change": 24,
-                    "oelo": 1665,
-                    "ochange": -24,
-                    "time": 509671,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
