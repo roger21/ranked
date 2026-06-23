@@ -1,5 +1,5 @@
 {
-    "date": 1782179401000,
+    "date": 1782180001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -38068,20 +38068,6 @@
                     "oelo": 1793,
                     "ochange": -19,
                     "time": 530608,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777859472000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1840,
-                    "change": -18,
-                    "oelo": 1920,
-                    "ochange": 18,
-                    "time": 596941,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86526,20 +86512,6 @@
                     "time": 588472,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777859500000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "sanshynE",
-                    "elo": 1536,
-                    "change": -1,
-                    "oelo": 1486,
-                    "ochange": 1,
-                    "time": 679607,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -88703,20 +88675,6 @@
                     "oelo": 1859,
                     "ochange": 19,
                     "time": 530608,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777859426000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1812,
-                    "change": 22,
-                    "oelo": 1834,
-                    "ochange": -22,
-                    "time": 544174,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -92282,20 +92240,6 @@
                     "oelo": 1793,
                     "ochange": -16,
                     "time": 473218,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777859472000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1920,
-                    "change": 18,
-                    "oelo": 1840,
-                    "ochange": -18,
-                    "time": 596941,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -202804,20 +202748,6 @@
                     "oelo": 1695,
                     "ochange": -16,
                     "time": 546204,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777859426000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "woofdoggo_",
-                    "elo": 1834,
-                    "change": -22,
-                    "oelo": 1812,
-                    "ochange": 22,
-                    "time": 544174,
                     "forfeited": false,
                     "decayed": false
                 }
