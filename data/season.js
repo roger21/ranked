@@ -1,5 +1,5 @@
 {
-    "date": 1782187801000,
+    "date": 1782188401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27795,20 +27795,6 @@
                     "time": 565988,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777868338000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "reeiper",
-                    "elo": 1769,
-                    "change": 13,
-                    "oelo": 1529,
-                    "ochange": -13,
-                    "time": 606463,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -40429,20 +40415,6 @@
                     "oelo": 1796,
                     "ochange": 27,
                     "time": 565988,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777868283000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "LEC666888",
-                    "elo": 1955,
-                    "change": 11,
-                    "oelo": 1661,
-                    "ochange": -11,
-                    "time": 401695,
                     "forfeited": false,
                     "decayed": false
                 }
