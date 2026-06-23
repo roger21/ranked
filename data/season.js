@@ -1,5 +1,5 @@
 {
-    "date": 1782234001000,
+    "date": 1782234601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -75145,20 +75145,6 @@
                     "time": 568144,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777914523000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1723,
-                    "change": -21,
-                    "oelo": 1733,
-                    "ochange": 21,
-                    "time": 688976,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -119237,20 +119223,6 @@
                     "time": 563188,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777914253000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "steez",
-                    "elo": 1637,
-                    "change": -19,
-                    "oelo": 1696,
-                    "ochange": 19,
-                    "time": 731482,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -122268,20 +122240,6 @@
                     "oelo": 1649,
                     "ochange": 23,
                     "time": 571914,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777914253000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1696,
-                    "change": 19,
-                    "oelo": 1637,
-                    "ochange": -19,
-                    "time": 731482,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -147389,20 +147347,6 @@
                     "time": 720886,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777914106000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "kohout135",
-                    "elo": 1710,
-                    "change": 20,
-                    "oelo": 1683,
-                    "ochange": -20,
-                    "time": 537172,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -164209,20 +164153,6 @@
                     "oelo": 1638,
                     "ochange": -17,
                     "time": 580202,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777914523000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "darvy__",
-                    "elo": 1733,
-                    "change": 21,
-                    "oelo": 1723,
-                    "ochange": -21,
-                    "time": 688976,
                     "forfeited": false,
                     "decayed": false
                 }
