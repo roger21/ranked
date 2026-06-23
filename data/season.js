@@ -1,5 +1,5 @@
 {
-    "date": 1782173401000,
+    "date": 1782174001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17184,20 +17184,6 @@
                     "time": 550491,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777853462000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 1989,
-                    "change": 19,
-                    "oelo": 1910,
-                    "ochange": -19,
-                    "time": 684318,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -25209,20 +25195,6 @@
                     "ochange": -15,
                     "time": 527763,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777853595000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1933,
-                    "change": 14,
-                    "oelo": 1749,
-                    "ochange": -14,
-                    "time": 210215,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -63562,20 +63534,6 @@
                     "time": 492259,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777853714000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1744,
-                    "change": -18,
-                    "oelo": 1829,
-                    "ochange": 18,
-                    "time": 612266,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -89139,20 +89097,6 @@
                     "time": 551239,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777853595000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1749,
-                    "change": -14,
-                    "oelo": 1933,
-                    "ochange": 14,
-                    "time": 210215,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -92814,20 +92758,6 @@
                     "oelo": 1733,
                     "ochange": -14,
                     "time": 684368,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777853462000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1910,
-                    "change": -19,
-                    "oelo": 1989,
-                    "ochange": 19,
-                    "time": 684318,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -203462,20 +203392,6 @@
                     "oelo": 1689,
                     "ochange": -16,
                     "time": 543893,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777853714000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1829,
-                    "change": 18,
-                    "oelo": 1744,
-                    "ochange": -18,
-                    "time": 612266,
                     "forfeited": false,
                     "decayed": false
                 }
