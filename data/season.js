@@ -1,5 +1,5 @@
 {
-    "date": 1782257401000,
+    "date": 1782258001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -15894,20 +15894,6 @@
                     "oelo": 1637,
                     "ochange": 26,
                     "time": 524638,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777937830000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1789,
-                    "change": 26,
-                    "oelo": 1895,
-                    "ochange": -26,
-                    "time": 500282,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36904,20 +36890,6 @@
                     "time": 556561,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777937830000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1895,
-                    "change": -26,
-                    "oelo": 1789,
-                    "ochange": 26,
-                    "time": 500282,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -44167,20 +44139,6 @@
                     "oelo": 1846,
                     "ochange": 19,
                     "time": 723598,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777937680000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1800,
-                    "change": 23,
-                    "oelo": 1843,
-                    "ochange": -23,
-                    "time": 499494,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55847,22 +55805,36 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 16,
-                "elo": 2177,
+                "elo": 2189,
                 "top": 2354,
                 "points": 11,
                 "pb": 408840,
-                "current": 4,
+                "current": 5,
                 "streak": 13,
-                "matches": 994,
-                "playtime": 546132526,
-                "finished": 500,
-                "finishtime": 285766456,
-                "won": 550,
+                "matches": 995,
+                "playtime": 546600611,
+                "finished": 501,
+                "finishtime": 286234541,
+                "won": 551,
                 "lost": 421,
                 "forfeited": 70
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1782257731000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "bbiddd",
+                    "elo": 2189,
+                    "change": 12,
+                    "oelo": 1946,
+                    "ochange": -12,
+                    "time": 468085,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782256930000,
                     "type": "VILLAGE",
