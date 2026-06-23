@@ -1,5 +1,5 @@
 {
-    "date": 1782200402000,
+    "date": 1782201001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -142231,20 +142231,6 @@
                     "ochange": 0,
                     "time": 573573,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777880714000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "MultiPori",
-                    "elo": 1575,
-                    "change": -18,
-                    "oelo": 1669,
-                    "ochange": 18,
-                    "time": 730949,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
