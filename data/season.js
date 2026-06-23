@@ -1,5 +1,5 @@
 {
-    "date": 1782219601000,
+    "date": 1782220201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52305,20 +52305,6 @@
                     "oelo": 1644,
                     "ochange": -19,
                     "time": 488239,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777900087000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1691,
-                    "change": 18,
-                    "oelo": 1599,
-                    "ochange": -18,
-                    "time": 602137,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180874,20 +180860,6 @@
                     "time": 426804,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777899959000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1660,
-                    "change": -12,
-                    "oelo": 1931,
-                    "ochange": 12,
-                    "time": 505159,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -230723,20 +230695,6 @@
                     "oelo": 1566,
                     "ochange": -22,
                     "time": 560247,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777899940000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "alexchoo",
-                    "elo": 1527,
-                    "change": -19,
-                    "oelo": 1595,
-                    "ochange": 19,
-                    "time": 586663,
                     "forfeited": false,
                     "decayed": false
                 }
