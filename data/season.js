@@ -1,5 +1,5 @@
 {
-    "date": 1782241801000,
+    "date": 1782242401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -68821,20 +68821,6 @@
                     "ochange": 20,
                     "time": 263163,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777922216000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "pandaendoz",
-                    "elo": 1645,
-                    "change": -22,
-                    "oelo": 1642,
-                    "ochange": 22,
-                    "time": 701892,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -198119,20 +198105,6 @@
                     "oelo": 1617,
                     "ochange": -14,
                     "time": 573327,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777921896000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1788,
-                    "change": 16,
-                    "oelo": 1639,
-                    "ochange": -16,
-                    "time": 522424,
                     "forfeited": false,
                     "decayed": false
                 }
