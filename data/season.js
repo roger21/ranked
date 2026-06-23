@@ -1,5 +1,5 @@
 {
-    "date": 1782258001000,
+    "date": 1782258601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -84597,20 +84597,6 @@
                     "oelo": 1763,
                     "ochange": -26,
                     "time": 524638,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777938449000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Voxio",
-                    "elo": 1611,
-                    "change": -21,
-                    "oelo": 1629,
-                    "ochange": 21,
-                    "time": 587966,
                     "forfeited": false,
                     "decayed": false
                 }
