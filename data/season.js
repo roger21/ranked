@@ -1,5 +1,5 @@
 {
-    "date": 1782182401000,
+    "date": 1782183001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63170,20 +63170,6 @@
                     "time": 442431,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777862496000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "woofdoggo_",
-                    "elo": 1698,
-                    "change": -16,
-                    "oelo": 1844,
-                    "ochange": 16,
-                    "time": 458642,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -88451,20 +88437,6 @@
                     "oelo": 1626,
                     "ochange": -13,
                     "time": 577234,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777862496000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1844,
-                    "change": 16,
-                    "oelo": 1698,
-                    "ochange": -16,
-                    "time": 458642,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -202468,20 +202440,6 @@
                     "oelo": 1902,
                     "ochange": 18,
                     "time": 514519,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777862851000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1820,
-                    "change": 16,
-                    "oelo": 1675,
-                    "ochange": -16,
-                    "time": 546525,
                     "forfeited": false,
                     "decayed": false
                 }
