@@ -1,5 +1,5 @@
 {
-    "date": 1782224401000,
+    "date": 1782225001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52191,20 +52191,6 @@
                     "time": 614059,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777904490000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "vorbh",
-                    "elo": 1743,
-                    "change": 0,
-                    "oelo": 1712,
-                    "ochange": 0,
-                    "time": 802121,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -69101,20 +69087,6 @@
                     "ochange": -15,
                     "time": 531448,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777904490000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "Ancoboyy",
-                    "elo": 1712,
-                    "change": 0,
-                    "oelo": 1743,
-                    "ochange": 0,
-                    "time": 802121,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
