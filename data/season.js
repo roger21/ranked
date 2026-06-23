@@ -1,5 +1,5 @@
 {
-    "date": 1782219001000,
+    "date": 1782219601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52319,20 +52319,6 @@
                     "oelo": 1599,
                     "ochange": -18,
                     "time": 602137,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777899369000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1673,
-                    "change": 21,
-                    "oelo": 1672,
-                    "ochange": -21,
-                    "time": 659141,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180900,20 +180886,6 @@
                     "oelo": 1931,
                     "ochange": 12,
                     "time": 505159,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777899369000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1672,
-                    "change": -21,
-                    "oelo": 1673,
-                    "ochange": 21,
-                    "time": 659141,
                     "forfeited": false,
                     "decayed": false
                 }
