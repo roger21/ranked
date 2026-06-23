@@ -1,5 +1,5 @@
 {
-    "date": 1782188401000,
+    "date": 1782189001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27781,20 +27781,6 @@
                     "time": 650627,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777868975000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1796,
-                    "change": 27,
-                    "oelo": 1928,
-                    "ochange": -27,
-                    "time": 565988,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -40401,20 +40387,6 @@
                     "oelo": 1679,
                     "ochange": -12,
                     "time": 528637,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777868975000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nhb_",
-                    "elo": 1928,
-                    "change": -27,
-                    "oelo": 1796,
-                    "ochange": 27,
-                    "time": 565988,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -85852,20 +85824,6 @@
                     "oelo": 1501,
                     "ochange": -16,
                     "time": 582947,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777868537000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1622,
-                    "change": -18,
-                    "oelo": 1714,
-                    "ochange": 18,
-                    "time": 589348,
                     "forfeited": false,
                     "decayed": false
                 }
