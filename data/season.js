@@ -1,5 +1,5 @@
 {
-    "date": 1782218401000,
+    "date": 1782219001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13487,14 +13487,14 @@
             "nickname": "BlazeMind",
             "stats": {
                 "rank": 4,
-                "elo": 2281,
+                "elo": 2279,
                 "top": 2310,
                 "points": 40,
                 "pb": 390102,
                 "current": 0,
                 "streak": 10,
-                "matches": 270,
-                "playtime": 148664557,
+                "matches": 271,
+                "playtime": 149258121,
                 "finished": 161,
                 "finishtime": 89362368,
                 "won": 175,
@@ -13503,6 +13503,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1782218577000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "retropog",
+                    "elo": 2279,
+                    "change": -2,
+                    "oelo": 2130,
+                    "ochange": 2,
+                    "time": 593564,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782217465000,
                     "type": "BURIED_TREASURE",
@@ -52321,20 +52335,6 @@
                     "time": 659141,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777898654000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1652,
-                    "change": -12,
-                    "oelo": 1919,
-                    "ochange": 12,
-                    "time": 583412,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -79084,7 +79084,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "Fkhxyyy",
+                    "opponent": "Fkhxy",
                     "elo": 1500,
                     "change": 17,
                     "oelo": 1397,
@@ -83368,7 +83368,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "Fkhxyyy",
+                    "opponent": "Fkhxy",
                     "elo": 1452,
                     "change": 21,
                     "oelo": 1424,
@@ -101816,14 +101816,14 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 23,
-                "elo": 2128,
+                "elo": 2130,
                 "top": 2218,
                 "points": 3,
                 "pb": 405306,
                 "current": 0,
                 "streak": 9,
-                "matches": 482,
-                "playtime": 272192733,
+                "matches": 483,
+                "playtime": 272786297,
                 "finished": 221,
                 "finishtime": 128317377,
                 "won": 254,
@@ -101832,6 +101832,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1782218577000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "BlazeMind",
+                    "elo": 2130,
+                    "change": 2,
+                    "oelo": 2279,
+                    "ochange": -2,
+                    "time": 593564,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782217908000,
                     "type": "BURIED_TREASURE",
@@ -174874,7 +174888,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "HOUSING",
                     "result": "lost",
-                    "opponent": "Fkhxyyy",
+                    "opponent": "Fkhxy",
                     "elo": 1686,
                     "change": -27,
                     "oelo": 1551,
@@ -186190,7 +186204,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "Fkhxyyy",
+                    "opponent": "Fkhxy",
                     "elo": 1672,
                     "change": 16,
                     "oelo": 1527,
@@ -216069,7 +216083,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "Fkhxyyy",
+                    "opponent": "Fkhxy",
                     "elo": 1641,
                     "change": 17,
                     "oelo": 1528,
@@ -221519,7 +221533,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "Fkhxyyy",
+                    "opponent": "Fkhxy",
                     "elo": 1676,
                     "change": 13,
                     "oelo": 1453,
@@ -230752,20 +230766,6 @@
                     "ochange": 19,
                     "time": 586663,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777898743000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Darko_RL",
-                    "elo": 1546,
-                    "change": 0,
-                    "oelo": 1515,
-                    "ochange": 0,
-                    "time": 533367,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
