@@ -1,5 +1,5 @@
 {
-    "date": 1782270001000,
+    "date": 1782270601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19389,20 +19389,6 @@
                     "oelo": 1754,
                     "ochange": -12,
                     "time": 687387,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777950458000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 1989,
-                    "change": 13,
-                    "oelo": 1765,
-                    "ochange": -13,
-                    "time": 462578,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43859,20 +43845,6 @@
                     "oelo": 1900,
                     "ochange": 16,
                     "time": 498661,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777950053000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MadoBrick",
-                    "elo": 1782,
-                    "change": 14,
-                    "oelo": 1587,
-                    "ochange": -14,
-                    "time": 553728,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -72017,20 +71989,6 @@
                     "ochange": 0,
                     "time": 581019,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777950531000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wagahpx",
-                    "elo": 1604,
-                    "change": 16,
-                    "oelo": 1460,
-                    "ochange": -16,
-                    "time": 445006,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
