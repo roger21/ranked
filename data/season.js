@@ -1,5 +1,5 @@
 {
-    "date": 1782288601000,
+    "date": 1782289201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71654,20 +71654,6 @@
                     "time": 218239,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777968759000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "wagayman",
-                    "elo": 1644,
-                    "change": 17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 514661,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -117561,20 +117547,6 @@
                     "ochange": -18,
                     "time": 218239,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777968911000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1690,
-                    "change": 18,
-                    "oelo": 1605,
-                    "ochange": -18,
-                    "time": 559758,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
