@@ -1,5 +1,5 @@
 {
-    "date": 1782291001000,
+    "date": 1782291601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77249,20 +77249,6 @@
                     "time": 562371,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1777971303000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "xFray_",
-                    "elo": 1620,
-                    "change": -22,
-                    "oelo": 1606,
-                    "ochange": 22,
-                    "time": 210232,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -117476,20 +117462,6 @@
                     "oelo": 1551,
                     "ochange": -15,
                     "time": 519025,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777971565000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "5magics",
-                    "elo": 1716,
-                    "change": 13,
-                    "oelo": 1499,
-                    "ochange": -13,
-                    "time": 594128,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -190840,22 +190812,36 @@
             "nickname": "staremc",
             "stats": {
                 "rank": 43,
-                "elo": 2022,
+                "elo": 2034,
                 "top": 2208,
                 "points": 5,
                 "pb": 433646,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 405,
-                "playtime": 242229039,
-                "finished": 190,
-                "finishtime": 119289219,
-                "won": 223,
+                "matches": 406,
+                "playtime": 242906170,
+                "finished": 191,
+                "finishtime": 119966350,
+                "won": 224,
                 "lost": 170,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782291309000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "oWinny",
+                    "elo": 2034,
+                    "change": 12,
+                    "oelo": 1760,
+                    "ochange": -12,
+                    "time": 677131,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782290521000,
                     "type": "BURIED_TREASURE",
