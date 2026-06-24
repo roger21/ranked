@@ -1,5 +1,5 @@
 {
-    "date": 1782266401000,
+    "date": 1782267002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19459,20 +19459,6 @@
                     "oelo": 1827,
                     "ochange": -16,
                     "time": 480026,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777946667000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1961,
-                    "change": -21,
-                    "oelo": 1969,
-                    "ochange": 21,
-                    "time": 773942,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -171955,8 +171941,8 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 37,
-                "elo": 2066,
+                "rank": 38,
+                "elo": 2061,
                 "top": 2156,
                 "points": 38,
                 "pb": 403492,
@@ -171972,6 +171958,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1782267008000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2061,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782180606000,
                     "type": null,
@@ -173000,7 +173000,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2062,
                 "top": 2195,
                 "points": 6,
@@ -202295,20 +202295,6 @@
                     "oelo": 1919,
                     "ochange": -19,
                     "time": 420613,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777946667000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1969,
-                    "change": 21,
-                    "oelo": 1961,
-                    "ochange": -21,
-                    "time": 773942,
                     "forfeited": false,
                     "decayed": false
                 }
