@@ -1,5 +1,5 @@
 {
-    "date": 1782274801000,
+    "date": 1782275401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71835,20 +71835,6 @@
                     "ochange": -19,
                     "time": 457338,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777954892000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "staremc",
-                    "elo": 1598,
-                    "change": 1,
-                    "oelo": 1703,
-                    "ochange": -1,
-                    "time": 689637,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -189856,20 +189842,6 @@
                     "ochange": 18,
                     "time": 540364,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777954892000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "ogurikappa",
-                    "elo": 1703,
-                    "change": -1,
-                    "oelo": 1598,
-                    "ochange": 1,
-                    "time": 689637,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
