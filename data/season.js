@@ -1,5 +1,5 @@
 {
-    "date": 1782295201000,
+    "date": 1782295801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77178,20 +77178,6 @@
                     "ochange": 0,
                     "time": 487683,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777975455000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Starchomper",
-                    "elo": 1577,
-                    "change": -19,
-                    "oelo": 1640,
-                    "ochange": 19,
-                    "time": 643162,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
