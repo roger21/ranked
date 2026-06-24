@@ -1,5 +1,5 @@
 {
-    "date": 1782276601000,
+    "date": 1782277201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71806,20 +71806,6 @@
                     "oelo": 1780,
                     "ochange": 15,
                     "time": 575623,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777957117000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "jonahhhhhhhh",
-                    "elo": 1638,
-                    "change": 21,
-                    "oelo": 1624,
-                    "ochange": -21,
-                    "time": 506988,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -151727,20 +151713,6 @@
                     "oelo": 1642,
                     "ochange": 26,
                     "time": 826111,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777956992000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1790,
-                    "change": 17,
-                    "oelo": 1683,
-                    "ochange": -17,
-                    "time": 766687,
                     "forfeited": false,
                     "decayed": false
                 }
