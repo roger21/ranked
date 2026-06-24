@@ -1,5 +1,5 @@
 {
-    "date": 1782271201000,
+    "date": 1782271801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19375,20 +19375,6 @@
                     "oelo": 1863,
                     "ochange": 26,
                     "time": 596864,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777951554000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 2001,
-                    "change": 12,
-                    "oelo": 1754,
-                    "ochange": -12,
-                    "time": 687387,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43818,20 +43804,6 @@
                     "ochange": 14,
                     "time": 328364,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777951554000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1754,
-                    "change": -12,
-                    "oelo": 2001,
-                    "ochange": 12,
-                    "time": 687387,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -71933,20 +71905,6 @@
                     "ochange": 26,
                     "time": 210242,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777951776000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Yosa1003",
-                    "elo": 1624,
-                    "change": 20,
-                    "oelo": 1597,
-                    "ochange": -20,
-                    "time": 547287,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -189996,20 +189954,6 @@
                     "ochange": -15,
                     "time": 503116,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777951248000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1666,
-                    "change": 18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 536791,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
