@@ -1,5 +1,5 @@
 {
-    "date": 1782273601000,
+    "date": 1782274201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71848,20 +71848,6 @@
                     "oelo": 1703,
                     "ochange": -1,
                     "time": 689637,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777953925000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "hsbi",
-                    "elo": 1597,
-                    "change": 0,
-                    "oelo": 1592,
-                    "ochange": 0,
-                    "time": 515010,
                     "forfeited": true,
                     "decayed": false
                 }
