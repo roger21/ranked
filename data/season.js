@@ -1,5 +1,5 @@
 {
-    "date": 1782283801000,
+    "date": 1782284401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71736,20 +71736,6 @@
                     "oelo": 1463,
                     "ochange": -16,
                     "time": 569426,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777963904000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "lyxier",
-                    "elo": 1597,
-                    "change": 17,
-                    "oelo": 1481,
-                    "ochange": -17,
-                    "time": 583376,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -151545,20 +151531,6 @@
                     "oelo": 1826,
                     "ochange": 20,
                     "time": 534827,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777963860000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1805,
-                    "change": 16,
-                    "oelo": 1662,
-                    "ochange": -16,
-                    "time": 615602,
                     "forfeited": false,
                     "decayed": false
                 }
