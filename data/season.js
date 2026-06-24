@@ -1,5 +1,5 @@
 {
-    "date": 1782288001000,
+    "date": 1782288601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71668,20 +71668,6 @@
                     "time": 514661,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777968170000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 1627,
-                    "change": -21,
-                    "oelo": 1644,
-                    "ochange": 21,
-                    "time": 707769,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -117588,20 +117574,6 @@
                     "oelo": 1605,
                     "ochange": -18,
                     "time": 559758,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777968288000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "47cpss",
-                    "elo": 1672,
-                    "change": -26,
-                    "oelo": 1544,
-                    "ochange": 26,
-                    "time": 627178,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195515,20 +195487,6 @@
                     "oelo": 1670,
                     "ochange": 20,
                     "time": 695301,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777968170000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ogurikappa",
-                    "elo": 1644,
-                    "change": 21,
-                    "oelo": 1627,
-                    "ochange": -21,
-                    "time": 707769,
                     "forfeited": false,
                     "decayed": false
                 }
