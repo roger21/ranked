@@ -1,5 +1,5 @@
 {
-    "date": 1782293401000,
+    "date": 1782294001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77206,34 +77206,6 @@
                     "ochange": -20,
                     "time": 554182,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777973925000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1576,
-                    "change": -22,
-                    "oelo": 1556,
-                    "ochange": 22,
-                    "time": 213315,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777973529000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "tomorrowsharvest",
-                    "elo": 1598,
-                    "change": -1,
-                    "oelo": 1549,
-                    "ochange": 1,
-                    "time": 315855,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
