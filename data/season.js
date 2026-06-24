@@ -1,5 +1,5 @@
 {
-    "date": 1782277801000,
+    "date": 1782278401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71778,34 +71778,6 @@
                     "oelo": 1659,
                     "ochange": 19,
                     "time": 538263,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777958393000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 1605,
-                    "change": -18,
-                    "oelo": 1683,
-                    "ochange": 18,
-                    "time": 472585,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777957860000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1623,
-                    "change": -15,
-                    "oelo": 1780,
-                    "ochange": 15,
-                    "time": 575623,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -151701,20 +151673,6 @@
                     "time": 733464,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1777958025000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "hsbi",
-                    "elo": 1764,
-                    "change": -26,
-                    "oelo": 1642,
-                    "ochange": 26,
-                    "time": 826111,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -189757,34 +189715,6 @@
                     "oelo": 1813,
                     "ochange": 16,
                     "time": 532952,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777958393000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ogurikappa",
-                    "elo": 1683,
-                    "change": 18,
-                    "oelo": 1605,
-                    "ochange": -18,
-                    "time": 472585,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1777957853000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dolqhin",
-                    "elo": 1665,
-                    "change": -20,
-                    "oelo": 1703,
-                    "ochange": 20,
-                    "time": 801888,
                     "forfeited": false,
                     "decayed": false
                 }
