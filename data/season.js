@@ -1,5 +1,5 @@
 {
-    "date": 1782279001000,
+    "date": 1782279601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -71764,20 +71764,6 @@
                     "oelo": 1480,
                     "ochange": 26,
                     "time": 845282,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777959578000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1611,
-                    "change": 25,
-                    "oelo": 1700,
-                    "ochange": -25,
-                    "time": 503616,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -183365,7 +183351,7 @@
             "nickname": "mukvl",
             "stats": {
                 "rank": 40,
-                "elo": 2054,
+                "elo": 2049,
                 "top": 2059,
                 "points": 13,
                 "pb": 439283,
@@ -183381,6 +183367,20 @@
             },
             "country": "in",
             "matches": [
+                {
+                    "date": 1782279428000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2049,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782193026000,
                     "type": null,
@@ -189687,20 +189687,6 @@
                     "oelo": 1617,
                     "ochange": 23,
                     "time": 527968,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1777959169000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1667,
-                    "change": -16,
-                    "oelo": 1813,
-                    "ochange": 16,
-                    "time": 532952,
                     "forfeited": false,
                     "decayed": false
                 }
