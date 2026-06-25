@@ -1,5 +1,5 @@
 {
-    "date": 1782402601000,
+    "date": 1782403201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108135,20 +108135,6 @@
                     "time": 729186,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778083127000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ggnx",
-                    "elo": 1549,
-                    "change": 17,
-                    "oelo": 1443,
-                    "ochange": -17,
-                    "time": 639266,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -128898,20 +128884,6 @@
                     "oelo": 1667,
                     "ochange": 23,
                     "time": 555538,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778082703000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1714,
-                    "change": -24,
-                    "oelo": 1655,
-                    "ochange": 24,
-                    "time": 546984,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -152861,20 +152833,6 @@
                     "ochange": -16,
                     "time": 593307,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778083126000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1729,
-                    "change": -18,
-                    "oelo": 1810,
-                    "ochange": 18,
-                    "time": 623821,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -206644,20 +206602,6 @@
                     "oelo": 1530,
                     "ochange": -19,
                     "time": 729186,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778083178000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "AllofMe",
-                    "elo": 1564,
-                    "change": -22,
-                    "oelo": 1557,
-                    "ochange": 22,
-                    "time": 766069,
                     "forfeited": false,
                     "decayed": false
                 }
