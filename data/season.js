@@ -1,5 +1,5 @@
 {
-    "date": 1782372001000,
+    "date": 1782373201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30752,20 +30752,6 @@
                     "oelo": 1639,
                     "ochange": -13,
                     "time": 515066,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778052632000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "mukvl",
-                    "elo": 1865,
-                    "change": -27,
-                    "oelo": 1716,
-                    "ochange": 27,
-                    "time": 773769,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -77821,22 +77807,36 @@
             "nickname": "bbiddd",
             "stats": {
                 "rank": 20,
-                "elo": 2148,
-                "top": 2156,
+                "elo": 2162,
+                "top": 2162,
                 "points": 20,
                 "pb": 392259,
-                "current": 5,
+                "current": 6,
                 "streak": 10,
-                "matches": 468,
-                "playtime": 260836578,
-                "finished": 224,
-                "finishtime": 130759118,
-                "won": 252,
+                "matches": 469,
+                "playtime": 261287191,
+                "finished": 225,
+                "finishtime": 131209731,
+                "won": 253,
                 "lost": 199,
                 "forfeited": 34
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782372113000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "gharfyy",
+                    "elo": 2162,
+                    "change": 14,
+                    "oelo": 1950,
+                    "ochange": -14,
+                    "time": 450613,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782371441000,
                     "type": "RUINED_PORTAL",
@@ -162918,20 +162918,6 @@
                     "time": 748934,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778052440000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Fkhxy",
-                    "elo": 1672,
-                    "change": 16,
-                    "oelo": 1527,
-                    "ochange": -16,
-                    "time": 324109,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -169327,20 +169313,6 @@
                     "oelo": 1684,
                     "ochange": -20,
                     "time": 593195,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778052632000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1716,
-                    "change": 27,
-                    "oelo": 1865,
-                    "ochange": -27,
-                    "time": 773769,
                     "forfeited": false,
                     "decayed": false
                 }
