@@ -1,5 +1,5 @@
 {
-    "date": 1782345001000,
+    "date": 1782345601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -15390,20 +15390,6 @@
                     "oelo": 1894,
                     "ochange": -26,
                     "time": 567712,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778025457000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1745,
-                    "change": 20,
-                    "oelo": 1694,
-                    "ochange": -20,
-                    "time": 654308,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30976,20 +30962,6 @@
                     "oelo": 1677,
                     "ochange": -13,
                     "time": 531817,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778025052000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1903,
-                    "change": 16,
-                    "oelo": 1756,
-                    "ochange": -16,
-                    "time": 502530,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -57044,20 +57016,6 @@
                     "time": 668311,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778025456000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 1945,
-                    "change": 21,
-                    "oelo": 1920,
-                    "ochange": -21,
-                    "time": 711683,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -78457,20 +78415,6 @@
                     "time": 598299,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778025052000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1756,
-                    "change": -16,
-                    "oelo": 1903,
-                    "ochange": 16,
-                    "time": 502530,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -81810,20 +81754,6 @@
                     "oelo": 1771,
                     "ochange": 26,
                     "time": 567712,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778025456000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1920,
-                    "change": -21,
-                    "oelo": 1945,
-                    "ochange": 21,
-                    "time": 711683,
                     "forfeited": false,
                     "decayed": false
                 }
