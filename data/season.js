@@ -1,5 +1,5 @@
 {
-    "date": 1782367802000,
+    "date": 1782368401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -143275,7 +143275,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2078,
                 "top": 2078,
                 "points": 3,
@@ -150942,7 +150942,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2073,
                 "top": 2115,
                 "points": 9,
@@ -153149,23 +153149,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 35,
-                "elo": 2069,
+                "rank": 33,
+                "elo": 2084,
                 "top": 2156,
                 "points": 20,
                 "pb": 392259,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 463,
-                "playtime": 258122535,
-                "finished": 219,
-                "finishtime": 128045075,
-                "won": 247,
+                "matches": 464,
+                "playtime": 258724443,
+                "finished": 220,
+                "finishtime": 128646983,
+                "won": 248,
                 "lost": 199,
                 "forfeited": 34
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782368439000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2084,
+                    "change": 15,
+                    "oelo": 1925,
+                    "ochange": -15,
+                    "time": 601908,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782367134000,
                     "type": "BURIED_TREASURE",
