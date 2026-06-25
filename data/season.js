@@ -1,5 +1,5 @@
 {
-    "date": 1782408601000,
+    "date": 1782409201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2945,20 +2945,6 @@
                     "oelo": 1727,
                     "ochange": -8,
                     "time": 450756,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778088760000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2124,
-                    "change": 9,
-                    "oelo": 1772,
-                    "ochange": -9,
-                    "time": 462405,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -27411,20 +27397,6 @@
                     "oelo": 1855,
                     "ochange": 16,
                     "time": 477071,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778089140000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Zbom",
-                    "elo": 1722,
-                    "change": -23,
-                    "oelo": 1691,
-                    "ochange": 23,
-                    "time": 607322,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -134495,20 +134467,6 @@
                     "time": 685872,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778088996000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Brunted",
-                    "elo": 1648,
-                    "change": -21,
-                    "oelo": 1664,
-                    "ochange": 21,
-                    "time": 557226,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -185582,20 +185540,6 @@
                     "time": 527001,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778089025000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Poomy1234",
-                    "elo": 1646,
-                    "change": -19,
-                    "oelo": 1710,
-                    "ochange": 19,
-                    "time": 616225,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -189196,7 +189140,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2019,
                 "top": 2124,
                 "points": 0,
@@ -192383,7 +192327,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2015,
                 "top": 2015,
                 "points": 3,
@@ -200484,7 +200428,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2014,
                 "top": 2106,
                 "points": 8,
@@ -203769,7 +203713,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2010,
                 "top": 2158,
                 "points": 32,
@@ -205458,7 +205402,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2008,
                 "top": 2140,
                 "points": 0,
@@ -210941,7 +210885,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2008,
                 "top": 2092,
                 "points": 3,
@@ -221128,7 +221072,7 @@
             "uuid": "8d95a99f8e2e412eb31a65b0f4911225",
             "nickname": "litdab",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2003,
                 "top": 2013,
                 "points": 3,
