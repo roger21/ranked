@@ -1,5 +1,5 @@
 {
-    "date": 1782348601000,
+    "date": 1782349201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30880,20 +30880,6 @@
                     "time": 608646,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778029183000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1914,
-                    "change": 22,
-                    "oelo": 1914,
-                    "ochange": -22,
-                    "time": 483078,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -56862,34 +56848,6 @@
                     "time": 516840,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778029183000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1914,
-                    "change": -22,
-                    "oelo": 1914,
-                    "ochange": 22,
-                    "time": 483078,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778028653000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1936,
-                    "change": -29,
-                    "oelo": 1740,
-                    "ochange": 29,
-                    "time": 492478,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -78217,20 +78175,6 @@
                     "oelo": 1703,
                     "ochange": -19,
                     "time": 702316,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778028653000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1740,
-                    "change": 29,
-                    "oelo": 1936,
-                    "ochange": -29,
-                    "time": 492478,
                     "forfeited": false,
                     "decayed": false
                 }
