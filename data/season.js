@@ -1,5 +1,5 @@
 {
-    "date": 1782351601000,
+    "date": 1782352201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30838,20 +30838,6 @@
                     "time": 710979,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778031799000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1969,
-                    "change": 20,
-                    "oelo": 1928,
-                    "ochange": -20,
-                    "time": 708440,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -56778,20 +56764,6 @@
                     "time": 464838,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778031799000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1928,
-                    "change": -20,
-                    "oelo": 1969,
-                    "ochange": 20,
-                    "time": 708440,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -78065,20 +78037,6 @@
                     "time": 464838,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778032052000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 1776,
-                    "change": 26,
-                    "oelo": 1884,
-                    "ochange": -26,
-                    "time": 546802,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -81321,20 +81279,6 @@
                     "ochange": 24,
                     "time": 560057,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778032052000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1884,
-                    "change": -26,
-                    "oelo": 1776,
-                    "ochange": 26,
-                    "time": 546802,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
