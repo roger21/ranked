@@ -1,5 +1,5 @@
 {
-    "date": 1782348001000,
+    "date": 1782348601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30892,20 +30892,6 @@
                     "oelo": 1914,
                     "ochange": -22,
                     "time": 483078,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778028401000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1892,
-                    "change": -19,
-                    "oelo": 1951,
-                    "ochange": 19,
-                    "time": 653662,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -78247,20 +78233,6 @@
                     "time": 492478,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778028044000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "IlLoonCrack",
-                    "elo": 1711,
-                    "change": -25,
-                    "oelo": 1629,
-                    "ochange": 25,
-                    "time": 646820,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -81544,20 +81516,6 @@
                     "oelo": 1935,
                     "ochange": 21,
                     "time": 516840,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778028401000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1951,
-                    "change": 19,
-                    "oelo": 1892,
-                    "ochange": -19,
-                    "time": 653662,
                     "forfeited": false,
                     "decayed": false
                 }
