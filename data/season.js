@@ -1,5 +1,5 @@
 {
-    "date": 1782370201000,
+    "date": 1782370801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -99943,7 +99943,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 2118,
                 "top": 2181,
                 "points": 0,
@@ -106266,7 +106266,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2115,
                 "top": 2155,
                 "points": 12,
@@ -107941,7 +107941,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2112,
                 "top": 2112,
                 "points": 7,
@@ -112920,7 +112920,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "darvy__",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2109,
                 "top": 2202,
                 "points": 8,
@@ -118921,23 +118921,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 29,
-                "elo": 2108,
+                "rank": 25,
+                "elo": 2123,
                 "top": 2156,
                 "points": 20,
                 "pb": 392259,
-                "current": 3,
+                "current": 4,
                 "streak": 10,
-                "matches": 466,
-                "playtime": 259697731,
-                "finished": 222,
-                "finishtime": 129620271,
-                "won": 250,
+                "matches": 467,
+                "playtime": 260272250,
+                "finished": 223,
+                "finishtime": 130194790,
+                "won": 251,
                 "lost": 199,
                 "forfeited": 34
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782370801000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "poopiefart13",
+                    "elo": 2123,
+                    "change": 15,
+                    "oelo": 1959,
+                    "ochange": -15,
+                    "time": 574519,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782370135000,
                     "type": "SHIPWRECK",
@@ -162917,20 +162931,6 @@
                     "ochange": 21,
                     "time": 655817,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778050253000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "jonahhhhhhhh",
-                    "elo": 1677,
-                    "change": 22,
-                    "oelo": 1676,
-                    "ochange": -22,
-                    "time": 210257,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
