@@ -1,5 +1,5 @@
 {
-    "date": 1782373201000,
+    "date": 1782373801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -162904,20 +162904,6 @@
                     "time": 678047,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778053299000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "12BrainCells",
-                    "elo": 1649,
-                    "change": -23,
-                    "oelo": 1614,
-                    "ochange": 23,
-                    "time": 748934,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -169299,20 +169285,6 @@
                     "oelo": 1566,
                     "ochange": -14,
                     "time": 741460,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778053344000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1736,
-                    "change": 20,
-                    "oelo": 1684,
-                    "ochange": -20,
-                    "time": 593195,
                     "forfeited": false,
                     "decayed": false
                 }
