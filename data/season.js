@@ -1,5 +1,5 @@
 {
-    "date": 1782403201000,
+    "date": 1782403801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27523,20 +27523,6 @@
                     "oelo": 1687,
                     "ochange": 25,
                     "time": 682163,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778083430000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 1815,
-                    "change": -19,
-                    "oelo": 1885,
-                    "ochange": 19,
-                    "time": 407930,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -61038,20 +61024,6 @@
                     "time": 609148,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778083398000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1682,
-                    "change": -22,
-                    "oelo": 1659,
-                    "ochange": 22,
-                    "time": 667421,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -90998,20 +90970,6 @@
                     "oelo": 1730,
                     "ochange": -15,
                     "time": 509579,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778083430000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1885,
-                    "change": 19,
-                    "oelo": 1815,
-                    "ochange": -19,
-                    "time": 407930,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -128870,20 +128828,6 @@
                     "oelo": 1680,
                     "ochange": 21,
                     "time": 604604,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778083349000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "litdab",
-                    "elo": 1691,
-                    "change": -23,
-                    "oelo": 1667,
-                    "ochange": 23,
-                    "time": 555538,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -195286,20 +195230,6 @@
                     "oelo": 1670,
                     "ochange": -21,
                     "time": 604604,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778083398000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1659,
-                    "change": 22,
-                    "oelo": 1682,
-                    "ochange": -22,
-                    "time": 667421,
                     "forfeited": false,
                     "decayed": false
                 }
