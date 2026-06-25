@@ -1,5 +1,5 @@
 {
-    "date": 1782430802000,
+    "date": 1782431401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7683,20 +7683,6 @@
                     "time": 572460,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778111114000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1929,
-                    "change": 20,
-                    "oelo": 1890,
-                    "ochange": -20,
-                    "time": 372588,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -15026,20 +15012,6 @@
                     "oelo": 1829,
                     "ochange": 20,
                     "time": 724219,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778111291000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "PandaPuffer",
-                    "elo": 1806,
-                    "change": 16,
-                    "oelo": 1676,
-                    "ochange": -16,
-                    "time": 491547,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -29786,20 +29758,6 @@
                     "oelo": 1919,
                     "ochange": 17,
                     "time": 469679,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778110991000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_F41th",
-                    "elo": 1810,
-                    "change": 15,
-                    "oelo": 1646,
-                    "ochange": -15,
-                    "time": 601241,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175363,20 +175321,6 @@
                     "time": 716818,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778111279000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "OG_MineMan",
-                    "elo": 1547,
-                    "change": -19,
-                    "oelo": 1624,
-                    "ochange": 19,
-                    "time": 598573,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -214227,7 +214171,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2014,
                 "top": 2106,
                 "points": 8,
@@ -217512,7 +217456,7 @@
             "uuid": "5f4e1b4455fc427b888aed4d0e6d004f",
             "nickname": "valenmeoww",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2013,
                 "top": 2013,
                 "points": 4,
@@ -219789,7 +219733,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2010,
                 "top": 2158,
                 "points": 32,
@@ -221478,7 +221422,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2008,
                 "top": 2092,
                 "points": 3,
