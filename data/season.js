@@ -1,5 +1,5 @@
 {
-    "date": 1782349801000,
+    "date": 1782350401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30864,20 +30864,6 @@
                     "oelo": 1910,
                     "ochange": -20,
                     "time": 814732,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778030120000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1929,
-                    "change": 15,
-                    "oelo": 1744,
-                    "ochange": -15,
-                    "time": 608646,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -78147,20 +78133,6 @@
                     "oelo": 1948,
                     "ochange": 13,
                     "time": 596424,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778030120000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1744,
-                    "change": -15,
-                    "oelo": 1929,
-                    "ochange": 15,
-                    "time": 608646,
                     "forfeited": false,
                     "decayed": false
                 }
