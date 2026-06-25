@@ -1,5 +1,5 @@
 {
-    "date": 1782382201000,
+    "date": 1782382801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -144507,20 +144507,6 @@
                     "oelo": 1621,
                     "ochange": -17,
                     "time": 659226,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778062211000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "DennieDavito",
-                    "elo": 1719,
-                    "change": 15,
-                    "oelo": 1551,
-                    "ochange": -15,
-                    "time": 701389,
                     "forfeited": false,
                     "decayed": false
                 }
