@@ -1,5 +1,5 @@
 {
-    "date": 1782385201000,
+    "date": 1782385802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -89177,6 +89177,20 @@
             "country": "au",
             "matches": [
                 {
+                    "date": 1782385847000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "retropog",
+                    "elo": 2115,
+                    "change": -21,
+                    "oelo": 2124,
+                    "ochange": 21,
+                    "time": 690628,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1782384968000,
                     "type": "VILLAGE",
                     "bastion": "BRIDGE",
@@ -92374,7 +92388,7 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "Lexanh",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 2133,
                 "top": 2133,
                 "points": 7,
@@ -101959,7 +101973,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2127,
                 "top": 2127,
                 "points": 4,
@@ -113200,7 +113214,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2114,
                 "top": 2114,
                 "points": 10,
@@ -117773,7 +117787,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2112,
                 "top": 2112,
                 "points": 7,
@@ -122752,7 +122766,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "darvy__",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2109,
                 "top": 2202,
                 "points": 8,
@@ -128753,23 +128767,37 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 31,
-                "elo": 2103,
+                "rank": 25,
+                "elo": 2124,
                 "top": 2220,
                 "points": 3,
                 "pb": 405306,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 505,
-                "playtime": 285768465,
-                "finished": 231,
-                "finishtime": 133831059,
-                "won": 265,
+                "matches": 506,
+                "playtime": 286459093,
+                "finished": 232,
+                "finishtime": 134521687,
+                "won": 266,
                 "lost": 211,
                 "forfeited": 1
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1782385847000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "BlazeMind",
+                    "elo": 2124,
+                    "change": 21,
+                    "oelo": 2115,
+                    "ochange": -21,
+                    "time": 690628,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782327171000,
                     "type": "VILLAGE",
