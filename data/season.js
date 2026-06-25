@@ -1,5 +1,5 @@
 {
-    "date": 1782346801000,
+    "date": 1782347401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30922,20 +30922,6 @@
                     "time": 553283,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778026832000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1897,
-                    "change": -19,
-                    "oelo": 1975,
-                    "ochange": 19,
-                    "time": 422662,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -56946,34 +56932,6 @@
                     "time": 508966,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778027357000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1953,
-                    "change": -22,
-                    "oelo": 1932,
-                    "ochange": 22,
-                    "time": 472348,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778026832000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1975,
-                    "change": 19,
-                    "oelo": 1897,
-                    "ochange": -19,
-                    "time": 422662,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -78331,20 +78289,6 @@
                     "time": 646820,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778027311000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 1736,
-                    "change": -22,
-                    "oelo": 1714,
-                    "ochange": 22,
-                    "time": 550105,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -81642,20 +81586,6 @@
                     "oelo": 1892,
                     "ochange": -19,
                     "time": 653662,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778027357000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1932,
-                    "change": 22,
-                    "oelo": 1953,
-                    "ochange": -22,
-                    "time": 472348,
                     "forfeited": false,
                     "decayed": false
                 }
