@@ -1,5 +1,5 @@
 {
-    "date": 1782352801000,
+    "date": 1782353401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77993,20 +77993,6 @@
                     "oelo": 1941,
                     "ochange": -28,
                     "time": 710979,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778033254000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "TuCarta",
-                    "elo": 1738,
-                    "change": -23,
-                    "oelo": 1704,
-                    "ochange": 23,
-                    "time": 601036,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -163080,7 +163066,7 @@
             "nickname": "Pinne",
             "stats": {
                 "rank": 37,
-                "elo": 2061,
+                "elo": 2056,
                 "top": 2156,
                 "points": 38,
                 "pb": 403492,
@@ -163096,6 +163082,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1782353412000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2056,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782267008000,
                     "type": null,
@@ -164096,7 +164096,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2056,
                 "top": 2174,
                 "points": 0,
