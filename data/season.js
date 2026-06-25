@@ -1,5 +1,5 @@
 {
-    "date": 1782427801000,
+    "date": 1782428401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29898,20 +29898,6 @@
                     "oelo": 1936,
                     "ochange": 17,
                     "time": 512279,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778108120000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1823,
-                    "change": -22,
-                    "oelo": 1815,
-                    "ochange": 22,
-                    "time": 475843,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -106133,20 +106119,6 @@
                     "time": 610121,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778107906000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1958,
-                    "change": -23,
-                    "oelo": 1919,
-                    "ochange": 23,
-                    "time": 509180,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -176919,7 +176891,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2035,
                 "top": 2040,
                 "points": 13,
@@ -177838,7 +177810,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2032,
                 "top": 2195,
                 "points": 6,
@@ -184889,7 +184861,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
@@ -188482,7 +188454,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
@@ -203023,7 +202995,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2019,
                 "top": 2124,
                 "points": 0,
@@ -206210,7 +206182,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2015,
                 "top": 2015,
                 "points": 3,
@@ -214311,23 +214283,37 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 47,
-                "elo": 2014,
+                "rank": 41,
+                "elo": 2038,
                 "top": 2140,
                 "points": 0,
                 "pb": 393428,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 443,
-                "playtime": 249574406,
-                "finished": 207,
-                "finishtime": 118575579,
-                "won": 232,
+                "matches": 444,
+                "playtime": 250174629,
+                "finished": 208,
+                "finishtime": 119175802,
+                "won": 233,
                 "lost": 198,
                 "forfeited": 28
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1782428447000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "nahhann",
+                    "elo": 2038,
+                    "change": 24,
+                    "oelo": 2112,
+                    "ochange": -24,
+                    "time": 600223,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782427770000,
                     "type": "RUINED_PORTAL",
@@ -219577,20 +219563,6 @@
                     "time": 512279,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778107906000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1919,
-                    "change": 23,
-                    "oelo": 1958,
-                    "ochange": -23,
-                    "time": 509180,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -219598,7 +219570,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2014,
                 "top": 2106,
                 "points": 8,
