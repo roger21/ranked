@@ -1,5 +1,5 @@
 {
-    "date": 1782406201000,
+    "date": 1782406801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -60898,20 +60898,6 @@
                     "time": 619393,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778086300000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1620,
-                    "change": -19,
-                    "oelo": 1697,
-                    "ochange": 19,
-                    "time": 614287,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -98436,20 +98422,6 @@
                     "oelo": 1725,
                     "ochange": -18,
                     "time": 570167,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778086771000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1788,
-                    "change": -17,
-                    "oelo": 1895,
-                    "ochange": 17,
-                    "time": 528572,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -185708,20 +185680,6 @@
                     "time": 454839,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778086673000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1686,
-                    "change": -16,
-                    "oelo": 1826,
-                    "ochange": 16,
-                    "time": 495168,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -194922,20 +194880,6 @@
                     "oelo": 1671,
                     "ochange": -18,
                     "time": 488385,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778086554000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Finnitzko",
-                    "elo": 1740,
-                    "change": 17,
-                    "oelo": 1625,
-                    "ochange": -17,
-                    "time": 749847,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -216695,20 +216639,6 @@
                     "oelo": 1872,
                     "ochange": -23,
                     "time": 618382,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778086673000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1826,
-                    "change": 16,
-                    "oelo": 1686,
-                    "ochange": -16,
-                    "time": 495168,
                     "forfeited": false,
                     "decayed": false
                 }
