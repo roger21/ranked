@@ -174,13 +174,13 @@
         },
         "pb": 480944,
         "streak": 12,
-        "matches": 2570,
-        "playtime": 1667482317,
+        "matches": 2571,
+        "playtime": 1667809787,
         "finished": 922,
         "finishtime": 689302859,
         "won": 1325,
-        "lost": 1119,
-        "forfeited": 279
+        "lost": 1120,
+        "forfeited": 280
     },
     "070d5851c46a4a2da91e6ddfdb741d7f": {
         "nickname": "TheLandSharkJeff",

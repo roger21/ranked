@@ -1,5 +1,5 @@
 {
-    "date": 1782400201000,
+    "date": 1782400801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -61080,20 +61080,6 @@
                     "time": 526661,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778080726000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1709,
-                    "change": -19,
-                    "oelo": 1761,
-                    "ochange": 19,
-                    "time": 580525,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -108247,20 +108233,6 @@
                     "time": 565666,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778080409000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Vintex0",
-                    "elo": 1571,
-                    "change": -20,
-                    "oelo": 1619,
-                    "ochange": 20,
-                    "time": 745244,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -129038,20 +129010,6 @@
                     "oelo": 1712,
                     "ochange": 23,
                     "time": 950908,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778080726000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1761,
-                    "change": 19,
-                    "oelo": 1709,
-                    "ochange": -19,
-                    "time": 580525,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -206883,20 +206841,6 @@
                     "ochange": 20,
                     "time": 300454,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778080692000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "VojtaH007",
-                    "elo": 1606,
-                    "change": -18,
-                    "oelo": 1689,
-                    "ochange": 18,
-                    "time": 629317,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
