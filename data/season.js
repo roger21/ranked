@@ -1,5 +1,5 @@
 {
-    "date": 1782350401000,
+    "date": 1782351001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56806,20 +56806,6 @@
                     "time": 708440,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778030803000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1948,
-                    "change": 13,
-                    "oelo": 1731,
-                    "ochange": -13,
-                    "time": 596424,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -78119,20 +78105,6 @@
                     "oelo": 1676,
                     "ochange": -19,
                     "time": 575685,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778030803000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1731,
-                    "change": -13,
-                    "oelo": 1948,
-                    "ochange": 13,
-                    "time": 596424,
                     "forfeited": false,
                     "decayed": false
                 }
