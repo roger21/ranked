@@ -1,5 +1,5 @@
 {
-    "date": 1782378601000,
+    "date": 1782379201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -144521,20 +144521,6 @@
                     "oelo": 1642,
                     "ochange": -19,
                     "time": 703651,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778059162000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1685,
-                    "change": 20,
-                    "oelo": 1656,
-                    "ochange": -20,
-                    "time": 643390,
                     "forfeited": false,
                     "decayed": false
                 }

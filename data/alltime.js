@@ -6425,13 +6425,13 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 8917,
-        "playtime": 5666963152,
+        "matches": 8918,
+        "playtime": 5667515090,
         "finished": 3073,
         "finishtime": 2251866976,
         "won": 4404,
-        "lost": 4120,
-        "forfeited": 1210
+        "lost": 4121,
+        "forfeited": 1211
     },
     "fe6771646c5d43c1b713023fb69c10c6": {
         "nickname": "SammmyG",
