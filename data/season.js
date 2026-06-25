@@ -1,5 +1,5 @@
 {
-    "date": 1782403801000,
+    "date": 1782404401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27509,20 +27509,6 @@
                     "oelo": 1664,
                     "ochange": 25,
                     "time": 566859,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778084392000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1790,
-                    "change": -25,
-                    "oelo": 1687,
-                    "ochange": 25,
-                    "time": 682163,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -61009,20 +60995,6 @@
                     "ochange": 20,
                     "time": 350565,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778084062000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "VojtaH007",
-                    "elo": 1662,
-                    "change": -20,
-                    "oelo": 1714,
-                    "ochange": 20,
-                    "time": 609148,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -108079,20 +108051,6 @@
                     "time": 268216,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778083965000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1530,
-                    "change": -19,
-                    "oelo": 1583,
-                    "ochange": 19,
-                    "time": 729186,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -128815,20 +128773,6 @@
                     "ochange": -20,
                     "time": 350565,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778084066000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1670,
-                    "change": -21,
-                    "oelo": 1680,
-                    "ochange": 21,
-                    "time": 604604,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -195218,20 +195162,6 @@
                     "time": 602441,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778084066000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "amariyy",
-                    "elo": 1680,
-                    "change": 21,
-                    "oelo": 1670,
-                    "ochange": -21,
-                    "time": 604604,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -206519,20 +206449,6 @@
                     "ochange": 14,
                     "time": 305832,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778083965000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1583,
-                    "change": 19,
-                    "oelo": 1530,
-                    "ochange": -19,
-                    "time": 729186,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
