@@ -1,5 +1,5 @@
 {
-    "date": 1782354001000,
+    "date": 1782354601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30824,20 +30824,6 @@
                     "time": 550168,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778034238000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1941,
-                    "change": -28,
-                    "oelo": 1766,
-                    "ochange": 28,
-                    "time": 710979,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -56736,20 +56722,6 @@
                     "time": 550168,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778034326000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1914,
-                    "change": -29,
-                    "oelo": 1713,
-                    "ochange": 29,
-                    "time": 661873,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77979,20 +77951,6 @@
                     "oelo": 1676,
                     "ochange": 24,
                     "time": 627894,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778034238000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 1766,
-                    "change": 28,
-                    "oelo": 1941,
-                    "ochange": -28,
-                    "time": 710979,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -167974,20 +167932,6 @@
                     "oelo": 1498,
                     "ochange": -17,
                     "time": 544109,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778034189000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "21mustard",
-                    "elo": 1610,
-                    "change": 19,
-                    "oelo": 1534,
-                    "ochange": -19,
-                    "time": 571616,
                     "forfeited": false,
                     "decayed": false
                 }
