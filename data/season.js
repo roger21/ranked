@@ -1,5 +1,5 @@
 {
-    "date": 1782357601000,
+    "date": 1782358201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56594,20 +56594,6 @@
                     "oelo": 1764,
                     "ochange": -13,
                     "time": 620462,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778037727000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1964,
-                    "change": 16,
-                    "oelo": 1817,
-                    "ochange": -16,
-                    "time": 501003,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -139892,20 +139878,6 @@
                     "oelo": 1782,
                     "ochange": 22,
                     "time": 479340,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778037727000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1817,
-                    "change": -16,
-                    "oelo": 1964,
-                    "ochange": 16,
-                    "time": 501003,
                     "forfeited": false,
                     "decayed": false
                 }
