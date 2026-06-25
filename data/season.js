@@ -1,5 +1,5 @@
 {
-    "date": 1782374401000,
+    "date": 1782375001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30738,20 +30738,6 @@
                     "oelo": 1668,
                     "ochange": -13,
                     "time": 559792,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778054792000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1878,
-                    "change": 13,
-                    "oelo": 1639,
-                    "ochange": -13,
-                    "time": 515066,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -169257,20 +169243,6 @@
                     "oelo": 1607,
                     "ochange": -15,
                     "time": 596717,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778054556000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1750,
-                    "change": 14,
-                    "oelo": 1566,
-                    "ochange": -14,
-                    "time": 741460,
                     "forfeited": false,
                     "decayed": false
                 }
