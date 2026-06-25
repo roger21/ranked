@@ -1,5 +1,5 @@
 {
-    "date": 1782404401000,
+    "date": 1782405001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -60982,20 +60982,6 @@
                     "time": 527802,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778084467000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1642,
-                    "change": -20,
-                    "oelo": 1690,
-                    "ochange": 20,
-                    "time": 350565,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -108037,20 +108023,6 @@
                     "time": 600796,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778084431000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "CallMeBlumi",
-                    "elo": 1511,
-                    "change": -19,
-                    "oelo": 1574,
-                    "ochange": 19,
-                    "time": 268216,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -128759,20 +128731,6 @@
                     "ochange": 21,
                     "time": 554362,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778084467000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1690,
-                    "change": 20,
-                    "oelo": 1642,
-                    "ochange": -20,
-                    "time": 350565,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -195146,20 +195104,6 @@
                     "oelo": 1743,
                     "ochange": -22,
                     "time": 599975,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778084913000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "VojtaH007",
-                    "elo": 1701,
-                    "change": 21,
-                    "oelo": 1693,
-                    "ochange": -21,
-                    "time": 602441,
                     "forfeited": false,
                     "decayed": false
                 }
