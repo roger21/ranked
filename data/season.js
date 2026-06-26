@@ -1,5 +1,5 @@
 {
-    "date": 1782468001000,
+    "date": 1782468601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34257,20 +34257,6 @@
                     "ochange": 0,
                     "time": 627750,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778148172000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1651,
-                    "change": 18,
-                    "oelo": 1557,
-                    "ochange": -18,
-                    "time": 511628,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -119355,20 +119341,6 @@
                     "oelo": 1539,
                     "ochange": -15,
                     "time": 500678,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778148334000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "alexchoo",
-                    "elo": 1700,
-                    "change": -23,
-                    "oelo": 1676,
-                    "ochange": 23,
-                    "time": 628337,
                     "forfeited": false,
                     "decayed": false
                 }
