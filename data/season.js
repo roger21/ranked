@@ -1,5 +1,5 @@
 {
-    "date": 1782442801000,
+    "date": 1782443401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -26517,20 +26517,6 @@
                     "time": 550942,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778123222000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1893,
-                    "change": -16,
-                    "oelo": 2028,
-                    "ochange": 16,
-                    "time": 581104,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -52660,20 +52646,6 @@
                     "oelo": 1941,
                     "ochange": 24,
                     "time": 559761,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778123222000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2028,
-                    "change": 16,
-                    "oelo": 1893,
-                    "ochange": -16,
-                    "time": 581104,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -115407,7 +115379,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2114,
                 "top": 2114,
                 "points": 10,
@@ -119980,7 +119952,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2107,
                 "top": 2112,
                 "points": 7,
@@ -124679,23 +124651,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 31,
-                "elo": 2097,
+                "rank": 28,
+                "elo": 2115,
                 "top": 2162,
                 "points": 20,
                 "pb": 392259,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 473,
-                "playtime": 263369517,
-                "finished": 226,
-                "finishtime": 131736266,
-                "won": 254,
+                "matches": 474,
+                "playtime": 263966333,
+                "finished": 227,
+                "finishtime": 132333082,
+                "won": 255,
                 "lost": 202,
                 "forfeited": 35
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782443412000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "thecamo6",
+                    "elo": 2115,
+                    "change": 18,
+                    "oelo": 2027,
+                    "ochange": -18,
+                    "time": 596816,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782442745000,
                     "type": "DESERT_TEMPLE",
@@ -129832,20 +129818,6 @@
                     "ochange": 24,
                     "time": 389723,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778123311000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1854,
-                    "change": 18,
-                    "oelo": 1765,
-                    "ochange": -18,
-                    "time": 575255,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -170734,20 +170706,6 @@
                     "time": 674135,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778123040000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1640,
-                    "change": 22,
-                    "oelo": 1639,
-                    "ochange": -22,
-                    "time": 661070,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -174586,23 +174544,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 40,
-                "elo": 2045,
+                "rank": 45,
+                "elo": 2027,
                 "top": 2068,
                 "points": 0,
                 "pb": 394023,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 868,
-                "playtime": 532653839,
+                "matches": 869,
+                "playtime": 533250655,
                 "finished": 377,
                 "finishtime": 235052490,
                 "won": 436,
-                "lost": 386,
+                "lost": 387,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782443412000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "bbiddd",
+                    "elo": 2027,
+                    "change": -18,
+                    "oelo": 2115,
+                    "ochange": 18,
+                    "time": 596816,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782440148000,
                     "type": "DESERT_TEMPLE",
@@ -185046,20 +185018,6 @@
                     "time": 550942,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778123311000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 1765,
-                    "change": -18,
-                    "oelo": 1854,
-                    "ochange": 18,
-                    "time": 575255,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -185067,7 +185025,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2044,
                 "top": 2059,
                 "points": 13,
@@ -186518,7 +186476,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2035,
                 "top": 2040,
                 "points": 13,
@@ -187437,7 +187395,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2195,
                 "points": 6,
@@ -194488,7 +194446,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
@@ -198081,7 +198039,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
