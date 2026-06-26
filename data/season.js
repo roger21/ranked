@@ -1,5 +1,5 @@
 {
-    "date": 1782508801000,
+    "date": 1782509401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28584,20 +28584,6 @@
                     "time": 564007,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778189046000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1962,
-                    "change": -27,
-                    "oelo": 1806,
-                    "ochange": 27,
-                    "time": 715612,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -44186,20 +44172,6 @@
                     "oelo": 2167,
                     "ochange": 10,
                     "time": 524806,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778189194000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1838,
-                    "change": -21,
-                    "oelo": 1865,
-                    "ochange": 21,
-                    "time": 520097,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -63509,20 +63481,6 @@
                     "oelo": 1780,
                     "ochange": 20,
                     "time": 603968,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778189335000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pandaendoz",
-                    "elo": 1767,
-                    "change": 19,
-                    "oelo": 1706,
-                    "ochange": -19,
-                    "time": 563855,
                     "forfeited": false,
                     "decayed": false
                 }
