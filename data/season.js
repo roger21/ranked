@@ -1,5 +1,5 @@
 {
-    "date": 1782497401000,
+    "date": 1782498001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28961,20 +28961,6 @@
                     "ochange": -18,
                     "time": 480215,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778177799000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "subdas",
-                    "elo": 1888,
-                    "change": -2,
-                    "oelo": 1760,
-                    "ochange": 2,
-                    "time": 337407,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -91299,20 +91285,6 @@
                     "time": 342099,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778177940000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Protatt",
-                    "elo": 1561,
-                    "change": 21,
-                    "oelo": 1558,
-                    "ochange": -21,
-                    "time": 585403,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -122803,7 +122775,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2093,
                 "top": 2201,
                 "points": 21,
@@ -129126,7 +129098,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2088,
                 "top": 2208,
                 "points": 5,
@@ -133601,7 +133573,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2086,
                 "top": 2086,
                 "points": 0,
@@ -158874,7 +158846,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2065,
                 "top": 2234,
                 "points": 3,
@@ -163951,23 +163923,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 39,
-                "elo": 2047,
+                "rank": 37,
+                "elo": 2069,
                 "top": 2214,
                 "points": 0,
                 "pb": 395923,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 1351,
-                "playtime": 710190824,
-                "finished": 520,
-                "finishtime": 277599682,
-                "won": 609,
+                "matches": 1352,
+                "playtime": 710726479,
+                "finished": 521,
+                "finishtime": 278135337,
+                "won": 610,
                 "lost": 559,
                 "forfeited": 217
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1782498048000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "amariyy",
+                    "elo": 2069,
+                    "change": 22,
+                    "oelo": 2084,
+                    "ochange": -22,
+                    "time": 535655,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782497235000,
                     "type": "BURIED_TREASURE",
@@ -184899,20 +184885,6 @@
                     "oelo": 1780,
                     "ochange": 20,
                     "time": 539144,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778177784000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1755,
-                    "change": -18,
-                    "oelo": 1834,
-                    "ochange": 18,
-                    "time": 716527,
                     "forfeited": false,
                     "decayed": false
                 }
