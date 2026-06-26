@@ -1,5 +1,5 @@
 {
-    "date": 1782478201000,
+    "date": 1782478801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34060,20 +34060,6 @@
                     "oelo": 1707,
                     "ochange": -22,
                     "time": 534498,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778158462000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1673,
-                    "change": -17,
-                    "oelo": 1783,
-                    "ochange": 17,
-                    "time": 551725,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -140688,7 +140674,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "yuunihact",
+                    "opponent": "BangTeto",
                     "elo": 1847,
                     "change": 16,
                     "oelo": 1697,
@@ -201103,20 +201089,6 @@
                     "time": 534498,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778158557000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1729,
-                    "change": 16,
-                    "oelo": 1594,
-                    "ochange": -16,
-                    "time": 394628,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -206176,7 +206148,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "yuunihact",
+                    "opponent": "BangTeto",
                     "elo": 1807,
                     "change": 15,
                     "oelo": 1623,
@@ -206218,7 +206190,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "yuunihact",
+                    "opponent": "BangTeto",
                     "elo": 1841,
                     "change": 14,
                     "oelo": 1639,
