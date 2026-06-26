@@ -1,5 +1,5 @@
 {
-    "date": 1782472201000,
+    "date": 1782472801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34187,20 +34187,6 @@
                     "ochange": -22,
                     "time": 608769,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778152250000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1646,
-                    "change": 0,
-                    "oelo": 1665,
-                    "ochange": 0,
-                    "time": 604645,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
