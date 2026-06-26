@@ -1,5 +1,5 @@
 {
-    "date": 1782466801000,
+    "date": 1782467401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34285,20 +34285,6 @@
                     "ochange": 0,
                     "time": 573951,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778146923000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "wagayman",
-                    "elo": 1633,
-                    "change": 18,
-                    "oelo": 1548,
-                    "ochange": -18,
-                    "time": 574508,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
