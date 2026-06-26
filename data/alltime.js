@@ -4115,7 +4115,7 @@
             "8": 2228,
             "9": 2618,
             "10": 2609,
-            "11": 2271
+            "11": 2285
         },
         "points": {
             "1": 0,
@@ -4132,11 +4132,11 @@
         },
         "pb": 368221,
         "streak": 29,
-        "matches": 3881,
-        "playtime": 2238958065,
-        "finished": 2066,
-        "finishtime": 1261299187,
-        "won": 2455,
+        "matches": 3882,
+        "playtime": 2239521452,
+        "finished": 2067,
+        "finishtime": 1261862574,
+        "won": 2456,
         "lost": 1382,
         "forfeited": 90
     },
@@ -5224,12 +5224,12 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 3821,
-        "playtime": 2317645452,
+        "matches": 3822,
+        "playtime": 2318208839,
         "finished": 1467,
         "finishtime": 950064296,
         "won": 1882,
-        "lost": 1676,
+        "lost": 1677,
         "forfeited": 423
     },
     "be7a79f3331042f19c07230752b26725": {
@@ -6061,13 +6061,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9470,
-        "playtime": 5805627588,
+        "matches": 9472,
+        "playtime": 5806911177,
         "finished": 4130,
         "finishtime": 2766287811,
         "won": 5057,
-        "lost": 4266,
-        "forfeited": 985
+        "lost": 4268,
+        "forfeited": 986
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
