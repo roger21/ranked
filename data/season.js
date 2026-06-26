@@ -1,5 +1,5 @@
 {
-    "date": 1782434401000,
+    "date": 1782435001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -53150,20 +53150,6 @@
                     "oelo": 1839,
                     "ochange": 28,
                     "time": 560215,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778114876000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2039,
-                    "change": 13,
-                    "oelo": 1796,
-                    "ochange": -13,
-                    "time": 560588,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175216,23 +175202,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 40,
-                "elo": 2054,
+                "rank": 45,
+                "elo": 2029,
                 "top": 2054,
                 "points": 0,
                 "pb": 394023,
-                "current": 10,
+                "current": 0,
                 "streak": 10,
-                "matches": 860,
-                "playtime": 528099448,
+                "matches": 861,
+                "playtime": 528750327,
                 "finished": 374,
                 "finishtime": 233171927,
                 "won": 432,
-                "lost": 382,
+                "lost": 383,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782435057000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "zorn89",
+                    "elo": 2029,
+                    "change": -25,
+                    "oelo": 1952,
+                    "ochange": 25,
+                    "time": 650879,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782434326000,
                     "type": "VILLAGE",
@@ -185655,7 +185655,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2044,
                 "top": 2059,
                 "points": 13,
@@ -187106,7 +187106,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2035,
                 "top": 2040,
                 "points": 13,
@@ -188025,7 +188025,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2195,
                 "points": 6,
@@ -195076,7 +195076,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
@@ -198669,7 +198669,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
