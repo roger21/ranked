@@ -1,5 +1,5 @@
 {
-    "date": 1782476401000,
+    "date": 1782477001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34102,20 +34102,6 @@
                     "oelo": 1742,
                     "ochange": 20,
                     "time": 444497,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778156407000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "LilMinien",
-                    "elo": 1727,
-                    "change": 17,
-                    "oelo": 1600,
-                    "ochange": -17,
-                    "time": 614507,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -205165,20 +205151,6 @@
                     "oelo": 1707,
                     "ochange": -20,
                     "time": 444497,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778156503000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wagayman",
-                    "elo": 1722,
-                    "change": 17,
-                    "oelo": 1596,
-                    "ochange": -17,
-                    "time": 494876,
                     "forfeited": false,
                     "decayed": false
                 }
