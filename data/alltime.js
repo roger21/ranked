@@ -1177,12 +1177,12 @@
         },
         "pb": 369388,
         "streak": 14,
-        "matches": 6488,
-        "playtime": 3766227257,
+        "matches": 6489,
+        "playtime": 3766940837,
         "finished": 2760,
         "finishtime": 1723054590,
         "won": 3413,
-        "lost": 2764,
+        "lost": 2765,
         "forfeited": 583
     },
     "2f59967f6a7841ab840e2cb032589a04": {
@@ -4626,35 +4626,6 @@
         "won": 1218,
         "lost": 1066,
         "forfeited": 611
-    },
-    "a888602136ee48208516c4f7960ba997": {
-        "nickname": "1_viewer",
-        "country": "il",
-        "top": {
-            "6": 1154,
-            "7": 1511,
-            "8": 1763,
-            "9": 1923,
-            "10": 2098,
-            "11": 2092
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 3
-        },
-        "pb": 386516,
-        "streak": 16,
-        "matches": 7918,
-        "playtime": 4946606383,
-        "finished": 2218,
-        "finishtime": 1609474401,
-        "won": 3700,
-        "lost": 3626,
-        "forfeited": 1808
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
