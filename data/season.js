@@ -1,5 +1,5 @@
 {
-    "date": 1782432001000,
+    "date": 1782432601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29731,20 +29731,6 @@
                     "ochange": 1,
                     "time": 558334,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778112515000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "PandaRuns",
-                    "elo": 1806,
-                    "change": 13,
-                    "oelo": 1589,
-                    "ochange": -13,
-                    "time": 547687,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -175279,34 +175265,6 @@
                     "time": 754183,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778112468000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "benemies",
-                    "elo": 1548,
-                    "change": -17,
-                    "oelo": 1653,
-                    "ochange": 17,
-                    "time": 306546,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778112098000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Aroks",
-                    "elo": 1565,
-                    "change": 18,
-                    "oelo": 1485,
-                    "ochange": -18,
-                    "time": 716818,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -206057,14 +206015,14 @@
             "nickname": "thecamo6",
             "stats": {
                 "rank": 46,
-                "elo": 2017,
+                "elo": 2015,
                 "top": 2049,
                 "points": 0,
                 "pb": 394023,
                 "current": 8,
                 "streak": 8,
-                "matches": 857,
-                "playtime": 526008862,
+                "matches": 858,
+                "playtime": 526958434,
                 "finished": 372,
                 "finishtime": 232030913,
                 "won": 430,
@@ -206073,6 +206031,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782432576000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "OG_MineMan",
+                    "elo": 2015,
+                    "change": -2,
+                    "oelo": 1847,
+                    "ochange": 2,
+                    "time": 949572,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782431473000,
                     "type": "RUINED_PORTAL",
@@ -216453,7 +216425,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2015,
                 "top": 2015,
                 "points": 3,
