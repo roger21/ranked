@@ -1,5 +1,5 @@
 {
-    "date": 1782500401000,
+    "date": 1782501001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28850,20 +28850,6 @@
                     "time": 619079,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778180487000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1915,
-                    "change": 16,
-                    "oelo": 1761,
-                    "ochange": -16,
-                    "time": 519560,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42399,20 +42385,6 @@
                     "oelo": 1592,
                     "ochange": -20,
                     "time": 642098,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778180686000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 1619,
-                    "change": -24,
-                    "oelo": 1565,
-                    "ochange": 24,
-                    "time": 595758,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -91087,20 +91059,6 @@
                     "oelo": 1542,
                     "ochange": -20,
                     "time": 510479,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778180686000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1565,
-                    "change": 24,
-                    "oelo": 1619,
-                    "ochange": -24,
-                    "time": 595758,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -184717,20 +184675,6 @@
                     "oelo": 1717,
                     "ochange": -19,
                     "time": 560515,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778180487000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1761,
-                    "change": -16,
-                    "oelo": 1915,
-                    "ochange": 16,
-                    "time": 519560,
                     "forfeited": false,
                     "decayed": false
                 }
