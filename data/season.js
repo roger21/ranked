@@ -1,5 +1,5 @@
 {
-    "date": 1782482401000,
+    "date": 1782483001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5022,20 +5022,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1647,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1778162966000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1652,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -89477,20 +89463,6 @@
                     "oelo": 1532,
                     "ochange": -20,
                     "time": 540836,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778162933000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "vankumbu",
-                    "elo": 1550,
-                    "change": 18,
-                    "oelo": 1467,
-                    "ochange": -18,
-                    "time": 544334,
                     "forfeited": false,
                     "decayed": false
                 }
