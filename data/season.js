@@ -1,5 +1,5 @@
 {
-    "date": 1782493801000,
+    "date": 1782494401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14817,20 +14817,6 @@
                     "ochange": 20,
                     "time": 624756,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778173808000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1806,
-                    "change": 20,
-                    "oelo": 1777,
-                    "ochange": -20,
-                    "time": 210174,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -31575,20 +31561,6 @@
                     "time": 681823,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778174168000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "IlLoonCrack",
-                    "elo": 1770,
-                    "change": 14,
-                    "oelo": 1585,
-                    "ochange": -14,
-                    "time": 535616,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -42819,20 +42791,6 @@
                     "oelo": 1607,
                     "ochange": 22,
                     "time": 553620,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778173929000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1631,
-                    "change": -18,
-                    "oelo": 1731,
-                    "ochange": 18,
-                    "time": 528475,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -108468,7 +108426,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2114,
                 "top": 2114,
                 "points": 10,
@@ -113041,23 +112999,51 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 29,
-                "elo": 2107,
-                "top": 2112,
+                "rank": 27,
+                "elo": 2115,
+                "top": 2115,
                 "points": 7,
                 "pb": 438916,
-                "current": 8,
-                "streak": 8,
-                "matches": 434,
-                "playtime": 250068498,
-                "finished": 204,
-                "finishtime": 124332499,
-                "won": 231,
+                "current": 9,
+                "streak": 9,
+                "matches": 435,
+                "playtime": 250702204,
+                "finished": 205,
+                "finishtime": 124966205,
+                "won": 232,
                 "lost": 189,
                 "forfeited": 25
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1782494430000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "pigswitch",
+                    "elo": 2115,
+                    "change": 13,
+                    "oelo": 1874,
+                    "ochange": -13,
+                    "time": 633706,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1782494115000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2102,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782407713000,
                     "type": null,
