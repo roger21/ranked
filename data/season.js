@@ -1,5 +1,5 @@
 {
-    "date": 1782592801000,
+    "date": 1782593401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -113305,20 +113305,6 @@
                     "time": 698967,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778273116000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1693,
-                    "change": -20,
-                    "oelo": 1737,
-                    "ochange": 20,
-                    "time": 563510,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -198583,20 +198569,6 @@
                     "time": 533746,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778273329000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1742,
-                    "change": -14,
-                    "oelo": 1955,
-                    "ochange": 14,
-                    "time": 622844,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -219515,20 +219487,6 @@
                     "oelo": 1444,
                     "ochange": -19,
                     "time": 601558,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778272886000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "100ksup",
-                    "elo": 1478,
-                    "change": 19,
-                    "oelo": 1421,
-                    "ochange": -19,
-                    "time": 699164,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -246972,20 +246930,6 @@
                     "oelo": 1985,
                     "ochange": 20,
                     "time": 527065,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778273329000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1955,
-                    "change": 14,
-                    "oelo": 1742,
-                    "ochange": -14,
-                    "time": 622844,
                     "forfeited": false,
                     "decayed": false
                 }
