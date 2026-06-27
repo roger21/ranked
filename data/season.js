@@ -1,5 +1,5 @@
 {
-    "date": 1782593401000,
+    "date": 1782594001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -219475,20 +219475,6 @@
                     "time": 264121,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778273700000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1497,
-                    "change": 19,
-                    "oelo": 1444,
-                    "ochange": -19,
-                    "time": 601558,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -246917,20 +246903,6 @@
                     "ochange": -19,
                     "time": 341777,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778273899000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1935,
-                    "change": -20,
-                    "oelo": 1985,
-                    "ochange": 20,
-                    "time": 527065,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
