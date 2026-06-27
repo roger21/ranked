@@ -1,5 +1,5 @@
 {
-    "date": 1782598801000,
+    "date": 1782599401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -73730,20 +73730,6 @@
                     "time": 467566,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778278943000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1768,
-                    "change": -22,
-                    "oelo": 1760,
-                    "ochange": 22,
-                    "time": 442057,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -80650,20 +80636,6 @@
                     "time": 670527,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778278990000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1892,
-                    "change": -18,
-                    "oelo": 1972,
-                    "ochange": 18,
-                    "time": 673674,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -84367,20 +84339,6 @@
                     "oelo": 1990,
                     "ochange": 18,
                     "time": 631413,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778278822000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1915,
-                    "change": 15,
-                    "oelo": 1741,
-                    "ochange": -15,
-                    "time": 625529,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -160533,20 +160491,6 @@
                     "time": 566476,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778279368000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1785,
-                    "change": 22,
-                    "oelo": 1799,
-                    "ochange": -22,
-                    "time": 533062,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -181162,20 +181106,6 @@
                     "ochange": 23,
                     "time": 512379,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778278943000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "darvy__",
-                    "elo": 1760,
-                    "change": 22,
-                    "oelo": 1768,
-                    "ochange": -22,
-                    "time": 442057,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -204948,20 +204878,6 @@
                     "time": 568224,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778279368000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1799,
-                    "change": -22,
-                    "oelo": 1785,
-                    "ochange": 22,
-                    "time": 533062,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -218998,20 +218914,6 @@
                     "ochange": 20,
                     "time": 311789,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778279185000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1560,
-                    "change": 22,
-                    "oelo": 1580,
-                    "ochange": -22,
-                    "time": 888214,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -246412,20 +246314,6 @@
                     "oelo": 1897,
                     "ochange": -18,
                     "time": 631413,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778278990000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "okshey",
-                    "elo": 1972,
-                    "change": 18,
-                    "oelo": 1892,
-                    "ochange": -18,
-                    "time": 673674,
                     "forfeited": false,
                     "decayed": false
                 }
