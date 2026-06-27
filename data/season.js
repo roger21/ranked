@@ -1,5 +1,5 @@
 {
-    "date": 1782553201000,
+    "date": 1782553801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -143238,20 +143238,6 @@
                     "oelo": 1526,
                     "ochange": -23,
                     "time": 570708,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778233579000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Oromiyaa",
-                    "elo": 1470,
-                    "change": 19,
-                    "oelo": 1405,
-                    "ochange": -19,
-                    "time": 527578,
                     "forfeited": false,
                     "decayed": false
                 }
