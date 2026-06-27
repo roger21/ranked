@@ -1,5 +1,5 @@
 {
-    "date": 1782559801000,
+    "date": 1782560401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -136763,20 +136763,6 @@
                     "time": 683694,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778240316000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Aspect30",
-                    "elo": 1473,
-                    "change": 20,
-                    "oelo": 1436,
-                    "ochange": -20,
-                    "time": 589683,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -220644,20 +220630,6 @@
                     "oelo": 1887,
                     "ochange": 17,
                     "time": 524352,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778240391000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Unknwonc",
-                    "elo": 1799,
-                    "change": 20,
-                    "oelo": 1769,
-                    "ochange": -20,
-                    "time": 478990,
                     "forfeited": false,
                     "decayed": false
                 }
