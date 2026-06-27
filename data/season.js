@@ -1,5 +1,5 @@
 {
-    "date": 1782565801000,
+    "date": 1782566401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32101,20 +32101,6 @@
                     "ochange": -20,
                     "time": 548538,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778245918000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JakkeBoy3651",
-                    "elo": 1714,
-                    "change": 14,
-                    "oelo": 1514,
-                    "ochange": -14,
-                    "time": 464941,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -114266,20 +114252,6 @@
                     "time": 634089,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778245859000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1628,
-                    "change": -19,
-                    "oelo": 1681,
-                    "ochange": 19,
-                    "time": 773363,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -177628,23 +177600,37 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 42,
-                "elo": 2033,
+                "rank": 53,
+                "elo": 2012,
                 "top": 2086,
                 "points": 0,
                 "pb": 405777,
-                "current": 2,
+                "current": 0,
                 "streak": 8,
-                "matches": 771,
-                "playtime": 470125627,
+                "matches": 772,
+                "playtime": 470740849,
                 "finished": 331,
                 "finishtime": 205458480,
                 "won": 388,
-                "lost": 345,
+                "lost": 346,
                 "forfeited": 0
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1782566417000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "romuxii",
+                    "elo": 2012,
+                    "change": -21,
+                    "oelo": 2030,
+                    "ochange": 21,
+                    "time": 615222,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782564289000,
                     "type": "SHIPWRECK",
@@ -186065,7 +186051,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
@@ -228606,20 +228592,6 @@
                     "ochange": -24,
                     "time": 331220,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778246063000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Boosfer",
-                    "elo": 1800,
-                    "change": 15,
-                    "oelo": 1641,
-                    "ochange": -15,
-                    "time": 580759,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
