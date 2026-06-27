@@ -1,5 +1,5 @@
 {
-    "date": 1782534001000,
+    "date": 1782534601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56157,20 +56157,6 @@
                     "time": 643680,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778214168000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pavkin",
-                    "elo": 1867,
-                    "change": 19,
-                    "oelo": 1803,
-                    "ochange": -19,
-                    "time": 616676,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -59874,20 +59860,6 @@
                     "oelo": 1853,
                     "ochange": -14,
                     "time": 643680,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778214196000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 2031,
-                    "change": 14,
-                    "oelo": 1844,
-                    "ochange": -14,
-                    "time": 469758,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -110867,20 +110839,6 @@
                     "oelo": 1517,
                     "ochange": -20,
                     "time": 689263,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778214559000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "FuzzKing",
-                    "elo": 1530,
-                    "change": -19,
-                    "oelo": 1600,
-                    "ochange": 19,
-                    "time": 960973,
                     "forfeited": false,
                     "decayed": false
                 }
