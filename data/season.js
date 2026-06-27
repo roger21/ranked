@@ -1,5 +1,5 @@
 {
-    "date": 1782568201000,
+    "date": 1782568801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32044,20 +32044,6 @@
                     "oelo": 1570,
                     "ochange": -14,
                     "time": 735342,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778248732000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1753,
-                    "change": 17,
-                    "oelo": 1627,
-                    "ochange": -17,
-                    "time": 671628,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -136483,20 +136469,6 @@
                     "time": 210277,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778248553000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "wotez",
-                    "elo": 1434,
-                    "change": 1,
-                    "oelo": 1496,
-                    "ochange": -1,
-                    "time": 598786,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -142337,20 +142309,6 @@
                     "oelo": 1642,
                     "ochange": -18,
                     "time": 767593,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778248326000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TheSandstoneKing",
-                    "elo": 1709,
-                    "change": 16,
-                    "oelo": 1564,
-                    "ochange": -16,
-                    "time": 921552,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -173597,20 +173555,6 @@
                     "oelo": 1749,
                     "ochange": 27,
                     "time": 649317,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778248512000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1913,
-                    "change": 20,
-                    "oelo": 1869,
-                    "ochange": -20,
-                    "time": 490317,
                     "forfeited": false,
                     "decayed": false
                 }
