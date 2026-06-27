@@ -1,5 +1,5 @@
 {
-    "date": 1782590402000,
+    "date": 1782591001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -68190,20 +68190,6 @@
                     "ochange": -23,
                     "time": 468038,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778270477000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1783,
-                    "change": -16,
-                    "oelo": 1915,
-                    "ochange": 16,
-                    "time": 352132,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -247154,20 +247140,6 @@
                     "oelo": 2060,
                     "ochange": 18,
                     "time": 574196,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778270864000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1980,
-                    "change": -27,
-                    "oelo": 1839,
-                    "ochange": 27,
-                    "time": 602739,
                     "forfeited": false,
                     "decayed": false
                 }
