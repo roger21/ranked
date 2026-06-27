@@ -1,5 +1,5 @@
 {
-    "date": 1782549601000,
+    "date": 1782550201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -200663,7 +200663,7 @@
             "nickname": "7rowl",
             "stats": {
                 "rank": 44,
-                "elo": 2030,
+                "elo": 2025,
                 "top": 2040,
                 "points": 13,
                 "pb": 457610,
@@ -200679,6 +200679,20 @@
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1782550155000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2025,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782463754000,
                     "type": null,
