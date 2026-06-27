@@ -1,5 +1,5 @@
 {
-    "date": 1782573001000,
+    "date": 1782573601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -109838,20 +109838,6 @@
                     "time": 601792,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778253510000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 1734,
-                    "change": 21,
-                    "oelo": 1707,
-                    "ochange": -21,
-                    "time": 645541,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -119294,7 +119280,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2101,
                 "top": 2214,
                 "points": 0,
@@ -135018,20 +135004,6 @@
                     "time": 563726,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778253442000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "phoebebridgers10",
-                    "elo": 1454,
-                    "change": 0,
-                    "oelo": 1460,
-                    "ochange": 0,
-                    "time": 412099,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -135039,23 +135011,37 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 31,
-                "elo": 2090,
+                "rank": 30,
+                "elo": 2109,
                 "top": 2158,
                 "points": 38,
                 "pb": 403492,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 86,
-                "playtime": 45197561,
-                "finished": 47,
-                "finishtime": 25298953,
-                "won": 53,
+                "matches": 87,
+                "playtime": 45677925,
+                "finished": 48,
+                "finishtime": 25779317,
+                "won": 54,
                 "lost": 29,
                 "forfeited": 1
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1782573640000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 2109,
+                    "change": 19,
+                    "oelo": 2044,
+                    "ochange": -19,
+                    "time": 480364,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782572924000,
                     "type": "BURIED_TREASURE",
@@ -160386,23 +160372,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 38,
-                "elo": 2063,
+                "rank": 39,
+                "elo": 2044,
                 "top": 2201,
                 "points": 21,
                 "pb": 401156,
                 "current": 0,
                 "streak": 8,
-                "matches": 501,
-                "playtime": 277116259,
+                "matches": 502,
+                "playtime": 277596623,
                 "finished": 250,
                 "finishtime": 145988977,
                 "won": 280,
-                "lost": 215,
+                "lost": 216,
                 "forfeited": 41
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1782573640000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Pinne",
+                    "elo": 2044,
+                    "change": -19,
+                    "oelo": 2109,
+                    "ochange": 19,
+                    "time": 480364,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782556158000,
                     "type": "SHIPWRECK",
@@ -166723,7 +166723,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2049,
                 "top": 2093,
                 "points": 0,
@@ -170176,7 +170176,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2044,
                 "top": 2086,
                 "points": 0,
@@ -239445,20 +239445,6 @@
                     "oelo": 1556,
                     "ochange": -21,
                     "time": 662088,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778253042000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "tommorerow",
-                    "elo": 1560,
-                    "change": -20,
-                    "oelo": 1591,
-                    "ochange": 20,
-                    "time": 782381,
                     "forfeited": false,
                     "decayed": false
                 }
