@@ -1,5 +1,5 @@
 {
-    "date": 1782534601000,
+    "date": 1782535201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56143,20 +56143,6 @@
                     "time": 471065,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778214909000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1853,
-                    "change": -14,
-                    "oelo": 2045,
-                    "ochange": 14,
-                    "time": 643680,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -59846,20 +59832,6 @@
                     "oelo": 1812,
                     "ochange": -12,
                     "time": 606725,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778214909000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2045,
-                    "change": 14,
-                    "oelo": 1853,
-                    "ochange": -14,
-                    "time": 643680,
                     "forfeited": false,
                     "decayed": false
                 }
