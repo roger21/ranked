@@ -1,5 +1,5 @@
 {
-    "date": 1782585601000,
+    "date": 1782586201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29795,20 +29795,6 @@
                     "oelo": 1727,
                     "ochange": -16,
                     "time": 546494,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778265790000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Brunted",
-                    "elo": 1859,
-                    "change": 18,
-                    "oelo": 1763,
-                    "ochange": -18,
-                    "time": 534763,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -97351,20 +97337,6 @@
                     "time": 591802,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778265743000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "jonahhhhhhhh",
-                    "elo": 1646,
-                    "change": 21,
-                    "oelo": 1641,
-                    "ochange": -21,
-                    "time": 614082,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -109276,20 +109248,6 @@
                     "oelo": 1674,
                     "ochange": 26,
                     "time": 597820,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778266056000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1819,
-                    "change": 22,
-                    "oelo": 1822,
-                    "ochange": -22,
-                    "time": 1014944,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -157339,23 +157297,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 37,
-                "elo": 2071,
+                "rank": 40,
+                "elo": 2046,
                 "top": 2181,
                 "points": 0,
                 "pb": 399463,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 569,
-                "playtime": 306197276,
+                "matches": 570,
+                "playtime": 306932866,
                 "finished": 259,
                 "finishtime": 149494420,
                 "won": 297,
-                "lost": 253,
+                "lost": 254,
                 "forfeited": 96
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1782586260000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "fnhvr",
+                    "elo": 2046,
+                    "change": -25,
+                    "oelo": 1959,
+                    "ochange": 25,
+                    "time": 735590,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782585373000,
                     "type": "DESERT_TEMPLE",
@@ -164082,7 +164054,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2069,
                 "top": 2174,
                 "points": 0,
@@ -167871,7 +167843,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2065,
                 "top": 2234,
                 "points": 3,
@@ -172948,7 +172920,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2049,
                 "top": 2093,
                 "points": 0,
