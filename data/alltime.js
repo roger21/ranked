@@ -2726,11 +2726,11 @@
         },
         "pb": 421922,
         "streak": 11,
-        "matches": 4674,
-        "playtime": 2931676861,
-        "finished": 1638,
-        "finishtime": 1175278848,
-        "won": 2327,
+        "matches": 4675,
+        "playtime": 2932244873,
+        "finished": 1639,
+        "finishtime": 1175846860,
+        "won": 2328,
         "lost": 2120,
         "forfeited": 576
     },
@@ -2843,12 +2843,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7306,
-        "playtime": 4678210230,
+        "matches": 7307,
+        "playtime": 4678988002,
         "finished": 2603,
         "finishtime": 1900120667,
         "won": 3684,
-        "lost": 3317,
+        "lost": 3318,
         "forfeited": 821
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3500,6 +3500,35 @@
         "won": 2549,
         "lost": 2394,
         "forfeited": 773
+    },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2015
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 3
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8699,
+        "playtime": 5049816545,
+        "finished": 3160,
+        "finishtime": 2179611356,
+        "won": 4360,
+        "lost": 4095,
+        "forfeited": 2099
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -4458,12 +4487,12 @@
         },
         "pb": 461458,
         "streak": 12,
-        "matches": 994,
-        "playtime": 595059754,
+        "matches": 995,
+        "playtime": 595748316,
         "finished": 415,
         "finishtime": 287877660,
         "won": 551,
-        "lost": 418,
+        "lost": 419,
         "forfeited": 158
     },
     "a54e3bc4c6354b07a236b81efbcfe791": {
