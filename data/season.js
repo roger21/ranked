@@ -1,5 +1,5 @@
 {
-    "date": 1782532201000,
+    "date": 1782532801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56227,20 +56227,6 @@
                     "time": 613573,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778212284000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "PandaPuffer",
-                    "elo": 1846,
-                    "change": 12,
-                    "oelo": 1598,
-                    "ochange": -12,
-                    "time": 226474,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -59986,20 +59972,6 @@
                     "oelo": 1822,
                     "ochange": 29,
                     "time": 532984,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778212336000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 2072,
-                    "change": -28,
-                    "oelo": 1880,
-                    "ochange": 28,
-                    "time": 545568,
                     "forfeited": false,
                     "decayed": false
                 }
