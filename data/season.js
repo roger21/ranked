@@ -1,5 +1,5 @@
 {
-    "date": 1782591601000,
+    "date": 1782592201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -113333,20 +113333,6 @@
                     "time": 556344,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778271762000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1736,
-                    "change": -17,
-                    "oelo": 1856,
-                    "ochange": 17,
-                    "time": 627543,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -118193,20 +118179,6 @@
                     "oelo": 1999,
                     "ochange": 23,
                     "time": 555780,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778271688000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 2060,
-                    "change": 18,
-                    "oelo": 1962,
-                    "ochange": -18,
-                    "time": 574196,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -205382,20 +205354,6 @@
                     "time": 575850,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778271939000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "AutomattPLUS",
-                    "elo": 1773,
-                    "change": -22,
-                    "oelo": 1765,
-                    "ochange": 22,
-                    "time": 713426,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -219586,34 +219544,6 @@
                     "ochange": -19,
                     "time": 699164,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778271974000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "PandaRuns",
-                    "elo": 1459,
-                    "change": -20,
-                    "oelo": 1492,
-                    "ochange": 20,
-                    "time": 212872,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778271707000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "romuu__",
-                    "elo": 1479,
-                    "change": 19,
-                    "oelo": 1424,
-                    "ochange": -19,
-                    "time": 279070,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -247084,20 +247014,6 @@
                     "oelo": 1948,
                     "ochange": 21,
                     "time": 612362,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778271688000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 1962,
-                    "change": -18,
-                    "oelo": 2060,
-                    "ochange": 18,
-                    "time": 574196,
                     "forfeited": false,
                     "decayed": false
                 }
