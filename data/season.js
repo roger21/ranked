@@ -1,5 +1,5 @@
 {
-    "date": 1782531601000,
+    "date": 1782532201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7121,20 +7121,6 @@
                     "oelo": 1826,
                     "ochange": -20,
                     "time": 613573,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778212095000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "pavkin",
-                    "elo": 1853,
-                    "change": 19,
-                    "oelo": 1793,
-                    "ochange": -19,
-                    "time": 485299,
                     "forfeited": false,
                     "decayed": false
                 }
