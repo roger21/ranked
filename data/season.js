@@ -1,5 +1,5 @@
 {
-    "date": 1782558602000,
+    "date": 1782559201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -136789,20 +136789,6 @@
                     "oelo": 1504,
                     "ochange": -1,
                     "time": 536566,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778239035000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "wotez",
-                    "elo": 1452,
-                    "change": 0,
-                    "oelo": 1492,
-                    "ochange": 0,
-                    "time": 299607,
                     "forfeited": true,
                     "decayed": false
                 }
