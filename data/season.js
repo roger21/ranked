@@ -1,5 +1,5 @@
 {
-    "date": 1782532801000,
+    "date": 1782533401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7107,20 +7107,6 @@
                     "oelo": 2017,
                     "ochange": -26,
                     "time": 635812,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778212945000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1873,
-                    "change": 20,
-                    "oelo": 1826,
-                    "ochange": -20,
-                    "time": 613573,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -56213,20 +56199,6 @@
                     "time": 505785,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778212945000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nhb_",
-                    "elo": 1826,
-                    "change": -20,
-                    "oelo": 1873,
-                    "ochange": 20,
-                    "time": 613573,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -59958,20 +59930,6 @@
                     "oelo": 1899,
                     "ochange": 26,
                     "time": 635812,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778212940000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 2043,
-                    "change": -29,
-                    "oelo": 1822,
-                    "ochange": 29,
-                    "time": 532984,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -74908,23 +74866,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 20,
-                "elo": 2170,
+                "rank": 19,
+                "elo": 2182,
                 "top": 2186,
                 "points": 20,
                 "pb": 392259,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 507,
-                "playtime": 282932624,
-                "finished": 246,
-                "finishtime": 143556065,
-                "won": 274,
+                "matches": 508,
+                "playtime": 283608523,
+                "finished": 247,
+                "finishtime": 144231964,
+                "won": 275,
                 "lost": 215,
                 "forfeited": 36
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782533227000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "JackoWacko62",
+                    "elo": 2182,
+                    "change": 12,
+                    "oelo": 1922,
+                    "ochange": -12,
+                    "time": 675899,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782531252000,
                     "type": "VILLAGE",
@@ -110965,20 +110937,6 @@
                     "oelo": 1542,
                     "ochange": 22,
                     "time": 540630,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778212839000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "mangrovejack",
-                    "elo": 1571,
-                    "change": -21,
-                    "oelo": 1579,
-                    "ochange": 21,
-                    "time": 545754,
                     "forfeited": false,
                     "decayed": false
                 }
