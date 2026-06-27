@@ -1,5 +1,5 @@
 {
-    "date": 1782558001000,
+    "date": 1782558602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -136804,20 +136804,6 @@
                     "ochange": 0,
                     "time": 299607,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778238577000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Oromiyaa",
-                    "elo": 1452,
-                    "change": 19,
-                    "oelo": 1388,
-                    "ochange": -19,
-                    "time": 563443,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
