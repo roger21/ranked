@@ -1,5 +1,5 @@
 {
-    "date": 1782595801000,
+    "date": 1782596401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77505,20 +77505,6 @@
                     "time": 741109,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778275944000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "subdas",
-                    "elo": 1837,
-                    "change": 0,
-                    "oelo": 1857,
-                    "ochange": 0,
-                    "time": 479351,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -154971,20 +154957,6 @@
                     "time": 580140,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778276348000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "FuzzKing",
-                    "elo": 1669,
-                    "change": 1,
-                    "oelo": 1709,
-                    "ochange": -1,
-                    "time": 541965,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -169224,7 +169196,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 2038,
                 "top": 2140,
                 "points": 0,
@@ -174560,20 +174532,6 @@
                     "time": 669160,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778276125000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1765,
-                    "change": 21,
-                    "oelo": 1739,
-                    "ochange": -21,
-                    "time": 567934,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -174581,7 +174539,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2032,
                 "top": 2093,
                 "points": 0,
@@ -188940,23 +188898,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 42,
-                "elo": 2031,
+                "rank": 39,
+                "elo": 2049,
                 "top": 2181,
                 "points": 0,
                 "pb": 379483,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 576,
-                "playtime": 310273189,
-                "finished": 262,
-                "finishtime": 151094712,
-                "won": 300,
+                "matches": 577,
+                "playtime": 310775324,
+                "finished": 263,
+                "finishtime": 151596847,
+                "won": 301,
                 "lost": 257,
                 "forfeited": 96
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1782596445000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "pavkin",
+                    "elo": 2049,
+                    "change": 18,
+                    "oelo": 1960,
+                    "ochange": -18,
+                    "time": 502135,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782595541000,
                     "type": "RUINED_PORTAL",
@@ -205198,20 +205170,6 @@
                     "oelo": 1690,
                     "ochange": -19,
                     "time": 602848,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778276125000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1739,
-                    "change": -21,
-                    "oelo": 1765,
-                    "ochange": 21,
-                    "time": 567934,
                     "forfeited": false,
                     "decayed": false
                 }
