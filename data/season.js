@@ -1,5 +1,5 @@
 {
-    "date": 1782570601000,
+    "date": 1782571201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -136315,34 +136315,6 @@
                     "time": 531634,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778250894000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "wotez",
-                    "elo": 1417,
-                    "change": -20,
-                    "oelo": 1452,
-                    "ochange": 20,
-                    "time": 214597,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778250614000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_Hacking",
-                    "elo": 1437,
-                    "change": 18,
-                    "oelo": 1358,
-                    "ochange": -18,
-                    "time": 570073,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -213351,14 +213323,14 @@
             "nickname": "yeopgihoney",
             "stats": {
                 "rank": 46,
-                "elo": 2022,
+                "elo": 2021,
                 "top": 2086,
                 "points": 0,
                 "pb": 405777,
                 "current": 0,
                 "streak": 8,
-                "matches": 775,
-                "playtime": 472329617,
+                "matches": 776,
+                "playtime": 473000933,
                 "finished": 332,
                 "finishtime": 206185828,
                 "won": 390,
@@ -213367,6 +213339,20 @@
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1782571169000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "sevensix_",
+                    "elo": 2021,
+                    "change": -1,
+                    "oelo": 1927,
+                    "ochange": 1,
+                    "time": 671316,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782570327000,
                     "type": "SHIPWRECK",
@@ -221843,7 +221829,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2021,
                 "top": 2158,
                 "points": 3,
