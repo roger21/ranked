@@ -1,5 +1,5 @@
 {
-    "date": 1782583801000,
+    "date": 1782584401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29809,20 +29809,6 @@
                     "oelo": 1763,
                     "ochange": -18,
                     "time": 534763,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778263811000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 1841,
-                    "change": 15,
-                    "oelo": 1666,
-                    "ochange": -15,
-                    "time": 542662,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -109306,20 +109292,6 @@
                     "time": 554074,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778264125000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Wayyyyyy_",
-                    "elo": 1781,
-                    "change": 16,
-                    "oelo": 1638,
-                    "ochange": -16,
-                    "time": 788483,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -125090,20 +125062,6 @@
                     "oelo": 1797,
                     "ochange": 16,
                     "time": 554074,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778264068000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ThaShape",
-                    "elo": 1680,
-                    "change": 19,
-                    "oelo": 1617,
-                    "ochange": -19,
-                    "time": 587412,
                     "forfeited": false,
                     "decayed": false
                 }
