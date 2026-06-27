@@ -910,12 +910,12 @@
         },
         "pb": 491433,
         "streak": 12,
-        "matches": 2719,
-        "playtime": 1941209313,
+        "matches": 2720,
+        "playtime": 1941854698,
         "finished": 944,
         "finishtime": 759085414,
         "won": 1342,
-        "lost": 1178,
+        "lost": 1179,
         "forfeited": 138
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -2282,13 +2282,13 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6148,
-        "playtime": 3768503151,
+        "matches": 6149,
+        "playtime": 3768836198,
         "finished": 2712,
         "finishtime": 1802567893,
         "won": 3357,
-        "lost": 2671,
-        "forfeited": 546
+        "lost": 2672,
+        "forfeited": 547
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
         "nickname": "AstraF",
@@ -2843,12 +2843,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7321,
-        "playtime": 4687714168,
+        "matches": 7322,
+        "playtime": 4688186579,
         "finished": 2609,
         "finishtime": 1904323641,
         "won": 3691,
-        "lost": 3323,
+        "lost": 3324,
         "forfeited": 821
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3500,6 +3500,35 @@
         "won": 2549,
         "lost": 2394,
         "forfeited": 773
+    },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2015
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 3
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8699,
+        "playtime": 5049816545,
+        "finished": 3160,
+        "finishtime": 2179611356,
+        "won": 4360,
+        "lost": 4095,
+        "forfeited": 2099
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -4635,11 +4664,11 @@
         },
         "pb": 403492,
         "streak": 13,
-        "matches": 422,
-        "playtime": 250764407,
-        "finished": 229,
-        "finishtime": 142762849,
-        "won": 277,
+        "matches": 423,
+        "playtime": 251236818,
+        "finished": 230,
+        "finishtime": 143235260,
+        "won": 278,
         "lost": 116,
         "forfeited": 8
     },
@@ -4962,11 +4991,11 @@
         },
         "pb": 399463,
         "streak": 17,
-        "matches": 9144,
-        "playtime": 5313684211,
+        "matches": 9145,
+        "playtime": 5314017258,
         "finished": 3557,
         "finishtime": 2353456411,
-        "won": 4643,
+        "won": 4644,
         "lost": 4216,
         "forfeited": 1434
     },
