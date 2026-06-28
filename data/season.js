@@ -1,5 +1,5 @@
 {
-    "date": 1782684001000,
+    "date": 1782684601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -55541,34 +55541,6 @@
                     "time": 530650,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778364546000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1978,
-                    "change": 15,
-                    "oelo": 1794,
-                    "ochange": -15,
-                    "time": 343198,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778364084000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 1963,
-                    "change": -28,
-                    "oelo": 1781,
-                    "ochange": 28,
-                    "time": 654547,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77442,20 +77414,6 @@
                     "oelo": 1857,
                     "ochange": 21,
                     "time": 849321,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778364277000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1870,
-                    "change": 19,
-                    "oelo": 1794,
-                    "ochange": -19,
-                    "time": 622243,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -132199,20 +132157,6 @@
                     "time": 605398,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778364084000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1781,
-                    "change": 28,
-                    "oelo": 1963,
-                    "ochange": -28,
-                    "time": 654547,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -143132,20 +143076,6 @@
                     "time": 566384,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778364268000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1710,
-                    "change": -17,
-                    "oelo": 1836,
-                    "ochange": 17,
-                    "time": 511049,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150545,20 +150475,6 @@
                     "oelo": 1600,
                     "ochange": -15,
                     "time": 654089,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778364140000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1751,
-                    "change": 24,
-                    "oelo": 1809,
-                    "ochange": -24,
-                    "time": 562941,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -164331,20 +164247,6 @@
                     "time": 625124,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778364277000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 1794,
-                    "change": -19,
-                    "oelo": 1870,
-                    "ochange": 19,
-                    "time": 622243,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -177474,20 +177376,6 @@
                     "oelo": 1690,
                     "ochange": -20,
                     "time": 566384,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778364540000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1699,
-                    "change": 20,
-                    "oelo": 1646,
-                    "ochange": -20,
-                    "time": 610057,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -208105,34 +207993,6 @@
                     "oelo": 1671,
                     "ochange": 25,
                     "time": 599347,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778364546000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1794,
-                    "change": -15,
-                    "oelo": 1978,
-                    "ochange": 15,
-                    "time": 343198,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778364140000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1809,
-                    "change": -24,
-                    "oelo": 1751,
-                    "ochange": 24,
-                    "time": 562941,
                     "forfeited": false,
                     "decayed": false
                 }
