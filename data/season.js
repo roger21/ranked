@@ -1,5 +1,5 @@
 {
-    "date": 1782680401000,
+    "date": 1782681001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77528,20 +77528,6 @@
                     "time": 908827,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778360523000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "pavkin",
-                    "elo": 1881,
-                    "change": 16,
-                    "oelo": 1746,
-                    "ochange": -16,
-                    "time": 447690,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -128704,20 +128690,6 @@
                     "time": 657448,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778360523000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 1746,
-                    "change": -16,
-                    "oelo": 1881,
-                    "ochange": 16,
-                    "time": 447690,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -164527,20 +164499,6 @@
                     "time": 908827,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778360616000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1815,
-                    "change": 20,
-                    "oelo": 1776,
-                    "ochange": -20,
-                    "time": 595465,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -177698,20 +177656,6 @@
                     "oelo": 1684,
                     "ochange": -21,
                     "time": 456040,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778360607000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1691,
-                    "change": 20,
-                    "oelo": 1652,
-                    "ochange": -20,
-                    "time": 519945,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -208401,20 +208345,6 @@
                     "time": 608616,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778360961000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "MultiPori",
-                    "elo": 1858,
-                    "change": 17,
-                    "oelo": 1729,
-                    "ochange": -17,
-                    "time": 624387,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -228437,20 +228367,6 @@
                     "oelo": 1547,
                     "ochange": 21,
                     "time": 695991,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778360455000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "PandaRuns",
-                    "elo": 1546,
-                    "change": 20,
-                    "oelo": 1507,
-                    "ochange": -20,
-                    "time": 580671,
                     "forfeited": false,
                     "decayed": false
                 }
