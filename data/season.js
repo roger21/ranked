@@ -1,5 +1,5 @@
 {
-    "date": 1782646201000,
+    "date": 1782646801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -204726,20 +204726,6 @@
                     "oelo": 1666,
                     "ochange": -21,
                     "time": 607945,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778326782000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1661,
-                    "change": -16,
-                    "oelo": 1804,
-                    "ochange": 16,
-                    "time": 506970,
                     "forfeited": false,
                     "decayed": false
                 }
