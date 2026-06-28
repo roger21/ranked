@@ -1,5 +1,5 @@
 {
-    "date": 1782637201000,
+    "date": 1782637801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115990,23 +115990,37 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 30,
-                "elo": 2108,
+                "rank": 36,
+                "elo": 2084,
                 "top": 2234,
                 "points": 3,
                 "pb": 418825,
                 "current": 0,
                 "streak": 9,
-                "matches": 396,
-                "playtime": 215796113,
+                "matches": 397,
+                "playtime": 216364665,
                 "finished": 183,
                 "finishtime": 105613104,
                 "won": 213,
-                "lost": 166,
+                "lost": 167,
                 "forfeited": 62
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1782637836000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "yeopgihoney",
+                    "elo": 2084,
+                    "change": -24,
+                    "oelo": 2007,
+                    "ochange": 24,
+                    "time": 568552,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782637196000,
                     "type": "VILLAGE",
@@ -121165,7 +121179,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2101,
                 "top": 2214,
                 "points": 0,
@@ -136434,7 +136448,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2101,
                 "top": 2165,
                 "points": 17,
@@ -138977,7 +138991,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2099,
                 "top": 2249,
                 "points": 36,
@@ -142458,7 +142472,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2091,
                 "top": 2158,
                 "points": 38,
@@ -143811,7 +143825,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2089,
                 "top": 2201,
                 "points": 21,
@@ -150386,7 +150400,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2088,
                 "top": 2208,
                 "points": 5,
