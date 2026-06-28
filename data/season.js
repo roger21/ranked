@@ -1,5 +1,5 @@
 {
-    "date": 1782670801000,
+    "date": 1782671401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -203984,34 +203984,6 @@
                     "oelo": 1590,
                     "ochange": 20,
                     "time": 686222,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778351349000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ZitMaGaming",
-                    "elo": 1562,
-                    "change": -19,
-                    "oelo": 1625,
-                    "ochange": 19,
-                    "time": 314010,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778350990000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Jppsh",
-                    "elo": 1581,
-                    "change": 26,
-                    "oelo": 1695,
-                    "ochange": -26,
-                    "time": 596494,
                     "forfeited": false,
                     "decayed": false
                 }
