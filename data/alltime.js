@@ -2551,12 +2551,12 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 8329,
-        "playtime": 5100743941,
+        "matches": 8330,
+        "playtime": 5101299539,
         "finished": 3406,
         "finishtime": 2296966027,
         "won": 4335,
-        "lost": 3787,
+        "lost": 3788,
         "forfeited": 998
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
@@ -3500,6 +3500,35 @@
         "won": 2550,
         "lost": 2394,
         "forfeited": 773
+    },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2015
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 3
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8699,
+        "playtime": 5049816545,
+        "finished": 3160,
+        "finishtime": 2179611356,
+        "won": 4360,
+        "lost": 4095,
+        "forfeited": 2099
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -5069,11 +5098,11 @@
         },
         "pb": 365320,
         "streak": 14,
-        "matches": 1758,
-        "playtime": 1014718366,
-        "finished": 691,
-        "finishtime": 436955532,
-        "won": 912,
+        "matches": 1759,
+        "playtime": 1015435062,
+        "finished": 692,
+        "finishtime": 437672228,
+        "won": 913,
         "lost": 739,
         "forfeited": 237
     },
@@ -5826,12 +5855,12 @@
         },
         "pb": 345484,
         "streak": 12,
-        "matches": 13529,
-        "playtime": 8506904711,
+        "matches": 13530,
+        "playtime": 8507621407,
         "finished": 4859,
         "finishtime": 3463798596,
         "won": 6582,
-        "lost": 6223,
+        "lost": 6224,
         "forfeited": 1743
     },
     "dd382293fed04a3e9fa850bb139279fc": {
