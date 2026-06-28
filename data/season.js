@@ -1,5 +1,5 @@
 {
-    "date": 1782661801000,
+    "date": 1782662401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -91506,23 +91506,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 24,
-                "elo": 2136,
+                "rank": 30,
+                "elo": 2114,
                 "top": 2201,
                 "points": 21,
                 "pb": 401156,
                 "current": 0,
                 "streak": 8,
-                "matches": 532,
-                "playtime": 293121218,
+                "matches": 533,
+                "playtime": 293753434,
                 "finished": 265,
                 "finishtime": 154602059,
                 "won": 300,
-                "lost": 226,
+                "lost": 227,
                 "forfeited": 44
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1782662432000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "ogurikappa",
+                    "elo": 2114,
+                    "change": -22,
+                    "oelo": 2115,
+                    "ochange": 22,
+                    "time": 632216,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782659799000,
                     "type": "DESERT_TEMPLE",
@@ -98277,7 +98291,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2135,
                 "top": 2230,
                 "points": 26,
@@ -104362,7 +104376,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2133,
                 "top": 2133,
                 "points": 7,
@@ -108697,7 +108711,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2132,
                 "top": 2132,
                 "points": 10,
@@ -112864,7 +112878,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2127,
                 "top": 2127,
                 "points": 4,
@@ -115645,7 +115659,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2116,
                 "top": 2158,
                 "points": 32,
@@ -117418,7 +117432,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2101,
                 "top": 2165,
                 "points": 17,
@@ -119961,7 +119975,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2099,
                 "top": 2249,
                 "points": 36,
@@ -123442,23 +123456,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 32,
-                "elo": 2093,
+                "rank": 29,
+                "elo": 2115,
                 "top": 2214,
                 "points": 0,
                 "pb": 395923,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 1366,
-                "playtime": 718438392,
-                "finished": 529,
-                "finishtime": 282620121,
-                "won": 619,
+                "matches": 1367,
+                "playtime": 719070608,
+                "finished": 530,
+                "finishtime": 283252337,
+                "won": 620,
                 "lost": 564,
                 "forfeited": 217
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1782662432000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 2115,
+                    "change": 22,
+                    "oelo": 2114,
+                    "ochange": -22,
+                    "time": 632216,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782661686000,
                     "type": "RUINED_PORTAL",
@@ -228341,20 +228369,6 @@
                     "time": 685145,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778341985000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sportsguyyyy",
-                    "elo": 1585,
-                    "change": 20,
-                    "oelo": 1552,
-                    "ochange": -20,
-                    "time": 615132,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -245614,20 +245628,6 @@
                     "oelo": 1581,
                     "ochange": -19,
                     "time": 646390,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778342301000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Orionbo",
-                    "elo": 1620,
-                    "change": 14,
-                    "oelo": 1427,
-                    "ochange": -14,
-                    "time": 542890,
                     "forfeited": false,
                     "decayed": false
                 }
