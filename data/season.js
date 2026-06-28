@@ -1,5 +1,5 @@
 {
-    "date": 1782669601000,
+    "date": 1782670201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -199189,20 +199189,6 @@
                     "time": 258230,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778349781000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "huhPrince",
-                    "elo": 1701,
-                    "change": -2,
-                    "oelo": 1576,
-                    "ochange": 2,
-                    "time": 334735,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -219478,20 +219464,6 @@
                     "ochange": -17,
                     "time": 492958,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778349732000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 1538,
-                    "change": -17,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 297894,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
