@@ -1,5 +1,5 @@
 {
-    "date": 1782739801000,
+    "date": 1782740402000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30705,20 +30705,6 @@
                     "oelo": 1870,
                     "ochange": 22,
                     "time": 513898,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778420187000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "boywithcards",
-                    "elo": 1895,
-                    "change": 14,
-                    "oelo": 1698,
-                    "ochange": -14,
-                    "time": 493672,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81021,20 +81007,6 @@
                     "oelo": 1742,
                     "ochange": 27,
                     "time": 695604,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778419972000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1905,
-                    "change": 19,
-                    "oelo": 1848,
-                    "ochange": -19,
-                    "time": 442212,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -162208,20 +162180,6 @@
                     "time": 513730,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778419944000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "alexchoo",
-                    "elo": 1740,
-                    "change": 19,
-                    "oelo": 1686,
-                    "ochange": -19,
-                    "time": 616567,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -184624,20 +184582,6 @@
                     "oelo": 1873,
                     "ochange": -22,
                     "time": 513898,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778419972000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1848,
-                    "change": -19,
-                    "oelo": 1905,
-                    "ochange": 19,
-                    "time": 442212,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -228465,20 +228409,6 @@
                     "oelo": 1721,
                     "ochange": -19,
                     "time": 513730,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778419872000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1760,
-                    "change": -19,
-                    "oelo": 1825,
-                    "ochange": 19,
-                    "time": 589510,
                     "forfeited": false,
                     "decayed": false
                 }
