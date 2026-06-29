@@ -1,5 +1,5 @@
 {
-    "date": 1782727801000,
+    "date": 1782728401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -128830,20 +128830,6 @@
                     "time": 315787,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778407898000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "1_viewer",
-                    "elo": 1585,
-                    "change": 0,
-                    "oelo": 1553,
-                    "ochange": 0,
-                    "time": 647706,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -233034,20 +233020,6 @@
                     "oelo": 1488,
                     "ochange": -20,
                     "time": 578481,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778408215000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Minepro_80",
-                    "elo": 1503,
-                    "change": 25,
-                    "oelo": 1604,
-                    "ochange": -25,
-                    "time": 726141,
                     "forfeited": false,
                     "decayed": false
                 }
