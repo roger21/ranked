@@ -1,5 +1,5 @@
 {
-    "date": 1782690601000,
+    "date": 1782691201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6659,20 +6659,6 @@
                     "oelo": 1835,
                     "ochange": 24,
                     "time": 604272,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778370617000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1910,
-                    "change": -27,
-                    "oelo": 1756,
-                    "ochange": 27,
-                    "time": 739946,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -49657,20 +49643,6 @@
                     "time": 941145,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778370617000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nhb_",
-                    "elo": 1756,
-                    "change": 27,
-                    "oelo": 1910,
-                    "ochange": -27,
-                    "time": 739946,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -49679,14 +49651,14 @@
             "nickname": "silverrruns",
             "stats": {
                 "rank": 12,
-                "elo": 2209,
+                "elo": 2208,
                 "top": 2210,
                 "points": 29,
                 "pb": 388234,
                 "current": 2,
                 "streak": 10,
-                "matches": 240,
-                "playtime": 134009392,
+                "matches": 241,
+                "playtime": 134444131,
                 "finished": 124,
                 "finishtime": 70047828,
                 "won": 136,
@@ -49695,6 +49667,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782690734000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "nEmerald",
+                    "elo": 2208,
+                    "change": -1,
+                    "oelo": 2131,
+                    "ochange": 1,
+                    "time": 434739,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782690076000,
                     "type": "VILLAGE",
@@ -52361,7 +52347,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 13,
+                "rank": 12,
                 "elo": 2208,
                 "top": 2227,
                 "points": 30,
@@ -61675,20 +61661,6 @@
                     "oelo": 1848,
                     "ochange": -14,
                     "time": 577897,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778371079000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 2025,
-                    "change": 12,
-                    "oelo": 1754,
-                    "ochange": -12,
-                    "time": 749358,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -95498,20 +95470,6 @@
                     "time": 556564,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778371160000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "limefrog",
-                    "elo": 1793,
-                    "change": -26,
-                    "oelo": 1674,
-                    "ochange": 26,
-                    "time": 597820,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -99687,14 +99645,14 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 26,
-                "elo": 2130,
+                "elo": 2131,
                 "top": 2230,
                 "points": 26,
                 "pb": 400470,
                 "current": 2,
                 "streak": 9,
-                "matches": 549,
-                "playtime": 305691098,
+                "matches": 550,
+                "playtime": 306125837,
                 "finished": 263,
                 "finishtime": 155732106,
                 "won": 293,
@@ -99703,6 +99661,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782690734000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "silverrruns",
+                    "elo": 2131,
+                    "change": 1,
+                    "oelo": 2208,
+                    "ochange": -1,
+                    "time": 434739,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782690233000,
                     "type": "VILLAGE",
@@ -180874,20 +180846,6 @@
                     "time": 692636,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778370872000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "KindPlays",
-                    "elo": 1841,
-                    "change": -24,
-                    "oelo": 1775,
-                    "ochange": 24,
-                    "time": 790775,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -190551,20 +190509,6 @@
                     "ochange": -1,
                     "time": 556564,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778371111000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 1738,
-                    "change": 16,
-                    "oelo": 1589,
-                    "ochange": -16,
-                    "time": 495077,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -225223,20 +225167,6 @@
                     "ochange": 17,
                     "time": 670902,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778370675000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "guelff__",
-                    "elo": 1490,
-                    "change": 18,
-                    "oelo": 1408,
-                    "ochange": -18,
-                    "time": 210168,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
