@@ -1,5 +1,5 @@
 {
-    "date": 1782743401000,
+    "date": 1782744001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30637,20 +30637,6 @@
                     "time": 431814,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778423641000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1889,
-                    "change": 19,
-                    "oelo": 1823,
-                    "ochange": -19,
-                    "time": 721659,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -32702,20 +32688,6 @@
                     "oelo": 1778,
                     "ochange": -20,
                     "time": 547585,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423549000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 1796,
-                    "change": -24,
-                    "oelo": 1728,
-                    "ochange": 24,
-                    "time": 636036,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43234,20 +43206,6 @@
                     "oelo": 1748,
                     "ochange": 20,
                     "time": 662166,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423719000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 1715,
-                    "change": -17,
-                    "oelo": 1829,
-                    "ochange": 17,
-                    "time": 574084,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -137766,34 +137724,6 @@
                     "time": 531329,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778423957000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1803,
-                    "change": -24,
-                    "oelo": 1741,
-                    "ochange": 24,
-                    "time": 320198,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423520000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Blad_d",
-                    "elo": 1827,
-                    "change": 20,
-                    "oelo": 1798,
-                    "ochange": -20,
-                    "time": 527575,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150687,34 +150617,6 @@
                     "time": 639810,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778423957000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1741,
-                    "change": 24,
-                    "oelo": 1803,
-                    "ochange": -24,
-                    "time": 320198,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423553000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1717,
-                    "change": -21,
-                    "oelo": 1727,
-                    "ochange": 21,
-                    "time": 617439,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155874,20 +155776,6 @@
                     "oelo": 1907,
                     "ochange": 18,
                     "time": 431814,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423719000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1829,
-                    "change": 17,
-                    "oelo": 1715,
-                    "ochange": -17,
-                    "time": 574084,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -184303,20 +184191,6 @@
                     "ochange": -17,
                     "time": 381974,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423810000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "tomorrowsharvest",
-                    "elo": 1670,
-                    "change": 20,
-                    "oelo": 1624,
-                    "ochange": -20,
-                    "time": 612816,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -228061,20 +227935,6 @@
                     "time": 563321,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778423565000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "alexchoo",
-                    "elo": 1801,
-                    "change": 18,
-                    "oelo": 1706,
-                    "ochange": -18,
-                    "time": 518000,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -240626,34 +240486,6 @@
                     "oelo": 1634,
                     "ochange": 17,
                     "time": 556272,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423994000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1530,
-                    "change": -19,
-                    "oelo": 1589,
-                    "ochange": 19,
-                    "time": 240607,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778423501000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1549,
-                    "change": 20,
-                    "oelo": 1498,
-                    "ochange": -20,
-                    "time": 583905,
                     "forfeited": false,
                     "decayed": false
                 }
