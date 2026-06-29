@@ -1,5 +1,5 @@
 {
-    "date": 1782715201000,
+    "date": 1782715801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81121,20 +81121,6 @@
                     "time": 521341,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778395497000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1804,
-                    "change": 17,
-                    "oelo": 1683,
-                    "ochange": -17,
-                    "time": 644255,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -129053,34 +129039,6 @@
                     "ochange": -22,
                     "time": 543215,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778395711000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Ayreliaa",
-                    "elo": 1537,
-                    "change": -21,
-                    "oelo": 1555,
-                    "ochange": 21,
-                    "time": 253441,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778395400000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "centuriee",
-                    "elo": 1558,
-                    "change": 22,
-                    "oelo": 1579,
-                    "ochange": -22,
-                    "time": 382801,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -251914,20 +251872,6 @@
                     "oelo": 1703,
                     "ochange": -22,
                     "time": 783456,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778395497000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1683,
-                    "change": -17,
-                    "oelo": 1804,
-                    "ochange": 17,
-                    "time": 644255,
                     "forfeited": false,
                     "decayed": false
                 }
