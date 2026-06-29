@@ -1,5 +1,5 @@
 {
-    "date": 1782697801000,
+    "date": 1782698401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -128319,23 +128319,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 31,
-                "elo": 2097,
+                "rank": 34,
+                "elo": 2072,
                 "top": 2249,
                 "points": 36,
                 "pb": 394680,
                 "current": 0,
                 "streak": 11,
-                "matches": 430,
-                "playtime": 238836292,
+                "matches": 431,
+                "playtime": 239367445,
                 "finished": 229,
                 "finishtime": 128578975,
                 "won": 248,
-                "lost": 177,
+                "lost": 178,
                 "forfeited": 7
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782698406000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "TuCarta",
+                    "elo": 2072,
+                    "change": -25,
+                    "oelo": 1990,
+                    "ochange": 25,
+                    "time": 531153,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782697740000,
                     "type": "VILLAGE",
@@ -132080,7 +132094,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2091,
                 "top": 2158,
                 "points": 38,
@@ -133433,7 +133447,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2088,
                 "top": 2208,
                 "points": 5,
@@ -137712,7 +137726,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2078,
                 "top": 2078,
                 "points": 3,
@@ -145099,7 +145113,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2072,
                 "top": 2256,
                 "points": 20,
