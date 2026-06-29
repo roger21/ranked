@@ -1,5 +1,5 @@
 {
-    "date": 1782735001000,
+    "date": 1782735601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100561,20 +100561,6 @@
                     "time": 697386,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778415168000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "_pizu",
-                    "elo": 1646,
-                    "change": -22,
-                    "oelo": 1644,
-                    "ochange": 22,
-                    "time": 599385,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -128674,20 +128660,6 @@
                     "oelo": 1516,
                     "ochange": -19,
                     "time": 545852,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778415346000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Haaons_",
-                    "elo": 1549,
-                    "change": 20,
-                    "oelo": 1504,
-                    "ochange": -20,
-                    "time": 489477,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -234471,20 +234443,6 @@
                     "oelo": 1593,
                     "ochange": 20,
                     "time": 291880,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778415554000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "wagasuner",
-                    "elo": 1578,
-                    "change": -23,
-                    "oelo": 1545,
-                    "ochange": 23,
-                    "time": 435720,
                     "forfeited": true,
                     "decayed": false
                 }
