@@ -1,5 +1,5 @@
 {
-    "date": 1782705001000,
+    "date": 1782705601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58826,34 +58826,6 @@
                     "time": 493540,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778385527000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2002,
-                    "change": 14,
-                    "oelo": 1797,
-                    "ochange": -14,
-                    "time": 460347,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778385005000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1988,
-                    "change": -23,
-                    "oelo": 1955,
-                    "ochange": 23,
-                    "time": 618417,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -67344,20 +67316,6 @@
                     "oelo": 1845,
                     "ochange": 25,
                     "time": 550165,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778385005000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1955,
-                    "change": 23,
-                    "oelo": 1988,
-                    "ochange": -23,
-                    "time": 618417,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81609,20 +81567,6 @@
                     "oelo": 1650,
                     "ochange": -19,
                     "time": 664510,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778385361000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 1686,
-                    "change": 19,
-                    "oelo": 1622,
-                    "ochange": -19,
-                    "time": 541205,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -125888,7 +125832,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2101,
                 "top": 2165,
                 "points": 17,
@@ -128207,23 +128151,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 31,
-                "elo": 2091,
+                "rank": 29,
+                "elo": 2104,
                 "top": 2249,
                 "points": 36,
                 "pb": 394680,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 435,
-                "playtime": 241746701,
-                "finished": 232,
-                "finishtime": 130142489,
-                "won": 251,
+                "matches": 436,
+                "playtime": 242268187,
+                "finished": 233,
+                "finishtime": 130663975,
+                "won": 252,
                 "lost": 179,
                 "forfeited": 7
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782705634000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "zorn89",
+                    "elo": 2104,
+                    "change": 13,
+                    "oelo": 1866,
+                    "ochange": -13,
+                    "time": 521486,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782704224000,
                     "type": "BURIED_TREASURE",
@@ -132038,7 +131996,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2091,
                 "top": 2158,
                 "points": 38,
@@ -180873,20 +180831,6 @@
                     "ochange": 20,
                     "time": 638191,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778385527000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1797,
-                    "change": -14,
-                    "oelo": 2002,
-                    "ochange": 14,
-                    "time": 460347,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
