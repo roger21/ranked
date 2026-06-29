@@ -1,5 +1,5 @@
 {
-    "date": 1782718801000,
+    "date": 1782719401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81008,20 +81008,6 @@
                     "ochange": -14,
                     "time": 400470,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778399151000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1819,
-                    "change": 13,
-                    "oelo": 1599,
-                    "ochange": -13,
-                    "time": 469405,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -182673,7 +182659,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2038,
                 "top": 2140,
                 "points": 0,
@@ -187624,7 +187610,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2038,
                 "top": 2040,
                 "points": 13,
@@ -188585,7 +188571,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2035,
                 "top": 2093,
                 "points": 0,
@@ -202468,7 +202454,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2028,
                 "top": 2068,
                 "points": 0,
@@ -213355,7 +213341,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2027,
                 "top": 2195,
                 "points": 6,
@@ -220252,7 +220238,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2023,
                 "top": 2023,
                 "points": 0,
@@ -233127,7 +233113,7 @@
             "uuid": "e3f76733da054480bab429a704ebecce",
             "nickname": "gharfyy",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2022,
                 "top": 2039,
                 "points": 5,
@@ -237756,23 +237742,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 48,
-                "elo": 2020,
+                "rank": 40,
+                "elo": 2039,
                 "top": 2201,
                 "points": 21,
                 "pb": 401156,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 546,
-                "playtime": 300911966,
-                "finished": 269,
-                "finishtime": 156704720,
-                "won": 305,
+                "matches": 547,
+                "playtime": 301417038,
+                "finished": 270,
+                "finishtime": 157209792,
+                "won": 306,
                 "lost": 235,
                 "forfeited": 45
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1782719467000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2039,
+                    "change": 19,
+                    "oelo": 1965,
+                    "ochange": -19,
+                    "time": 505072,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782678171000,
                     "type": "SHIPWRECK",
@@ -251690,20 +251690,6 @@
                     "oelo": 1558,
                     "ochange": -18,
                     "time": 594729,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778398966000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1640,
-                    "change": -19,
-                    "oelo": 1701,
-                    "ochange": 19,
-                    "time": 638699,
                     "forfeited": false,
                     "decayed": false
                 }
