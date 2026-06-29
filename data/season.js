@@ -1,5 +1,5 @@
 {
-    "date": 1782704401000,
+    "date": 1782705001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81623,20 +81623,6 @@
                     "oelo": 1622,
                     "ochange": -19,
                     "time": 541205,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778384508000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Snakezy",
-                    "elo": 1667,
-                    "change": 18,
-                    "oelo": 1579,
-                    "ochange": -18,
-                    "time": 711281,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180902,20 +180888,6 @@
                     "time": 460347,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778384918000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1811,
-                    "change": -23,
-                    "oelo": 1771,
-                    "ochange": 23,
-                    "time": 536444,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -185557,20 +185529,6 @@
                     "oelo": 1796,
                     "ochange": 20,
                     "time": 681448,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778384918000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1771,
-                    "change": 23,
-                    "oelo": 1811,
-                    "ochange": -23,
-                    "time": 536444,
                     "forfeited": false,
                     "decayed": false
                 }
