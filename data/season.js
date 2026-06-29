@@ -1,5 +1,5 @@
 {
-    "date": 1782731401000,
+    "date": 1782732001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -162586,20 +162586,6 @@
                     "time": 529345,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778411713000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "poopiefart13",
-                    "elo": 1600,
-                    "change": 0,
-                    "oelo": 1603,
-                    "ochange": 0,
-                    "time": 296621,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -232810,20 +232796,6 @@
                     "oelo": 1561,
                     "ochange": 22,
                     "time": 358323,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778411713000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1603,
-                    "change": 0,
-                    "oelo": 1600,
-                    "ochange": 0,
-                    "time": 296621,
                     "forfeited": true,
                     "decayed": false
                 }
