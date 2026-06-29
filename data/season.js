@@ -1,5 +1,5 @@
 {
-    "date": 1782730201000,
+    "date": 1782730801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -111802,20 +111802,6 @@
                     "time": 632442,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778410430000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1716,
-                    "change": 18,
-                    "oelo": 1622,
-                    "ochange": -18,
-                    "time": 598987,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -162654,20 +162640,6 @@
                     "oelo": 1586,
                     "ochange": 22,
                     "time": 761712,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778410430000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "iluappi",
-                    "elo": 1622,
-                    "change": -18,
-                    "oelo": 1716,
-                    "ochange": 18,
-                    "time": 598987,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -232922,20 +232894,6 @@
                     "oelo": 1539,
                     "ochange": -20,
                     "time": 514589,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778410246000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "onepointfifteen",
-                    "elo": 1563,
-                    "change": 20,
-                    "oelo": 1512,
-                    "ochange": -20,
-                    "time": 563930,
                     "forfeited": false,
                     "decayed": false
                 }
