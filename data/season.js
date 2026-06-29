@@ -1,5 +1,5 @@
 {
-    "date": 1782720001000,
+    "date": 1782720601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100603,20 +100603,6 @@
                     "time": 657784,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778400088000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TypicalPlayer2",
-                    "elo": 1608,
-                    "change": 16,
-                    "oelo": 1457,
-                    "ochange": -16,
-                    "time": 701637,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -178226,23 +178212,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 40,
-                "elo": 2039,
+                "rank": 51,
+                "elo": 2013,
                 "top": 2201,
                 "points": 21,
                 "pb": 401156,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 547,
-                "playtime": 301417038,
+                "matches": 548,
+                "playtime": 302074586,
                 "finished": 270,
                 "finishtime": 157209792,
                 "won": 306,
-                "lost": 235,
-                "forfeited": 45
+                "lost": 236,
+                "forfeited": 46
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1782720623000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "VojtaH007",
+                    "elo": 2013,
+                    "change": -26,
+                    "oelo": 1888,
+                    "ochange": 26,
+                    "time": 657548,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1782719467000,
                     "type": "BURIED_TREASURE",
@@ -189640,7 +189640,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2038,
                 "top": 2140,
                 "points": 0,
@@ -194591,7 +194591,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2038,
                 "top": 2040,
                 "points": 13,
@@ -195552,7 +195552,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2035,
                 "top": 2093,
                 "points": 0,
@@ -209435,7 +209435,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2028,
                 "top": 2068,
                 "points": 0,
@@ -220322,7 +220322,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2027,
                 "top": 2195,
                 "points": 6,
@@ -227219,7 +227219,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2023,
                 "top": 2023,
                 "points": 0,
@@ -240094,7 +240094,7 @@
             "uuid": "e3f76733da054480bab429a704ebecce",
             "nickname": "gharfyy",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2022,
                 "top": 2039,
                 "points": 5,
@@ -244723,7 +244723,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2019,
                 "top": 2124,
                 "points": 0,
@@ -247560,7 +247560,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "Geegeeboy_25",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2017,
                 "top": 2017,
                 "points": 0,
@@ -251662,20 +251662,6 @@
                     "oelo": 1578,
                     "ochange": -17,
                     "time": 633119,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778400390000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1678,
-                    "change": 20,
-                    "oelo": 1631,
-                    "ochange": -20,
-                    "time": 606854,
                     "forfeited": false,
                     "decayed": false
                 }
