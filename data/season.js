@@ -1,5 +1,5 @@
 {
-    "date": 1782728401000,
+    "date": 1782729001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -128816,20 +128816,6 @@
                     "time": 560638,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778408507000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "5magics",
-                    "elo": 1566,
-                    "change": -19,
-                    "oelo": 1622,
-                    "ochange": 19,
-                    "time": 315787,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -233006,20 +232992,6 @@
                     "oelo": 1511,
                     "ochange": -20,
                     "time": 706307,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778408874000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "mystiqly",
-                    "elo": 1523,
-                    "change": 20,
-                    "oelo": 1488,
-                    "ochange": -20,
-                    "time": 578481,
                     "forfeited": false,
                     "decayed": false
                 }
