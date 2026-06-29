@@ -3540,6 +3540,35 @@
         "lost": 2394,
         "forfeited": 773
     },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2015
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 3
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8699,
+        "playtime": 5049816545,
+        "finished": 3160,
+        "finishtime": 2179611356,
+        "won": 4360,
+        "lost": 4095,
+        "forfeited": 2099
+    },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
         "country": "vn",
@@ -6048,11 +6077,11 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9545,
-        "playtime": 5852197698,
-        "finished": 4168,
-        "finishtime": 2790425277,
-        "won": 5098,
+        "matches": 9546,
+        "playtime": 5852858126,
+        "finished": 4169,
+        "finishtime": 2791085705,
+        "won": 5099,
         "lost": 4300,
         "forfeited": 991
     },
