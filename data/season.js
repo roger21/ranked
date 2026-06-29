@@ -1,5 +1,5 @@
 {
-    "date": 1782721201000,
+    "date": 1782721801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100573,20 +100573,6 @@
                     "oelo": 1561,
                     "ochange": -17,
                     "time": 590618,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778401409000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ExfusionZ",
-                    "elo": 1651,
-                    "change": 19,
-                    "oelo": 1598,
-                    "ochange": -19,
-                    "time": 547561,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -244639,20 +244625,6 @@
                     "oelo": 1579,
                     "ochange": -16,
                     "time": 832532,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778401375000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1695,
-                    "change": 17,
-                    "oelo": 1578,
-                    "ochange": -17,
-                    "time": 633119,
                     "forfeited": false,
                     "decayed": false
                 }
