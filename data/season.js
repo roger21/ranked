@@ -1,5 +1,5 @@
 {
-    "date": 1782703201000,
+    "date": 1782703801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13220,20 +13220,6 @@
                     "oelo": 1665,
                     "ochange": -14,
                     "time": 639385,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778383487000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1835,
-                    "change": 25,
-                    "oelo": 1914,
-                    "ochange": -25,
-                    "time": 600907,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -67386,20 +67372,6 @@
                     "oelo": 1834,
                     "ochange": -18,
                     "time": 696695,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778383487000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1914,
-                    "change": -25,
-                    "oelo": 1835,
-                    "ochange": 25,
-                    "time": 600907,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180956,20 +180928,6 @@
                     "oelo": 1932,
                     "ochange": 18,
                     "time": 696695,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778383344000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1852,
-                    "change": 14,
-                    "oelo": 1664,
-                    "ochange": -14,
-                    "time": 673330,
                     "forfeited": false,
                     "decayed": false
                 }
