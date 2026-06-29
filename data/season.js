@@ -1,5 +1,5 @@
 {
-    "date": 1782717601000,
+    "date": 1782718201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -251718,20 +251718,6 @@
                     "oelo": 1701,
                     "ochange": 19,
                     "time": 638699,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778398114000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Zylenox",
-                    "elo": 1659,
-                    "change": -20,
-                    "oelo": 1702,
-                    "ochange": 20,
-                    "time": 574596,
                     "forfeited": false,
                     "decayed": false
                 }
