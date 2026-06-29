@@ -1,5 +1,5 @@
 {
-    "date": 1782711001000,
+    "date": 1782711601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58728,20 +58728,6 @@
                     "time": 526355,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778391376000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dinonuggieboi",
-                    "elo": 2019,
-                    "change": 13,
-                    "oelo": 1801,
-                    "ochange": -13,
-                    "time": 610521,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -61950,20 +61936,6 @@
                     "oelo": 1996,
                     "ochange": -23,
                     "time": 526355,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778391159000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1942,
-                    "change": 16,
-                    "oelo": 1809,
-                    "ochange": -16,
-                    "time": 696090,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81301,20 +81273,6 @@
                     "oelo": 1777,
                     "ochange": -24,
                     "time": 337603,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778391353000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Yosa1003",
-                    "elo": 1694,
-                    "change": 1,
-                    "oelo": 1787,
-                    "ochange": -1,
-                    "time": 444250,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -129291,20 +129249,6 @@
                     "ochange": -19,
                     "time": 567963,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778391379000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "MoleyG",
-                    "elo": 1521,
-                    "change": -21,
-                    "oelo": 1533,
-                    "ochange": 21,
-                    "time": 466736,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -180342,20 +180286,6 @@
                     "time": 690240,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778391508000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "benemies",
-                    "elo": 1730,
-                    "change": 19,
-                    "oelo": 1654,
-                    "ochange": -19,
-                    "time": 586066,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -184872,20 +184802,6 @@
                     "ochange": 24,
                     "time": 337603,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778391376000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1801,
-                    "change": -13,
-                    "oelo": 2019,
-                    "ochange": 13,
-                    "time": 610521,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
