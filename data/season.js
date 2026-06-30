@@ -1,5 +1,5 @@
 {
-    "date": 1782793201000,
+    "date": 1782793801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -129219,7 +129219,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2078,
                 "top": 2078,
                 "points": 15,
@@ -136270,23 +136270,37 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 34,
-                "elo": 2070,
+                "rank": 33,
+                "elo": 2085,
                 "top": 2230,
                 "points": 36,
                 "pb": 400470,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 571,
-                "playtime": 318056537,
-                "finished": 272,
-                "finishtime": 161103130,
-                "won": 303,
+                "matches": 572,
+                "playtime": 318662608,
+                "finished": 273,
+                "finishtime": 161709201,
+                "won": 304,
                 "lost": 254,
                 "forfeited": 34
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782793806000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "cvctus",
+                    "elo": 2085,
+                    "change": 15,
+                    "oelo": 1914,
+                    "ochange": -15,
+                    "time": 606071,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782793067000,
                     "type": "RUINED_PORTAL",
