@@ -1,5 +1,5 @@
 {
-    "date": 1782784801000,
+    "date": 1782785401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29025,20 +29025,6 @@
                     "oelo": 1931,
                     "ochange": -23,
                     "time": 459115,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778465316000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1872,
-                    "change": 18,
-                    "oelo": 1772,
-                    "ochange": -18,
-                    "time": 623747,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -127424,20 +127410,6 @@
                     "ochange": -19,
                     "time": 458737,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778464959000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1798,
-                    "change": 18,
-                    "oelo": 1713,
-                    "ochange": -18,
-                    "time": 489548,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
