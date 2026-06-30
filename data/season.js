@@ -1,5 +1,5 @@
 {
-    "date": 1782802201000,
+    "date": 1782802801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -120673,20 +120673,6 @@
                     "time": 549734,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778482616000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1599,
-                    "change": -19,
-                    "oelo": 1674,
-                    "ochange": 19,
-                    "time": 488550,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -175743,20 +175729,6 @@
                     "oelo": 1585,
                     "ochange": -15,
                     "time": 548947,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778482531000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pigswitch",
-                    "elo": 1740,
-                    "change": 15,
-                    "oelo": 1574,
-                    "ochange": -15,
-                    "time": 631335,
                     "forfeited": false,
                     "decayed": false
                 }
