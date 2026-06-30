@@ -1,5 +1,5 @@
 {
-    "date": 1782826801000,
+    "date": 1782827401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46934,20 +46934,6 @@
                     "oelo": 1532,
                     "ochange": -18,
                     "time": 599362,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778507178000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1612,
-                    "change": 22,
-                    "oelo": 1627,
-                    "ochange": -22,
-                    "time": 571422,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -116365,20 +116351,6 @@
                     "ochange": -21,
                     "time": 604468,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778507135000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1720,
-                    "change": -15,
-                    "oelo": 1905,
-                    "ochange": 15,
-                    "time": 252701,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -236585,20 +236557,6 @@
                     "ochange": -24,
                     "time": 567322,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778507135000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ogurikappa",
-                    "elo": 1905,
-                    "change": 15,
-                    "oelo": 1720,
-                    "ochange": -15,
-                    "time": 252701,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
