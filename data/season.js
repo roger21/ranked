@@ -1,5 +1,5 @@
 {
-    "date": 1782817801000,
+    "date": 1782818401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63476,20 +63476,6 @@
                     "oelo": 1931,
                     "ochange": -28,
                     "time": 565161,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778498065000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "5magics",
-                    "elo": 1726,
-                    "change": 18,
-                    "oelo": 1647,
-                    "ochange": -18,
-                    "time": 608268,
                     "forfeited": false,
                     "decayed": false
                 }
