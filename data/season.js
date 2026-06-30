@@ -1,5 +1,5 @@
 {
-    "date": 1782823801000,
+    "date": 1782824401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63380,20 +63380,6 @@
                     "time": 597056,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778504327000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "a4102545",
-                    "elo": 1767,
-                    "change": -2,
-                    "oelo": 1610,
-                    "ochange": 2,
-                    "time": 576422,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -75515,22 +75501,36 @@
             "nickname": "darvy__",
             "stats": {
                 "rank": 22,
-                "elo": 2158,
+                "elo": 2175,
                 "top": 2202,
                 "points": 28,
                 "pb": 395829,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 552,
-                "playtime": 311529396,
-                "finished": 250,
-                "finishtime": 147568537,
-                "won": 286,
+                "matches": 553,
+                "playtime": 312040618,
+                "finished": 251,
+                "finishtime": 148079759,
+                "won": 287,
                 "lost": 240,
                 "forfeited": 21
             },
             "country": "je",
             "matches": [
+                {
+                    "date": 1782824411000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 2175,
+                    "change": 17,
+                    "oelo": 2063,
+                    "ochange": -17,
+                    "time": 511222,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782823696000,
                     "type": "SHIPWRECK",
@@ -116408,20 +116408,6 @@
                     "time": 216248,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778504308000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 1741,
-                    "change": 22,
-                    "oelo": 1745,
-                    "ochange": -22,
-                    "time": 613151,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -145603,23 +145589,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 35,
-                "elo": 2080,
+                "rank": 38,
+                "elo": 2063,
                 "top": 2201,
                 "points": 33,
                 "pb": 401156,
                 "current": 0,
                 "streak": 8,
-                "matches": 573,
-                "playtime": 316504695,
+                "matches": 574,
+                "playtime": 317015917,
                 "finished": 283,
                 "finishtime": 165658343,
                 "won": 320,
-                "lost": 246,
+                "lost": 247,
                 "forfeited": 47
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1782824411000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "darvy__",
+                    "elo": 2063,
+                    "change": -17,
+                    "oelo": 2175,
+                    "ochange": 17,
+                    "time": 511222,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782823525000,
                     "type": "RUINED_PORTAL",
@@ -152822,7 +152822,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2078,
                 "top": 2078,
                 "points": 15,
@@ -159873,7 +159873,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2069,
                 "top": 2196,
                 "points": 12,
@@ -166840,7 +166840,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2069,
                 "top": 2174,
                 "points": 0,
