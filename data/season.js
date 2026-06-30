@@ -1,5 +1,5 @@
 {
-    "date": 1782828001000,
+    "date": 1782828601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46907,20 +46907,6 @@
                     "ochange": -20,
                     "time": 606266,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778508463000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1647,
-                    "change": 17,
-                    "oelo": 1536,
-                    "ochange": -17,
-                    "time": 381110,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -116323,20 +116309,6 @@
                     "ochange": 19,
                     "time": 563991,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778508478000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ayreliaa",
-                    "elo": 1760,
-                    "change": 19,
-                    "oelo": 1701,
-                    "ochange": -19,
-                    "time": 459332,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
