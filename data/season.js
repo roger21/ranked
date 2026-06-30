@@ -1,5 +1,5 @@
 {
-    "date": 1782807601000,
+    "date": 1782808201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -181036,20 +181036,6 @@
                     "ochange": 19,
                     "time": 617398,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778488097000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1767,
-                    "change": 14,
-                    "oelo": 1568,
-                    "ochange": -14,
-                    "time": 579344,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
