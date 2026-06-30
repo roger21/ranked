@@ -1,5 +1,5 @@
 {
-    "date": 1782792001000,
+    "date": 1782792601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28899,20 +28899,6 @@
                     "oelo": 1733,
                     "ochange": -14,
                     "time": 546720,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778472002000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 1907,
-                    "change": -23,
-                    "oelo": 1871,
-                    "ochange": 23,
-                    "time": 675755,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -98050,20 +98036,6 @@
                     "time": 379716,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778472272000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Tadeos",
-                    "elo": 1523,
-                    "change": 20,
-                    "oelo": 1472,
-                    "ochange": -20,
-                    "time": 734931,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -129252,20 +129224,6 @@
                     "oelo": 2074,
                     "ochange": 13,
                     "time": 530966,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778472002000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1871,
-                    "change": 23,
-                    "oelo": 1907,
-                    "ochange": -23,
-                    "time": 675755,
                     "forfeited": false,
                     "decayed": false
                 }
