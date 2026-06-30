@@ -1,5 +1,5 @@
 {
-    "date": 1782783601000,
+    "date": 1782784201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58581,20 +58581,6 @@
                     "oelo": 1895,
                     "ochange": 23,
                     "time": 459115,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778464194000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "darkk575",
-                    "elo": 1954,
-                    "change": 16,
-                    "oelo": 1810,
-                    "ochange": -16,
-                    "time": 583888,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -160836,20 +160822,6 @@
                     "time": 312322,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778463823000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1861,
-                    "change": 21,
-                    "oelo": 1860,
-                    "ochange": -21,
-                    "time": 494819,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -191810,20 +191782,6 @@
                     "oelo": 1691,
                     "ochange": 27,
                     "time": 667666,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778463823000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 1860,
-                    "change": -21,
-                    "oelo": 1861,
-                    "ochange": 21,
-                    "time": 494819,
                     "forfeited": false,
                     "decayed": false
                 }
