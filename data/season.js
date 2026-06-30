@@ -1,5 +1,5 @@
 {
-    "date": 1782814201000,
+    "date": 1782814801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -116616,20 +116616,6 @@
                     "oelo": 1584,
                     "ochange": -16,
                     "time": 512464,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778494712000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1702,
-                    "change": 20,
-                    "oelo": 1668,
-                    "ochange": -20,
-                    "time": 595057,
                     "forfeited": false,
                     "decayed": false
                 }
