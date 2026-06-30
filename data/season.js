@@ -1,5 +1,5 @@
 {
-    "date": 1782800402000,
+    "date": 1782801001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50051,20 +50051,6 @@
                     "oelo": 1725,
                     "ochange": -14,
                     "time": 643297,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778480674000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "dolqhin",
-                    "elo": 1898,
-                    "change": -26,
-                    "oelo": 1793,
-                    "ochange": 26,
-                    "time": 528155,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175813,20 +175799,6 @@
                     "oelo": 1912,
                     "ochange": 14,
                     "time": 643297,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778480895000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "NokeyDokey",
-                    "elo": 1739,
-                    "change": 18,
-                    "oelo": 1651,
-                    "ochange": -18,
-                    "time": 544949,
                     "forfeited": false,
                     "decayed": false
                 }
