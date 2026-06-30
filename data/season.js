@@ -1,5 +1,5 @@
 {
-    "date": 1782786001000,
+    "date": 1782786601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29013,20 +29013,6 @@
                     "time": 608474,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778466049000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1895,
-                    "change": 23,
-                    "oelo": 1931,
-                    "ochange": -23,
-                    "time": 459115,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50388,20 +50374,6 @@
                     "ochange": -14,
                     "time": 433004,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778466049000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1931,
-                    "change": -23,
-                    "oelo": 1895,
-                    "ochange": 23,
-                    "time": 459115,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -127383,20 +127355,6 @@
                     "time": 608474,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778466113000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1835,
-                    "change": 18,
-                    "oelo": 1754,
-                    "ochange": -18,
-                    "time": 581852,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -129700,20 +129658,6 @@
                     "oelo": 1767,
                     "ochange": -20,
                     "time": 617676,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778466186000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "rekrap2",
-                    "elo": 1793,
-                    "change": -26,
-                    "oelo": 1689,
-                    "ochange": 26,
-                    "time": 819135,
                     "forfeited": false,
                     "decayed": false
                 }
