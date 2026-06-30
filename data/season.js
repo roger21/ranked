@@ -1,5 +1,5 @@
 {
-    "date": 1782819001000,
+    "date": 1782819601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63450,20 +63450,6 @@
                     "time": 471217,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778499395000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "KindPlays",
-                    "elo": 1772,
-                    "change": 18,
-                    "oelo": 1688,
-                    "ochange": -18,
-                    "time": 562469,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -80863,20 +80849,6 @@
                     "ochange": -16,
                     "time": 513665,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778499470000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1945,
-                    "change": 14,
-                    "oelo": 1757,
-                    "ochange": -14,
-                    "time": 487685,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
