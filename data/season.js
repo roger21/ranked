@@ -1,5 +1,5 @@
 {
-    "date": 1782804601000,
+    "date": 1782805201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -120617,20 +120617,6 @@
                     "time": 518545,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778485092000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1656,
-                    "change": 23,
-                    "oelo": 1700,
-                    "ochange": -23,
-                    "time": 567821,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -175645,20 +175631,6 @@
                     "oelo": 1577,
                     "ochange": -16,
                     "time": 657708,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778484711000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Coach_Side",
-                    "elo": 1705,
-                    "change": -25,
-                    "oelo": 1603,
-                    "ochange": 25,
-                    "time": 530769,
                     "forfeited": false,
                     "decayed": false
                 }
