@@ -1,5 +1,5 @@
 {
-    "date": 1782782401000,
+    "date": 1782783001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2525,20 +2525,6 @@
                     "oelo": 1938,
                     "ochange": -13,
                     "time": 431669,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778462952000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "woofdoggo_",
-                    "elo": 2150,
-                    "change": 10,
-                    "oelo": 1832,
-                    "ochange": -10,
-                    "time": 549117,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55254,20 +55240,6 @@
                     "oelo": 1670,
                     "ochange": 27,
                     "time": 507542,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778462952000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1832,
-                    "change": -10,
-                    "oelo": 2150,
-                    "ochange": 10,
-                    "time": 549117,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -177899,20 +177871,6 @@
                     "oelo": 1729,
                     "ochange": 23,
                     "time": 596700,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778462595000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "boosterruns",
-                    "elo": 1788,
-                    "change": 15,
-                    "oelo": 1612,
-                    "ochange": -15,
-                    "time": 632555,
                     "forfeited": false,
                     "decayed": false
                 }
