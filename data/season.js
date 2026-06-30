@@ -1,5 +1,5 @@
 {
-    "date": 1782820801000,
+    "date": 1782821401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63436,20 +63436,6 @@
                     "time": 210454,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778500862000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "ItsNamii",
-                    "elo": 1749,
-                    "change": -2,
-                    "oelo": 1569,
-                    "ochange": 2,
-                    "time": 707811,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -75575,20 +75561,6 @@
                     "oelo": 1744,
                     "ochange": -13,
                     "time": 567269,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778500942000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1973,
-                    "change": 12,
-                    "oelo": 1728,
-                    "ochange": -12,
-                    "time": 574360,
                     "forfeited": false,
                     "decayed": false
                 }
