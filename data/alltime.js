@@ -1341,7 +1341,7 @@
     },
     "359da0f53f574971acdaa4aa23de991d": {
         "nickname": "_pizu",
-        "country": "im",
+        "country": "id",
         "top": {
             "1": 980,
             "3": 1037,
@@ -5865,11 +5865,11 @@
         },
         "pb": 345484,
         "streak": 12,
-        "matches": 13587,
-        "playtime": 8541547649,
+        "matches": 13588,
+        "playtime": 8541910531,
         "finished": 4883,
         "finishtime": 3478899417,
-        "won": 6609,
+        "won": 6610,
         "lost": 6249,
         "forfeited": 1743
     },
