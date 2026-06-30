@@ -1,5 +1,5 @@
 {
-    "date": 1782802801000,
+    "date": 1782803401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50023,20 +50023,6 @@
                     "oelo": 1798,
                     "ochange": 24,
                     "time": 608436,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778483278000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1884,
-                    "change": -28,
-                    "oelo": 1702,
-                    "ochange": 28,
-                    "time": 550647,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175715,20 +175701,6 @@
                     "oelo": 0,
                     "ochange": 0,
                     "time": 597919,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778483212000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1755,
-                    "change": 15,
-                    "oelo": 1585,
-                    "ochange": -15,
-                    "time": 548947,
                     "forfeited": false,
                     "decayed": false
                 }
