@@ -1,5 +1,5 @@
 {
-    "date": 1782801001000,
+    "date": 1782801601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -120701,20 +120701,6 @@
                     "time": 488550,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778481291000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 1618,
-                    "change": 27,
-                    "oelo": 1766,
-                    "ochange": -27,
-                    "time": 489790,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -221935,7 +221921,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "BRIDGE",
                     "result": "lost",
-                    "opponent": "TheSandstoneKing",
+                    "opponent": "OopsAllWow",
                     "elo": 1549,
                     "change": -22,
                     "oelo": 1545,
