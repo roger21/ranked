@@ -1,5 +1,5 @@
 {
-    "date": 1782794401000,
+    "date": 1782795001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -97965,34 +97965,6 @@
                     "ochange": -21,
                     "time": 574711,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778474935000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "jellyfish_MCSR",
-                    "elo": 1601,
-                    "change": 14,
-                    "oelo": 1388,
-                    "ochange": -14,
-                    "time": 257487,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778474572000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1587,
-                    "change": 20,
-                    "oelo": 1540,
-                    "ochange": -20,
-                    "time": 304590,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
