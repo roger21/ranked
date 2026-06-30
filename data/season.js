@@ -1,5 +1,5 @@
 {
-    "date": 1782818401000,
+    "date": 1782819001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63464,20 +63464,6 @@
                     "time": 562469,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778498712000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1754,
-                    "change": 28,
-                    "oelo": 1931,
-                    "ochange": -28,
-                    "time": 565161,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -80891,20 +80877,6 @@
                     "ochange": -14,
                     "time": 487685,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778498712000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 1931,
-                    "change": -28,
-                    "oelo": 1754,
-                    "ochange": 28,
-                    "time": 565161,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
