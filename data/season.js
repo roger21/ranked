@@ -1,5 +1,5 @@
 {
-    "date": 1782808201000,
+    "date": 1782808801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134870,7 +134870,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2078,
                 "top": 2078,
                 "points": 15,
@@ -141921,7 +141921,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2069,
                 "top": 2201,
                 "points": 33,
@@ -149070,7 +149070,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2069,
                 "top": 2196,
                 "points": 12,
@@ -156037,7 +156037,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2069,
                 "top": 2174,
                 "points": 0,
@@ -159434,23 +159434,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 38,
-                "elo": 2068,
-                "top": 2068,
+                "rank": 33,
+                "elo": 2085,
+                "top": 2085,
                 "points": 8,
                 "pb": 394023,
-                "current": 10,
-                "streak": 10,
-                "matches": 927,
-                "playtime": 568827076,
-                "finished": 402,
-                "finishtime": 251147777,
-                "won": 466,
+                "current": 11,
+                "streak": 11,
+                "matches": 928,
+                "playtime": 569468311,
+                "finished": 403,
+                "finishtime": 251789012,
+                "won": 467,
                 "lost": 414,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782808854000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "sevensix_",
+                    "elo": 2085,
+                    "change": 17,
+                    "oelo": 1981,
+                    "ochange": -17,
+                    "time": 641235,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782807240000,
                     "type": "BURIED_TREASURE",
