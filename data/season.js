@@ -1,5 +1,5 @@
 {
-    "date": 1782790801000,
+    "date": 1782791401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28915,20 +28915,6 @@
                     "time": 675755,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778471274000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1930,
-                    "change": -21,
-                    "oelo": 1933,
-                    "ochange": 21,
-                    "time": 454537,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50192,20 +50178,6 @@
                     "ochange": -13,
                     "time": 265540,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778471274000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1933,
-                    "change": 21,
-                    "oelo": 1930,
-                    "ochange": -21,
-                    "time": 454537,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -129308,20 +129280,6 @@
                     "oelo": 1907,
                     "ochange": -23,
                     "time": 675755,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778471163000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1848,
-                    "change": -21,
-                    "oelo": 1866,
-                    "ochange": 21,
-                    "time": 606403,
                     "forfeited": false,
                     "decayed": false
                 }
