@@ -1,5 +1,5 @@
 {
-    "date": 1782816601000,
+    "date": 1782817201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63490,20 +63490,6 @@
                     "oelo": 1647,
                     "ochange": -18,
                     "time": 608268,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778497144000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1708,
-                    "change": 21,
-                    "oelo": 1688,
-                    "ochange": -21,
-                    "time": 754790,
                     "forfeited": false,
                     "decayed": false
                 }
