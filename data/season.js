@@ -1,5 +1,5 @@
 {
-    "date": 1782801601000,
+    "date": 1782802201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50037,20 +50037,6 @@
                     "oelo": 1702,
                     "ochange": 28,
                     "time": 550647,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778481750000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1912,
-                    "change": 14,
-                    "oelo": 1725,
-                    "ochange": -14,
-                    "time": 643297,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175771,20 +175757,6 @@
                     "oelo": 1574,
                     "ochange": -15,
                     "time": 631335,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778481750000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1725,
-                    "change": -14,
-                    "oelo": 1912,
-                    "ochange": 14,
-                    "time": 643297,
                     "forfeited": false,
                     "decayed": false
                 }
