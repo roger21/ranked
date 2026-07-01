@@ -1,5 +1,5 @@
 {
-    "date": 1782903001000,
+    "date": 1782903601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40359,20 +40359,6 @@
                     "oelo": 1710,
                     "ochange": -17,
                     "time": 481084,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778583209000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1808,
-                    "change": 18,
-                    "oelo": 1719,
-                    "ochange": -18,
-                    "time": 575810,
                     "forfeited": false,
                     "decayed": false
                 }
