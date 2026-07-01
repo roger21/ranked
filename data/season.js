@@ -1,5 +1,5 @@
 {
-    "date": 1782906601000,
+    "date": 1782907201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -23921,7 +23921,7 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 6,
-                "elo": 2283,
+                "elo": 2278,
                 "top": 2301,
                 "points": 90,
                 "pb": 368221,
@@ -23937,6 +23937,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782906803000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2278,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782820401000,
                     "type": null,
