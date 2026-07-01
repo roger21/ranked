@@ -1,5 +1,5 @@
 {
-    "date": 1782867601000,
+    "date": 1782868201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2497,20 +2497,6 @@
                     "oelo": 1938,
                     "ochange": -12,
                     "time": 554818,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778547858000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wethr",
-                    "elo": 2184,
-                    "change": 8,
-                    "oelo": 1767,
-                    "ochange": -8,
-                    "time": 560266,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -72892,20 +72878,6 @@
                     "oelo": 1753,
                     "ochange": -14,
                     "time": 621383,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778547608000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1936,
-                    "change": -26,
-                    "oelo": 1824,
-                    "ochange": 26,
-                    "time": 595059,
                     "forfeited": false,
                     "decayed": false
                 }
