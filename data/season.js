@@ -1,5 +1,5 @@
 {
-    "date": 1782870601000,
+    "date": 1782871201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -74637,20 +74637,6 @@
                     "oelo": 1879,
                     "ochange": -18,
                     "time": 602503,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778550711000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Soumynona",
-                    "elo": 1953,
-                    "change": 15,
-                    "oelo": 1770,
-                    "ochange": -15,
-                    "time": 522035,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -160825,23 +160811,37 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 36,
-                "elo": 2069,
+                "rank": 38,
+                "elo": 2053,
                 "top": 2174,
                 "points": 0,
                 "pb": 444035,
                 "current": 0,
                 "streak": 9,
-                "matches": 333,
-                "playtime": 196663301,
+                "matches": 334,
+                "playtime": 197210133,
                 "finished": 157,
                 "finishtime": 94367763,
                 "won": 176,
-                "lost": 146,
+                "lost": 147,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1782871240000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2053,
+                    "change": -16,
+                    "oelo": 2191,
+                    "ochange": 16,
+                    "time": 546832,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782497235000,
                     "type": "BURIED_TREASURE",
@@ -164222,7 +164222,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2059,
                 "top": 2059,
                 "points": 24,
