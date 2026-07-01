@@ -1,5 +1,5 @@
 {
-    "date": 1782906001000,
+    "date": 1782906601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40289,20 +40289,6 @@
                     "oelo": 1769,
                     "ochange": -20,
                     "time": 679751,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778586269000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ogurikappa",
-                    "elo": 1780,
-                    "change": -21,
-                    "oelo": 1790,
-                    "ochange": 21,
-                    "time": 537123,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107083,20 +107069,6 @@
                     "oelo": 1789,
                     "ochange": -21,
                     "time": 558376,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778586269000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Erikfzf",
-                    "elo": 1790,
-                    "change": 21,
-                    "oelo": 1780,
-                    "ochange": -21,
-                    "time": 537123,
                     "forfeited": false,
                     "decayed": false
                 }
