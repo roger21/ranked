@@ -1,5 +1,5 @@
 {
-    "date": 1782910201000,
+    "date": 1782910801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40247,20 +40247,6 @@
                     "oelo": 1749,
                     "ochange": 1,
                     "time": 789612,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778590338000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "SammmyG",
-                    "elo": 1830,
-                    "change": 1,
-                    "oelo": 1919,
-                    "ochange": -1,
-                    "time": 555365,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -125889,20 +125875,6 @@
                     "ochange": -1,
                     "time": 789612,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778590393000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "boywithcards",
-                    "elo": 1748,
-                    "change": -21,
-                    "oelo": 1754,
-                    "ochange": 21,
-                    "time": 967071,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -220015,20 +219987,6 @@
                     "time": 608636,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778590687000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1653,
-                    "change": 20,
-                    "oelo": 1619,
-                    "ochange": -20,
-                    "time": 634025,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -221885,20 +221843,6 @@
                     "ochange": 28,
                     "time": 598759,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778590338000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "Erikfzf",
-                    "elo": 1919,
-                    "change": -1,
-                    "oelo": 1830,
-                    "ochange": 1,
-                    "time": 555365,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
