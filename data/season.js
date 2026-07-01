@@ -1,5 +1,5 @@
 {
-    "date": 1782912601000,
+    "date": 1782913201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40205,20 +40205,6 @@
                     "oelo": 1800,
                     "ochange": 21,
                     "time": 676872,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778592700000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "MinetofuCraft",
-                    "elo": 1818,
-                    "change": 14,
-                    "oelo": 1633,
-                    "ochange": -14,
-                    "time": 512923,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -125820,20 +125806,6 @@
                     "time": 676872,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778592634000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1779,
-                    "change": 15,
-                    "oelo": 1622,
-                    "ochange": -15,
-                    "time": 544434,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -159831,7 +159803,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2069,
                 "top": 2196,
                 "points": 12,
@@ -166798,7 +166770,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2059,
                 "top": 2059,
                 "points": 24,
@@ -167815,23 +167787,37 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 39,
-                "elo": 2058,
-                "top": 2058,
+                "rank": 37,
+                "elo": 2071,
+                "top": 2071,
                 "points": 7,
                 "pb": 412783,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 214,
-                "playtime": 113709746,
-                "finished": 105,
-                "finishtime": 61831076,
-                "won": 118,
+                "matches": 215,
+                "playtime": 114352485,
+                "finished": 106,
+                "finishtime": 62473815,
+                "won": 119,
                 "lost": 89,
                 "forfeited": 34
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1782913239000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "yuushahinmeru",
+                    "elo": 2071,
+                    "change": 13,
+                    "oelo": 1829,
+                    "ochange": -13,
+                    "time": 642739,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782912428000,
                     "type": "BURIED_TREASURE",
@@ -219915,20 +219901,6 @@
                     "oelo": 1663,
                     "ochange": 21,
                     "time": 634239,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778593079000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "fox1ebtw",
-                    "elo": 1677,
-                    "change": -23,
-                    "oelo": 1631,
-                    "ochange": 23,
-                    "time": 677366,
                     "forfeited": false,
                     "decayed": false
                 }
