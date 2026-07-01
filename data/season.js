@@ -1,5 +1,5 @@
 {
-    "date": 1782904801000,
+    "date": 1782905401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40317,20 +40317,6 @@
                     "oelo": 1617,
                     "ochange": -15,
                     "time": 494052,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778585093000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1786,
-                    "change": -16,
-                    "oelo": 1921,
-                    "ochange": 16,
-                    "time": 479425,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -220279,20 +220265,6 @@
                     "oelo": 1457,
                     "ochange": -16,
                     "time": 608478,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778585264000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "KindPlays",
-                    "elo": 1576,
-                    "change": -19,
-                    "oelo": 1650,
-                    "ochange": 19,
-                    "time": 651405,
                     "forfeited": false,
                     "decayed": false
                 }
