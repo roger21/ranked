@@ -1,5 +1,5 @@
 {
-    "date": 1782908401000,
+    "date": 1782909001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40275,20 +40275,6 @@
                     "oelo": 1654,
                     "ochange": -15,
                     "time": 487598,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778588773000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wagasylvie",
-                    "elo": 1814,
-                    "change": 14,
-                    "oelo": 1630,
-                    "ochange": -14,
-                    "time": 597203,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -159964,20 +159950,6 @@
                     "time": 876674,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778588773000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Erikfzf",
-                    "elo": 1630,
-                    "change": -14,
-                    "oelo": 1814,
-                    "ochange": 14,
-                    "time": 597203,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -220139,20 +220111,6 @@
                     "oelo": 1648,
                     "ochange": 20,
                     "time": 545170,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778588949000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ExcermentGaming",
-                    "elo": 1632,
-                    "change": 19,
-                    "oelo": 1578,
-                    "ochange": -19,
-                    "time": 624984,
                     "forfeited": false,
                     "decayed": false
                 }
