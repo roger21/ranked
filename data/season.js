@@ -1,5 +1,5 @@
 {
-    "date": 1782926401000,
+    "date": 1782927001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115836,23 +115836,37 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "darvy__",
             "stats": {
-                "rank": 30,
-                "elo": 2110,
+                "rank": 27,
+                "elo": 2126,
                 "top": 2202,
                 "points": 28,
                 "pb": 395829,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 574,
-                "playtime": 324141822,
-                "finished": 261,
-                "finishtime": 153773605,
-                "won": 297,
+                "matches": 575,
+                "playtime": 324672108,
+                "finished": 262,
+                "finishtime": 154303891,
+                "won": 298,
                 "lost": 250,
                 "forfeited": 21
             },
             "country": "je",
             "matches": [
+                {
+                    "date": 1782927024000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "KenanKardes",
+                    "elo": 2126,
+                    "change": 16,
+                    "oelo": 1979,
+                    "ochange": -16,
+                    "time": 530286,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782926112000,
                     "type": "RUINED_PORTAL",
@@ -153681,20 +153695,6 @@
                     "oelo": 1627,
                     "ochange": -15,
                     "time": 518181,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778606718000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1771,
-                    "change": -18,
-                    "oelo": 1857,
-                    "ochange": 18,
-                    "time": 677858,
                     "forfeited": false,
                     "decayed": false
                 }
