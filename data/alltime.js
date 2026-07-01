@@ -3934,35 +3934,6 @@
         "lost": 4641,
         "forfeited": 880
     },
-    "9589914cf31a420bbcb07cd0768eec28": {
-        "nickname": "_Pasha1337_",
-        "country": null,
-        "top": {
-            "4": 1484,
-            "5": 1328,
-            "8": 1504,
-            "9": 1772,
-            "10": 2063,
-            "11": 2018
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 390746,
-        "streak": 9,
-        "matches": 2199,
-        "playtime": 1473831763,
-        "finished": 754,
-        "finishtime": 579258452,
-        "won": 1095,
-        "lost": 982,
-        "forfeited": 187
-    },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "mi5f1t",
         "country": "br",
