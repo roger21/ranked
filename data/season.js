@@ -1,5 +1,5 @@
 {
-    "date": 1782918601000,
+    "date": 1782919201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -125721,20 +125721,6 @@
                     "ochange": 25,
                     "time": 306980,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778598765000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1840,
-                    "change": -16,
-                    "oelo": 1974,
-                    "ochange": 16,
-                    "time": 583960,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
