@@ -1,5 +1,5 @@
 {
-    "date": 1782863401000,
+    "date": 1782864001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -39591,20 +39591,6 @@
                     "time": 520430,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778543422000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1978,
-                    "change": 21,
-                    "oelo": 1964,
-                    "ochange": -21,
-                    "time": 431485,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66665,20 +66651,6 @@
                     "time": 520430,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778543891000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 1960,
-                    "change": -28,
-                    "oelo": 1796,
-                    "ochange": 28,
-                    "time": 702396,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73060,20 +73032,6 @@
                     "oelo": 2052,
                     "ochange": 17,
                     "time": 634196,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778543422000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1964,
-                    "change": -21,
-                    "oelo": 1978,
-                    "ochange": 21,
-                    "time": 431485,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180806,23 +180764,37 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 42,
-                "elo": 2036,
+                "rank": 45,
+                "elo": 2023,
                 "top": 2036,
                 "points": 7,
                 "pb": 412783,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 209,
-                "playtime": 110576123,
+                "matches": 210,
+                "playtime": 111151865,
                 "finished": 102,
                 "finishtime": 59925555,
                 "won": 115,
-                "lost": 87,
+                "lost": 88,
                 "forfeited": 34
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1782864049000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "nahhann",
+                    "elo": 2023,
+                    "change": -13,
+                    "oelo": 2246,
+                    "ochange": 13,
+                    "time": 575742,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782861527000,
                     "type": "RUINED_PORTAL",
@@ -183629,7 +183601,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2031,
                 "top": 2208,
                 "points": 18,
@@ -187796,7 +187768,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2029,
                 "top": 2090,
                 "points": 23,
@@ -191893,7 +191865,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2026,
                 "top": 2207,
                 "points": 31,
@@ -197404,7 +197376,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2023,
                 "top": 2023,
                 "points": 8,
