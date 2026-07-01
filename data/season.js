@@ -1,5 +1,5 @@
 {
-    "date": 1782866401000,
+    "date": 1782867001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2511,20 +2511,6 @@
                     "oelo": 1767,
                     "ochange": -8,
                     "time": 560266,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778546574000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2176,
-                    "change": 13,
-                    "oelo": 1962,
-                    "ochange": -13,
-                    "time": 480416,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -72920,20 +72906,6 @@
                     "oelo": 1824,
                     "ochange": 26,
                     "time": 595059,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778546574000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1962,
-                    "change": -13,
-                    "oelo": 2176,
-                    "ochange": 13,
-                    "time": 480416,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180666,7 +180638,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2031,
                 "top": 2208,
                 "points": 18,
@@ -184833,7 +184805,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2029,
                 "top": 2090,
                 "points": 23,
@@ -188930,7 +188902,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2026,
                 "top": 2207,
                 "points": 31,
@@ -194441,7 +194413,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2023,
                 "top": 2023,
                 "points": 8,
@@ -206112,7 +206084,7 @@
             "uuid": "e3f76733da054480bab429a704ebecce",
             "nickname": "gharfyy",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2022,
                 "top": 2039,
                 "points": 13,
@@ -210741,7 +210713,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2020,
                 "top": 2155,
                 "points": 21,
@@ -212626,7 +212598,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "TUDORULE",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2019,
                 "top": 2124,
                 "points": 7,
@@ -215337,7 +215309,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2018,
                 "top": 2140,
                 "points": 0,
@@ -220134,7 +220106,7 @@
             "uuid": "9589914cf31a420bbcb07cd0768eec28",
             "nickname": "_Pasha1337_",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2018,
                 "top": 2018,
                 "points": 0,
