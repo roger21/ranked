@@ -1,5 +1,5 @@
 {
-    "date": 1782910801000,
+    "date": 1782911401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40234,20 +40234,6 @@
                     "ochange": 25,
                     "time": 589243,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778591252000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "darvy__",
-                    "elo": 1829,
-                    "change": -1,
-                    "oelo": 1749,
-                    "ochange": 1,
-                    "time": 789612,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -125860,20 +125846,6 @@
                     "oelo": 1600,
                     "ochange": -15,
                     "time": 515830,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778591252000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "Erikfzf",
-                    "elo": 1749,
-                    "change": 1,
-                    "oelo": 1829,
-                    "ochange": -1,
-                    "time": 789612,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -219971,20 +219943,6 @@
                     "oelo": 1804,
                     "ochange": -25,
                     "time": 589243,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778591359000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1675,
-                    "change": 22,
-                    "oelo": 1683,
-                    "ochange": -22,
-                    "time": 608636,
                     "forfeited": false,
                     "decayed": false
                 }
