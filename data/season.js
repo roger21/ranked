@@ -1,5 +1,5 @@
 {
-    "date": 1782907201000,
+    "date": 1782907801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -40289,20 +40289,6 @@
                     "oelo": 1630,
                     "ochange": -14,
                     "time": 597203,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778587587000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "darvy__",
-                    "elo": 1800,
-                    "change": 20,
-                    "oelo": 1769,
-                    "ochange": -20,
-                    "time": 679751,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -125972,20 +125958,6 @@
                     "oelo": 1640,
                     "ochange": -16,
                     "time": 692412,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778587587000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Erikfzf",
-                    "elo": 1769,
-                    "change": -20,
-                    "oelo": 1800,
-                    "ochange": 20,
-                    "time": 679751,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -220223,20 +220195,6 @@
                     "oelo": 1586,
                     "ochange": -21,
                     "time": 590565,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778587592000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ItsNamii",
-                    "elo": 1592,
-                    "change": 16,
-                    "oelo": 1457,
-                    "ochange": -16,
-                    "time": 608478,
                     "forfeited": false,
                     "decayed": false
                 }
