@@ -1,5 +1,5 @@
 {
-    "date": 1782907801000,
+    "date": 1782908401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -125946,20 +125946,6 @@
                     "time": 864595,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778588363000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Wayyyyyy_",
-                    "elo": 1785,
-                    "change": 16,
-                    "oelo": 1640,
-                    "ochange": -16,
-                    "time": 692412,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -159990,20 +159976,6 @@
                     "oelo": 1814,
                     "ochange": 14,
                     "time": 597203,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778588098000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Vintex0",
-                    "elo": 1644,
-                    "change": -21,
-                    "oelo": 1649,
-                    "ochange": 21,
-                    "time": 551902,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -220181,20 +220153,6 @@
                     "oelo": 1578,
                     "ochange": -19,
                     "time": 624984,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778588244000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "TUNGTUNGSAHUR67",
-                    "elo": 1613,
-                    "change": 21,
-                    "oelo": 1586,
-                    "ochange": -21,
-                    "time": 590565,
                     "forfeited": false,
                     "decayed": false
                 }
