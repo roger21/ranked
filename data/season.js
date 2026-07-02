@@ -1,12 +1,12 @@
 {
-    "date": 1782979201000,
+    "date": 1782979801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2504,
+                "elo": 2499,
                 "top": 2538,
                 "points": 110,
                 "pb": 353371,
@@ -22,6 +22,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1782979524000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2499,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782893123000,
                     "type": null,
@@ -106509,20 +106523,6 @@
                     "oelo": 1678,
                     "ochange": 25,
                     "time": 647131,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778659436000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 1785,
-                    "change": 14,
-                    "oelo": 1595,
-                    "ochange": -14,
-                    "time": 560771,
                     "forfeited": false,
                     "decayed": false
                 }
