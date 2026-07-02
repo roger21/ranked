@@ -1,5 +1,5 @@
 {
-    "date": 1783008001000,
+    "date": 1783008601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37849,20 +37849,6 @@
                     "oelo": 1853,
                     "ochange": 22,
                     "time": 750703,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778688219000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1875,
-                    "change": 18,
-                    "oelo": 1791,
-                    "ochange": -18,
-                    "time": 612011,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79875,20 +79861,6 @@
                     "time": 750703,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778688265000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "darvy__",
-                    "elo": 1831,
-                    "change": -19,
-                    "oelo": 1899,
-                    "ochange": 19,
-                    "time": 744730,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -94605,7 +94577,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 2146,
                 "top": 2146,
                 "points": 30,
@@ -95860,7 +95832,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 2144,
                 "top": 2144,
                 "points": 20,
@@ -100545,23 +100517,37 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "darvy__",
             "stats": {
-                "rank": 25,
-                "elo": 2141,
+                "rank": 22,
+                "elo": 2158,
                 "top": 2202,
                 "points": 28,
                 "pb": 395829,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 590,
-                "playtime": 332943734,
-                "finished": 270,
-                "finishtime": 158593225,
-                "won": 307,
+                "matches": 591,
+                "playtime": 333463165,
+                "finished": 271,
+                "finishtime": 159112656,
+                "won": 308,
                 "lost": 256,
                 "forfeited": 21
             },
             "country": "je",
             "matches": [
+                {
+                    "date": 1783008634000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "wagasylvie",
+                    "elo": 2158,
+                    "change": 17,
+                    "oelo": 2027,
+                    "ochange": -17,
+                    "time": 519431,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783007297000,
                     "type": "RUINED_PORTAL",
@@ -105796,20 +105782,6 @@
                     "ochange": -14,
                     "time": 292022,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778688265000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1899,
-                    "change": 19,
-                    "oelo": 1831,
-                    "ochange": -19,
-                    "time": 744730,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -173188,20 +173160,6 @@
                     "time": 563321,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778688154000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1766,
-                    "change": 0,
-                    "oelo": 1774,
-                    "ochange": 0,
-                    "time": 317968,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -176648,23 +176606,37 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 42,
-                "elo": 2044,
+                "rank": 46,
+                "elo": 2027,
                 "top": 2234,
                 "points": 7,
                 "pb": 418825,
                 "current": 0,
                 "streak": 9,
-                "matches": 490,
-                "playtime": 265335671,
+                "matches": 491,
+                "playtime": 265855102,
                 "finished": 225,
                 "finishtime": 129603596,
                 "won": 260,
-                "lost": 209,
+                "lost": 210,
                 "forfeited": 81
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1783008634000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "darvy__",
+                    "elo": 2027,
+                    "change": -17,
+                    "oelo": 2158,
+                    "ochange": 17,
+                    "time": 519431,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783007878000,
                     "type": "DESERT_TEMPLE",
@@ -182943,7 +182915,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2033,
                 "top": 2075,
                 "points": 6,
@@ -184478,7 +184450,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2032,
                 "top": 2230,
                 "points": 14,
@@ -199439,7 +199411,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2029,
                 "top": 2090,
                 "points": 23,
@@ -203536,7 +203508,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2028,
                 "top": 2207,
                 "points": 31,
