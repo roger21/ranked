@@ -1,5 +1,5 @@
 {
-    "date": 1782999601000,
+    "date": 1783000201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64033,20 +64033,6 @@
                     "time": 723506,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778679982000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "tommorerow",
-                    "elo": 1814,
-                    "change": 15,
-                    "oelo": 1651,
-                    "ochange": -15,
-                    "time": 361917,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -74031,20 +74017,6 @@
                     "oelo": 1973,
                     "ochange": 20,
                     "time": 549146,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778680157000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 1942,
-                    "change": 21,
-                    "oelo": 1941,
-                    "ochange": -21,
-                    "time": 546302,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -106035,20 +106007,6 @@
                     "time": 483994,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778679770000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "lenged",
-                    "elo": 1713,
-                    "change": 17,
-                    "oelo": 1582,
-                    "ochange": -17,
-                    "time": 417194,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -116644,20 +116602,6 @@
                     "oelo": 1834,
                     "ochange": -17,
                     "time": 615548,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778680157000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 1941,
-                    "change": -21,
-                    "oelo": 1942,
-                    "ochange": 21,
-                    "time": 546302,
                     "forfeited": false,
                     "decayed": false
                 }
