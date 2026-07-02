@@ -1,5 +1,5 @@
 {
-    "date": 1783000801000,
+    "date": 1783001402000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -116560,20 +116560,6 @@
                     "oelo": 1871,
                     "ochange": -17,
                     "time": 529593,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778680831000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1958,
-                    "change": 17,
-                    "oelo": 1834,
-                    "ochange": -17,
-                    "time": 615548,
                     "forfeited": false,
                     "decayed": false
                 }
