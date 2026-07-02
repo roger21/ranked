@@ -1,5 +1,5 @@
 {
-    "date": 1783000201000,
+    "date": 1783000801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -38005,20 +38005,6 @@
                     "time": 529593,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778680774000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Erikfzf",
-                    "elo": 1888,
-                    "change": -23,
-                    "oelo": 1837,
-                    "ochange": 23,
-                    "time": 723506,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -64017,20 +64003,6 @@
                     "oelo": 1882,
                     "ochange": -22,
                     "time": 551644,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778680774000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1837,
-                    "change": 23,
-                    "oelo": 1888,
-                    "ochange": -23,
-                    "time": 723506,
                     "forfeited": false,
                     "decayed": false
                 }
