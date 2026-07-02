@@ -1,5 +1,5 @@
 {
-    "date": 1782981601000,
+    "date": 1782982201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -47634,20 +47634,6 @@
                     "oelo": 1745,
                     "ochange": -12,
                     "time": 388368,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778661770000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ogurikappa",
-                    "elo": 1979,
-                    "change": 12,
-                    "oelo": 1722,
-                    "ochange": -12,
-                    "time": 250087,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -106453,34 +106439,6 @@
                     "oelo": 1697,
                     "ochange": 21,
                     "time": 410868,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778662189000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1698,
-                    "change": -24,
-                    "oelo": 1629,
-                    "ochange": 24,
-                    "time": 332140,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778661770000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1722,
-                    "change": -12,
-                    "oelo": 1979,
-                    "ochange": 12,
-                    "time": 250087,
                     "forfeited": true,
                     "decayed": false
                 }
