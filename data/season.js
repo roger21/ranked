@@ -1,5 +1,5 @@
 {
-    "date": 1782985202000,
+    "date": 1782985801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -112538,20 +112538,6 @@
                     "oelo": 1757,
                     "ochange": -23,
                     "time": 550186,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778665755000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1711,
-                    "change": 15,
-                    "oelo": 1544,
-                    "ochange": -15,
-                    "time": 532237,
                     "forfeited": false,
                     "decayed": false
                 }
