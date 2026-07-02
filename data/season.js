@@ -1,5 +1,5 @@
 {
-    "date": 1782985801000,
+    "date": 1782986401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -86858,23 +86858,37 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 24,
-                "elo": 2145,
+                "rank": 31,
+                "elo": 2117,
                 "top": 2234,
                 "points": 7,
                 "pb": 418825,
-                "current": 8,
+                "current": 0,
                 "streak": 9,
-                "matches": 479,
-                "playtime": 259407060,
+                "matches": 480,
+                "playtime": 260091284,
                 "finished": 221,
                 "finishtime": 127391937,
                 "won": 256,
-                "lost": 202,
+                "lost": 203,
                 "forfeited": 78
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1782986417000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Mixray_",
+                    "elo": 2117,
+                    "change": -28,
+                    "oelo": 1930,
+                    "ochange": 28,
+                    "time": 684224,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782984323000,
                     "type": "BURIED_TREASURE",
@@ -92999,7 +93013,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2144,
                 "top": 2144,
                 "points": 20,
@@ -97684,7 +97698,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2141,
                 "top": 2216,
                 "points": 15,
@@ -112547,7 +112561,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2133,
                 "top": 2133,
                 "points": 24,
@@ -116462,7 +116476,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2127,
                 "top": 2127,
                 "points": 21,
@@ -119131,7 +119145,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2125,
                 "top": 2259,
                 "points": 0,
@@ -123186,7 +123200,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 2122,
                 "top": 2236,
                 "points": 41,
@@ -125029,7 +125043,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2119,
                 "top": 2216,
                 "points": 29,
