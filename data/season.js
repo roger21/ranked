@@ -1,5 +1,5 @@
 {
-    "date": 1782997801000,
+    "date": 1782998401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -74089,20 +74089,6 @@
                     "time": 608163,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778678023000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1921,
-                    "change": -25,
-                    "oelo": 1843,
-                    "ochange": 25,
-                    "time": 768927,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106118,20 +106104,6 @@
                     "ochange": 23,
                     "time": 736569,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778677926000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "confusedcapy",
-                    "elo": 1719,
-                    "change": -1,
-                    "oelo": 1611,
-                    "ochange": 1,
-                    "time": 488865,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
