@@ -1,5 +1,5 @@
 {
-    "date": 1782997201000,
+    "date": 1782997801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -106133,20 +106133,6 @@
                     "time": 488865,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778677364000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "wagasuner",
-                    "elo": 1720,
-                    "change": 22,
-                    "oelo": 1733,
-                    "ochange": -22,
-                    "time": 554975,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -122145,20 +122131,6 @@
                     "oelo": 1767,
                     "ochange": -20,
                     "time": 421372,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778677774000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "gothy666",
-                    "elo": 1780,
-                    "change": 14,
-                    "oelo": 1576,
-                    "ochange": -14,
-                    "time": 682023,
                     "forfeited": false,
                     "decayed": false
                 }
