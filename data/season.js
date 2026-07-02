@@ -1,5 +1,5 @@
 {
-    "date": 1782958801000,
+    "date": 1782959401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -69514,20 +69514,6 @@
                     "oelo": 2164,
                     "ochange": 17,
                     "time": 543056,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778639004000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 2078,
-                    "change": 11,
-                    "oelo": 1799,
-                    "ochange": -11,
-                    "time": 660148,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -187054,23 +187040,37 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 44,
-                "elo": 2031,
+                "rank": 37,
+                "elo": 2052,
                 "top": 2230,
                 "points": 36,
                 "pb": 400470,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 609,
-                "playtime": 339392097,
-                "finished": 289,
-                "finishtime": 170977772,
-                "won": 321,
+                "matches": 610,
+                "playtime": 340016077,
+                "finished": 290,
+                "finishtime": 171601752,
+                "won": 322,
                 "lost": 274,
                 "forfeited": 36
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782959472000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "BadGamer",
+                    "elo": 2052,
+                    "change": 21,
+                    "oelo": 2050,
+                    "ochange": -21,
+                    "time": 623980,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782958791000,
                     "type": "VILLAGE",
