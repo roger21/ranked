@@ -1,5 +1,5 @@
 {
-    "date": 1782990001000,
+    "date": 1782990601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -154516,7 +154516,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2074,
                 "top": 2086,
                 "points": 7,
@@ -157227,7 +157227,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2068,
                 "top": 2195,
                 "points": 16,
@@ -163998,23 +163998,37 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 38,
-                "elo": 2064,
+                "rank": 35,
+                "elo": 2080,
                 "top": 2140,
                 "points": 0,
                 "pb": 393428,
-                "current": 2,
+                "current": 3,
                 "streak": 6,
-                "matches": 483,
-                "playtime": 271580523,
-                "finished": 227,
-                "finishtime": 129900401,
-                "won": 254,
+                "matches": 484,
+                "playtime": 272221016,
+                "finished": 228,
+                "finishtime": 130540894,
+                "won": 255,
                 "lost": 216,
                 "forfeited": 32
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1782990604000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Mixray_",
+                    "elo": 2080,
+                    "change": 16,
+                    "oelo": 1924,
+                    "ochange": -16,
+                    "time": 640493,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782989886000,
                     "type": "SHIPWRECK",
