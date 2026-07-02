@@ -587,13 +587,13 @@
         },
         "pb": 423408,
         "streak": 10,
-        "matches": 5484,
-        "playtime": 3659967685,
+        "matches": 5485,
+        "playtime": 3660232602,
         "finished": 1695,
         "finishtime": 1291200554,
         "won": 2685,
-        "lost": 2436,
-        "forfeited": 824
+        "lost": 2437,
+        "forfeited": 825
     },
     "132807fea3a54a02b6b1ad057430b002": {
         "nickname": "slowunc",
@@ -5145,12 +5145,12 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 7560,
-        "playtime": 3963226797,
+        "matches": 7561,
+        "playtime": 3963904995,
         "finished": 2196,
         "finishtime": 1441335765,
         "won": 3626,
-        "lost": 3505,
+        "lost": 3506,
         "forfeited": 2594
     },
     "be4ad7e999e14a74974d47ac650062a3": {
