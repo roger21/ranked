@@ -1,5 +1,5 @@
 {
-    "date": 1782993601000,
+    "date": 1782994201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -47592,20 +47592,6 @@
                     "oelo": 1909,
                     "ochange": 25,
                     "time": 525954,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778673954000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TUDORULE",
-                    "elo": 2014,
-                    "change": 18,
-                    "oelo": 1925,
-                    "ochange": -18,
-                    "time": 610720,
                     "forfeited": false,
                     "decayed": false
                 }
