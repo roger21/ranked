@@ -1,5 +1,5 @@
 {
-    "date": 1782961801000,
+    "date": 1782962401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -61078,22 +61078,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 17,
-                "elo": 2195,
+                "elo": 2209,
                 "top": 2345,
                 "points": 69,
                 "pb": 401695,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 412,
-                "playtime": 220626338,
-                "finished": 244,
-                "finishtime": 133502246,
-                "won": 273,
+                "matches": 413,
+                "playtime": 221214414,
+                "finished": 245,
+                "finishtime": 134090322,
+                "won": 274,
                 "lost": 135,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1782962419000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "BadGamer",
+                    "elo": 2209,
+                    "change": 14,
+                    "oelo": 2009,
+                    "ochange": -14,
+                    "time": 588076,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782961587000,
                     "type": "SHIPWRECK",
@@ -64269,20 +64283,6 @@
                     "oelo": 1849,
                     "ochange": 29,
                     "time": 671767,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778642213000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pavkin",
-                    "elo": 2074,
-                    "change": 13,
-                    "oelo": 1858,
-                    "ochange": -13,
-                    "time": 530966,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -76758,20 +76758,6 @@
                     "time": 212737,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778642213000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1858,
-                    "change": -13,
-                    "oelo": 2074,
-                    "ochange": 13,
-                    "time": 530966,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87143,20 +87129,6 @@
                     "oelo": 1598,
                     "ochange": -17,
                     "time": 589874,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778642052000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "educatedmonkey",
-                    "elo": 1684,
-                    "change": 17,
-                    "oelo": 1557,
-                    "ochange": -17,
-                    "time": 740524,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204987,23 +204959,37 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 47,
-                "elo": 2023,
+                "rank": 64,
+                "elo": 2009,
                 "top": 2236,
                 "points": 41,
                 "pb": 432473,
                 "current": 0,
                 "streak": 9,
-                "matches": 180,
-                "playtime": 95771993,
+                "matches": 181,
+                "playtime": 96360069,
                 "finished": 103,
                 "finishtime": 59317129,
                 "won": 110,
-                "lost": 68,
+                "lost": 69,
                 "forfeited": 23
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1782962419000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2009,
+                    "change": -14,
+                    "oelo": 2209,
+                    "ochange": 14,
+                    "time": 588076,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782961749000,
                     "type": "VILLAGE",
@@ -206676,7 +206662,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2023,
                 "top": 2023,
                 "points": 8,
