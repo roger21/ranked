@@ -1,5 +1,5 @@
 {
-    "date": 1783099201000,
+    "date": 1783099801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -180214,20 +180214,6 @@
                     "time": 486731,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778779231000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1652,
-                    "change": -19,
-                    "oelo": 1712,
-                    "ochange": 19,
-                    "time": 789824,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -196480,20 +196466,6 @@
                     "ochange": -20,
                     "time": 577740,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778779478000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "litdab",
-                    "elo": 1515,
-                    "change": -22,
-                    "oelo": 1506,
-                    "ochange": 22,
-                    "time": 595923,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
