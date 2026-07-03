@@ -1,5 +1,5 @@
 {
-    "date": 1783117801000,
+    "date": 1783118401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9524,20 +9524,6 @@
                     "oelo": 2037,
                     "ochange": -1,
                     "time": 708317,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778797819000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1970,
-                    "change": 12,
-                    "oelo": 1698,
-                    "ochange": -12,
-                    "time": 474755,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -25716,20 +25702,6 @@
                     "oelo": 2040,
                     "ochange": -16,
                     "time": 485849,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778797983000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "okshey",
-                    "elo": 2172,
-                    "change": 16,
-                    "oelo": 2038,
-                    "ochange": -16,
-                    "time": 583712,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -66823,20 +66795,6 @@
                     "time": 708317,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778797983000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 2038,
-                    "change": -16,
-                    "oelo": 2172,
-                    "ochange": 16,
-                    "time": 583712,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77470,22 +77428,36 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 23,
-                "elo": 2148,
+                "elo": 2160,
                 "top": 2230,
                 "points": 36,
                 "pb": 400470,
-                "current": 10,
-                "streak": 10,
-                "matches": 626,
-                "playtime": 349100234,
-                "finished": 300,
-                "finishtime": 177165561,
-                "won": 333,
+                "current": 11,
+                "streak": 11,
+                "matches": 627,
+                "playtime": 349663951,
+                "finished": 301,
+                "finishtime": 177729278,
+                "won": 334,
                 "lost": 279,
                 "forfeited": 36
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783118201000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Voxio",
+                    "elo": 2160,
+                    "change": 12,
+                    "oelo": 1902,
+                    "ochange": -12,
+                    "time": 563717,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783116690000,
                     "type": "DESERT_TEMPLE",
@@ -143378,20 +143350,6 @@
                     "time": 210078,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778798283000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "xzeroxy_",
-                    "elo": 1819,
-                    "change": 15,
-                    "oelo": 1654,
-                    "ochange": -15,
-                    "time": 749011,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -161328,20 +161286,6 @@
                     "oelo": 1712,
                     "ochange": -21,
                     "time": 716355,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778797811000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "benemies",
-                    "elo": 1706,
-                    "change": -22,
-                    "oelo": 1705,
-                    "ochange": 22,
-                    "time": 697801,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204077,20 +204021,6 @@
                     "ochange": 22,
                     "time": 239038,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778798232000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ContraVz",
-                    "elo": 1703,
-                    "change": 20,
-                    "oelo": 1658,
-                    "ochange": -20,
-                    "time": 635427,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
