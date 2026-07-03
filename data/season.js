@@ -1,5 +1,5 @@
 {
-    "date": 1783043401000,
+    "date": 1783044001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -97824,22 +97824,36 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 29,
-                "elo": 2116,
+                "elo": 2101,
                 "top": 2344,
                 "points": 82,
                 "pb": 423216,
                 "current": 0,
                 "streak": 9,
-                "matches": 692,
-                "playtime": 398942555,
+                "matches": 693,
+                "playtime": 399560454,
                 "finished": 329,
                 "finishtime": 198497347,
                 "won": 380,
-                "lost": 301,
+                "lost": 302,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1783044027000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2101,
+                    "change": -15,
+                    "oelo": 2257,
+                    "ochange": 15,
+                    "time": 617899,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783043160000,
                     "type": "BURIED_TREASURE",
