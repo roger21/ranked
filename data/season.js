@@ -1,5 +1,5 @@
 {
-    "date": 1783063801000,
+    "date": 1783064401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -144056,7 +144056,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "a9123853453",
+                    "opponent": "neverplayingtsag",
                     "elo": 1700,
                     "change": 16,
                     "oelo": 1550,
