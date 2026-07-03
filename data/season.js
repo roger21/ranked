@@ -1,5 +1,5 @@
 {
-    "date": 1783044601000,
+    "date": 1783045201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -38961,20 +38961,6 @@
                     "time": 450855,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778725110000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "lowk3y_",
-                    "elo": 2095,
-                    "change": 19,
-                    "oelo": 2019,
-                    "ochange": -19,
-                    "time": 506791,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46980,20 +46966,6 @@
                     "oelo": 1844,
                     "ochange": -14,
                     "time": 613398,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778725110000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 2019,
-                    "change": -19,
-                    "oelo": 2095,
-                    "ochange": 19,
-                    "time": 506791,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -123924,8 +123896,8 @@
                 "pb": 404827,
                 "current": 0,
                 "streak": 9,
-                "matches": 793,
-                "playtime": 453894732,
+                "matches": 794,
+                "playtime": 454603958,
                 "finished": 346,
                 "finishtime": 213681835,
                 "won": 402,
@@ -123934,6 +123906,20 @@
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1783044756000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "zorn89",
+                    "elo": 2059,
+                    "change": 0,
+                    "oelo": 2050,
+                    "ochange": 0,
+                    "time": 709226,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783043340000,
                     "type": "VILLAGE",
@@ -155105,8 +155091,8 @@
                 "pb": 345484,
                 "current": 1,
                 "streak": 9,
-                "matches": 1061,
-                "playtime": 614453088,
+                "matches": 1062,
+                "playtime": 615162314,
                 "finished": 408,
                 "finishtime": 257843630,
                 "won": 522,
@@ -155115,6 +155101,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783044756000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "Lexanh",
+                    "elo": 2050,
+                    "change": 0,
+                    "oelo": 2059,
+                    "ochange": 0,
+                    "time": 709226,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783042512000,
                     "type": "RUINED_PORTAL",
