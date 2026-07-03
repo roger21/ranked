@@ -1,5 +1,5 @@
 {
-    "date": 1783088401000,
+    "date": 1783089001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54593,20 +54593,6 @@
                     "time": 535286,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778768563000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1770,
-                    "change": 17,
-                    "oelo": 1663,
-                    "ochange": -17,
-                    "time": 619515,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -62122,20 +62108,6 @@
                     "oelo": 1900,
                     "ochange": -18,
                     "time": 478717,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778768877000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1963,
-                    "change": 23,
-                    "oelo": 1989,
-                    "ochange": -23,
-                    "time": 496319,
                     "forfeited": false,
                     "decayed": false
                 }
