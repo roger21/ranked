@@ -1,5 +1,5 @@
 {
-    "date": 1783097401000,
+    "date": 1783098001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32377,20 +32377,6 @@
                     "time": 594801,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778777913000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1844,
-                    "change": -20,
-                    "oelo": 1875,
-                    "ochange": 20,
-                    "time": 610348,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -54271,20 +54257,6 @@
                     "time": 604084,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778777913000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1875,
-                    "change": 20,
-                    "oelo": 1844,
-                    "ochange": -20,
-                    "time": 610348,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -61660,20 +61632,6 @@
                     "oelo": 1785,
                     "ochange": -13,
                     "time": 522121,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778777770000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2004,
-                    "change": 18,
-                    "oelo": 1908,
-                    "ochange": -18,
-                    "time": 479341,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -80302,20 +80260,6 @@
                     "oelo": 1801,
                     "ochange": 25,
                     "time": 626021,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778777770000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1908,
-                    "change": -18,
-                    "oelo": 2004,
-                    "ochange": 18,
-                    "time": 479341,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180382,20 +180326,6 @@
                     "time": 906640,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778777402000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 1652,
-                    "change": -20,
-                    "oelo": 1702,
-                    "ochange": 20,
-                    "time": 699569,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -212141,20 +212071,6 @@
                     "ochange": -20,
                     "time": 471016,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778777576000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Lathilla",
-                    "elo": 1537,
-                    "change": 21,
-                    "oelo": 1512,
-                    "ochange": -21,
-                    "time": 518595,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
