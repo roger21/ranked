@@ -1,5 +1,5 @@
 {
-    "date": 1783082401000,
+    "date": 1783083001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81171,20 +81171,6 @@
                     "ochange": 1,
                     "time": 603038,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778762432000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1890,
-                    "change": -18,
-                    "oelo": 1993,
-                    "ochange": 18,
-                    "time": 772643,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -207282,20 +207268,6 @@
                     "oelo": 1506,
                     "ochange": 20,
                     "time": 210115,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778762747000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Svoen",
-                    "elo": 1487,
-                    "change": 18,
-                    "oelo": 1399,
-                    "ochange": -18,
-                    "time": 354094,
                     "forfeited": true,
                     "decayed": false
                 }
