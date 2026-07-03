@@ -1,5 +1,5 @@
 {
-    "date": 1783077001000,
+    "date": 1783077601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32571,20 +32571,6 @@
                     "oelo": 1851,
                     "ochange": -20,
                     "time": 456238,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778757501000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1880,
-                    "change": -23,
-                    "oelo": 1830,
-                    "ochange": 23,
-                    "time": 550341,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81298,20 +81284,6 @@
                     "time": 633618,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778757127000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1854,
-                    "change": -21,
-                    "oelo": 1871,
-                    "ochange": 21,
-                    "time": 545528,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92854,20 +92826,6 @@
                     "oelo": 1900,
                     "ochange": 20,
                     "time": 456238,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778757127000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1871,
-                    "change": 21,
-                    "oelo": 1854,
-                    "ochange": -21,
-                    "time": 545528,
                     "forfeited": false,
                     "decayed": false
                 }
