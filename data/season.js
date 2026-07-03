@@ -1,5 +1,5 @@
 {
-    "date": 1783098601000,
+    "date": 1783099201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -11479,20 +11479,6 @@
                     "oelo": 1833,
                     "ochange": 28,
                     "time": 548927,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778779009000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 2044,
-                    "change": 13,
-                    "oelo": 1812,
-                    "ochange": -13,
-                    "time": 621646,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -32347,20 +32333,6 @@
                     "oelo": 1878,
                     "ochange": -21,
                     "time": 559160,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778778834000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "wotez",
-                    "elo": 1858,
-                    "change": 14,
-                    "oelo": 1659,
-                    "ochange": -14,
-                    "time": 594801,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -61591,20 +61563,6 @@
                     "ochange": -16,
                     "time": 604084,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778778842000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1999,
-                    "change": -18,
-                    "oelo": 2080,
-                    "ochange": 18,
-                    "time": 305356,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -196535,20 +196493,6 @@
                     "oelo": 1506,
                     "ochange": 22,
                     "time": 595923,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778778798000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "WhyIP",
-                    "elo": 1537,
-                    "change": -20,
-                    "oelo": 1586,
-                    "ochange": 20,
-                    "time": 281410,
                     "forfeited": true,
                     "decayed": false
                 }
