@@ -1,5 +1,5 @@
 {
-    "date": 1783102201000,
+    "date": 1783102801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -22016,20 +22016,6 @@
                     "oelo": 1858,
                     "ochange": 22,
                     "time": 487945,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778782423000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1881,
-                    "change": 28,
-                    "oelo": 2051,
-                    "ochange": -28,
-                    "time": 580389,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -54131,20 +54117,6 @@
                     "time": 549045,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778782527000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1861,
-                    "change": -20,
-                    "oelo": 1909,
-                    "ochange": 20,
-                    "time": 492231,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66723,20 +66695,6 @@
                     "oelo": 2020,
                     "ochange": 15,
                     "time": 513112,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778782268000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "wotez",
-                    "elo": 1864,
-                    "change": -27,
-                    "oelo": 1728,
-                    "ochange": 27,
-                    "time": 619910,
                     "forfeited": false,
                     "decayed": false
                 }
