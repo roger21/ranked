@@ -1,5 +1,5 @@
 {
-    "date": 1783084801000,
+    "date": 1783085401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54677,20 +54677,6 @@
                     "time": 425293,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778765086000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 1769,
-                    "change": 21,
-                    "oelo": 1754,
-                    "ochange": -21,
-                    "time": 571330,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -62277,20 +62263,6 @@
                     "ochange": 27,
                     "time": 425293,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778765097000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1956,
-                    "change": 23,
-                    "oelo": 2003,
-                    "ochange": -23,
-                    "time": 497563,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -135856,20 +135828,6 @@
                     "time": 564081,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778765077000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ogurikappa",
-                    "elo": 1748,
-                    "change": 19,
-                    "oelo": 1681,
-                    "ochange": -19,
-                    "time": 218924,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -207157,20 +207115,6 @@
                     "ochange": -24,
                     "time": 751129,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778765313000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "iCac2s",
-                    "elo": 1527,
-                    "change": 21,
-                    "oelo": 1511,
-                    "ochange": -21,
-                    "time": 578968,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
