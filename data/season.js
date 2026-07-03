@@ -1,5 +1,5 @@
 {
-    "date": 1783077601000,
+    "date": 1783078201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32557,20 +32557,6 @@
                     "oelo": 1828,
                     "ochange": -18,
                     "time": 791642,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778758004000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "amariyy",
-                    "elo": 1900,
-                    "change": 20,
-                    "oelo": 1851,
-                    "ochange": -20,
-                    "time": 456238,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81270,20 +81256,6 @@
                     "time": 735183,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778757960000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1870,
-                    "change": 16,
-                    "oelo": 1723,
-                    "ochange": -16,
-                    "time": 633618,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92812,20 +92784,6 @@
                     "oelo": 1889,
                     "ochange": 19,
                     "time": 735183,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778758004000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1851,
-                    "change": -20,
-                    "oelo": 1900,
-                    "ochange": 20,
-                    "time": 456238,
                     "forfeited": false,
                     "decayed": false
                 }
