@@ -1,5 +1,5 @@
 {
-    "date": 1783052401000,
+    "date": 1783053001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -156572,20 +156572,6 @@
                     "oelo": 1529,
                     "ochange": -20,
                     "time": 607505,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778732617000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "GradientGray",
-                    "elo": 1538,
-                    "change": -20,
-                    "oelo": 1579,
-                    "ochange": 20,
-                    "time": 570850,
                     "forfeited": false,
                     "decayed": false
                 }
