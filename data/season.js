@@ -1,12 +1,12 @@
 {
-    "date": 1783065601000,
+    "date": 1783066201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2499,
+                "elo": 2494,
                 "top": 2538,
                 "points": 110,
                 "pb": 353371,
@@ -22,6 +22,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1783065927000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2494,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782979524000,
                     "type": null,
@@ -109900,22 +109914,36 @@
             "nickname": "JustAltoid",
             "stats": {
                 "rank": 33,
-                "elo": 2081,
+                "elo": 2097,
                 "top": 2158,
                 "points": 6,
                 "pb": 408164,
-                "current": 8,
+                "current": 9,
                 "streak": 9,
-                "matches": 768,
-                "playtime": 466994012,
-                "finished": 357,
-                "finishtime": 222974584,
-                "won": 403,
+                "matches": 769,
+                "playtime": 467558722,
+                "finished": 358,
+                "finishtime": 223539294,
+                "won": 404,
                 "lost": 341,
                 "forfeited": 16
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783065696000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "takachaaaaaaan",
+                    "elo": 2097,
+                    "change": 16,
+                    "oelo": 1948,
+                    "ochange": -16,
+                    "time": 564710,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783065057000,
                     "type": "BURIED_TREASURE",
