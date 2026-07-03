@@ -1,5 +1,5 @@
 {
-    "date": 1783079401000,
+    "date": 1783080001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -23883,7 +23883,7 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 8,
-                "elo": 2273,
+                "elo": 2268,
                 "top": 2301,
                 "points": 90,
                 "pb": 368221,
@@ -23899,6 +23899,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783079607000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2268,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782993205000,
                     "type": null,
@@ -32529,20 +32543,6 @@
                     "oelo": 2042,
                     "ochange": 15,
                     "time": 644925,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778759674000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1897,
-                    "change": -21,
-                    "oelo": 1910,
-                    "ochange": 21,
-                    "time": 644515,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81213,20 +81213,6 @@
                     "ochange": -23,
                     "time": 388337,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778759674000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1910,
-                    "change": 21,
-                    "oelo": 1897,
-                    "ochange": -21,
-                    "time": 644515,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
