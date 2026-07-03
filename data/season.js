@@ -1,5 +1,5 @@
 {
-    "date": 1783051801000,
+    "date": 1783052401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45137,20 +45137,6 @@
                     "oelo": 1780,
                     "ochange": -10,
                     "time": 589110,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778732288000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "RRed",
-                    "elo": 2105,
-                    "change": 10,
-                    "oelo": 1789,
-                    "ochange": -10,
-                    "time": 606462,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -156600,20 +156586,6 @@
                     "oelo": 1579,
                     "ochange": 20,
                     "time": 570850,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778731869000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "PandaPuffer",
-                    "elo": 1558,
-                    "change": -22,
-                    "oelo": 1556,
-                    "ochange": 22,
-                    "time": 467854,
                     "forfeited": false,
                     "decayed": false
                 }
