@@ -1,5 +1,5 @@
 {
-    "date": 1783092001000,
+    "date": 1783092601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54509,20 +54509,6 @@
                     "time": 1101036,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778772482000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1728,
-                    "change": -14,
-                    "oelo": 1933,
-                    "ochange": 14,
-                    "time": 560690,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -62011,20 +61997,6 @@
                     "ochange": 21,
                     "time": 459984,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778772092000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1962,
-                    "change": -19,
-                    "oelo": 2017,
-                    "ochange": 19,
-                    "time": 285036,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -80764,20 +80736,6 @@
                     "oelo": 1941,
                     "ochange": -21,
                     "time": 459984,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778772482000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1933,
-                    "change": 14,
-                    "oelo": 1728,
-                    "ochange": -14,
-                    "time": 560690,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180914,20 +180872,6 @@
                     "time": 1101036,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778772490000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1734,
-                    "change": -19,
-                    "oelo": 1808,
-                    "ochange": 19,
-                    "time": 738769,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -206569,20 +206513,6 @@
                     "ochange": -24,
                     "time": 562092,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778772163000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1611,
-                    "change": 20,
-                    "oelo": 1566,
-                    "ochange": -20,
-                    "time": 217502,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
