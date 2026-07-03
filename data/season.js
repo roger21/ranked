@@ -1,5 +1,5 @@
 {
-    "date": 1783053001000,
+    "date": 1783053601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45124,20 +45124,6 @@
                     "ochange": -17,
                     "time": 534838,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778733222000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2115,
-                    "change": 10,
-                    "oelo": 1780,
-                    "ochange": -10,
-                    "time": 589110,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
