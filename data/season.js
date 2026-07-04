@@ -1,5 +1,5 @@
 {
-    "date": 1783168201000,
+    "date": 1783168801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56317,20 +56317,6 @@
                     "oelo": 1949,
                     "ochange": -26,
                     "time": 516165,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778848526000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "wotez",
-                    "elo": 1793,
-                    "change": 19,
-                    "oelo": 1731,
-                    "ochange": -19,
-                    "time": 457127,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -127121,8 +127107,8 @@
                 "pb": 408164,
                 "current": 0,
                 "streak": 9,
-                "matches": 777,
-                "playtime": 472110860,
+                "matches": 778,
+                "playtime": 472734403,
                 "finished": 362,
                 "finishtime": 225782239,
                 "won": 409,
@@ -127131,6 +127117,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783168384000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "VojtaH007",
+                    "elo": 2093,
+                    "change": 0,
+                    "oelo": 2056,
+                    "ochange": 0,
+                    "time": 623543,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783167703000,
                     "type": "VILLAGE",
@@ -179128,8 +179128,8 @@
                 "pb": 463504,
                 "current": 6,
                 "streak": 11,
-                "matches": 704,
-                "playtime": 458891273,
+                "matches": 705,
+                "playtime": 459514816,
                 "finished": 285,
                 "finishtime": 193809919,
                 "won": 352,
@@ -179138,6 +179138,20 @@
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1783168384000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "JustAltoid",
+                    "elo": 2056,
+                    "change": 0,
+                    "oelo": 2093,
+                    "ochange": 0,
+                    "time": 623543,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783167558000,
                     "type": "SHIPWRECK",
@@ -186458,20 +186472,6 @@
                     "ochange": -18,
                     "time": 320873,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778848320000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "AirKobe824",
-                    "elo": 1549,
-                    "change": 24,
-                    "oelo": 1613,
-                    "ochange": -24,
-                    "time": 534411,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
