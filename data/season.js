@@ -1,5 +1,5 @@
 {
-    "date": 1783161001000,
+    "date": 1783161601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2259,20 +2259,6 @@
                     "oelo": 1851,
                     "ochange": -8,
                     "time": 512604,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778841254000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 2225,
-                    "change": 11,
-                    "oelo": 1926,
-                    "ochange": -11,
-                    "time": 423713,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -76538,20 +76524,6 @@
                     "time": 623213,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778841254000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1926,
-                    "change": -11,
-                    "oelo": 2225,
-                    "ochange": 11,
-                    "time": 423713,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114203,20 +114175,6 @@
                     "oelo": 1465,
                     "ochange": -19,
                     "time": 673200,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778841179000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "TUNGTUNGSAHUR67",
-                    "elo": 1522,
-                    "change": -17,
-                    "oelo": 1646,
-                    "ochange": 17,
-                    "time": 653090,
                     "forfeited": false,
                     "decayed": false
                 }
