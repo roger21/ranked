@@ -67,13 +67,13 @@
         },
         "pb": 416164,
         "streak": 12,
-        "matches": 8537,
-        "playtime": 5535552185,
+        "matches": 8538,
+        "playtime": 5535773184,
         "finished": 3069,
         "finishtime": 2252366334,
         "won": 4266,
-        "lost": 3990,
-        "forfeited": 872
+        "lost": 3991,
+        "forfeited": 873
     },
     "0478fbcaf4da4cf983e1be6d6e11678c": {
         "nickname": "_KrakerS",
@@ -2427,12 +2427,12 @@
         },
         "pb": 393529,
         "streak": 13,
-        "matches": 3874,
-        "playtime": 2267377463,
+        "matches": 3875,
+        "playtime": 2267941104,
         "finished": 1670,
         "finishtime": 1057726430,
         "won": 2059,
-        "lost": 1672,
+        "lost": 1673,
         "forfeited": 461
     },
     "5cd115f0ec1240659db152406c0984a3": {
@@ -5417,7 +5417,7 @@
             "8": 1238,
             "9": 1855,
             "10": 2277,
-            "11": 2067
+            "11": 2071
         },
         "points": {
             "8": 0,
@@ -5427,11 +5427,11 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 5017,
-        "playtime": 2889674340,
-        "finished": 1755,
-        "finishtime": 1201714721,
-        "won": 2414,
+        "matches": 5018,
+        "playtime": 2890237981,
+        "finished": 1756,
+        "finishtime": 1202278362,
+        "won": 2415,
         "lost": 2307,
         "forfeited": 1269
     },
@@ -5555,11 +5555,11 @@
         },
         "pb": 391139,
         "streak": 10,
-        "matches": 2783,
-        "playtime": 1632923285,
-        "finished": 1002,
-        "finishtime": 664452822,
-        "won": 1385,
+        "matches": 2784,
+        "playtime": 1633575207,
+        "finished": 1003,
+        "finishtime": 665104744,
+        "won": 1386,
         "lost": 1242,
         "forfeited": 451
     },
