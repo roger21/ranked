@@ -1,5 +1,5 @@
 {
-    "date": 1783146001000,
+    "date": 1783146601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -186274,7 +186274,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2039,
                 "top": 2155,
                 "points": 21,
@@ -188117,7 +188117,7 @@
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "4antoo",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2036,
                 "top": 2036,
                 "points": 6,
@@ -193502,7 +193502,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2033,
                 "top": 2075,
                 "points": 6,
@@ -194988,20 +194988,6 @@
                     "time": 585687,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778826229000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "benemies",
-                    "elo": 1781,
-                    "change": -27,
-                    "oelo": 1649,
-                    "ochange": 27,
-                    "time": 528166,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -195009,23 +194995,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 49,
-                "elo": 2029,
+                "rank": 46,
+                "elo": 2042,
                 "top": 2172,
                 "points": 8,
                 "pb": 394023,
-                "current": 0,
+                "current": 1,
                 "streak": 16,
-                "matches": 1023,
-                "playtime": 625350579,
-                "finished": 440,
-                "finishtime": 275159366,
-                "won": 513,
+                "matches": 1024,
+                "playtime": 625987131,
+                "finished": 441,
+                "finishtime": 275795918,
+                "won": 514,
                 "lost": 462,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783146659000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "ItzUser",
+                    "elo": 2042,
+                    "change": 13,
+                    "oelo": 1807,
+                    "ochange": -13,
+                    "time": 636552,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783145647000,
                     "type": "VILLAGE",
@@ -206246,7 +206246,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2029,
                 "top": 2090,
                 "points": 23,
