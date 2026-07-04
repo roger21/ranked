@@ -1,5 +1,5 @@
 {
-    "date": 1783123801000,
+    "date": 1783124401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9412,20 +9412,6 @@
                     "oelo": 2135,
                     "ochange": -26,
                     "time": 627373,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778804342000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1993,
-                    "change": -14,
-                    "oelo": 2201,
-                    "ochange": 14,
-                    "time": 564766,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28707,20 +28693,6 @@
                     "oelo": 1997,
                     "ochange": -13,
                     "time": 578803,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778804342000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2201,
-                    "change": 14,
-                    "oelo": 1993,
-                    "ochange": -14,
-                    "time": 564766,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -112172,20 +112144,6 @@
                     "oelo": 1916,
                     "ochange": 16,
                     "time": 607622,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778803831000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1785,
-                    "change": 21,
-                    "oelo": 1760,
-                    "ochange": -21,
-                    "time": 630668,
                     "forfeited": false,
                     "decayed": false
                 }
