@@ -1,5 +1,5 @@
 {
-    "date": 1783163401000,
+    "date": 1783164001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2245,20 +2245,6 @@
                     "oelo": 1913,
                     "ochange": 31,
                     "time": 485196,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778843493000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Erikfzf",
-                    "elo": 2233,
-                    "change": 8,
-                    "oelo": 1851,
-                    "ochange": -8,
-                    "time": 512604,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -56513,20 +56499,6 @@
                     "oelo": 1788,
                     "ochange": 23,
                     "time": 641127,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778843493000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1851,
-                    "change": -8,
-                    "oelo": 2233,
-                    "ochange": 8,
-                    "time": 512604,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -114106,20 +114078,6 @@
                     "ochange": 18,
                     "time": 700464,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778843601000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wagapizu",
-                    "elo": 1583,
-                    "change": 22,
-                    "oelo": 1591,
-                    "ochange": -22,
-                    "time": 210157,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
