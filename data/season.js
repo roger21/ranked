@@ -1,5 +1,5 @@
 {
-    "date": 1783138201000,
+    "date": 1783138801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -51070,20 +51070,6 @@
                     "time": 633647,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778818502000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "lowk3y_",
-                    "elo": 2261,
-                    "change": 12,
-                    "oelo": 1994,
-                    "ochange": -12,
-                    "time": 510670,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -52659,20 +52645,6 @@
                     "oelo": 1911,
                     "ochange": 24,
                     "time": 628953,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778818502000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1994,
-                    "change": -12,
-                    "oelo": 2261,
-                    "ochange": 12,
-                    "time": 510670,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -178719,7 +178691,7 @@
             "uuid": "86334fc9e38344bdabf1a97f63c7be23",
             "nickname": "Anjoru",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2053,
                 "top": 2053,
                 "points": 6,
@@ -181449,20 +181421,6 @@
                     "oelo": 1558,
                     "ochange": 2,
                     "time": 470605,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778818214000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "zero3k",
-                    "elo": 1687,
-                    "change": 14,
-                    "oelo": 1497,
-                    "ochange": -14,
-                    "time": 340324,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -188700,7 +188658,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2033,
                 "top": 2075,
                 "points": 6,
@@ -190235,7 +190193,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2029,
                 "top": 2090,
                 "points": 23,
@@ -193940,7 +193898,7 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "Lexanh",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2026,
                 "top": 2162,
                 "points": 26,
