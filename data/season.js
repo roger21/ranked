@@ -1,5 +1,5 @@
 {
-    "date": 1783148401000,
+    "date": 1783149001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2315,20 +2315,6 @@
                     "oelo": 1928,
                     "ochange": -12,
                     "time": 581319,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778828862000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 2172,
-                    "change": 8,
-                    "oelo": 1786,
-                    "ochange": -8,
-                    "time": 522835,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -206251,20 +206237,6 @@
                     "oelo": 1578,
                     "ochange": -13,
                     "time": 572117,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778828862000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1786,
-                    "change": -8,
-                    "oelo": 2172,
-                    "ochange": 8,
-                    "time": 522835,
                     "forfeited": false,
                     "decayed": false
                 }
