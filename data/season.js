@@ -1,5 +1,5 @@
 {
-    "date": 1783156201000,
+    "date": 1783156801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2315,20 +2315,6 @@
                     "oelo": 1880,
                     "ochange": -10,
                     "time": 471520,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778836602000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 2184,
-                    "change": 12,
-                    "oelo": 1928,
-                    "ochange": -12,
-                    "time": 581319,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -76678,20 +76664,6 @@
                     "time": 408456,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778836602000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1928,
-                    "change": -12,
-                    "oelo": 2184,
-                    "ochange": 12,
-                    "time": 581319,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114427,20 +114399,6 @@
                     "oelo": 1412,
                     "ochange": -18,
                     "time": 544442,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778836447000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "cvctus",
-                    "elo": 1474,
-                    "change": -18,
-                    "oelo": 1568,
-                    "ochange": 18,
-                    "time": 841422,
                     "forfeited": false,
                     "decayed": false
                 }
