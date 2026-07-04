@@ -1,5 +1,5 @@
 {
-    "date": 1783160401000,
+    "date": 1783161001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2273,20 +2273,6 @@
                     "oelo": 1926,
                     "ochange": -11,
                     "time": 423713,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778840434000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2214,
-                    "change": 9,
-                    "oelo": 1864,
-                    "ochange": -9,
-                    "time": 671209,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -76564,20 +76550,6 @@
                     "oelo": 2225,
                     "ochange": 11,
                     "time": 423713,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778840779000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1937,
-                    "change": 15,
-                    "oelo": 1768,
-                    "ochange": -15,
-                    "time": 523656,
                     "forfeited": false,
                     "decayed": false
                 }
