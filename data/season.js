@@ -1,5 +1,5 @@
 {
-    "date": 1783156801000,
+    "date": 1783157401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2301,20 +2301,6 @@
                     "oelo": 1902,
                     "ochange": -11,
                     "time": 526217,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778837393000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2194,
-                    "change": 10,
-                    "oelo": 1880,
-                    "ochange": -10,
-                    "time": 471520,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -76650,20 +76636,6 @@
                     "time": 662889,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778837148000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1901,
-                    "change": -27,
-                    "oelo": 1750,
-                    "ochange": 27,
-                    "time": 408456,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -114385,20 +114357,6 @@
                     "oelo": 1465,
                     "ochange": -20,
                     "time": 636644,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778837074000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "oyasumination",
-                    "elo": 1492,
-                    "change": 18,
-                    "oelo": 1412,
-                    "ochange": -18,
-                    "time": 544442,
                     "forfeited": false,
                     "decayed": false
                 }
