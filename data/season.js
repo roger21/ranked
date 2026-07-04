@@ -1,5 +1,5 @@
 {
-    "date": 1783127401000,
+    "date": 1783128001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -31112,20 +31112,6 @@
                     "time": 785083,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778807601000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 2158,
-                    "change": -20,
-                    "oelo": 2193,
-                    "ochange": 20,
-                    "time": 512039,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -51504,20 +51490,6 @@
                     "time": 612913,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778807601000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 2193,
-                    "change": 20,
-                    "oelo": 2158,
-                    "ochange": -20,
-                    "time": 512039,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -53121,20 +53093,6 @@
                     "oelo": 2173,
                     "ochange": 15,
                     "time": 785083,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778807762000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nyachloe",
-                    "elo": 2021,
-                    "change": 15,
-                    "oelo": 1838,
-                    "ochange": -15,
-                    "time": 588995,
                     "forfeited": false,
                     "decayed": false
                 }
