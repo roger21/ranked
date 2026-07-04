@@ -1,5 +1,5 @@
 {
-    "date": 1783149001000,
+    "date": 1783149601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -99845,7 +99845,7 @@
             "nickname": "amariyy",
             "stats": {
                 "rank": 28,
-                "elo": 2133,
+                "elo": 2128,
                 "top": 2133,
                 "points": 24,
                 "pb": 438916,
@@ -99861,6 +99861,20 @@
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1783149210000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2128,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1782501159000,
                     "type": "BURIED_TREASURE",
@@ -206223,20 +206237,6 @@
                     "oelo": 1702,
                     "ochange": 24,
                     "time": 623684,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778829572000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ElegantRobin",
-                    "elo": 1799,
-                    "change": 13,
-                    "oelo": 1578,
-                    "ochange": -13,
-                    "time": 572117,
                     "forfeited": false,
                     "decayed": false
                 }
