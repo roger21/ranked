@@ -1,5 +1,5 @@
 {
-    "date": 1783126801000,
+    "date": 1783127401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9356,20 +9356,6 @@
                     "oelo": 2188,
                     "ochange": 14,
                     "time": 438271,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778806997000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 2008,
-                    "change": -15,
-                    "oelo": 2173,
-                    "ochange": 15,
-                    "time": 569071,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31140,20 +31126,6 @@
                     "time": 512039,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778807044000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 2178,
-                    "change": -28,
-                    "oelo": 2006,
-                    "ochange": 28,
-                    "time": 528853,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -51546,20 +51518,6 @@
                     "time": 512039,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778806997000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2173,
-                    "change": 15,
-                    "oelo": 2008,
-                    "ochange": -15,
-                    "time": 569071,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -53179,20 +53137,6 @@
                     "time": 588995,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778807044000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 2006,
-                    "change": 28,
-                    "oelo": 2178,
-                    "ochange": -28,
-                    "time": 528853,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -54806,22 +54750,36 @@
             "nickname": "BadGamer",
             "stats": {
                 "rank": 17,
-                "elo": 2189,
+                "elo": 2202,
                 "top": 2236,
                 "points": 41,
                 "pb": 432473,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 208,
-                "playtime": 111334782,
-                "finished": 122,
-                "finishtime": 70270274,
-                "won": 129,
+                "matches": 209,
+                "playtime": 111892393,
+                "finished": 123,
+                "finishtime": 70827885,
+                "won": 130,
                 "lost": 77,
                 "forfeited": 26
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1783126849000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ogurikappa",
+                    "elo": 2202,
+                    "change": 13,
+                    "oelo": 1989,
+                    "ochange": -13,
+                    "time": 557611,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783125872000,
                     "type": "VILLAGE",
