@@ -1,5 +1,5 @@
 {
-    "date": 1783126201000,
+    "date": 1783126801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9370,20 +9370,6 @@
                     "oelo": 2173,
                     "ochange": 15,
                     "time": 569071,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778806383000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 2023,
-                    "change": -15,
-                    "oelo": 2206,
-                    "ochange": 15,
-                    "time": 575296,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31166,20 +31152,6 @@
                     "oelo": 2006,
                     "ochange": 28,
                     "time": 528853,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778806383000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2206,
-                    "change": 15,
-                    "oelo": 2023,
-                    "ochange": -15,
-                    "time": 575296,
                     "forfeited": false,
                     "decayed": false
                 }
