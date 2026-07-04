@@ -1,5 +1,5 @@
 {
-    "date": 1783142401000,
+    "date": 1783143001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -49908,20 +49908,6 @@
                     "time": 487950,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778822518000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 2000,
-                    "change": 16,
-                    "oelo": 1870,
-                    "ochange": -16,
-                    "time": 906424,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -74801,7 +74787,7 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 22,
-                "elo": 2161,
+                "elo": 2156,
                 "top": 2211,
                 "points": 44,
                 "pb": 412328,
@@ -74817,6 +74803,20 @@
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783142610000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2156,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783056207000,
                     "type": null,
@@ -117050,14 +117050,14 @@
             "nickname": "HDMICables",
             "stats": {
                 "rank": 31,
-                "elo": 2111,
+                "elo": 2109,
                 "top": 2123,
                 "points": 9,
                 "pb": 439386,
                 "current": 2,
                 "streak": 10,
-                "matches": 183,
-                "playtime": 103188102,
+                "matches": 184,
+                "playtime": 103730574,
                 "finished": 96,
                 "finishtime": 53871925,
                 "won": 107,
@@ -117066,6 +117066,20 @@
             },
             "country": "nl",
             "matches": [
+                {
+                    "date": 1783142916000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Czelco",
+                    "elo": 2109,
+                    "change": -2,
+                    "oelo": 1956,
+                    "ochange": 2,
+                    "time": 542472,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783142284000,
                     "type": "BURIED_TREASURE",
@@ -186167,20 +186181,6 @@
                     "oelo": 1771,
                     "ochange": 20,
                     "time": 662273,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778822679000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Zylenox",
-                    "elo": 1742,
-                    "change": -19,
-                    "oelo": 1798,
-                    "ochange": 19,
-                    "time": 680122,
                     "forfeited": false,
                     "decayed": false
                 }
