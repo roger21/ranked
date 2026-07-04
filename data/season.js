@@ -1,5 +1,5 @@
 {
-    "date": 1783166401000,
+    "date": 1783167001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2175,20 +2175,6 @@
                     "oelo": 1792,
                     "ochange": -8,
                     "time": 439957,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778846706000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 2200,
-                    "change": -29,
-                    "oelo": 1987,
-                    "ochange": 29,
-                    "time": 539903,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -56387,20 +56373,6 @@
                     "oelo": 2001,
                     "ochange": 14,
                     "time": 458304,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778846920000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "mukvl",
-                    "elo": 1808,
-                    "change": -21,
-                    "oelo": 1820,
-                    "ochange": 21,
-                    "time": 618262,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -118155,20 +118127,6 @@
                     "oelo": 2208,
                     "ochange": 8,
                     "time": 439957,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778846543000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1800,
-                    "change": 20,
-                    "oelo": 1767,
-                    "ochange": -20,
-                    "time": 421372,
                     "forfeited": false,
                     "decayed": false
                 }
