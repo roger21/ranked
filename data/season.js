@@ -1,5 +1,5 @@
 {
-    "date": 1783200601000,
+    "date": 1783201201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12258,20 +12258,6 @@
                     "oelo": 1879,
                     "ochange": -20,
                     "time": 730197,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778881187000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1907,
-                    "change": -13,
-                    "oelo": 2149,
-                    "ochange": 13,
-                    "time": 539526,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36287,20 +36273,6 @@
                     "time": 598169,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778881187000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "woofdoggo_",
-                    "elo": 2149,
-                    "change": 13,
-                    "oelo": 1907,
-                    "ochange": -13,
-                    "time": 539526,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43784,20 +43756,6 @@
                     "oelo": 1592,
                     "ochange": -16,
                     "time": 531129,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778880620000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1726,
-                    "change": 22,
-                    "oelo": 1729,
-                    "ochange": -22,
-                    "time": 546843,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -119113,20 +119071,6 @@
                     "time": 563278,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778881029000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Th1tme0",
-                    "elo": 1887,
-                    "change": 13,
-                    "oelo": 1663,
-                    "ochange": -13,
-                    "time": 827996,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -145384,20 +145328,6 @@
                     "ochange": -1,
                     "time": 376503,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778881102000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "cbirrd",
-                    "elo": 1818,
-                    "change": -24,
-                    "oelo": 1750,
-                    "ochange": 24,
-                    "time": 664423,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
