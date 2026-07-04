@@ -1,5 +1,5 @@
 {
-    "date": 1783159201000,
+    "date": 1783159801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76580,20 +76580,6 @@
                     "time": 523656,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778839545000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 1922,
-                    "change": 20,
-                    "oelo": 1873,
-                    "ochange": -20,
-                    "time": 550779,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114273,20 +114259,6 @@
                     "oelo": 1567,
                     "ochange": -23,
                     "time": 744076,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778839574000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Rixzzs",
-                    "elo": 1516,
-                    "change": 21,
-                    "oelo": 1502,
-                    "ochange": -21,
-                    "time": 697389,
                     "forfeited": false,
                     "decayed": false
                 }
