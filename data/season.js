@@ -1,5 +1,5 @@
 {
-    "date": 1783235401000,
+    "date": 1783236001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -107423,7 +107423,7 @@
             "nickname": "amariyy",
             "stats": {
                 "rank": 30,
-                "elo": 2128,
+                "elo": 2123,
                 "top": 2133,
                 "points": 24,
                 "pb": 438916,
@@ -107439,6 +107439,20 @@
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1783235611000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2123,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783149210000,
                     "type": null,
@@ -187949,20 +187963,6 @@
                     "oelo": 1715,
                     "ochange": -17,
                     "time": 709810,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778915649000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 1829,
-                    "change": -19,
-                    "oelo": 1898,
-                    "ochange": 19,
-                    "time": 572066,
                     "forfeited": false,
                     "decayed": false
                 }
