@@ -1,5 +1,5 @@
 {
-    "date": 1783226401000,
+    "date": 1783227001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -132603,20 +132603,6 @@
                     "ochange": -21,
                     "time": 705020,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778906490000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "200kgdoogirl",
-                    "elo": 1645,
-                    "change": 0,
-                    "oelo": 1644,
-                    "ochange": 0,
-                    "time": 424508,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
