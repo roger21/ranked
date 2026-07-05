@@ -1,5 +1,5 @@
 {
-    "date": 1783282801000,
+    "date": 1783283401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115590,20 +115590,6 @@
                     "time": 549255,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778962918000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Birdeyyy",
-                    "elo": 1857,
-                    "change": 16,
-                    "oelo": 1708,
-                    "ochange": -16,
-                    "time": 599965,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -130635,20 +130621,6 @@
                     "time": 549255,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778963137000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Snakezy",
-                    "elo": 1701,
-                    "change": 21,
-                    "oelo": 1695,
-                    "ochange": -21,
-                    "time": 676707,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -133997,23 +133969,37 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 35,
-                "elo": 2081,
+                "rank": 34,
+                "elo": 2094,
                 "top": 2211,
                 "points": 44,
                 "pb": 412328,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 333,
-                "playtime": 177482483,
-                "finished": 162,
-                "finishtime": 91833539,
-                "won": 180,
+                "matches": 334,
+                "playtime": 178139789,
+                "finished": 163,
+                "finishtime": 92490845,
+                "won": 181,
                 "lost": 138,
                 "forfeited": 32
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783283444000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "zorn89",
+                    "elo": 2094,
+                    "change": 13,
+                    "oelo": 1869,
+                    "ochange": -13,
+                    "time": 657306,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783282677000,
                     "type": "BURIED_TREASURE",
