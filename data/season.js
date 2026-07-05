@@ -1,5 +1,5 @@
 {
-    "date": 1783275601000,
+    "date": 1783276201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -112697,20 +112697,6 @@
                     "time": 649268,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778955725000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 1923,
-                    "change": -25,
-                    "oelo": 1841,
-                    "ochange": 25,
-                    "time": 541459,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -117053,20 +117039,6 @@
                     "oelo": 1808,
                     "ochange": 23,
                     "time": 709365,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778956079000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1866,
-                    "change": -21,
-                    "oelo": 1873,
-                    "ochange": 21,
-                    "time": 601761,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -132183,20 +132155,6 @@
                     "ochange": 21,
                     "time": 1018707,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778956039000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Brunted",
-                    "elo": 1661,
-                    "change": -21,
-                    "oelo": 1683,
-                    "ochange": 21,
-                    "time": 431652,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -162242,20 +162200,6 @@
                     "oelo": 1753,
                     "ochange": -16,
                     "time": 629731,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778956079000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "HDMICables",
-                    "elo": 1873,
-                    "change": 21,
-                    "oelo": 1866,
-                    "ochange": -21,
-                    "time": 601761,
                     "forfeited": false,
                     "decayed": false
                 }
