@@ -1,5 +1,5 @@
 {
-    "date": 1783259401000,
+    "date": 1783260001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -166542,20 +166542,6 @@
                     "time": 670179,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778939451000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "VojtaH007",
-                    "elo": 2004,
-                    "change": 12,
-                    "oelo": 1734,
-                    "ochange": -12,
-                    "time": 482650,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -176596,20 +176582,6 @@
                     "oelo": 1758,
                     "ochange": 20,
                     "time": 615178,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778939451000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1734,
-                    "change": -12,
-                    "oelo": 2004,
-                    "ochange": 12,
-                    "time": 482650,
                     "forfeited": false,
                     "decayed": false
                 }
