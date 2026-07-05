@@ -1,5 +1,5 @@
 {
-    "date": 1783209002000,
+    "date": 1783209601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7233,20 +7233,6 @@
                     "oelo": 2271,
                     "ochange": 10,
                     "time": 633647,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778889370000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1963,
-                    "change": -13,
-                    "oelo": 2192,
-                    "ochange": 13,
-                    "time": 503365,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24822,20 +24808,6 @@
                     "time": 485686,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778889585000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 1958,
-                    "change": -24,
-                    "oelo": 1886,
-                    "ochange": 24,
-                    "time": 645894,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -35949,20 +35921,6 @@
                     "oelo": 1946,
                     "ochange": -12,
                     "time": 485686,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778889370000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2192,
-                    "change": 13,
-                    "oelo": 1963,
-                    "ochange": -13,
-                    "time": 503365,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -134221,23 +134179,37 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 35,
-                "elo": 2086,
+                "rank": 38,
+                "elo": 2058,
                 "top": 2115,
                 "points": 14,
                 "pb": 422216,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 207,
-                "playtime": 111029029,
+                "matches": 208,
+                "playtime": 111540226,
                 "finished": 101,
                 "finishtime": 59858230,
                 "won": 112,
-                "lost": 90,
+                "lost": 91,
                 "forfeited": 29
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783209634000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Frolde",
+                    "elo": 2058,
+                    "change": -28,
+                    "oelo": 1895,
+                    "ochange": 28,
+                    "time": 511197,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783208734000,
                     "type": "VILLAGE",
@@ -136540,7 +136512,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2080,
                 "top": 2140,
                 "points": 0,
@@ -141477,7 +141449,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2080,
                 "top": 2132,
                 "points": 27,
@@ -144804,7 +144776,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2079,
                 "top": 2201,
                 "points": 33,
@@ -190652,20 +190624,6 @@
                     "ochange": 22,
                     "time": 861609,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778889579000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "thecamo6",
-                    "elo": 1751,
-                    "change": 1,
-                    "oelo": 1820,
-                    "ochange": -1,
-                    "time": 669926,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
