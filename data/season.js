@@ -1,5 +1,5 @@
 {
-    "date": 1783254001000,
+    "date": 1783254601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -162438,7 +162438,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2054,
                 "top": 2130,
                 "points": 9,
@@ -165359,7 +165359,7 @@
             "uuid": "7844abd0972f4a76a6d557b2107ca9dd",
             "nickname": "VojtaH007",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2054,
                 "top": 2056,
                 "points": 9,
@@ -172508,7 +172508,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2053,
                 "top": 2057,
                 "points": 6,
@@ -175933,7 +175933,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2044,
                 "top": 2059,
                 "points": 24,
@@ -176964,7 +176964,7 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "Lexanh",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2042,
                 "top": 2162,
                 "points": 26,
@@ -186353,7 +186353,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2039,
                 "top": 2155,
                 "points": 21,
@@ -187888,7 +187888,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2037,
                 "top": 2037,
                 "points": 3,
@@ -193315,23 +193315,37 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 48,
-                "elo": 2037,
-                "top": 2052,
+                "rank": 42,
+                "elo": 2056,
+                "top": 2056,
                 "points": 5,
                 "pb": 415830,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 441,
-                "playtime": 261842090,
-                "finished": 197,
-                "finishtime": 120167208,
-                "won": 225,
+                "matches": 442,
+                "playtime": 262468483,
+                "finished": 198,
+                "finishtime": 120793601,
+                "won": 226,
                 "lost": 188,
                 "forfeited": 18
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1783254602000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "cvctus",
+                    "elo": 2056,
+                    "change": 19,
+                    "oelo": 1986,
+                    "ochange": -19,
+                    "time": 626393,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783253581000,
                     "type": "DESERT_TEMPLE",
@@ -202564,20 +202578,6 @@
                     "oelo": 1584,
                     "ochange": 25,
                     "time": 678803,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778934016000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "lucinyu",
-                    "elo": 1695,
-                    "change": 16,
-                    "oelo": 1548,
-                    "ochange": -16,
-                    "time": 593147,
                     "forfeited": false,
                     "decayed": false
                 }

@@ -2900,13 +2900,13 @@
         },
         "pb": 442704,
         "streak": 12,
-        "matches": 1012,
-        "playtime": 573168175,
+        "matches": 1013,
+        "playtime": 573700224,
         "finished": 452,
         "finishtime": 295823457,
         "won": 583,
-        "lost": 396,
-        "forfeited": 228
+        "lost": 397,
+        "forfeited": 229
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
@@ -4241,7 +4241,7 @@
             "8": 2045,
             "9": 2181,
             "10": 2248,
-            "11": 2052
+            "11": 2056
         },
         "points": {
             "1": 0,
@@ -4257,11 +4257,11 @@
         },
         "pb": 415830,
         "streak": 13,
-        "matches": 7437,
-        "playtime": 4524534812,
-        "finished": 2593,
-        "finishtime": 1830791882,
-        "won": 3658,
+        "matches": 7438,
+        "playtime": 4525161205,
+        "finished": 2594,
+        "finishtime": 1831418275,
+        "won": 3659,
         "lost": 3373,
         "forfeited": 1337
     },
@@ -5427,11 +5427,11 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 5075,
-        "playtime": 2921153265,
-        "finished": 1779,
-        "finishtime": 1215868213,
-        "won": 2439,
+        "matches": 5076,
+        "playtime": 2921747824,
+        "finished": 1780,
+        "finishtime": 1216462772,
+        "won": 2440,
         "lost": 2336,
         "forfeited": 1281
     },
