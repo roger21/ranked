@@ -1,5 +1,5 @@
 {
-    "date": 1783228801000,
+    "date": 1783229401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65507,20 +65507,6 @@
                     "time": 633017,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778908810000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "cofesho",
-                    "elo": 1935,
-                    "change": -1,
-                    "oelo": 1828,
-                    "ochange": 1,
-                    "time": 896307,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -85692,7 +85678,7 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 25,
-                "elo": 2156,
+                "elo": 2151,
                 "top": 2211,
                 "points": 44,
                 "pb": 412328,
@@ -85708,6 +85694,20 @@
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783229011000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2151,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783142610000,
                     "type": null,
@@ -111232,20 +111232,6 @@
                     "time": 760044,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778909061000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1904,
-                    "change": 13,
-                    "oelo": 1674,
-                    "ochange": -13,
-                    "time": 639715,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -132519,20 +132505,6 @@
                     "ochange": 26,
                     "time": 301319,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778909061000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1674,
-                    "change": -13,
-                    "oelo": 1904,
-                    "ochange": 13,
-                    "time": 639715,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
