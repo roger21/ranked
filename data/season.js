@@ -1,5 +1,5 @@
 {
-    "date": 1783289401000,
+    "date": 1783290001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -135432,20 +135432,6 @@
                     "time": 581461,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1778969934000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "oshgay",
-                    "elo": 1778,
-                    "change": 17,
-                    "oelo": 1666,
-                    "ochange": -17,
-                    "time": 598376,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -189643,20 +189629,6 @@
                     "oelo": 1775,
                     "ochange": -23,
                     "time": 567278,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778969767000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "smeks",
-                    "elo": 1717,
-                    "change": 17,
-                    "oelo": 1586,
-                    "ochange": -17,
-                    "time": 587955,
                     "forfeited": false,
                     "decayed": false
                 }
