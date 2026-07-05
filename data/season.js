@@ -1,5 +1,5 @@
 {
-    "date": 1783258201000,
+    "date": 1783258801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88530,20 +88530,6 @@
                     "time": 569460,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778938378000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1934,
-                    "change": -19,
-                    "oelo": 1992,
-                    "ochange": 19,
-                    "time": 629579,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -166584,20 +166570,6 @@
                     "time": 482650,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778938378000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1992,
-                    "change": 19,
-                    "oelo": 1934,
-                    "ochange": -19,
-                    "time": 629579,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -173678,7 +173650,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "TREASURE",
                     "result": "draw",
-                    "opponent": "zyl0h_",
+                    "opponent": "nkwo",
                     "elo": 1739,
                     "change": -2,
                     "oelo": 1545,
@@ -175078,7 +175050,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "zyl0h_",
+                    "opponent": "nkwo",
                     "elo": 1715,
                     "change": 16,
                     "oelo": 1571,
@@ -176653,20 +176625,6 @@
                     "ochange": 12,
                     "time": 482650,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778938769000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1746,
-                    "change": 17,
-                    "oelo": 1632,
-                    "ochange": -17,
-                    "time": 438892,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -202453,20 +202411,6 @@
                     "ochange": -17,
                     "time": 210176,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778938626000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "a4102545",
-                    "elo": 1709,
-                    "change": -21,
-                    "oelo": 1729,
-                    "ochange": 21,
-                    "time": 645394,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
