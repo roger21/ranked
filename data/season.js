@@ -1,5 +1,5 @@
 {
-    "date": 1783237201000,
+    "date": 1783237801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -107422,7 +107422,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2123,
                 "top": 2133,
                 "points": 24,
@@ -111113,23 +111113,37 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 31,
-                "elo": 2116,
+                "rank": 30,
+                "elo": 2129,
                 "top": 2176,
                 "points": 53,
                 "pb": 403492,
-                "current": 3,
+                "current": 4,
                 "streak": 10,
-                "matches": 120,
-                "playtime": 63035293,
-                "finished": 63,
-                "finishtime": 33948097,
-                "won": 72,
+                "matches": 121,
+                "playtime": 63495217,
+                "finished": 64,
+                "finishtime": 34408021,
+                "won": 73,
                 "lost": 43,
                 "forfeited": 1
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1783237814000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "takachaaaaaaan",
+                    "elo": 2129,
+                    "change": 13,
+                    "oelo": 1904,
+                    "ochange": -13,
+                    "time": 459924,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783237151000,
                     "type": "SHIPWRECK",
