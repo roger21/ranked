@@ -1,5 +1,5 @@
 {
-    "date": 1783210801000,
+    "date": 1783211401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7191,20 +7191,6 @@
                     "oelo": 2208,
                     "ochange": 12,
                     "time": 575712,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778891377000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1952,
-                    "change": -21,
-                    "oelo": 1978,
-                    "ochange": 21,
-                    "time": 656869,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -149145,22 +149131,36 @@
             "nickname": "paukll",
             "stats": {
                 "rank": 38,
-                "elo": 2058,
+                "elo": 2070,
                 "top": 2115,
                 "points": 14,
                 "pb": 422216,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 208,
-                "playtime": 111540226,
-                "finished": 101,
-                "finishtime": 59858230,
-                "won": 112,
+                "matches": 209,
+                "playtime": 112034038,
+                "finished": 102,
+                "finishtime": 60352042,
+                "won": 113,
                 "lost": 91,
                 "forfeited": 29
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783211123000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "YoomzMonkey",
+                    "elo": 2070,
+                    "change": 12,
+                    "oelo": 1823,
+                    "ochange": -12,
+                    "time": 493812,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783209634000,
                     "type": "RUINED_PORTAL",
@@ -157002,20 +157002,6 @@
                     "oelo": 1978,
                     "ochange": 21,
                     "time": 536183,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778891377000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1978,
-                    "change": 21,
-                    "oelo": 1952,
-                    "ochange": -21,
-                    "time": 656869,
                     "forfeited": false,
                     "decayed": false
                 }
