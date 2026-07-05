@@ -1,5 +1,5 @@
 {
-    "date": 1783212001000,
+    "date": 1783212601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7177,20 +7177,6 @@
                     "oelo": 1738,
                     "ochange": -13,
                     "time": 528170,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778892062000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1940,
-                    "change": -12,
-                    "oelo": 2208,
-                    "ochange": 12,
-                    "time": 575712,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24710,20 +24696,6 @@
                     "time": 687697,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778892451000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nyachloe",
-                    "elo": 1978,
-                    "change": 21,
-                    "oelo": 1957,
-                    "ochange": -21,
-                    "time": 536183,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -35781,20 +35753,6 @@
                     "oelo": 2006,
                     "ochange": 28,
                     "time": 687697,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778892062000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2208,
-                    "change": 12,
-                    "oelo": 1940,
-                    "ochange": -12,
-                    "time": 575712,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -156947,20 +156905,6 @@
                     "ochange": -16,
                     "time": 309657,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778892451000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1957,
-                    "change": -21,
-                    "oelo": 1978,
-                    "ochange": 21,
-                    "time": 536183,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
