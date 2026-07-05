@@ -1,5 +1,5 @@
 {
-    "date": 1783248001000,
+    "date": 1783248601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88684,20 +88684,6 @@
                     "time": 677871,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778928346000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 1918,
-                    "change": -22,
-                    "oelo": 1917,
-                    "ochange": 22,
-                    "time": 491042,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -165653,7 +165639,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2053,
                 "top": 2057,
                 "points": 6,
@@ -169078,7 +169064,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2044,
                 "top": 2059,
                 "points": 24,
@@ -170109,7 +170095,7 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "Lexanh",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2042,
                 "top": 2162,
                 "points": 26,
@@ -179498,7 +179484,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2039,
                 "top": 2155,
                 "points": 21,
@@ -181082,20 +181068,6 @@
                     "time": 642938,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778928346000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 1917,
-                    "change": 22,
-                    "oelo": 1918,
-                    "ochange": -22,
-                    "time": 491042,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -181103,7 +181075,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2037,
                 "top": 2037,
                 "points": 3,
@@ -186530,23 +186502,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 48,
-                "elo": 2036,
+                "rank": 41,
+                "elo": 2054,
                 "top": 2201,
                 "points": 33,
                 "pb": 401156,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 608,
-                "playtime": 334356313,
-                "finished": 300,
-                "finishtime": 175135646,
-                "won": 339,
+                "matches": 609,
+                "playtime": 334919843,
+                "finished": 301,
+                "finishtime": 175699176,
+                "won": 340,
                 "lost": 262,
                 "forfeited": 52
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783248669000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "cvctus",
+                    "elo": 2054,
+                    "change": 18,
+                    "oelo": 1954,
+                    "ochange": -18,
+                    "time": 563530,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783247835000,
                     "type": "SHIPWRECK",
@@ -193427,7 +193413,7 @@
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "4antoo",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2036,
                 "top": 2036,
                 "points": 6,
