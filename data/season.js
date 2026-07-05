@@ -1,5 +1,5 @@
 {
-    "date": 1783214401000,
+    "date": 1783215001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7122,20 +7122,6 @@
                     "ochange": 0,
                     "time": 616065,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778894665000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 1987,
-                    "change": 22,
-                    "oelo": 1987,
-                    "ochange": -22,
-                    "time": 577383,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -24612,20 +24598,6 @@
                     "time": 636343,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778894573000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1973,
-                    "change": -11,
-                    "oelo": 2263,
-                    "ochange": 11,
-                    "time": 515360,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -38450,20 +38422,6 @@
                     "oelo": 1882,
                     "ochange": 33,
                     "time": 696762,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778894573000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 2263,
-                    "change": 11,
-                    "oelo": 1973,
-                    "ochange": -11,
-                    "time": 515360,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -66485,20 +66443,6 @@
                     "oelo": 1789,
                     "ochange": 28,
                     "time": 707306,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778894665000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1987,
-                    "change": -22,
-                    "oelo": 1987,
-                    "ochange": 22,
-                    "time": 577383,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -103643,20 +103587,6 @@
                     "oelo": 1654,
                     "ochange": 26,
                     "time": 796940,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778894932000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ContraVz",
-                    "elo": 1797,
-                    "change": -23,
-                    "oelo": 1761,
-                    "ochange": 23,
-                    "time": 696013,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -151216,20 +151146,6 @@
                     "oelo": 1785,
                     "ochange": -22,
                     "time": 579209,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778894627000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1739,
-                    "change": 17,
-                    "oelo": 1628,
-                    "ochange": -17,
-                    "time": 572130,
                     "forfeited": false,
                     "decayed": false
                 }
