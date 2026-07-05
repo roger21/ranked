@@ -1,5 +1,5 @@
 {
-    "date": 1783273801000,
+    "date": 1783274401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -112697,20 +112697,6 @@
                     "time": 541459,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778954008000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1948,
-                    "change": -1,
-                    "oelo": 1880,
-                    "ochange": 1,
-                    "time": 665134,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -162299,20 +162285,6 @@
                     "ochange": 28,
                     "time": 615159,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778954008000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "Ancoboyy",
-                    "elo": 1880,
-                    "change": 1,
-                    "oelo": 1948,
-                    "ochange": -1,
-                    "time": 665134,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
