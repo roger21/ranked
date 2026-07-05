@@ -3554,35 +3554,6 @@
         "lost": 2603,
         "forfeited": 1308
     },
-    "86334fc9e38344bdabf1a97f63c7be23": {
-        "nickname": "Anjoru",
-        "country": "us",
-        "top": {
-            "2": 1283,
-            "6": 1152,
-            "8": 1589,
-            "9": 1994,
-            "10": 2059,
-            "11": 2053
-        },
-        "points": {
-            "2": 0,
-            "6": 0,
-            "8": 0,
-            "9": 0,
-            "10": 7,
-            "11": 6
-        },
-        "pb": 386236,
-        "streak": 9,
-        "matches": 3769,
-        "playtime": 2532964756,
-        "finished": 1315,
-        "finishtime": 959043586,
-        "won": 1805,
-        "lost": 1702,
-        "forfeited": 315
-    },
     "879c8136d42c4222b42f1c090616fa5e": {
         "nickname": "webwormy",
         "country": "ca",
