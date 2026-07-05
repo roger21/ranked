@@ -1,5 +1,5 @@
 {
-    "date": 1783263601000,
+    "date": 1783264201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -176443,20 +176443,6 @@
                     "ochange": -18,
                     "time": 903860,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778943690000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1708,
-                    "change": -24,
-                    "oelo": 1640,
-                    "ochange": 24,
-                    "time": 943723,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
