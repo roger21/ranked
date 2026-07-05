@@ -1,5 +1,5 @@
 {
-    "date": 1783252201000,
+    "date": 1783252801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88640,20 +88640,6 @@
                     "oelo": 1773,
                     "ochange": -15,
                     "time": 506511,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778932392000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "SammmyG",
-                    "elo": 1919,
-                    "change": 23,
-                    "oelo": 1943,
-                    "ochange": -23,
-                    "time": 480549,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -187907,20 +187893,6 @@
                     "oelo": 1757,
                     "ochange": -14,
                     "time": 636419,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778932392000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1943,
-                    "change": -23,
-                    "oelo": 1919,
-                    "ochange": 23,
-                    "time": 480549,
                     "forfeited": false,
                     "decayed": false
                 }
