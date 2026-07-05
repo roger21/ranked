@@ -1,5 +1,5 @@
 {
-    "date": 1783213201000,
+    "date": 1783213801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7149,20 +7149,6 @@
                     "oelo": 1984,
                     "ochange": -22,
                     "time": 506677,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778893390000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1943,
-                    "change": -10,
-                    "oelo": 2275,
-                    "ochange": 10,
-                    "time": 652108,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -38536,20 +38522,6 @@
                     "time": 565699,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778893390000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2275,
-                    "change": 10,
-                    "oelo": 1943,
-                    "ochange": -10,
-                    "time": 652108,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66583,20 +66555,6 @@
                     "oelo": 1987,
                     "ochange": 22,
                     "time": 577383,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778893743000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 2009,
-                    "change": -27,
-                    "oelo": 1872,
-                    "ochange": 27,
-                    "time": 657790,
                     "forfeited": false,
                     "decayed": false
                 }
