@@ -1,5 +1,5 @@
 {
-    "date": 1783275001000,
+    "date": 1783275601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -111268,22 +111268,36 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 31,
-                "elo": 2113,
+                "elo": 2126,
                 "top": 2211,
                 "points": 44,
                 "pb": 412328,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 323,
-                "playtime": 172496809,
-                "finished": 158,
-                "finishtime": 89581476,
-                "won": 175,
+                "matches": 324,
+                "playtime": 173085095,
+                "finished": 159,
+                "finishtime": 90169762,
+                "won": 176,
                 "lost": 133,
                 "forfeited": 31
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783275467000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ogurikappa",
+                    "elo": 2126,
+                    "change": 13,
+                    "oelo": 1883,
+                    "ochange": -13,
+                    "time": 588286,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783273524000,
                     "type": "DESERT_TEMPLE",
@@ -132183,34 +132197,6 @@
                     "ochange": 21,
                     "time": 431652,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778955560000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 1682,
-                    "change": 16,
-                    "oelo": 1545,
-                    "ochange": -16,
-                    "time": 221189,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778955272000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "subdasfan1",
-                    "elo": 1666,
-                    "change": -23,
-                    "oelo": 1625,
-                    "ochange": 23,
-                    "time": 682814,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -162270,20 +162256,6 @@
                     "oelo": 1866,
                     "ochange": -21,
                     "time": 601761,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778955036000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "iKme_",
-                    "elo": 1852,
-                    "change": -28,
-                    "oelo": 1675,
-                    "ochange": 28,
-                    "time": 615159,
                     "forfeited": false,
                     "decayed": false
                 }
