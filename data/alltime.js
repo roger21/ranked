@@ -2900,13 +2900,13 @@
         },
         "pb": 442704,
         "streak": 12,
-        "matches": 1008,
-        "playtime": 570811202,
+        "matches": 1009,
+        "playtime": 571276130,
         "finished": 451,
         "finishtime": 295212171,
         "won": 582,
-        "lost": 393,
-        "forfeited": 225
+        "lost": 394,
+        "forfeited": 226
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "nickname": "TheBlazer97",
@@ -5402,12 +5402,12 @@
         },
         "pb": 418665,
         "streak": 14,
-        "matches": 5252,
-        "playtime": 3193165142,
+        "matches": 5253,
+        "playtime": 3193730015,
         "finished": 1864,
         "finishtime": 1287520185,
         "won": 2628,
-        "lost": 2353,
+        "lost": 2354,
         "forfeited": 895
     },
     "c9f3dc334bb84708911c611e94751b5a": {
