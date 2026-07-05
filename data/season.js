@@ -1,5 +1,5 @@
 {
-    "date": 1783222201000,
+    "date": 1783222801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6983,20 +6983,6 @@
                     "time": 519595,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778902540000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2064,
-                    "change": 29,
-                    "oelo": 2282,
-                    "ochange": -29,
-                    "time": 451284,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -8754,20 +8740,6 @@
                     "oelo": 1831,
                     "ochange": -18,
                     "time": 578983,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778902721000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 1899,
-                    "change": 20,
-                    "oelo": 1865,
-                    "ochange": -20,
-                    "time": 495212,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -45307,20 +45279,6 @@
                     "time": 511316,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778902540000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 2282,
-                    "change": -29,
-                    "oelo": 2064,
-                    "ochange": 29,
-                    "time": 451284,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -65813,20 +65771,6 @@
                     "oelo": 1842,
                     "ochange": -20,
                     "time": 566911,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778902721000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nhb_",
-                    "elo": 1865,
-                    "change": -20,
-                    "oelo": 1899,
-                    "ochange": 20,
-                    "time": 495212,
                     "forfeited": false,
                     "decayed": false
                 }
