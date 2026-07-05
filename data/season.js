@@ -1,5 +1,5 @@
 {
-    "date": 1783224601000,
+    "date": 1783225201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24246,20 +24246,6 @@
                     "oelo": 1879,
                     "ochange": -17,
                     "time": 648535,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778904844000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1978,
-                    "change": -24,
-                    "oelo": 1927,
-                    "ochange": 24,
-                    "time": 591120,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -65603,20 +65589,6 @@
                     "oelo": 1769,
                     "ochange": 26,
                     "time": 601300,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778904844000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1927,
-                    "change": 24,
-                    "oelo": 1978,
-                    "ochange": -24,
-                    "time": 591120,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -132742,20 +132714,6 @@
                     "oelo": 1617,
                     "ochange": -21,
                     "time": 256898,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778905090000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "oshgay",
-                    "elo": 1607,
-                    "change": -19,
-                    "oelo": 1677,
-                    "ochange": 19,
-                    "time": 569702,
                     "forfeited": true,
                     "decayed": false
                 }
