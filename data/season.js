@@ -1,5 +1,5 @@
 {
-    "date": 1783255801000,
+    "date": 1783256401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88584,34 +88584,6 @@
                     "oelo": 1972,
                     "ochange": 21,
                     "time": 538723,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778936374000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TUDORULE",
-                    "elo": 1974,
-                    "change": 15,
-                    "oelo": 1816,
-                    "ochange": -15,
-                    "time": 326573,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778935866000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1959,
-                    "change": 12,
-                    "oelo": 1698,
-                    "ochange": -12,
-                    "time": 503862,
                     "forfeited": false,
                     "decayed": false
                 }
