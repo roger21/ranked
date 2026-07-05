@@ -1,5 +1,5 @@
 {
-    "date": 1783234201000,
+    "date": 1783234802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -187950,20 +187950,6 @@
                     "ochange": 19,
                     "time": 572066,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778914742000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "ogurikappa",
-                    "elo": 1848,
-                    "change": -1,
-                    "oelo": 1763,
-                    "ochange": 1,
-                    "time": 519693,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
