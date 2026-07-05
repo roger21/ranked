@@ -1,5 +1,5 @@
 {
-    "date": 1783262401000,
+    "date": 1783263001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -153985,20 +153985,6 @@
                     "time": 456372,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778942699000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "wotez",
-                    "elo": 1731,
-                    "change": -22,
-                    "oelo": 1722,
-                    "ochange": 22,
-                    "time": 483741,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -176484,20 +176470,6 @@
                     "oelo": 1640,
                     "ochange": 24,
                     "time": 943723,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778942459000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1732,
-                    "change": -17,
-                    "oelo": 1850,
-                    "ochange": 17,
-                    "time": 528253,
                     "forfeited": false,
                     "decayed": false
                 }
