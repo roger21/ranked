@@ -1,5 +1,5 @@
 {
-    "date": 1783293001000,
+    "date": 1783293601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -42414,20 +42414,6 @@
                     "time": 524402,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778973465000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "paukll",
-                    "elo": 1768,
-                    "change": -20,
-                    "oelo": 1820,
-                    "ochange": 20,
-                    "time": 561363,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -58618,20 +58604,6 @@
                     "oelo": 2068,
                     "ochange": 12,
                     "time": 616332,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778973583000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 1826,
-                    "change": -20,
-                    "oelo": 1860,
-                    "ochange": 20,
-                    "time": 583839,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -76340,20 +76312,6 @@
                     "oelo": 1814,
                     "ochange": -12,
                     "time": 616332,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778973448000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "JackoWacko62",
-                    "elo": 2056,
-                    "change": -27,
-                    "oelo": 1905,
-                    "ochange": 27,
-                    "time": 495443,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -115394,20 +115352,6 @@
                     "time": 635278,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778973378000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 1881,
-                    "change": -20,
-                    "oelo": 1915,
-                    "ochange": 20,
-                    "time": 650570,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135888,20 +135832,6 @@
                     "ochange": 0,
                     "time": 561953,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778973465000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1820,
-                    "change": 20,
-                    "oelo": 1768,
-                    "ochange": -20,
-                    "time": 561363,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
