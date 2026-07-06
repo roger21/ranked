@@ -1,5 +1,5 @@
 {
-    "date": 1783358401000,
+    "date": 1783359001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -118530,20 +118530,6 @@
                     "time": 703055,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779038765000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "pigswitch",
-                    "elo": 1735,
-                    "change": -21,
-                    "oelo": 1737,
-                    "ochange": 21,
-                    "time": 537628,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135077,20 +135063,6 @@
                     "time": 703055,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779038919000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "PandaRuns",
-                    "elo": 1825,
-                    "change": 14,
-                    "oelo": 1612,
-                    "ochange": -14,
-                    "time": 463492,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135099,22 +135071,36 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 36,
-                "elo": 2086,
+                "elo": 2070,
                 "top": 2201,
                 "points": 33,
                 "pb": 401156,
-                "current": 5,
+                "current": 0,
                 "streak": 8,
-                "matches": 654,
-                "playtime": 358784573,
+                "matches": 655,
+                "playtime": 359336352,
                 "finished": 322,
                 "finishtime": 187469790,
                 "won": 365,
-                "lost": 282,
+                "lost": 283,
                 "forfeited": 60
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783359053000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Watermelon1708",
+                    "elo": 2070,
+                    "change": -16,
+                    "oelo": 2225,
+                    "ochange": 16,
+                    "time": 551779,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783357611000,
                     "type": "SHIPWRECK",
