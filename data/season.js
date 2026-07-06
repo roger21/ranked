@@ -1,5 +1,5 @@
 {
-    "date": 1783369201000,
+    "date": 1783369801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -118530,20 +118530,6 @@
                     "time": 681312,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779049415000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "iKme_",
-                    "elo": 1824,
-                    "change": 19,
-                    "oelo": 1755,
-                    "ochange": -19,
-                    "time": 498992,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -134930,7 +134916,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2068,
                 "top": 2068,
                 "points": 6,
@@ -138299,7 +138285,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2063,
                 "top": 2089,
                 "points": 5,
@@ -142368,7 +142354,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2062,
                 "top": 2062,
                 "points": 6,
@@ -150028,20 +150014,6 @@
                     "time": 579352,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779049506000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1771,
-                    "change": 21,
-                    "oelo": 1750,
-                    "ochange": -21,
-                    "time": 603729,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150049,7 +150021,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "Geegeeboy_25",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 2057,
                 "top": 2057,
                 "points": 7,
@@ -154202,23 +154174,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 39,
-                "elo": 2057,
+                "rank": 36,
+                "elo": 2073,
                 "top": 2201,
                 "points": 33,
                 "pb": 401156,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 657,
-                "playtime": 360331310,
-                "finished": 323,
-                "finishtime": 188123348,
-                "won": 366,
+                "matches": 658,
+                "playtime": 360943052,
+                "finished": 324,
+                "finishtime": 188735090,
+                "won": 367,
                 "lost": 284,
                 "forfeited": 61
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783369849000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "thecamo6",
+                    "elo": 2073,
+                    "change": 16,
+                    "oelo": 1923,
+                    "ochange": -16,
+                    "time": 611742,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783369173000,
                     "type": "VILLAGE",
@@ -161771,7 +161757,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 2057,
                 "top": 2086,
                 "points": 7,
