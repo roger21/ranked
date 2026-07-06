@@ -1,5 +1,5 @@
 {
-    "date": 1783319401000,
+    "date": 1783320001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67213,20 +67213,6 @@
                     "oelo": 1889,
                     "ochange": -22,
                     "time": 571252,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778999712000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1862,
-                    "change": 16,
-                    "oelo": 1730,
-                    "ochange": -16,
-                    "time": 583305,
                     "forfeited": false,
                     "decayed": false
                 }
