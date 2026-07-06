@@ -1,5 +1,5 @@
 {
-    "date": 1783302601000,
+    "date": 1783303201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50636,20 +50636,6 @@
                     "time": 473117,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778982851000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1774,
-                    "change": 20,
-                    "oelo": 1723,
-                    "ochange": -20,
-                    "time": 567326,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -67495,20 +67481,6 @@
                     "time": 475305,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778982868000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "thecamo6",
-                    "elo": 2039,
-                    "change": -3,
-                    "oelo": 1825,
-                    "ochange": 3,
-                    "time": 690101,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -82924,23 +82896,37 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 24,
-                "elo": 2172,
+                "rank": 25,
+                "elo": 2145,
                 "top": 2172,
                 "points": 30,
                 "pb": 365320,
-                "current": 2,
+                "current": 0,
                 "streak": 10,
-                "matches": 248,
-                "playtime": 130642039,
+                "matches": 249,
+                "playtime": 131216609,
                 "finished": 120,
                 "finishtime": 69386347,
                 "won": 140,
-                "lost": 105,
+                "lost": 106,
                 "forfeited": 28
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1783303221000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "danterus",
+                    "elo": 2145,
+                    "change": -27,
+                    "oelo": 1999,
+                    "ochange": 27,
+                    "time": 574570,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1782953855000,
                     "type": "VILLAGE",
@@ -85145,7 +85131,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2156,
                 "top": 2176,
                 "points": 53,
@@ -86764,7 +86750,7 @@
             "uuid": "9589914cf31a420bbcb07cd0768eec28",
             "nickname": "_Pasha1337_",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2145,
                 "top": 2145,
                 "points": 0,
@@ -91449,7 +91435,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2145,
                 "top": 2158,
                 "points": 6,
@@ -129738,20 +129724,6 @@
                     "ochange": 21,
                     "time": 553292,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778982851000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1723,
-                    "change": -20,
-                    "oelo": 1774,
-                    "ochange": 20,
-                    "time": 567326,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
