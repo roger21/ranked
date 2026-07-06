@@ -1,5 +1,5 @@
 {
-    "date": 1783329001000,
+    "date": 1783329601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -136561,20 +136561,6 @@
                     "time": 703805,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779009193000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "VojtaH007",
-                    "elo": 1778,
-                    "change": -24,
-                    "oelo": 1728,
-                    "ochange": 24,
-                    "time": 585657,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155938,20 +155924,6 @@
                     "oelo": 1620,
                     "ochange": 25,
                     "time": 839475,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779009193000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 1728,
-                    "change": 24,
-                    "oelo": 1778,
-                    "ochange": -24,
-                    "time": 585657,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -184500,7 +184472,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2037,
                 "top": 2140,
                 "points": 0,
@@ -189563,7 +189535,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2037,
                 "top": 2037,
                 "points": 3,
@@ -194990,7 +194962,7 @@
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "nickname": "4antoo",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2036,
                 "top": 2036,
                 "points": 6,
