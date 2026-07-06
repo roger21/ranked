@@ -1,5 +1,5 @@
 {
-    "date": 1783306201000,
+    "date": 1783306801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -82805,20 +82805,6 @@
                     "time": 533971,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778986273000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "subdas",
-                    "elo": 1915,
-                    "change": -2,
-                    "oelo": 1750,
-                    "ochange": 2,
-                    "time": 944742,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -129640,20 +129626,6 @@
                     "ochange": 23,
                     "time": 486081,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778986273000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "nEmerald",
-                    "elo": 1750,
-                    "change": 2,
-                    "oelo": 1915,
-                    "ochange": -2,
-                    "time": 944742,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
