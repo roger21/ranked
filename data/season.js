@@ -1,5 +1,5 @@
 {
-    "date": 1783367401000,
+    "date": 1783368001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -118543,20 +118543,6 @@
                     "ochange": -19,
                     "time": 500994,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779047697000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Snakezy",
-                    "elo": 1786,
-                    "change": 17,
-                    "oelo": 1657,
-                    "ochange": -17,
-                    "time": 434538,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
