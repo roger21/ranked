@@ -1,5 +1,5 @@
 {
-    "date": 1783298401000,
+    "date": 1783299001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50704,20 +50704,6 @@
                     "oelo": 1696,
                     "ochange": -18,
                     "time": 656910,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778978486000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "paukll",
-                    "elo": 1758,
-                    "change": -20,
-                    "oelo": 1794,
-                    "ochange": 20,
-                    "time": 486572,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135439,20 +135425,6 @@
                     "oelo": 1911,
                     "ochange": -25,
                     "time": 579920,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778978486000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1794,
-                    "change": 20,
-                    "oelo": 1758,
-                    "ochange": -20,
-                    "time": 486572,
                     "forfeited": false,
                     "decayed": false
                 }
