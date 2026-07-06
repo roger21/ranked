@@ -1,5 +1,5 @@
 {
-    "date": 1783374601000,
+    "date": 1783375201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -73608,20 +73608,6 @@
                     "time": 329726,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779055126000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 2103,
-                    "change": -29,
-                    "oelo": 1877,
-                    "ochange": 29,
-                    "time": 574912,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -119573,20 +119559,6 @@
                     "oelo": 1844,
                     "ochange": -20,
                     "time": 479012,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779055126000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "okshey",
-                    "elo": 1877,
-                    "change": 29,
-                    "oelo": 2103,
-                    "ochange": -29,
-                    "time": 574912,
                     "forfeited": false,
                     "decayed": false
                 }
