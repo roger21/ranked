@@ -1,5 +1,5 @@
 {
-    "date": 1783300801000,
+    "date": 1783301401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67551,20 +67551,6 @@
                     "time": 571293,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778981002000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2025,
-                    "change": 13,
-                    "oelo": 1786,
-                    "ochange": -13,
-                    "time": 658263,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -129835,20 +129821,6 @@
                     "oelo": 1683,
                     "ochange": 25,
                     "time": 442435,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778981002000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1786,
-                    "change": -13,
-                    "oelo": 2025,
-                    "ochange": 13,
-                    "time": 658263,
                     "forfeited": false,
                     "decayed": false
                 }
