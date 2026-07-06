@@ -1,5 +1,5 @@
 {
-    "date": 1783312801000,
+    "date": 1783313401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67327,20 +67327,6 @@
                     "time": 472046,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778992870000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 2039,
-                    "change": 14,
-                    "oelo": 1842,
-                    "ochange": -14,
-                    "time": 585628,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82607,20 +82593,6 @@
                     "oelo": 1836,
                     "ochange": -21,
                     "time": 512263,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778992870000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1842,
-                    "change": -14,
-                    "oelo": 2039,
-                    "ochange": 14,
-                    "time": 585628,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -114748,20 +114720,6 @@
                     "oelo": 1863,
                     "ochange": 21,
                     "time": 512263,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778992825000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 1857,
-                    "change": -18,
-                    "oelo": 1958,
-                    "ochange": 18,
-                    "time": 596719,
                     "forfeited": false,
                     "decayed": false
                 }
