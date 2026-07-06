@@ -1,5 +1,5 @@
 {
-    "date": 1783306801000,
+    "date": 1783307401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -53263,20 +53263,6 @@
                     "time": 596542,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1778987061000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1765,
-                    "change": 20,
-                    "oelo": 1727,
-                    "ochange": -20,
-                    "time": 786329,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -67395,20 +67381,6 @@
                     "oelo": 1892,
                     "ochange": 25,
                     "time": 497366,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778987042000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 2022,
-                    "change": 17,
-                    "oelo": 1891,
-                    "ochange": -17,
-                    "time": 650752,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -82789,20 +82761,6 @@
                     "oelo": 1873,
                     "ochange": -18,
                     "time": 790054,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778986874000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "priffie",
-                    "elo": 1938,
-                    "change": 23,
-                    "oelo": 1961,
-                    "ochange": -23,
-                    "time": 533971,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -129597,34 +129555,6 @@
                     "oelo": 1682,
                     "ochange": -20,
                     "time": 571120,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1778987077000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1707,
-                    "change": -20,
-                    "oelo": 1757,
-                    "ochange": 20,
-                    "time": 216038,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1778986815000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1727,
-                    "change": -23,
-                    "oelo": 1699,
-                    "ochange": 23,
-                    "time": 486081,
                     "forfeited": false,
                     "decayed": false
                 }
