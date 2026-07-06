@@ -4536,11 +4536,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4562,
-        "playtime": 2568504678,
+        "matches": 4563,
+        "playtime": 2568716565,
         "finished": 2670,
         "finishtime": 1544089629,
-        "won": 3107,
+        "won": 3108,
         "lost": 1382,
         "forfeited": 40
     },
@@ -5112,13 +5112,13 @@
         },
         "pb": 365320,
         "streak": 14,
-        "matches": 1782,
-        "playtime": 1026727948,
+        "matches": 1783,
+        "playtime": 1026939835,
         "finished": 703,
         "finishtime": 443718082,
         "won": 927,
-        "lost": 747,
-        "forfeited": 239
+        "lost": 748,
+        "forfeited": 240
     },
     "bdb7f407200d4882b78e656ca161bddf": {
         "nickname": "wagasylvie",
