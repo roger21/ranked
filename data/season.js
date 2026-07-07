@@ -1,5 +1,5 @@
 {
-    "date": 1783432801000,
+    "date": 1783433401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -123878,20 +123878,6 @@
                     "time": 703575,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779112939000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1690,
-                    "change": -12,
-                    "oelo": 1934,
-                    "ochange": 12,
-                    "time": 591500,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126302,20 +126288,6 @@
                     "oelo": 1720,
                     "ochange": -13,
                     "time": 469349,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779112939000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1934,
-                    "change": 12,
-                    "oelo": 1690,
-                    "ochange": -12,
-                    "time": 591500,
                     "forfeited": false,
                     "decayed": false
                 }
