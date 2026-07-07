@@ -1,5 +1,5 @@
 {
-    "date": 1783425001000,
+    "date": 1783425601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -117596,34 +117596,6 @@
                     "ochange": -16,
                     "time": 568998,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779105374000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "TUDORULE",
-                    "elo": 1691,
-                    "change": -17,
-                    "oelo": 1813,
-                    "ochange": 17,
-                    "time": 249712,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779105005000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 1708,
-                    "change": -23,
-                    "oelo": 1666,
-                    "ochange": 23,
-                    "time": 395847,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
