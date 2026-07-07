@@ -1456,12 +1456,12 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 20442,
-        "playtime": 12634874022,
+        "matches": 20443,
+        "playtime": 12635501341,
         "finished": 8907,
         "finishtime": 5944953182,
         "won": 11244,
-        "lost": 8905,
+        "lost": 8906,
         "forfeited": 1200
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -3602,7 +3602,7 @@
         "forfeited": 195
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
-        "nickname": "6crimson",
+        "nickname": "Marlowww_IsGOAT",
         "country": "us",
         "top": {
             "1": 1771,
@@ -5100,7 +5100,7 @@
             "8": 1887,
             "9": 2236,
             "10": 2515,
-            "11": 2211
+            "11": 2217
         },
         "points": {
             "6": 0,
@@ -5112,11 +5112,11 @@
         },
         "pb": 365320,
         "streak": 14,
-        "matches": 1801,
-        "playtime": 1036670334,
-        "finished": 713,
-        "finishtime": 449602362,
-        "won": 938,
+        "matches": 1802,
+        "playtime": 1037297653,
+        "finished": 714,
+        "finishtime": 450229681,
+        "won": 939,
         "lost": 755,
         "forfeited": 240
     },
@@ -5149,11 +5149,11 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 7588,
-        "playtime": 3978112180,
-        "finished": 2206,
-        "finishtime": 1447272512,
-        "won": 3639,
+        "matches": 7589,
+        "playtime": 3978877924,
+        "finished": 2207,
+        "finishtime": 1448038256,
+        "won": 3640,
         "lost": 3520,
         "forfeited": 2602
     },
@@ -5908,12 +5908,12 @@
         },
         "pb": 345484,
         "streak": 12,
-        "matches": 13745,
-        "playtime": 8632556139,
+        "matches": 13746,
+        "playtime": 8633321883,
         "finished": 4945,
         "finishtime": 3518006131,
         "won": 6686,
-        "lost": 6323,
+        "lost": 6324,
         "forfeited": 1755
     },
     "dd382293fed04a3e9fa850bb139279fc": {
