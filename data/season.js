@@ -1,5 +1,5 @@
 {
-    "date": 1783405201000,
+    "date": 1783405801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -156396,20 +156396,6 @@
                     "oelo": 1597,
                     "ochange": -22,
                     "time": 533922,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779085394000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "shinramifan",
-                    "elo": 1564,
-                    "change": -22,
-                    "oelo": 1557,
-                    "ochange": 22,
-                    "time": 898158,
                     "forfeited": false,
                     "decayed": false
                 }
