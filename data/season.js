@@ -1,5 +1,5 @@
 {
-    "date": 1783441201000,
+    "date": 1783441802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -123766,20 +123766,6 @@
                     "time": 734083,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779121386000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1806,
-                    "change": -19,
-                    "oelo": 1869,
-                    "ochange": 19,
-                    "time": 544511,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -124949,20 +124935,6 @@
                     "oelo": 1713,
                     "ochange": -18,
                     "time": 476212,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779121204000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1786,
-                    "change": -20,
-                    "oelo": 1814,
-                    "ochange": 20,
-                    "time": 553938,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -140283,20 +140255,6 @@
                     "oelo": 2233,
                     "ochange": 9,
                     "time": 586511,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779121386000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1869,
-                    "change": 19,
-                    "oelo": 1806,
-                    "ochange": -19,
-                    "time": 544511,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -194618,20 +194576,6 @@
                     "oelo": 1950,
                     "ochange": 15,
                     "time": 728913,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779121290000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1809,
-                    "change": 17,
-                    "oelo": 1696,
-                    "ochange": -17,
-                    "time": 805195,
                     "forfeited": false,
                     "decayed": false
                 }
