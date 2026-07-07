@@ -1,5 +1,5 @@
 {
-    "date": 1783428001000,
+    "date": 1783428601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -57808,20 +57808,6 @@
                     "time": 589359,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779108310000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1997,
-                    "change": -17,
-                    "oelo": 2103,
-                    "ochange": 17,
-                    "time": 553737,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -98338,20 +98324,6 @@
                     "ochange": -17,
                     "time": 700625,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779108514000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "TUDORULE",
-                    "elo": 1799,
-                    "change": 0,
-                    "oelo": 1817,
-                    "ochange": 0,
-                    "time": 615425,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
