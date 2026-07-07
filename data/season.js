@@ -1,5 +1,5 @@
 {
-    "date": 1783416002000,
+    "date": 1783416601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -118635,7 +118635,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2105,
                 "top": 2234,
                 "points": 7,
