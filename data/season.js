@@ -1,5 +1,5 @@
 {
-    "date": 1783423801000,
+    "date": 1783424401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88757,23 +88757,37 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 25,
-                "elo": 2169,
+                "rank": 24,
+                "elo": 2183,
                 "top": 2254,
                 "points": 53,
                 "pb": 449505,
-                "current": 0,
+                "current": 1,
                 "streak": 13,
-                "matches": 211,
-                "playtime": 121070109,
-                "finished": 112,
-                "finishtime": 67108963,
-                "won": 122,
+                "matches": 212,
+                "playtime": 121606929,
+                "finished": 113,
+                "finishtime": 67645783,
+                "won": 123,
                 "lost": 81,
                 "forfeited": 4
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1783424376000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "staremc",
+                    "elo": 2183,
+                    "change": 14,
+                    "oelo": 1975,
+                    "ochange": -14,
+                    "time": 536820,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783344873000,
                     "type": "SHIPWRECK",
@@ -117581,20 +117595,6 @@
                     "oelo": 1666,
                     "ochange": 23,
                     "time": 395847,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779104311000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "hsbi",
-                    "elo": 1731,
-                    "change": -22,
-                    "oelo": 1720,
-                    "ochange": 22,
-                    "time": 397717,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -199032,34 +199032,6 @@
                     "oelo": 1719,
                     "ochange": -21,
                     "time": 728138,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779104311000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1720,
-                    "change": 22,
-                    "oelo": 1731,
-                    "ochange": -22,
-                    "time": 397717,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779103851000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1698,
-                    "change": 19,
-                    "oelo": 1623,
-                    "ochange": -19,
-                    "time": 470191,
                     "forfeited": false,
                     "decayed": false
                 }
