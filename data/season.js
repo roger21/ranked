@@ -1,5 +1,5 @@
 {
-    "date": 1783452001000,
+    "date": 1783452601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14677,20 +14677,6 @@
                     "time": 642827,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779132190000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1948,
-                    "change": 27,
-                    "oelo": 2082,
-                    "ochange": -27,
-                    "time": 583002,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -19528,20 +19514,6 @@
                     "oelo": 1729,
                     "ochange": 25,
                     "time": 573731,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779132465000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "suravil",
-                    "elo": 1834,
-                    "change": -21,
-                    "oelo": 1835,
-                    "ochange": 21,
-                    "time": 506808,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -32227,20 +32199,6 @@
                     "time": 520231,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779132195000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "boywithcards",
-                    "elo": 1718,
-                    "change": -22,
-                    "oelo": 1704,
-                    "ochange": 22,
-                    "time": 508786,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -33504,22 +33462,36 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 13,
-                "elo": 2230,
+                "elo": 2242,
                 "top": 2354,
                 "points": 61,
                 "pb": 408840,
-                "current": 1,
+                "current": 2,
                 "streak": 13,
-                "matches": 1030,
-                "playtime": 566526356,
-                "finished": 521,
-                "finishtime": 297591987,
-                "won": 573,
+                "matches": 1031,
+                "playtime": 567241730,
+                "finished": 522,
+                "finishtime": 298307361,
+                "won": 574,
                 "lost": 433,
                 "forfeited": 70
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1783452139000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Lexanh",
+                    "elo": 2242,
+                    "change": 12,
+                    "oelo": 1983,
+                    "ochange": -12,
+                    "time": 715374,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783450976000,
                     "type": "DESERT_TEMPLE",
@@ -43709,20 +43681,6 @@
                     "oelo": 2222,
                     "ochange": -31,
                     "time": 576563,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779132046000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "pavkin",
-                    "elo": 1893,
-                    "change": 19,
-                    "oelo": 1838,
-                    "ochange": -19,
-                    "time": 617741,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -63914,20 +63872,6 @@
                     "oelo": 2253,
                     "ochange": 8,
                     "time": 590860,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779132046000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1838,
-                    "change": -19,
-                    "oelo": 1893,
-                    "ochange": 19,
-                    "time": 617741,
                     "forfeited": false,
                     "decayed": false
                 }
