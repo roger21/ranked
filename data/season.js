@@ -1,5 +1,5 @@
 {
-    "date": 1783435801000,
+    "date": 1783436401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -82287,34 +82287,6 @@
                     "time": 596532,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779116367000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wotez",
-                    "elo": 1928,
-                    "change": 16,
-                    "oelo": 1780,
-                    "ochange": -16,
-                    "time": 472915,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779115805000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1912,
-                    "change": -14,
-                    "oelo": 2105,
-                    "ochange": 14,
-                    "time": 617639,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -123890,20 +123862,6 @@
                     "oelo": 1746,
                     "ochange": -21,
                     "time": 521671,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779116336000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Traden",
-                    "elo": 1726,
-                    "change": 17,
-                    "oelo": 1614,
-                    "ochange": -17,
-                    "time": 974007,
                     "forfeited": false,
                     "decayed": false
                 }
