@@ -1,5 +1,5 @@
 {
-    "date": 1783395601000,
+    "date": 1783396201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -49411,20 +49411,6 @@
                     "oelo": 1952,
                     "ochange": -16,
                     "time": 540028,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779076055000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 2093,
-                    "change": 11,
-                    "oelo": 1791,
-                    "ochange": -11,
-                    "time": 481170,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -147320,20 +147306,6 @@
                     "oelo": 1565,
                     "ochange": -17,
                     "time": 721896,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779075750000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "Anjoru",
-                    "elo": 1670,
-                    "change": 1,
-                    "oelo": 1735,
-                    "ochange": -1,
-                    "time": 733717,
                     "forfeited": true,
                     "decayed": false
                 }
