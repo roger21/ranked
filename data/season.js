@@ -1,5 +1,5 @@
 {
-    "date": 1783437601000,
+    "date": 1783438201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -198915,7 +198915,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2039,
                 "top": 2155,
                 "points": 21,
@@ -200380,7 +200380,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2037,
                 "top": 2140,
                 "points": 0,
