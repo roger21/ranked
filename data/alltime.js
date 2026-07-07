@@ -2195,12 +2195,12 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 5175,
-        "playtime": 3090346359,
+        "matches": 5176,
+        "playtime": 3090924552,
         "finished": 2018,
         "finishtime": 1338986675,
         "won": 2614,
-        "lost": 2377,
+        "lost": 2378,
         "forfeited": 711
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
@@ -2234,11 +2234,11 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6314,
-        "playtime": 3857941719,
-        "finished": 2795,
-        "finishtime": 1850177960,
-        "won": 3454,
+        "matches": 6315,
+        "playtime": 3858584226,
+        "finished": 2796,
+        "finishtime": 1850820467,
+        "won": 3455,
         "lost": 2739,
         "forfeited": 565
     },
@@ -2397,7 +2397,7 @@
         "forfeited": 69
     },
     "5a32f1e5609847c691c07730f973397c": {
-        "nickname": "darvy__",
+        "nickname": "DARVY__X1",
         "country": "je",
         "top": {
             "1": 1468,
@@ -4789,11 +4789,11 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 3457,
-        "playtime": 2182812649,
-        "finished": 1613,
-        "finishtime": 1146180975,
-        "won": 2133,
+        "matches": 3458,
+        "playtime": 2183479151,
+        "finished": 1614,
+        "finishtime": 1146847477,
+        "won": 2134,
         "lost": 1261,
         "forfeited": 315
     },
