@@ -1,5 +1,5 @@
 {
-    "date": 1783466401000,
+    "date": 1783467001000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -29950,20 +29950,6 @@
                     "time": 535002,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779146604000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1822,
-                    "change": 20,
-                    "oelo": 1794,
-                    "ochange": -20,
-                    "time": 670753,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50271,20 +50257,6 @@
                     "time": 470871,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779146814000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 2018,
-                    "change": 17,
-                    "oelo": 1911,
-                    "ochange": -17,
-                    "time": 646349,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -62378,7 +62350,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 2201,
                 "top": 2236,
                 "points": 41,
@@ -64669,23 +64641,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 21,
-                "elo": 2196,
+                "rank": 19,
+                "elo": 2208,
                 "top": 2354,
                 "points": 61,
                 "pb": 408840,
-                "current": 0,
+                "current": 1,
                 "streak": 13,
-                "matches": 1048,
-                "playtime": 577233598,
-                "finished": 530,
-                "finishtime": 303150359,
-                "won": 582,
+                "matches": 1049,
+                "playtime": 577846490,
+                "finished": 531,
+                "finishtime": 303763251,
+                "won": 583,
                 "lost": 442,
                 "forfeited": 70
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1783467025000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "hack_page",
+                    "elo": 2208,
+                    "change": 12,
+                    "oelo": 1952,
+                    "ochange": -12,
+                    "time": 612892,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783465958000,
                     "type": "SHIPWRECK",
@@ -74849,20 +74835,6 @@
                     "time": 651682,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779146681000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "suravil",
-                    "elo": 1945,
-                    "change": -24,
-                    "oelo": 1874,
-                    "ochange": 24,
-                    "time": 608242,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -83125,20 +83097,6 @@
                     "oelo": 1920,
                     "ochange": -25,
                     "time": 651682,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779146604000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1794,
-                    "change": -20,
-                    "oelo": 1822,
-                    "ochange": 20,
-                    "time": 670753,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -97320,20 +97278,6 @@
                     "oelo": 1855,
                     "ochange": -19,
                     "time": 459929,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779146814000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1911,
-                    "change": -17,
-                    "oelo": 2018,
-                    "ochange": 17,
-                    "time": 646349,
                     "forfeited": false,
                     "decayed": false
                 }
