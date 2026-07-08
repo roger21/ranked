@@ -1,5 +1,5 @@
 {
-    "date": 1783488601000,
+    "date": 1783489201000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -194366,20 +194366,6 @@
                     "oelo": 1710,
                     "ochange": 19,
                     "time": 380745,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779168862000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 1656,
-                    "change": -18,
-                    "oelo": 1744,
-                    "ochange": 18,
-                    "time": 255030,
                     "forfeited": true,
                     "decayed": false
                 }
