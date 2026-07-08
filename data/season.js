@@ -1,5 +1,5 @@
 {
-    "date": 1783484402000,
+    "date": 1783485001000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -171710,23 +171710,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 44,
-                "elo": 2063,
+                "rank": 47,
+                "elo": 2055,
                 "top": 2185,
                 "points": 18,
                 "pb": 409746,
                 "current": 0,
                 "streak": 12,
-                "matches": 714,
-                "playtime": 404694030,
+                "matches": 715,
+                "playtime": 405057866,
                 "finished": 339,
                 "finishtime": 205862745,
                 "won": 380,
-                "lost": 315,
-                "forfeited": 82
+                "lost": 316,
+                "forfeited": 83
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1783485005000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2055,
+                    "change": -8,
+                    "oelo": 2472,
+                    "ochange": 8,
+                    "time": 363836,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783404888000,
                     "type": "VILLAGE",
@@ -178957,7 +178971,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2060,
                 "top": 2095,
                 "points": 9,
@@ -192350,7 +192364,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "Geegeeboy_25",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2057,
                 "top": 2057,
                 "points": 7,
@@ -196475,7 +196489,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2056,
                 "top": 2056,
                 "points": 3,
@@ -201641,20 +201655,6 @@
                     "oelo": 1658,
                     "ochange": -21,
                     "time": 689651,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779164610000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "megelimc",
-                    "elo": 1662,
-                    "change": 20,
-                    "oelo": 1621,
-                    "ochange": -20,
-                    "time": 590968,
                     "forfeited": false,
                     "decayed": false
                 }
