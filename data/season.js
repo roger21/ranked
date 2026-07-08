@@ -1,5 +1,5 @@
 {
-    "date": 1783516801000,
+    "date": 1783517401000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7528,20 +7528,6 @@
                     "ochange": 2,
                     "time": 517727,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779197077000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 2255,
-                    "change": 8,
-                    "oelo": 1851,
-                    "ochange": -8,
-                    "time": 653459,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -28582,20 +28568,6 @@
                     "ochange": 17,
                     "time": 521333,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779197301000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1767,
-                    "change": -14,
-                    "oelo": 1969,
-                    "ochange": 14,
-                    "time": 483961,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -54418,20 +54390,6 @@
                     "oelo": 1837,
                     "ochange": -16,
                     "time": 516158,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779197301000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1969,
-                    "change": 14,
-                    "oelo": 1767,
-                    "ochange": -14,
-                    "time": 483961,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107716,20 +107674,6 @@
                     "oelo": 1718,
                     "ochange": -16,
                     "time": 453738,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779196980000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "TapL",
-                    "elo": 1837,
-                    "change": 13,
-                    "oelo": 1622,
-                    "ochange": -13,
-                    "time": 528661,
                     "forfeited": false,
                     "decayed": false
                 }
