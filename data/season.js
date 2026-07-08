@@ -1,5 +1,5 @@
 {
-    "date": 1783498801000,
+    "date": 1783499401000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -121252,20 +121252,6 @@
                     "oelo": 1708,
                     "ochange": 23,
                     "time": 465448,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779179129000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1755,
-                    "change": 20,
-                    "oelo": 1706,
-                    "ochange": -20,
-                    "time": 647025,
                     "forfeited": false,
                     "decayed": false
                 }
