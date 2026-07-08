@@ -1,5 +1,5 @@
 {
-    "date": 1783495801000,
+    "date": 1783496401000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -100387,20 +100387,6 @@
                     "time": 599294,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779176131000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "12BrainCells",
-                    "elo": 1734,
-                    "change": 0,
-                    "oelo": 1719,
-                    "ochange": 0,
-                    "time": 640650,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -121308,20 +121294,6 @@
                     "oelo": 1641,
                     "ochange": -18,
                     "time": 613170,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779175953000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "gharfyy",
-                    "elo": 1722,
-                    "change": -19,
-                    "oelo": 1775,
-                    "ochange": 19,
-                    "time": 466504,
                     "forfeited": false,
                     "decayed": false
                 }
