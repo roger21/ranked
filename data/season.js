@@ -1,5 +1,5 @@
 {
-    "date": 1783515601000,
+    "date": 1783516201000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7541,20 +7541,6 @@
                     "oelo": 1851,
                     "ochange": -8,
                     "time": 653459,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779195828000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 2247,
-                    "change": 9,
-                    "oelo": 1884,
-                    "ochange": -9,
-                    "time": 788161,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28624,34 +28610,6 @@
                     "ochange": -19,
                     "time": 238735,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779196125000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Coach_Side",
-                    "elo": 1762,
-                    "change": -25,
-                    "oelo": 1665,
-                    "ochange": 25,
-                    "time": 213952,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779195806000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "xFray_",
-                    "elo": 1787,
-                    "change": -20,
-                    "oelo": 1839,
-                    "ochange": 20,
-                    "time": 931409,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -86743,20 +86701,6 @@
                     "time": 489076,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779195753000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 1840,
-                    "change": 22,
-                    "oelo": 1844,
-                    "ochange": -22,
-                    "time": 447052,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107828,20 +107772,6 @@
                     "oelo": 1859,
                     "ochange": 20,
                     "time": 485481,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779195753000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Pinne",
-                    "elo": 1844,
-                    "change": -22,
-                    "oelo": 1840,
-                    "ochange": 22,
-                    "time": 447052,
                     "forfeited": false,
                     "decayed": false
                 }
