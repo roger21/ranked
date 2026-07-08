@@ -1,5 +1,5 @@
 {
-    "date": 1783475401000,
+    "date": 1783476001000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -86743,20 +86743,6 @@
                     "time": 517834,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779155458000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 1917,
-                    "change": 17,
-                    "oelo": 1795,
-                    "ochange": -17,
-                    "time": 682908,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -153978,20 +153964,6 @@
                     "oelo": 1775,
                     "ochange": 22,
                     "time": 504249,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779155494000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "FuzzKing",
-                    "elo": 1809,
-                    "change": -22,
-                    "oelo": 1794,
-                    "ochange": 22,
-                    "time": 846579,
                     "forfeited": false,
                     "decayed": false
                 }
