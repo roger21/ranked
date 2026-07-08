@@ -1,5 +1,5 @@
 {
-    "date": 1783497001000,
+    "date": 1783497601000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -100373,20 +100373,6 @@
                     "time": 590927,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779177425000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "wotez",
-                    "elo": 1734,
-                    "change": 0,
-                    "oelo": 1751,
-                    "ochange": 0,
-                    "time": 599294,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -121266,20 +121252,6 @@
                     "oelo": 1686,
                     "ochange": 23,
                     "time": 615671,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779177222000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 1758,
-                    "change": 18,
-                    "oelo": 1660,
-                    "ochange": -18,
-                    "time": 530957,
                     "forfeited": false,
                     "decayed": false
                 }
