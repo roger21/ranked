@@ -1,5 +1,5 @@
 {
-    "date": 1783487401000,
+    "date": 1783488001000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -201697,34 +201697,6 @@
                     "oelo": 1563,
                     "ochange": -17,
                     "time": 604651,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779167838000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "gdemerald",
-                    "elo": 1657,
-                    "change": -23,
-                    "oelo": 1613,
-                    "ochange": 23,
-                    "time": 341228,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779167427000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "12BrainCells",
-                    "elo": 1680,
-                    "change": -20,
-                    "oelo": 1730,
-                    "ochange": 20,
-                    "time": 480836,
                     "forfeited": false,
                     "decayed": false
                 }

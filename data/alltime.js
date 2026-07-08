@@ -6233,13 +6233,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 8017,
-        "playtime": 4417075241,
+        "matches": 8018,
+        "playtime": 4417791832,
         "finished": 3005,
         "finishtime": 1972053536,
         "won": 4036,
-        "lost": 3735,
-        "forfeited": 2317
+        "lost": 3736,
+        "forfeited": 2318
     },
     "eb136e7e26124f8daa99e521da609135": {
         "nickname": "Frolde",
