@@ -1,5 +1,5 @@
 {
-    "date": 1783527601000,
+    "date": 1783528201000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7387,20 +7387,6 @@
                     "oelo": 1916,
                     "ochange": 31,
                     "time": 532705,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779207689000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 2244,
-                    "change": 16,
-                    "oelo": 2107,
-                    "ochange": -16,
-                    "time": 604867,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81596,20 +81582,6 @@
                     "time": 630062,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779208169000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "fe666",
-                    "elo": 1839,
-                    "change": 19,
-                    "oelo": 1770,
-                    "ochange": -19,
-                    "time": 600618,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87553,20 +87525,6 @@
                     "oelo": 2213,
                     "ochange": -31,
                     "time": 532705,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779207773000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Frolde",
-                    "elo": 1885,
-                    "change": -23,
-                    "oelo": 1844,
-                    "ochange": 23,
-                    "time": 505868,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -94995,23 +94953,37 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 29,
-                "elo": 2145,
+                "rank": 32,
+                "elo": 2118,
                 "top": 2230,
                 "points": 14,
                 "pb": 398054,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 1590,
-                "playtime": 878807752,
+                "matches": 1591,
+                "playtime": 879589614,
                 "finished": 689,
                 "finishtime": 413860350,
                 "won": 817,
-                "lost": 744,
+                "lost": 745,
                 "forfeited": 195
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1783528217000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Japieh",
+                    "elo": 2118,
+                    "change": -27,
+                    "oelo": 1958,
+                    "ochange": 27,
+                    "time": 781862,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783526968000,
                     "type": "BURIED_TREASURE",
@@ -108780,7 +108752,7 @@
             "uuid": "9589914cf31a420bbcb07cd0768eec28",
             "nickname": "_Pasha1337_",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 2142,
                 "top": 2168,
                 "points": 0,
@@ -113367,7 +113339,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2138,
                 "top": 2148,
                 "points": 6,
@@ -120509,20 +120481,6 @@
                     "time": 661321,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779207773000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 1844,
-                    "change": 23,
-                    "oelo": 1885,
-                    "ochange": -23,
-                    "time": 505868,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -120530,7 +120488,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2126,
                 "top": 2136,
                 "points": 24,
@@ -152718,20 +152676,6 @@
                     "oelo": 1751,
                     "ochange": -20,
                     "time": 468835,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779208157000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Traden",
-                    "elo": 1779,
-                    "change": 16,
-                    "oelo": 1643,
-                    "ochange": -16,
-                    "time": 517057,
                     "forfeited": false,
                     "decayed": false
                 }
