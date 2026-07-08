@@ -1,5 +1,5 @@
 {
-    "date": 1783470601000,
+    "date": 1783471201000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -4378,22 +4378,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 3,
-                "elo": 2449,
+                "elo": 2427,
                 "top": 2449,
                 "points": 55,
                 "pb": 402891,
-                "current": 8,
+                "current": 0,
                 "streak": 9,
-                "matches": 474,
-                "playtime": 261228190,
+                "matches": 475,
+                "playtime": 261728067,
                 "finished": 251,
                 "finishtime": 140664572,
                 "won": 281,
-                "lost": 170,
+                "lost": 171,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783470799000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2427,
+                    "change": -22,
+                    "oelo": 2427,
+                    "ochange": 22,
+                    "time": 499877,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783469092000,
                     "type": "BURIED_TREASURE",
@@ -6934,23 +6948,37 @@
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "nickname": "Infume",
             "stats": {
-                "rank": 4,
-                "elo": 2405,
-                "top": 2412,
+                "rank": 3,
+                "elo": 2427,
+                "top": 2427,
                 "points": 69,
                 "pb": 372705,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 470,
-                "playtime": 251348570,
-                "finished": 280,
-                "finishtime": 152871466,
-                "won": 314,
+                "matches": 471,
+                "playtime": 251848447,
+                "finished": 281,
+                "finishtime": 153371343,
+                "won": 315,
                 "lost": 151,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783470799000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "nahhann",
+                    "elo": 2427,
+                    "change": 22,
+                    "oelo": 2427,
+                    "ochange": -22,
+                    "time": 499877,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783468389000,
                     "type": "DESERT_TEMPLE",
@@ -29922,20 +29950,6 @@
                     "time": 459283,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779151078000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1829,
-                    "change": 22,
-                    "oelo": 1852,
-                    "ochange": -22,
-                    "time": 717707,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50143,20 +50157,6 @@
                     "oelo": 1950,
                     "ochange": -16,
                     "time": 504544,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779150856000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 2077,
-                    "change": 12,
-                    "oelo": 1828,
-                    "ochange": -12,
-                    "time": 407729,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86813,20 +86813,6 @@
                     "time": 576589,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779150846000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "HDMICables",
-                    "elo": 1914,
-                    "change": -19,
-                    "oelo": 1966,
-                    "ochange": 19,
-                    "time": 439386,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100069,20 +100055,6 @@
                     "ochange": 17,
                     "time": 576589,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779150856000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 1828,
-                    "change": -12,
-                    "oelo": 2077,
-                    "ochange": 12,
-                    "time": 407729,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -118073,20 +118045,6 @@
                     "time": 566684,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779151078000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1852,
-                    "change": -22,
-                    "oelo": 1829,
-                    "ochange": 22,
-                    "time": 717707,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -124076,20 +124034,6 @@
                     "oelo": 2093,
                     "ochange": 16,
                     "time": 504544,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779150846000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 1966,
-                    "change": 19,
-                    "oelo": 1914,
-                    "ochange": -19,
-                    "time": 439386,
                     "forfeited": false,
                     "decayed": false
                 }
