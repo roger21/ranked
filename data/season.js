@@ -1,5 +1,5 @@
 {
-    "date": 1783498201000,
+    "date": 1783498801000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -121266,20 +121266,6 @@
                     "oelo": 1706,
                     "ochange": -20,
                     "time": 647025,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779178433000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "TapL",
-                    "elo": 1735,
-                    "change": -23,
-                    "oelo": 1686,
-                    "ochange": 23,
-                    "time": 615671,
                     "forfeited": false,
                     "decayed": false
                 }
