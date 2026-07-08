@@ -1,5 +1,5 @@
 {
-    "date": 1783514401000,
+    "date": 1783515001000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -7555,20 +7555,6 @@
                     "oelo": 1884,
                     "ochange": -9,
                     "time": 788161,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779194785000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2238,
-                    "change": 7,
-                    "oelo": 1807,
-                    "ochange": -7,
-                    "time": 458955,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28665,20 +28651,6 @@
                     "oelo": 1839,
                     "ochange": 20,
                     "time": 931409,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779194785000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1807,
-                    "change": -7,
-                    "oelo": 2238,
-                    "ochange": 7,
-                    "time": 458955,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86797,20 +86769,6 @@
                     "oelo": 1844,
                     "ochange": -22,
                     "time": 447052,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779194926000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1818,
-                    "change": -19,
-                    "oelo": 1893,
-                    "ochange": 19,
-                    "time": 519640,
                     "forfeited": false,
                     "decayed": false
                 }
