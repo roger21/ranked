@@ -1,5 +1,5 @@
 {
-    "date": 1783533001000,
+    "date": 1783533601000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -103211,20 +103211,6 @@
                     "time": 447503,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779213392000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1980,
-                    "change": 17,
-                    "oelo": 1850,
-                    "ochange": -17,
-                    "time": 635043,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -142596,23 +142582,37 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 40,
-                "elo": 2086,
+                "rank": 43,
+                "elo": 2069,
                 "top": 2095,
                 "points": 9,
                 "pb": 420603,
-                "current": 2,
+                "current": 0,
                 "streak": 8,
-                "matches": 1190,
-                "playtime": 677400385,
+                "matches": 1191,
+                "playtime": 678011288,
                 "finished": 473,
                 "finishtime": 283971762,
                 "won": 571,
-                "lost": 535,
+                "lost": 536,
                 "forfeited": 87
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1783533660000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "vorbh",
+                    "elo": 2069,
+                    "change": -17,
+                    "oelo": 2190,
+                    "ochange": 17,
+                    "time": 610903,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783532933000,
                     "type": "BURIED_TREASURE",
@@ -155968,20 +155968,6 @@
                     "time": 524086,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779213350000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1760,
-                    "change": -23,
-                    "oelo": 1735,
-                    "ochange": 23,
-                    "time": 641856,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155989,7 +155975,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2079,
                 "top": 2127,
                 "points": 21,
@@ -158686,7 +158672,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2072,
                 "top": 2158,
                 "points": 6,
@@ -169349,7 +169335,7 @@
             "uuid": "2988fcfbc6b141a497faa915e13b6592",
             "nickname": "AutomattPLUS",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2072,
                 "top": 2090,
                 "points": 23,
@@ -186824,20 +186810,6 @@
                     "oelo": 1752,
                     "ochange": -17,
                     "time": 660492,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779213392000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1850,
-                    "change": -17,
-                    "oelo": 1980,
-                    "ochange": 17,
-                    "time": 635043,
                     "forfeited": false,
                     "decayed": false
                 }
