@@ -1,5 +1,5 @@
 {
-    "date": 1783500601000,
+    "date": 1783501202000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -121238,20 +121238,6 @@
                     "oelo": 1684,
                     "ochange": -18,
                     "time": 761669,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779181108000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "cvctus",
-                    "elo": 1766,
-                    "change": 14,
-                    "oelo": 1553,
-                    "ochange": -14,
-                    "time": 536302,
                     "forfeited": false,
                     "decayed": false
                 }
