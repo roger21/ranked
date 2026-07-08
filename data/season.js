@@ -1,5 +1,5 @@
 {
-    "date": 1783494001000,
+    "date": 1783494601000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -100399,20 +100399,6 @@
                     "oelo": 1695,
                     "ochange": -20,
                     "time": 566550,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779174403000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "GabzlynMC",
-                    "elo": 1714,
-                    "change": -25,
-                    "oelo": 1623,
-                    "ochange": 25,
-                    "time": 546783,
                     "forfeited": false,
                     "decayed": false
                 }
