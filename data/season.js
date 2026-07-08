@@ -1,5 +1,5 @@
 {
-    "date": 1783495201000,
+    "date": 1783495801000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -121322,20 +121322,6 @@
                     "oelo": 1775,
                     "ochange": 19,
                     "time": 466504,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779175434000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "12BrainCells",
-                    "elo": 1741,
-                    "change": 21,
-                    "oelo": 1719,
-                    "ochange": -21,
-                    "time": 728138,
                     "forfeited": false,
                     "decayed": false
                 }
