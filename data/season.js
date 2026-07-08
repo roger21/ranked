@@ -1,5 +1,5 @@
 {
-    "date": 1783516201000,
+    "date": 1783516801000,
     "players": [
         {
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
@@ -28597,20 +28597,6 @@
                     "time": 483961,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779196485000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "wotez",
-                    "elo": 1781,
-                    "change": 19,
-                    "oelo": 1719,
-                    "ochange": -19,
-                    "time": 238735,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -54446,20 +54432,6 @@
                     "oelo": 1767,
                     "ochange": -14,
                     "time": 483961,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779196593000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1955,
-                    "change": 15,
-                    "oelo": 1784,
-                    "ochange": -15,
-                    "time": 809755,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107758,20 +107730,6 @@
                     "oelo": 1622,
                     "ochange": -13,
                     "time": 528661,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779196341000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "xFray_",
-                    "elo": 1824,
-                    "change": -20,
-                    "oelo": 1859,
-                    "ochange": 20,
-                    "time": 485481,
                     "forfeited": false,
                     "decayed": false
                 }
