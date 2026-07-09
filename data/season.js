@@ -1,5 +1,5 @@
 {
-    "date": 1783558201000,
+    "date": 1783558801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -56076,20 +56076,6 @@
                     "time": 641520,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779238514000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1864,
-                    "change": -12,
-                    "oelo": 2117,
-                    "ochange": 12,
-                    "time": 463218,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -75103,20 +75089,6 @@
                     "oelo": 1852,
                     "ochange": 20,
                     "time": 578373,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779238655000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Frolde",
-                    "elo": 1839,
-                    "change": -21,
-                    "oelo": 1853,
-                    "ochange": 21,
-                    "time": 580150,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -113022,20 +112994,6 @@
                     "oelo": 1983,
                     "ochange": 16,
                     "time": 574673,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779238655000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1853,
-                    "change": 21,
-                    "oelo": 1839,
-                    "ochange": -21,
-                    "time": 580150,
                     "forfeited": false,
                     "decayed": false
                 }
