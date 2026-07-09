@@ -1,5 +1,5 @@
 {
-    "date": 1783612201000,
+    "date": 1783612801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -7415,20 +7415,6 @@
                     "oelo": 1965,
                     "ochange": -13,
                     "time": 454214,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779292396000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 2185,
-                    "change": 11,
-                    "oelo": 1891,
-                    "ochange": -11,
-                    "time": 522898,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55822,20 +55808,6 @@
                     "oelo": 1762,
                     "ochange": 23,
                     "time": 878803,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779292778000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Voxio",
-                    "elo": 1827,
-                    "change": 17,
-                    "oelo": 1708,
-                    "ochange": -17,
-                    "time": 509269,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -169961,20 +169933,6 @@
                     "ochange": -19,
                     "time": 721156,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779292706000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "sylvsunday",
-                    "elo": 1667,
-                    "change": -22,
-                    "oelo": 1663,
-                    "ochange": 22,
-                    "time": 576301,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
