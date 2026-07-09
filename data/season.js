@@ -1,5 +1,5 @@
 {
-    "date": 1783591801000,
+    "date": 1783592401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -137904,20 +137904,6 @@
                     "time": 611316,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779272109000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 1792,
-                    "change": -14,
-                    "oelo": 1995,
-                    "ochange": 14,
-                    "time": 705926,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -187459,20 +187445,6 @@
                     "oelo": 1993,
                     "ochange": 21,
                     "time": 509441,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779272109000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yjako",
-                    "elo": 1995,
-                    "change": 14,
-                    "oelo": 1792,
-                    "ochange": -14,
-                    "time": 705926,
                     "forfeited": false,
                     "decayed": false
                 }
