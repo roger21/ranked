@@ -1,5 +1,5 @@
 {
-    "date": 1783584001000,
+    "date": 1783584601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -5736,7 +5736,7 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 3,
-                "elo": 2469,
+                "elo": 2464,
                 "top": 2538,
                 "points": 110,
                 "pb": 353371,
@@ -5752,6 +5752,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1783584338000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2464,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783497936000,
                     "type": null,
