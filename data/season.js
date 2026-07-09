@@ -1,5 +1,5 @@
 {
-    "date": 1783614601000,
+    "date": 1783615201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -55725,20 +55725,6 @@
                     "ochange": 0,
                     "time": 550709,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779295000000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "huhPrince",
-                    "elo": 1780,
-                    "change": -24,
-                    "oelo": 1711,
-                    "ochange": 24,
-                    "time": 705318,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -123592,20 +123578,6 @@
                     "oelo": 1636,
                     "ochange": 23,
                     "time": 693092,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779294716000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dumbpuppyfailure",
-                    "elo": 1686,
-                    "change": 17,
-                    "oelo": 1569,
-                    "ochange": -17,
-                    "time": 522197,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -191809,20 +191781,6 @@
                     "ochange": 0,
                     "time": 550709,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779294700000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Brunted",
-                    "elo": 1780,
-                    "change": -22,
-                    "oelo": 1780,
-                    "ochange": 22,
-                    "time": 606088,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
