@@ -1,5 +1,5 @@
 {
-    "date": 1783590001000,
+    "date": 1783590601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -32907,7 +32907,7 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 12,
-                "elo": 2242,
+                "elo": 2237,
                 "top": 2247,
                 "points": 66,
                 "pb": 410465,
@@ -32923,6 +32923,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783590541000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2237,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783504116000,
                     "type": null,
