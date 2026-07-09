@@ -1,5 +1,5 @@
 {
-    "date": 1783591201000,
+    "date": 1783591801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -13388,7 +13388,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 7,
-                "elo": 2300,
+                "elo": 2295,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -13404,6 +13404,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783591741000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2295,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783020578000,
                     "type": "VILLAGE",
@@ -187459,20 +187473,6 @@
                     "oelo": 1792,
                     "ochange": -14,
                     "time": 705926,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779271327000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Zbom",
-                    "elo": 1981,
-                    "change": 12,
-                    "oelo": 1711,
-                    "ochange": -12,
-                    "time": 551739,
                     "forfeited": false,
                     "decayed": false
                 }
