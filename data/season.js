@@ -1,5 +1,5 @@
 {
-    "date": 1783593001000,
+    "date": 1783593601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -81996,22 +81996,36 @@
             "nickname": "Erikfzf",
             "stats": {
                 "rank": 25,
-                "elo": 2164,
+                "elo": 2176,
                 "top": 2254,
                 "points": 53,
                 "pb": 449505,
-                "current": 2,
+                "current": 3,
                 "streak": 13,
-                "matches": 228,
-                "playtime": 130613417,
-                "finished": 121,
-                "finishtime": 72594228,
-                "won": 132,
+                "matches": 229,
+                "playtime": 131148815,
+                "finished": 122,
+                "finishtime": 73129626,
+                "won": 133,
                 "lost": 88,
                 "forfeited": 5
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1783593298000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Pi1Mu9353",
+                    "elo": 2176,
+                    "change": 12,
+                    "oelo": 1908,
+                    "ochange": -12,
+                    "time": 535398,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783592520000,
                     "type": "DESERT_TEMPLE",
@@ -131323,20 +131337,6 @@
                     "oelo": 1721,
                     "ochange": -18,
                     "time": 505203,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779273511000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 1788,
-                    "change": 18,
-                    "oelo": 1691,
-                    "ochange": -18,
-                    "time": 537518,
                     "forfeited": false,
                     "decayed": false
                 }
