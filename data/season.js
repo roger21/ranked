@@ -1,5 +1,5 @@
 {
-    "date": 1783615201000,
+    "date": 1783615801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -7373,20 +7373,6 @@
                     "oelo": 1935,
                     "ochange": -11,
                     "time": 619007,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779295769000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2219,
-                    "change": 11,
-                    "oelo": 1915,
-                    "ochange": -11,
-                    "time": 508647,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55710,20 +55696,6 @@
                     "oelo": 1686,
                     "ochange": -17,
                     "time": 903222,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779295646000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 1780,
-                    "change": 0,
-                    "oelo": 1780,
-                    "ochange": 0,
-                    "time": 550709,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -123564,20 +123536,6 @@
                     "oelo": 1641,
                     "ochange": -20,
                     "time": 539569,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779295562000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "fox1ebtw",
-                    "elo": 1663,
-                    "change": -23,
-                    "oelo": 1636,
-                    "ochange": 23,
-                    "time": 693092,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -191767,20 +191725,6 @@
                     "ochange": -23,
                     "time": 619009,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779295646000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "nyachloe",
-                    "elo": 1780,
-                    "change": 0,
-                    "oelo": 1780,
-                    "ochange": 0,
-                    "time": 550709,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
