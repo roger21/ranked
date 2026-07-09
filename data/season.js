@@ -1,5 +1,5 @@
 {
-    "date": 1783586401000,
+    "date": 1783587001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -119314,20 +119314,6 @@
                     "time": 651611,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779266603000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1784,
-                    "change": 18,
-                    "oelo": 1684,
-                    "ochange": -18,
-                    "time": 761669,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -183326,20 +183312,6 @@
                     "ochange": -16,
                     "time": 217873,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779266884000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1724,
-                    "change": 20,
-                    "oelo": 1677,
-                    "ochange": -20,
-                    "time": 463026,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
