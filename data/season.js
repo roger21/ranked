@@ -1,5 +1,5 @@
 {
-    "date": 1783611601000,
+    "date": 1783612201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -25189,20 +25189,6 @@
                     "ochange": 13,
                     "time": 454214,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779291720000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "suravil",
-                    "elo": 1978,
-                    "change": -25,
-                    "oelo": 1902,
-                    "ochange": 25,
-                    "time": 287644,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -55850,20 +55836,6 @@
                     "oelo": 1708,
                     "ochange": -17,
                     "time": 509269,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779292184000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Th1tme0",
-                    "elo": 1810,
-                    "change": -26,
-                    "oelo": 1703,
-                    "ochange": 26,
-                    "time": 537894,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -158306,20 +158278,6 @@
                     "time": 602213,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779292059000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BinEin",
-                    "elo": 1734,
-                    "change": 20,
-                    "oelo": 1689,
-                    "ochange": -20,
-                    "time": 530139,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -170017,20 +169975,6 @@
                     "ochange": 22,
                     "time": 576301,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779292059000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 1689,
-                    "change": -20,
-                    "oelo": 1734,
-                    "ochange": 20,
-                    "time": 530139,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
