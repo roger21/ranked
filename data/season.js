@@ -1,5 +1,5 @@
 {
-    "date": 1783570801000,
+    "date": 1783571401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -147272,23 +147272,37 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 40,
-                "elo": 2078,
+                "rank": 44,
+                "elo": 2056,
                 "top": 2085,
                 "points": 5,
                 "pb": 398256,
-                "current": 1,
+                "current": 0,
                 "streak": 7,
-                "matches": 526,
-                "playtime": 307781401,
+                "matches": 527,
+                "playtime": 308366542,
                 "finished": 237,
                 "finishtime": 148752072,
                 "won": 274,
-                "lost": 235,
+                "lost": 236,
                 "forfeited": 51
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783571435000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "dandannyboy",
+                    "elo": 2056,
+                    "change": -22,
+                    "oelo": 2043,
+                    "ochange": 22,
+                    "time": 585141,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783570764000,
                     "type": "SHIPWRECK",
@@ -152013,7 +152027,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2072,
                 "top": 2158,
                 "points": 6,
@@ -162676,7 +162690,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2069,
                 "top": 2072,
                 "points": 7,
@@ -165191,7 +165205,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2068,
                 "top": 2068,
                 "points": 6,
@@ -168518,7 +168532,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2060,
                 "top": 2109,
                 "points": 9,
@@ -181981,7 +181995,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2056,
                 "top": 2056,
                 "points": 3,
@@ -186918,7 +186932,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2056,
                 "top": 2155,
                 "points": 21,
