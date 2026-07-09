@@ -1,5 +1,5 @@
 {
-    "date": 1783608601000,
+    "date": 1783609201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -7457,20 +7457,6 @@
                     "oelo": 1856,
                     "ochange": -9,
                     "time": 635677,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779289022000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "steez",
-                    "elo": 2193,
-                    "change": -29,
-                    "oelo": 1989,
-                    "ochange": 29,
-                    "time": 478490,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -25286,20 +25272,6 @@
                     "oelo": 1842,
                     "ochange": 26,
                     "time": 632204,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779289022000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "edcr",
-                    "elo": 1989,
-                    "change": 29,
-                    "oelo": 2193,
-                    "ochange": -29,
-                    "time": 478490,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -56004,20 +55976,6 @@
                     "oelo": 2047,
                     "ochange": 15,
                     "time": 587355,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779288731000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1880,
-                    "change": 16,
-                    "oelo": 1726,
-                    "ochange": -16,
-                    "time": 641520,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -158514,20 +158472,6 @@
                     "oelo": 1722,
                     "ochange": -23,
                     "time": 698838,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779288897000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 1671,
-                    "change": -20,
-                    "oelo": 1703,
-                    "ochange": 20,
-                    "time": 596099,
                     "forfeited": false,
                     "decayed": false
                 }

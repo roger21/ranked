@@ -1495,7 +1495,7 @@
     },
     "3910d98bea254b488a10d6e91e469f7e": {
         "nickname": "dwoh",
-        "country": null,
+        "country": "kr",
         "top": {
             "1": 1802,
             "2": 1813,
@@ -2446,12 +2446,12 @@
         },
         "pb": 478945,
         "streak": 10,
-        "matches": 3768,
-        "playtime": 2652980787,
+        "matches": 3769,
+        "playtime": 2653733332,
         "finished": 1391,
         "finishtime": 1080960646,
         "won": 1884,
-        "lost": 1724,
+        "lost": 1725,
         "forfeited": 69
     },
     "5a32f1e5609847c691c07730f973397c": {
