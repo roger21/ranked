@@ -1,27 +1,41 @@
 {
-    "date": 1783563601000,
+    "date": 1783564201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "nickname": "Infume",
             "stats": {
                 "rank": 1,
-                "elo": 2514,
-                "top": 2514,
+                "elo": 2529,
+                "top": 2529,
                 "points": 69,
                 "pb": 372705,
-                "current": 8,
+                "current": 9,
                 "streak": 10,
-                "matches": 483,
-                "playtime": 257961138,
-                "finished": 291,
-                "finishtime": 158572670,
-                "won": 326,
+                "matches": 484,
+                "playtime": 258612142,
+                "finished": 292,
+                "finishtime": 159223674,
+                "won": 327,
                 "lost": 152,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783563724000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "nhb_",
+                    "elo": 2529,
+                    "change": 15,
+                    "oelo": 2347,
+                    "ochange": -15,
+                    "time": 651004,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783562081000,
                     "type": "DESERT_TEMPLE",
@@ -10038,22 +10052,36 @@
             "nickname": "nhb_",
             "stats": {
                 "rank": 5,
-                "elo": 2362,
+                "elo": 2347,
                 "top": 2408,
                 "points": 69,
                 "pb": 361866,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 264,
-                "playtime": 146098472,
+                "matches": 265,
+                "playtime": 146749476,
                 "finished": 145,
                 "finishtime": 79637352,
                 "won": 163,
-                "lost": 96,
+                "lost": 97,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783563724000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2347,
+                    "change": -15,
+                    "oelo": 2529,
+                    "ochange": 15,
+                    "time": 651004,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783562947000,
                     "type": "VILLAGE",
@@ -35049,20 +35077,6 @@
                     "ochange": -22,
                     "time": 503188,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779244131000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 1927,
-                    "change": -22,
-                    "oelo": 1912,
-                    "ochange": 22,
-                    "time": 601968,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -75090,20 +75104,6 @@
                     "ochange": -21,
                     "time": 572077,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779244106000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1891,
-                    "change": 25,
-                    "oelo": 1975,
-                    "ochange": -25,
-                    "time": 512195,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
