@@ -1,5 +1,5 @@
 {
-    "date": 1783565401000,
+    "date": 1783566001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -56202,20 +56202,6 @@
                     "time": 549630,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779245640000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1987,
-                    "change": 17,
-                    "oelo": 1874,
-                    "ochange": -17,
-                    "time": 593369,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -75103,20 +75089,6 @@
                     "oelo": 2025,
                     "ochange": 17,
                     "time": 589368,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779245498000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Anjoru",
-                    "elo": 1925,
-                    "change": 13,
-                    "oelo": 1694,
-                    "ochange": -13,
-                    "time": 597026,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -196768,23 +196740,37 @@
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "nickname": "Bloonskiller",
             "stats": {
-                "rank": 50,
-                "elo": 2048,
+                "rank": 52,
+                "elo": 2042,
                 "top": 2048,
                 "points": 5,
                 "pb": 398256,
-                "current": 6,
+                "current": 0,
                 "streak": 7,
-                "matches": 519,
-                "playtime": 304374324,
+                "matches": 520,
+                "playtime": 304842100,
                 "finished": 234,
                 "finishtime": 147085997,
                 "won": 270,
-                "lost": 232,
+                "lost": 233,
                 "forfeited": 51
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783566028000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2042,
+                    "change": -6,
+                    "oelo": 2546,
+                    "ochange": 6,
+                    "time": 467776,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783297028000,
                     "type": "SHIPWRECK",
