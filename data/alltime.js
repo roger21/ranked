@@ -2853,8 +2853,8 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7455,
-        "playtime": 4768643433,
+        "matches": 7456,
+        "playtime": 4769207135,
         "finished": 2659,
         "finishtime": 1935556495,
         "won": 3752,
@@ -3575,11 +3575,11 @@
         },
         "pb": 456217,
         "streak": 11,
-        "matches": 5672,
-        "playtime": 3437551470,
+        "matches": 5673,
+        "playtime": 3437879668,
         "finished": 1962,
         "finishtime": 1418505423,
-        "won": 2855,
+        "won": 2856,
         "lost": 2619,
         "forfeited": 1309
     },
@@ -4099,7 +4099,7 @@
         "top": {
             "9": 1347,
             "10": 2022,
-            "11": 2067
+            "11": 2069
         },
         "points": {
             "9": 0,
@@ -4108,11 +4108,11 @@
         },
         "pb": 448618,
         "streak": 9,
-        "matches": 1110,
-        "playtime": 828605446,
-        "finished": 434,
-        "finishtime": 354573832,
-        "won": 562,
+        "matches": 1111,
+        "playtime": 829143205,
+        "finished": 435,
+        "finishtime": 355111591,
+        "won": 563,
         "lost": 458,
         "forfeited": 69
     },
@@ -5405,13 +5405,13 @@
         },
         "pb": 422817,
         "streak": 13,
-        "matches": 3529,
-        "playtime": 2201063904,
+        "matches": 3530,
+        "playtime": 2201392102,
         "finished": 1514,
         "finishtime": 1034403786,
         "won": 1934,
-        "lost": 1507,
-        "forfeited": 256
+        "lost": 1508,
+        "forfeited": 257
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
         "nickname": "josh7eautwins",
@@ -5868,12 +5868,12 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 9583,
-        "playtime": 6118086285,
+        "matches": 9584,
+        "playtime": 6118624044,
         "finished": 3388,
         "finishtime": 2411674532,
         "won": 4770,
-        "lost": 4402,
+        "lost": 4403,
         "forfeited": 1130
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
