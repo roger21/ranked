@@ -1,5 +1,5 @@
 {
-    "date": 1783579801000,
+    "date": 1783580401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -147286,23 +147286,37 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 40,
-                "elo": 2081,
+                "rank": 44,
+                "elo": 2060,
                 "top": 2109,
                 "points": 9,
                 "pb": 420603,
                 "current": 0,
                 "streak": 8,
-                "matches": 1204,
-                "playtime": 685398487,
+                "matches": 1205,
+                "playtime": 685968591,
                 "finished": 479,
                 "finishtime": 287650781,
                 "won": 578,
-                "lost": 542,
+                "lost": 543,
                 "forfeited": 88
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1783580420000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "SammmyG",
+                    "elo": 2060,
+                    "change": -21,
+                    "oelo": 2071,
+                    "ochange": 21,
+                    "time": 570104,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783579693000,
                     "type": "BURIED_TREASURE",
@@ -160791,7 +160805,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2072,
                 "top": 2158,
                 "points": 6,
@@ -177296,7 +177310,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2056,
                 "top": 2056,
                 "points": 3,
@@ -182233,7 +182247,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2054,
                 "top": 2059,
                 "points": 24,
@@ -183292,7 +183306,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2054,
                 "top": 2130,
                 "points": 9,
@@ -185863,7 +185877,7 @@
             "uuid": "7844abd0972f4a76a6d557b2107ca9dd",
             "nickname": "VojtaH007",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2054,
                 "top": 2056,
                 "points": 9,
@@ -192578,23 +192592,37 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 48,
-                "elo": 2050,
+                "rank": 41,
+                "elo": 2071,
                 "top": 2155,
                 "points": 21,
                 "pb": 426548,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 209,
-                "playtime": 122027429,
-                "finished": 107,
-                "finishtime": 63707048,
-                "won": 122,
+                "matches": 210,
+                "playtime": 122597533,
+                "finished": 108,
+                "finishtime": 64277152,
+                "won": 123,
                 "lost": 79,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1783580420000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "cofesho",
+                    "elo": 2071,
+                    "change": 21,
+                    "oelo": 2060,
+                    "ochange": -21,
+                    "time": 570104,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783579622000,
                     "type": "DESERT_TEMPLE",
