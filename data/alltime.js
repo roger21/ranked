@@ -13,7 +13,7 @@
             "8": 2195,
             "9": 2150,
             "10": 2335,
-            "11": 2048
+            "11": 2049
         },
         "points": {
             "1": 0,
@@ -30,11 +30,11 @@
         },
         "pb": 392337,
         "streak": 13,
-        "matches": 6165,
-        "playtime": 3826922638,
+        "matches": 6166,
+        "playtime": 3827135790,
         "finished": 2411,
         "finishtime": 1670448720,
-        "won": 3134,
+        "won": 3135,
         "lost": 2870,
         "forfeited": 615
     },
@@ -3215,13 +3215,13 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 11216,
-        "playtime": 6144908417,
+        "matches": 11217,
+        "playtime": 6145121569,
         "finished": 3821,
         "finishtime": 2306028523,
         "won": 5153,
-        "lost": 4949,
-        "forfeited": 2663
+        "lost": 4950,
+        "forfeited": 2664
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -3575,11 +3575,11 @@
         },
         "pb": 456217,
         "streak": 11,
-        "matches": 5654,
-        "playtime": 3426250965,
-        "finished": 1955,
-        "finishtime": 1414162970,
-        "won": 2848,
+        "matches": 5655,
+        "playtime": 3426843460,
+        "finished": 1956,
+        "finishtime": 1414755465,
+        "won": 2849,
         "lost": 2608,
         "forfeited": 1309
     },
@@ -3949,12 +3949,12 @@
         },
         "pb": 430963,
         "streak": 12,
-        "matches": 3577,
-        "playtime": 2322201255,
+        "matches": 3578,
+        "playtime": 2322793750,
         "finished": 1380,
         "finishtime": 967518058,
         "won": 1832,
-        "lost": 1592,
+        "lost": 1593,
         "forfeited": 72
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
@@ -4063,29 +4063,6 @@
         "won": 1131,
         "lost": 1006,
         "forfeited": 187
-    },
-    "9649236873db4cb9b7bdc2dae693ed39": {
-        "nickname": "Yosa1003",
-        "country": "jp",
-        "top": {
-            "9": 1347,
-            "10": 2022,
-            "11": 2067
-        },
-        "points": {
-            "9": 0,
-            "10": 0,
-            "11": 7
-        },
-        "pb": 448618,
-        "streak": 9,
-        "matches": 1110,
-        "playtime": 828605446,
-        "finished": 434,
-        "finishtime": 354573832,
-        "won": 562,
-        "lost": 458,
-        "forfeited": 69
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
         "nickname": "mi5f1t",
