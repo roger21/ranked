@@ -1,5 +1,5 @@
 {
-    "date": 1783606201000,
+    "date": 1783606801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -146941,7 +146941,7 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "Lexanh",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 2101,
                 "top": 2162,
                 "points": 26,
@@ -156358,23 +156358,37 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 40,
-                "elo": 2084,
+                "rank": 37,
+                "elo": 2104,
                 "top": 2211,
                 "points": 44,
                 "pb": 412328,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 407,
-                "playtime": 216986903,
-                "finished": 197,
-                "finishtime": 112164347,
-                "won": 220,
+                "matches": 408,
+                "playtime": 217570283,
+                "finished": 198,
+                "finishtime": 112747727,
+                "won": 221,
                 "lost": 172,
                 "forfeited": 43
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1783606804000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Erikfzf",
+                    "elo": 2104,
+                    "change": 20,
+                    "oelo": 2052,
+                    "ochange": -20,
+                    "time": 583380,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783606175000,
                     "type": "VILLAGE",
@@ -164477,23 +164491,37 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 42,
-                "elo": 2072,
+                "rank": 50,
+                "elo": 2052,
                 "top": 2254,
                 "points": 53,
                 "pb": 449505,
                 "current": 0,
                 "streak": 13,
-                "matches": 245,
-                "playtime": 140951774,
+                "matches": 246,
+                "playtime": 141535154,
                 "finished": 128,
                 "finishtime": 77081202,
                 "won": 139,
-                "lost": 98,
+                "lost": 99,
                 "forfeited": 6
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1783606804000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 2052,
+                    "change": -20,
+                    "oelo": 2104,
+                    "ochange": 20,
+                    "time": 583380,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783605918000,
                     "type": "VILLAGE",
@@ -166418,7 +166446,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2069,
                 "top": 2072,
                 "points": 7,
@@ -168933,7 +168961,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2068,
                 "top": 2068,
                 "points": 6,
@@ -172260,7 +172288,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2060,
                 "top": 2109,
                 "points": 9,
@@ -185779,7 +185807,7 @@
             "uuid": "5fe66e8b389f4dc384222e8cc09485f0",
             "nickname": "sanjinhu",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2056,
                 "top": 2056,
                 "points": 3,
@@ -190716,7 +190744,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2054,
                 "top": 2059,
                 "points": 24,
@@ -191733,7 +191761,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2054,
                 "top": 2130,
                 "points": 9,
@@ -194304,7 +194332,7 @@
             "uuid": "7844abd0972f4a76a6d557b2107ca9dd",
             "nickname": "VojtaH007",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2054,
                 "top": 2056,
                 "points": 9,
