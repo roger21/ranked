@@ -1,5 +1,5 @@
 {
-    "date": 1783609801000,
+    "date": 1783610401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -7443,20 +7443,6 @@
                     "oelo": 2003,
                     "ochange": 28,
                     "time": 513898,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779290194000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nyachloe",
-                    "elo": 2202,
-                    "change": 9,
-                    "oelo": 1856,
-                    "ochange": -9,
-                    "time": 635677,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -25258,20 +25244,6 @@
                     "oelo": 1733,
                     "ochange": -12,
                     "time": 595394,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779289964000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "suravil",
-                    "elo": 1963,
-                    "change": -26,
-                    "oelo": 1842,
-                    "ochange": 26,
-                    "time": 632204,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55948,20 +55920,6 @@
                     "oelo": 1877,
                     "ochange": 20,
                     "time": 629813,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779290194000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 1856,
-                    "change": -9,
-                    "oelo": 2202,
-                    "ochange": 9,
-                    "time": 635677,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -158444,20 +158402,6 @@
                     "oelo": 1715,
                     "ochange": 21,
                     "time": 638193,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779290351000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Zbom",
-                    "elo": 1713,
-                    "change": 19,
-                    "oelo": 1650,
-                    "ochange": -19,
-                    "time": 618721,
                     "forfeited": false,
                     "decayed": false
                 }
