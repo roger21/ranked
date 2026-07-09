@@ -1,5 +1,5 @@
 {
-    "date": 1783610401000,
+    "date": 1783611001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -25230,20 +25230,6 @@
                     "oelo": 2174,
                     "ochange": -28,
                     "time": 513898,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779290661000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1975,
-                    "change": 12,
-                    "oelo": 1733,
-                    "ochange": -12,
-                    "time": 595394,
                     "forfeited": false,
                     "decayed": false
                 }
