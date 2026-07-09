@@ -2253,13 +2253,13 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 5192,
-        "playtime": 3100115167,
+        "matches": 5194,
+        "playtime": 3100565795,
         "finished": 2025,
         "finishtime": 1343554638,
-        "won": 2621,
-        "lost": 2387,
-        "forfeited": 716
+        "won": 2622,
+        "lost": 2388,
+        "forfeited": 717
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -2446,12 +2446,12 @@
         },
         "pb": 478945,
         "streak": 10,
-        "matches": 3766,
-        "playtime": 2651876272,
+        "matches": 3767,
+        "playtime": 2652484068,
         "finished": 1390,
         "finishtime": 1080463927,
         "won": 1883,
-        "lost": 1723,
+        "lost": 1724,
         "forfeited": 69
     },
     "5a32f1e5609847c691c07730f973397c": {
