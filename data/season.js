@@ -1,5 +1,5 @@
 {
-    "date": 1783560001000,
+    "date": 1783560601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -75105,20 +75105,6 @@
                     "time": 728167,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779240434000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1817,
-                    "change": -2,
-                    "oelo": 1618,
-                    "ochange": 2,
-                    "time": 515084,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -112981,20 +112967,6 @@
                     "ochange": 19,
                     "time": 728167,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779240089000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1792,
-                    "change": -19,
-                    "oelo": 1871,
-                    "ochange": 19,
-                    "time": 308698,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
