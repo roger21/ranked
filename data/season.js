@@ -1,5 +1,5 @@
 {
-    "date": 1783563001000,
+    "date": 1783563601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -35062,20 +35062,6 @@
                     "oelo": 1912,
                     "ochange": 22,
                     "time": 601968,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779243160000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1949,
-                    "change": -24,
-                    "oelo": 1876,
-                    "ochange": 24,
-                    "time": 575678,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -75118,20 +75104,6 @@
                     "ochange": -25,
                     "time": 512195,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779243445000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1866,
-                    "change": 22,
-                    "oelo": 1890,
-                    "ochange": -22,
-                    "time": 601670,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
