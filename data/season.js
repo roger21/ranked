@@ -1,5 +1,5 @@
 {
-    "date": 1783699801000,
+    "date": 1783700401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -33412,20 +33412,6 @@
                     "time": 557823,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779380278000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2032,
-                    "change": 20,
-                    "oelo": 1996,
-                    "ochange": -20,
-                    "time": 451058,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -39229,20 +39215,6 @@
                     "oelo": 1739,
                     "ochange": -15,
                     "time": 693271,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779380041000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1883,
-                    "change": -26,
-                    "oelo": 1771,
-                    "ochange": 26,
-                    "time": 616696,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -133977,20 +133949,6 @@
                     "time": 532070,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779379987000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "gharfyy",
-                    "elo": 1853,
-                    "change": 20,
-                    "oelo": 1803,
-                    "ochange": -20,
-                    "time": 486566,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -154412,20 +154370,6 @@
                     "oelo": 1793,
                     "ochange": 22,
                     "time": 739447,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779380100000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1826,
-                    "change": -21,
-                    "oelo": 1852,
-                    "ochange": 21,
-                    "time": 575807,
                     "forfeited": false,
                     "decayed": false
                 }
