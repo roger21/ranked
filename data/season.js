@@ -1,5 +1,5 @@
 {
-    "date": 1783702801000,
+    "date": 1783703401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4774,20 +4774,6 @@
                     "oelo": 1993,
                     "ochange": -13,
                     "time": 382272,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779383300000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "steez",
-                    "elo": 2201,
-                    "change": -25,
-                    "oelo": 2111,
-                    "ochange": 25,
-                    "time": 512837,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31597,20 +31583,6 @@
                     "time": 630123,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779382858000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TUDORULE",
-                    "elo": 1957,
-                    "change": 13,
-                    "oelo": 1736,
-                    "ochange": -13,
-                    "time": 315538,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -33354,20 +33326,6 @@
                     "oelo": 2128,
                     "ochange": 20,
                     "time": 643304,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779383300000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "edcr",
-                    "elo": 2111,
-                    "change": 25,
-                    "oelo": 2201,
-                    "ochange": -25,
-                    "time": 512837,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -122787,20 +122745,6 @@
                     "time": 559655,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779382829000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 1837,
-                    "change": -24,
-                    "oelo": 1779,
-                    "ochange": 24,
-                    "time": 211588,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -154202,20 +154146,6 @@
                     "oelo": 1762,
                     "ochange": -18,
                     "time": 722747,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779383350000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 1840,
-                    "change": 20,
-                    "oelo": 1800,
-                    "ochange": -20,
-                    "time": 873328,
                     "forfeited": false,
                     "decayed": false
                 }
