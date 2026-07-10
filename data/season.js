@@ -1,5 +1,5 @@
 {
-    "date": 1783696201000,
+    "date": 1783696801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -134227,20 +134227,6 @@
                     "oelo": 1687,
                     "ochange": -16,
                     "time": 722293,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779376778000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1818,
-                    "change": -16,
-                    "oelo": 1957,
-                    "ochange": 16,
-                    "time": 547848,
                     "forfeited": false,
                     "decayed": false
                 }
