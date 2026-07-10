@@ -1,5 +1,5 @@
 {
-    "date": 1783647601000,
+    "date": 1783648201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -3211,20 +3211,6 @@
                     "oelo": 1889,
                     "ochange": -7,
                     "time": 518572,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779327731000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2338,
-                    "change": 7,
-                    "oelo": 1899,
-                    "ochange": -7,
-                    "time": 449067,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55752,20 +55738,6 @@
                     "oelo": 1971,
                     "ochange": 15,
                     "time": 529528,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779327674000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 1821,
-                    "change": 24,
-                    "oelo": 1892,
-                    "ochange": -24,
-                    "time": 532140,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -142957,20 +142929,6 @@
                     "oelo": 1879,
                     "ochange": -20,
                     "time": 570123,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779327674000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1892,
-                    "change": -24,
-                    "oelo": 1821,
-                    "ochange": 24,
-                    "time": 532140,
                     "forfeited": false,
                     "decayed": false
                 }
