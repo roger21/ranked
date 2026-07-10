@@ -1,5 +1,5 @@
 {
-    "date": 1783713001000,
+    "date": 1783713601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -145763,20 +145763,6 @@
                     "time": 665297,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779393519000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1886,
-                    "change": -24,
-                    "oelo": 1833,
-                    "ochange": 24,
-                    "time": 605995,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -163093,20 +163079,6 @@
                     "time": 622087,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779393267000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1806,
-                    "change": -14,
-                    "oelo": 2014,
-                    "ochange": 14,
-                    "time": 534709,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -171415,20 +171387,6 @@
                     "oelo": 2105,
                     "ochange": 18,
                     "time": 660277,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779393004000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 2024,
-                    "change": -23,
-                    "oelo": 1979,
-                    "ochange": 23,
-                    "time": 503885,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180454,20 +180412,6 @@
                     "oelo": 1785,
                     "ochange": -21,
                     "time": 622087,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779393321000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Brunted",
-                    "elo": 1776,
-                    "change": -16,
-                    "oelo": 1928,
-                    "ochange": 16,
-                    "time": 466613,
                     "forfeited": false,
                     "decayed": false
                 }
