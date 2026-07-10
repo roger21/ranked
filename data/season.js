@@ -1,5 +1,5 @@
 {
-    "date": 1783649401000,
+    "date": 1783650001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -3183,20 +3183,6 @@
                     "oelo": 1997,
                     "ochange": 31,
                     "time": 578390,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779329633000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 2313,
-                    "change": -32,
-                    "oelo": 1981,
-                    "ochange": 32,
-                    "time": 598815,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55684,20 +55670,6 @@
                     "time": 550235,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779329517000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 1809,
-                    "change": -20,
-                    "oelo": 1840,
-                    "ochange": 20,
-                    "time": 505857,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95496,20 +95468,6 @@
                     "oelo": 1850,
                     "ochange": -16,
                     "time": 559256,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779329633000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1981,
-                    "change": 32,
-                    "oelo": 2313,
-                    "ochange": -32,
-                    "time": 598815,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -142805,20 +142763,6 @@
                     "time": 578390,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779329920000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Anjoru",
-                    "elo": 1966,
-                    "change": 14,
-                    "oelo": 1775,
-                    "ochange": -14,
-                    "time": 573815,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -153381,20 +153325,6 @@
                     "oelo": 1756,
                     "ochange": -20,
                     "time": 631912,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779329920000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1775,
-                    "change": -14,
-                    "oelo": 1966,
-                    "ochange": 14,
-                    "time": 573815,
                     "forfeited": false,
                     "decayed": false
                 }
