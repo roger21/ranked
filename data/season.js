@@ -1,5 +1,5 @@
 {
-    "date": 1783708801000,
+    "date": 1783709401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -31428,20 +31428,6 @@
                     "ochange": 1,
                     "time": 354465,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779389091000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1898,
-                    "change": -20,
-                    "oelo": 1937,
-                    "ochange": 20,
-                    "time": 647922,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -143332,20 +143318,6 @@
                     "time": 525062,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779389091000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 1937,
-                    "change": 20,
-                    "oelo": 1898,
-                    "ochange": -20,
-                    "time": 647922,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -163317,20 +163289,6 @@
                     "time": 542485,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779388884000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "suravil",
-                    "elo": 1780,
-                    "change": -20,
-                    "oelo": 1832,
-                    "ochange": 20,
-                    "time": 601788,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -180762,20 +180720,6 @@
                     "oelo": 1750,
                     "ochange": -22,
                     "time": 462212,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779389272000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1711,
-                    "change": 22,
-                    "oelo": 1720,
-                    "ochange": -22,
-                    "time": 588760,
                     "forfeited": false,
                     "decayed": false
                 }
