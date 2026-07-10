@@ -1,5 +1,5 @@
 {
-    "date": 1783707001000,
+    "date": 1783707601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4732,20 +4732,6 @@
                     "oelo": 1968,
                     "ochange": -11,
                     "time": 534607,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779387347000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 2242,
-                    "change": 8,
-                    "oelo": 1834,
-                    "ochange": -8,
-                    "time": 468167,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31498,20 +31484,6 @@
                     "ochange": 1,
                     "time": 379569,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779387500000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "YoomzMonkey",
-                    "elo": 1919,
-                    "change": 14,
-                    "oelo": 1726,
-                    "ochange": -14,
-                    "time": 902749,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -180875,20 +180847,6 @@
                     "ochange": 0,
                     "time": 400718,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779387162000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Kickz",
-                    "elo": 1711,
-                    "change": -20,
-                    "oelo": 1756,
-                    "ochange": 20,
-                    "time": 683418,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
