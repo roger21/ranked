@@ -1,5 +1,5 @@
 {
-    "date": 1783717801000,
+    "date": 1783718401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -52708,20 +52708,6 @@
                     "time": 479856,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779397966000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1947,
-                    "change": 23,
-                    "oelo": 1980,
-                    "ochange": -23,
-                    "time": 518589,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -98688,20 +98674,6 @@
                     "oelo": 2169,
                     "ochange": 13,
                     "time": 517212,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779397906000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Brunted",
-                    "elo": 1962,
-                    "change": 18,
-                    "oelo": 1858,
-                    "ochange": -18,
-                    "time": 615309,
                     "forfeited": false,
                     "decayed": false
                 }
