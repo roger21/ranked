@@ -1,5 +1,5 @@
 {
-    "date": 1783689601000,
+    "date": 1783690201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -52062,20 +52062,6 @@
                     "ochange": -17,
                     "time": 239781,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779370025000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "wagapizu",
-                    "elo": 1826,
-                    "change": 17,
-                    "oelo": 1723,
-                    "ochange": -17,
-                    "time": 550235,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -122743,20 +122729,6 @@
                     "oelo": 1843,
                     "ochange": 17,
                     "time": 239781,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779369915000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "mukvl",
-                    "elo": 1747,
-                    "change": -16,
-                    "oelo": 1884,
-                    "ochange": 16,
-                    "time": 598388,
                     "forfeited": true,
                     "decayed": false
                 }
