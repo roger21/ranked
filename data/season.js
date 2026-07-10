@@ -1,5 +1,5 @@
 {
-    "date": 1783686001000,
+    "date": 1783686601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -122855,20 +122855,6 @@
                     "oelo": 1553,
                     "ochange": -14,
                     "time": 579365,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779366438000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "kazoklp",
-                    "elo": 1730,
-                    "change": 17,
-                    "oelo": 1620,
-                    "ochange": -17,
-                    "time": 492378,
                     "forfeited": false,
                     "decayed": false
                 }
