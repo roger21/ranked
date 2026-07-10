@@ -2068,13 +2068,13 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4465,
-        "playtime": 2725706769,
+        "matches": 4466,
+        "playtime": 2726130101,
         "finished": 1577,
         "finishtime": 1139317943,
         "won": 2221,
-        "lost": 1927,
-        "forfeited": 540
+        "lost": 1928,
+        "forfeited": 541
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
@@ -2824,12 +2824,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7468,
-        "playtime": 4776297826,
+        "matches": 7469,
+        "playtime": 4776845236,
         "finished": 2666,
         "finishtime": 1940079849,
         "won": 3760,
-        "lost": 3395,
+        "lost": 3396,
         "forfeited": 824
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -4276,11 +4276,11 @@
         },
         "pb": 415830,
         "streak": 13,
-        "matches": 7461,
-        "playtime": 4538460584,
-        "finished": 2604,
-        "finishtime": 1837419516,
-        "won": 3671,
+        "matches": 7462,
+        "playtime": 4538996331,
+        "finished": 2605,
+        "finishtime": 1837955263,
+        "won": 3672,
         "lost": 3384,
         "forfeited": 1337
     },
@@ -6436,13 +6436,13 @@
         },
         "pb": 455391,
         "streak": 11,
-        "matches": 4086,
-        "playtime": 2699470926,
+        "matches": 4087,
+        "playtime": 2699992285,
         "finished": 1525,
         "finishtime": 1166367900,
         "won": 2143,
-        "lost": 1850,
-        "forfeited": 509
+        "lost": 1851,
+        "forfeited": 510
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "TuCarta",
