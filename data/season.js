@@ -1,5 +1,5 @@
 {
-    "date": 1783721401000,
+    "date": 1783722001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4538,20 +4538,6 @@
                     "time": 291219,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779401874000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2184,
-                    "change": 15,
-                    "oelo": 2016,
-                    "ochange": -15,
-                    "time": 611704,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -4560,22 +4546,36 @@
             "nickname": "doogile",
             "stats": {
                 "rank": 3,
-                "elo": 2439,
+                "elo": 2447,
                 "top": 2478,
                 "points": 102,
                 "pb": 412717,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 185,
-                "playtime": 101529800,
-                "finished": 119,
-                "finishtime": 66262903,
-                "won": 133,
+                "matches": 186,
+                "playtime": 102091462,
+                "finished": 120,
+                "finishtime": 66824565,
+                "won": 134,
                 "lost": 49,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783721970000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Lexanh",
+                    "elo": 2447,
+                    "change": 8,
+                    "oelo": 2025,
+                    "ochange": -8,
+                    "time": 561662,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783721001000,
                     "type": "BURIED_TREASURE",
@@ -46859,20 +46859,6 @@
                     "oelo": 1937,
                     "ochange": 24,
                     "time": 808822,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779401874000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 2016,
-                    "change": -15,
-                    "oelo": 2184,
-                    "ochange": 15,
-                    "time": 611704,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -98424,20 +98410,6 @@
                     "time": 633424,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779401836000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1950,
-                    "change": 13,
-                    "oelo": 1717,
-                    "ochange": -13,
-                    "time": 640349,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -128996,20 +128968,6 @@
                     "oelo": 1701,
                     "ochange": 22,
                     "time": 456667,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779401834000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1736,
-                    "change": 27,
-                    "oelo": 1874,
-                    "ochange": -27,
-                    "time": 541710,
                     "forfeited": true,
                     "decayed": false
                 }
