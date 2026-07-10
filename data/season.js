@@ -1,5 +1,5 @@
 {
-    "date": 1783655401000,
+    "date": 1783656001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -152976,20 +152976,6 @@
                     "ochange": -19,
                     "time": 545869,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779335566000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1799,
-                    "change": 20,
-                    "oelo": 1754,
-                    "ochange": -20,
-                    "time": 278763,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
