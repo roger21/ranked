@@ -1,5 +1,5 @@
 {
-    "date": 1783708201000,
+    "date": 1783708801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4704,20 +4704,6 @@
                     "oelo": 1972,
                     "ochange": -12,
                     "time": 783584,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779388639000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "MrBudgiee",
-                    "elo": 2221,
-                    "change": -32,
-                    "oelo": 1886,
-                    "ochange": 32,
-                    "time": 483971,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180790,20 +180776,6 @@
                     "oelo": 1720,
                     "ochange": -22,
                     "time": 588760,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779388622000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "huhPrince",
-                    "elo": 1689,
-                    "change": -22,
-                    "oelo": 1691,
-                    "ochange": 22,
-                    "time": 523570,
                     "forfeited": false,
                     "decayed": false
                 }
