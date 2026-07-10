@@ -1,5 +1,5 @@
 {
-    "date": 1783707601000,
+    "date": 1783708201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4718,20 +4718,6 @@
                     "oelo": 1886,
                     "ochange": 32,
                     "time": 483971,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779387949000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2253,
-                    "change": 11,
-                    "oelo": 1968,
-                    "ochange": -11,
-                    "time": 534607,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31470,20 +31456,6 @@
                     "ochange": 20,
                     "time": 647922,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779387998000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "JackoWacko62",
-                    "elo": 1918,
-                    "change": -1,
-                    "oelo": 1863,
-                    "ochange": 1,
-                    "time": 379569,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -180833,20 +180805,6 @@
                     "ochange": 22,
                     "time": 523570,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779387797000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "ogurikappa",
-                    "elo": 1711,
-                    "change": 0,
-                    "oelo": 1678,
-                    "ochange": 0,
-                    "time": 400718,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
