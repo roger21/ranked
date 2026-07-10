@@ -1,5 +1,5 @@
 {
-    "date": 1783712401000,
+    "date": 1783713001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -51265,20 +51265,6 @@
                     "time": 468051,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779392409000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1886,
-                    "change": -19,
-                    "oelo": 1956,
-                    "ochange": 19,
-                    "time": 552513,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73634,20 +73620,6 @@
                     "oelo": 2204,
                     "ochange": -29,
                     "time": 575308,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779392603000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1951,
-                    "change": -20,
-                    "oelo": 2000,
-                    "ochange": 20,
-                    "time": 465004,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -145805,20 +145777,6 @@
                     "time": 605995,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779392663000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Brunted",
-                    "elo": 1910,
-                    "change": -21,
-                    "oelo": 1912,
-                    "ochange": 21,
-                    "time": 518722,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -180510,20 +180468,6 @@
                     "oelo": 1928,
                     "ochange": 16,
                     "time": 466613,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779392766000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 1792,
-                    "change": 20,
-                    "oelo": 1751,
-                    "ochange": -20,
-                    "time": 568173,
                     "forfeited": false,
                     "decayed": false
                 }
