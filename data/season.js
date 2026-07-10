@@ -1,5 +1,5 @@
 {
-    "date": 1783686601000,
+    "date": 1783687201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -122841,20 +122841,6 @@
                     "oelo": 1741,
                     "ochange": -21,
                     "time": 528178,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779367120000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BunchaStuff10",
-                    "elo": 1744,
-                    "change": 14,
-                    "oelo": 1553,
-                    "ochange": -14,
-                    "time": 579365,
                     "forfeited": false,
                     "decayed": false
                 }
