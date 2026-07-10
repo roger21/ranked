@@ -1,5 +1,5 @@
 {
-    "date": 1783680601000,
+    "date": 1783681201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -145514,20 +145514,6 @@
                     "oelo": 1882,
                     "ochange": 15,
                     "time": 605564,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779360854000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ItsNamii",
-                    "elo": 1740,
-                    "change": -27,
-                    "oelo": 1602,
-                    "ochange": 27,
-                    "time": 584159,
                     "forfeited": false,
                     "decayed": false
                 }
