@@ -1,5 +1,5 @@
 {
-    "date": 1783719001000,
+    "date": 1783719601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -46931,20 +46931,6 @@
                     "time": 670206,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779399341000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1989,
-                    "change": 20,
-                    "oelo": 1936,
-                    "ochange": -20,
-                    "time": 673881,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -86520,20 +86506,6 @@
                     "time": 648928,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779399438000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 1993,
-                    "change": 17,
-                    "oelo": 1885,
-                    "ochange": -17,
-                    "time": 680415,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -98618,20 +98590,6 @@
                     "oelo": 1952,
                     "ochange": 22,
                     "time": 956690,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779399108000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1972,
-                    "change": 23,
-                    "oelo": 2012,
-                    "ochange": -23,
-                    "time": 548700,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -129234,34 +129192,6 @@
                     "oelo": 1642,
                     "ochange": -20,
                     "time": 593809,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779399578000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "FuzzKing",
-                    "elo": 1667,
-                    "change": 21,
-                    "oelo": 1659,
-                    "ochange": -21,
-                    "time": 345207,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779399177000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "PandaRuns",
-                    "elo": 1646,
-                    "change": -20,
-                    "oelo": 1677,
-                    "ochange": 20,
-                    "time": 663752,
                     "forfeited": false,
                     "decayed": false
                 }
