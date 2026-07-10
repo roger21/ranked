@@ -1,5 +1,5 @@
 {
-    "date": 1783669201000,
+    "date": 1783669801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39497,20 +39497,6 @@
                     "time": 691485,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779349479000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1986,
-                    "change": 14,
-                    "oelo": 1792,
-                    "ochange": -14,
-                    "time": 328992,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -41745,20 +41731,6 @@
                     "ochange": 23,
                     "time": 234229,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779349469000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "12BrainCells",
-                    "elo": 1930,
-                    "change": 13,
-                    "oelo": 1687,
-                    "ochange": -13,
-                    "time": 955096,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -129411,20 +129383,6 @@
                     "oelo": 1999,
                     "ochange": 13,
                     "time": 691485,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779349720000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TuCarta",
-                    "elo": 1799,
-                    "change": 20,
-                    "oelo": 1749,
-                    "ochange": -20,
-                    "time": 726164,
                     "forfeited": false,
                     "decayed": false
                 }
