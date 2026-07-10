@@ -1,5 +1,5 @@
 {
-    "date": 1783668601000,
+    "date": 1783669201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39511,20 +39511,6 @@
                     "time": 328992,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779349014000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 1972,
-                    "change": -21,
-                    "oelo": 1973,
-                    "ochange": 21,
-                    "time": 512040,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -43853,20 +43839,6 @@
                     "oelo": 1845,
                     "ochange": 25,
                     "time": 649418,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779349014000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 1973,
-                    "change": 21,
-                    "oelo": 1972,
-                    "ochange": -21,
-                    "time": 512040,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -129453,20 +129425,6 @@
                     "oelo": 1749,
                     "ochange": -20,
                     "time": 726164,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779348947000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1779,
-                    "change": -26,
-                    "oelo": 1674,
-                    "ochange": 26,
-                    "time": 681832,
                     "forfeited": false,
                     "decayed": false
                 }
