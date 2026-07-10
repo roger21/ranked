@@ -1,5 +1,5 @@
 {
-    "date": 1783693801000,
+    "date": 1783694401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39441,20 +39441,6 @@
                     "time": 554047,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779374041000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "4antoo",
-                    "elo": 1896,
-                    "change": 17,
-                    "oelo": 1789,
-                    "ochange": -17,
-                    "time": 210061,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -51907,20 +51893,6 @@
                     "oelo": 1876,
                     "ochange": -20,
                     "time": 554047,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779373933000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1888,
-                    "change": 19,
-                    "oelo": 1824,
-                    "ochange": -19,
-                    "time": 544170,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -107381,7 +107353,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2161,
                 "top": 2216,
                 "points": 29,
@@ -109504,7 +109476,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2160,
                 "top": 2195,
                 "points": 16,
@@ -115547,23 +115519,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 29,
-                "elo": 2151,
+                "rank": 27,
+                "elo": 2163,
                 "top": 2196,
                 "points": 12,
                 "pb": 379483,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 675,
-                "playtime": 364644207,
-                "finished": 306,
-                "finishtime": 175823185,
-                "won": 353,
+                "matches": 676,
+                "playtime": 365210114,
+                "finished": 307,
+                "finishtime": 176389092,
+                "won": 354,
                 "lost": 301,
                 "forfeited": 98
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1783694407000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "Finnitzko",
+                    "elo": 2163,
+                    "change": 12,
+                    "oelo": 1907,
+                    "ochange": -12,
+                    "time": 565907,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783693369000,
                     "type": "SHIPWRECK",
@@ -130244,20 +130230,6 @@
                     "time": 580977,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779373952000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ninaknowswhy",
-                    "elo": 1743,
-                    "change": 18,
-                    "oelo": 1646,
-                    "ochange": -18,
-                    "time": 603433,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -134423,20 +134395,6 @@
                     "oelo": 1810,
                     "ochange": 21,
                     "time": 620447,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779373933000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1824,
-                    "change": -19,
-                    "oelo": 1888,
-                    "ochange": 19,
-                    "time": 544170,
                     "forfeited": false,
                     "decayed": false
                 }
