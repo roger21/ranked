@@ -1,5 +1,5 @@
 {
-    "date": 1783654801000,
+    "date": 1783655401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -152990,20 +152990,6 @@
                     "ochange": -20,
                     "time": 278763,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779335239000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BaccaDeww",
-                    "elo": 1779,
-                    "change": 15,
-                    "oelo": 1594,
-                    "ochange": -15,
-                    "time": 627039,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
