@@ -1,5 +1,5 @@
 {
-    "date": 1783646401000,
+    "date": 1783647001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -3239,20 +3239,6 @@
                     "oelo": 1956,
                     "ochange": -9,
                     "time": 572053,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779326461000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 2322,
-                    "change": 9,
-                    "oelo": 1939,
-                    "ochange": -9,
-                    "time": 512504,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -55796,20 +55782,6 @@
                     "time": 532140,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779326621000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "stapl3r_",
-                    "elo": 1797,
-                    "change": 17,
-                    "oelo": 1686,
-                    "ochange": -17,
-                    "time": 903222,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -95664,20 +95636,6 @@
                     "oelo": 2331,
                     "ochange": 9,
                     "time": 572053,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779326552000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1965,
-                    "change": 15,
-                    "oelo": 1798,
-                    "ochange": -15,
-                    "time": 572129,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143055,20 +143013,6 @@
                     "oelo": 1877,
                     "ochange": 23,
                     "time": 552389,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779326461000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1939,
-                    "change": -9,
-                    "oelo": 2322,
-                    "ochange": 9,
-                    "time": 512504,
                     "forfeited": false,
                     "decayed": false
                 }
