@@ -1,5 +1,5 @@
 {
-    "date": 1783715401000,
+    "date": 1783716001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4648,20 +4648,6 @@
                     "oelo": 2106,
                     "ochange": 26,
                     "time": 755284,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779395514000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 2240,
-                    "change": 9,
-                    "oelo": 1879,
-                    "ochange": -9,
-                    "time": 523923,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143038,20 +143024,6 @@
                     "time": 726436,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779395995000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1956,
-                    "change": 22,
-                    "oelo": 1957,
-                    "ochange": -22,
-                    "time": 648574,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -162979,20 +162951,6 @@
                     "oelo": 1894,
                     "ochange": 15,
                     "time": 682496,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779395761000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "TapL",
-                    "elo": 1742,
-                    "change": -22,
-                    "oelo": 1725,
-                    "ochange": 22,
-                    "time": 844436,
                     "forfeited": false,
                     "decayed": false
                 }
