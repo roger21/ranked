@@ -1563,12 +1563,12 @@
         },
         "pb": 342789,
         "streak": 17,
-        "matches": 16415,
-        "playtime": 9645532797,
+        "matches": 16416,
+        "playtime": 9646124550,
         "finished": 7193,
         "finishtime": 4623611610,
         "won": 8897,
-        "lost": 7138,
+        "lost": 7139,
         "forfeited": 2010
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -6383,33 +6383,6 @@
         "won": 383,
         "lost": 288,
         "forfeited": 45
-    },
-    "f2061f886c254191871f635dc2ce80b9": {
-        "nickname": "iluappi",
-        "country": "fi",
-        "top": {
-            "4": 0,
-            "8": 1774,
-            "9": 2016,
-            "10": 2136,
-            "11": 2132
-        },
-        "points": {
-            "4": 0,
-            "8": 0,
-            "9": 10,
-            "10": 25,
-            "11": 27
-        },
-        "pb": 430436,
-        "streak": 11,
-        "matches": 1050,
-        "playtime": 635427858,
-        "finished": 462,
-        "finishtime": 289927438,
-        "won": 575,
-        "lost": 426,
-        "forfeited": 14
     },
     "f55a7e31e65a453e941ebec79cd39992": {
         "nickname": "Brunted",
