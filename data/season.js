@@ -1,5 +1,5 @@
 {
-    "date": 1783647001000,
+    "date": 1783647601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -3225,20 +3225,6 @@
                     "oelo": 1899,
                     "ochange": -7,
                     "time": 449067,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779327200000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 2331,
-                    "change": 9,
-                    "oelo": 1956,
-                    "ochange": -9,
-                    "time": 572053,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -95624,20 +95610,6 @@
                     "time": 529528,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779327200000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1956,
-                    "change": -9,
-                    "oelo": 2331,
-                    "ochange": 9,
-                    "time": 572053,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -142999,20 +142971,6 @@
                     "oelo": 1821,
                     "ochange": 24,
                     "time": 532140,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779327073000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "paukll",
-                    "elo": 1916,
-                    "change": -23,
-                    "oelo": 1877,
-                    "ochange": 23,
-                    "time": 552389,
                     "forfeited": false,
                     "decayed": false
                 }
