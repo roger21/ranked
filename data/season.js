@@ -1,5 +1,5 @@
 {
-    "date": 1783710601000,
+    "date": 1783711201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -136648,23 +136648,37 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 34,
-                "elo": 2133,
+                "rank": 39,
+                "elo": 2106,
                 "top": 2133,
                 "points": 7,
                 "pb": 387671,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 242,
-                "playtime": 129798754,
+                "matches": 243,
+                "playtime": 130425947,
                 "finished": 119,
                 "finishtime": 70027281,
                 "won": 133,
-                "lost": 101,
+                "lost": 102,
                 "forfeited": 35
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1783711210000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Bartorino",
+                    "elo": 2106,
+                    "change": -27,
+                    "oelo": 1950,
+                    "ochange": 27,
+                    "time": 627193,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783710352000,
                     "type": "VILLAGE",
@@ -139247,7 +139261,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2131,
                 "top": 2324,
                 "points": 72,
@@ -141118,7 +141132,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2119,
                 "top": 2123,
                 "points": 9,
@@ -142289,7 +142303,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2113,
                 "top": 2136,
                 "points": 24,
@@ -145868,7 +145882,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2111,
                 "top": 2111,
                 "points": 7,
@@ -147977,7 +147991,7 @@
             "uuid": "86334fc9e38344bdabf1a97f63c7be23",
             "nickname": "Anjoru",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2107,
                 "top": 2107,
                 "points": 6,
@@ -163217,20 +163231,6 @@
                     "oelo": 1888,
                     "ochange": 18,
                     "time": 565863,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779390962000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 1820,
-                    "change": 20,
-                    "oelo": 1773,
-                    "ochange": -20,
-                    "time": 604425,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180623,20 +180623,6 @@
                     "ochange": 1,
                     "time": 845030,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779391119000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "oshywot",
-                    "elo": 1773,
-                    "change": 17,
-                    "oelo": 1660,
-                    "ochange": -17,
-                    "time": 484826,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
