@@ -1,5 +1,5 @@
 {
-    "date": 1783771801000,
+    "date": 1783772401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18698,20 +18698,6 @@
                     "oelo": 1764,
                     "ochange": 24,
                     "time": 558768,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779452228000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1857,
-                    "change": 12,
-                    "oelo": 1606,
-                    "ochange": -12,
-                    "time": 704836,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -184072,20 +184058,6 @@
                     "oelo": 1691,
                     "ochange": 0,
                     "time": 524219,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779451899000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Starchomper",
-                    "elo": 1695,
-                    "change": -22,
-                    "oelo": 1686,
-                    "ochange": 22,
-                    "time": 280722,
                     "forfeited": true,
                     "decayed": false
                 }
