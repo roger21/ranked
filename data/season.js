@@ -1,5 +1,5 @@
 {
-    "date": 1783808401000,
+    "date": 1783809001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -2915,7 +2915,7 @@
                 "rank": 2,
                 "elo": 2543,
                 "top": 2543,
-                "points": 110,
+                "points": 135,
                 "pb": 353371,
                 "current": 9,
                 "streak": 16,
@@ -4142,7 +4142,7 @@
                 "rank": 3,
                 "elo": 2500,
                 "top": 2500,
-                "points": 102,
+                "points": 112,
                 "pb": 412717,
                 "current": 7,
                 "streak": 10,
@@ -6479,20 +6479,6 @@
                     "time": 638060,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779488528000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1925,
-                    "change": 21,
-                    "oelo": 1919,
-                    "ochange": -21,
-                    "time": 475470,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -6501,22 +6487,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 4,
-                "elo": 2405,
+                "elo": 2381,
                 "top": 2449,
-                "points": 55,
+                "points": 65,
                 "pb": 402891,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 479,
-                "playtime": 263781738,
+                "matches": 480,
+                "playtime": 264292955,
                 "finished": 253,
                 "finishtime": 141660512,
                 "won": 283,
-                "lost": 173,
+                "lost": 174,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783808958000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "romuxii",
+                    "elo": 2381,
+                    "change": -24,
+                    "oelo": 2311,
+                    "ochange": 24,
+                    "time": 511217,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783556268000,
                     "type": "VILLAGE",
@@ -9116,7 +9116,7 @@
                 "rank": 5,
                 "elo": 2352,
                 "top": 2408,
-                "points": 69,
+                "points": 94,
                 "pb": 361866,
                 "current": 1,
                 "streak": 10,
@@ -20350,22 +20350,36 @@
             "nickname": "romuxii",
             "stats": {
                 "rank": 9,
-                "elo": 2287,
+                "elo": 2311,
                 "top": 2316,
                 "points": 12,
                 "pb": 379483,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 702,
-                "playtime": 379732212,
-                "finished": 323,
-                "finishtime": 185674793,
-                "won": 373,
+                "matches": 703,
+                "playtime": 380243429,
+                "finished": 324,
+                "finishtime": 186186010,
+                "won": 374,
                 "lost": 308,
                 "forfeited": 98
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1783808958000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "nahhann",
+                    "elo": 2311,
+                    "change": 24,
+                    "oelo": 2381,
+                    "ochange": -24,
+                    "time": 511217,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783808059000,
                     "type": "SHIPWRECK",
@@ -27757,20 +27771,6 @@
                     "time": 370867,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779488528000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1919,
-                    "change": -21,
-                    "oelo": 1925,
-                    "ochange": 21,
-                    "time": 475470,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -27778,7 +27778,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 9,
+                "rank": 10,
                 "elo": 2287,
                 "top": 2337,
                 "points": 20,
@@ -39675,7 +39675,7 @@
                 "rank": 14,
                 "elo": 2261,
                 "top": 2341,
-                "points": 63,
+                "points": 88,
                 "pb": 381508,
                 "current": 3,
                 "streak": 8,
@@ -52969,7 +52969,7 @@
                 "rank": 18,
                 "elo": 2220,
                 "top": 2310,
-                "points": 80,
+                "points": 100,
                 "pb": 390102,
                 "current": 1,
                 "streak": 10,
@@ -65386,7 +65386,7 @@
                 "rank": 21,
                 "elo": 2202,
                 "top": 2269,
-                "points": 61,
+                "points": 81,
                 "pb": 394680,
                 "current": 0,
                 "streak": 11,
@@ -82086,20 +82086,6 @@
                     "time": 722164,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779488503000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 2041,
-                    "change": 15,
-                    "oelo": 1877,
-                    "ochange": -15,
-                    "time": 544058,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87061,7 +87047,7 @@
                 "rank": 26,
                 "elo": 2175,
                 "top": 2176,
-                "points": 53,
+                "points": 78,
                 "pb": 403492,
                 "current": 7,
                 "streak": 10,
@@ -121340,7 +121326,7 @@
                 "rank": 33,
                 "elo": 2137,
                 "top": 2216,
-                "points": 29,
+                "points": 44,
                 "pb": 389640,
                 "current": 1,
                 "streak": 8,
@@ -139750,20 +139736,6 @@
                     "oelo": 1696,
                     "ochange": -14,
                     "time": 585116,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779488503000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1877,
-                    "change": -15,
-                    "oelo": 2041,
-                    "ochange": 15,
-                    "time": 544058,
                     "forfeited": false,
                     "decayed": false
                 }
