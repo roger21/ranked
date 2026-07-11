@@ -1,5 +1,5 @@
 {
-    "date": 1783781401000,
+    "date": 1783782001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4270,20 +4270,6 @@
                     "oelo": 1901,
                     "ochange": -10,
                     "time": 678317,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779461522000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 2220,
-                    "change": -30,
-                    "oelo": 1987,
-                    "ochange": 30,
-                    "time": 570109,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -18516,20 +18502,6 @@
                     "oelo": 1789,
                     "ochange": -17,
                     "time": 585393,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779461789000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1898,
-                    "change": 22,
-                    "oelo": 1918,
-                    "ochange": -22,
-                    "time": 632437,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42235,20 +42207,6 @@
                     "ochange": 15,
                     "time": 504330,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779461460000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "Haaons_",
-                    "elo": 1806,
-                    "change": -1,
-                    "oelo": 1688,
-                    "ochange": 1,
-                    "time": 879962,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -102630,20 +102588,6 @@
                     "oelo": 1710,
                     "ochange": -16,
                     "time": 612833,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779461938000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "kohout135",
-                    "elo": 1833,
-                    "change": 21,
-                    "oelo": 1814,
-                    "ochange": -21,
-                    "time": 533660,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -170688,20 +170632,6 @@
                     "oelo": 1805,
                     "ochange": 14,
                     "time": 300427,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779461904000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "gilbert14",
-                    "elo": 1633,
-                    "change": 0,
-                    "oelo": 1658,
-                    "ochange": 0,
-                    "time": 339643,
                     "forfeited": true,
                     "decayed": false
                 }
