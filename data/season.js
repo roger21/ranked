@@ -1,5 +1,5 @@
 {
-    "date": 1783813201000,
+    "date": 1783813801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -88355,7 +88355,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2160,
                 "top": 2195,
                 "points": 16,
@@ -93992,23 +93992,37 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 27,
-                "elo": 2160,
+                "rank": 26,
+                "elo": 2175,
                 "top": 2178,
                 "points": 6,
                 "pb": 409037,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 835,
-                "playtime": 463392799,
-                "finished": 342,
-                "finishtime": 208239664,
-                "won": 421,
+                "matches": 836,
+                "playtime": 463976883,
+                "finished": 343,
+                "finishtime": 208823748,
+                "won": 422,
                 "lost": 390,
                 "forfeited": 133
             },
             "country": "dk",
             "matches": [
+                {
+                    "date": 1783813807000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Ranik_",
+                    "elo": 2175,
+                    "change": 15,
+                    "oelo": 2019,
+                    "ochange": -15,
+                    "time": 584084,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783784422000,
                     "type": "DESERT_TEMPLE",
