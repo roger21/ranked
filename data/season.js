@@ -1,5 +1,5 @@
 {
-    "date": 1783774801000,
+    "date": 1783775401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18656,20 +18656,6 @@
                     "oelo": 1704,
                     "ochange": -16,
                     "time": 617838,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779455106000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Mcraftor2137",
-                    "elo": 1821,
-                    "change": -28,
-                    "oelo": 1652,
-                    "ochange": 28,
-                    "time": 914581,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -70173,20 +70159,6 @@
                     "time": 617838,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779455031000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1720,
-                    "change": 22,
-                    "oelo": 1732,
-                    "ochange": -22,
-                    "time": 559664,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95696,20 +95668,6 @@
                     "oelo": 1751,
                     "ochange": 19,
                     "time": 659766,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779454986000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1704,
-                    "change": -22,
-                    "oelo": 1690,
-                    "ochange": 22,
-                    "time": 553464,
                     "forfeited": false,
                     "decayed": false
                 }
