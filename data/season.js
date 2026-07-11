@@ -1,5 +1,5 @@
 {
-    "date": 1783812601000,
+    "date": 1783813201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -6394,20 +6394,6 @@
                     "ochange": 2,
                     "time": 543294,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779493148000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1994,
-                    "change": 12,
-                    "oelo": 1748,
-                    "ochange": -12,
-                    "time": 497210,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -147520,20 +147506,6 @@
                     "oelo": 1852,
                     "ochange": -21,
                     "time": 628781,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779492868000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "FuzzKing",
-                    "elo": 1855,
-                    "change": 17,
-                    "oelo": 1731,
-                    "ochange": -17,
-                    "time": 547754,
                     "forfeited": false,
                     "decayed": false
                 }
