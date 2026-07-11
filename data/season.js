@@ -1,5 +1,5 @@
 {
-    "date": 1783735801000,
+    "date": 1783736401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -22895,20 +22895,6 @@
                     "time": 506533,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779415895000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1966,
-                    "change": -20,
-                    "oelo": 1995,
-                    "ochange": 20,
-                    "time": 584416,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -24233,20 +24219,6 @@
                     "ochange": -23,
                     "time": 566610,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779416216000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2139,
-                    "change": 15,
-                    "oelo": 1980,
-                    "ochange": -15,
-                    "time": 270314,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
