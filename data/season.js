@@ -1,5 +1,5 @@
 {
-    "date": 1783792801000,
+    "date": 1783793401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18280,20 +18280,6 @@
                     "time": 238590,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779472874000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "mukvl",
-                    "elo": 1930,
-                    "change": 21,
-                    "oelo": 1914,
-                    "ochange": -21,
-                    "time": 574881,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28274,20 +28260,6 @@
                     "ochange": 19,
                     "time": 217867,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779473136000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "OG_MineMan",
-                    "elo": 1890,
-                    "change": 16,
-                    "oelo": 1753,
-                    "ochange": -16,
-                    "time": 559259,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -59879,20 +59851,6 @@
                     "time": 697149,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779473210000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1847,
-                    "change": -18,
-                    "oelo": 1951,
-                    "ochange": 18,
-                    "time": 478931,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -74072,20 +74030,6 @@
                     "oelo": 1910,
                     "ochange": -20,
                     "time": 238590,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779473186000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1932,
-                    "change": 24,
-                    "oelo": 1991,
-                    "ochange": -24,
-                    "time": 319821,
                     "forfeited": true,
                     "decayed": false
                 }
