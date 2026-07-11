@@ -1,5 +1,5 @@
 {
-    "date": 1783782601000,
+    "date": 1783783202000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18488,20 +18488,6 @@
                     "oelo": 1765,
                     "ochange": 26,
                     "time": 690204,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779462601000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1915,
-                    "change": 17,
-                    "oelo": 1789,
-                    "ochange": -17,
-                    "time": 585393,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42179,20 +42165,6 @@
                     "ochange": -20,
                     "time": 526077,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779462883000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "educatedmonkey",
-                    "elo": 1823,
-                    "change": 18,
-                    "oelo": 1734,
-                    "ochange": -18,
-                    "time": 278954,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -105145,20 +105117,6 @@
                     "oelo": 1669,
                     "ochange": -14,
                     "time": 605757,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779462808000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1849,
-                    "change": 16,
-                    "oelo": 1710,
-                    "ochange": -16,
-                    "time": 612833,
                     "forfeited": false,
                     "decayed": false
                 }
