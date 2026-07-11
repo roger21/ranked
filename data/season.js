@@ -1,5 +1,5 @@
 {
-    "date": 1783751401000,
+    "date": 1783752001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -158472,20 +158472,6 @@
                     "oelo": 1604,
                     "ochange": -12,
                     "time": 566656,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779431663000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1851,
-                    "change": -27,
-                    "oelo": 1715,
-                    "ochange": 27,
-                    "time": 710524,
                     "forfeited": false,
                     "decayed": false
                 }
