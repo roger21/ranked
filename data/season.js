@@ -1,5 +1,5 @@
 {
-    "date": 1783774201000,
+    "date": 1783774801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -70186,20 +70186,6 @@
                     "ochange": -22,
                     "time": 559664,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779454373000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1698,
-                    "change": -23,
-                    "oelo": 1668,
-                    "ochange": 23,
-                    "time": 494897,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
