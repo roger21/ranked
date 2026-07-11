@@ -1,5 +1,5 @@
 {
-    "date": 1783789201000,
+    "date": 1783789801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -4144,20 +4144,6 @@
                     "oelo": 1992,
                     "ochange": -11,
                     "time": 472264,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779469452000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 2264,
-                    "change": 8,
-                    "oelo": 1846,
-                    "ochange": -8,
-                    "time": 460813,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28413,20 +28399,6 @@
                     "oelo": 1869,
                     "ochange": 22,
                     "time": 578562,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779469489000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Vintex0",
-                    "elo": 1899,
-                    "change": 15,
-                    "oelo": 1723,
-                    "ochange": -15,
-                    "time": 771579,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -74310,20 +74282,6 @@
                     "oelo": 1877,
                     "ochange": -22,
                     "time": 578562,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779469555000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1847,
-                    "change": -16,
-                    "oelo": 2003,
-                    "ochange": 16,
-                    "time": 635604,
                     "forfeited": false,
                     "decayed": false
                 }
