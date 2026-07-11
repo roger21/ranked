@@ -1,5 +1,5 @@
 {
-    "date": 1783764601000,
+    "date": 1783765201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -184199,20 +184199,6 @@
                     "ochange": -15,
                     "time": 541730,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779444678000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "wotez",
-                    "elo": 1667,
-                    "change": 0,
-                    "oelo": 1644,
-                    "ochange": 0,
-                    "time": 655068,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
