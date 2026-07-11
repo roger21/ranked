@@ -1,5 +1,5 @@
 {
-    "date": 1783791601000,
+    "date": 1783792201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18294,20 +18294,6 @@
                     "time": 574881,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779472141000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "suravil",
-                    "elo": 1909,
-                    "change": -23,
-                    "oelo": 1861,
-                    "ochange": 23,
-                    "time": 688210,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28315,20 +28301,6 @@
                     "oelo": 1865,
                     "ochange": -21,
                     "time": 468051,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779471992000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1853,
-                    "change": -22,
-                    "oelo": 1830,
-                    "ochange": 22,
-                    "time": 656369,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -74156,20 +74128,6 @@
                     "oelo": 1842,
                     "ochange": -19,
                     "time": 590538,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779472090000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1889,
-                    "change": -17,
-                    "oelo": 2001,
-                    "ochange": 17,
-                    "time": 534503,
                     "forfeited": false,
                     "decayed": false
                 }
