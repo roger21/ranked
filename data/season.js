@@ -1,5 +1,5 @@
 {
-    "date": 1783764001000,
+    "date": 1783764601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -25315,7 +25315,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 10,
-                "elo": 2290,
+                "elo": 2285,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -25331,6 +25331,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783764544000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2285,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783678143000,
                     "type": null,
