@@ -1,5 +1,5 @@
 {
-    "date": 1783773601000,
+    "date": 1783774201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -95724,20 +95724,6 @@
                     "oelo": 1690,
                     "ochange": 22,
                     "time": 553464,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779454193000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Snakezy",
-                    "elo": 1726,
-                    "change": -20,
-                    "oelo": 1773,
-                    "ochange": 20,
-                    "time": 643795,
                     "forfeited": false,
                     "decayed": false
                 }
