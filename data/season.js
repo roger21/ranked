@@ -1,5 +1,5 @@
 {
-    "date": 1783748401000,
+    "date": 1783749001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -104674,7 +104674,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2160,
                 "top": 2195,
                 "points": 16,
@@ -110535,23 +110535,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 29,
-                "elo": 2144,
+                "rank": 28,
+                "elo": 2169,
                 "top": 2269,
                 "points": 61,
                 "pb": 394680,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 471,
-                "playtime": 263039381,
+                "matches": 472,
+                "playtime": 263540556,
                 "finished": 252,
                 "finishtime": 141524762,
-                "won": 272,
+                "won": 273,
                 "lost": 192,
                 "forfeited": 9
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1783749039000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "dinonuggieboi",
+                    "elo": 2169,
+                    "change": 25,
+                    "oelo": 2246,
+                    "ochange": -25,
+                    "time": 501175,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783736668000,
                     "type": "BURIED_TREASURE",
@@ -117852,20 +117866,6 @@
                     "oelo": 1763,
                     "ochange": 23,
                     "time": 864191,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779428707000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "wethr",
-                    "elo": 1824,
-                    "change": -19,
-                    "oelo": 1876,
-                    "ochange": 19,
-                    "time": 630219,
                     "forfeited": false,
                     "decayed": false
                 }
