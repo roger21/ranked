@@ -1,5 +1,5 @@
 {
-    "date": 1783742401000,
+    "date": 1783743001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -117868,20 +117868,6 @@
                     "time": 602263,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779422521000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "wethr",
-                    "elo": 1841,
-                    "change": -20,
-                    "oelo": 1891,
-                    "ochange": 20,
-                    "time": 594244,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -159808,20 +159794,6 @@
                     "time": 747183,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779422600000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 1688,
-                    "change": 26,
-                    "oelo": 1793,
-                    "ochange": -26,
-                    "time": 589228,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168998,7 +168970,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2068,
                 "top": 2068,
                 "points": 6,
@@ -172213,7 +172185,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2067,
                 "top": 2172,
                 "points": 8,
@@ -183604,7 +183576,7 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "Lexanh",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2065,
                 "top": 2162,
                 "points": 26,
@@ -192769,7 +192741,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2065,
                 "top": 2155,
                 "points": 21,
@@ -194430,7 +194402,7 @@
             "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
             "nickname": "danterus",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2062,
                 "top": 2062,
                 "points": 5,
