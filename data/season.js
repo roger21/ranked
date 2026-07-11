@@ -1,5 +1,5 @@
 {
-    "date": 1783794001000,
+    "date": 1783794601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18252,20 +18252,6 @@
                     "time": 566530,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779474262000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "iKme_",
-                    "elo": 1887,
-                    "change": -23,
-                    "oelo": 1858,
-                    "ochange": 23,
-                    "time": 735156,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -28217,20 +28203,6 @@
                     "oelo": 1987,
                     "ochange": 16,
                     "time": 462868,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779474244000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1848,
-                    "change": -23,
-                    "oelo": 1820,
-                    "ochange": 23,
-                    "time": 473237,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -59809,20 +59781,6 @@
                     "time": 593143,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779474027000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "slowunc",
-                    "elo": 1845,
-                    "change": -2,
-                    "oelo": 1717,
-                    "ochange": 2,
-                    "time": 697149,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -73975,20 +73933,6 @@
                     "ochange": -16,
                     "time": 462868,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779474408000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "iluappi",
-                    "elo": 1971,
-                    "change": 19,
-                    "oelo": 1898,
-                    "ochange": -19,
-                    "time": 633819,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -169680,20 +169624,6 @@
                     "oelo": 1603,
                     "ochange": 0,
                     "time": 570816,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779474348000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 1595,
-                    "change": -19,
-                    "oelo": 1654,
-                    "ochange": 19,
-                    "time": 302148,
                     "forfeited": true,
                     "decayed": false
                 }
