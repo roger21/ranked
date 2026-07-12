@@ -1,5 +1,5 @@
 {
-    "date": 1783826401000,
+    "date": 1783827001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39313,20 +39313,6 @@
                     "oelo": 1864,
                     "ochange": -19,
                     "time": 530227,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779506749000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "PandaPuffer",
-                    "elo": 1917,
-                    "change": 16,
-                    "oelo": 1787,
-                    "ochange": -16,
-                    "time": 494400,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -119412,20 +119398,6 @@
                     "time": 530227,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779506767000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1883,
-                    "change": 16,
-                    "oelo": 1742,
-                    "ochange": -16,
-                    "time": 699319,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -169446,20 +169418,6 @@
                     "oelo": 1720,
                     "ochange": -22,
                     "time": 606100,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779506830000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "200kgdoogirl",
-                    "elo": 1684,
-                    "change": 24,
-                    "oelo": 1743,
-                    "ochange": -24,
-                    "time": 883293,
                     "forfeited": false,
                     "decayed": false
                 }
