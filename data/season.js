@@ -1,5 +1,5 @@
 {
-    "date": 1783850401000,
+    "date": 1783851001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17594,20 +17594,6 @@
                     "time": 592543,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779530779000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1881,
-                    "change": -24,
-                    "oelo": 1809,
-                    "ochange": 24,
-                    "time": 609060,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -31736,7 +31722,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 11,
-                "elo": 2285,
+                "elo": 2280,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -31752,6 +31738,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783850945000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2280,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783764544000,
                     "type": null,
@@ -96543,20 +96543,6 @@
                     "time": 456684,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779530846000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Dowqe",
-                    "elo": 1479,
-                    "change": -20,
-                    "oelo": 1530,
-                    "ochange": 20,
-                    "time": 210244,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -108511,20 +108497,6 @@
                     "ochange": 1,
                     "time": 676077,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779530597000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sevensix_",
-                    "elo": 1859,
-                    "change": -23,
-                    "oelo": 1819,
-                    "ochange": 23,
-                    "time": 561605,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -127320,20 +127292,6 @@
                     "oelo": 1727,
                     "ochange": -23,
                     "time": 667908,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779530925000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 1655,
-                    "change": 17,
-                    "oelo": 1541,
-                    "ochange": -17,
-                    "time": 976394,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -165173,20 +165131,6 @@
                     "oelo": 1814,
                     "ochange": 21,
                     "time": 669562,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779530597000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1819,
-                    "change": 23,
-                    "oelo": 1859,
-                    "ochange": -23,
-                    "time": 561605,
                     "forfeited": false,
                     "decayed": false
                 }
