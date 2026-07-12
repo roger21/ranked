@@ -1,5 +1,5 @@
 {
-    "date": 1783837201000,
+    "date": 1783837801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -93391,14 +93391,14 @@
             "nickname": "ogurikappa",
             "stats": {
                 "rank": 28,
-                "elo": 2159,
+                "elo": 2158,
                 "top": 2216,
                 "points": 15,
                 "pb": 395923,
                 "current": 7,
                 "streak": 9,
-                "matches": 1785,
-                "playtime": 931952693,
+                "matches": 1786,
+                "playtime": 932672852,
                 "finished": 702,
                 "finishtime": 376667834,
                 "won": 819,
@@ -93407,6 +93407,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783837290000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "iluappi",
+                    "elo": 2158,
+                    "change": -1,
+                    "oelo": 2070,
+                    "ochange": 1,
+                    "time": 720159,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783835690000,
                     "type": "SHIPWRECK",
@@ -197726,14 +197740,14 @@
             "nickname": "iluappi",
             "stats": {
                 "rank": 49,
-                "elo": 2069,
+                "elo": 2070,
                 "top": 2132,
                 "points": 27,
                 "pb": 430436,
                 "current": 0,
                 "streak": 10,
-                "matches": 429,
-                "playtime": 246330538,
+                "matches": 430,
+                "playtime": 247050697,
                 "finished": 184,
                 "finishtime": 109128883,
                 "won": 224,
@@ -197742,6 +197756,20 @@
             },
             "country": "fi",
             "matches": [
+                {
+                    "date": 1783837290000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "ogurikappa",
+                    "elo": 2070,
+                    "change": 1,
+                    "oelo": 2158,
+                    "ochange": -1,
+                    "time": 720159,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1783836336000,
                     "type": "SHIPWRECK",
