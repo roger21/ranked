@@ -1,5 +1,5 @@
 {
-    "date": 1783880401000,
+    "date": 1783881001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -18012,20 +18012,6 @@
                     "oelo": 1853,
                     "ochange": -20,
                     "time": 680307,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779560423000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1877,
-                    "change": -22,
-                    "oelo": 1876,
-                    "ochange": 22,
-                    "time": 499199,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -62562,20 +62548,6 @@
                     "time": 548386,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779560423000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1876,
-                    "change": 22,
-                    "oelo": 1877,
-                    "ochange": -22,
-                    "time": 499199,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -96093,20 +96065,6 @@
                     "oelo": 2035,
                     "ochange": 19,
                     "time": 489026,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779560760000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 1991,
-                    "change": 15,
-                    "oelo": 1834,
-                    "ochange": -15,
-                    "time": 739029,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -148050,20 +148008,6 @@
                     "time": 576919,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779560418000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_Hypn0tic",
-                    "elo": 1723,
-                    "change": 20,
-                    "oelo": 1695,
-                    "ochange": -20,
-                    "time": 475270,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -151109,20 +151053,6 @@
                     "oelo": 1917,
                     "ochange": 18,
                     "time": 627306,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779560760000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1834,
-                    "change": -15,
-                    "oelo": 1991,
-                    "ochange": 15,
-                    "time": 739029,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -192295,20 +192225,6 @@
                     "ochange": -23,
                     "time": 533384,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779560835000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "mrc_y",
-                    "elo": 1630,
-                    "change": -21,
-                    "oelo": 1637,
-                    "ochange": 21,
-                    "time": 690081,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
