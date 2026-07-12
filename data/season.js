@@ -1,5 +1,5 @@
 {
-    "date": 1783830601000,
+    "date": 1783831201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39243,20 +39243,6 @@
                     "oelo": 1952,
                     "ochange": -22,
                     "time": 552145,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779510806000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1928,
-                    "change": 18,
-                    "oelo": 1824,
-                    "ochange": -18,
-                    "time": 362358,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -119230,20 +119216,6 @@
                     "time": 493165,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779510806000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1824,
-                    "change": -18,
-                    "oelo": 1928,
-                    "ochange": 18,
-                    "time": 362358,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -139854,20 +139826,6 @@
                     "ochange": -19,
                     "time": 596136,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779511153000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "FuzzKing",
-                    "elo": 1752,
-                    "change": -1,
-                    "oelo": 1692,
-                    "ochange": 1,
-                    "time": 420402,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -184619,20 +184577,6 @@
                     "time": 553791,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779510778000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1790,
-                    "change": 28,
-                    "oelo": 1974,
-                    "ochange": -28,
-                    "time": 591608,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -198725,20 +198669,6 @@
                     "ochange": 22,
                     "time": 552145,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779510778000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1974,
-                    "change": -28,
-                    "oelo": 1790,
-                    "ochange": 28,
-                    "time": 591608,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]

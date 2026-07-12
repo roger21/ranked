@@ -3611,7 +3611,7 @@
             "8": 1919,
             "9": 0,
             "10": 2021,
-            "11": 1713
+            "11": 1721
         },
         "points": {
             "1": 0,
@@ -3628,11 +3628,11 @@
         },
         "pb": 397260,
         "streak": 20,
-        "matches": 2348,
-        "playtime": 1426647744,
-        "finished": 954,
-        "finishtime": 641530508,
-        "won": 1273,
+        "matches": 2349,
+        "playtime": 1427479594,
+        "finished": 955,
+        "finishtime": 642362358,
+        "won": 1274,
         "lost": 970,
         "forfeited": 238
     },
@@ -6209,13 +6209,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 8075,
-        "playtime": 4444657363,
+        "matches": 8076,
+        "playtime": 4445065820,
         "finished": 3027,
         "finishtime": 1984621261,
         "won": 4066,
-        "lost": 3762,
-        "forfeited": 2340
+        "lost": 3763,
+        "forfeited": 2341
     },
     "eb136e7e26124f8daa99e521da609135": {
         "nickname": "Frolde",
