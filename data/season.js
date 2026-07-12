@@ -1,5 +1,5 @@
 {
-    "date": 1783815001000,
+    "date": 1783815601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -6365,20 +6365,6 @@
                     "oelo": 1829,
                     "ochange": 27,
                     "time": 640451,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779495219000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 2010,
-                    "change": 18,
-                    "oelo": 1924,
-                    "ochange": -18,
-                    "time": 615747,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79975,20 +79961,6 @@
                     "oelo": 2055,
                     "ochange": 16,
                     "time": 595639,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779495219000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1924,
-                    "change": -18,
-                    "oelo": 2010,
-                    "ochange": 18,
-                    "time": 615747,
                     "forfeited": false,
                     "decayed": false
                 }
