@@ -1,5 +1,5 @@
 {
-    "date": 1783831801000,
+    "date": 1783832401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -38931,22 +38931,36 @@
             "nickname": "BadGamer",
             "stats": {
                 "rank": 14,
-                "elo": 2245,
+                "elo": 2258,
                 "top": 2271,
                 "points": 41,
                 "pb": 432473,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 241,
-                "playtime": 128882484,
-                "finished": 140,
-                "finishtime": 80995740,
-                "won": 151,
+                "matches": 242,
+                "playtime": 129489520,
+                "finished": 141,
+                "finishtime": 81602776,
+                "won": 152,
                 "lost": 88,
                 "forfeited": 31
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1783832108000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "SammmyG",
+                    "elo": 2258,
+                    "change": 13,
+                    "oelo": 2023,
+                    "ochange": -13,
+                    "time": 607036,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783831408000,
                     "type": "VILLAGE",
@@ -40975,20 +40989,6 @@
                     "ochange": -19,
                     "time": 278923,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779512346000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1964,
-                    "change": 14,
-                    "oelo": 1776,
-                    "ochange": -14,
-                    "time": 553791,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -119202,20 +119202,6 @@
                     "time": 827480,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779511976000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1849,
-                    "change": 25,
-                    "oelo": 1927,
-                    "ochange": -25,
-                    "time": 493165,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127448,7 +127434,7 @@
                     "type": "VILLAGE",
                     "bastion": "TREASURE",
                     "result": "lost",
-                    "opponent": "JimboStevens",
+                    "opponent": "Dubbinski",
                     "elo": 1906,
                     "change": -26,
                     "oelo": 1780,
@@ -139698,7 +139684,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "JimboStevens",
+                    "opponent": "Dubbinski",
                     "elo": 1600,
                     "change": 18,
                     "oelo": 1518,
@@ -141126,7 +141112,7 @@
                     "type": "VILLAGE",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "JimboStevens",
+                    "opponent": "Dubbinski",
                     "elo": 1640,
                     "change": 17,
                     "oelo": 1527,
@@ -155248,20 +155234,6 @@
                     "oelo": 1757,
                     "ochange": -20,
                     "time": 657286,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779511804000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1771,
-                    "change": 19,
-                    "oelo": 1712,
-                    "ochange": -19,
-                    "time": 596136,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -184163,7 +184135,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "JimboStevens",
+                    "opponent": "Dubbinski",
                     "elo": 1745,
                     "change": 16,
                     "oelo": 1591,
@@ -184575,20 +184547,6 @@
                     "oelo": 1597,
                     "ochange": -14,
                     "time": 620311,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779512346000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1776,
-                    "change": -14,
-                    "oelo": 1964,
-                    "ochange": 14,
-                    "time": 553791,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -198655,20 +198613,6 @@
                     "ochange": 19,
                     "time": 278923,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779511976000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1927,
-                    "change": -25,
-                    "oelo": 1849,
-                    "ochange": 25,
-                    "time": 493165,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
