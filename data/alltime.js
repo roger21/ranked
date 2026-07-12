@@ -4481,12 +4481,12 @@
         },
         "pb": 425541,
         "streak": 9,
-        "matches": 1070,
-        "playtime": 655709483,
+        "matches": 1071,
+        "playtime": 656389928,
         "finished": 467,
         "finishtime": 325401950,
         "won": 625,
-        "lost": 399,
+        "lost": 400,
         "forfeited": 120
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
@@ -4604,7 +4604,7 @@
             "8": 1753,
             "9": 1643,
             "10": 1561,
-            "11": 1706
+            "11": 1713
         },
         "points": {
             "1": 0,
@@ -4621,11 +4621,11 @@
         },
         "pb": 456658,
         "streak": 8,
-        "matches": 2590,
-        "playtime": 1526562391,
-        "finished": 796,
-        "finishtime": 600044075,
-        "won": 1258,
+        "matches": 2592,
+        "playtime": 1527872246,
+        "finished": 797,
+        "finishtime": 600948674,
+        "won": 1260,
         "lost": 1100,
         "forfeited": 630
     },
@@ -5197,11 +5197,11 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 3910,
-        "playtime": 2364574671,
-        "finished": 1512,
-        "finishtime": 976542471,
-        "won": 1929,
+        "matches": 3911,
+        "playtime": 2365141026,
+        "finished": 1513,
+        "finishtime": 977108826,
+        "won": 1930,
         "lost": 1717,
         "forfeited": 437
     },
@@ -6243,31 +6243,6 @@
         "won": 3242,
         "lost": 3141,
         "forfeited": 1653
-    },
-    "ef0c8ab50e8541e5a18e94373d409f47": {
-        "nickname": "Tadanoisikoro",
-        "country": "jp",
-        "top": {
-            "8": 1086,
-            "9": 1514,
-            "10": 2026,
-            "11": 2067
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 436049,
-        "streak": 11,
-        "matches": 1231,
-        "playtime": 757952568,
-        "finished": 373,
-        "finishtime": 257364946,
-        "won": 572,
-        "lost": 489,
-        "forfeited": 242
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
