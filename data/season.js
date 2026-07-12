@@ -1,5 +1,5 @@
 {
-    "date": 1783825801000,
+    "date": 1783826401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39327,20 +39327,6 @@
                     "oelo": 1787,
                     "ochange": -16,
                     "time": 494400,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779505979000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1901,
-                    "change": 20,
-                    "oelo": 1867,
-                    "ochange": -20,
-                    "time": 562505,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -119440,20 +119426,6 @@
                     "time": 699319,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779505979000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1867,
-                    "change": -20,
-                    "oelo": 1901,
-                    "ochange": 20,
-                    "time": 562505,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -143264,20 +143236,6 @@
                     "oelo": 1721,
                     "ochange": -16,
                     "time": 466149,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779505994000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1849,
-                    "change": -25,
-                    "oelo": 1758,
-                    "ochange": 25,
-                    "time": 687102,
                     "forfeited": false,
                     "decayed": false
                 }
