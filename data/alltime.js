@@ -729,12 +729,12 @@
         },
         "pb": 503476,
         "streak": 19,
-        "matches": 559,
-        "playtime": 357259935,
+        "matches": 560,
+        "playtime": 357805292,
         "finished": 247,
         "finishtime": 170465090,
         "won": 338,
-        "lost": 201,
+        "lost": 202,
         "forfeited": 20
     },
     "1f88c82f9cc84c9885a5d38dd531f4c6": {
@@ -6199,13 +6199,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 8066,
-        "playtime": 4440102755,
+        "matches": 8067,
+        "playtime": 4440418114,
         "finished": 3023,
         "finishtime": 1982345456,
         "won": 4061,
-        "lost": 3758,
-        "forfeited": 2336
+        "lost": 3759,
+        "forfeited": 2337
     },
     "eb136e7e26124f8daa99e521da609135": {
         "nickname": "Frolde",

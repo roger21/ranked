@@ -1,5 +1,5 @@
 {
-    "date": 1783818601000,
+    "date": 1783819201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -6309,20 +6309,6 @@
                     "oelo": 2121,
                     "ochange": 16,
                     "time": 524812,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779498887000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1999,
-                    "change": 14,
-                    "oelo": 1793,
-                    "ochange": -14,
-                    "time": 624722,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79835,20 +79821,6 @@
                     "oelo": 1816,
                     "ochange": 23,
                     "time": 552810,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779499096000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1879,
-                    "change": -25,
-                    "oelo": 1779,
-                    "ochange": 25,
-                    "time": 700649,
                     "forfeited": false,
                     "decayed": false
                 }
