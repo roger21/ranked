@@ -3665,35 +3665,6 @@
         "lost": 652,
         "forfeited": 136
     },
-    "8c7208adf2784bacb3715ab657cd80bd": {
-        "nickname": "BinEin",
-        "country": "pl",
-        "top": {
-            "6": 1418,
-            "7": 1554,
-            "8": 1705,
-            "9": 2008,
-            "10": 2101,
-            "11": 2068
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 3,
-            "10": 6,
-            "11": 6
-        },
-        "pb": 392016,
-        "streak": 12,
-        "matches": 2203,
-        "playtime": 1523378794,
-        "finished": 813,
-        "finishtime": 624532562,
-        "won": 1139,
-        "lost": 994,
-        "forfeited": 58
-    },
     "8d52ed9bf12146c68321f1729e28cbf5": {
         "nickname": "WarioTime1",
         "country": "va",
