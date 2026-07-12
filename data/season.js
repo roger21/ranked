@@ -1,5 +1,5 @@
 {
-    "date": 1783854001000,
+    "date": 1783854601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17523,20 +17523,6 @@
                     "ochange": 23,
                     "time": 572407,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779534021000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1885,
-                    "change": 19,
-                    "oelo": 1810,
-                    "ochange": -19,
-                    "time": 308346,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -68045,20 +68031,6 @@
                     "time": 516865,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779534021000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1810,
-                    "change": -19,
-                    "oelo": 1885,
-                    "ochange": 19,
-                    "time": 308346,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -96375,20 +96347,6 @@
                     "time": 487186,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779534546000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "SweepJT",
-                    "elo": 1522,
-                    "change": 20,
-                    "oelo": 1492,
-                    "ochange": -20,
-                    "time": 492321,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -96397,7 +96355,7 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 26,
-                "elo": 2180,
+                "elo": 2175,
                 "top": 2230,
                 "points": 36,
                 "pb": 400470,
@@ -96413,6 +96371,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783854485000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2175,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783206434000,
                     "type": "BURIED_TREASURE",
@@ -101347,7 +101319,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2175,
                 "top": 2176,
                 "points": 78,
