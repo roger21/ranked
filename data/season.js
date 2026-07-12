@@ -1,5 +1,5 @@
 {
-    "date": 1783899601000,
+    "date": 1783900201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -100316,34 +100316,6 @@
                     "oelo": 1800,
                     "ochange": -13,
                     "time": 594792,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779580170000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 2004,
-                    "change": -21,
-                    "oelo": 2007,
-                    "ochange": 21,
-                    "time": 469734,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779579631000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2025,
-                    "change": 20,
-                    "oelo": 1995,
-                    "ochange": -20,
-                    "time": 632470,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -206277,20 +206249,6 @@
                     "time": 722055,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779579631000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1995,
-                    "change": -20,
-                    "oelo": 2025,
-                    "ochange": 20,
-                    "time": 632470,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -210227,20 +210185,6 @@
                     "oelo": 1557,
                     "ochange": -14,
                     "time": 482410,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779579860000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1729,
-                    "change": 1,
-                    "oelo": 1801,
-                    "ochange": -1,
-                    "time": 418891,
                     "forfeited": true,
                     "decayed": false
                 }
