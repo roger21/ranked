@@ -1,5 +1,5 @@
 {
-    "date": 1783836601000,
+    "date": 1783837201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -119679,20 +119679,6 @@
                     "time": 821961,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779517107000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "moo_god",
-                    "elo": 1565,
-                    "change": -22,
-                    "oelo": 1541,
-                    "ochange": 22,
-                    "time": 627157,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -195397,20 +195383,6 @@
                     "oelo": 1747,
                     "ochange": -14,
                     "time": 658003,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779516836000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "VojtaH007",
-                    "elo": 1945,
-                    "change": 12,
-                    "oelo": 1676,
-                    "ochange": -12,
-                    "time": 623613,
                     "forfeited": false,
                     "decayed": false
                 }
