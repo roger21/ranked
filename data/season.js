@@ -1,5 +1,5 @@
 {
-    "date": 1783892401000,
+    "date": 1783893001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17929,20 +17929,6 @@
                     "ochange": -16,
                     "time": 537274,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779572633000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1830,
-                    "change": -14,
-                    "oelo": 2023,
-                    "ochange": 14,
-                    "time": 396357,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -49527,7 +49513,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 17,
+                "rank": 18,
                 "elo": 2222,
                 "top": 2243,
                 "points": 30,
@@ -51510,7 +51496,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 18,
+                "rank": 19,
                 "elo": 2220,
                 "top": 2310,
                 "points": 100,
@@ -55019,7 +55005,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 2217,
                 "top": 2217,
                 "points": 44,
@@ -57786,7 +57772,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 20,
+                "rank": 21,
                 "elo": 2210,
                 "top": 2249,
                 "points": 41,
@@ -63045,7 +63031,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 2200,
                 "top": 2264,
                 "points": 0,
@@ -65854,7 +65840,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 2199,
                 "top": 2216,
                 "points": 15,
@@ -81025,23 +81011,37 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 23,
-                "elo": 2194,
+                "rank": 16,
+                "elo": 2223,
                 "top": 2273,
                 "points": 41,
                 "pb": 432473,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 250,
-                "playtime": 133781650,
-                "finished": 144,
-                "finishtime": 83274143,
-                "won": 155,
+                "matches": 251,
+                "playtime": 134380235,
+                "finished": 145,
+                "finishtime": 83872728,
+                "won": 156,
                 "lost": 93,
                 "forfeited": 31
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1783893019000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "edcr",
+                    "elo": 2223,
+                    "change": 29,
+                    "oelo": 2434,
+                    "ochange": -29,
+                    "time": 598585,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783892350000,
                     "type": "SHIPWRECK",
@@ -93952,20 +93952,6 @@
                     "ochange": 27,
                     "time": 637524,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779572633000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2023,
-                    "change": 14,
-                    "oelo": 1830,
-                    "ochange": -14,
-                    "time": 396357,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -205324,20 +205310,6 @@
                     "ochange": -18,
                     "time": 481799,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779572518000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "kpel",
-                    "elo": 1667,
-                    "change": -23,
-                    "oelo": 1627,
-                    "ochange": 23,
-                    "time": 523147,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
