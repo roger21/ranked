@@ -108,45 +108,6 @@
         "lost": 1235,
         "forfeited": 275
     },
-    "0562802e736e47c581b2ef095e2ed067": {
-        "nickname": "subdas",
-        "country": "br",
-        "top": {
-            "1": 1448,
-            "2": 1459,
-            "3": 1229,
-            "4": 1440,
-            "5": 1805,
-            "6": 1743,
-            "7": 1698,
-            "8": 1894,
-            "9": 2298,
-            "10": 2412,
-            "11": 2241
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 30,
-            "6": 5,
-            "7": 0,
-            "8": 15,
-            "9": 13,
-            "10": 19,
-            "11": 14
-        },
-        "pb": 396880,
-        "streak": 13,
-        "matches": 8428,
-        "playtime": 4826409359,
-        "finished": 3142,
-        "finishtime": 2041145222,
-        "won": 4225,
-        "lost": 3991,
-        "forfeited": 1625
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
         "country": "it",
@@ -979,7 +940,7 @@
             "8": 1801,
             "9": 2206,
             "10": 2166,
-            "11": 1780
+            "11": 1782
         },
         "points": {
             "3": 0,
@@ -994,11 +955,11 @@
         },
         "pb": 445416,
         "streak": 15,
-        "matches": 1950,
-        "playtime": 1326001846,
-        "finished": 765,
-        "finishtime": 554208441,
-        "won": 1025,
+        "matches": 1951,
+        "playtime": 1326625503,
+        "finished": 766,
+        "finishtime": 554832098,
+        "won": 1026,
         "lost": 832,
         "forfeited": 37
     },
@@ -2778,7 +2739,7 @@
             "8": 1922,
             "9": 2172,
             "10": 2344,
-            "11": 2086
+            "11": 2093
         },
         "points": {
             "1": 0,
@@ -2795,11 +2756,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7483,
-        "playtime": 4785981011,
-        "finished": 2678,
-        "finishtime": 1947837819,
-        "won": 3772,
+        "matches": 7484,
+        "playtime": 4786558517,
+        "finished": 2679,
+        "finishtime": 1948415325,
+        "won": 3773,
         "lost": 3398,
         "forfeited": 824
     },
@@ -3462,7 +3423,7 @@
             "8": 1851,
             "9": 2165,
             "10": 2168,
-            "11": 2080
+            "11": 2096
         },
         "points": {
             "6": 0,
@@ -3474,11 +3435,11 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 8908,
-        "playtime": 5167071118,
+        "matches": 8909,
+        "playtime": 5167420109,
         "finished": 3255,
         "finishtime": 2238369499,
-        "won": 4467,
+        "won": 4468,
         "lost": 4193,
         "forfeited": 2133
     },
@@ -4017,12 +3978,12 @@
         },
         "pb": 448618,
         "streak": 9,
-        "matches": 1121,
-        "playtime": 834691670,
+        "matches": 1122,
+        "playtime": 835269176,
         "finished": 439,
         "finishtime": 357808387,
         "won": 569,
-        "lost": 462,
+        "lost": 463,
         "forfeited": 69
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
@@ -5456,13 +5417,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 5232,
-        "playtime": 3003331209,
+        "matches": 5234,
+        "playtime": 3003893671,
         "finished": 1846,
         "finishtime": 1256143278,
         "won": 2516,
-        "lost": 2409,
-        "forfeited": 1313
+        "lost": 2411,
+        "forfeited": 1315
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
@@ -5738,12 +5699,12 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 9608,
-        "playtime": 6133329297,
+        "matches": 9609,
+        "playtime": 6133886676,
         "finished": 3400,
         "finishtime": 2419052112,
         "won": 4785,
-        "lost": 4412,
+        "lost": 4413,
         "forfeited": 1130
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
