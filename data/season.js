@@ -1,5 +1,5 @@
 {
-    "date": 1783851601000,
+    "date": 1783852201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17579,20 +17579,6 @@
                     "ochange": 25,
                     "time": 400034,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779531713000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1858,
-                    "change": -23,
-                    "oelo": 1826,
-                    "ochange": 23,
-                    "time": 592543,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -96501,20 +96487,6 @@
                     "time": 858627,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779532162000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ArroWcs_",
-                    "elo": 1521,
-                    "change": 21,
-                    "oelo": 1519,
-                    "ochange": -21,
-                    "time": 467047,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127236,20 +127208,6 @@
                     "oelo": 1734,
                     "ochange": -23,
                     "time": 528197,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779531697000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "karatebaby_",
-                    "elo": 1678,
-                    "change": 23,
-                    "oelo": 1727,
-                    "ochange": -23,
-                    "time": 667908,
                     "forfeited": false,
                     "decayed": false
                 }
