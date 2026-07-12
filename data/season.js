@@ -1,5 +1,5 @@
 {
-    "date": 1783819201000,
+    "date": 1783819801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -79809,20 +79809,6 @@
                     "time": 444535,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779499709000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 1856,
-                    "change": -23,
-                    "oelo": 1816,
-                    "ochange": 23,
-                    "time": 552810,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -81650,20 +81636,6 @@
                     "oelo": 1983,
                     "ochange": -16,
                     "time": 524812,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779499396000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 2105,
-                    "change": 18,
-                    "oelo": 2006,
-                    "ochange": -18,
-                    "time": 660277,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -156110,20 +156082,6 @@
                     "oelo": 2075,
                     "ochange": -23,
                     "time": 570409,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779499396000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2006,
-                    "change": -18,
-                    "oelo": 2105,
-                    "ochange": 18,
-                    "time": 660277,
                     "forfeited": false,
                     "decayed": false
                 }
