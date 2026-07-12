@@ -1,5 +1,5 @@
 {
-    "date": 1783894801000,
+    "date": 1783895401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -2913,22 +2913,36 @@
             "nickname": "doogile",
             "stats": {
                 "rank": 2,
-                "elo": 2500,
+                "elo": 2477,
                 "top": 2500,
                 "points": 112,
                 "pb": 412717,
-                "current": 7,
+                "current": 0,
                 "streak": 10,
-                "matches": 191,
-                "playtime": 104496637,
+                "matches": 192,
+                "playtime": 105137761,
                 "finished": 125,
                 "finishtime": 69229740,
                 "won": 139,
-                "lost": 49,
+                "lost": 50,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1783895341000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2477,
+                    "change": -23,
+                    "oelo": 2441,
+                    "ochange": 23,
+                    "time": 641124,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783727630000,
                     "type": "VILLAGE",
@@ -5078,22 +5092,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 3,
-                "elo": 2418,
+                "elo": 2441,
                 "top": 2543,
                 "points": 135,
                 "pb": 353371,
-                "current": 1,
+                "current": 2,
                 "streak": 16,
-                "matches": 307,
-                "playtime": 163470015,
-                "finished": 221,
-                "finishtime": 119640574,
-                "won": 241,
+                "matches": 308,
+                "playtime": 164111139,
+                "finished": 222,
+                "finishtime": 120281698,
+                "won": 242,
                 "lost": 63,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1783895341000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "doogile",
+                    "elo": 2441,
+                    "change": 23,
+                    "oelo": 2477,
+                    "ochange": -23,
+                    "time": 641124,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783894256000,
                     "type": "SHIPWRECK",
@@ -93881,20 +93909,6 @@
                     "oelo": 2012,
                     "ochange": 21,
                     "time": 693473,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779575154000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2032,
-                    "change": 15,
-                    "oelo": 1866,
-                    "ochange": -15,
-                    "time": 569495,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -205226,20 +205240,6 @@
                     "ochange": -18,
                     "time": 742890,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779575282000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "ArroWcs_",
-                    "elo": 1648,
-                    "change": 0,
-                    "oelo": 1609,
-                    "ochange": 0,
-                    "time": 540313,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
