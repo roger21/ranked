@@ -1,5 +1,5 @@
 {
-    "date": 1783818001000,
+    "date": 1783818601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -79851,20 +79851,6 @@
                     "time": 700649,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779498269000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 1904,
-                    "change": -15,
-                    "oelo": 2087,
-                    "ochange": 15,
-                    "time": 647586,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -81706,20 +81692,6 @@
                     "oelo": 2006,
                     "ochange": -18,
                     "time": 660277,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779498269000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 2087,
-                    "change": 15,
-                    "oelo": 1904,
-                    "ochange": -15,
-                    "time": 647586,
                     "forfeited": false,
                     "decayed": false
                 }
