@@ -1,5 +1,5 @@
 {
-    "date": 1783841401000,
+    "date": 1783842001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -59569,20 +59569,6 @@
                     "oelo": 1844,
                     "ochange": -14,
                     "time": 730360,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779521699000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 2019,
-                    "change": -28,
-                    "oelo": 1853,
-                    "ochange": 28,
-                    "time": 690214,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -119691,20 +119677,6 @@
                     "oelo": 1535,
                     "ochange": 24,
                     "time": 758512,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779521644000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "falaciasmc",
-                    "elo": 1623,
-                    "change": 19,
-                    "oelo": 1562,
-                    "ochange": -19,
-                    "time": 579164,
                     "forfeited": false,
                     "decayed": false
                 }
