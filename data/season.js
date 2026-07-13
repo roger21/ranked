@@ -1,5 +1,5 @@
 {
-    "date": 1783903801000,
+    "date": 1783904401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -96361,20 +96361,6 @@
                     "time": 525332,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779583969000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1813,
-                    "change": 18,
-                    "oelo": 1723,
-                    "ochange": -18,
-                    "time": 590924,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -144823,20 +144809,6 @@
                     "oelo": 1794,
                     "ochange": -19,
                     "time": 525332,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779584025000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "iluappi",
-                    "elo": 1827,
-                    "change": 21,
-                    "oelo": 1811,
-                    "ochange": -21,
-                    "time": 601290,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -209849,20 +209821,6 @@
                     "oelo": 1706,
                     "ochange": -17,
                     "time": 629510,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779584025000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1811,
-                    "change": -21,
-                    "oelo": 1827,
-                    "ochange": 21,
-                    "time": 601290,
                     "forfeited": false,
                     "decayed": false
                 }
