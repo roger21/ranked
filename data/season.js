@@ -1,5 +1,5 @@
 {
-    "date": 1783959001000,
+    "date": 1783959601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17480,20 +17480,6 @@
                     "oelo": 1911,
                     "ochange": -25,
                     "time": 309627,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779639557000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "poopiefart13",
-                    "elo": 1788,
-                    "change": -18,
-                    "oelo": 1881,
-                    "ochange": 18,
-                    "time": 364577,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -95122,7 +95108,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2187,
                 "top": 2324,
                 "points": 72,
@@ -96937,23 +96923,37 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 27,
-                "elo": 2185,
+                "rank": 22,
+                "elo": 2200,
                 "top": 2259,
                 "points": 0,
                 "pb": 404207,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 432,
-                "playtime": 226202741,
-                "finished": 214,
-                "finishtime": 121748089,
-                "won": 240,
+                "matches": 433,
+                "playtime": 226731377,
+                "finished": 215,
+                "finishtime": 122276725,
+                "won": 241,
                 "lost": 185,
                 "forfeited": 60
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1783959635000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Casssual",
+                    "elo": 2200,
+                    "change": 15,
+                    "oelo": 2040,
+                    "ochange": -15,
+                    "time": 528636,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783958200000,
                     "type": "VILLAGE",
@@ -196242,34 +196242,6 @@
                     "oelo": 1566,
                     "ochange": -21,
                     "time": 640735,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779639387000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "VojtaH007",
-                    "elo": 1573,
-                    "change": -18,
-                    "oelo": 1660,
-                    "ochange": 18,
-                    "time": 227528,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779639062000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Pal",
-                    "elo": 1591,
-                    "change": 18,
-                    "oelo": 1503,
-                    "ochange": -18,
-                    "time": 641405,
                     "forfeited": false,
                     "decayed": false
                 }
