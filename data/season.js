@@ -1,5 +1,5 @@
 {
-    "date": 1783951801000,
+    "date": 1783952401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -24116,20 +24116,6 @@
                     "ochange": 25,
                     "time": 382540,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779632199000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2024,
-                    "change": 16,
-                    "oelo": 1870,
-                    "ochange": -16,
-                    "time": 692096,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -171372,34 +171358,6 @@
                     "time": 527712,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779632367000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "fe666",
-                    "elo": 1712,
-                    "change": 20,
-                    "oelo": 1679,
-                    "ochange": -20,
-                    "time": 489420,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779631820000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Starchomper",
-                    "elo": 1692,
-                    "change": -21,
-                    "oelo": 1702,
-                    "ochange": 21,
-                    "time": 897423,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -183102,20 +183060,6 @@
                     "ochange": -20,
                     "time": 280903,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779632067000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SkorpionISGod",
-                    "elo": 1591,
-                    "change": -20,
-                    "oelo": 1628,
-                    "ochange": 20,
-                    "time": 837690,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -205388,20 +205332,6 @@
                     "oelo": 1914,
                     "ochange": 19,
                     "time": 553987,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779632199000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1870,
-                    "change": -16,
-                    "oelo": 2024,
-                    "ochange": 16,
-                    "time": 692096,
                     "forfeited": false,
                     "decayed": false
                 }
