@@ -1,5 +1,5 @@
 {
-    "date": 1783920601000,
+    "date": 1783921201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -151239,20 +151239,6 @@
                     "oelo": 1882,
                     "ochange": 20,
                     "time": 512057,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779601151000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1850,
-                    "change": -20,
-                    "oelo": 1897,
-                    "ochange": 20,
-                    "time": 666446,
                     "forfeited": false,
                     "decayed": false
                 }
