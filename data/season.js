@@ -1,5 +1,5 @@
 {
-    "date": 1783936801000,
+    "date": 1783937401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -24139,7 +24139,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 10,
-                "elo": 2280,
+                "elo": 2275,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -24155,6 +24155,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1783937347000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2275,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783850945000,
                     "type": null,
@@ -143872,20 +143886,6 @@
                     "ochange": 18,
                     "time": 526811,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779616896000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "IBringSuffering",
-                    "elo": 1739,
-                    "change": -20,
-                    "oelo": 1782,
-                    "ochange": 20,
-                    "time": 528962,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
