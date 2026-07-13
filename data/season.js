@@ -1,5 +1,5 @@
 {
-    "date": 1783925401000,
+    "date": 1783926001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -168697,34 +168697,6 @@
                     "ochange": 20,
                     "time": 938713,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779605985000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1831,
-                    "change": 18,
-                    "oelo": 1730,
-                    "ochange": -18,
-                    "time": 511794,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779605417000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Wayyyyyy_",
-                    "elo": 1813,
-                    "change": -2,
-                    "oelo": 1687,
-                    "ochange": 2,
-                    "time": 905043,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
