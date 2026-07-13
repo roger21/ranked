@@ -1,5 +1,5 @@
 {
-    "date": 1783912201000,
+    "date": 1783912801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -51251,20 +51251,6 @@
                     "time": 478749,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779592755000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Unknwonc",
-                    "elo": 2062,
-                    "change": 15,
-                    "oelo": 1899,
-                    "ochange": -15,
-                    "time": 685039,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95925,20 +95911,6 @@
                     "oelo": 1859,
                     "ochange": 16,
                     "time": 569011,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779592337000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "mangrovejack",
-                    "elo": 1740,
-                    "change": 18,
-                    "oelo": 1649,
-                    "ochange": -18,
-                    "time": 766102,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -144279,20 +144251,6 @@
                     "time": 569011,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779592354000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "JackoWacko62",
-                    "elo": 1843,
-                    "change": 0,
-                    "oelo": 1841,
-                    "ochange": 0,
-                    "time": 304613,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -147086,20 +147044,6 @@
                     "oelo": 1884,
                     "ochange": -1,
                     "time": 642903,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779592354000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "dandannyboy",
-                    "elo": 1841,
-                    "change": 0,
-                    "oelo": 1843,
-                    "ochange": 0,
-                    "time": 304613,
                     "forfeited": true,
                     "decayed": false
                 }
