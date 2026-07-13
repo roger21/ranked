@@ -1,5 +1,5 @@
 {
-    "date": 1783903201000,
+    "date": 1783903801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -96375,20 +96375,6 @@
                     "time": 590924,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779583271000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "iluappi",
-                    "elo": 1795,
-                    "change": -20,
-                    "oelo": 1832,
-                    "ochange": 20,
-                    "time": 562203,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -144851,20 +144837,6 @@
                     "oelo": 1811,
                     "ochange": -21,
                     "time": 601290,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779583320000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1806,
-                    "change": 19,
-                    "oelo": 1741,
-                    "ochange": -19,
-                    "time": 531736,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -209891,20 +209863,6 @@
                     "oelo": 1827,
                     "ochange": 21,
                     "time": 601290,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779583271000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wagasylvie",
-                    "elo": 1832,
-                    "change": 20,
-                    "oelo": 1795,
-                    "ochange": -20,
-                    "time": 562203,
                     "forfeited": false,
                     "decayed": false
                 }
