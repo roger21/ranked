@@ -1,5 +1,5 @@
 {
-    "date": 1783920001000,
+    "date": 1783920601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -56629,20 +56629,6 @@
                     "oelo": 1927,
                     "ochange": 25,
                     "time": 617048,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779600434000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 2051,
-                    "change": -28,
-                    "oelo": 1877,
-                    "ochange": 28,
-                    "time": 725271,
                     "forfeited": false,
                     "decayed": false
                 }
