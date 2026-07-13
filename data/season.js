@@ -1,5 +1,5 @@
 {
-    "date": 1783937401000,
+    "date": 1783938001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -143871,20 +143871,6 @@
                     "oelo": 1844,
                     "ochange": 16,
                     "time": 954441,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779617492000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Coach_Side",
-                    "elo": 1721,
-                    "change": -18,
-                    "oelo": 1806,
-                    "ochange": 18,
-                    "time": 526811,
                     "forfeited": true,
                     "decayed": false
                 }
