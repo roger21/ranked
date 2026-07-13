@@ -1,5 +1,5 @@
 {
-    "date": 1783901401000,
+    "date": 1783902001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -2890,20 +2890,6 @@
                     "ochange": -11,
                     "time": 264269,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779581615000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 2165,
-                    "change": -26,
-                    "oelo": 2043,
-                    "ochange": 26,
-                    "time": 565474,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -96445,34 +96431,6 @@
                     "time": 325740,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779581732000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "iluappi",
-                    "elo": 1779,
-                    "change": -22,
-                    "oelo": 1776,
-                    "ochange": 22,
-                    "time": 253667,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779581427000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Bloonskiller",
-                    "elo": 1801,
-                    "change": 17,
-                    "oelo": 1681,
-                    "ochange": -17,
-                    "time": 423744,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -100246,20 +100204,6 @@
                     "oelo": 1908,
                     "ochange": -16,
                     "time": 715304,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779581615000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2043,
-                    "change": 26,
-                    "oelo": 2165,
-                    "ochange": -26,
-                    "time": 565474,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180782,7 +180726,7 @@
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "nickname": "cvctus",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2094,
                 "top": 2094,
                 "points": 4,
@@ -187063,7 +187007,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2092,
                 "top": 2092,
                 "points": 7,
@@ -189438,23 +189382,37 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 46,
-                "elo": 2083,
-                "top": 2083,
+                "rank": 44,
+                "elo": 2100,
+                "top": 2100,
                 "points": 6,
                 "pb": 418867,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 307,
-                "playtime": 181323506,
-                "finished": 128,
-                "finishtime": 84012090,
-                "won": 168,
+                "matches": 308,
+                "playtime": 181966019,
+                "finished": 129,
+                "finishtime": 84654603,
+                "won": 169,
                 "lost": 131,
                 "forfeited": 26
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1783902012000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 2100,
+                    "change": 17,
+                    "oelo": 1991,
+                    "ochange": -17,
+                    "time": 642513,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783897181000,
                     "type": "RUINED_PORTAL",
@@ -210059,34 +210017,6 @@
                     "oelo": 1742,
                     "ochange": -19,
                     "time": 451210,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779581732000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "wagasylvie",
-                    "elo": 1776,
-                    "change": 22,
-                    "oelo": 1779,
-                    "ochange": -22,
-                    "time": 253667,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779581420000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Psemcovici",
-                    "elo": 1754,
-                    "change": -1,
-                    "oelo": 1676,
-                    "ochange": 1,
-                    "time": 295135,
                     "forfeited": true,
                     "decayed": false
                 }
