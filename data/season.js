@@ -1,5 +1,5 @@
 {
-    "date": 1783934401000,
+    "date": 1783935001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -64529,20 +64529,6 @@
                     "oelo": 1700,
                     "ochange": -12,
                     "time": 508707,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779614584000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1952,
-                    "change": 14,
-                    "oelo": 1766,
-                    "ochange": -14,
-                    "time": 632560,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143969,20 +143955,6 @@
                     "oelo": 1785,
                     "ochange": 19,
                     "time": 594399,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779614449000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "orachi_",
-                    "elo": 1746,
-                    "change": 20,
-                    "oelo": 1712,
-                    "ochange": -20,
-                    "time": 512511,
                     "forfeited": false,
                     "decayed": false
                 }
