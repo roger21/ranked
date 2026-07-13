@@ -2639,12 +2639,12 @@
         },
         "pb": 353371,
         "streak": 29,
-        "matches": 4956,
-        "playtime": 2819392480,
+        "matches": 4957,
+        "playtime": 2819806548,
         "finished": 2658,
         "finishtime": 1593961612,
         "won": 3131,
-        "lost": 1727,
+        "lost": 1728,
         "forfeited": 319
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
@@ -3994,11 +3994,11 @@
         },
         "pb": 394023,
         "streak": 16,
-        "matches": 10259,
-        "playtime": 6348552096,
+        "matches": 10260,
+        "playtime": 6348813665,
         "finished": 4068,
         "finishtime": 2721974955,
-        "won": 5123,
+        "won": 5124,
         "lost": 4766,
         "forfeited": 880
     },
@@ -4069,27 +4069,6 @@
         "won": 3729,
         "lost": 3480,
         "forfeited": 1219
-    },
-    "98cea324ee714d868b2ec1627f0f5762": {
-        "nickname": "cvctus",
-        "country": "ca",
-        "top": {
-            "10": 1786,
-            "11": 2106
-        },
-        "points": {
-            "10": 0,
-            "11": 4
-        },
-        "pb": 399951,
-        "streak": 15,
-        "matches": 1085,
-        "playtime": 824784663,
-        "finished": 442,
-        "finishtime": 358586473,
-        "won": 582,
-        "lost": 462,
-        "forfeited": 23
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -4582,11 +4561,11 @@
         },
         "pb": 347271,
         "streak": 26,
-        "matches": 4616,
-        "playtime": 2596630197,
-        "finished": 2710,
-        "finishtime": 1565280421,
-        "won": 3151,
+        "matches": 4617,
+        "playtime": 2597044265,
+        "finished": 2711,
+        "finishtime": 1565694489,
+        "won": 3152,
         "lost": 1392,
         "forfeited": 40
     },
@@ -5483,13 +5462,13 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 5268,
-        "playtime": 3020597947,
+        "matches": 5269,
+        "playtime": 3020875495,
         "finished": 1861,
         "finishtime": 1264954113,
         "won": 2533,
-        "lost": 2425,
-        "forfeited": 1324
+        "lost": 2426,
+        "forfeited": 1325
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
@@ -6263,13 +6242,13 @@
         },
         "pb": 409037,
         "streak": 10,
-        "matches": 6653,
-        "playtime": 3974346586,
+        "matches": 6654,
+        "playtime": 3974608155,
         "finished": 2210,
         "finishtime": 1570658730,
         "won": 3250,
-        "lost": 3145,
-        "forfeited": 1654
+        "lost": 3146,
+        "forfeited": 1655
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
