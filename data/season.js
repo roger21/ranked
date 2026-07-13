@@ -1,5 +1,5 @@
 {
-    "date": 1783900201000,
+    "date": 1783900801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -67802,20 +67802,6 @@
                     "time": 473556,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779580557000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Kaguy4_",
-                    "elo": 1780,
-                    "change": 14,
-                    "oelo": 1593,
-                    "ochange": -14,
-                    "time": 1251623,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -96499,20 +96485,6 @@
                     "oelo": 1715,
                     "ochange": 24,
                     "time": 659919,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779580218000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Big_Wazza69",
-                    "elo": 1808,
-                    "change": -21,
-                    "oelo": 1813,
-                    "ochange": 21,
-                    "time": 834368,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -206235,20 +206207,6 @@
                     "time": 241743,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779580420000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 2013,
-                    "change": 18,
-                    "oelo": 1924,
-                    "ochange": -18,
-                    "time": 722055,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -210172,20 +210130,6 @@
                     "ochange": -12,
                     "time": 430436,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779580438000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "moo_god",
-                    "elo": 1743,
-                    "change": 14,
-                    "oelo": 1557,
-                    "ochange": -14,
-                    "time": 482410,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
