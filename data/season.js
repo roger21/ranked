@@ -1,5 +1,5 @@
 {
-    "date": 1783963801000,
+    "date": 1783964401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17396,20 +17396,6 @@
                     "oelo": 1882,
                     "ochange": -20,
                     "time": 551300,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779643872000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TapL",
-                    "elo": 1902,
-                    "change": 14,
-                    "oelo": 1714,
-                    "ochange": -14,
-                    "time": 568480,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -112541,23 +112527,37 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 31,
-                "elo": 2138,
+                "rank": 37,
+                "elo": 2114,
                 "top": 2241,
                 "points": 14,
                 "pb": 398054,
-                "current": 7,
+                "current": 0,
                 "streak": 8,
-                "matches": 1711,
-                "playtime": 945799001,
+                "matches": 1712,
+                "playtime": 946378491,
                 "finished": 746,
                 "finishtime": 447476326,
                 "won": 880,
-                "lost": 801,
+                "lost": 802,
                 "forfeited": 208
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1783964417000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 2114,
+                    "change": -24,
+                    "oelo": 2053,
+                    "ochange": 24,
+                    "time": 579490,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783961400000,
                     "type": "VILLAGE",
@@ -128183,7 +128183,7 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2134,
                 "top": 2185,
                 "points": 18,
@@ -134856,7 +134856,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2130,
                 "top": 2133,
                 "points": 7,
@@ -137329,7 +137329,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2119,
                 "top": 2123,
                 "points": 9,
@@ -138416,7 +138416,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2115,
                 "top": 2115,
                 "points": 10,
@@ -148253,7 +148253,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2115,
                 "top": 2207,
                 "points": 31,
@@ -152686,7 +152686,7 @@
             "uuid": "9589914cf31a420bbcb07cd0768eec28",
             "nickname": "_Pasha1337_",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2114,
                 "top": 2168,
                 "points": 0,
