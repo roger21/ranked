@@ -1,5 +1,5 @@
 {
-    "date": 1783904401000,
+    "date": 1783905001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -2861,20 +2861,6 @@
                     "oelo": 1915,
                     "ochange": -12,
                     "time": 531939,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779584472000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nhb_",
-                    "elo": 2150,
-                    "change": -26,
-                    "oelo": 2019,
-                    "ochange": 26,
-                    "time": 556232,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -10849,20 +10835,6 @@
                     "oelo": 1899,
                     "ochange": -16,
                     "time": 413966,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779584472000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2019,
-                    "change": 26,
-                    "oelo": 2150,
-                    "ochange": -26,
-                    "time": 556232,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -96347,20 +96319,6 @@
                     "time": 496694,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779584718000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1794,
-                    "change": -19,
-                    "oelo": 1846,
-                    "ochange": 19,
-                    "time": 525332,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -144795,20 +144753,6 @@
                     "oelo": 1651,
                     "ochange": -14,
                     "time": 599806,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779584718000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wagasylvie",
-                    "elo": 1846,
-                    "change": 19,
-                    "oelo": 1794,
-                    "ochange": -19,
-                    "time": 525332,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -209807,20 +209751,6 @@
                     "oelo": 1772,
                     "ochange": 23,
                     "time": 543740,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779584721000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1828,
-                    "change": 17,
-                    "oelo": 1706,
-                    "ochange": -17,
-                    "time": 629510,
                     "forfeited": false,
                     "decayed": false
                 }
