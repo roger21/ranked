@@ -1,5 +1,5 @@
 {
-    "date": 1783942801000,
+    "date": 1783943401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -97371,7 +97371,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2172,
                 "top": 2176,
                 "points": 78,
@@ -98766,7 +98766,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2170,
                 "top": 2230,
                 "points": 36,
@@ -103745,7 +103745,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2170,
                 "top": 2292,
                 "points": 28,
@@ -108374,23 +108374,37 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 30,
-                "elo": 2165,
+                "rank": 27,
+                "elo": 2179,
                 "top": 2259,
                 "points": 0,
                 "pb": 404207,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 424,
-                "playtime": 222238892,
-                "finished": 210,
-                "finishtime": 119589675,
-                "won": 235,
+                "matches": 425,
+                "playtime": 222830276,
+                "finished": 211,
+                "finishtime": 120181059,
+                "won": 236,
                 "lost": 183,
                 "forfeited": 59
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1783943406000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "pigswitch",
+                    "elo": 2179,
+                    "change": 14,
+                    "oelo": 1988,
+                    "ochange": -14,
+                    "time": 591384,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783942572000,
                     "type": "DESERT_TEMPLE",
@@ -143760,20 +143774,6 @@
                     "ochange": 19,
                     "time": 530235,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779623156000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 1756,
-                    "change": 21,
-                    "oelo": 1739,
-                    "ochange": -21,
-                    "time": 280704,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
