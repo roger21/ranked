@@ -1,5 +1,5 @@
 {
-    "date": 1783962001000,
+    "date": 1783962601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17425,20 +17425,6 @@
                     "ochange": -20,
                     "time": 408133,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779642167000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Finnitzko",
-                    "elo": 1868,
-                    "change": 16,
-                    "oelo": 1724,
-                    "ochange": -16,
-                    "time": 641042,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
