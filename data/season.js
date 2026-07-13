@@ -1,5 +1,5 @@
 {
-    "date": 1783919401000,
+    "date": 1783920001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -151268,34 +151268,6 @@
                     "ochange": 20,
                     "time": 666446,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779600000000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1870,
-                    "change": 19,
-                    "oelo": 1798,
-                    "ochange": -19,
-                    "time": 535148,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779599412000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "tookannn",
-                    "elo": 1851,
-                    "change": -1,
-                    "oelo": 1781,
-                    "ochange": 1,
-                    "time": 494970,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
