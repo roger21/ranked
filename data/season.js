@@ -1,5 +1,5 @@
 {
-    "date": 1783927801000,
+    "date": 1783928401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -64613,20 +64613,6 @@
                     "oelo": 1855,
                     "ochange": -21,
                     "time": 552044,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779608374000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1862,
-                    "change": -24,
-                    "oelo": 1787,
-                    "ochange": 24,
-                    "time": 604374,
                     "forfeited": false,
                     "decayed": false
                 }
