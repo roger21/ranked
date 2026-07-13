@@ -1,5 +1,5 @@
 {
-    "date": 1783927201000,
+    "date": 1783927801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -64627,20 +64627,6 @@
                     "oelo": 1787,
                     "ochange": 24,
                     "time": 604374,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779607501000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "IBringSuffering",
-                    "elo": 1886,
-                    "change": 16,
-                    "oelo": 1745,
-                    "ochange": -16,
-                    "time": 678592,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -168655,20 +168641,6 @@
                     "ochange": -19,
                     "time": 453897,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779607731000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Wayyyyyy_",
-                    "elo": 1826,
-                    "change": 15,
-                    "oelo": 1665,
-                    "ochange": -15,
-                    "time": 546212,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
