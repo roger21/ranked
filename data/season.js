@@ -1,5 +1,5 @@
 {
-    "date": 1783936201000,
+    "date": 1783936801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -64501,20 +64501,6 @@
                     "oelo": 1993,
                     "ochange": 19,
                     "time": 713333,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779616338000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Coach_Side",
-                    "elo": 1937,
-                    "change": -27,
-                    "oelo": 1788,
-                    "ochange": 27,
-                    "time": 566248,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143900,20 +143886,6 @@
                     "ochange": 20,
                     "time": 528962,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779616302000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1759,
-                    "change": 18,
-                    "oelo": 1666,
-                    "ochange": -18,
-                    "time": 626284,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
