@@ -1534,11 +1534,11 @@
         },
         "pb": 342789,
         "streak": 17,
-        "matches": 16487,
-        "playtime": 9687551300,
-        "finished": 7233,
-        "finishtime": 4647139318,
-        "won": 8938,
+        "matches": 16488,
+        "playtime": 9688171476,
+        "finished": 7234,
+        "finishtime": 4647759494,
+        "won": 8939,
         "lost": 7168,
         "forfeited": 2010
     },
@@ -2542,12 +2542,12 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 11144,
-        "playtime": 6926603220,
+        "matches": 11145,
+        "playtime": 6927223396,
         "finished": 4117,
         "finishtime": 3000651648,
         "won": 5547,
-        "lost": 5224,
+        "lost": 5225,
         "forfeited": 1739
     },
     "60bfac463733422f8708733f3140cd94": {
@@ -3445,12 +3445,12 @@
         },
         "pb": 444127,
         "streak": 10,
-        "matches": 5215,
-        "playtime": 3480619425,
+        "matches": 5216,
+        "playtime": 3481612135,
         "finished": 1592,
         "finishtime": 1271448190,
         "won": 2560,
-        "lost": 2400,
+        "lost": 2401,
         "forfeited": 773
     },
     "8393e90d9dd94a3eb838146a5ae5b724": {
@@ -3640,7 +3640,7 @@
             "8": 1919,
             "9": 0,
             "10": 2021,
-            "11": 1778
+            "11": 1780
         },
         "points": {
             "1": 0,
@@ -3657,11 +3657,11 @@
         },
         "pb": 397260,
         "streak": 20,
-        "matches": 2357,
-        "playtime": 1432762066,
-        "finished": 959,
-        "finishtime": 645052797,
-        "won": 1279,
+        "matches": 2358,
+        "playtime": 1433411669,
+        "finished": 960,
+        "finishtime": 645702400,
+        "won": 1280,
         "lost": 973,
         "forfeited": 239
     },
@@ -5454,11 +5454,11 @@
         },
         "pb": 410724,
         "streak": 12,
-        "matches": 5273,
-        "playtime": 3022984441,
-        "finished": 1864,
-        "finishtime": 1266571792,
-        "won": 2536,
+        "matches": 5274,
+        "playtime": 3023623437,
+        "finished": 1865,
+        "finishtime": 1267210788,
+        "won": 2537,
         "lost": 2427,
         "forfeited": 1325
     },
@@ -6274,6 +6274,31 @@
         "won": 3250,
         "lost": 3147,
         "forfeited": 1655
+    },
+    "ef0c8ab50e8541e5a18e94373d409f47": {
+        "nickname": "Tadanoisikoro",
+        "country": "jp",
+        "top": {
+            "8": 1086,
+            "9": 1514,
+            "10": 2026,
+            "11": 2076
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+        },
+        "pb": 436049,
+        "streak": 11,
+        "matches": 1236,
+        "playtime": 761078333,
+        "finished": 376,
+        "finishtime": 259265713,
+        "won": 575,
+        "lost": 491,
+        "forfeited": 242
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
