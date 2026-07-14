@@ -1,5 +1,5 @@
 {
-    "date": 1784024401000,
+    "date": 1784025001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -74278,20 +74278,6 @@
                     "oelo": 1892,
                     "ochange": -23,
                     "time": 581508,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779704856000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Czelco",
-                    "elo": 1821,
-                    "change": -28,
-                    "oelo": 1629,
-                    "ochange": 28,
-                    "time": 572688,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204558,20 +204544,6 @@
                     "oelo": 1633,
                     "ochange": -15,
                     "time": 682515,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779704863000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "confusedcapy",
-                    "elo": 1775,
-                    "change": 20,
-                    "oelo": 1739,
-                    "ochange": -20,
-                    "time": 612493,
                     "forfeited": false,
                     "decayed": false
                 }
