@@ -1,5 +1,5 @@
 {
-    "date": 1784028001000,
+    "date": 1784028602000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -74222,20 +74222,6 @@
                     "oelo": 1595,
                     "ochange": -14,
                     "time": 948840,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779708079000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yjako",
-                    "elo": 1782,
-                    "change": -16,
-                    "oelo": 1921,
-                    "ochange": 16,
-                    "time": 512115,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -156517,20 +156503,6 @@
                     "oelo": 1798,
                     "ochange": -16,
                     "time": 558161,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779708079000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1921,
-                    "change": 16,
-                    "oelo": 1782,
-                    "ochange": -16,
-                    "time": 512115,
                     "forfeited": false,
                     "decayed": false
                 }
