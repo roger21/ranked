@@ -1,5 +1,5 @@
 {
-    "date": 1784038801000,
+    "date": 1784039402000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17382,20 +17382,6 @@
                     "oelo": 1837,
                     "ochange": 19,
                     "time": 511210,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779719182000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Piissii",
-                    "elo": 1786,
-                    "change": 15,
-                    "oelo": 1611,
-                    "ochange": -15,
-                    "time": 675944,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -66086,20 +66072,6 @@
                     "time": 610359,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779719258000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 2051,
-                    "change": 13,
-                    "oelo": 1818,
-                    "ochange": -13,
-                    "time": 512095,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -104396,20 +104368,6 @@
                     "time": 581729,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779718847000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "iluappi",
-                    "elo": 1959,
-                    "change": 18,
-                    "oelo": 1869,
-                    "ochange": -18,
-                    "time": 736648,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135883,20 +135841,6 @@
                     "ochange": 22,
                     "time": 467345,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779718985000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1781,
-                    "change": -21,
-                    "oelo": 1805,
-                    "ochange": 21,
-                    "time": 525155,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -192595,20 +192539,6 @@
                     "time": 581729,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779719016000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Haaons_",
-                    "elo": 1833,
-                    "change": -1,
-                    "oelo": 1750,
-                    "ochange": 1,
-                    "time": 694131,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -200138,20 +200068,6 @@
                     "oelo": 1931,
                     "ochange": 18,
                     "time": 577643,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779718847000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Pinne",
-                    "elo": 1869,
-                    "change": -18,
-                    "oelo": 1959,
-                    "ochange": 18,
-                    "time": 736648,
                     "forfeited": false,
                     "decayed": false
                 }
