@@ -1,5 +1,5 @@
 {
-    "date": 1784023801000,
+    "date": 1784024401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -74292,20 +74292,6 @@
                     "oelo": 1629,
                     "ochange": 28,
                     "time": 572688,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779704085000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1849,
-                    "change": -25,
-                    "oelo": 1755,
-                    "ochange": 25,
-                    "time": 552060,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204586,20 +204572,6 @@
                     "oelo": 1739,
                     "ochange": -20,
                     "time": 612493,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779704085000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1755,
-                    "change": 25,
-                    "oelo": 1849,
-                    "ochange": -25,
-                    "time": 552060,
                     "forfeited": false,
                     "decayed": false
                 }
