@@ -1,5 +1,5 @@
 {
-    "date": 1784034601000,
+    "date": 1784035201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17480,20 +17480,6 @@
                     "oelo": 1616,
                     "ochange": -18,
                     "time": 618881,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779714671000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1695,
-                    "change": -16,
-                    "oelo": 1850,
-                    "ochange": 16,
-                    "time": 624847,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -66310,20 +66296,6 @@
                     "time": 487155,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779714983000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Pinne",
-                    "elo": 2051,
-                    "change": 17,
-                    "oelo": 1933,
-                    "ochange": -17,
-                    "time": 476111,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73942,20 +73914,6 @@
                     "oelo": 1911,
                     "ochange": -22,
                     "time": 499793,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779714933000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "iluappi",
-                    "elo": 1891,
-                    "change": 19,
-                    "oelo": 1836,
-                    "ochange": -19,
-                    "time": 583499,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -104716,20 +104674,6 @@
                     "oelo": 1913,
                     "ochange": 22,
                     "time": 499793,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779714983000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1933,
-                    "change": -17,
-                    "oelo": 2051,
-                    "ochange": 17,
-                    "time": 476111,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -193043,20 +192987,6 @@
                     "time": 481674,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779714671000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1850,
-                    "change": 16,
-                    "oelo": 1695,
-                    "ochange": -16,
-                    "time": 624847,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -200670,20 +200600,6 @@
                     "oelo": 1829,
                     "ochange": -21,
                     "time": 481674,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779714933000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1836,
-                    "change": -19,
-                    "oelo": 1891,
-                    "ochange": 19,
-                    "time": 583499,
                     "forfeited": false,
                     "decayed": false
                 }
