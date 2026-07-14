@@ -1,5 +1,5 @@
 {
-    "date": 1784042401000,
+    "date": 1784043001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -81044,20 +81044,6 @@
                     "oelo": 1675,
                     "ochange": -17,
                     "time": 608949,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779722587000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1761,
-                    "change": -19,
-                    "oelo": 1813,
-                    "ochange": 19,
-                    "time": 473556,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -192217,20 +192203,6 @@
                     "time": 603433,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779722587000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nyachloe",
-                    "elo": 1813,
-                    "change": 19,
-                    "oelo": 1761,
-                    "ochange": -19,
-                    "time": 473556,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -199676,20 +199648,6 @@
                     "oelo": 1741,
                     "ochange": -16,
                     "time": 481576,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779722726000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1872,
-                    "change": 23,
-                    "oelo": 1895,
-                    "ochange": -23,
-                    "time": 596083,
                     "forfeited": false,
                     "decayed": false
                 }
