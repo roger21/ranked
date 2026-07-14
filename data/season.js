@@ -1,5 +1,5 @@
 {
-    "date": 1784041201000,
+    "date": 1784041801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -73552,20 +73552,6 @@
                     "time": 698001,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779721623000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Pinne",
-                    "elo": 1903,
-                    "change": -18,
-                    "oelo": 2007,
-                    "ochange": 18,
-                    "time": 501806,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -104226,20 +104212,6 @@
                     "oelo": 1946,
                     "ochange": 23,
                     "time": 790760,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779721623000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 2007,
-                    "change": 18,
-                    "oelo": 1903,
-                    "ochange": -18,
-                    "time": 501806,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135659,20 +135631,6 @@
                     "ochange": 19,
                     "time": 282390,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779721424000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ExcermentGaming",
-                    "elo": 1820,
-                    "change": 17,
-                    "oelo": 1696,
-                    "ochange": -17,
-                    "time": 547761,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -192329,20 +192287,6 @@
                     "time": 622273,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779721351000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Haaons_",
-                    "elo": 1813,
-                    "change": 17,
-                    "oelo": 1687,
-                    "ochange": -17,
-                    "time": 733512,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -199816,20 +199760,6 @@
                     "oelo": 1794,
                     "ochange": -19,
                     "time": 622273,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779721291000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "kazokfan2",
-                    "elo": 1830,
-                    "change": 17,
-                    "oelo": 1703,
-                    "ochange": -17,
-                    "time": 551788,
                     "forfeited": false,
                     "decayed": false
                 }
