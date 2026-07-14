@@ -1,5 +1,5 @@
 {
-    "date": 1784012401000,
+    "date": 1784013001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -66450,20 +66450,6 @@
                     "time": 652552,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779692737000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "lenged",
-                    "elo": 2053,
-                    "change": 12,
-                    "oelo": 1780,
-                    "ochange": -12,
-                    "time": 547221,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87927,20 +87913,6 @@
                     "oelo": 2069,
                     "ochange": 16,
                     "time": 652552,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779692616000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 1951,
-                    "change": 19,
-                    "oelo": 1881,
-                    "ochange": -19,
-                    "time": 577583,
                     "forfeited": false,
                     "decayed": false
                 }
