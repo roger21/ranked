@@ -1,5 +1,5 @@
 {
-    "date": 1784044801000,
+    "date": 1784045401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -52596,20 +52596,6 @@
                     "time": 227818,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779725395000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BangDreamRoselia",
-                    "elo": 1805,
-                    "change": 19,
-                    "oelo": 1731,
-                    "ochange": -19,
-                    "time": 666278,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73412,20 +73398,6 @@
                     "time": 507586,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779725290000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 1907,
-                    "change": -22,
-                    "oelo": 1883,
-                    "ochange": 22,
-                    "time": 478044,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -80905,20 +80877,6 @@
                     "ochange": 1,
                     "time": 953695,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779725287000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1797,
-                    "change": -16,
-                    "oelo": 1943,
-                    "ochange": 16,
-                    "time": 630124,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -184774,20 +184732,6 @@
                     "time": 569803,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779725307000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Haaons_",
-                    "elo": 1590,
-                    "change": -17,
-                    "oelo": 1706,
-                    "ochange": 17,
-                    "time": 557335,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -192019,20 +191963,6 @@
                     "oelo": 1717,
                     "ochange": 24,
                     "time": 651450,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779724981000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1816,
-                    "change": 19,
-                    "oelo": 1753,
-                    "ochange": -19,
-                    "time": 573841,
                     "forfeited": false,
                     "decayed": false
                 }
