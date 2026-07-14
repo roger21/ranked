@@ -2039,13 +2039,13 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4512,
-        "playtime": 2753228710,
+        "matches": 4513,
+        "playtime": 2753549812,
         "finished": 1597,
         "finishtime": 1152176908,
         "won": 2247,
-        "lost": 1947,
-        "forfeited": 545
+        "lost": 1948,
+        "forfeited": 546
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
@@ -3124,12 +3124,12 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 11336,
-        "playtime": 6205340513,
+        "matches": 11337,
+        "playtime": 6205928151,
         "finished": 3876,
         "finishtime": 2335418162,
         "won": 5218,
-        "lost": 4997,
+        "lost": 4998,
         "forfeited": 2684
     },
     "7b5563464fdf4757905e681040791ac0": {
@@ -6069,7 +6069,7 @@
             "8": 2241,
             "9": 2363,
             "10": 2209,
-            "11": 2186
+            "11": 2206
         },
         "points": {
             "1": 0,
@@ -6086,11 +6086,11 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9682,
-        "playtime": 5929175397,
-        "finished": 4231,
-        "finishtime": 2829282308,
-        "won": 5173,
+        "matches": 9683,
+        "playtime": 5929763035,
+        "finished": 4232,
+        "finishtime": 2829869946,
+        "won": 5174,
         "lost": 4360,
         "forfeited": 1008
     },
