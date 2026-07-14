@@ -1,5 +1,5 @@
 {
-    "date": 1784026801000,
+    "date": 1784027401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -104017,7 +104017,7 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 28,
-                "elo": 2170,
+                "elo": 2165,
                 "top": 2230,
                 "points": 36,
                 "pb": 400470,
@@ -104033,6 +104033,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1784027289000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2165,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1783940887000,
                     "type": null,
@@ -156531,20 +156545,6 @@
                     "oelo": 1782,
                     "ochange": -16,
                     "time": 512115,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779706913000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 1905,
-                    "change": 13,
-                    "oelo": 1672,
-                    "ochange": -13,
-                    "time": 626472,
                     "forfeited": false,
                     "decayed": false
                 }
