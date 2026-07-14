@@ -1,5 +1,5 @@
 {
-    "date": 1784040001000,
+    "date": 1784040601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17354,20 +17354,6 @@
                     "oelo": 1722,
                     "ochange": -18,
                     "time": 625823,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779720524000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1789,
-                    "change": 22,
-                    "oelo": 1796,
-                    "ochange": -22,
-                    "time": 568368,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -52708,20 +52694,6 @@
                     "time": 579786,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779720402000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1799,
-                    "change": -19,
-                    "oelo": 1856,
-                    "ochange": 19,
-                    "time": 526876,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73620,20 +73592,6 @@
                     "oelo": 1824,
                     "ochange": 25,
                     "time": 579786,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779720317000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1946,
-                    "change": 15,
-                    "oelo": 1770,
-                    "ochange": -15,
-                    "time": 619713,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135772,20 +135730,6 @@
                     "time": 523000,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779720026000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "iluappi",
-                    "elo": 1782,
-                    "change": 23,
-                    "oelo": 1828,
-                    "ochange": -23,
-                    "time": 441429,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -192455,20 +192399,6 @@
                     "time": 733512,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779720524000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1796,
-                    "change": -22,
-                    "oelo": 1789,
-                    "ochange": 22,
-                    "time": 568368,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -199971,20 +199901,6 @@
                     "ochange": 15,
                     "time": 549386,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779720026000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1828,
-                    "change": -23,
-                    "oelo": 1782,
-                    "ochange": 23,
-                    "time": 441429,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
