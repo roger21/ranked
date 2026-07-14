@@ -1,5 +1,5 @@
 {
-    "date": 1784013001000,
+    "date": 1784013601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -45725,22 +45725,36 @@
             "nickname": "ogurikappa",
             "stats": {
                 "rank": 16,
-                "elo": 2228,
-                "top": 2228,
+                "elo": 2241,
+                "top": 2241,
                 "points": 15,
                 "pb": 395923,
-                "current": 4,
+                "current": 5,
                 "streak": 9,
-                "matches": 1819,
-                "playtime": 950205075,
-                "finished": 719,
-                "finishtime": 386223070,
-                "won": 839,
+                "matches": 1820,
+                "playtime": 950708850,
+                "finished": 720,
+                "finishtime": 386726845,
+                "won": 840,
                 "lost": 762,
                 "forfeited": 310
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784013174000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "amariyy",
+                    "elo": 2241,
+                    "change": 13,
+                    "oelo": 2027,
+                    "ochange": -13,
+                    "time": 503775,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784010020000,
                     "type": "DESERT_TEMPLE",
@@ -66434,20 +66448,6 @@
                     "oelo": 1922,
                     "ochange": 26,
                     "time": 646443,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779693469000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "wagasylvie",
-                    "elo": 2069,
-                    "change": 16,
-                    "oelo": 1935,
-                    "ochange": -16,
-                    "time": 652552,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -87899,20 +87899,6 @@
                     "oelo": 1918,
                     "ochange": 21,
                     "time": 492367,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779693469000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1935,
-                    "change": -16,
-                    "oelo": 2069,
-                    "ochange": 16,
-                    "time": 652552,
                     "forfeited": false,
                     "decayed": false
                 }
