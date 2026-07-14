@@ -1,5 +1,5 @@
 {
-    "date": 1784038201000,
+    "date": 1784038801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17396,20 +17396,6 @@
                     "oelo": 1611,
                     "ochange": -15,
                     "time": 675944,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779718431000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "a4102545",
-                    "elo": 1771,
-                    "change": 22,
-                    "oelo": 1770,
-                    "ochange": -22,
-                    "time": 673567,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -52778,20 +52764,6 @@
                     "time": 554302,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779718588000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1798,
-                    "change": -13,
-                    "oelo": 2038,
-                    "ochange": 13,
-                    "time": 473557,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66126,20 +66098,6 @@
                     "oelo": 1818,
                     "ochange": -13,
                     "time": 512095,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779718588000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2038,
-                    "change": 13,
-                    "oelo": 1798,
-                    "ochange": -13,
-                    "time": 473557,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135940,20 +135898,6 @@
                     "time": 525155,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779718242000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1802,
-                    "change": 23,
-                    "oelo": 1834,
-                    "ochange": -23,
-                    "time": 655944,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -192664,20 +192608,6 @@
                     "ochange": 1,
                     "time": 694131,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779718242000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1834,
-                    "change": -23,
-                    "oelo": 1802,
-                    "ochange": 23,
-                    "time": 655944,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
