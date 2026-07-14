@@ -1,5 +1,5 @@
 {
-    "date": 1784030401000,
+    "date": 1784031001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -37579,20 +37579,6 @@
                     "time": 441454,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779710471000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Zbom",
-                    "elo": 1796,
-                    "change": 18,
-                    "oelo": 1718,
-                    "ochange": -18,
-                    "time": 590940,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -74153,20 +74139,6 @@
                     "ochange": 1,
                     "time": 624529,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779710483000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "TUDORULE",
-                    "elo": 1835,
-                    "change": 19,
-                    "oelo": 1774,
-                    "ochange": -19,
-                    "time": 567291,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -120124,7 +120096,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2138,
                 "top": 2152,
                 "points": 4,
@@ -122247,23 +122219,37 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 33,
-                "elo": 2131,
-                "top": 2146,
+                "rank": 32,
+                "elo": 2150,
+                "top": 2150,
                 "points": 30,
                 "pb": 447931,
-                "current": 10,
+                "current": 11,
                 "streak": 12,
-                "matches": 117,
-                "playtime": 67710739,
-                "finished": 71,
-                "finishtime": 41043809,
-                "won": 78,
+                "matches": 118,
+                "playtime": 68271444,
+                "finished": 72,
+                "finishtime": 41604514,
+                "won": 79,
                 "lost": 36,
                 "forfeited": 0
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1784031002000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "1_viewer",
+                    "elo": 2150,
+                    "change": 19,
+                    "oelo": 2074,
+                    "ochange": -19,
+                    "time": 560705,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784030341000,
                     "type": "VILLAGE",
@@ -196907,20 +196893,6 @@
                     "time": 464924,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779710571000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pigswitch",
-                    "elo": 1629,
-                    "change": 27,
-                    "oelo": 1762,
-                    "ochange": -27,
-                    "time": 454123,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -207082,23 +207054,37 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 48,
-                "elo": 2093,
+                "rank": 53,
+                "elo": 2074,
                 "top": 2093,
                 "points": 8,
                 "pb": 390893,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 908,
-                "playtime": 528056898,
+                "matches": 909,
+                "playtime": 528617603,
                 "finished": 380,
                 "finishtime": 237289107,
                 "won": 453,
-                "lost": 407,
+                "lost": 408,
                 "forfeited": 87
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1784031002000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "yjako",
+                    "elo": 2074,
+                    "change": -19,
+                    "oelo": 2150,
+                    "ochange": 19,
+                    "time": 560705,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784030280000,
                     "type": "VILLAGE",
@@ -214105,7 +214091,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2092,
                 "top": 2092,
                 "points": 7,
@@ -216466,7 +216452,7 @@
             "uuid": "f2061f886c254191871f635dc2ce80b9",
             "nickname": "iluappi",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2082,
                 "top": 2132,
                 "points": 27,
