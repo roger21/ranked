@@ -1,5 +1,5 @@
 {
-    "date": 1784002201000,
+    "date": 1784002801000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -27069,22 +27069,36 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 12,
-                "elo": 2254,
+                "elo": 2268,
                 "top": 2279,
                 "points": 81,
                 "pb": 394680,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 495,
-                "playtime": 275896006,
+                "matches": 496,
+                "playtime": 276238281,
                 "finished": 264,
                 "finishtime": 148063024,
-                "won": 287,
+                "won": 288,
                 "lost": 200,
                 "forfeited": 9
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1784002521000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "amariyy",
+                    "elo": 2268,
+                    "change": 14,
+                    "oelo": 2060,
+                    "ochange": -14,
+                    "time": 342275,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784002106000,
                     "type": "DESERT_TEMPLE",
@@ -30759,7 +30773,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 2254,
                 "top": 2355,
                 "points": 33,
@@ -37600,7 +37614,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 2254,
                 "top": 2254,
                 "points": 44,
@@ -108974,20 +108988,6 @@
                     "time": 408990,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779682665000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1973,
-                    "change": -25,
-                    "oelo": 1874,
-                    "ochange": 25,
-                    "time": 535059,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -128884,20 +128884,6 @@
                     "ochange": -13,
                     "time": 334868,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779682665000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 1874,
-                    "change": 25,
-                    "oelo": 1973,
-                    "ochange": -25,
-                    "time": 535059,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
