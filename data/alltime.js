@@ -291,12 +291,12 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 6041,
-        "playtime": 3778862271,
+        "matches": 6042,
+        "playtime": 3779591138,
         "finished": 2471,
         "finishtime": 1673485510,
         "won": 3121,
-        "lost": 2709,
+        "lost": 2710,
         "forfeited": 496
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
@@ -2039,13 +2039,13 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4533,
-        "playtime": 2765993097,
+        "matches": 4534,
+        "playtime": 2766557341,
         "finished": 1606,
         "finishtime": 1158578943,
         "won": 2256,
-        "lost": 1959,
-        "forfeited": 549
+        "lost": 1960,
+        "forfeited": 550
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
@@ -2949,11 +2949,11 @@
         },
         "pb": 514784,
         "streak": 12,
-        "matches": 4172,
-        "playtime": 2681639473,
-        "finished": 1478,
-        "finishtime": 1140797021,
-        "won": 2132,
+        "matches": 4173,
+        "playtime": 2682539413,
+        "finished": 1479,
+        "finishtime": 1141696961,
+        "won": 2133,
         "lost": 1933,
         "forfeited": 787
     },
@@ -4655,35 +4655,6 @@
         "won": 1262,
         "lost": 1103,
         "forfeited": 632
-    },
-    "a888602136ee48208516c4f7960ba997": {
-        "nickname": "1_viewer",
-        "country": "il",
-        "top": {
-            "6": 1154,
-            "7": 1511,
-            "8": 1763,
-            "9": 1923,
-            "10": 2098,
-            "11": 2093
-        },
-        "points": {
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 8
-        },
-        "pb": 386516,
-        "streak": 16,
-        "matches": 8002,
-        "playtime": 4996689991,
-        "finished": 2252,
-        "finishtime": 1630402756,
-        "won": 3742,
-        "lost": 3660,
-        "forfeited": 1810
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
