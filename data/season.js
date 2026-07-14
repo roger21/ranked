@@ -1,5 +1,5 @@
 {
-    "date": 1784009401000,
+    "date": 1784010001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -51125,20 +51125,6 @@
                     "time": 574331,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779689820000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 2053,
-                    "change": 17,
-                    "oelo": 1938,
-                    "ochange": -17,
-                    "time": 754762,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -51146,7 +51132,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 18,
+                "rank": 19,
                 "elo": 2217,
                 "top": 2217,
                 "points": 44,
@@ -53913,23 +53899,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "ogurikappa",
             "stats": {
-                "rank": 19,
-                "elo": 2210,
-                "top": 2219,
+                "rank": 16,
+                "elo": 2228,
+                "top": 2228,
                 "points": 15,
                 "pb": 395923,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 1818,
-                "playtime": 949600544,
-                "finished": 718,
-                "finishtime": 385618539,
-                "won": 838,
+                "matches": 1819,
+                "playtime": 950205075,
+                "finished": 719,
+                "finishtime": 386223070,
+                "won": 839,
                 "lost": 762,
                 "forfeited": 310
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784010020000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2228,
+                    "change": 18,
+                    "oelo": 2124,
+                    "ochange": -18,
+                    "time": 604531,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784009299000,
                     "type": "BURIED_TREASURE",
@@ -69266,7 +69266,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 2210,
                 "top": 2249,
                 "points": 41,
@@ -88011,20 +88011,6 @@
                     "oelo": 2068,
                     "ochange": 15,
                     "time": 574331,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779689955000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wethr",
-                    "elo": 1909,
-                    "change": 16,
-                    "oelo": 1772,
-                    "ochange": -16,
-                    "time": 451546,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -120418,23 +120404,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 32,
-                "elo": 2142,
+                "rank": 34,
+                "elo": 2124,
                 "top": 2218,
                 "points": 18,
                 "pb": 409746,
                 "current": 0,
                 "streak": 12,
-                "matches": 785,
-                "playtime": 442652077,
+                "matches": 786,
+                "playtime": 443256608,
                 "finished": 370,
                 "finishtime": 224811422,
                 "won": 419,
-                "lost": 346,
+                "lost": 347,
                 "forfeited": 93
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1784010020000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "ogurikappa",
+                    "elo": 2124,
+                    "change": -18,
+                    "oelo": 2228,
+                    "ochange": 18,
+                    "time": 604531,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784009356000,
                     "type": "RUINED_PORTAL",
@@ -126706,20 +126706,6 @@
                     "time": 482327,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779689820000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1938,
-                    "change": -17,
-                    "oelo": 2053,
-                    "ochange": 17,
-                    "time": 754762,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126727,7 +126713,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2138,
                 "top": 2152,
                 "points": 4,
@@ -128850,7 +128836,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2130,
                 "top": 2133,
                 "points": 7,
@@ -211119,34 +211105,6 @@
                     "oelo": 1714,
                     "ochange": -22,
                     "time": 948145,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779689937000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TwiistedDuck",
-                    "elo": 1693,
-                    "change": 18,
-                    "oelo": 1597,
-                    "ochange": -18,
-                    "time": 345017,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779689533000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "lenged",
-                    "elo": 1675,
-                    "change": -18,
-                    "oelo": 1769,
-                    "ochange": 18,
-                    "time": 658594,
                     "forfeited": false,
                     "decayed": false
                 }
