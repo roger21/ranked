@@ -1,5 +1,5 @@
 {
-    "date": 1784037601000,
+    "date": 1784038201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17410,20 +17410,6 @@
                     "oelo": 1770,
                     "ochange": -22,
                     "time": 673567,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779717685000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "pigswitch",
-                    "elo": 1749,
-                    "change": 19,
-                    "oelo": 1693,
-                    "ochange": -19,
-                    "time": 568570,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -52806,20 +52792,6 @@
                     "time": 473557,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779717930000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "iluappi",
-                    "elo": 1811,
-                    "change": -19,
-                    "oelo": 1887,
-                    "ochange": 19,
-                    "time": 626992,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66168,20 +66140,6 @@
                     "oelo": 1798,
                     "ochange": -13,
                     "time": 473557,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779718004000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Pinne",
-                    "elo": 2025,
-                    "change": -25,
-                    "oelo": 1941,
-                    "ochange": 25,
-                    "time": 438905,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -104492,20 +104450,6 @@
                     "oelo": 1869,
                     "ochange": -18,
                     "time": 736648,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779718004000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 1941,
-                    "change": 25,
-                    "oelo": 2025,
-                    "ochange": -25,
-                    "time": 438905,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -200278,20 +200222,6 @@
                     "oelo": 1959,
                     "ochange": 18,
                     "time": 736648,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779717930000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1887,
-                    "change": 19,
-                    "oelo": 1811,
-                    "ochange": -19,
-                    "time": 626992,
                     "forfeited": false,
                     "decayed": false
                 }
