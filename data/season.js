@@ -1,5 +1,5 @@
 {
-    "date": 1784025601000,
+    "date": 1784026201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -204502,20 +204502,6 @@
                     "oelo": 1822,
                     "ochange": -22,
                     "time": 498981,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779705901000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1790,
-                    "change": 15,
-                    "oelo": 1633,
-                    "ochange": -15,
-                    "time": 682515,
                     "forfeited": false,
                     "decayed": false
                 }
