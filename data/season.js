@@ -1,5 +1,5 @@
 {
-    "date": 1784031601000,
+    "date": 1784032201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -17522,34 +17522,6 @@
                     "oelo": 1772,
                     "ochange": 20,
                     "time": 357915,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779712170000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1751,
-                    "change": -17,
-                    "oelo": 1874,
-                    "ochange": 17,
-                    "time": 210106,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779711889000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "wagayman",
-                    "elo": 1768,
-                    "change": -23,
-                    "oelo": 1729,
-                    "ochange": 23,
-                    "time": 301062,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -37549,20 +37521,6 @@
                     "oelo": 1704,
                     "ochange": -17,
                     "time": 710760,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779711747000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "gharfyy",
-                    "elo": 1794,
-                    "change": -18,
-                    "oelo": 1896,
-                    "ochange": 18,
-                    "time": 547588,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -74082,34 +74040,6 @@
                     "oelo": 1744,
                     "ochange": -16,
                     "time": 713619,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779712170000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1874,
-                    "change": 17,
-                    "oelo": 1751,
-                    "ochange": -17,
-                    "time": 210106,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779711824000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 1857,
-                    "change": 23,
-                    "oelo": 1881,
-                    "ochange": -23,
-                    "time": 555158,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -172919,23 +172849,37 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 43,
-                "elo": 2104,
+                "rank": 48,
+                "elo": 2086,
                 "top": 2236,
                 "points": 6,
                 "pb": 408164,
-                "current": 4,
+                "current": 0,
                 "streak": 9,
-                "matches": 844,
-                "playtime": 511810934,
+                "matches": 845,
+                "playtime": 512295387,
                 "finished": 390,
                 "finishtime": 243311879,
                 "won": 443,
-                "lost": 375,
+                "lost": 376,
                 "forfeited": 16
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1784032261000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "yjako",
+                    "elo": 2086,
+                    "change": -18,
+                    "oelo": 2168,
+                    "ochange": 18,
+                    "time": 484453,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1783972196000,
                     "type": "RUINED_PORTAL",
@@ -190339,7 +190283,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2102,
                 "top": 2197,
                 "points": 6,
@@ -196858,7 +196802,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2100,
                 "top": 2100,
                 "points": 0,
@@ -204287,7 +204231,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2100,
                 "top": 2100,
                 "points": 6,
@@ -207012,7 +206956,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2092,
                 "top": 2092,
                 "points": 7,
