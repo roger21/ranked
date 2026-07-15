@@ -1,5 +1,5 @@
 {
-    "date": 1784082001000,
+    "date": 1784082601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -2777,20 +2777,6 @@
                     "oelo": 2014,
                     "ochange": 29,
                     "time": 431554,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779762071000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 2247,
-                    "change": 9,
-                    "oelo": 1869,
-                    "ochange": -9,
-                    "time": 819435,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -22884,22 +22870,36 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 9,
-                "elo": 2282,
+                "elo": 2294,
                 "top": 2361,
                 "points": 66,
                 "pb": 410465,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
-                "matches": 180,
-                "playtime": 99598375,
-                "finished": 114,
-                "finishtime": 62929546,
-                "won": 120,
+                "matches": 181,
+                "playtime": 100170828,
+                "finished": 115,
+                "finishtime": 63501999,
+                "won": 121,
                 "lost": 54,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784082435000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "amariyy",
+                    "elo": 2294,
+                    "change": 12,
+                    "oelo": 2021,
+                    "ochange": -12,
+                    "time": 572453,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784081712000,
                     "type": "BURIED_TREASURE",
@@ -57484,20 +57484,6 @@
                     "oelo": 1753,
                     "ochange": -20,
                     "time": 626792,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779762111000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "lenged",
-                    "elo": 1777,
-                    "change": -22,
-                    "oelo": 1770,
-                    "ochange": 22,
-                    "time": 635030,
                     "forfeited": false,
                     "decayed": false
                 }
