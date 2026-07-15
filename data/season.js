@@ -1,5 +1,5 @@
 {
-    "date": 1784123401000,
+    "date": 1784124001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -60155,20 +60155,6 @@
                     "time": 598787,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779803646000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1833,
-                    "change": 18,
-                    "oelo": 1733,
-                    "ochange": -18,
-                    "time": 633138,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -93093,20 +93079,6 @@
                     "oelo": 1855,
                     "ochange": 22,
                     "time": 598787,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779803959000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1888,
-                    "change": 14,
-                    "oelo": 1696,
-                    "ochange": -14,
-                    "time": 517382,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -168846,20 +168818,6 @@
                     "oelo": 1640,
                     "ochange": -17,
                     "time": 596780,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779803646000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1733,
-                    "change": -18,
-                    "oelo": 1833,
-                    "ochange": 18,
-                    "time": 633138,
                     "forfeited": false,
                     "decayed": false
                 }
