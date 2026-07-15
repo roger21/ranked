@@ -30,13 +30,13 @@
         },
         "pb": 392337,
         "streak": 13,
-        "matches": 6212,
-        "playtime": 3854594542,
+        "matches": 6213,
+        "playtime": 3855194541,
         "finished": 2428,
         "finishtime": 1681946717,
         "won": 3154,
-        "lost": 2896,
-        "forfeited": 616
+        "lost": 2897,
+        "forfeited": 617
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
         "nickname": "tommorerow",
@@ -139,13 +139,13 @@
         },
         "pb": 384080,
         "streak": 13,
-        "matches": 8492,
-        "playtime": 4861450379,
+        "matches": 8493,
+        "playtime": 4861826238,
         "finished": 3170,
         "finishtime": 2057419718,
         "won": 4260,
-        "lost": 4020,
-        "forfeited": 1630
+        "lost": 4021,
+        "forfeited": 1631
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "nickname": "druppelen",
@@ -696,11 +696,11 @@
         },
         "pb": 388234,
         "streak": 23,
-        "matches": 4319,
-        "playtime": 2570480324,
+        "matches": 4320,
+        "playtime": 2570856183,
         "finished": 2134,
         "finishtime": 1332120785,
-        "won": 2606,
+        "won": 2607,
         "lost": 1583,
         "forfeited": 61
     },
@@ -4835,12 +4835,12 @@
         },
         "pb": 429541,
         "streak": 11,
-        "matches": 9900,
-        "playtime": 5937503011,
+        "matches": 9901,
+        "playtime": 5938105580,
         "finished": 3402,
         "finishtime": 2440345132,
         "won": 4896,
-        "lost": 4680,
+        "lost": 4681,
         "forfeited": 2414
     },
     "b39f5648c91d42dfb121655f2aa52970": {
