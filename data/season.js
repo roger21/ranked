@@ -1,5 +1,5 @@
 {
-    "date": 1784145001000,
+    "date": 1784145601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39260,20 +39260,6 @@
                     "time": 704136,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779825064000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Zbom",
-                    "elo": 1789,
-                    "change": 20,
-                    "oelo": 1761,
-                    "ochange": -20,
-                    "time": 467284,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -71811,20 +71797,6 @@
                     "ochange": -19,
                     "time": 605445,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779825309000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "oshywot",
-                    "elo": 1748,
-                    "change": 0,
-                    "oelo": 1728,
-                    "ochange": 0,
-                    "time": 581858,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -120999,20 +120971,6 @@
                     "time": 598827,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779825554000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 1972,
-                    "change": 20,
-                    "oelo": 1945,
-                    "ochange": -20,
-                    "time": 687792,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -149048,20 +149006,6 @@
                     "ochange": -16,
                     "time": 704136,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779825065000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "pandaendoz",
-                    "elo": 1898,
-                    "change": -2,
-                    "oelo": 1774,
-                    "ochange": 2,
-                    "time": 657304,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -196762,20 +196706,6 @@
                     "time": 222903,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779825406000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "darkk575",
-                    "elo": 1707,
-                    "change": -16,
-                    "oelo": 1838,
-                    "ochange": 16,
-                    "time": 548631,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -209056,20 +208986,6 @@
                     "oelo": 1688,
                     "ochange": -21,
                     "time": 637850,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779825573000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "_KrakerS",
-                    "elo": 1673,
-                    "change": -23,
-                    "oelo": 1649,
-                    "ochange": 23,
-                    "time": 625467,
                     "forfeited": false,
                     "decayed": false
                 }
