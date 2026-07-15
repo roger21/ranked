@@ -3445,12 +3445,12 @@
         },
         "pb": 444127,
         "streak": 10,
-        "matches": 5218,
-        "playtime": 3482831385,
+        "matches": 5219,
+        "playtime": 3483475214,
         "finished": 1592,
         "finishtime": 1271448190,
         "won": 2560,
-        "lost": 2402,
+        "lost": 2403,
         "forfeited": 773
     },
     "8393e90d9dd94a3eb838146a5ae5b724": {
@@ -5083,7 +5083,7 @@
             "8": 2253,
             "9": 2487,
             "10": 2555,
-            "11": 2237
+            "11": 2251
         },
         "points": {
             "1": 0,
@@ -5100,11 +5100,11 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 7232,
-        "playtime": 4048406228,
-        "finished": 3198,
-        "finishtime": 2040400282,
-        "won": 3984,
+        "matches": 7233,
+        "playtime": 4049003643,
+        "finished": 3199,
+        "finishtime": 2040997697,
+        "won": 3985,
         "lost": 3017,
         "forfeited": 1423
     },
@@ -5129,13 +5129,13 @@
         },
         "pb": 365320,
         "streak": 14,
-        "matches": 1811,
-        "playtime": 1043116287,
+        "matches": 1812,
+        "playtime": 1043430338,
         "finished": 719,
         "finishtime": 453362366,
         "won": 944,
-        "lost": 759,
-        "forfeited": 240
+        "lost": 760,
+        "forfeited": 241
     },
     "bdb7f407200d4882b78e656ca161bddf": {
         "nickname": "wagasylvie",
@@ -6489,7 +6489,7 @@
             "8": 1935,
             "9": 2059,
             "10": 2153,
-            "11": 1973
+            "11": 1996
         },
         "points": {
             "1": 0,
@@ -6506,11 +6506,11 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 9019,
-        "playtime": 5728856459,
+        "matches": 9020,
+        "playtime": 5729170510,
         "finished": 3119,
         "finishtime": 2281171044,
-        "won": 4458,
+        "won": 4459,
         "lost": 4165,
         "forfeited": 1215
     }
