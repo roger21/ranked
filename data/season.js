@@ -1,5 +1,5 @@
 {
-    "date": 1784131801000,
+    "date": 1784132401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -60001,20 +60001,6 @@
                     "time": 649111,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779812182000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1939,
-                    "change": 24,
-                    "oelo": 2012,
-                    "ochange": -24,
-                    "time": 598553,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82246,20 +82232,6 @@
                     "time": 594139,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779812182000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 2012,
-                    "change": -24,
-                    "oelo": 1939,
-                    "ochange": 24,
-                    "time": 598553,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -99747,20 +99719,6 @@
                     "oelo": 1920,
                     "ochange": -19,
                     "time": 649111,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779812293000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1979,
-                    "change": 16,
-                    "oelo": 1837,
-                    "ochange": -16,
-                    "time": 621346,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -209785,20 +209743,6 @@
                     "ochange": 21,
                     "time": 564383,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779811929000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1787,
-                    "change": 20,
-                    "oelo": 1745,
-                    "ochange": -20,
-                    "time": 246917,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
