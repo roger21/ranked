@@ -1,5 +1,5 @@
 {
-    "date": 1784121601000,
+    "date": 1784122201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -60181,20 +60181,6 @@
                     "oelo": 1730,
                     "ochange": -18,
                     "time": 744263,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779801603000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1797,
-                    "change": 20,
-                    "oelo": 1753,
-                    "ochange": -20,
-                    "time": 626792,
                     "forfeited": false,
                     "decayed": false
                 }
