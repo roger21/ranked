@@ -1,5 +1,5 @@
 {
-    "date": 1784111401000,
+    "date": 1784112001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -82750,20 +82750,6 @@
                     "time": 554106,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779791618000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1920,
-                    "change": 18,
-                    "oelo": 1841,
-                    "ochange": -18,
-                    "time": 621200,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -85907,20 +85893,6 @@
                     "oelo": 1810,
                     "ochange": -12,
                     "time": 555493,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779791902000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "90Tom",
-                    "elo": 2071,
-                    "change": 12,
-                    "oelo": 1814,
-                    "ochange": -12,
-                    "time": 487081,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -93709,20 +93681,6 @@
                     "oelo": 1878,
                     "ochange": 19,
                     "time": 584317,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779791618000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1841,
-                    "change": -18,
-                    "oelo": 1920,
-                    "ochange": 18,
-                    "time": 621200,
                     "forfeited": false,
                     "decayed": false
                 }
