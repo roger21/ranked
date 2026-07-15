@@ -1,5 +1,5 @@
 {
-    "date": 1784135401000,
+    "date": 1784136001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -66114,20 +66114,6 @@
                     "time": 671495,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779815941000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1938,
-                    "change": 18,
-                    "oelo": 1860,
-                    "ochange": -18,
-                    "time": 616873,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92715,20 +92701,6 @@
                     "oelo": 1664,
                     "ochange": -14,
                     "time": 468363,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779815941000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1860,
-                    "change": -18,
-                    "oelo": 1938,
-                    "ochange": 18,
-                    "time": 616873,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -211651,14 +211623,14 @@
             "nickname": "hack_page",
             "stats": {
                 "rank": 50,
-                "elo": 2097,
+                "elo": 2096,
                 "top": 2097,
                 "points": 6,
                 "pb": 468222,
                 "current": 8,
                 "streak": 9,
-                "matches": 177,
-                "playtime": 103459148,
+                "matches": 178,
+                "playtime": 104164922,
                 "finished": 88,
                 "finishtime": 55403447,
                 "won": 102,
@@ -211667,6 +211639,20 @@
             },
             "country": "be",
             "matches": [
+                {
+                    "date": 1784136008000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "snowdeerjulie",
+                    "elo": 2096,
+                    "change": -1,
+                    "oelo": 2042,
+                    "ochange": 1,
+                    "time": 705774,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784135191000,
                     "type": "VILLAGE",
