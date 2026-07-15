@@ -1,5 +1,5 @@
 {
-    "date": 1784108401000,
+    "date": 1784109001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39609,20 +39609,6 @@
                     "ochange": 23,
                     "time": 326514,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779788726000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ThaShape",
-                    "elo": 1649,
-                    "change": 23,
-                    "oelo": 1700,
-                    "ochange": -23,
-                    "time": 532512,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -82034,20 +82020,6 @@
                     "oelo": 1816,
                     "ochange": -18,
                     "time": 512883,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779788613000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1895,
-                    "change": 17,
-                    "oelo": 1787,
-                    "ochange": -17,
-                    "time": 556273,
                     "forfeited": false,
                     "decayed": false
                 }
