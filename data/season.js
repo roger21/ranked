@@ -1,5 +1,5 @@
 {
-    "date": 1784113801000,
+    "date": 1784114401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -39524,20 +39524,6 @@
                     "oelo": 1747,
                     "ochange": 20,
                     "time": 578856,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779794094000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1724,
-                    "change": 22,
-                    "oelo": 1746,
-                    "ochange": -22,
-                    "time": 520168,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -93569,20 +93555,6 @@
                     "oelo": 1924,
                     "ochange": -25,
                     "time": 549958,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779793895000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Minhan_",
-                    "elo": 1823,
-                    "change": 13,
-                    "oelo": 1584,
-                    "ochange": -13,
-                    "time": 579726,
                     "forfeited": false,
                     "decayed": false
                 }
