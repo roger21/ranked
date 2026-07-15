@@ -1,5 +1,5 @@
 {
-    "date": 1784122801000,
+    "date": 1784123401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -60169,20 +60169,6 @@
                     "time": 633138,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779802836000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1815,
-                    "change": 18,
-                    "oelo": 1730,
-                    "ochange": -18,
-                    "time": 744263,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -93121,20 +93107,6 @@
                     "oelo": 1696,
                     "ochange": -14,
                     "time": 517382,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779803351000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Mixray_",
-                    "elo": 1874,
-                    "change": 14,
-                    "oelo": 1672,
-                    "ochange": -14,
-                    "time": 813212,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -168888,20 +168860,6 @@
                     "oelo": 1833,
                     "ochange": 18,
                     "time": 633138,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779802951000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 1751,
-                    "change": -24,
-                    "oelo": 1683,
-                    "ochange": 24,
-                    "time": 698667,
                     "forfeited": false,
                     "decayed": false
                 }
