@@ -1,5 +1,5 @@
 {
-    "date": 1784124601000,
+    "date": 1784125201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -60141,20 +60141,6 @@
                     "time": 564925,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779804621000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1855,
-                    "change": 22,
-                    "oelo": 1866,
-                    "ochange": -22,
-                    "time": 598787,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -85503,20 +85489,6 @@
                     "time": 564925,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779804708000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 2018,
-                    "change": 12,
-                    "oelo": 1763,
-                    "ochange": -12,
-                    "time": 220102,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -93065,20 +93037,6 @@
                     "oelo": 1747,
                     "ochange": -16,
                     "time": 490596,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779804621000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1866,
-                    "change": -22,
-                    "oelo": 1855,
-                    "ochange": 22,
-                    "time": 598787,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -168792,20 +168750,6 @@
                     "time": 685144,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779804986000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "LEC666888",
-                    "elo": 1769,
-                    "change": 19,
-                    "oelo": 1704,
-                    "ochange": -19,
-                    "time": 349329,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -210303,20 +210247,6 @@
                     "ochange": 16,
                     "time": 490596,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779804708000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1763,
-                    "change": -12,
-                    "oelo": 2018,
-                    "ochange": 12,
-                    "time": 220102,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
