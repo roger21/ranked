@@ -1,5 +1,5 @@
 {
-    "date": 1784100001000,
+    "date": 1784100601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -88004,20 +88004,6 @@
                     "time": 574111,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779780008000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "yjako",
-                    "elo": 2071,
-                    "change": -24,
-                    "oelo": 2011,
-                    "ochange": 24,
-                    "time": 632754,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -103855,20 +103841,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1779780008000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2011,
-                    "change": 24,
-                    "oelo": 2071,
-                    "ochange": -24,
-                    "time": 632754,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
