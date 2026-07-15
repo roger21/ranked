@@ -1,5 +1,5 @@
 {
-    "date": 1784139602000,
+    "date": 1784140201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -9650,20 +9650,6 @@
                     "oelo": 1893,
                     "ochange": -15,
                     "time": 441781,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779819898000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 2052,
-                    "change": -26,
-                    "oelo": 1936,
-                    "ochange": 26,
-                    "time": 479113,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -59931,20 +59917,6 @@
                     "time": 487423,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779819898000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "doogile",
-                    "elo": 1936,
-                    "change": 26,
-                    "oelo": 2052,
-                    "ochange": -26,
-                    "time": 479113,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -99580,20 +99552,6 @@
                     "ochange": 22,
                     "time": 318294,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779820154000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Frolde",
-                    "elo": 1937,
-                    "change": -27,
-                    "oelo": 1777,
-                    "ochange": 27,
-                    "time": 620673,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -209616,20 +209574,6 @@
                     "oelo": 1687,
                     "ochange": 24,
                     "time": 496301,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779820154000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 1777,
-                    "change": 27,
-                    "oelo": 1937,
-                    "ochange": -27,
-                    "time": 620673,
                     "forfeited": false,
                     "decayed": false
                 }
