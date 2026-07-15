@@ -1,5 +1,5 @@
 {
-    "date": 1784117401000,
+    "date": 1784118001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -82554,20 +82554,6 @@
                     "time": 634674,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779797692000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1982,
-                    "change": 16,
-                    "oelo": 1848,
-                    "ochange": -16,
-                    "time": 401156,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -93332,20 +93318,6 @@
                     "ochange": -2,
                     "time": 579232,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779797692000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1848,
-                    "change": -16,
-                    "oelo": 1982,
-                    "ochange": 16,
-                    "time": 401156,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
