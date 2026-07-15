@@ -1,5 +1,5 @@
 {
-    "date": 1784139001000,
+    "date": 1784139602000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -9664,20 +9664,6 @@
                     "oelo": 1936,
                     "ochange": 26,
                     "time": 479113,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779819251000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 2078,
-                    "change": 17,
-                    "oelo": 1964,
-                    "ochange": -17,
-                    "time": 534712,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -59959,20 +59945,6 @@
                     "time": 479113,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779819333000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "pandaendoz",
-                    "elo": 1910,
-                    "change": -28,
-                    "oelo": 1739,
-                    "ochange": 28,
-                    "time": 671495,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -99621,20 +99593,6 @@
                     "oelo": 1777,
                     "ochange": 27,
                     "time": 620673,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779819251000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1964,
-                    "change": -17,
-                    "oelo": 2078,
-                    "ochange": 17,
-                    "time": 534712,
                     "forfeited": false,
                     "decayed": false
                 }
