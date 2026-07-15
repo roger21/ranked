@@ -1,5 +1,5 @@
 {
-    "date": 1784128201000,
+    "date": 1784128802000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -60071,20 +60071,6 @@
                     "time": 679601,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779808768000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "DARVY__X1",
-                    "elo": 1834,
-                    "change": -15,
-                    "oelo": 2006,
-                    "ochange": 15,
-                    "time": 756593,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -99887,20 +99873,6 @@
                     "oelo": 2036,
                     "ochange": 20,
                     "time": 506073,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779808768000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nyachloe",
-                    "elo": 2006,
-                    "change": 15,
-                    "oelo": 1834,
-                    "ochange": -15,
-                    "time": 756593,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -168510,20 +168482,6 @@
                     "oelo": 1727,
                     "ochange": -21,
                     "time": 528922,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779808378000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "boywithcards",
-                    "elo": 1725,
-                    "change": -21,
-                    "oelo": 1736,
-                    "ochange": 21,
-                    "time": 769816,
                     "forfeited": false,
                     "decayed": false
                 }
