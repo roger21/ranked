@@ -1,5 +1,5 @@
 {
-    "date": 1784167201000,
+    "date": 1784167801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10849,20 +10849,6 @@
                     "oelo": 2012,
                     "ochange": 22,
                     "time": 527076,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779847642000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2053,
-                    "change": 16,
-                    "oelo": 1901,
-                    "ochange": -16,
-                    "time": 596884,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36450,20 +36436,6 @@
                     "ochange": 18,
                     "time": 484473,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779847642000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nhb_",
-                    "elo": 1901,
-                    "change": -16,
-                    "oelo": 2053,
-                    "ochange": 16,
-                    "time": 596884,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -146447,20 +146419,6 @@
                     "oelo": 2043,
                     "ochange": -18,
                     "time": 590751,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779847754000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2103,
-                    "change": 19,
-                    "oelo": 2025,
-                    "ochange": -19,
-                    "time": 743631,
                     "forfeited": false,
                     "decayed": false
                 }
