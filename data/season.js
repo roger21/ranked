@@ -1,5 +1,5 @@
 {
-    "date": 1784163601000,
+    "date": 1784164201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -98350,20 +98350,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1779844164000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2145,
-                    "change": 15,
-                    "oelo": 1988,
-                    "ochange": -15,
-                    "time": 569095,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
