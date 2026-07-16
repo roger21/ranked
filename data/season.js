@@ -1,5 +1,5 @@
 {
-    "date": 1784215801000,
+    "date": 1784216401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65675,20 +65675,6 @@
                     "time": 708415,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779895928000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Poomy1234",
-                    "elo": 1793,
-                    "change": 18,
-                    "oelo": 1709,
-                    "ochange": -18,
-                    "time": 268273,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -96920,20 +96906,6 @@
                     "time": 643304,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779896041000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2108,
-                    "change": 13,
-                    "oelo": 1879,
-                    "ochange": -13,
-                    "time": 546975,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -122746,20 +122718,6 @@
                     "oelo": 1704,
                     "ochange": -17,
                     "time": 559077,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779896333000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1809,
-                    "change": -22,
-                    "oelo": 1805,
-                    "ochange": 22,
-                    "time": 506229,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -148893,20 +148851,6 @@
                     "ochange": -18,
                     "time": 487757,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779896256000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "PandaRuns",
-                    "elo": 1755,
-                    "change": 0,
-                    "oelo": 1742,
-                    "ochange": 0,
-                    "time": 470996,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -208794,20 +208738,6 @@
                     "oelo": 1826,
                     "ochange": 17,
                     "time": 559077,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779896309000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Bodek",
-                    "elo": 1721,
-                    "change": 17,
-                    "oelo": 1598,
-                    "ochange": -17,
-                    "time": 488735,
                     "forfeited": false,
                     "decayed": false
                 }
