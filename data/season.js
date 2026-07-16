@@ -1,5 +1,5 @@
 {
-    "date": 1784199601000,
+    "date": 1784200201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7313,20 +7313,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2119,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1779879815000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2124,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -68055,20 +68041,6 @@
                     "time": 599820,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779879749000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "hsbi",
-                    "elo": 2020,
-                    "change": 13,
-                    "oelo": 1801,
-                    "ochange": -13,
-                    "time": 741554,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -75866,20 +75838,6 @@
                     "time": 616225,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779879749000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 1801,
-                    "change": -13,
-                    "oelo": 2020,
-                    "ochange": 13,
-                    "time": 741554,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -80214,20 +80172,6 @@
                     "ochange": -15,
                     "time": 580573,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779879887000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Minepro_80",
-                    "elo": 1772,
-                    "change": -24,
-                    "oelo": 1698,
-                    "ochange": 24,
-                    "time": 470990,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -112635,7 +112579,7 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 32,
-                "elo": 2160,
+                "elo": 2155,
                 "top": 2230,
                 "points": 36,
                 "pb": 400470,
@@ -112651,6 +112595,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1784200094000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2155,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784113691000,
                     "type": null,
@@ -117025,7 +116983,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2155,
                 "top": 2195,
                 "points": 16,
