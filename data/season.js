@@ -1,5 +1,5 @@
 {
-    "date": 1784198401000,
+    "date": 1784199001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21073,20 +21073,6 @@
                     "oelo": 1776,
                     "ochange": 19,
                     "time": 286795,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779878465000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1734,
-                    "change": -18,
-                    "oelo": 1831,
-                    "ochange": 18,
-                    "time": 345088,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -75920,20 +75906,6 @@
                     "oelo": 2020,
                     "ochange": 13,
                     "time": 741554,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779878915000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 1814,
-                    "change": -24,
-                    "oelo": 1757,
-                    "ochange": 24,
-                    "time": 697949,
                     "forfeited": false,
                     "decayed": false
                 }
