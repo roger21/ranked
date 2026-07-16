@@ -1,5 +1,5 @@
 {
-    "date": 1784175601000,
+    "date": 1784176201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -202779,23 +202779,37 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 49,
-                "elo": 2098,
+                "rank": 54,
+                "elo": 2074,
                 "top": 2155,
                 "points": 21,
                 "pb": 426548,
-                "current": 2,
+                "current": 0,
                 "streak": 9,
-                "matches": 244,
-                "playtime": 143239419,
+                "matches": 245,
+                "playtime": 143916070,
                 "finished": 125,
                 "finishtime": 74728220,
                 "won": 140,
-                "lost": 94,
+                "lost": 95,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1784176269000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "dandannyboy",
+                    "elo": 2074,
+                    "change": -24,
+                    "oelo": 2022,
+                    "ochange": 24,
+                    "time": 676651,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784112320000,
                     "type": "BURIED_TREASURE",
@@ -204734,7 +204748,7 @@
             "uuid": "d93d53f5b7bd4fdc970d67a772936c81",
             "nickname": "hack_page",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2093,
                 "top": 2121,
                 "points": 6,
