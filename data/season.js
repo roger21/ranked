@@ -1,5 +1,5 @@
 {
-    "date": 1784164801000,
+    "date": 1784165401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10891,20 +10891,6 @@
                     "oelo": 2009,
                     "ochange": 22,
                     "time": 643097,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779845096000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2036,
-                    "change": -21,
-                    "oelo": 2053,
-                    "ochange": 21,
-                    "time": 777305,
                     "forfeited": false,
                     "decayed": false
                 }
