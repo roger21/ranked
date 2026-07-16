@@ -1,5 +1,5 @@
 {
-    "date": 1784193601000,
+    "date": 1784194201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21157,20 +21157,6 @@
                     "oelo": 1793,
                     "ochange": -22,
                     "time": 751734,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779873668000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sevensix_",
-                    "elo": 1752,
-                    "change": -19,
-                    "oelo": 1825,
-                    "ochange": 19,
-                    "time": 500860,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -80551,20 +80537,6 @@
                     "time": 586959,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779873734000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "CxrtxR",
-                    "elo": 1808,
-                    "change": 16,
-                    "oelo": 1662,
-                    "ochange": -16,
-                    "time": 331277,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -84632,20 +84604,6 @@
                     "oelo": 1799,
                     "ochange": 22,
                     "time": 1015349,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779873682000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1820,
-                    "change": -18,
-                    "oelo": 1898,
-                    "ochange": 18,
-                    "time": 671492,
                     "forfeited": false,
                     "decayed": false
                 }
