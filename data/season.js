@@ -1,5 +1,5 @@
 {
-    "date": 1784221801000,
+    "date": 1784222401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -36001,34 +36001,6 @@
                     "oelo": 1952,
                     "ochange": 20,
                     "time": 664361,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779902391000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 1925,
-                    "change": -25,
-                    "oelo": 1847,
-                    "ochange": 25,
-                    "time": 310500,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779901982000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "kohout135",
-                    "elo": 1950,
-                    "change": 16,
-                    "oelo": 1794,
-                    "ochange": -16,
-                    "time": 621047,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -148668,20 +148640,6 @@
                     "oelo": 1945,
                     "ochange": -26,
                     "time": 494065,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779902227000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "PandaRuns",
-                    "elo": 1808,
-                    "change": 19,
-                    "oelo": 1735,
-                    "ochange": -19,
-                    "time": 443458,
                     "forfeited": false,
                     "decayed": false
                 }
