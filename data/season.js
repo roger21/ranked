@@ -1,5 +1,5 @@
 {
-    "date": 1784201401000,
+    "date": 1784202001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21031,20 +21031,6 @@
                     "oelo": 1746,
                     "ochange": -21,
                     "time": 218798,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779881985000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "TuffyArnex",
-                    "elo": 1730,
-                    "change": 15,
-                    "oelo": 1573,
-                    "ochange": -15,
-                    "time": 504275,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -75752,20 +75738,6 @@
                     "oelo": 1770,
                     "ochange": 19,
                     "time": 740429,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779881934000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Obotron",
-                    "elo": 1737,
-                    "change": -24,
-                    "oelo": 1675,
-                    "ochange": 24,
-                    "time": 631447,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -132335,20 +132307,6 @@
                     "oelo": 1911,
                     "ochange": -17,
                     "time": 586569,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779881729000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "limefrog",
-                    "elo": 2013,
-                    "change": 15,
-                    "oelo": 1845,
-                    "ochange": -15,
-                    "time": 559911,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204614,20 +204572,6 @@
                     "ochange": -15,
                     "time": 380230,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779881800000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Poomy1234",
-                    "elo": 1728,
-                    "change": 21,
-                    "oelo": 1723,
-                    "ochange": -21,
-                    "time": 436049,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
