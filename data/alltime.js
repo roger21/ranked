@@ -618,13 +618,13 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 7854,
-        "playtime": 4879690107,
+        "matches": 7855,
+        "playtime": 4880060744,
         "finished": 2633,
         "finishtime": 1879112751,
         "won": 3860,
-        "lost": 3644,
-        "forfeited": 1241
+        "lost": 3645,
+        "forfeited": 1242
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -979,7 +979,7 @@
             "8": 1801,
             "9": 2206,
             "10": 2166,
-            "11": 2017
+            "11": 2020
         },
         "points": {
             "3": 0,
@@ -994,11 +994,11 @@
         },
         "pb": 431229,
         "streak": 15,
-        "matches": 1986,
-        "playtime": 1348084439,
-        "finished": 783,
-        "finishtime": 565691780,
-        "won": 1048,
+        "matches": 1987,
+        "playtime": 1349017082,
+        "finished": 784,
+        "finishtime": 566624423,
+        "won": 1049,
         "lost": 842,
         "forfeited": 37
     },
@@ -5129,11 +5129,11 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 7234,
-        "playtime": 4049542491,
-        "finished": 3199,
-        "finishtime": 2040997697,
-        "won": 3985,
+        "matches": 7235,
+        "playtime": 4050047274,
+        "finished": 3200,
+        "finishtime": 2041502480,
+        "won": 3986,
         "lost": 3018,
         "forfeited": 1423
     },
@@ -6540,44 +6540,5 @@
         "won": 4460,
         "lost": 4165,
         "forfeited": 1215
-    },
-    "fe6771646c5d43c1b713023fb69c10c6": {
-        "nickname": "SammmyG",
-        "country": "au",
-        "top": {
-            "1": 1541,
-            "2": 1333,
-            "3": 1416,
-            "4": 1710,
-            "5": 1618,
-            "6": 1633,
-            "7": 1690,
-            "8": 1672,
-            "9": 2102,
-            "10": 2208,
-            "11": 2155
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 5,
-            "7": 10,
-            "8": 0,
-            "9": 7,
-            "10": 11,
-            "11": 21
-        },
-        "pb": 426548,
-        "streak": 14,
-        "matches": 3073,
-        "playtime": 2071460788,
-        "finished": 1102,
-        "finishtime": 818705314,
-        "won": 1589,
-        "lost": 1321,
-        "forfeited": 204
     }
 }
