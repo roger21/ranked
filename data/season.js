@@ -1,5 +1,5 @@
 {
-    "date": 1784180401000,
+    "date": 1784181001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -89318,20 +89318,6 @@
                     "oelo": 1927,
                     "ochange": 27,
                     "time": 500006,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779860579000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TuCarta",
-                    "elo": 2097,
-                    "change": 16,
-                    "oelo": 1940,
-                    "ochange": -16,
-                    "time": 502307,
                     "forfeited": false,
                     "decayed": false
                 }
