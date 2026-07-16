@@ -1,5 +1,5 @@
 {
-    "date": 1784216401000,
+    "date": 1784217001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -36045,20 +36045,6 @@
                     "time": 411329,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779896738000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "DARVY__X1",
-                    "elo": 1916,
-                    "change": -25,
-                    "oelo": 1818,
-                    "ochange": 25,
-                    "time": 708415,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -65659,20 +65645,6 @@
                     "oelo": 1802,
                     "ochange": 21,
                     "time": 618761,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779896738000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1818,
-                    "change": 25,
-                    "oelo": 1916,
-                    "ochange": -25,
-                    "time": 708415,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -122704,20 +122676,6 @@
                     "oelo": 1798,
                     "ochange": 22,
                     "time": 626148,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779896954000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1826,
-                    "change": 17,
-                    "oelo": 1704,
-                    "ochange": -17,
-                    "time": 559077,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -208724,20 +208682,6 @@
                     "oelo": 1662,
                     "ochange": 22,
                     "time": 591733,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779896954000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1704,
-                    "change": -17,
-                    "oelo": 1826,
-                    "ochange": 17,
-                    "time": 559077,
                     "forfeited": false,
                     "decayed": false
                 }
