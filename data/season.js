@@ -1,5 +1,5 @@
 {
-    "date": 1784203201000,
+    "date": 1784203802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -20989,20 +20989,6 @@
                     "oelo": 1753,
                     "ochange": -19,
                     "time": 512866,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779883689000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1792,
-                    "change": 22,
-                    "oelo": 1791,
-                    "ochange": -22,
-                    "time": 573010,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -191435,7 +191421,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2102,
                 "top": 2197,
                 "points": 6,
@@ -197282,7 +197268,7 @@
             "uuid": "ef0c8ab50e8541e5a18e94373d409f47",
             "nickname": "Tadanoisikoro",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2101,
                 "top": 2101,
                 "points": 0,
@@ -202422,20 +202408,6 @@
                     "time": 605081,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779883652000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 1723,
-                    "change": -20,
-                    "oelo": 1772,
-                    "ochange": 20,
-                    "time": 550098,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -202443,7 +202415,7 @@
             "uuid": "d93d53f5b7bd4fdc970d67a772936c81",
             "nickname": "hack_page",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2093,
                 "top": 2121,
                 "points": 6,
@@ -204678,7 +204650,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2088,
                 "top": 2155,
                 "points": 21,
