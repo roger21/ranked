@@ -1,5 +1,5 @@
 {
-    "date": 1784161801000,
+    "date": 1784162401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10905,20 +10905,6 @@
                     "oelo": 2053,
                     "ochange": 21,
                     "time": 777305,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779842338000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2057,
-                    "change": 19,
-                    "oelo": 1981,
-                    "ochange": -19,
-                    "time": 500264,
                     "forfeited": false,
                     "decayed": false
                 }
