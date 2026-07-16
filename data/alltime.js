@@ -920,11 +920,11 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 3275,
-        "playtime": 2304086099,
-        "finished": 1132,
-        "finishtime": 891595757,
-        "won": 1594,
+        "matches": 3276,
+        "playtime": 2304801709,
+        "finished": 1133,
+        "finishtime": 892311367,
+        "won": 1595,
         "lost": 1435,
         "forfeited": 179
     },
@@ -1339,12 +1339,12 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 4470,
-        "playtime": 2765763610,
+        "matches": 4471,
+        "playtime": 2766296551,
         "finished": 1669,
         "finishtime": 1179833195,
         "won": 2252,
-        "lost": 2053,
+        "lost": 2054,
         "forfeited": 704
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -2224,11 +2224,11 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 5246,
-        "playtime": 3130282189,
-        "finished": 2048,
-        "finishtime": 1357505665,
-        "won": 2649,
+        "matches": 5247,
+        "playtime": 3130804429,
+        "finished": 2049,
+        "finishtime": 1358027905,
+        "won": 2650,
         "lost": 2411,
         "forfeited": 723
     },
@@ -6304,6 +6304,31 @@
         "lost": 3147,
         "forfeited": 1655
     },
+    "ef0c8ab50e8541e5a18e94373d409f47": {
+        "nickname": "Tadanoisikoro",
+        "country": "jp",
+        "top": {
+            "8": 1086,
+            "9": 1514,
+            "10": 2026,
+            "11": 2101
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+        },
+        "pb": 436049,
+        "streak": 11,
+        "matches": 1239,
+        "playtime": 762596919,
+        "finished": 378,
+        "finishtime": 260345775,
+        "won": 577,
+        "lost": 492,
+        "forfeited": 242
+    },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
         "country": null,
@@ -6515,44 +6540,5 @@
         "won": 4460,
         "lost": 4165,
         "forfeited": 1215
-    },
-    "fe6771646c5d43c1b713023fb69c10c6": {
-        "nickname": "SammmyG",
-        "country": "au",
-        "top": {
-            "1": 1541,
-            "2": 1333,
-            "3": 1416,
-            "4": 1710,
-            "5": 1618,
-            "6": 1633,
-            "7": 1690,
-            "8": 1672,
-            "9": 2102,
-            "10": 2208,
-            "11": 2155
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 5,
-            "7": 10,
-            "8": 0,
-            "9": 7,
-            "10": 11,
-            "11": 21
-        },
-        "pb": 426548,
-        "streak": 14,
-        "matches": 3061,
-        "playtime": 2064066293,
-        "finished": 1097,
-        "finishtime": 815788566,
-        "won": 1583,
-        "lost": 1316,
-        "forfeited": 204
     }
 }
