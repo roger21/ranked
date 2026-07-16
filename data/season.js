@@ -1,5 +1,5 @@
 {
-    "date": 1784185801000,
+    "date": 1784186401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66544,20 +66544,6 @@
                     "time": 652331,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779865910000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Yosa1003",
-                    "elo": 1846,
-                    "change": -23,
-                    "oelo": 1818,
-                    "ochange": 23,
-                    "time": 544586,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100125,20 +100111,6 @@
                     "oelo": 1839,
                     "ochange": 21,
                     "time": 644578,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779866122000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1852,
-                    "change": -22,
-                    "oelo": 1845,
-                    "ochange": 22,
-                    "time": 586161,
                     "forfeited": false,
                     "decayed": false
                 }
