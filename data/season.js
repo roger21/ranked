@@ -1,5 +1,5 @@
 {
-    "date": 1784241601000,
+    "date": 1784242201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -33503,34 +33503,6 @@
                     "oelo": 1717,
                     "ochange": -15,
                     "time": 736550,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779921945000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "valenmeoww",
-                    "elo": 1882,
-                    "change": -25,
-                    "oelo": 1798,
-                    "ochange": 25,
-                    "time": 241497,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779921613000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 1907,
-                    "change": 23,
-                    "oelo": 1937,
-                    "ochange": -23,
-                    "time": 571274,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -96452,20 +96424,6 @@
                     "ochange": 19,
                     "time": 327738,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779922060000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Jasgamer409",
-                    "elo": 1641,
-                    "change": 22,
-                    "oelo": 1640,
-                    "ochange": -22,
-                    "time": 624332,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
