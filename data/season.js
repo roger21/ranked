@@ -1,5 +1,5 @@
 {
-    "date": 1784185201000,
+    "date": 1784185801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100139,20 +100139,6 @@
                     "oelo": 1845,
                     "ochange": 22,
                     "time": 586161,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779865468000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SamonMCSR",
-                    "elo": 1874,
-                    "change": 14,
-                    "oelo": 1664,
-                    "ochange": -14,
-                    "time": 468363,
                     "forfeited": false,
                     "decayed": false
                 }
