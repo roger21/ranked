@@ -1,5 +1,5 @@
 {
-    "date": 1784219401000,
+    "date": 1784220001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -148682,20 +148682,6 @@
                     "oelo": 1703,
                     "ochange": 23,
                     "time": 484628,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779899506000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "limefrog",
-                    "elo": 1775,
-                    "change": -19,
-                    "oelo": 1833,
-                    "ochange": 19,
-                    "time": 469452,
                     "forfeited": true,
                     "decayed": false
                 }
