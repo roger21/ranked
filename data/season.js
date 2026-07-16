@@ -1,5 +1,5 @@
 {
-    "date": 1784240401000,
+    "date": 1784241001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -33531,20 +33531,6 @@
                     "oelo": 1937,
                     "ochange": -23,
                     "time": 571274,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779920734000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "limefrog",
-                    "elo": 1884,
-                    "change": 19,
-                    "oelo": 1816,
-                    "ochange": -19,
-                    "time": 575753,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -85392,14 +85378,14 @@
             "nickname": "poopiefart13",
             "stats": {
                 "rank": 29,
-                "elo": 2185,
+                "elo": 2183,
                 "top": 2185,
                 "points": 8,
                 "pb": 418357,
                 "current": 2,
                 "streak": 8,
-                "matches": 1574,
-                "playtime": 809051889,
+                "matches": 1575,
+                "playtime": 809704688,
                 "finished": 622,
                 "finishtime": 379258580,
                 "won": 770,
@@ -85408,6 +85394,20 @@
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1784241024000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "TheLandSharkJeff",
+                    "elo": 2183,
+                    "change": -2,
+                    "oelo": 2010,
+                    "ochange": 2,
+                    "time": 652799,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784239917000,
                     "type": "SHIPWRECK",
@@ -96479,20 +96479,6 @@
                     "oelo": 1538,
                     "ochange": -18,
                     "time": 390463,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779920841000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "catpats",
-                    "elo": 1601,
-                    "change": -21,
-                    "oelo": 1620,
-                    "ochange": 21,
-                    "time": 576663,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -111983,20 +111969,6 @@
                     "time": 549893,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779920549000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1997,
-                    "change": -23,
-                    "oelo": 1960,
-                    "ochange": 23,
-                    "time": 447165,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -115518,20 +115490,6 @@
                     "oelo": 1979,
                     "ochange": -18,
                     "time": 549893,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779920858000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "benemies",
-                    "elo": 2048,
-                    "change": 14,
-                    "oelo": 1856,
-                    "ochange": -14,
-                    "time": 553119,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -121052,20 +121010,6 @@
                     "oelo": 1770,
                     "ochange": -21,
                     "time": 601436,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779920757000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ThaShape",
-                    "elo": 1776,
-                    "change": -25,
-                    "oelo": 1700,
-                    "ochange": 25,
-                    "time": 818493,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -205005,20 +204949,6 @@
                     "oelo": 1684,
                     "ochange": -16,
                     "time": 615414,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779920761000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "darkk575",
-                    "elo": 1814,
-                    "change": -22,
-                    "oelo": 1791,
-                    "ochange": 22,
-                    "time": 654508,
                     "forfeited": false,
                     "decayed": false
                 }
