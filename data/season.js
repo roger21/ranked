@@ -1,5 +1,5 @@
 {
-    "date": 1784192401000,
+    "date": 1784193001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21172,20 +21172,6 @@
                     "ochange": 19,
                     "time": 500860,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779872501000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "boywithcards",
-                    "elo": 1771,
-                    "change": -18,
-                    "oelo": 1852,
-                    "ochange": 18,
-                    "time": 632379,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -84674,20 +84660,6 @@
                     "oelo": 1898,
                     "ochange": 18,
                     "time": 671492,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779872955000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 1838,
-                    "change": 20,
-                    "oelo": 1806,
-                    "ochange": -20,
-                    "time": 539350,
                     "forfeited": false,
                     "decayed": false
                 }
