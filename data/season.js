@@ -1,5 +1,5 @@
 {
-    "date": 1784196001000,
+    "date": 1784196601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21117,20 +21117,6 @@
                     "time": 649016,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779876309000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "snowdeerjulie",
-                    "elo": 1793,
-                    "change": -2,
-                    "oelo": 1619,
-                    "ochange": 2,
-                    "time": 581400,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -37728,7 +37714,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 11,
-                "elo": 2265,
+                "elo": 2260,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -37744,6 +37730,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784196554000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2260,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784110151000,
                     "type": null,
@@ -80411,20 +80411,6 @@
                     "time": 930476,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779876136000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Malatutou_Reine",
-                    "elo": 1783,
-                    "change": 13,
-                    "oelo": 1554,
-                    "ochange": -13,
-                    "time": 620594,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -84450,20 +84436,6 @@
                     "oelo": 1903,
                     "ochange": 17,
                     "time": 543009,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779876418000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "CxrtxR",
-                    "elo": 1795,
-                    "change": 18,
-                    "oelo": 1699,
-                    "ochange": -18,
-                    "time": 688953,
                     "forfeited": false,
                     "decayed": false
                 }
