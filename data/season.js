@@ -1,5 +1,5 @@
 {
-    "date": 1784298001000,
+    "date": 1784298601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37579,20 +37579,6 @@
                     "time": 427033,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779978213000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1931,
-                    "change": 20,
-                    "oelo": 1901,
-                    "ochange": -20,
-                    "time": 656208,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -65709,20 +65695,6 @@
                     "oelo": 1674,
                     "ochange": 23,
                     "time": 730461,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779978260000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "kazoklp",
-                    "elo": 1720,
-                    "change": 17,
-                    "oelo": 1603,
-                    "ochange": -17,
-                    "time": 633572,
                     "forfeited": false,
                     "decayed": false
                 }
