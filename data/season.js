@@ -1,5 +1,5 @@
 {
-    "date": 1784283601000,
+    "date": 1784284201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161505,20 +161505,6 @@
                     "oelo": 1738,
                     "ochange": -18,
                     "time": 674806,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779963856000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1824,
-                    "change": 25,
-                    "oelo": 1900,
-                    "ochange": -25,
-                    "time": 609545,
                     "forfeited": false,
                     "decayed": false
                 }
