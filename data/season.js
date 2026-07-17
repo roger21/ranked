@@ -1,5 +1,5 @@
 {
-    "date": 1784295001000,
+    "date": 1784295601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65767,20 +65767,6 @@
                     "time": 556327,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779975125000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "wotez",
-                    "elo": 1678,
-                    "change": 19,
-                    "oelo": 1615,
-                    "ochange": -19,
-                    "time": 519843,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77861,20 +77847,6 @@
                     "ochange": 20,
                     "time": 622598,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779975028000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "orachi_",
-                    "elo": 1789,
-                    "change": 16,
-                    "oelo": 1647,
-                    "ochange": -16,
-                    "time": 297230,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -123030,23 +123002,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 36,
-                "elo": 2148,
+                "rank": 40,
+                "elo": 2121,
                 "top": 2298,
                 "points": 15,
                 "pb": 395923,
                 "current": 0,
                 "streak": 9,
-                "matches": 1866,
-                "playtime": 974593327,
+                "matches": 1867,
+                "playtime": 975262081,
                 "finished": 741,
                 "finishtime": 398457096,
                 "won": 863,
-                "lost": 782,
+                "lost": 783,
                 "forfeited": 317
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784295635000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Rixzzs",
+                    "elo": 2121,
+                    "change": -27,
+                    "oelo": 1958,
+                    "ochange": 27,
+                    "time": 668754,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784294717000,
                     "type": "DESERT_TEMPLE",
@@ -138369,7 +138355,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2140,
                 "top": 2207,
                 "points": 31,
@@ -142718,7 +142704,7 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2139,
                 "top": 2139,
                 "points": 6,
@@ -145345,7 +145331,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2130,
                 "top": 2133,
                 "points": 7,
@@ -147622,7 +147608,7 @@
             "uuid": "9589914cf31a420bbcb07cd0768eec28",
             "nickname": "_Pasha1337_",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2126,
                 "top": 2173,
                 "points": 0,
@@ -214408,20 +214394,6 @@
                     "oelo": 1827,
                     "ochange": 25,
                     "time": 590057,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779975392000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 1933,
-                    "change": -28,
-                    "oelo": 1741,
-                    "ochange": 28,
-                    "time": 458535,
                     "forfeited": false,
                     "decayed": false
                 }
