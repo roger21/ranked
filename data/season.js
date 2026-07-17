@@ -1,5 +1,5 @@
 {
-    "date": 1784313001000,
+    "date": 1784313601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28305,20 +28305,6 @@
                     "oelo": 2010,
                     "ochange": -20,
                     "time": 593803,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779993135000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 2020,
-                    "change": -18,
-                    "oelo": 2111,
-                    "ochange": 18,
-                    "time": 499712,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -60583,20 +60569,6 @@
                     "time": 555578,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779993135000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "steez",
-                    "elo": 2111,
-                    "change": 18,
-                    "oelo": 2020,
-                    "ochange": -18,
-                    "time": 499712,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -62335,7 +62307,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 2205,
                 "top": 2310,
                 "points": 100,
@@ -65130,7 +65102,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 2204,
                 "top": 2204,
                 "points": 16,
@@ -70585,7 +70557,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 2200,
                 "top": 2249,
                 "points": 41,
@@ -74164,7 +74136,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2199,
                 "top": 2199,
                 "points": 30,
@@ -75153,23 +75125,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 27,
-                "elo": 2191,
+                "rank": 23,
+                "elo": 2206,
                 "top": 2344,
                 "points": 82,
                 "pb": 423216,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 750,
-                "playtime": 431909415,
-                "finished": 359,
-                "finishtime": 215656317,
-                "won": 412,
+                "matches": 751,
+                "playtime": 432518840,
+                "finished": 360,
+                "finishtime": 216265742,
+                "won": 413,
                 "lost": 326,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1784313602000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "BinEin",
+                    "elo": 2206,
+                    "change": 15,
+                    "oelo": 2025,
+                    "ochange": -15,
+                    "time": 609425,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784312582000,
                     "type": "VILLAGE",
@@ -168422,20 +168408,6 @@
                     "time": 555578,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779993077000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2024,
-                    "change": 16,
-                    "oelo": 1888,
-                    "ochange": -16,
-                    "time": 496241,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -184679,20 +184651,6 @@
                     "ochange": 21,
                     "time": 606486,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779993147000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "IlLoonCrack",
-                    "elo": 1691,
-                    "change": -17,
-                    "oelo": 1807,
-                    "ochange": 17,
-                    "time": 574244,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -218034,20 +217992,6 @@
                     "oelo": 1790,
                     "ochange": -17,
                     "time": 606021,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779993077000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 1888,
-                    "change": -16,
-                    "oelo": 2024,
-                    "ochange": 16,
-                    "time": 496241,
                     "forfeited": false,
                     "decayed": false
                 }
