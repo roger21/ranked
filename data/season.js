@@ -1,5 +1,5 @@
 {
-    "date": 1784289601000,
+    "date": 1784290201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37605,20 +37605,6 @@
                     "oelo": 1972,
                     "ochange": 18,
                     "time": 499194,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779970057000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "wagayman",
-                    "elo": 1897,
-                    "change": 15,
-                    "oelo": 1717,
-                    "ochange": -15,
-                    "time": 736550,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -78029,20 +78015,6 @@
                     "ochange": 1,
                     "time": 731054,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779970182000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1779,
-                    "change": -15,
-                    "oelo": 1954,
-                    "ochange": 15,
-                    "time": 531749,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -121949,20 +121921,6 @@
                     "ochange": -14,
                     "time": 619599,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779969862000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "kazoklp",
-                    "elo": 1723,
-                    "change": 18,
-                    "oelo": 1628,
-                    "ochange": -18,
-                    "time": 261993,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
