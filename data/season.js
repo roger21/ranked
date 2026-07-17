@@ -1,5 +1,5 @@
 {
-    "date": 1784308801000,
+    "date": 1784309401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -11017,20 +11017,6 @@
                     "oelo": 2061,
                     "ochange": -18,
                     "time": 496630,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779988892000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "steez",
-                    "elo": 2137,
-                    "change": 16,
-                    "oelo": 1999,
-                    "ochange": -16,
-                    "time": 558098,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28403,20 +28389,6 @@
                     "oelo": 1964,
                     "ochange": -19,
                     "time": 522747,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779988892000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1999,
-                    "change": -16,
-                    "oelo": 2137,
-                    "ochange": 16,
-                    "time": 558098,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -60847,20 +60819,6 @@
                     "oelo": 2155,
                     "ochange": 18,
                     "time": 496630,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779989194000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2079,
-                    "change": 19,
-                    "oelo": 2016,
-                    "ochange": -19,
-                    "time": 587221,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -183404,20 +183362,6 @@
                     "oelo": 1946,
                     "ochange": -18,
                     "time": 518566,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779989194000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 2016,
-                    "change": -19,
-                    "oelo": 2079,
-                    "ochange": 19,
-                    "time": 587221,
                     "forfeited": false,
                     "decayed": false
                 }
