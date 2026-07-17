@@ -1,5 +1,5 @@
 {
-    "date": 1784289001000,
+    "date": 1784289601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78044,20 +78044,6 @@
                     "time": 531749,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779969518000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "orachi_",
-                    "elo": 1794,
-                    "change": 18,
-                    "oelo": 1691,
-                    "ochange": -18,
-                    "time": 544864,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -121976,34 +121962,6 @@
                     "oelo": 1628,
                     "ochange": -18,
                     "time": 261993,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779969536000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Dysthnasia",
-                    "elo": 1705,
-                    "change": 17,
-                    "oelo": 1595,
-                    "ochange": -17,
-                    "time": 316998,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779969011000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "galaxy1010_w",
-                    "elo": 1688,
-                    "change": -26,
-                    "oelo": 1582,
-                    "ochange": 26,
-                    "time": 460892,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -198178,20 +198136,6 @@
                     "oelo": 1764,
                     "ochange": 19,
                     "time": 538740,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779969500000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "kazoklp",
-                    "elo": 1705,
-                    "change": -24,
-                    "oelo": 1646,
-                    "ochange": 24,
-                    "time": 622173,
                     "forfeited": false,
                     "decayed": false
                 }
