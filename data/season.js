@@ -1,5 +1,5 @@
 {
-    "date": 1784283001000,
+    "date": 1784283601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -61127,20 +61127,6 @@
                     "oelo": 1886,
                     "ochange": -14,
                     "time": 497582,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779963477000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "gharfyy",
-                    "elo": 2084,
-                    "change": 12,
-                    "oelo": 1812,
-                    "ochange": -12,
-                    "time": 592535,
                     "forfeited": false,
                     "decayed": false
                 }
