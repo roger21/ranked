@@ -1,5 +1,5 @@
 {
-    "date": 1784297401000,
+    "date": 1784298001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65725,20 +65725,6 @@
                     "time": 633572,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779977502000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 1703,
-                    "change": -13,
-                    "oelo": 1921,
-                    "ochange": 13,
-                    "time": 751693,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77762,20 +77748,6 @@
                     "oelo": 1740,
                     "ochange": 23,
                     "time": 546239,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779977828000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "huhPrince",
-                    "elo": 1791,
-                    "change": 17,
-                    "oelo": 1683,
-                    "ochange": -17,
-                    "time": 539922,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -118504,20 +118476,6 @@
                     "oelo": 1848,
                     "ochange": -23,
                     "time": 782166,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779977529000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ItzUser",
-                    "elo": 1802,
-                    "change": -25,
-                    "oelo": 1703,
-                    "ochange": 25,
-                    "time": 1011160,
                     "forfeited": false,
                     "decayed": false
                 }
