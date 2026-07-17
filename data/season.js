@@ -1,5 +1,5 @@
 {
-    "date": 1784294401000,
+    "date": 1784295001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65781,20 +65781,6 @@
                     "time": 519843,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779974453000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1659,
-                    "change": 22,
-                    "oelo": 1671,
-                    "ochange": -22,
-                    "time": 776397,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77889,20 +77875,6 @@
                     "ochange": -16,
                     "time": 297230,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779974589000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Finnitzko",
-                    "elo": 1773,
-                    "change": 15,
-                    "oelo": 1593,
-                    "ochange": -15,
-                    "time": 534398,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -118660,20 +118632,6 @@
                     "time": 622598,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1779974906000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "TUDORULE",
-                    "elo": 1782,
-                    "change": 23,
-                    "oelo": 1822,
-                    "ochange": -23,
-                    "time": 567879,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -123072,15 +123030,15 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 34,
-                "elo": 2150,
+                "rank": 36,
+                "elo": 2148,
                 "top": 2298,
                 "points": 15,
                 "pb": 395923,
                 "current": 0,
                 "streak": 9,
-                "matches": 1865,
-                "playtime": 973881454,
+                "matches": 1866,
+                "playtime": 974593327,
                 "finished": 741,
                 "finishtime": 398457096,
                 "won": 863,
@@ -123089,6 +123047,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784294717000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "jqrbe",
+                    "elo": 2148,
+                    "change": -2,
+                    "oelo": 1982,
+                    "ochange": 2,
+                    "time": 711873,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784293476000,
                     "type": "DESERT_TEMPLE",
