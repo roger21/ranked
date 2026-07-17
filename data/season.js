@@ -1,5 +1,5 @@
 {
-    "date": 1784300401000,
+    "date": 1784301001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65613,20 +65613,6 @@
                     "time": 638614,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1779980651000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1740,
-                    "change": 23,
-                    "oelo": 1778,
-                    "ochange": -23,
-                    "time": 746881,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77594,20 +77580,6 @@
                     "oelo": 1781,
                     "ochange": 21,
                     "time": 543360,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779980801000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "huhPrince",
-                    "elo": 1794,
-                    "change": 18,
-                    "oelo": 1690,
-                    "ochange": -18,
-                    "time": 642098,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -209177,20 +209149,6 @@
                     "oelo": 1912,
                     "ochange": 17,
                     "time": 539155,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779980752000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "AstroSaysGG",
-                    "elo": 1808,
-                    "change": 16,
-                    "oelo": 1674,
-                    "ochange": -16,
-                    "time": 559944,
                     "forfeited": false,
                     "decayed": false
                 }
