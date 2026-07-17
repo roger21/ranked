@@ -618,13 +618,13 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 7859,
-        "playtime": 4882321219,
+        "matches": 7860,
+        "playtime": 4882582423,
         "finished": 2635,
         "finishtime": 1880476354,
         "won": 3863,
-        "lost": 3646,
-        "forfeited": 1242
+        "lost": 3647,
+        "forfeited": 1243
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -971,7 +971,7 @@
             "8": 1994,
             "9": 2137,
             "10": 1988,
-            "11": 1845
+            "11": 1851
         },
         "points": {
             "1": 0,
@@ -988,11 +988,11 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 4844,
-        "playtime": 3097793309,
-        "finished": 1859,
-        "finishtime": 1324359991,
-        "won": 2535,
+        "matches": 4845,
+        "playtime": 3098637695,
+        "finished": 1860,
+        "finishtime": 1325204377,
+        "won": 2536,
         "lost": 2212,
         "forfeited": 275
     },
@@ -4101,13 +4101,13 @@
         },
         "pb": 407421,
         "streak": 11,
-        "matches": 6515,
-        "playtime": 4040594637,
+        "matches": 6516,
+        "playtime": 4040919888,
         "finished": 2407,
         "finishtime": 1698477639,
         "won": 3247,
-        "lost": 2986,
-        "forfeited": 1020
+        "lost": 2987,
+        "forfeited": 1021
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
