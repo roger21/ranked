@@ -1,5 +1,5 @@
 {
-    "date": 1784277001000,
+    "date": 1784277601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -8918,20 +8918,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2143,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1779957397000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2148,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -187394,20 +187380,6 @@
                     "oelo": 1777,
                     "ochange": -20,
                     "time": 894316,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779957024000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1785,
-                    "change": 18,
-                    "oelo": 1704,
-                    "ochange": -18,
-                    "time": 678542,
                     "forfeited": false,
                     "decayed": false
                 }
