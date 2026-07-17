@@ -1,5 +1,5 @@
 {
-    "date": 1784299201000,
+    "date": 1784299801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37549,20 +37549,6 @@
                     "oelo": 1879,
                     "ochange": 23,
                     "time": 503504,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779979633000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "huhPrince",
-                    "elo": 1926,
-                    "change": 13,
-                    "oelo": 1689,
-                    "ochange": -13,
-                    "time": 819397,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -77665,20 +77651,6 @@
                     "ochange": 16,
                     "time": 572316,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779979389000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1792,
-                    "change": 24,
-                    "oelo": 1856,
-                    "ochange": -24,
-                    "time": 224921,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
