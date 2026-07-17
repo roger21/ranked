@@ -811,6 +811,35 @@
         "lost": 1676,
         "forfeited": 370
     },
+    "23e7466f0a1b4597bf89c17d53c4d0ae": {
+        "nickname": "Lexanh",
+        "country": "se",
+        "top": {
+            "1": 1016,
+            "5": 913,
+            "8": 1560,
+            "9": 1911,
+            "10": 2185,
+            "11": 2162
+        },
+        "points": {
+            "1": 0,
+            "5": 0,
+            "8": 0,
+            "9": 0,
+            "10": 12,
+            "11": 26
+        },
+        "pb": 395223,
+        "streak": 10,
+        "matches": 4654,
+        "playtime": 2801967430,
+        "finished": 1718,
+        "finishtime": 1162027039,
+        "won": 2244,
+        "lost": 2109,
+        "forfeited": 697
+    },
     "25349f93cf194f3baeee93d024eccc21": {
         "nickname": "retropog",
         "country": "au",
@@ -1456,11 +1485,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 20477,
-        "playtime": 12654964281,
-        "finished": 8925,
-        "finishtime": 5955314196,
-        "won": 11262,
+        "matches": 20478,
+        "playtime": 12655543696,
+        "finished": 8926,
+        "finishtime": 5955893611,
+        "won": 11263,
         "lost": 8922,
         "forfeited": 1200
     },
@@ -4072,12 +4101,12 @@
         },
         "pb": 407421,
         "streak": 11,
-        "matches": 6514,
-        "playtime": 4040015222,
+        "matches": 6515,
+        "playtime": 4040594637,
         "finished": 2407,
         "finishtime": 1698477639,
         "won": 3247,
-        "lost": 2985,
+        "lost": 2986,
         "forfeited": 1020
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
