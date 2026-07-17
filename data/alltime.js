@@ -618,13 +618,13 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 7861,
-        "playtime": 4883235423,
+        "matches": 7862,
+        "playtime": 4883739553,
         "finished": 2635,
         "finishtime": 1880476354,
         "won": 3863,
-        "lost": 3648,
-        "forfeited": 1243
+        "lost": 3649,
+        "forfeited": 1244
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
         "nickname": "VDPineapple",
@@ -1485,11 +1485,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 20485,
-        "playtime": 12659491365,
+        "matches": 20486,
+        "playtime": 12659857126,
         "finished": 8929,
         "finishtime": 5957614487,
-        "won": 11266,
+        "won": 11267,
         "lost": 8926,
         "forfeited": 1200
     },
@@ -1785,11 +1785,11 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 2011,
-        "playtime": 1187372756,
+        "matches": 2012,
+        "playtime": 1187876886,
         "finished": 857,
         "finishtime": 580594011,
-        "won": 1080,
+        "won": 1081,
         "lost": 876,
         "forfeited": 402
     },
@@ -4062,13 +4062,13 @@
         },
         "pb": 418367,
         "streak": 11,
-        "matches": 7458,
-        "playtime": 4692926387,
+        "matches": 7459,
+        "playtime": 4693546415,
         "finished": 2653,
         "finishtime": 1907405677,
         "won": 3744,
-        "lost": 3505,
-        "forfeited": 1233
+        "lost": 3506,
+        "forfeited": 1234
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
@@ -4101,13 +4101,13 @@
         },
         "pb": 407421,
         "streak": 11,
-        "matches": 6517,
-        "playtime": 4041417912,
+        "matches": 6518,
+        "playtime": 4041783673,
         "finished": 2408,
         "finishtime": 1698975663,
         "won": 3248,
-        "lost": 2987,
-        "forfeited": 1021
+        "lost": 2988,
+        "forfeited": 1022
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
         "nickname": "Feinberg",
