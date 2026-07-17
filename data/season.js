@@ -1,5 +1,5 @@
 {
-    "date": 1784301001000,
+    "date": 1784301601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37521,20 +37521,6 @@
                     "oelo": 1876,
                     "ochange": -19,
                     "time": 545573,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779981273000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1919,
-                    "change": 16,
-                    "oelo": 1762,
-                    "ochange": -16,
-                    "time": 543917,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -77567,20 +77553,6 @@
                     "ochange": 17,
                     "time": 322528,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1779981402000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "200kgdoogirl",
-                    "elo": 1773,
-                    "change": -21,
-                    "oelo": 1781,
-                    "ochange": 21,
-                    "time": 543360,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -209135,20 +209107,6 @@
                     "oelo": 1763,
                     "ochange": -20,
                     "time": 670912,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779981550000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 1791,
-                    "change": -17,
-                    "oelo": 1912,
-                    "ochange": 17,
-                    "time": 539155,
                     "forfeited": false,
                     "decayed": false
                 }
