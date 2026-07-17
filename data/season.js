@@ -1,5 +1,5 @@
 {
-    "date": 1784287201000,
+    "date": 1784287801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65863,20 +65863,6 @@
                     "oelo": 1713,
                     "ochange": 19,
                     "time": 588009,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779967622000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1680,
-                    "change": 23,
-                    "oelo": 1710,
-                    "ochange": -23,
-                    "time": 545980,
                     "forfeited": false,
                     "decayed": false
                 }
