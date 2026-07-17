@@ -291,13 +291,13 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 6064,
-        "playtime": 3790662631,
+        "matches": 6065,
+        "playtime": 3791353976,
         "finished": 2481,
         "finishtime": 1679464795,
         "won": 3138,
-        "lost": 2715,
-        "forfeited": 497
+        "lost": 2716,
+        "forfeited": 498
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
         "nickname": "Khepryyy",
@@ -2853,11 +2853,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7542,
-        "playtime": 4821631591,
+        "matches": 7543,
+        "playtime": 4822322936,
         "finished": 2704,
         "finishtime": 1964527472,
-        "won": 3801,
+        "won": 3802,
         "lost": 3427,
         "forfeited": 825
     },
@@ -4370,12 +4370,12 @@
         },
         "pb": 417343,
         "streak": 11,
-        "matches": 4733,
-        "playtime": 3139230253,
+        "matches": 4734,
+        "playtime": 3139925282,
         "finished": 1758,
         "finishtime": 1266617989,
         "won": 2401,
-        "lost": 2123,
+        "lost": 2124,
         "forfeited": 220
     },
     "a20541925b5648e1ae88a141ca37911e": {
@@ -5513,7 +5513,7 @@
             "8": 1657,
             "9": 1530,
             "10": 1825,
-            "11": 1459
+            "11": 1463
         },
         "points": {
             "1": 0,
@@ -5530,11 +5530,11 @@
         },
         "pb": 500132,
         "streak": 10,
-        "matches": 2923,
-        "playtime": 1922498254,
-        "finished": 950,
-        "finishtime": 769343543,
-        "won": 1507,
+        "matches": 2924,
+        "playtime": 1923187080,
+        "finished": 951,
+        "finishtime": 770032369,
+        "won": 1508,
         "lost": 1287,
         "forfeited": 600
     },
