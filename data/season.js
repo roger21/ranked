@@ -1,5 +1,5 @@
 {
-    "date": 1784301601000,
+    "date": 1784302201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37507,20 +37507,6 @@
                     "oelo": 1911,
                     "ochange": -20,
                     "time": 553368,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779981935000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1938,
-                    "change": 19,
-                    "oelo": 1876,
-                    "ochange": -19,
-                    "time": 545573,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -77539,20 +77525,6 @@
                     "ochange": -19,
                     "time": 632539,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1779981922000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1756,
-                    "change": -17,
-                    "oelo": 1862,
-                    "ochange": 17,
-                    "time": 322528,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
