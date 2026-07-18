@@ -3114,12 +3114,12 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 11410,
-        "playtime": 6244552510,
+        "matches": 11411,
+        "playtime": 6245233651,
         "finished": 3906,
         "finishtime": 2352138903,
         "won": 5250,
-        "lost": 5034,
+        "lost": 5035,
         "forfeited": 2697
     },
     "7b5563464fdf4757905e681040791ac0": {
@@ -3442,6 +3442,35 @@
         "won": 2569,
         "lost": 2409,
         "forfeited": 773
+    },
+    "8393e90d9dd94a3eb838146a5ae5b724": {
+        "nickname": "takachaaaaaaan",
+        "country": "jp",
+        "top": {
+            "6": 933,
+            "7": 1664,
+            "8": 1851,
+            "9": 2165,
+            "10": 2168,
+            "11": 2115
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 12,
+            "9": 20,
+            "10": 10,
+            "11": 10
+        },
+        "pb": 404297,
+        "streak": 14,
+        "matches": 8914,
+        "playtime": 5170196914,
+        "finished": 3258,
+        "finishtime": 2240000705,
+        "won": 4471,
+        "lost": 4195,
+        "forfeited": 2133
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "nickname": "karatebaby_",
@@ -4156,11 +4185,11 @@
         },
         "pb": 411362,
         "streak": 13,
-        "matches": 7497,
-        "playtime": 4558739863,
-        "finished": 2619,
-        "finishtime": 1846209613,
-        "won": 3689,
+        "matches": 7498,
+        "playtime": 4559276070,
+        "finished": 2620,
+        "finishtime": 1846745820,
+        "won": 3690,
         "lost": 3402,
         "forfeited": 1338
     },
@@ -5174,12 +5203,12 @@
         },
         "pb": 368547,
         "streak": 12,
-        "matches": 1602,
-        "playtime": 947429825,
+        "matches": 1603,
+        "playtime": 947966032,
         "finished": 725,
         "finishtime": 459495251,
         "won": 926,
-        "lost": 635,
+        "lost": 636,
         "forfeited": 95
     },
     "c0ee21f8d5904827b57349507ae2721b": {
