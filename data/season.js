@@ -1,5 +1,5 @@
 {
-    "date": 1784386201000,
+    "date": 1784386801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10971,14 +10971,14 @@
             "nickname": "romuxii",
             "stats": {
                 "rank": 6,
-                "elo": 2336,
+                "elo": 2334,
                 "top": 2337,
                 "points": 12,
                 "pb": 379483,
                 "current": 1,
                 "streak": 9,
-                "matches": 707,
-                "playtime": 382676761,
+                "matches": 708,
+                "playtime": 383096331,
                 "finished": 327,
                 "finishtime": 188101888,
                 "won": 377,
@@ -10987,6 +10987,20 @@
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1784386450000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "hack_page",
+                    "elo": 2334,
+                    "change": -2,
+                    "oelo": 2154,
+                    "ochange": 2,
+                    "time": 419570,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784385899000,
                     "type": "VILLAGE",
@@ -16880,20 +16894,6 @@
                     "time": 275707,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780066570000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "7rowl",
-                    "elo": 1840,
-                    "change": 19,
-                    "oelo": 1786,
-                    "ochange": -19,
-                    "time": 527704,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -20538,20 +20538,6 @@
                     "time": 544103,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780066293000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Starchomper",
-                    "elo": 1939,
-                    "change": -26,
-                    "oelo": 1815,
-                    "ochange": 26,
-                    "time": 637862,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -23616,22 +23602,36 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 11,
-                "elo": 2287,
+                "elo": 2299,
                 "top": 2342,
                 "points": 44,
                 "pb": 412328,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 476,
-                "playtime": 256065976,
-                "finished": 236,
-                "finishtime": 135607234,
-                "won": 263,
+                "matches": 477,
+                "playtime": 256629228,
+                "finished": 237,
+                "finishtime": 136170486,
+                "won": 264,
                 "lost": 197,
                 "forfeited": 48
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1784386616000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "poopiefart13",
+                    "elo": 2299,
+                    "change": 12,
+                    "oelo": 2040,
+                    "ochange": -12,
+                    "time": 563252,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784385899000,
                     "type": "VILLAGE",
@@ -26597,20 +26597,6 @@
                     "oelo": 2086,
                     "ochange": 20,
                     "time": 568427,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780066736000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2055,
-                    "change": 14,
-                    "oelo": 1868,
-                    "ochange": -14,
-                    "time": 541337,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -32407,22 +32393,36 @@
             "nickname": "retropog",
             "stats": {
                 "rank": 14,
-                "elo": 2264,
-                "top": 2267,
+                "elo": 2277,
+                "top": 2277,
                 "points": 34,
                 "pb": 405306,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 575,
-                "playtime": 325984561,
-                "finished": 271,
-                "finishtime": 158018933,
-                "won": 308,
+                "matches": 576,
+                "playtime": 326649563,
+                "finished": 272,
+                "finishtime": 158683935,
+                "won": 309,
                 "lost": 236,
                 "forfeited": 1
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1784386241000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "takachaaaaaaan",
+                    "elo": 2277,
+                    "change": 13,
+                    "oelo": 2037,
+                    "ochange": -13,
+                    "time": 665002,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784253245000,
                     "type": "DESERT_TEMPLE",
@@ -61208,20 +61208,6 @@
                     "time": 654422,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780066720000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "huhPrince",
-                    "elo": 1717,
-                    "change": 21,
-                    "oelo": 1692,
-                    "ochange": -21,
-                    "time": 605156,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66423,20 +66409,6 @@
                     "oelo": 1900,
                     "ochange": -22,
                     "time": 451463,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780066736000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1868,
-                    "change": -14,
-                    "oelo": 2055,
-                    "ochange": 14,
-                    "time": 541337,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86313,20 +86285,6 @@
                     "time": 720820,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780066666000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1838,
-                    "change": -13,
-                    "oelo": 2066,
-                    "ochange": 13,
-                    "time": 380667,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -101161,20 +101119,6 @@
                     "time": 544103,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780066317000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2015,
-                    "change": 13,
-                    "oelo": 1798,
-                    "ochange": -13,
-                    "time": 522159,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -104160,14 +104104,14 @@
             "nickname": "hack_page",
             "stats": {
                 "rank": 33,
-                "elo": 2152,
-                "top": 2152,
+                "elo": 2154,
+                "top": 2154,
                 "points": 6,
                 "pb": 441403,
                 "current": 4,
                 "streak": 9,
-                "matches": 220,
-                "playtime": 127209986,
+                "matches": 221,
+                "playtime": 127629556,
                 "finished": 107,
                 "finishtime": 66495242,
                 "won": 125,
@@ -104176,6 +104120,20 @@
             },
             "country": "be",
             "matches": [
+                {
+                    "date": 1784386450000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "romuxii",
+                    "elo": 2154,
+                    "change": 2,
+                    "oelo": 2334,
+                    "ochange": -2,
+                    "time": 419570,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784385447000,
                     "type": "SHIPWRECK",
@@ -112647,20 +112605,6 @@
                     "oelo": 1622,
                     "ochange": -15,
                     "time": 697260,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780066570000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1786,
-                    "change": -19,
-                    "oelo": 1840,
-                    "ochange": 19,
-                    "time": 527704,
                     "forfeited": false,
                     "decayed": false
                 }
