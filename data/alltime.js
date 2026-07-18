@@ -2407,11 +2407,11 @@
         },
         "pb": 478945,
         "streak": 10,
-        "matches": 3960,
-        "playtime": 2775157071,
+        "matches": 3961,
+        "playtime": 2775527626,
         "finished": 1466,
         "finishtime": 1132944892,
-        "won": 1978,
+        "won": 1979,
         "lost": 1811,
         "forfeited": 73
     },
@@ -5884,13 +5884,13 @@
         },
         "pb": 418768,
         "streak": 11,
-        "matches": 1937,
-        "playtime": 1181295202,
+        "matches": 1938,
+        "playtime": 1181845989,
         "finished": 836,
         "finishtime": 545740159,
         "won": 1038,
-        "lost": 825,
-        "forfeited": 150
+        "lost": 826,
+        "forfeited": 151
     },
     "dacf61a7b4f74f9cb83512d7f2fe88a9": {
         "nickname": "Birdeyyy",
@@ -6127,13 +6127,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9746,
-        "playtime": 5964681851,
+        "matches": 9747,
+        "playtime": 5965052406,
         "finished": 4258,
         "finishtime": 2845540158,
         "won": 5202,
-        "lost": 4395,
-        "forfeited": 1018
+        "lost": 4396,
+        "forfeited": 1019
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
