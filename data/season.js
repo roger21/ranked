@@ -1,5 +1,5 @@
 {
-    "date": 1784353801000,
+    "date": 1784354401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -121441,20 +121441,6 @@
                     "time": 525007,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780033840000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1789,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -136997,20 +136983,6 @@
                     "ochange": 13,
                     "time": 714017,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780034378000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "12BrainCells",
-                    "elo": 1811,
-                    "change": -1,
-                    "oelo": 1717,
-                    "ochange": 1,
-                    "time": 596255,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -166826,20 +166798,6 @@
                     "time": 531552,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780033878000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 2042,
-                    "change": -25,
-                    "oelo": 1940,
-                    "ochange": 25,
-                    "time": 561718,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -170645,7 +170603,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2088,
                 "top": 2115,
                 "points": 0,
@@ -178004,7 +177962,7 @@
             "uuid": "3d0359ab82024082a3204b0e5335674e",
             "nickname": "snowdeerjulie",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2088,
                 "top": 2088,
                 "points": 4,
@@ -181765,7 +181723,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2083,
                 "top": 2121,
                 "points": 6,
@@ -183650,7 +183608,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2083,
                 "top": 2130,
                 "points": 9,
