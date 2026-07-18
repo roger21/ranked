@@ -1,5 +1,5 @@
 {
-    "date": 1784374801000,
+    "date": 1784375401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66648,20 +66648,6 @@
                     "ochange": 15,
                     "time": 679287,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780055080000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1875,
-                    "change": -17,
-                    "oelo": 1990,
-                    "ochange": 17,
-                    "time": 772977,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
