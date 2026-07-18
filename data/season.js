@@ -1,5 +1,5 @@
 {
-    "date": 1784412601000,
+    "date": 1784413201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12218,20 +12218,6 @@
                     "time": 611389,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780092950000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2029,
-                    "change": -22,
-                    "oelo": 2016,
-                    "ochange": 22,
-                    "time": 642300,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -23853,20 +23839,6 @@
                     "oelo": 2008,
                     "ochange": 16,
                     "time": 608557,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780092806000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "madoosu",
-                    "elo": 1891,
-                    "change": 18,
-                    "oelo": 1813,
-                    "ochange": -18,
-                    "time": 622532,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -54890,20 +54862,6 @@
                     "time": 608557,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780092699000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 1992,
-                    "change": -20,
-                    "oelo": 2022,
-                    "ochange": 20,
-                    "time": 579518,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -54911,23 +54869,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 21,
-                "elo": 2238,
+                "rank": 22,
+                "elo": 2210,
                 "top": 2354,
                 "points": 61,
                 "pb": 342789,
-                "current": 1,
+                "current": 0,
                 "streak": 13,
-                "matches": 1318,
-                "playtime": 731513833,
+                "matches": 1319,
+                "playtime": 732150560,
                 "finished": 651,
                 "finishtime": 372885760,
                 "won": 718,
-                "lost": 571,
+                "lost": 572,
                 "forfeited": 70
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1784413216000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "dandannyboy",
+                    "elo": 2210,
+                    "change": -28,
+                    "oelo": 2029,
+                    "ochange": 28,
+                    "time": 636727,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784412289000,
                     "type": "BURIED_TREASURE",
@@ -63544,7 +63516,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 22,
+                "rank": 21,
                 "elo": 2226,
                 "top": 2290,
                 "points": 81,
@@ -174732,20 +174704,6 @@
                     "oelo": 1845,
                     "ochange": 19,
                     "time": 611088,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780093043000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ninananina",
-                    "elo": 1788,
-                    "change": -20,
-                    "oelo": 1839,
-                    "ochange": 20,
-                    "time": 807289,
                     "forfeited": false,
                     "decayed": false
                 }
