@@ -1,5 +1,5 @@
 {
-    "date": 1784376001000,
+    "date": 1784376601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24852,20 +24852,6 @@
                     "oelo": 1924,
                     "ochange": -17,
                     "time": 549882,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780056491000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 2023,
-                    "change": -21,
-                    "oelo": 2029,
-                    "ochange": 21,
-                    "time": 508989,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -66619,20 +66605,6 @@
                     "oelo": 1941,
                     "ochange": 18,
                     "time": 580955,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780056051000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 1860,
-                    "change": -15,
-                    "oelo": 2017,
-                    "ochange": 15,
-                    "time": 679287,
                     "forfeited": true,
                     "decayed": false
                 }
