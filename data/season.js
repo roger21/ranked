@@ -1,5 +1,5 @@
 {
-    "date": 1784371801000,
+    "date": 1784372401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66717,34 +66717,6 @@
                     "oelo": 1860,
                     "ochange": -22,
                     "time": 529329,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780052356000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "200kgdoogirl",
-                    "elo": 1829,
-                    "change": 17,
-                    "oelo": 1719,
-                    "ochange": -17,
-                    "time": 287188,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780051890000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 1812,
-                    "change": 17,
-                    "oelo": 1704,
-                    "ochange": -17,
-                    "time": 612170,
                     "forfeited": false,
                     "decayed": false
                 }
