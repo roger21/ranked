@@ -1,5 +1,5 @@
 {
-    "date": 1784418001000,
+    "date": 1784418601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12120,20 +12120,6 @@
                     "time": 589317,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780098437000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 2087,
-                    "change": -22,
-                    "oelo": 2082,
-                    "ochange": 22,
-                    "time": 566024,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -13934,20 +13920,6 @@
                     "ochange": -24,
                     "time": 608334,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780098134000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1843,
-                    "change": 20,
-                    "oelo": 1808,
-                    "ochange": -20,
-                    "time": 338944,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -97353,20 +97325,6 @@
                     "time": 432015,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780098437000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nhb_",
-                    "elo": 2082,
-                    "change": 22,
-                    "oelo": 2087,
-                    "ochange": -22,
-                    "time": 566024,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -113972,20 +113930,6 @@
                     "oelo": 2066,
                     "ochange": -21,
                     "time": 589317,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780098263000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 2061,
-                    "change": -20,
-                    "oelo": 2092,
-                    "ochange": 20,
-                    "time": 440160,
                     "forfeited": false,
                     "decayed": false
                 }
