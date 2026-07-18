@@ -1,5 +1,5 @@
 {
-    "date": 1784372401000,
+    "date": 1784373001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7305,20 +7305,6 @@
                     "time": 596413,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780052621000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2114,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -66705,20 +66691,6 @@
                     "time": 475307,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780052952000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1851,
-                    "change": 22,
-                    "oelo": 1860,
-                    "ochange": -22,
-                    "time": 529329,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -115691,7 +115663,7 @@
             "nickname": "nEmerald",
             "stats": {
                 "rank": 34,
-                "elo": 2150,
+                "elo": 2145,
                 "top": 2230,
                 "points": 36,
                 "pb": 400470,
@@ -115707,6 +115679,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1784372900000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2145,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784286498000,
                     "type": null,
