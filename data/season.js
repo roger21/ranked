@@ -1,5 +1,5 @@
 {
-    "date": 1784373001000,
+    "date": 1784373601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66675,20 +66675,6 @@
                     "oelo": 1965,
                     "ochange": -24,
                     "time": 560419,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780053550000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Bodek",
-                    "elo": 1868,
-                    "change": 17,
-                    "oelo": 1762,
-                    "ochange": -17,
-                    "time": 475307,
                     "forfeited": false,
                     "decayed": false
                 }
