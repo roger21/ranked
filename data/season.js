@@ -1,5 +1,5 @@
 {
-    "date": 1784479201000,
+    "date": 1784479801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -85942,20 +85942,6 @@
                     "oelo": 1708,
                     "ochange": -13,
                     "time": 686101,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780159262000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "GakkGakk_",
-                    "elo": 1916,
-                    "change": 12,
-                    "oelo": 1653,
-                    "ochange": -12,
-                    "time": 684467,
                     "forfeited": false,
                     "decayed": false
                 }
