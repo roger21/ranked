@@ -1,5 +1,5 @@
 {
-    "date": 1784425801000,
+    "date": 1784426401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7177,20 +7177,6 @@
                     "oelo": 2104,
                     "ochange": 21,
                     "time": 572291,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780106026000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "cbirrd",
-                    "elo": 2101,
-                    "change": -29,
-                    "oelo": 1901,
-                    "ochange": 29,
-                    "time": 495107,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -108482,20 +108468,6 @@
                     "time": 572291,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780105941000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "YoomzMonkey",
-                    "elo": 2083,
-                    "change": 21,
-                    "oelo": 2072,
-                    "ochange": -21,
-                    "time": 566255,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135344,20 +135316,6 @@
                     "oelo": 1827,
                     "ochange": -18,
                     "time": 712984,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780106026000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 1901,
-                    "change": 29,
-                    "oelo": 2101,
-                    "ochange": -29,
-                    "time": 495107,
                     "forfeited": false,
                     "decayed": false
                 }
