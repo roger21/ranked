@@ -1,5 +1,5 @@
 {
-    "date": 1784475002000,
+    "date": 1784475601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -160577,20 +160577,6 @@
                     "time": 588642,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780155321000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Lathilla",
-                    "elo": 1786,
-                    "change": -20,
-                    "oelo": 1819,
-                    "ochange": 20,
-                    "time": 359163,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -173642,20 +173628,6 @@
                     "ochange": -17,
                     "time": 337103,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780155064000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "4antoo",
-                    "elo": 1728,
-                    "change": -22,
-                    "oelo": 1705,
-                    "ochange": 22,
-                    "time": 614657,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
