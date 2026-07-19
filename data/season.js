@@ -1,5 +1,5 @@
 {
-    "date": 1784439001000,
+    "date": 1784439602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7093,20 +7093,6 @@
                     "oelo": 2129,
                     "ochange": 18,
                     "time": 523864,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780119409000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2054,
-                    "change": -18,
-                    "oelo": 2151,
-                    "ochange": 18,
-                    "time": 623248,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -58061,20 +58047,6 @@
                     "oelo": 2086,
                     "ochange": 23,
                     "time": 1019148,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780119409000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2151,
-                    "change": 18,
-                    "oelo": 2054,
-                    "ochange": -18,
-                    "time": 623248,
                     "forfeited": false,
                     "decayed": false
                 }
