@@ -1,5 +1,5 @@
 {
-    "date": 1784465401000,
+    "date": 1784466001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76374,20 +76374,6 @@
                     "time": 650118,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780145525000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1879,
-                    "change": -19,
-                    "oelo": 1931,
-                    "ochange": 19,
-                    "time": 558690,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -89227,20 +89213,6 @@
                     "oelo": 1684,
                     "ochange": -12,
                     "time": 553590,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780145525000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1931,
-                    "change": 19,
-                    "oelo": 1879,
-                    "ochange": -19,
-                    "time": 558690,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -152411,20 +152383,6 @@
                     "time": 650118,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780145501000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1852,
-                    "change": -21,
-                    "oelo": 1859,
-                    "ochange": 21,
-                    "time": 520063,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -152432,7 +152390,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2106,
                 "top": 2197,
                 "points": 6,
@@ -158419,7 +158377,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2104,
                 "top": 2104,
                 "points": 8,
@@ -164630,23 +164588,37 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 46,
-                "elo": 2098,
+                "rank": 43,
+                "elo": 2111,
                 "top": 2139,
                 "points": 6,
                 "pb": 450544,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 417,
-                "playtime": 258859493,
-                "finished": 175,
-                "finishtime": 109685024,
-                "won": 208,
+                "matches": 418,
+                "playtime": 259421045,
+                "finished": 176,
+                "finishtime": 110246576,
+                "won": 209,
                 "lost": 180,
                 "forfeited": 3
             },
             "country": "nl",
             "matches": [
+                {
+                    "date": 1784466065000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "CookieAddicts",
+                    "elo": 2111,
+                    "change": 13,
+                    "oelo": 1894,
+                    "ochange": -13,
+                    "time": 561552,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784465361000,
                     "type": "RUINED_PORTAL",
