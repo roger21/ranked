@@ -1,5 +1,5 @@
 {
-    "date": 1784453401000,
+    "date": 1784454001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76471,20 +76471,6 @@
                     "ochange": 27,
                     "time": 659201,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780133485000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1875,
-                    "change": -21,
-                    "oelo": 1902,
-                    "ochange": 21,
-                    "time": 211144,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -178111,20 +178097,6 @@
                     "oelo": 1623,
                     "ochange": 25,
                     "time": 671665,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780133959000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1743,
-                    "change": -16,
-                    "oelo": 1877,
-                    "ochange": 16,
-                    "time": 645100,
                     "forfeited": false,
                     "decayed": false
                 }
