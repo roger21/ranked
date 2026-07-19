@@ -1,5 +1,5 @@
 {
-    "date": 1784423401000,
+    "date": 1784424001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7233,20 +7233,6 @@
                     "oelo": 2113,
                     "ochange": 21,
                     "time": 585019,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780103811000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 2112,
-                    "change": 22,
-                    "oelo": 2115,
-                    "ochange": -22,
-                    "time": 566099,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -18473,20 +18459,6 @@
                     "oelo": 2094,
                     "ochange": -21,
                     "time": 595940,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780103875000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 2100,
-                    "change": -22,
-                    "oelo": 2082,
-                    "ochange": 22,
-                    "time": 670144,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -108594,20 +108566,6 @@
                     "time": 552489,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780103875000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "steez",
-                    "elo": 2082,
-                    "change": 22,
-                    "oelo": 2100,
-                    "ochange": -22,
-                    "time": 670144,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -113664,20 +113622,6 @@
                     "oelo": 2121,
                     "ochange": 21,
                     "time": 595940,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780103811000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 2115,
-                    "change": -22,
-                    "oelo": 2112,
-                    "ochange": 22,
-                    "time": 566099,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135540,20 +135484,6 @@
                     "oelo": 1802,
                     "ochange": -19,
                     "time": 637422,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780103797000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1837,
-                    "change": 22,
-                    "oelo": 1849,
-                    "ochange": -22,
-                    "time": 915854,
                     "forfeited": false,
                     "decayed": false
                 }
