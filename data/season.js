@@ -1,5 +1,5 @@
 {
-    "date": 1784450401000,
+    "date": 1784451001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -83247,20 +83247,6 @@
                     "time": 565776,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780130525000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 2149,
-                    "change": 20,
-                    "oelo": 2103,
-                    "ochange": -20,
-                    "time": 468475,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155302,20 +155288,6 @@
                     "oelo": 1860,
                     "ochange": 20,
                     "time": 503449,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780130969000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "IBringSuffering",
-                    "elo": 1833,
-                    "change": 20,
-                    "oelo": 1789,
-                    "ochange": -20,
-                    "time": 698370,
                     "forfeited": false,
                     "decayed": false
                 }
