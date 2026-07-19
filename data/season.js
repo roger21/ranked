@@ -1,5 +1,5 @@
 {
-    "date": 1784478001000,
+    "date": 1784478601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -85956,20 +85956,6 @@
                     "oelo": 1653,
                     "ochange": -12,
                     "time": 684467,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780158163000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "WumbusZero",
-                    "elo": 1904,
-                    "change": -23,
-                    "oelo": 1856,
-                    "ochange": 23,
-                    "time": 705558,
                     "forfeited": false,
                     "decayed": false
                 }
