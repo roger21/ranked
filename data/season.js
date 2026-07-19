@@ -1,5 +1,5 @@
 {
-    "date": 1784443801000,
+    "date": 1784444401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -83415,20 +83415,6 @@
                     "time": 488465,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780123878000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SammmyG",
-                    "elo": 2155,
-                    "change": 18,
-                    "oelo": 2072,
-                    "ochange": -18,
-                    "time": 558802,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97281,20 +97267,6 @@
                     "oelo": 2009,
                     "ochange": -17,
                     "time": 490536,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780124130000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 2097,
-                    "change": 23,
-                    "oelo": 2123,
-                    "ochange": -23,
-                    "time": 545809,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -152810,20 +152782,6 @@
                     "oelo": 1691,
                     "ochange": 23,
                     "time": 525785,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780123933000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1765,
-                    "change": -15,
-                    "oelo": 1947,
-                    "ochange": 15,
-                    "time": 746647,
                     "forfeited": false,
                     "decayed": false
                 }
