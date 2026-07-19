@@ -1,5 +1,5 @@
 {
-    "date": 1784472601000,
+    "date": 1784473201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -86098,20 +86098,6 @@
                     "time": 571799,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780152803000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1947,
-                    "change": 14,
-                    "oelo": 1735,
-                    "ochange": -14,
-                    "time": 515467,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -154798,20 +154784,6 @@
                     "oelo": 1978,
                     "ochange": 15,
                     "time": 542719,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780152685000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ranik_",
-                    "elo": 1837,
-                    "change": 19,
-                    "oelo": 1778,
-                    "ochange": -19,
-                    "time": 580036,
                     "forfeited": false,
                     "decayed": false
                 }
