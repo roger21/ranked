@@ -1,5 +1,5 @@
 {
-    "date": 1784457001000,
+    "date": 1784457601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76429,20 +76429,6 @@
                     "ochange": 2,
                     "time": 422095,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780137027000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1858,
-                    "change": 20,
-                    "oelo": 1828,
-                    "ochange": -20,
-                    "time": 495564,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -178028,20 +178014,6 @@
                     "ochange": -2,
                     "time": 422095,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780137049000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1709,
-                    "change": -20,
-                    "oelo": 1761,
-                    "ochange": 20,
-                    "time": 601524,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
