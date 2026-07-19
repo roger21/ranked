@@ -1,5 +1,5 @@
 {
-    "date": 1784421601000,
+    "date": 1784422201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108678,20 +108678,6 @@
                     "time": 529817,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780101871000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 2056,
-                    "change": 12,
-                    "oelo": 1790,
-                    "ochange": -12,
-                    "time": 210113,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -113790,20 +113776,6 @@
                     "oelo": 2037,
                     "ochange": -19,
                     "time": 529817,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780101806000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2097,
-                    "change": 13,
-                    "oelo": 1857,
-                    "ochange": -13,
-                    "time": 673934,
                     "forfeited": false,
                     "decayed": false
                 }
