@@ -1,5 +1,5 @@
 {
-    "date": 1784455201000,
+    "date": 1784455801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45398,7 +45398,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 17,
-                "elo": 2250,
+                "elo": 2245,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -45414,6 +45414,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784455762000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2245,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784369360000,
                     "type": null,
@@ -46428,7 +46442,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 18,
+                "rank": 17,
                 "elo": 2245,
                 "top": 2245,
                 "points": 78,
@@ -76443,20 +76457,6 @@
                     "ochange": 25,
                     "time": 421824,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780135494000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1863,
-                    "change": 15,
-                    "oelo": 1703,
-                    "ochange": -15,
-                    "time": 540430,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -139101,7 +139101,7 @@
             "nickname": "loodlow",
             "stats": {
                 "rank": 42,
-                "elo": 2125,
+                "elo": 2120,
                 "top": 2133,
                 "points": 7,
                 "pb": 387671,
@@ -139117,6 +139117,20 @@
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1784455702000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2120,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784369300000,
                     "type": null,
@@ -141391,7 +141405,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2120,
                 "top": 2207,
                 "points": 31,
@@ -178055,20 +178069,6 @@
                     "oelo": 1848,
                     "ochange": -26,
                     "time": 674060,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780135494000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1703,
-                    "change": -15,
-                    "oelo": 1863,
-                    "ochange": 15,
-                    "time": 540430,
                     "forfeited": false,
                     "decayed": false
                 }
