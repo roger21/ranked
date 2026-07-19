@@ -1,5 +1,5 @@
 {
-    "date": 1784442002000,
+    "date": 1784442601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -152852,20 +152852,6 @@
                     "oelo": 1715,
                     "ochange": -19,
                     "time": 615812,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780122194000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "karatebaby_",
-                    "elo": 1761,
-                    "change": -17,
-                    "oelo": 1874,
-                    "ochange": 17,
-                    "time": 462936,
                     "forfeited": false,
                     "decayed": false
                 }
