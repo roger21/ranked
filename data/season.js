@@ -1,5 +1,5 @@
 {
-    "date": 1784458201000,
+    "date": 1784458801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76400,20 +76400,6 @@
                     "oelo": 1737,
                     "ochange": -17,
                     "time": 560144,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780138332000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "pardonmc",
-                    "elo": 1839,
-                    "change": -17,
-                    "oelo": 1968,
-                    "ochange": 17,
-                    "time": 606726,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -177971,20 +177957,6 @@
                     "oelo": 1608,
                     "ochange": -17,
                     "time": 774488,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780138457000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1696,
-                    "change": -15,
-                    "oelo": 1861,
-                    "ochange": 15,
-                    "time": 593213,
                     "forfeited": false,
                     "decayed": false
                 }
