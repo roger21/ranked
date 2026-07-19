@@ -1,5 +1,5 @@
 {
-    "date": 1784486401000,
+    "date": 1784487001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18221,20 +18221,6 @@
                     "oelo": 1955,
                     "ochange": -13,
                     "time": 598041,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780166910000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 2170,
-                    "change": 15,
-                    "oelo": 1994,
-                    "ochange": -15,
-                    "time": 601856,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -37105,20 +37091,6 @@
                     "oelo": 1600,
                     "ochange": -18,
                     "time": 591443,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780166685000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "stapl3r_",
-                    "elo": 1678,
-                    "change": 21,
-                    "oelo": 1670,
-                    "ochange": -21,
-                    "time": 579196,
                     "forfeited": false,
                     "decayed": false
                 }
