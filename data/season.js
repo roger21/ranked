@@ -1,5 +1,5 @@
 {
-    "date": 1784441401000,
+    "date": 1784442002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -86287,8 +86287,8 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 26,
-                "elo": 2195,
+                "rank": 29,
+                "elo": 2190,
                 "top": 2249,
                 "points": 41,
                 "pb": 399797,
@@ -86304,6 +86304,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1784441602000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2190,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784355199000,
                     "type": null,
@@ -152852,20 +152866,6 @@
                     "oelo": 1874,
                     "ochange": 17,
                     "time": 462936,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780121589000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "wotez",
-                    "elo": 1778,
-                    "change": 20,
-                    "oelo": 1738,
-                    "ochange": -20,
-                    "time": 600308,
                     "forfeited": false,
                     "decayed": false
                 }
