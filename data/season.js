@@ -1,5 +1,5 @@
 {
-    "date": 1784454601000,
+    "date": 1784455201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -178069,20 +178069,6 @@
                     "oelo": 1863,
                     "ochange": 15,
                     "time": 540430,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780134819000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "12BrainCells",
-                    "elo": 1718,
-                    "change": -25,
-                    "oelo": 1623,
-                    "ochange": 25,
-                    "time": 671665,
                     "forfeited": false,
                     "decayed": false
                 }
