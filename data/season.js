@@ -1,5 +1,5 @@
 {
-    "date": 1784451001000,
+    "date": 1784451601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76514,20 +76514,6 @@
                     "time": 602066,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780131227000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1899,
-                    "change": -12,
-                    "oelo": 2161,
-                    "ochange": 12,
-                    "time": 565776,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -83231,20 +83217,6 @@
                     "oelo": 1964,
                     "ochange": -14,
                     "time": 267327,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780131227000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2161,
-                    "change": 12,
-                    "oelo": 1899,
-                    "ochange": -12,
-                    "time": 565776,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -155274,20 +155246,6 @@
                     "oelo": 1876,
                     "ochange": -23,
                     "time": 602066,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780131520000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "tookannn",
-                    "elo": 1813,
-                    "change": -20,
-                    "oelo": 1860,
-                    "ochange": 20,
-                    "time": 503449,
                     "forfeited": false,
                     "decayed": false
                 }
