@@ -1,5 +1,5 @@
 {
-    "date": 1784461201000,
+    "date": 1784461801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -83065,20 +83065,6 @@
                     "time": 587001,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780141794000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 2190,
-                    "change": 15,
-                    "oelo": 2009,
-                    "ochange": -15,
-                    "time": 692434,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -161094,20 +161080,6 @@
                     "ochange": 22,
                     "time": 769879,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780141526000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "MinetofuCraft",
-                    "elo": 1847,
-                    "change": 14,
-                    "oelo": 1646,
-                    "ochange": -14,
-                    "time": 363953,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
