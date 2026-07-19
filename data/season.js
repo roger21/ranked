@@ -1,5 +1,5 @@
 {
-    "date": 1784479801000,
+    "date": 1784480401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -85930,20 +85930,6 @@
                     "time": 762995,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780160165000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "smeks",
-                    "elo": 1929,
-                    "change": 13,
-                    "oelo": 1708,
-                    "ochange": -13,
-                    "time": 686101,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -160463,20 +160449,6 @@
                     "oelo": 1691,
                     "ochange": -17,
                     "time": 519240,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780159924000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "OGMineman",
-                    "elo": 1782,
-                    "change": -20,
-                    "oelo": 1810,
-                    "ochange": 20,
-                    "time": 556673,
                     "forfeited": false,
                     "decayed": false
                 }
