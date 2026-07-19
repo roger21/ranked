@@ -1,5 +1,5 @@
 {
-    "date": 1784493601000,
+    "date": 1784494201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7066,20 +7066,6 @@
                     "ochange": -12,
                     "time": 339963,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780174059000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 2019,
-                    "change": -17,
-                    "oelo": 2128,
-                    "ochange": 17,
-                    "time": 623307,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -36895,20 +36881,6 @@
                     "oelo": 1840,
                     "ochange": 18,
                     "time": 599075,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780173885000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "wagapizu",
-                    "elo": 1764,
-                    "change": 22,
-                    "oelo": 1783,
-                    "ochange": -22,
-                    "time": 543632,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -123454,20 +123426,6 @@
                     "oelo": 1960,
                     "ochange": -15,
                     "time": 586805,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780174059000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2128,
-                    "change": 17,
-                    "oelo": 2019,
-                    "ochange": -17,
-                    "time": 623307,
                     "forfeited": false,
                     "decayed": false
                 }
