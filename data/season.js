@@ -1,5 +1,5 @@
 {
-    "date": 1784426401000,
+    "date": 1784427001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7164,20 +7164,6 @@
                     "ochange": -20,
                     "time": 495754,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780106642000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 2080,
-                    "change": -21,
-                    "oelo": 2104,
-                    "ochange": 21,
-                    "time": 572291,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -108452,20 +108438,6 @@
                     "oelo": 2148,
                     "ochange": 19,
                     "time": 538169,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780106642000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2104,
-                    "change": 21,
-                    "oelo": 2080,
-                    "ochange": -21,
-                    "time": 572291,
                     "forfeited": false,
                     "decayed": false
                 }
