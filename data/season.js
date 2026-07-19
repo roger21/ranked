@@ -1,5 +1,5 @@
 {
-    "date": 1784481601000,
+    "date": 1784482201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96422,7 +96422,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2165,
                 "top": 2256,
                 "points": 47,
@@ -99119,7 +99119,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2160,
                 "top": 2346,
                 "points": 20,
@@ -103496,7 +103496,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2158,
                 "top": 2189,
                 "points": 0,
@@ -107579,23 +107579,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 35,
-                "elo": 2151,
+                "rank": 32,
+                "elo": 2166,
                 "top": 2354,
                 "points": 61,
                 "pb": 342789,
-                "current": 1,
+                "current": 2,
                 "streak": 13,
-                "matches": 1323,
-                "playtime": 734759667,
-                "finished": 652,
-                "finishtime": 373585658,
-                "won": 719,
+                "matches": 1324,
+                "playtime": 735254703,
+                "finished": 653,
+                "finishtime": 374080694,
+                "won": 720,
                 "lost": 575,
                 "forfeited": 71
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1784482207000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "BinEin",
+                    "elo": 2166,
+                    "change": 15,
+                    "oelo": 1981,
+                    "ochange": -15,
+                    "time": 495036,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784481272000,
                     "type": "VILLAGE",
@@ -160365,20 +160379,6 @@
                     "oelo": 1924,
                     "ochange": 16,
                     "time": 396634,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780161904000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 1785,
-                    "change": -14,
-                    "oelo": 1996,
-                    "ochange": 14,
-                    "time": 336254,
                     "forfeited": true,
                     "decayed": false
                 }
