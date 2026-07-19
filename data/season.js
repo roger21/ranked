@@ -1,5 +1,5 @@
 {
-    "date": 1784434801000,
+    "date": 1784435401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7135,20 +7135,6 @@
                     "oelo": 1840,
                     "ochange": -12,
                     "time": 536003,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780115343000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 2079,
-                    "change": -21,
-                    "oelo": 2094,
-                    "ochange": 21,
-                    "time": 570021,
                     "forfeited": false,
                     "decayed": false
                 }
