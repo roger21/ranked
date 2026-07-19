@@ -1,5 +1,5 @@
 {
-    "date": 1784444401000,
+    "date": 1784445001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -83401,20 +83401,6 @@
                     "time": 529318,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780124525000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 2168,
-                    "change": 13,
-                    "oelo": 1934,
-                    "ochange": -13,
-                    "time": 488465,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -152769,20 +152755,6 @@
                     "ochange": 1,
                     "time": 515261,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780124530000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 1742,
-                    "change": -23,
-                    "oelo": 1691,
-                    "ochange": 23,
-                    "time": 525785,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
