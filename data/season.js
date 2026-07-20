@@ -1,5 +1,5 @@
 {
-    "date": 1784529601000,
+    "date": 1784530201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -130071,20 +130071,6 @@
                     "oelo": 1623,
                     "ochange": 21,
                     "time": 508920,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780209976000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Vekp",
-                    "elo": 1632,
-                    "change": -20,
-                    "oelo": 1674,
-                    "ochange": 20,
-                    "time": 626265,
                     "forfeited": false,
                     "decayed": false
                 }
