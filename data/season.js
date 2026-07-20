@@ -1,5 +1,5 @@
 {
-    "date": 1784545801000,
+    "date": 1784546401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34101,20 +34101,6 @@
                     "oelo": 1885,
                     "ochange": -21,
                     "time": 650753,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780226327000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "VojtaH007",
-                    "elo": 1872,
-                    "change": -25,
-                    "oelo": 1794,
-                    "ochange": 25,
-                    "time": 821398,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -161449,20 +161435,6 @@
                     "ochange": -22,
                     "time": 503946,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780226245000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "litdab",
-                    "elo": 1750,
-                    "change": -19,
-                    "oelo": 1824,
-                    "ochange": 19,
-                    "time": 480302,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
