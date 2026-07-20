@@ -1,5 +1,5 @@
 {
-    "date": 1784562601000,
+    "date": 1784563201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -20344,7 +20344,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 10,
+                "rank": 9,
                 "elo": 2311,
                 "top": 2311,
                 "points": 8,
@@ -32939,7 +32939,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 10,
+                "rank": 9,
                 "elo": 2311,
                 "top": 2311,
                 "points": 0,
@@ -35223,20 +35223,6 @@
                     "time": 432680,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780242693000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Lathilla",
-                    "elo": 1883,
-                    "change": -23,
-                    "oelo": 1832,
-                    "ochange": 23,
-                    "time": 509390,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -35244,7 +35230,7 @@
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 12,
+                "rank": 11,
                 "elo": 2305,
                 "top": 2341,
                 "points": 88,
@@ -36793,7 +36779,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 13,
+                "rank": 12,
                 "elo": 2303,
                 "top": 2303,
                 "points": 28,
@@ -119647,20 +119633,6 @@
                     "oelo": 1894,
                     "ochange": 24,
                     "time": 534032,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780243078000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1987,
-                    "change": 20,
-                    "oelo": 1938,
-                    "ochange": -20,
-                    "time": 611219,
                     "forfeited": false,
                     "decayed": false
                 }
