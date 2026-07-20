@@ -1,5 +1,5 @@
 {
-    "date": 1784533801000,
+    "date": 1784534401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -113207,7 +113207,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2148,
                 "top": 2148,
                 "points": 7,
@@ -115512,7 +115512,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2141,
                 "top": 2177,
                 "points": 24,
@@ -116417,7 +116417,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2140,
                 "top": 2230,
                 "points": 36,
@@ -120514,7 +120514,7 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2139,
                 "top": 2139,
                 "points": 6,
@@ -123267,23 +123267,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 39,
-                "elo": 2138,
+                "rank": 35,
+                "elo": 2154,
                 "top": 2207,
                 "points": 31,
                 "pb": 392259,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 608,
-                "playtime": 335662255,
-                "finished": 294,
-                "finishtime": 171339745,
-                "won": 327,
+                "matches": 609,
+                "playtime": 336270166,
+                "finished": 295,
+                "finishtime": 171947656,
+                "won": 328,
                 "lost": 262,
                 "forfeited": 52
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1784534440000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "huhPrince",
+                    "elo": 2154,
+                    "change": 16,
+                    "oelo": 2016,
+                    "ochange": -16,
+                    "time": 607911,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784533695000,
                     "type": "DESERT_TEMPLE",
@@ -155784,20 +155798,6 @@
                     "ochange": 21,
                     "time": 216687,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780214271000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 1836,
-                    "change": -19,
-                    "oelo": 1893,
-                    "ochange": 19,
-                    "time": 571311,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
