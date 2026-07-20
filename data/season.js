@@ -1,5 +1,5 @@
 {
-    "date": 1784527201000,
+    "date": 1784527801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -130071,20 +130071,6 @@
                     "oelo": 1674,
                     "ochange": 20,
                     "time": 626265,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780207488000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 1652,
-                    "change": -13,
-                    "oelo": 1868,
-                    "ochange": 13,
-                    "time": 649749,
                     "forfeited": false,
                     "decayed": false
                 }
