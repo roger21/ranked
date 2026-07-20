@@ -1,5 +1,5 @@
 {
-    "date": 1784549401000,
+    "date": 1784550001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34033,20 +34033,6 @@
                     "time": 609771,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780229819000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1887,
-                    "change": -18,
-                    "oelo": 1979,
-                    "ochange": 18,
-                    "time": 486059,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47082,20 +47068,6 @@
                     "oelo": 1875,
                     "ochange": -17,
                     "time": 571186,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780229819000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 1979,
-                    "change": 18,
-                    "oelo": 1887,
-                    "ochange": -18,
-                    "time": 486059,
                     "forfeited": false,
                     "decayed": false
                 }
