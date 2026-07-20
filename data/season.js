@@ -1,5 +1,5 @@
 {
-    "date": 1784547001000,
+    "date": 1784547601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34089,20 +34089,6 @@
                     "time": 313847,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780227319000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1893,
-                    "change": 21,
-                    "oelo": 1885,
-                    "ochange": -21,
-                    "time": 650753,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -46051,20 +46037,6 @@
                     "oelo": 1800,
                     "ochange": 27,
                     "time": 564845,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780227295000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1976,
-                    "change": 21,
-                    "oelo": 1968,
-                    "ochange": -21,
-                    "time": 626430,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -161406,20 +161378,6 @@
                     "oelo": 1679,
                     "ochange": 24,
                     "time": 623944,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780227012000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "VojtaH007",
-                    "elo": 1772,
-                    "change": 22,
-                    "oelo": 1772,
-                    "ochange": -22,
-                    "time": 503946,
                     "forfeited": false,
                     "decayed": false
                 }
