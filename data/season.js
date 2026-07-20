@@ -1,5 +1,5 @@
 {
-    "date": 1784544602000,
+    "date": 1784545201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46107,20 +46107,6 @@
                     "oelo": 1786,
                     "ochange": -16,
                     "time": 462101,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780224915000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1925,
-                    "change": 23,
-                    "oelo": 1971,
-                    "ochange": -23,
-                    "time": 502358,
                     "forfeited": false,
                     "decayed": false
                 }
