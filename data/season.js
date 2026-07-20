@@ -1,5 +1,5 @@
 {
-    "date": 1784543401000,
+    "date": 1784544001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46136,20 +46136,6 @@
                     "ochange": -19,
                     "time": 531016,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780223761000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1883,
-                    "change": 17,
-                    "oelo": 1772,
-                    "ochange": -17,
-                    "time": 644474,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -155686,20 +155672,6 @@
                     "ochange": -18,
                     "time": 634736,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780223761000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1772,
-                    "change": -17,
-                    "oelo": 1883,
-                    "ochange": 17,
-                    "time": 644474,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
