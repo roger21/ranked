@@ -1,5 +1,5 @@
 {
-    "date": 1784546401000,
+    "date": 1784547001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46065,20 +46065,6 @@
                     "oelo": 1968,
                     "ochange": -21,
                     "time": 626430,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780226437000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1955,
-                    "change": 14,
-                    "oelo": 1759,
-                    "ochange": -14,
-                    "time": 824424,
                     "forfeited": false,
                     "decayed": false
                 }
