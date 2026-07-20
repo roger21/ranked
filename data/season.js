@@ -1,5 +1,5 @@
 {
-    "date": 1784523601000,
+    "date": 1784524201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -146408,20 +146408,6 @@
                     "oelo": 1901,
                     "ochange": 14,
                     "time": 466306,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780203698000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1727,
-                    "change": 23,
-                    "oelo": 1765,
-                    "ochange": -23,
-                    "time": 603699,
                     "forfeited": false,
                     "decayed": false
                 }
