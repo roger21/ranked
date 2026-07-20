@@ -1,5 +1,5 @@
 {
-    "date": 1784541001000,
+    "date": 1784541601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115830,20 +115830,6 @@
                     "oelo": 1633,
                     "ochange": -20,
                     "time": 578488,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780221475000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "emunn",
-                    "elo": 1654,
-                    "change": 20,
-                    "oelo": 1607,
-                    "ochange": -20,
-                    "time": 622307,
                     "forfeited": false,
                     "decayed": false
                 }
