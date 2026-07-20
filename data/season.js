@@ -1,5 +1,5 @@
 {
-    "date": 1784541601000,
+    "date": 1784542201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52967,7 +52967,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 18,
-                "elo": 2245,
+                "elo": 2240,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -52983,6 +52983,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784542163000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2240,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784455762000,
                     "type": null,
@@ -115818,20 +115832,6 @@
                     "time": 548435,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780222116000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Rrcks51",
-                    "elo": 1674,
-                    "change": 20,
-                    "oelo": 1633,
-                    "ochange": -20,
-                    "time": 578488,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155727,20 +155727,6 @@
                     "oelo": 1928,
                     "ochange": 16,
                     "time": 530119,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780222107000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "VojtaH007",
-                    "elo": 1805,
-                    "change": 23,
-                    "oelo": 1828,
-                    "ochange": -23,
-                    "time": 458454,
                     "forfeited": false,
                     "decayed": false
                 }
