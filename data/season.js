@@ -1,5 +1,5 @@
 {
-    "date": 1784539801000,
+    "date": 1784540401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -155783,20 +155783,6 @@
                     "oelo": 1797,
                     "ochange": 0,
                     "time": 465593,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780220220000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "splittyPL",
-                    "elo": 1782,
-                    "change": -25,
-                    "oelo": 1706,
-                    "ochange": 25,
-                    "time": 404824,
                     "forfeited": true,
                     "decayed": false
                 }
