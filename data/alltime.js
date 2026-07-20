@@ -174,12 +174,12 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 8379,
-        "playtime": 5767398534,
+        "matches": 8380,
+        "playtime": 5768045171,
         "finished": 2793,
         "finishtime": 2071265834,
         "won": 4026,
-        "lost": 3791,
+        "lost": 3792,
         "forfeited": 294
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -1746,13 +1746,13 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 2019,
-        "playtime": 1191115976,
+        "matches": 2020,
+        "playtime": 1191483858,
         "finished": 859,
         "finishtime": 581768881,
         "won": 1085,
-        "lost": 879,
-        "forfeited": 404
+        "lost": 880,
+        "forfeited": 405
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okshey",
@@ -3143,11 +3143,11 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 11474,
-        "playtime": 6276830136,
+        "matches": 11475,
+        "playtime": 6277198018,
         "finished": 3924,
         "finishtime": 2361493516,
-        "won": 5276,
+        "won": 5277,
         "lost": 5061,
         "forfeited": 2711
     },
