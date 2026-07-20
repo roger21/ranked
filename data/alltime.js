@@ -1746,13 +1746,13 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 2021,
-        "playtime": 1191918861,
+        "matches": 2022,
+        "playtime": 1192241736,
         "finished": 859,
         "finishtime": 581768881,
         "won": 1085,
-        "lost": 881,
-        "forfeited": 406
+        "lost": 882,
+        "forfeited": 407
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okshey",
@@ -2814,12 +2814,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7584,
-        "playtime": 4847900127,
+        "matches": 7585,
+        "playtime": 4848553295,
         "finished": 2726,
         "finishtime": 1978041774,
         "won": 3828,
-        "lost": 3442,
+        "lost": 3443,
         "forfeited": 825
     },
     "736dbdc44a3e452fa489f5344565835e": {
