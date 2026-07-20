@@ -1,5 +1,5 @@
 {
-    "date": 1784547601000,
+    "date": 1784548201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34074,20 +34074,6 @@
                     "ochange": -13,
                     "time": 601818,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780227793000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1876,
-                    "change": -17,
-                    "oelo": 1985,
-                    "ochange": 17,
-                    "time": 313847,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -161364,20 +161350,6 @@
                     "oelo": 1841,
                     "ochange": -24,
                     "time": 542256,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780227723000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1748,
-                    "change": -24,
-                    "oelo": 1679,
-                    "ochange": 24,
-                    "time": 623944,
                     "forfeited": false,
                     "decayed": false
                 }
