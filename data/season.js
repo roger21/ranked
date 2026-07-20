@@ -1,5 +1,5 @@
 {
-    "date": 1784554801000,
+    "date": 1784555401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -33935,20 +33935,6 @@
                     "time": 594933,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780234834000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1907,
-                    "change": -17,
-                    "oelo": 2011,
-                    "ochange": 17,
-                    "time": 583901,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -57735,20 +57721,6 @@
                     "oelo": 1826,
                     "ochange": -14,
                     "time": 550749,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780234834000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 2011,
-                    "change": 17,
-                    "oelo": 1907,
-                    "ochange": -17,
-                    "time": 583901,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -90954,20 +90926,6 @@
                     "oelo": 2052,
                     "ochange": 27,
                     "time": 618291,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780235339000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2233,
-                    "change": 11,
-                    "oelo": 1950,
-                    "ochange": -11,
-                    "time": 540694,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -132220,20 +132178,6 @@
                     "time": 848619,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780235093000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "gharfyy",
-                    "elo": 1759,
-                    "change": 26,
-                    "oelo": 1865,
-                    "ochange": -26,
-                    "time": 683329,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -148174,20 +148118,6 @@
                     "time": 433497,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780235339000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1950,
-                    "change": -11,
-                    "oelo": 2233,
-                    "ochange": 11,
-                    "time": 540694,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -161448,20 +161378,6 @@
                     "oelo": 1925,
                     "ochange": -25,
                     "time": 433497,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780235128000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "tookannn",
-                    "elo": 1812,
-                    "change": 22,
-                    "oelo": 1827,
-                    "ochange": -22,
-                    "time": 665467,
                     "forfeited": false,
                     "decayed": false
                 }
