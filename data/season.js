@@ -1,5 +1,5 @@
 {
-    "date": 1784542201000,
+    "date": 1784542801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46150,20 +46150,6 @@
                     "ochange": -17,
                     "time": 644474,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780222600000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "xForexer",
-                    "elo": 1866,
-                    "change": 13,
-                    "oelo": 1650,
-                    "ochange": -13,
-                    "time": 582398,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
