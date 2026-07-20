@@ -1,27 +1,41 @@
 {
-    "date": 1784560201000,
+    "date": 1784560801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2580,
-                "top": 2580,
+                "elo": 2588,
+                "top": 2588,
                 "points": 135,
                 "pb": 353371,
-                "current": 5,
+                "current": 6,
                 "streak": 16,
-                "matches": 353,
-                "playtime": 187969251,
-                "finished": 252,
-                "finishtime": 136707649,
-                "won": 276,
+                "matches": 354,
+                "playtime": 188519571,
+                "finished": 253,
+                "finishtime": 137257969,
+                "won": 277,
                 "lost": 74,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1784560322000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "yeopgihoney",
+                    "elo": 2588,
+                    "change": 8,
+                    "oelo": 2166,
+                    "ochange": -8,
+                    "time": 550320,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784558915000,
                     "type": "DESERT_TEMPLE",
@@ -99738,20 +99752,6 @@
                     "time": 466094,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780240467000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1972,
-                    "change": 21,
-                    "oelo": 1963,
-                    "ochange": -21,
-                    "time": 508192,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -105714,22 +105714,36 @@
             "nickname": "yeopgihoney",
             "stats": {
                 "rank": 33,
-                "elo": 2174,
+                "elo": 2166,
                 "top": 2191,
                 "points": 0,
                 "pb": 405777,
                 "current": 0,
                 "streak": 8,
-                "matches": 1044,
-                "playtime": 636477444,
+                "matches": 1045,
+                "playtime": 637027764,
                 "finished": 451,
                 "finishtime": 281349014,
                 "won": 529,
-                "lost": 469,
+                "lost": 470,
                 "forfeited": 4
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1784560322000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2166,
+                    "change": -8,
+                    "oelo": 2588,
+                    "ochange": 8,
+                    "time": 550320,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784559646000,
                     "type": "VILLAGE",
@@ -119577,20 +119591,6 @@
                     "oelo": 1992,
                     "ochange": 20,
                     "time": 466094,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780240700000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1975,
-                    "change": 16,
-                    "oelo": 1824,
-                    "ochange": -16,
-                    "time": 569495,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -161141,20 +161141,6 @@
                     "ochange": 15,
                     "time": 272907,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780240700000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1824,
-                    "change": -16,
-                    "oelo": 1975,
-                    "ochange": 16,
-                    "time": 569495,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]

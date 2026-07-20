@@ -174,12 +174,12 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 8382,
-        "playtime": 5769026827,
+        "matches": 8383,
+        "playtime": 5769674057,
         "finished": 2793,
         "finishtime": 2071265834,
         "won": 4026,
-        "lost": 3794,
+        "lost": 3795,
         "forfeited": 295
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -1746,13 +1746,13 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 2022,
-        "playtime": 1192241736,
+        "matches": 2023,
+        "playtime": 1192828372,
         "finished": 859,
         "finishtime": 581768881,
         "won": 1085,
-        "lost": 882,
-        "forfeited": 407
+        "lost": 883,
+        "forfeited": 408
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okshey",
@@ -2646,7 +2646,7 @@
             "8": 2491,
             "9": 2789,
             "10": 2772,
-            "11": 2580
+            "11": 2588
         },
         "points": {
             "6": 0,
@@ -2658,11 +2658,11 @@
         },
         "pb": 353371,
         "streak": 29,
-        "matches": 4986,
-        "playtime": 2835072459,
-        "finished": 2680,
-        "finishtime": 1605910838,
-        "won": 3155,
+        "matches": 4987,
+        "playtime": 2835622779,
+        "finished": 2681,
+        "finishtime": 1606461158,
+        "won": 3156,
         "lost": 1733,
         "forfeited": 319
     },
@@ -2814,12 +2814,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7585,
-        "playtime": 4848553295,
+        "matches": 7586,
+        "playtime": 4849103615,
         "finished": 2726,
         "finishtime": 1978041774,
         "won": 3828,
-        "lost": 3443,
+        "lost": 3444,
         "forfeited": 825
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3143,13 +3143,13 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 11477,
-        "playtime": 6278437770,
+        "matches": 11479,
+        "playtime": 6279083827,
         "finished": 3925,
         "finishtime": 2361958038,
         "won": 5278,
-        "lost": 5062,
-        "forfeited": 2711
+        "lost": 5064,
+        "forfeited": 2713
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
