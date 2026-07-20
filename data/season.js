@@ -1,5 +1,5 @@
 {
-    "date": 1784550001000,
+    "date": 1784551802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13588,20 +13588,6 @@
                     "oelo": 2251,
                     "ochange": 15,
                     "time": 592225,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780231757000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pardonmc",
-                    "elo": 2108,
-                    "change": 15,
-                    "oelo": 1924,
-                    "ochange": -15,
-                    "time": 470498,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -34019,20 +34005,6 @@
                     "time": 493648,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780231721000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 1911,
-                    "change": 24,
-                    "oelo": 1988,
-                    "ochange": -24,
-                    "time": 609771,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -34041,7 +34013,7 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 12,
-                "elo": 2299,
+                "elo": 2294,
                 "top": 2319,
                 "points": 90,
                 "pb": 368221,
@@ -34057,6 +34029,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1784550983000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2294,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784464582000,
                     "type": null,
@@ -47056,20 +47042,6 @@
                     "time": 529444,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780230470000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "gharfyy",
-                    "elo": 1996,
-                    "change": 17,
-                    "oelo": 1875,
-                    "ochange": -17,
-                    "time": 571186,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -57889,48 +57861,6 @@
                     "oelo": 1995,
                     "ochange": 20,
                     "time": 517847,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780231721000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "DARVY__X1",
-                    "elo": 1988,
-                    "change": -24,
-                    "oelo": 1911,
-                    "ochange": 24,
-                    "time": 609771,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780231019000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 2012,
-                    "change": 14,
-                    "oelo": 1826,
-                    "ochange": -14,
-                    "time": 462820,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780230287000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1998,
-                    "change": -21,
-                    "oelo": 1999,
-                    "ochange": 21,
-                    "time": 765847,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -115606,20 +115536,6 @@
                     "oelo": 1616,
                     "ochange": -19,
                     "time": 498538,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780231275000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BunchaStuff10",
-                    "elo": 1651,
-                    "change": -23,
-                    "oelo": 1623,
-                    "ochange": 23,
-                    "time": 548435,
                     "forfeited": false,
                     "decayed": false
                 }
