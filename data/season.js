@@ -1,5 +1,5 @@
 {
-    "date": 1784553001000,
+    "date": 1784553601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13574,20 +13574,6 @@
                     "oelo": 2084,
                     "ochange": -20,
                     "time": 543872,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780233001000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2093,
-                    "change": -15,
-                    "oelo": 2251,
-                    "ochange": 15,
-                    "time": 592225,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -33976,20 +33962,6 @@
                     "ochange": -16,
                     "time": 532887,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780233196000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "CxrtxR",
-                    "elo": 1908,
-                    "change": 17,
-                    "oelo": 1794,
-                    "ochange": -17,
-                    "time": 430900,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -57805,20 +57777,6 @@
                     "oelo": 2222,
                     "ochange": -29,
                     "time": 520032,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780233515000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "pardonmc",
-                    "elo": 1965,
-                    "change": 20,
-                    "oelo": 1924,
-                    "ochange": -20,
-                    "time": 509831,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -95254,20 +95212,6 @@
                     "time": 537856,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780233314000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1715,
-                    "change": 25,
-                    "oelo": 1795,
-                    "ochange": -25,
-                    "time": 593742,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97865,20 +97809,6 @@
                     "oelo": 1994,
                     "ochange": 29,
                     "time": 520032,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780233001000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 2251,
-                    "change": 15,
-                    "oelo": 2093,
-                    "ochange": -15,
-                    "time": 592225,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -172493,20 +172423,6 @@
                     "oelo": 1862,
                     "ochange": -23,
                     "time": 534779,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780233070000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MinetofuCraft",
-                    "elo": 1790,
-                    "change": 18,
-                    "oelo": 1705,
-                    "ochange": -18,
-                    "time": 634736,
                     "forfeited": false,
                     "decayed": false
                 }
