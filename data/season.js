@@ -1,5 +1,5 @@
 {
-    "date": 1784505001000,
+    "date": 1784505601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29099,20 +29099,6 @@
                     "oelo": 1754,
                     "ochange": 23,
                     "time": 719019,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780185120000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1813,
-                    "change": -21,
-                    "oelo": 1820,
-                    "ochange": 21,
-                    "time": 593285,
                     "forfeited": false,
                     "decayed": false
                 }
