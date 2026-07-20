@@ -1,5 +1,5 @@
 {
-    "date": 1784532001000,
+    "date": 1784532601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -155798,20 +155798,6 @@
                     "ochange": -15,
                     "time": 656114,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780212440000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1840,
-                    "change": -23,
-                    "oelo": 1802,
-                    "ochange": 23,
-                    "time": 210364,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
