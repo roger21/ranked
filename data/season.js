@@ -1,5 +1,5 @@
 {
-    "date": 1784516401000,
+    "date": 1784517001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -139520,23 +139520,37 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 42,
-                "elo": 2111,
+                "rank": 49,
+                "elo": 2087,
                 "top": 2123,
                 "points": 0,
                 "pb": 405777,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 1028,
-                "playtime": 626132870,
+                "matches": 1029,
+                "playtime": 627366778,
                 "finished": 441,
                 "finishtime": 275530531,
                 "won": 518,
-                "lost": 464,
+                "lost": 465,
                 "forfeited": 4
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1784517036000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "huhPrince",
+                    "elo": 2087,
+                    "change": -24,
+                    "oelo": 2033,
+                    "ochange": 24,
+                    "time": 1233908,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784515724000,
                     "type": "DESERT_TEMPLE",
@@ -155834,7 +155848,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2106,
                 "top": 2197,
                 "points": 6,
@@ -161667,7 +161681,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2104,
                 "top": 2104,
                 "points": 8,
@@ -167780,7 +167794,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2097,
                 "top": 2136,
                 "points": 7,
@@ -170127,7 +170141,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2095,
                 "top": 2110,
                 "points": 4,
@@ -172978,7 +172992,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2089,
                 "top": 2123,
                 "points": 9,
@@ -173925,7 +173939,7 @@
             "uuid": "3d0359ab82024082a3204b0e5335674e",
             "nickname": "snowdeerjulie",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2088,
                 "top": 2088,
                 "points": 4,
