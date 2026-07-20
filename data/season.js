@@ -1,5 +1,5 @@
 {
-    "date": 1784540401000,
+    "date": 1784541001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115846,20 +115846,6 @@
                     "time": 622307,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780220784000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "splittyPL",
-                    "elo": 1634,
-                    "change": 23,
-                    "oelo": 1683,
-                    "ochange": -23,
-                    "time": 475843,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155770,20 +155756,6 @@
                     "ochange": -23,
                     "time": 458454,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780220964000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "IBringSuffering",
-                    "elo": 1782,
-                    "change": 0,
-                    "oelo": 1797,
-                    "ochange": 0,
-                    "time": 465593,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
