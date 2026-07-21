@@ -1,5 +1,5 @@
 {
-    "date": 1784654401000,
+    "date": 1784655001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14195,20 +14195,6 @@
                     "oelo": 1753,
                     "ochange": -17,
                     "time": 564460,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780334575000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Brunted",
-                    "elo": 1861,
-                    "change": -19,
-                    "oelo": 1917,
-                    "ochange": 19,
-                    "time": 589527,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -74016,20 +74002,6 @@
                     "oelo": 1800,
                     "ochange": 25,
                     "time": 738805,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780334720000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "pardonmc",
-                    "elo": 1903,
-                    "change": -23,
-                    "oelo": 1855,
-                    "ochange": 23,
-                    "time": 585336,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -147116,7 +147088,7 @@
                     "type": "VILLAGE",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "HiroiKikuriSuki",
+                    "opponent": "WishForever_",
                     "elo": 1674,
                     "change": 17,
                     "oelo": 1558,
@@ -175882,20 +175854,6 @@
                     "ochange": -1,
                     "time": 590273,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780334458000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BinEin",
-                    "elo": 1846,
-                    "change": 21,
-                    "oelo": 1832,
-                    "ochange": -21,
-                    "time": 581763,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
