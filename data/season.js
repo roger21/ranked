@@ -1,5 +1,5 @@
 {
-    "date": 1784653201000,
+    "date": 1784653801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -142218,20 +142218,6 @@
                     "oelo": 1878,
                     "ochange": 17,
                     "time": 564460,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780333561000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "WhyIP",
-                    "elo": 1770,
-                    "change": 16,
-                    "oelo": 1615,
-                    "ochange": -16,
-                    "time": 559386,
                     "forfeited": false,
                     "decayed": false
                 }
