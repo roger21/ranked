@@ -1,5 +1,5 @@
 {
-    "date": 1784665801000,
+    "date": 1784666401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32455,20 +32455,6 @@
                     "ochange": 20,
                     "time": 640977,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780346173000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "Birdeyyy",
-                    "elo": 1912,
-                    "change": -1,
-                    "oelo": 1854,
-                    "ochange": 1,
-                    "time": 609196,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -80031,20 +80017,6 @@
                     "ochange": -16,
                     "time": 629804,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780346173000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 1854,
-                    "change": 1,
-                    "oelo": 1912,
-                    "ochange": -1,
-                    "time": 609196,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -137155,20 +137127,6 @@
                     "oelo": 1777,
                     "ochange": 22,
                     "time": 609921,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780346157000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1799,
-                    "change": -17,
-                    "oelo": 1921,
-                    "ochange": 17,
-                    "time": 540371,
                     "forfeited": false,
                     "decayed": false
                 }
