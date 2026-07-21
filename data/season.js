@@ -1,5 +1,5 @@
 {
-    "date": 1784663402000,
+    "date": 1784664001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32511,20 +32511,6 @@
                     "ochange": 1,
                     "time": 560609,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780343757000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "vorbh",
-                    "elo": 1906,
-                    "change": 26,
-                    "oelo": 2025,
-                    "ochange": -26,
-                    "time": 483509,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -113611,20 +113597,6 @@
                     "time": 613505,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780343757000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 2025,
-                    "change": -26,
-                    "oelo": 1906,
-                    "ochange": 26,
-                    "time": 483509,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -137323,20 +137295,6 @@
                     "oelo": 1815,
                     "ochange": -21,
                     "time": 553805,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780343649000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 1799,
-                    "change": 22,
-                    "oelo": 1799,
-                    "ochange": -22,
-                    "time": 528988,
                     "forfeited": false,
                     "decayed": false
                 }
