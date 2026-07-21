@@ -1,5 +1,5 @@
 {
-    "date": 1784657401000,
+    "date": 1784658001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14125,20 +14125,6 @@
                     "oelo": 1988,
                     "ochange": 18,
                     "time": 539452,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780337809000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1915,
-                    "change": 21,
-                    "oelo": 1914,
-                    "ochange": -21,
-                    "time": 551770,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -142065,20 +142051,6 @@
                     "ochange": -21,
                     "time": 486118,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780337464000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "wagapizu",
-                    "elo": 1755,
-                    "change": -21,
-                    "oelo": 1775,
-                    "ochange": 21,
-                    "time": 210370,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
