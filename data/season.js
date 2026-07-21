@@ -1,5 +1,5 @@
 {
-    "date": 1784662801000,
+    "date": 1784663402000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -113625,20 +113625,6 @@
                     "time": 483509,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780343057000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 2051,
-                    "change": -20,
-                    "oelo": 2083,
-                    "ochange": 20,
-                    "time": 627245,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -137351,20 +137337,6 @@
                     "oelo": 1799,
                     "ochange": -22,
                     "time": 528988,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780343058000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1777,
-                    "change": -13,
-                    "oelo": 1996,
-                    "ochange": 13,
-                    "time": 555453,
                     "forfeited": false,
                     "decayed": false
                 }
