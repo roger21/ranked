@@ -1,5 +1,5 @@
 {
-    "date": 1784671201000,
+    "date": 1784671801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32343,20 +32343,6 @@
                     "ochange": -17,
                     "time": 696614,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780351562000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "Christiyn",
-                    "elo": 1944,
-                    "change": -2,
-                    "oelo": 1775,
-                    "ochange": 2,
-                    "time": 501113,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
