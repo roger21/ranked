@@ -945,12 +945,12 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 3394,
-        "playtime": 2378201354,
+        "matches": 3395,
+        "playtime": 2378791000,
         "finished": 1182,
         "finishtime": 925507408,
         "won": 1657,
-        "lost": 1489,
+        "lost": 1490,
         "forfeited": 182
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -2886,11 +2886,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7623,
-        "playtime": 4870907236,
-        "finished": 2739,
-        "finishtime": 1986132705,
-        "won": 3845,
+        "matches": 7624,
+        "playtime": 4871504672,
+        "finished": 2740,
+        "finishtime": 1986730141,
+        "won": 3846,
         "lost": 3464,
         "forfeited": 826
     },
@@ -5629,7 +5629,7 @@
     },
     "cf1102ea451241d187aaa62e05cab5c3": {
         "nickname": "nonsochiamaa",
-        "country": "it",
+        "country": "br",
         "top": {
             "3": 1586,
             "4": 1540,
