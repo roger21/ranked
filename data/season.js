@@ -1,5 +1,5 @@
 {
-    "date": 1784635801000,
+    "date": 1784636401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -151480,23 +151480,37 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 44,
-                "elo": 2118,
+                "rank": 48,
+                "elo": 2096,
                 "top": 2177,
                 "points": 24,
                 "pb": 457610,
                 "current": 0,
                 "streak": 8,
-                "matches": 84,
-                "playtime": 47688237,
+                "matches": 85,
+                "playtime": 48283099,
                 "finished": 52,
                 "finishtime": 31133233,
                 "won": 60,
-                "lost": 23,
+                "lost": 24,
                 "forfeited": 0
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1784636436000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "TheLandSharkJeff",
+                    "elo": 2096,
+                    "change": -22,
+                    "oelo": 2077,
+                    "ochange": 22,
+                    "time": 594862,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784635776000,
                     "type": "RUINED_PORTAL",
@@ -152399,7 +152413,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2111,
                 "top": 2139,
                 "points": 4,
@@ -155362,7 +155376,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2106,
                 "top": 2115,
                 "points": 10,
@@ -164317,7 +164331,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2106,
                 "top": 2197,
                 "points": 6,
@@ -169828,7 +169842,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2105,
                 "top": 2121,
                 "points": 6,
