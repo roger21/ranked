@@ -1,5 +1,5 @@
 {
-    "date": 1784661001000,
+    "date": 1784661601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14056,20 +14056,6 @@
                     "ochange": -24,
                     "time": 503544,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780341259000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1856,
-                    "change": -16,
-                    "oelo": 2001,
-                    "ochange": 16,
-                    "time": 545761,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -32566,20 +32552,6 @@
                     "oelo": 1660,
                     "ochange": -14,
                     "time": 546947,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780341369000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1846,
-                    "change": 21,
-                    "oelo": 1845,
-                    "ochange": -21,
-                    "time": 468606,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -137463,20 +137435,6 @@
                     "oelo": 1781,
                     "ochange": 21,
                     "time": 470135,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780341095000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "boywithcards",
-                    "elo": 1786,
-                    "change": -21,
-                    "oelo": 1792,
-                    "ochange": 21,
-                    "time": 604667,
                     "forfeited": false,
                     "decayed": false
                 }
