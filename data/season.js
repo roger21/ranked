@@ -1,5 +1,5 @@
 {
-    "date": 1784660401000,
+    "date": 1784661001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14069,20 +14069,6 @@
                     "oelo": 2001,
                     "ochange": 16,
                     "time": 545761,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780340650000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 1872,
-                    "change": -21,
-                    "oelo": 1876,
-                    "ochange": 21,
-                    "time": 421770,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -32594,20 +32580,6 @@
                     "oelo": 1845,
                     "ochange": -21,
                     "time": 468606,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780340840000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "wagapizu",
-                    "elo": 1825,
-                    "change": -19,
-                    "oelo": 1883,
-                    "ochange": 19,
-                    "time": 701454,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -80226,20 +80198,6 @@
                     "oelo": 1902,
                     "ochange": 19,
                     "time": 674775,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780340879000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "WumbusZero",
-                    "elo": 1852,
-                    "change": 21,
-                    "oelo": 1827,
-                    "ochange": -21,
-                    "time": 696071,
                     "forfeited": false,
                     "decayed": false
                 }
