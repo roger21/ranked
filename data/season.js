@@ -1,5 +1,5 @@
 {
-    "date": 1784622601000,
+    "date": 1784623201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32716,20 +32716,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2123,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1780303018000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2128,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -164196,20 +164182,6 @@
                     "oelo": 1818,
                     "ochange": -19,
                     "time": 633377,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780302962000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "IBringSuffering",
-                    "elo": 1860,
-                    "change": 14,
-                    "oelo": 1672,
-                    "ochange": -14,
-                    "time": 587623,
                     "forfeited": false,
                     "decayed": false
                 }
