@@ -1,5 +1,5 @@
 {
-    "date": 1784662201000,
+    "date": 1784662801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32524,20 +32524,6 @@
                     "oelo": 2025,
                     "ochange": -26,
                     "time": 483509,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780342786000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1880,
-                    "change": 20,
-                    "oelo": 1851,
-                    "ochange": -20,
-                    "time": 645649,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -137379,20 +137365,6 @@
                     "oelo": 1996,
                     "ochange": 13,
                     "time": 555453,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780342417000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "wagapizu",
-                    "elo": 1790,
-                    "change": 25,
-                    "oelo": 1877,
-                    "ochange": -25,
-                    "time": 616609,
                     "forfeited": false,
                     "decayed": false
                 }
