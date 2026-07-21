@@ -1,5 +1,5 @@
 {
-    "date": 1784655001000,
+    "date": 1784655601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14167,34 +14167,6 @@
                     "oelo": 1761,
                     "ochange": -17,
                     "time": 576652,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780335568000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 1860,
-                    "change": -18,
-                    "oelo": 1940,
-                    "ochange": 18,
-                    "time": 231945,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780335276000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1878,
-                    "change": 17,
-                    "oelo": 1753,
-                    "ochange": -17,
-                    "time": 564460,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -73990,20 +73962,6 @@
                     "time": 563779,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780335531000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "wagapizu",
-                    "elo": 1878,
-                    "change": -25,
-                    "oelo": 1800,
-                    "ochange": 25,
-                    "time": 738805,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -76647,23 +76605,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 25,
-                "elo": 2205,
+                "rank": 34,
+                "elo": 2178,
                 "top": 2344,
                 "points": 82,
                 "pb": 423216,
-                "current": 2,
+                "current": 0,
                 "streak": 9,
-                "matches": 849,
-                "playtime": 487196090,
+                "matches": 850,
+                "playtime": 487843520,
                 "finished": 405,
                 "finishtime": 242674137,
                 "won": 465,
-                "lost": 371,
+                "lost": 372,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1784655629000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "hack_page",
+                    "elo": 2178,
+                    "change": -27,
+                    "oelo": 2016,
+                    "ochange": 27,
+                    "time": 647430,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784654382000,
                     "type": "SHIPWRECK",
@@ -81010,7 +80982,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2202,
                 "top": 2202,
                 "points": 30,
@@ -82041,7 +82013,7 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2202,
                 "top": 2202,
                 "points": 6,
@@ -84780,7 +84752,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2196,
                 "top": 2196,
                 "points": 24,
@@ -85867,7 +85839,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2195,
                 "top": 2324,
                 "points": 72,
@@ -88858,7 +88830,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "wagasylvie",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 2187,
                 "top": 2234,
                 "points": 7,
@@ -94733,7 +94705,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2183,
                 "top": 2207,
                 "points": 31,
@@ -98886,7 +98858,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2182,
                 "top": 2236,
                 "points": 6,
@@ -109633,7 +109605,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2181,
                 "top": 2355,
                 "points": 33,
@@ -115382,7 +115354,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2180,
                 "top": 2249,
                 "points": 41,
@@ -142162,20 +142134,6 @@
                     "oelo": 1773,
                     "ochange": -22,
                     "time": 654545,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780335276000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1753,
-                    "change": -17,
-                    "oelo": 1878,
-                    "ochange": 17,
-                    "time": 564460,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175840,20 +175798,6 @@
                     "ochange": -18,
                     "time": 589992,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780335122000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "petal_go_round",
-                    "elo": 1847,
-                    "change": 1,
-                    "oelo": 1922,
-                    "ochange": -1,
-                    "time": 590273,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
