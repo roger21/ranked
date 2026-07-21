@@ -1,5 +1,5 @@
 {
-    "date": 1784593801000,
+    "date": 1784594401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6911,20 +6911,6 @@
                     "oelo": 2107,
                     "ochange": 21,
                     "time": 619284,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780274117000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 2125,
-                    "change": 17,
-                    "oelo": 2021,
-                    "ochange": -17,
-                    "time": 614775,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -109088,20 +109074,6 @@
                     "ochange": 22,
                     "time": 411020,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780274098000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Candypat",
-                    "elo": 1853,
-                    "change": 16,
-                    "oelo": 1715,
-                    "ochange": -16,
-                    "time": 568106,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
