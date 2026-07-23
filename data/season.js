@@ -1,5 +1,5 @@
 {
-    "date": 1784801401000,
+    "date": 1784802001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100770,20 +100770,6 @@
                     "time": 445877,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780481934000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ghostlylssolate",
-                    "elo": 1887,
-                    "change": -28,
-                    "oelo": 1693,
-                    "ochange": 28,
-                    "time": 796108,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -165447,20 +165433,6 @@
                     "oelo": 1669,
                     "ochange": -23,
                     "time": 653924,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780481466000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "meowgerta",
-                    "elo": 1619,
-                    "change": 19,
-                    "oelo": 1558,
-                    "ochange": -19,
-                    "time": 806284,
                     "forfeited": false,
                     "decayed": false
                 }
