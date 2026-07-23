@@ -1,5 +1,5 @@
 {
-    "date": 1784803201000,
+    "date": 1784803801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -154089,20 +154089,6 @@
                     "oelo": 1513,
                     "ochange": -14,
                     "time": 499648,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780483527000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1701,
-                    "change": 26,
-                    "oelo": 1809,
-                    "ochange": -26,
-                    "time": 799544,
                     "forfeited": false,
                     "decayed": false
                 }
