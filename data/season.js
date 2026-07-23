@@ -1,5 +1,5 @@
 {
-    "date": 1784845201000,
+    "date": 1784845801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4424,20 +4424,6 @@
                     "oelo": 2085,
                     "ochange": 21,
                     "time": 571376,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780525532000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2100,
-                    "change": 19,
-                    "oelo": 2034,
-                    "ochange": -19,
-                    "time": 669165,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -40206,20 +40192,6 @@
                     "time": 492010,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780525237000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 2076,
-                    "change": 13,
-                    "oelo": 1837,
-                    "ochange": -13,
-                    "time": 607975,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -48435,7 +48407,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 17,
+                "rank": 18,
                 "elo": 2263,
                 "top": 2316,
                 "points": 100,
@@ -51706,7 +51678,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 17,
+                "rank": 18,
                 "elo": 2263,
                 "top": 2266,
                 "points": 30,
@@ -53423,7 +53395,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 2260,
                 "top": 2260,
                 "points": 24,
@@ -54720,23 +54692,37 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 20,
-                "elo": 2255,
+                "rank": 17,
+                "elo": 2272,
                 "top": 2331,
                 "points": 0,
                 "pb": 444035,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 409,
-                "playtime": 237087356,
-                "finished": 191,
-                "finishtime": 113873074,
-                "won": 220,
+                "matches": 410,
+                "playtime": 237654596,
+                "finished": 192,
+                "finishtime": 114440314,
+                "won": 221,
                 "lost": 176,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784845819000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "BadGamer",
+                    "elo": 2272,
+                    "change": 17,
+                    "oelo": 2144,
+                    "ochange": -17,
+                    "time": 567240,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784820059000,
                     "type": "RUINED_PORTAL",
@@ -108783,23 +108769,37 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 35,
-                "elo": 2161,
+                "rank": 40,
+                "elo": 2144,
                 "top": 2273,
                 "points": 41,
                 "pb": 398763,
                 "current": 0,
                 "streak": 9,
-                "matches": 297,
-                "playtime": 157342034,
+                "matches": 298,
+                "playtime": 157909274,
                 "finished": 167,
                 "finishtime": 96641912,
                 "won": 179,
-                "lost": 116,
+                "lost": 117,
                 "forfeited": 44
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1784845819000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "nyachloe",
+                    "elo": 2144,
+                    "change": -17,
+                    "oelo": 2272,
+                    "ochange": 17,
+                    "time": 567240,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784844480000,
                     "type": "VILLAGE",
@@ -111396,7 +111396,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2158,
                 "top": 2189,
                 "points": 0,
@@ -115003,7 +115003,7 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2157,
                 "top": 2218,
                 "points": 18,
@@ -121354,7 +121354,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2152,
                 "top": 2167,
                 "points": 7,
@@ -123561,7 +123561,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2149,
                 "top": 2346,
                 "points": 20,
@@ -127616,7 +127616,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2146,
                 "top": 2256,
                 "points": 47,
@@ -151191,20 +151191,6 @@
                     "oelo": 2007,
                     "ochange": -27,
                     "time": 625330,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780525237000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1837,
-                    "change": -13,
-                    "oelo": 2076,
-                    "ochange": 13,
-                    "time": 607975,
                     "forfeited": false,
                     "decayed": false
                 }
