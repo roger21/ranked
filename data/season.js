@@ -1,5 +1,5 @@
 {
-    "date": 1784774401000,
+    "date": 1784775001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108539,20 +108539,6 @@
                     "time": 586162,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780454896000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 2147,
-                    "change": 21,
-                    "oelo": 2125,
-                    "ochange": -21,
-                    "time": 502939,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126931,20 +126917,6 @@
                     "oelo": 1964,
                     "ochange": 27,
                     "time": 731226,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780454896000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2125,
-                    "change": -21,
-                    "oelo": 2147,
-                    "ochange": 21,
-                    "time": 502939,
                     "forfeited": false,
                     "decayed": false
                 }
