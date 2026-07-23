@@ -1,5 +1,5 @@
 {
-    "date": 1784802601000,
+    "date": 1784803201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -154103,20 +154103,6 @@
                     "oelo": 1809,
                     "ochange": -26,
                     "time": 799544,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780482636000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1675,
-                    "change": -12,
-                    "oelo": 1946,
-                    "ochange": 12,
-                    "time": 646896,
                     "forfeited": false,
                     "decayed": false
                 }
