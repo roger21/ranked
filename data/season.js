@@ -1,5 +1,5 @@
 {
-    "date": 1784824201000,
+    "date": 1784824801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43664,20 +43664,6 @@
                     "time": 586952,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780504624000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2021,
-                    "change": -26,
-                    "oelo": 1913,
-                    "ochange": 26,
-                    "time": 528735,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -70025,20 +70011,6 @@
                     "oelo": 1999,
                     "ochange": -22,
                     "time": 586952,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780504538000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1957,
-                    "change": 16,
-                    "oelo": 1827,
-                    "ochange": -16,
-                    "time": 609323,
                     "forfeited": false,
                     "decayed": false
                 }
