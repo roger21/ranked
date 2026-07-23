@@ -2791,11 +2791,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7678,
-        "playtime": 4904555228,
-        "finished": 2764,
-        "finishtime": 2002081351,
-        "won": 3874,
+        "matches": 7679,
+        "playtime": 4905064871,
+        "finished": 2765,
+        "finishtime": 2002590994,
+        "won": 3875,
         "lost": 3488,
         "forfeited": 828
     },
@@ -4078,12 +4078,12 @@
         },
         "pb": 368221,
         "streak": 29,
-        "matches": 3913,
-        "playtime": 2255978660,
+        "matches": 3914,
+        "playtime": 2256488303,
         "finished": 2086,
         "finishtime": 1271943771,
         "won": 2476,
-        "lost": 1393,
+        "lost": 1394,
         "forfeited": 90
     },
     "9c724d7793094a76a8bc9d30f397df92": {
@@ -6098,11 +6098,11 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 9790,
-        "playtime": 5991177693,
-        "finished": 4281,
-        "finishtime": 2860339631,
-        "won": 5226,
+        "matches": 9791,
+        "playtime": 5991690368,
+        "finished": 4282,
+        "finishtime": 2860852306,
+        "won": 5227,
         "lost": 4413,
         "forfeited": 1025
     },
@@ -6255,33 +6255,6 @@
         "won": 4104,
         "lost": 3809,
         "forfeited": 2374
-    },
-    "eb136e7e26124f8daa99e521da609135": {
-        "nickname": "Frolde",
-        "country": "dk",
-        "top": {
-            "7": 1407,
-            "8": 1469,
-            "9": 1891,
-            "10": 2288,
-            "11": 2197
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 14,
-            "11": 6
-        },
-        "pb": 409037,
-        "streak": 10,
-        "matches": 6670,
-        "playtime": 3983393855,
-        "finished": 2218,
-        "finishtime": 1575483812,
-        "won": 3258,
-        "lost": 3154,
-        "forfeited": 1657
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
