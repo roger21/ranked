@@ -1,5 +1,5 @@
 {
-    "date": 1784764201000,
+    "date": 1784764801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6533,20 +6533,6 @@
                     "oelo": 2114,
                     "ochange": -20,
                     "time": 521080,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780444359000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2140,
-                    "change": 15,
-                    "oelo": 1963,
-                    "ochange": -15,
-                    "time": 782646,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143497,20 +143483,6 @@
                     "ochange": -17,
                     "time": 536300,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780444204000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "OGMineman",
-                    "elo": 1798,
-                    "change": -21,
-                    "oelo": 1801,
-                    "ochange": 21,
-                    "time": 346454,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
