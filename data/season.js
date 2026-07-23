@@ -1,5 +1,5 @@
 {
-    "date": 1784778001000,
+    "date": 1784778601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4620,20 +4620,6 @@
                     "oelo": 2142,
                     "ochange": 19,
                     "time": 669394,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780458260000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 2084,
-                    "change": 18,
-                    "oelo": 2002,
-                    "ochange": -18,
-                    "time": 493605,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -124010,20 +123996,6 @@
                     "oelo": 2065,
                     "ochange": -19,
                     "time": 669394,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780458518000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 2123,
-                    "change": -27,
-                    "oelo": 1986,
-                    "ochange": 27,
-                    "time": 659159,
                     "forfeited": false,
                     "decayed": false
                 }
