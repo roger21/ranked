@@ -1,5 +1,5 @@
 {
-    "date": 1784776801000,
+    "date": 1784777401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4648,20 +4648,6 @@
                     "oelo": 2150,
                     "ochange": 18,
                     "time": 433704,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780457224000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 2084,
-                    "change": -28,
-                    "oelo": 1906,
-                    "ochange": 28,
-                    "time": 550009,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36098,20 +36084,6 @@
                     "oelo": 1932,
                     "ochange": 20,
                     "time": 630636,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780457224000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1906,
-                    "change": 28,
-                    "oelo": 2084,
-                    "ochange": -28,
-                    "time": 550009,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -126805,20 +126777,6 @@
                     "oelo": 2066,
                     "ochange": -18,
                     "time": 433704,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780457072000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2132,
-                    "change": 13,
-                    "oelo": 1898,
-                    "ochange": -13,
-                    "time": 548561,
                     "forfeited": false,
                     "decayed": false
                 }
