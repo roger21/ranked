@@ -1,5 +1,5 @@
 {
-    "date": 1784766601000,
+    "date": 1784767201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6505,20 +6505,6 @@
                     "oelo": 2089,
                     "ochange": 24,
                     "time": 540434,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780447051000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 2175,
-                    "change": 15,
-                    "oelo": 1998,
-                    "ochange": -15,
-                    "time": 496987,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -42303,7 +42289,7 @@
                     "type": "VILLAGE",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1859,
                     "change": 18,
                     "oelo": 1770,
@@ -42849,7 +42835,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1880,
                     "change": 15,
                     "oelo": 1716,
@@ -45817,7 +45803,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1793,
                     "change": 13,
                     "oelo": 1581,
@@ -108651,20 +108637,6 @@
                     "time": 582682,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780446955000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2088,
-                    "change": -26,
-                    "oelo": 1977,
-                    "ochange": 26,
-                    "time": 648312,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -134120,7 +134092,7 @@
                     "type": "VILLAGE",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1934,
                     "change": 15,
                     "oelo": 1760,
@@ -134414,7 +134386,7 @@
                     "type": "VILLAGE",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1928,
                     "change": 14,
                     "oelo": 1722,
@@ -142062,7 +142034,7 @@
                     "type": "VILLAGE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1892,
                     "change": 16,
                     "oelo": 1738,
@@ -143454,20 +143426,6 @@
                     "oelo": 1617,
                     "ochange": -14,
                     "time": 687226,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780446841000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yubbawubba8",
-                    "elo": 1793,
-                    "change": -22,
-                    "oelo": 1786,
-                    "ochange": 22,
-                    "time": 779117,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -160359,7 +160317,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1721,
                     "change": 20,
                     "oelo": 1678,
@@ -180522,7 +180480,7 @@
                     "type": "VILLAGE",
                     "bastion": "TREASURE",
                     "result": "lost",
-                    "opponent": "offlinelotus",
+                    "opponent": "egobroke",
                     "elo": 1870,
                     "change": -23,
                     "oelo": 1833,
