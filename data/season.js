@@ -1,5 +1,5 @@
 {
-    "date": 1784840401000,
+    "date": 1784841001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -15310,20 +15310,6 @@
                     "oelo": 1849,
                     "ochange": -18,
                     "time": 463992,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780520488000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 1918,
-                    "change": -16,
-                    "oelo": 2066,
-                    "ochange": 16,
-                    "time": 646843,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -40428,20 +40414,6 @@
                     "oelo": 2027,
                     "ochange": 22,
                     "time": 496493,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780520488000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2066,
-                    "change": 16,
-                    "oelo": 1918,
-                    "ochange": -16,
-                    "time": 646843,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -151457,20 +151429,6 @@
                     "oelo": 1936,
                     "ochange": 18,
                     "time": 463992,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780520989000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "wethr",
-                    "elo": 1867,
-                    "change": 22,
-                    "oelo": 1873,
-                    "ochange": -22,
-                    "time": 511388,
                     "forfeited": false,
                     "decayed": false
                 }
