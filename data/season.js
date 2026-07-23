@@ -1,5 +1,5 @@
 {
-    "date": 1784839801000,
+    "date": 1784840401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115178,20 +115178,6 @@
                     "time": 744510,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780520291000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1978,
-                    "change": -27,
-                    "oelo": 1845,
-                    "ochange": 27,
-                    "time": 752138,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -151485,20 +151471,6 @@
                     "oelo": 1873,
                     "ochange": -22,
                     "time": 511388,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780520291000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1845,
-                    "change": 27,
-                    "oelo": 1978,
-                    "ochange": -27,
-                    "time": 752138,
                     "forfeited": false,
                     "decayed": false
                 }
