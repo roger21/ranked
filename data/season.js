@@ -1,5 +1,5 @@
 {
-    "date": 1784797201000,
+    "date": 1784797801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -118732,7 +118732,7 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2158,
                 "top": 2189,
                 "points": 0,
@@ -122577,7 +122577,7 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2157,
                 "top": 2218,
                 "points": 18,
@@ -128928,7 +128928,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2152,
                 "top": 2167,
                 "points": 7,
@@ -131135,7 +131135,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 2149,
                 "top": 2346,
                 "points": 20,
@@ -135190,7 +135190,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 2146,
                 "top": 2256,
                 "points": 47,
@@ -137929,7 +137929,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2145,
                 "top": 2160,
                 "points": 8,
@@ -143748,7 +143748,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2143,
                 "top": 2143,
                 "points": 10,
@@ -152143,23 +152143,37 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 43,
-                "elo": 2141,
+                "rank": 35,
+                "elo": 2167,
                 "top": 2176,
                 "points": 21,
                 "pb": 381009,
-                "current": 1,
+                "current": 2,
                 "streak": 11,
-                "matches": 323,
-                "playtime": 190989324,
-                "finished": 158,
-                "finishtime": 97766095,
-                "won": 180,
+                "matches": 324,
+                "playtime": 191638178,
+                "finished": 159,
+                "finishtime": 98414949,
+                "won": 181,
                 "lost": 133,
                 "forfeited": 26
             },
             "country": "vn",
             "matches": [
+                {
+                    "date": 1784797832000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "BlazeMind",
+                    "elo": 2167,
+                    "change": 26,
+                    "oelo": 2290,
+                    "ochange": -26,
+                    "time": 648854,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784796936000,
                     "type": "DESERT_TEMPLE",
@@ -165434,20 +165448,6 @@
                     "ochange": -17,
                     "time": 643174,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780477404000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "splittyPL",
-                    "elo": 1592,
-                    "change": 21,
-                    "oelo": 1565,
-                    "ochange": -21,
-                    "time": 587677,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
