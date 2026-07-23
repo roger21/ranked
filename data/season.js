@@ -1,5 +1,5 @@
 {
-    "date": 1784773201000,
+    "date": 1784773801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4704,20 +4704,6 @@
                     "oelo": 2126,
                     "ochange": 21,
                     "time": 631981,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780453430000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 2140,
-                    "change": 16,
-                    "oelo": 1995,
-                    "ochange": -16,
-                    "time": 620665,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -108567,20 +108553,6 @@
                     "time": 631981,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780453672000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 2105,
-                    "change": -20,
-                    "oelo": 2148,
-                    "ochange": 20,
-                    "time": 1029234,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126988,20 +126960,6 @@
                     "ochange": 2,
                     "time": 513817,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780453672000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 2148,
-                    "change": 20,
-                    "oelo": 2105,
-                    "ochange": -20,
-                    "time": 1029234,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
