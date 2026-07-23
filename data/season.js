@@ -1,5 +1,5 @@
 {
-    "date": 1784767201000,
+    "date": 1784767801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108621,20 +108621,6 @@
                     "oelo": 2151,
                     "ochange": -24,
                     "time": 540434,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780447703000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 2065,
-                    "change": -23,
-                    "oelo": 2021,
-                    "ochange": 23,
-                    "time": 582682,
                     "forfeited": false,
                     "decayed": false
                 }
