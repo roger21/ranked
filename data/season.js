@@ -1,5 +1,5 @@
 {
-    "date": 1784768401000,
+    "date": 1784769001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6491,20 +6491,6 @@
                     "oelo": 2172,
                     "ochange": -22,
                     "time": 647533,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780448763000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2151,
-                    "change": -24,
-                    "oelo": 2089,
-                    "ochange": 24,
-                    "time": 540434,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -108609,20 +108595,6 @@
                     "time": 523084,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780448763000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2089,
-                    "change": 24,
-                    "oelo": 2151,
-                    "ochange": -24,
-                    "time": 540434,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -143384,20 +143356,6 @@
                     "oelo": 1707,
                     "ochange": -18,
                     "time": 651950,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780449000000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Th1tme0",
-                    "elo": 1784,
-                    "change": -23,
-                    "oelo": 1754,
-                    "ochange": 23,
-                    "time": 566414,
                     "forfeited": false,
                     "decayed": false
                 }
