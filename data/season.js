@@ -1,5 +1,5 @@
 {
-    "date": 1784771401000,
+    "date": 1784772001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4732,20 +4732,6 @@
                     "oelo": 2125,
                     "ochange": 21,
                     "time": 661471,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780451883000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2145,
-                    "change": 14,
-                    "oelo": 1944,
-                    "ochange": -14,
-                    "time": 650461,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -108593,20 +108579,6 @@
                     "oelo": 2124,
                     "ochange": -21,
                     "time": 661471,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780451437000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 2104,
-                    "change": -25,
-                    "oelo": 2009,
-                    "ochange": 25,
-                    "time": 551786,
                     "forfeited": false,
                     "decayed": false
                 }
