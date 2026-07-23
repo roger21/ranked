@@ -1,5 +1,5 @@
 {
-    "date": 1784818801000,
+    "date": 1784819401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -1937,20 +1937,6 @@
                     "oelo": 2072,
                     "ochange": -11,
                     "time": 567150,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780498884000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2358,
-                    "change": 9,
-                    "oelo": 2011,
-                    "ochange": -9,
-                    "time": 584349,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -43762,20 +43748,6 @@
                     "time": 569358,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780498884000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 2011,
-                    "change": -9,
-                    "oelo": 2358,
-                    "ochange": 9,
-                    "time": 584349,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -49756,20 +49728,6 @@
                     "oelo": 1848,
                     "ochange": 24,
                     "time": 608450,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780499090000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1924,
-                    "change": 18,
-                    "oelo": 1822,
-                    "ochange": -18,
-                    "time": 625814,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -68532,20 +68490,6 @@
                     "oelo": 1879,
                     "ochange": -20,
                     "time": 689771,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780499338000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1902,
-                    "change": -20,
-                    "oelo": 1943,
-                    "ochange": 20,
-                    "time": 726418,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -145472,20 +145416,6 @@
                     "time": 580421,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780499090000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nyachloe",
-                    "elo": 1822,
-                    "change": -18,
-                    "oelo": 1924,
-                    "ochange": 18,
-                    "time": 625814,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150687,20 +150617,6 @@
                     "oelo": 1802,
                     "ochange": -20,
                     "time": 580421,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780499162000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "MinetofuCraft",
-                    "elo": 1829,
-                    "change": -25,
-                    "oelo": 1744,
-                    "ochange": 25,
-                    "time": 535487,
                     "forfeited": false,
                     "decayed": false
                 }
