@@ -1,5 +1,5 @@
 {
-    "date": 1784841001000,
+    "date": 1784841601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -8012,20 +8012,6 @@
                     "oelo": 2072,
                     "ochange": 28,
                     "time": 493313,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780521139000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 2287,
-                    "change": 10,
-                    "oelo": 1968,
-                    "ochange": -10,
-                    "time": 744510,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -100538,7 +100524,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2182,
                 "top": 2273,
                 "points": 41,
@@ -103137,23 +103123,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 33,
-                "elo": 2174,
+                "rank": 31,
+                "elo": 2187,
                 "top": 2344,
                 "points": 82,
                 "pb": 423216,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 924,
-                "playtime": 531323159,
-                "finished": 440,
-                "finishtime": 264049001,
-                "won": 506,
+                "matches": 925,
+                "playtime": 531829005,
+                "finished": 441,
+                "finishtime": 264554847,
+                "won": 507,
                 "lost": 403,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1784841601000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Gho",
+                    "elo": 2187,
+                    "change": 13,
+                    "oelo": 1964,
+                    "ochange": -13,
+                    "time": 505846,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784837908000,
                     "type": "VILLAGE",
@@ -115134,20 +115134,6 @@
                     "oelo": 1937,
                     "ochange": -20,
                     "time": 659440,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780521139000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 1968,
-                    "change": -10,
-                    "oelo": 2287,
-                    "ochange": 10,
-                    "time": 744510,
                     "forfeited": false,
                     "decayed": false
                 }
