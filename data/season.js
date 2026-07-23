@@ -1,5 +1,5 @@
 {
-    "date": 1784775601000,
+    "date": 1784776201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -36140,20 +36140,6 @@
                     "oelo": 1982,
                     "ochange": 18,
                     "time": 567204,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780455767000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "FuzzKing",
-                    "elo": 1896,
-                    "change": 14,
-                    "oelo": 1689,
-                    "ochange": -14,
-                    "time": 486358,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -108511,20 +108497,6 @@
                     "time": 514931,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780455687000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 2122,
-                    "change": -25,
-                    "oelo": 2020,
-                    "ochange": 25,
-                    "time": 586162,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126889,20 +126861,6 @@
                     "oelo": 2112,
                     "ochange": -21,
                     "time": 453507,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780455750000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 2098,
-                    "change": -27,
-                    "oelo": 1964,
-                    "ochange": 27,
-                    "time": 731226,
                     "forfeited": false,
                     "decayed": false
                 }
