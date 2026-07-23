@@ -1,5 +1,5 @@
 {
-    "date": 1784821201000,
+    "date": 1784821801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24960,23 +24960,37 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 8,
-                "elo": 2330,
+                "rank": 11,
+                "elo": 2307,
                 "top": 2372,
                 "points": 44,
                 "pb": 412328,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 495,
-                "playtime": 266540974,
+                "matches": 496,
+                "playtime": 267058217,
                 "finished": 247,
                 "finishtime": 141736860,
                 "won": 274,
-                "lost": 204,
-                "forfeited": 50
+                "lost": 205,
+                "forfeited": 51
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1784821767000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Pinne",
+                    "elo": 2307,
+                    "change": -23,
+                    "oelo": 2278,
+                    "ochange": 23,
+                    "time": 517243,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784820059000,
                     "type": "RUINED_PORTAL",
@@ -28077,7 +28091,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 9,
+                "rank": 8,
                 "elo": 2326,
                 "top": 2408,
                 "points": 94,
@@ -29262,7 +29276,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 10,
+                "rank": 9,
                 "elo": 2322,
                 "top": 2329,
                 "points": 28,
@@ -32561,7 +32575,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 11,
+                "rank": 10,
                 "elo": 2320,
                 "top": 2320,
                 "points": 44,
@@ -43692,20 +43706,6 @@
                     "time": 614706,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780501749000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "amariyy",
-                    "elo": 2050,
-                    "change": 17,
-                    "oelo": 1924,
-                    "ochange": -17,
-                    "time": 578600,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -47670,7 +47670,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 16,
+                "rank": 17,
                 "elo": 2263,
                 "top": 2316,
                 "points": 100,
@@ -50941,7 +50941,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 16,
+                "rank": 17,
                 "elo": 2263,
                 "top": 2266,
                 "points": 30,
@@ -52658,7 +52658,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 18,
+                "rank": 19,
                 "elo": 2260,
                 "top": 2260,
                 "points": 24,
@@ -53955,23 +53955,37 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "nickname": "Pinne",
             "stats": {
-                "rank": 19,
-                "elo": 2255,
+                "rank": 16,
+                "elo": 2278,
                 "top": 2278,
                 "points": 78,
                 "pb": 403492,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 135,
-                "playtime": 71334611,
+                "matches": 136,
+                "playtime": 71851854,
                 "finished": 75,
                 "finishtime": 40670731,
-                "won": 84,
+                "won": 85,
                 "lost": 46,
                 "forfeited": 1
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1784821767000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Ancoboyy",
+                    "elo": 2278,
+                    "change": 23,
+                    "oelo": 2307,
+                    "ochange": -23,
+                    "time": 517243,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784728886000,
                     "type": "RUINED_PORTAL",
@@ -55140,7 +55154,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 2255,
                 "top": 2331,
                 "points": 0,
@@ -57142,20 +57156,6 @@
                     "oelo": 1858,
                     "ochange": -19,
                     "time": 508196,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780501653000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1917,
-                    "change": 17,
-                    "oelo": 1802,
-                    "ochange": -17,
-                    "time": 623943,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -68435,20 +68435,6 @@
                     "ochange": -1,
                     "time": 608560,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780501225000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1938,
-                    "change": 16,
-                    "oelo": 1804,
-                    "ochange": -16,
-                    "time": 634397,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -145290,20 +145276,6 @@
                     "time": 821873,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780501225000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1804,
-                    "change": -16,
-                    "oelo": 1938,
-                    "ochange": 16,
-                    "time": 634397,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150449,20 +150421,6 @@
                     "oelo": 1825,
                     "ochange": 23,
                     "time": 830999,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780501650000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Coach_Side",
-                    "elo": 1880,
-                    "change": 18,
-                    "oelo": 1792,
-                    "ochange": -18,
-                    "time": 502830,
                     "forfeited": false,
                     "decayed": false
                 }
