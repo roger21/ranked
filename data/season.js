@@ -1,5 +1,5 @@
 {
-    "date": 1784847601000,
+    "date": 1784848201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4384,20 +4384,6 @@
                     "time": 274291,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780527865000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 2080,
-                    "change": 13,
-                    "oelo": 1868,
-                    "ochange": -13,
-                    "time": 645615,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -7872,20 +7858,6 @@
                     "oelo": 2129,
                     "ochange": 27,
                     "time": 540539,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780527969000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 2294,
-                    "change": -28,
-                    "oelo": 2125,
-                    "ochange": 28,
-                    "time": 545900,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -40079,20 +40051,6 @@
                     "ochange": 22,
                     "time": 274291,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780527969000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "doogile",
-                    "elo": 2125,
-                    "change": 28,
-                    "oelo": 2294,
-                    "ochange": -28,
-                    "time": 545900,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -151122,20 +151080,6 @@
                     "ochange": -19,
                     "time": 327491,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780527865000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 1868,
-                    "change": -13,
-                    "oelo": 2080,
-                    "ochange": 13,
-                    "time": 645615,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
