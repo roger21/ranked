@@ -1,5 +1,5 @@
 {
-    "date": 1784779201000,
+    "date": 1784779801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4606,20 +4606,6 @@
                     "oelo": 2069,
                     "ochange": 21,
                     "time": 580694,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780459250000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 2065,
-                    "change": -19,
-                    "oelo": 2142,
-                    "ochange": 19,
-                    "time": 669394,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -45253,20 +45239,6 @@
                     "oelo": 2178,
                     "ochange": -25,
                     "time": 411669,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780459218000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "priffie",
-                    "elo": 2060,
-                    "change": -24,
-                    "oelo": 2010,
-                    "ochange": 24,
-                    "time": 516101,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -123968,20 +123940,6 @@
                     "oelo": 1964,
                     "ochange": -14,
                     "time": 638026,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780459250000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2142,
-                    "change": 19,
-                    "oelo": 2065,
-                    "ochange": -19,
-                    "time": 669394,
                     "forfeited": false,
                     "decayed": false
                 }
