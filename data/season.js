@@ -1,5 +1,5 @@
 {
-    "date": 1784838601000,
+    "date": 1784839201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -15352,20 +15352,6 @@
                     "oelo": 1771,
                     "ochange": -15,
                     "time": 662721,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780518959000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1919,
-                    "change": 18,
-                    "oelo": 1828,
-                    "ochange": -18,
-                    "time": 576441,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -40498,20 +40484,6 @@
                     "oelo": 2277,
                     "ochange": -29,
                     "time": 435289,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780519060000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2021,
-                    "change": 21,
-                    "oelo": 1996,
-                    "ochange": -21,
-                    "time": 462723,
                     "forfeited": false,
                     "decayed": false
                 }
