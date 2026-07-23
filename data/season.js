@@ -1,5 +1,5 @@
 {
-    "date": 1784778601000,
+    "date": 1784779201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45267,20 +45267,6 @@
                     "oelo": 2010,
                     "ochange": 24,
                     "time": 516101,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780458624000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "wethr",
-                    "elo": 2084,
-                    "change": 14,
-                    "oelo": 1896,
-                    "ochange": -14,
-                    "time": 527121,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143048,20 +143034,6 @@
                     "oelo": 1899,
                     "ochange": -24,
                     "time": 538952,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780459020000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "PandaRuns",
-                    "elo": 1819,
-                    "change": 17,
-                    "oelo": 1700,
-                    "ochange": -17,
-                    "time": 716805,
                     "forfeited": false,
                     "decayed": false
                 }
