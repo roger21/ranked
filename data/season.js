@@ -1,5 +1,5 @@
 {
-    "date": 1784903401000,
+    "date": 1784904001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77242,20 +77242,6 @@
                     "time": 394778,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780583725000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 2040,
-                    "change": -27,
-                    "oelo": 1899,
-                    "ochange": 27,
-                    "time": 654946,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -152605,20 +152591,6 @@
                     "oelo": 1825,
                     "ochange": -20,
                     "time": 665216,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780583882000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "rikifro",
-                    "elo": 1844,
-                    "change": 14,
-                    "oelo": 1645,
-                    "ochange": -14,
-                    "time": 591960,
                     "forfeited": false,
                     "decayed": false
                 }
