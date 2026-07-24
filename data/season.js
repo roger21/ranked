@@ -1,5 +1,5 @@
 {
-    "date": 1784883001000,
+    "date": 1784883601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -116173,20 +116173,6 @@
                     "time": 544782,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780563189000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1623,
-                    "change": -15,
-                    "oelo": 1794,
-                    "ochange": 15,
-                    "time": 601945,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -139082,20 +139068,6 @@
                     "oelo": 1730,
                     "ochange": -19,
                     "time": 796774,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780563175000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "LilMinien",
-                    "elo": 1778,
-                    "change": 19,
-                    "oelo": 1712,
-                    "ochange": -19,
-                    "time": 671706,
                     "forfeited": false,
                     "decayed": false
                 }
