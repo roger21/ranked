@@ -1,5 +1,5 @@
 {
-    "date": 1784895601000,
+    "date": 1784896201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -1933,7 +1933,7 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 2,
-                "elo": 2559,
+                "elo": 2554,
                 "top": 2578,
                 "points": 69,
                 "pb": 372705,
@@ -1949,6 +1949,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1784896048000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2554,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784809647000,
                     "type": null,
@@ -140283,20 +140297,6 @@
                     "time": 528863,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780576076000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Starchomper",
-                    "elo": 1756,
-                    "change": 22,
-                    "oelo": 1765,
-                    "ochange": -22,
-                    "time": 606587,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -145079,20 +145079,6 @@
                     "ochange": -20,
                     "time": 556119,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780575837000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Ninrobo",
-                    "elo": 1832,
-                    "change": -27,
-                    "oelo": 1689,
-                    "ochange": 27,
-                    "time": 437198,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
