@@ -1,5 +1,5 @@
 {
-    "date": 1784861401000,
+    "date": 1784862001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -60827,20 +60827,6 @@
                     "time": 561481,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780541873000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2151,
-                    "change": -22,
-                    "oelo": 2135,
-                    "ochange": 22,
-                    "time": 590101,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97068,20 +97054,6 @@
                     "ochange": 3,
                     "time": 832586,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780541873000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 2135,
-                    "change": 22,
-                    "oelo": 2151,
-                    "ochange": -22,
-                    "time": 590101,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
