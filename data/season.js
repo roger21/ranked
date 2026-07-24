@@ -1,27 +1,41 @@
 {
-    "date": 1784911801000,
+    "date": 1784912401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2583,
+                "elo": 2591,
                 "top": 2649,
                 "points": 135,
                 "pb": 353371,
-                "current": 0,
+                "current": 1,
                 "streak": 16,
-                "matches": 370,
-                "playtime": 197090401,
+                "matches": 371,
+                "playtime": 197582458,
                 "finished": 264,
                 "finishtime": 143206908,
-                "won": 289,
+                "won": 290,
                 "lost": 78,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1784912226000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "KenanKardes",
+                    "elo": 2591,
+                    "change": 8,
+                    "oelo": 2178,
+                    "ochange": -8,
+                    "time": 492057,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784910921000,
                     "type": "RUINED_PORTAL",
@@ -57416,20 +57430,6 @@
                     "time": 611672,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780592141000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1958,
-                    "change": -20,
-                    "oelo": 1990,
-                    "ochange": 20,
-                    "time": 585981,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -103885,22 +103885,36 @@
             "nickname": "KenanKardes",
             "stats": {
                 "rank": 32,
-                "elo": 2186,
+                "elo": 2178,
                 "top": 2189,
                 "points": 0,
                 "pb": 393428,
-                "current": 2,
+                "current": 0,
                 "streak": 6,
-                "matches": 550,
-                "playtime": 306336347,
+                "matches": 551,
+                "playtime": 306828404,
                 "finished": 254,
                 "finishtime": 145611223,
                 "won": 291,
-                "lost": 244,
-                "forfeited": 40
+                "lost": 245,
+                "forfeited": 41
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1784912226000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2178,
+                    "change": -8,
+                    "oelo": 2591,
+                    "ochange": 8,
+                    "time": 492057,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784911642000,
                     "type": "DESERT_TEMPLE",
@@ -144686,20 +144700,6 @@
                     "oelo": 1838,
                     "ochange": 0,
                     "time": 832591,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780592224000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "Voxio",
-                    "elo": 1829,
-                    "change": -1,
-                    "oelo": 1770,
-                    "ochange": 1,
-                    "time": 317610,
                     "forfeited": true,
                     "decayed": false
                 }
