@@ -1,5 +1,5 @@
 {
-    "date": 1784878801000,
+    "date": 1784879401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -116255,20 +116255,6 @@
                     "oelo": 1430,
                     "ochange": -14,
                     "time": 590553,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780559265000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1617,
-                    "change": -15,
-                    "oelo": 1778,
-                    "ochange": 15,
-                    "time": 680649,
                     "forfeited": false,
                     "decayed": false
                 }
