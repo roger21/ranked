@@ -1,27 +1,41 @@
 {
-    "date": 1784907601000,
+    "date": 1784908201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2592,
+                "elo": 2603,
                 "top": 2649,
                 "points": 135,
                 "pb": 353371,
-                "current": 1,
+                "current": 2,
                 "streak": 16,
-                "matches": 367,
-                "playtime": 195631465,
-                "finished": 262,
-                "finishtime": 142274863,
-                "won": 287,
+                "matches": 368,
+                "playtime": 196116120,
+                "finished": 263,
+                "finishtime": 142759518,
+                "won": 288,
                 "lost": 77,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1784907782000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "NoHacsJustRoblox",
+                    "elo": 2603,
+                    "change": 11,
+                    "oelo": 2298,
+                    "ochange": -11,
+                    "time": 484655,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784907241000,
                     "type": "VILLAGE",
@@ -46608,22 +46622,36 @@
             "nickname": "NoHacsJustRoblox",
             "stats": {
                 "rank": 13,
-                "elo": 2309,
+                "elo": 2298,
                 "top": 2320,
                 "points": 44,
                 "pb": 389640,
-                "current": 2,
+                "current": 0,
                 "streak": 8,
-                "matches": 256,
-                "playtime": 140460209,
+                "matches": 257,
+                "playtime": 140944864,
                 "finished": 129,
                 "finishtime": 71866783,
                 "won": 144,
-                "lost": 95,
+                "lost": 96,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1784907782000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2298,
+                    "change": -11,
+                    "oelo": 2603,
+                    "ochange": 11,
+                    "time": 484655,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784906446000,
                     "type": "SHIPWRECK",
@@ -144854,20 +144882,6 @@
                     "oelo": 1604,
                     "ochange": -13,
                     "time": 792265,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780587799000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1818,
-                    "change": 20,
-                    "oelo": 1783,
-                    "ochange": -20,
-                    "time": 727710,
                     "forfeited": false,
                     "decayed": false
                 }
