@@ -1,5 +1,5 @@
 {
-    "date": 1784916001000,
+    "date": 1784916601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -144646,34 +144646,6 @@
                     "time": 548833,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780596598000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "boywithcards",
-                    "elo": 1809,
-                    "change": -20,
-                    "oelo": 1844,
-                    "ochange": 20,
-                    "time": 334877,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780596209000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1829,
-                    "change": 0,
-                    "oelo": 1838,
-                    "ochange": 0,
-                    "time": 832591,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -172680,34 +172652,6 @@
                     "ochange": 20,
                     "time": 613956,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780596504000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "darkk575",
-                    "elo": 1860,
-                    "change": 22,
-                    "oelo": 1878,
-                    "ochange": -22,
-                    "time": 210241,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780596209000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "Gabryll",
-                    "elo": 1838,
-                    "change": 0,
-                    "oelo": 1829,
-                    "ochange": 0,
-                    "time": 832591,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
