@@ -1,5 +1,5 @@
 {
-    "date": 1784935801000,
+    "date": 1784936401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -31613,23 +31613,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 13,
-                "elo": 2307,
+                "rank": 14,
+                "elo": 2285,
                 "top": 2344,
                 "points": 82,
                 "pb": 423216,
-                "current": 3,
+                "current": 0,
                 "streak": 9,
-                "matches": 984,
-                "playtime": 564709496,
+                "matches": 985,
+                "playtime": 565379123,
                 "finished": 466,
                 "finishtime": 278909505,
                 "won": 539,
-                "lost": 428,
+                "lost": 429,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1784936407000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "thecamo6",
+                    "elo": 2285,
+                    "change": -22,
+                    "oelo": 2271,
+                    "ochange": 22,
+                    "time": 669627,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784935127000,
                     "type": "SHIPWRECK",
@@ -37306,7 +37320,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 14,
+                "rank": 13,
                 "elo": 2288,
                 "top": 2288,
                 "points": 0,
@@ -40871,7 +40885,7 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 15,
+                "rank": 14,
                 "elo": 2285,
                 "top": 2296,
                 "points": 34,
@@ -50040,7 +50054,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 18,
+                "rank": 19,
                 "elo": 2263,
                 "top": 2316,
                 "points": 100,
@@ -53269,7 +53283,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 18,
+                "rank": 19,
                 "elo": 2263,
                 "top": 2266,
                 "points": 30,
@@ -54986,23 +55000,37 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 20,
-                "elo": 2249,
+                "rank": 18,
+                "elo": 2271,
                 "top": 2351,
                 "points": 8,
                 "pb": 380958,
-                "current": 0,
+                "current": 1,
                 "streak": 16,
-                "matches": 1351,
-                "playtime": 817222384,
-                "finished": 586,
-                "finishtime": 364360592,
-                "won": 685,
+                "matches": 1352,
+                "playtime": 817892011,
+                "finished": 587,
+                "finishtime": 365030219,
+                "won": 686,
                 "lost": 610,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1784936407000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "v_strid",
+                    "elo": 2271,
+                    "change": 22,
+                    "oelo": 2285,
+                    "ochange": -22,
+                    "time": 669627,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784935592000,
                     "type": "DESERT_TEMPLE",
