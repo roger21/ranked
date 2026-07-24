@@ -1,5 +1,5 @@
 {
-    "date": 1784884801000,
+    "date": 1784885401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -69201,14 +69201,14 @@
             "nickname": "yjako",
             "stats": {
                 "rank": 22,
-                "elo": 2233,
+                "elo": 2232,
                 "top": 2233,
                 "points": 30,
                 "pb": 447931,
                 "current": 4,
                 "streak": 14,
-                "matches": 134,
-                "playtime": 77043123,
+                "matches": 135,
+                "playtime": 77644067,
                 "finished": 82,
                 "finishtime": 46881433,
                 "won": 90,
@@ -69217,6 +69217,20 @@
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1784885305000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "cvctus",
+                    "elo": 2232,
+                    "change": -1,
+                    "oelo": 2189,
+                    "ochange": 1,
+                    "time": 600944,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784794276000,
                     "type": "RUINED_PORTAL",
@@ -98219,15 +98233,15 @@
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "nickname": "cvctus",
             "stats": {
-                "rank": 31,
-                "elo": 2188,
-                "top": 2188,
+                "rank": 30,
+                "elo": 2189,
+                "top": 2189,
                 "points": 4,
                 "pb": 399951,
                 "current": 7,
                 "streak": 8,
-                "matches": 657,
-                "playtime": 411737212,
+                "matches": 658,
+                "playtime": 412338156,
                 "finished": 290,
                 "finishtime": 188486819,
                 "won": 350,
@@ -98236,6 +98250,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1784885305000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "yjako",
+                    "elo": 2189,
+                    "change": 1,
+                    "oelo": 2232,
+                    "ochange": -1,
+                    "time": 600944,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784884633000,
                     "type": "VILLAGE",
@@ -103987,20 +104015,6 @@
                     "oelo": 1666,
                     "ochange": -21,
                     "time": 581573,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780564915000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ahliao",
-                    "elo": 1653,
-                    "change": 13,
-                    "oelo": 1421,
-                    "ochange": -13,
-                    "time": 753395,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -139027,20 +139041,6 @@
                     "ochange": 23,
                     "time": 563436,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780565142000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Haaons_",
-                    "elo": 1765,
-                    "change": -17,
-                    "oelo": 1872,
-                    "ochange": 17,
-                    "time": 212621,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
