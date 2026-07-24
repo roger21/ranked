@@ -1,5 +1,5 @@
 {
-    "date": 1784881801000,
+    "date": 1784882401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9697,20 +9697,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2108,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1780562233000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2113,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -116199,20 +116185,6 @@
                     "oelo": 1794,
                     "ochange": 15,
                     "time": 601945,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780562253000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "splittyPL",
-                    "elo": 1638,
-                    "change": 20,
-                    "oelo": 1590,
-                    "ochange": -20,
-                    "time": 651122,
                     "forfeited": false,
                     "decayed": false
                 }
