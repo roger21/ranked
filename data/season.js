@@ -1,5 +1,5 @@
 {
-    "date": 1784887201000,
+    "date": 1784887801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -70414,7 +70414,7 @@
             "nickname": "woofdoggo_",
             "stats": {
                 "rank": 23,
-                "elo": 2225,
+                "elo": 2220,
                 "top": 2300,
                 "points": 59,
                 "pb": 416072,
@@ -70430,6 +70430,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784887768000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2220,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784801367000,
                     "type": null,
@@ -81030,20 +81044,6 @@
                     "ochange": 22,
                     "time": 425902,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780567716000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1970,
-                    "change": -28,
-                    "oelo": 1790,
-                    "ochange": 28,
-                    "time": 576638,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -139070,20 +139070,6 @@
                     "time": 217488,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780567716000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1790,
-                    "change": 28,
-                    "oelo": 1970,
-                    "ochange": -28,
-                    "time": 576638,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146987,20 +146973,6 @@
                     "oelo": 1697,
                     "ochange": -16,
                     "time": 641876,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780567376000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "amariyy",
-                    "elo": 1831,
-                    "change": 25,
-                    "oelo": 1909,
-                    "ochange": -25,
-                    "time": 823206,
                     "forfeited": false,
                     "decayed": false
                 }
