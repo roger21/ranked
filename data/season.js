@@ -1,5 +1,5 @@
 {
-    "date": 1784887801000,
+    "date": 1784888401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7630,22 +7630,36 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 5,
-                "elo": 2393,
+                "elo": 2403,
                 "top": 2430,
                 "points": 66,
                 "pb": 410465,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
-                "matches": 250,
-                "playtime": 138599360,
+                "matches": 251,
+                "playtime": 138984369,
                 "finished": 155,
                 "finishtime": 85776468,
-                "won": 165,
+                "won": 166,
                 "lost": 78,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1784888320000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "JustAltoid",
+                    "elo": 2403,
+                    "change": 10,
+                    "oelo": 2094,
+                    "ochange": -10,
+                    "time": 385009,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1784886980000,
                     "type": "BURIED_TREASURE",
@@ -139056,20 +139070,6 @@
                     "time": 710918,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780568070000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "amariyy",
-                    "elo": 1774,
-                    "change": -16,
-                    "oelo": 1925,
-                    "ochange": 16,
-                    "time": 217488,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -146959,20 +146959,6 @@
                     "oelo": 1720,
                     "ochange": 25,
                     "time": 696169,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780568221000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BangTeto",
-                    "elo": 1847,
-                    "change": 16,
-                    "oelo": 1697,
-                    "ochange": -16,
-                    "time": 641876,
                     "forfeited": false,
                     "decayed": false
                 }
