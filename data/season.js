@@ -1,5 +1,5 @@
 {
-    "date": 1784904601000,
+    "date": 1784905201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -1909,20 +1909,6 @@
                     "oelo": 1959,
                     "ochange": -7,
                     "time": 513108,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780585148000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 2379,
-                    "change": 10,
-                    "oelo": 2044,
-                    "ochange": -10,
-                    "time": 515506,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -77228,20 +77214,6 @@
                     "time": 267900,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780585148000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 2044,
-                    "change": -10,
-                    "oelo": 2379,
-                    "ochange": 10,
-                    "time": 515506,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -144940,20 +144912,6 @@
                     "time": 587941,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780584676000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1825,
-                    "change": -20,
-                    "oelo": 1864,
-                    "ochange": 20,
-                    "time": 665216,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -152577,20 +152535,6 @@
                     "oelo": 1924,
                     "ochange": 18,
                     "time": 614580,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780584676000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1864,
-                    "change": 20,
-                    "oelo": 1825,
-                    "ochange": -20,
-                    "time": 665216,
                     "forfeited": false,
                     "decayed": false
                 }
