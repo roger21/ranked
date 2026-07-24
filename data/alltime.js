@@ -1686,13 +1686,13 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 11897,
-        "playtime": 7418207482,
+        "matches": 11898,
+        "playtime": 7418655975,
         "finished": 4491,
         "finishtime": 3139588000,
         "won": 5935,
-        "lost": 5569,
-        "forfeited": 1564
+        "lost": 5570,
+        "forfeited": 1565
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "nickname": "CroProYT",
@@ -2499,13 +2499,13 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 8701,
-        "playtime": 5290393344,
+        "matches": 8702,
+        "playtime": 5290916354,
         "finished": 3569,
         "finishtime": 2393214106,
         "won": 4521,
-        "lost": 3961,
-        "forfeited": 1115
+        "lost": 3962,
+        "forfeited": 1116
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
@@ -5765,13 +5765,13 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 9733,
-        "playtime": 6204983675,
+        "matches": 9734,
+        "playtime": 6205283718,
         "finished": 3455,
         "finishtime": 2453053164,
         "won": 4847,
-        "lost": 4471,
-        "forfeited": 1143
+        "lost": 4472,
+        "forfeited": 1144
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "hack_page",
