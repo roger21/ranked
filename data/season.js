@@ -1,5 +1,5 @@
 {
-    "date": 1784882401000,
+    "date": 1784883001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -139097,20 +139097,6 @@
                     "ochange": -19,
                     "time": 671706,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780562447000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1759,
-                    "change": -21,
-                    "oelo": 1779,
-                    "ochange": 21,
-                    "time": 225986,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
