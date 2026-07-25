@@ -1,5 +1,5 @@
 {
-    "date": 1784950201000,
+    "date": 1784950801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90804,20 +90804,6 @@
                     "oelo": 1715,
                     "ochange": 23,
                     "time": 635573,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780630220000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "LilMinien",
-                    "elo": 1782,
-                    "change": 18,
-                    "oelo": 1694,
-                    "ochange": -18,
-                    "time": 726722,
                     "forfeited": false,
                     "decayed": false
                 }
