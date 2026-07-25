@@ -1,5 +1,5 @@
 {
-    "date": 1784941201000,
+    "date": 1784941801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -73875,34 +73875,6 @@
                     "oelo": 1619,
                     "ochange": -18,
                     "time": 316612,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780621530000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "mayRNG",
-                    "elo": 1695,
-                    "change": 18,
-                    "oelo": 1596,
-                    "ochange": -18,
-                    "time": 248885,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780621216000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "natebridge",
-                    "elo": 1677,
-                    "change": 17,
-                    "oelo": 1565,
-                    "ochange": -17,
-                    "time": 219300,
                     "forfeited": true,
                     "decayed": false
                 }
