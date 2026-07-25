@@ -1,5 +1,5 @@
 {
-    "date": 1784941801000,
+    "date": 1784942401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4312,20 +4312,6 @@
                     "oelo": 1887,
                     "ochange": -13,
                     "time": 597324,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780622335000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2106,
-                    "change": 17,
-                    "oelo": 2002,
-                    "ochange": -17,
-                    "time": 637957,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -73861,20 +73847,6 @@
                     "oelo": 1719,
                     "ochange": -21,
                     "time": 367298,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780622094000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "chuwulu",
-                    "elo": 1713,
-                    "change": 18,
-                    "oelo": 1619,
-                    "ochange": -18,
-                    "time": 316612,
                     "forfeited": true,
                     "decayed": false
                 }
