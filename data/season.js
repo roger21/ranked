@@ -1,5 +1,5 @@
 {
-    "date": 1784977801000,
+    "date": 1784978401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -31474,22 +31474,36 @@
             "nickname": "ulsah1n",
             "stats": {
                 "rank": 13,
-                "elo": 2291,
+                "elo": 2304,
                 "top": 2355,
                 "points": 33,
-                "pb": 401156,
-                "current": 1,
+                "pb": 395866,
+                "current": 2,
                 "streak": 8,
-                "matches": 752,
-                "playtime": 412769616,
-                "finished": 379,
-                "finishtime": 220368205,
-                "won": 429,
+                "matches": 753,
+                "playtime": 413165482,
+                "finished": 380,
+                "finishtime": 220764071,
+                "won": 430,
                 "lost": 316,
                 "forfeited": 68
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1784978070000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "_Pasha1337_",
+                    "elo": 2304,
+                    "change": 13,
+                    "oelo": 2071,
+                    "ochange": -13,
+                    "time": 395866,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784976925000,
                     "type": "RUINED_PORTAL",
