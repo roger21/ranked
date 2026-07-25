@@ -1,5 +1,5 @@
 {
-    "date": 1784949601000,
+    "date": 1784950201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4256,20 +4256,6 @@
                     "oelo": 2010,
                     "ochange": -15,
                     "time": 533416,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780630120000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2171,
-                    "change": 13,
-                    "oelo": 1953,
-                    "ochange": -13,
-                    "time": 628229,
                     "forfeited": false,
                     "decayed": false
                 }
