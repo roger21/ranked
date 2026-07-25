@@ -1,5 +1,5 @@
 {
-    "date": 1785004801000,
+    "date": 1785005401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -25530,20 +25530,6 @@
                     "ochange": -15,
                     "time": 620880,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780685122000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 2060,
-                    "change": -26,
-                    "oelo": 1942,
-                    "ochange": 26,
-                    "time": 514916,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -153822,7 +153808,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2113,
                 "top": 2191,
                 "points": 0,
@@ -161923,7 +161909,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2110,
                 "top": 2230,
                 "points": 36,
@@ -166020,7 +166006,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2110,
                 "top": 2164,
                 "points": 7,
@@ -168710,20 +168696,6 @@
                     "time": 338406,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780685093000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Candypat",
-                    "elo": 1825,
-                    "change": 18,
-                    "oelo": 1729,
-                    "ochange": -18,
-                    "time": 392421,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -168731,7 +168703,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2106,
                 "top": 2106,
                 "points": 15,
@@ -175362,7 +175334,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2106,
                 "top": 2197,
                 "points": 6,
