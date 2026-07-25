@@ -2460,11 +2460,11 @@
         },
         "pb": 413832,
         "streak": 14,
-        "matches": 1548,
-        "playtime": 929897110,
+        "matches": 1549,
+        "playtime": 930163750,
         "finished": 663,
         "finishtime": 442757567,
-        "won": 875,
+        "won": 876,
         "lost": 607,
         "forfeited": 206
     },
@@ -5145,13 +5145,13 @@
         },
         "pb": 404350,
         "streak": 22,
-        "matches": 7645,
-        "playtime": 4008448939,
-        "finished": 2235,
-        "finishtime": 1463664787,
-        "won": 3672,
-        "lost": 3542,
-        "forfeited": 2610
+        "matches": 7647,
+        "playtime": 4009173814,
+        "finished": 2236,
+        "finishtime": 1464123022,
+        "won": 3673,
+        "lost": 3543,
+        "forfeited": 2611
     },
     "be4ad7e999e14a74974d47ac650062a3": {
         "nickname": "bbiddd",
@@ -6226,33 +6226,6 @@
         "won": 4108,
         "lost": 3814,
         "forfeited": 2377
-    },
-    "eb136e7e26124f8daa99e521da609135": {
-        "nickname": "Frolde",
-        "country": "dk",
-        "top": {
-            "7": 1407,
-            "8": 1469,
-            "9": 1891,
-            "10": 2288,
-            "11": 2197
-        },
-        "points": {
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 14,
-            "11": 6
-        },
-        "pb": 409037,
-        "streak": 10,
-        "matches": 6670,
-        "playtime": 3983393855,
-        "finished": 2218,
-        "finishtime": 1575483812,
-        "won": 3258,
-        "lost": 3154,
-        "forfeited": 1657
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
