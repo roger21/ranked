@@ -1,5 +1,5 @@
 {
-    "date": 1784963401000,
+    "date": 1784964001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -143379,7 +143379,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2131,
                 "top": 2249,
                 "points": 41,
@@ -146160,7 +146160,7 @@
             "uuid": "9dcb17d831b24df2bae778cfd750ab1b",
             "nickname": "loodlow",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2130,
                 "top": 2136,
                 "points": 7,
@@ -148773,7 +148773,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2124,
                 "top": 2145,
                 "points": 14,
@@ -150350,7 +150350,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2121,
                 "top": 2191,
                 "points": 0,
@@ -158185,23 +158185,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 47,
-                "elo": 2120,
+                "rank": 41,
+                "elo": 2145,
                 "top": 2210,
                 "points": 31,
                 "pb": 392259,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 616,
-                "playtime": 339744242,
-                "finished": 298,
-                "finishtime": 173624639,
-                "won": 331,
+                "matches": 617,
+                "playtime": 340289159,
+                "finished": 299,
+                "finishtime": 174169556,
+                "won": 332,
                 "lost": 266,
                 "forfeited": 54
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1784964059000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "yjako",
+                    "elo": 2145,
+                    "change": 25,
+                    "oelo": 2239,
+                    "ochange": -25,
+                    "time": 544917,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1784784192000,
                     "type": "DESERT_TEMPLE",
