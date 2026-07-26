@@ -1,5 +1,5 @@
 {
-    "date": 1785063001000,
+    "date": 1785063601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78576,20 +78576,6 @@
                     "time": 597472,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780743505000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "litdab",
-                    "elo": 1887,
-                    "change": -20,
-                    "oelo": 1917,
-                    "ochange": 20,
-                    "time": 612061,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -141480,20 +141466,6 @@
                     "oelo": 1855,
                     "ochange": 18,
                     "time": 508754,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780743540000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ShyCircle230",
-                    "elo": 1789,
-                    "change": 20,
-                    "oelo": 1760,
-                    "ochange": -20,
-                    "time": 610071,
                     "forfeited": false,
                     "decayed": false
                 }
