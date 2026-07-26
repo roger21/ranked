@@ -1,5 +1,5 @@
 {
-    "date": 1785042001000,
+    "date": 1785042601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100447,20 +100447,6 @@
                     "time": 695049,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780722366000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 1880,
-                    "change": 20,
-                    "oelo": 1833,
-                    "ochange": -20,
-                    "time": 477469,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114033,20 +114019,6 @@
                     "oelo": 1680,
                     "ochange": -15,
                     "time": 535163,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780722366000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1833,
-                    "change": -20,
-                    "oelo": 1880,
-                    "ochange": 20,
-                    "time": 477469,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -133885,34 +133857,6 @@
                     "time": 614637,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780722584000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Rixzzs",
-                    "elo": 1744,
-                    "change": -22,
-                    "oelo": 1739,
-                    "ochange": 22,
-                    "time": 214065,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780722306000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1766,
-                    "change": -18,
-                    "oelo": 1846,
-                    "ochange": 18,
-                    "time": 649922,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -141845,20 +141789,6 @@
                     "ochange": -2,
                     "time": 542464,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780722306000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1846,
-                    "change": 18,
-                    "oelo": 1766,
-                    "ochange": -18,
-                    "time": 649922,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -175656,7 +175586,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2102,
                 "top": 2298,
                 "points": 15,
