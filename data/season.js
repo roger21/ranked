@@ -1,5 +1,5 @@
 {
-    "date": 1785081001000,
+    "date": 1785081601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -79164,20 +79164,6 @@
                     "time": 211885,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780761492000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1911,
-                    "change": 24,
-                    "oelo": 1962,
-                    "ochange": -24,
-                    "time": 985106,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -89609,20 +89595,6 @@
                     "oelo": 1955,
                     "ochange": 21,
                     "time": 694293,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780761492000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1962,
-                    "change": -24,
-                    "oelo": 1911,
-                    "ochange": 24,
-                    "time": 985106,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -134011,20 +133983,6 @@
                     "time": 668815,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780761247000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "gothy666",
-                    "elo": 1655,
-                    "change": -23,
-                    "oelo": 1626,
-                    "ochange": 23,
-                    "time": 251431,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -178410,20 +178368,6 @@
                     "oelo": 2026,
                     "ochange": 16,
                     "time": 538325,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780761172000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "furk1e",
-                    "elo": 1893,
-                    "change": 15,
-                    "oelo": 1721,
-                    "ochange": -15,
-                    "time": 529185,
                     "forfeited": false,
                     "decayed": false
                 }
