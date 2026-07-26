@@ -1,5 +1,5 @@
 {
-    "date": 1785082801000,
+    "date": 1785083401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -48632,22 +48632,36 @@
             "nickname": "DARVY__X1",
             "stats": {
                 "rank": 17,
-                "elo": 2264,
+                "elo": 2276,
                 "top": 2338,
                 "points": 28,
                 "pb": 395829,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 703,
-                "playtime": 394260173,
-                "finished": 325,
-                "finishtime": 189440125,
-                "won": 370,
+                "matches": 704,
+                "playtime": 394832866,
+                "finished": 326,
+                "finishtime": 190012818,
+                "won": 371,
                 "lost": 305,
                 "forfeited": 25
             },
             "country": "je",
             "matches": [
+                {
+                    "date": 1785082927000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "poopiefart13",
+                    "elo": 2276,
+                    "change": 12,
+                    "oelo": 2012,
+                    "ochange": -12,
+                    "time": 572693,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785082001000,
                     "type": "VILLAGE",
@@ -79163,20 +79177,6 @@
                     "ochange": 15,
                     "time": 693364,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780762893000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 1925,
-                    "change": 14,
-                    "oelo": 1740,
-                    "ochange": -14,
-                    "time": 211885,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -127163,23 +127163,37 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 41,
-                "elo": 2144,
+                "rank": 46,
+                "elo": 2119,
                 "top": 2191,
                 "points": 0,
                 "pb": 405777,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 1195,
-                "playtime": 726371043,
+                "matches": 1196,
+                "playtime": 726794641,
                 "finished": 516,
                 "finishtime": 321392409,
                 "won": 606,
-                "lost": 541,
+                "lost": 542,
                 "forfeited": 8
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1785083442000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "poopiefart13",
+                    "elo": 2119,
+                    "change": -25,
+                    "oelo": 2037,
+                    "ochange": 25,
+                    "time": 423598,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785082682000,
                     "type": "DESERT_TEMPLE",
@@ -134928,7 +134942,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2143,
                 "top": 2143,
                 "points": 10,
@@ -141762,20 +141776,6 @@
                     "time": 404297,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780763018000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Jedispace2",
-                    "elo": 1651,
-                    "change": 17,
-                    "oelo": 1524,
-                    "ochange": -17,
-                    "time": 890964,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -141783,7 +141783,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2134,
                 "top": 2160,
                 "points": 8,
@@ -147476,7 +147476,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2131,
                 "top": 2249,
                 "points": 41,
@@ -150243,7 +150243,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2131,
                 "top": 2155,
                 "points": 21,
@@ -152870,7 +152870,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2123,
                 "top": 2298,
                 "points": 15,
