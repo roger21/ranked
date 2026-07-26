@@ -1,5 +1,5 @@
 {
-    "date": 1785046201000,
+    "date": 1785046801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100433,20 +100433,6 @@
                     "time": 595845,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780726235000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Bodek",
-                    "elo": 1820,
-                    "change": 22,
-                    "oelo": 1823,
-                    "ochange": -22,
-                    "time": 602620,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -133701,20 +133687,6 @@
                     "oelo": 1668,
                     "ochange": 24,
                     "time": 723112,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780726800000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "NokeyDokey",
-                    "elo": 1746,
-                    "change": 19,
-                    "oelo": 1672,
-                    "ochange": -19,
-                    "time": 630990,
                     "forfeited": false,
                     "decayed": false
                 }
