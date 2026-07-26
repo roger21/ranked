@@ -1,5 +1,5 @@
 {
-    "date": 1785033001000,
+    "date": 1785033601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4200,20 +4200,6 @@
                     "oelo": 2201,
                     "ochange": -19,
                     "time": 445713,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780713305000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2247,
-                    "change": -30,
-                    "oelo": 2010,
-                    "ochange": 30,
-                    "time": 502709,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -64979,20 +64965,6 @@
                     "time": 552850,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780713317000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 1984,
-                    "change": -20,
-                    "oelo": 2020,
-                    "ochange": 20,
-                    "time": 574049,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97776,20 +97748,6 @@
                     "oelo": 1999,
                     "ochange": 15,
                     "time": 552850,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780713576000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1845,
-                    "change": 14,
-                    "oelo": 1634,
-                    "ochange": -14,
-                    "time": 591360,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -192596,20 +192554,6 @@
                     "oelo": 2130,
                     "ochange": 16,
                     "time": 474469,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780713305000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2010,
-                    "change": 30,
-                    "oelo": 2247,
-                    "ochange": -30,
-                    "time": 502709,
                     "forfeited": false,
                     "decayed": false
                 }
