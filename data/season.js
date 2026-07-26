@@ -1,5 +1,5 @@
 {
-    "date": 1785037201000,
+    "date": 1785037801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4160,20 +4160,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1780717206000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 2216,
-                    "change": -21,
-                    "oelo": 2234,
-                    "ochange": 21,
-                    "time": 491703,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -9421,20 +9407,6 @@
                     "oelo": 2178,
                     "ochange": 23,
                     "time": 505727,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780717206000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2234,
-                    "change": 21,
-                    "oelo": 2216,
-                    "ochange": -21,
-                    "time": 491703,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -57105,20 +57077,6 @@
                     "oelo": 1747,
                     "ochange": -12,
                     "time": 601098,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780717607000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2008,
-                    "change": -21,
-                    "oelo": 2014,
-                    "ochange": 21,
-                    "time": 578085,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -114203,20 +114161,6 @@
                     "time": 486232,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780717494000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1911,
-                    "change": 19,
-                    "oelo": 1833,
-                    "ochange": -19,
-                    "time": 780700,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -140950,20 +140894,6 @@
                     "time": 486232,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780717685000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Oromiyaa",
-                    "elo": 1732,
-                    "change": 16,
-                    "oelo": 1586,
-                    "ochange": -16,
-                    "time": 602759,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -157398,20 +157328,6 @@
                     "ochange": 0,
                     "time": 683014,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780717494000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "sylvie0616",
-                    "elo": 1833,
-                    "change": -19,
-                    "oelo": 1911,
-                    "ochange": 19,
-                    "time": 780700,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
