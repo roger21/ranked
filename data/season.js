@@ -1,5 +1,5 @@
 {
-    "date": 1785045601000,
+    "date": 1785046201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -113951,20 +113951,6 @@
                     "time": 595845,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780725841000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1919,
-                    "change": 17,
-                    "oelo": 1800,
-                    "ochange": -17,
-                    "time": 482544,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -133729,20 +133715,6 @@
                     "oelo": 1672,
                     "ochange": -19,
                     "time": 630990,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780725764000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sanjinhu",
-                    "elo": 1727,
-                    "change": -19,
-                    "oelo": 1789,
-                    "ochange": 19,
-                    "time": 665847,
                     "forfeited": false,
                     "decayed": false
                 }
