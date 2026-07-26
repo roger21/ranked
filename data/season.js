@@ -1,5 +1,5 @@
 {
-    "date": 1785055801000,
+    "date": 1785056401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -133745,20 +133745,6 @@
                     "time": 596705,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780736186000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "qtipp",
-                    "elo": 1713,
-                    "change": -25,
-                    "oelo": 1625,
-                    "ochange": 25,
-                    "time": 718983,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -141607,20 +141593,6 @@
                     "ochange": 16,
                     "time": 648199,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780736108000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "12BrainCells",
-                    "elo": 1808,
-                    "change": -1,
-                    "oelo": 1697,
-                    "ochange": 1,
-                    "time": 334638,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
