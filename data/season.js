@@ -1,5 +1,5 @@
 {
-    "date": 1785057001000,
+    "date": 1785057601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -83587,20 +83587,6 @@
                     "time": 569453,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780737516000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1944,
-                    "change": 16,
-                    "oelo": 1789,
-                    "ochange": -16,
-                    "time": 491799,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -133716,20 +133702,6 @@
                     "ochange": -17,
                     "time": 562532,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780737122000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "12BrainCells",
-                    "elo": 1716,
-                    "change": -21,
-                    "oelo": 1744,
-                    "ochange": 21,
-                    "time": 210391,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
