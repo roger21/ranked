@@ -1,5 +1,5 @@
 {
-    "date": 1785060601000,
+    "date": 1785061201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78590,20 +78590,6 @@
                     "time": 652942,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780740650000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ShyCircle230",
-                    "elo": 1889,
-                    "change": 17,
-                    "oelo": 1763,
-                    "ochange": -17,
-                    "time": 484539,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -133758,20 +133744,6 @@
                     "ochange": 1,
                     "time": 671141,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780740686000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "rsgchud",
-                    "elo": 1806,
-                    "change": 14,
-                    "oelo": 1597,
-                    "ochange": -14,
-                    "time": 734731,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
