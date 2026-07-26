@@ -1,5 +1,5 @@
 {
-    "date": 1785047401000,
+    "date": 1785048001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -87166,20 +87166,6 @@
                     "time": 460355,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780727839000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 2091,
-                    "change": 12,
-                    "oelo": 1832,
-                    "ochange": -12,
-                    "time": 700151,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100403,20 +100389,6 @@
                     "oelo": 1635,
                     "ochange": -14,
                     "time": 696762,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780727839000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 1832,
-                    "change": -12,
-                    "oelo": 2091,
-                    "ochange": 12,
-                    "time": 700151,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -133645,20 +133617,6 @@
                     "oelo": 1725,
                     "ochange": -21,
                     "time": 488219,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780727733000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 1722,
-                    "change": -24,
-                    "oelo": 1668,
-                    "ochange": 24,
-                    "time": 723112,
                     "forfeited": false,
                     "decayed": false
                 }
