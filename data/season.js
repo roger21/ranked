@@ -1,5 +1,5 @@
 {
-    "date": 1785155401000,
+    "date": 1785156001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63402,20 +63402,6 @@
                     "time": 662411,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780835594000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1889,
-                    "change": 20,
-                    "oelo": 1853,
-                    "ochange": -20,
-                    "time": 363902,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -80105,20 +80091,6 @@
                     "oelo": 1770,
                     "ochange": -15,
                     "time": 221667,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780835924000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 1916,
-                    "change": -22,
-                    "oelo": 1914,
-                    "ochange": 22,
-                    "time": 589187,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -168914,7 +168886,7 @@
             "nickname": "Frolde",
             "stats": {
                 "rank": 49,
-                "elo": 2101,
+                "elo": 2096,
                 "top": 2197,
                 "points": 6,
                 "pb": 409037,
@@ -168930,6 +168902,20 @@
             },
             "country": "dk",
             "matches": [
+                {
+                    "date": 1785155851000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2096,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785069450000,
                     "type": null,
