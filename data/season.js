@@ -1,5 +1,5 @@
 {
-    "date": 1785178801000,
+    "date": 1785179401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -111329,20 +111329,6 @@
                     "time": 524912,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780859235000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 2021,
-                    "change": 20,
-                    "oelo": 1969,
-                    "ochange": -20,
-                    "time": 435666,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -162917,7 +162903,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2106,
                 "top": 2106,
                 "points": 15,
@@ -169380,7 +169366,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2102,
                 "top": 2346,
                 "points": 20,
@@ -173519,7 +173505,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2102,
                 "top": 2130,
                 "points": 9,
@@ -175712,7 +175698,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2096,
                 "top": 2197,
                 "points": 6,
