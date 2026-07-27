@@ -1,5 +1,5 @@
 {
-    "date": 1785133801000,
+    "date": 1785134401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141417,20 +141417,6 @@
                     "time": 600060,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780814080000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "LEC666888",
-                    "elo": 1694,
-                    "change": 24,
-                    "oelo": 1751,
-                    "ochange": -24,
-                    "time": 563853,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -172427,23 +172413,37 @@
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "nickname": "dandannyboy",
             "stats": {
-                "rank": 49,
-                "elo": 2097,
+                "rank": 54,
+                "elo": 2071,
                 "top": 2264,
                 "points": 18,
                 "pb": 409746,
                 "current": 0,
                 "streak": 12,
-                "matches": 977,
-                "playtime": 551347072,
+                "matches": 978,
+                "playtime": 551944071,
                 "finished": 461,
                 "finishtime": 281355777,
                 "won": 514,
-                "lost": 437,
+                "lost": 438,
                 "forfeited": 123
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1785134402000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "_Hypn0tic",
+                    "elo": 2071,
+                    "change": -26,
+                    "oelo": 1954,
+                    "ochange": 26,
+                    "time": 596999,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785132766000,
                     "type": "RUINED_PORTAL",
@@ -179688,7 +179688,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2095,
                 "top": 2208,
                 "points": 18,
