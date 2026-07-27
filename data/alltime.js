@@ -1752,13 +1752,13 @@
         },
         "pb": 442200,
         "streak": 11,
-        "matches": 2054,
-        "playtime": 1210580552,
+        "matches": 2055,
+        "playtime": 1210920664,
         "finished": 875,
         "finishtime": 591364335,
         "won": 1102,
-        "lost": 896,
-        "forfeited": 415
+        "lost": 897,
+        "forfeited": 416
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
         "nickname": "okshey",
