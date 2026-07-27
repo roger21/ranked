@@ -1,5 +1,5 @@
 {
-    "date": 1785159601000,
+    "date": 1785160201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -44172,20 +44172,6 @@
                     "time": 558033,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780839693000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "SammmyG",
-                    "elo": 2237,
-                    "change": 17,
-                    "oelo": 2107,
-                    "ochange": -17,
-                    "time": 514973,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -55874,7 +55860,7 @@
             "nickname": "Watermelon1708",
             "stats": {
                 "rank": 19,
-                "elo": 2278,
+                "elo": 2273,
                 "top": 2288,
                 "points": 0,
                 "pb": 404207,
@@ -55890,6 +55876,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1785159811000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2273,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785073410000,
                     "type": null,
@@ -63386,20 +63386,6 @@
                     "oelo": 1901,
                     "ochange": -21,
                     "time": 526775,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780839778000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "rurururuuururuu",
-                    "elo": 1900,
-                    "change": 13,
-                    "oelo": 1684,
-                    "ochange": -13,
-                    "time": 660829,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -109878,20 +109864,6 @@
                     "time": 526775,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780839876000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "darkk575",
-                    "elo": 1922,
-                    "change": -19,
-                    "oelo": 1979,
-                    "ochange": 19,
-                    "time": 210245,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -152012,20 +151984,6 @@
                     "oelo": 1964,
                     "ochange": -15,
                     "time": 702344,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780839693000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2107,
-                    "change": -17,
-                    "oelo": 2237,
-                    "ochange": 17,
-                    "time": 514973,
                     "forfeited": false,
                     "decayed": false
                 }
