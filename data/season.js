@@ -1,5 +1,5 @@
 {
-    "date": 1785169201000,
+    "date": 1785169802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63206,20 +63206,6 @@
                     "time": 595950,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780849217000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1990,
-                    "change": 22,
-                    "oelo": 1990,
-                    "ochange": -22,
-                    "time": 584748,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106255,20 +106241,6 @@
                     "oelo": 1793,
                     "ochange": -14,
                     "time": 564836,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780849217000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1990,
-                    "change": -22,
-                    "oelo": 1990,
-                    "ochange": 22,
-                    "time": 584748,
                     "forfeited": false,
                     "decayed": false
                 }
