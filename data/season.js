@@ -1,5 +1,5 @@
 {
-    "date": 1785171001000,
+    "date": 1785171601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63176,20 +63176,6 @@
                     "oelo": 2119,
                     "ochange": 16,
                     "time": 453848,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780851285000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1984,
-                    "change": -25,
-                    "oelo": 1903,
-                    "ochange": 25,
-                    "time": 687960,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -140122,23 +140108,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 42,
-                "elo": 2131,
+                "rank": 46,
+                "elo": 2105,
                 "top": 2366,
                 "points": 12,
                 "pb": 379483,
                 "current": 0,
                 "streak": 9,
-                "matches": 807,
-                "playtime": 436150366,
+                "matches": 808,
+                "playtime": 436636576,
                 "finished": 369,
                 "finishtime": 212392984,
                 "won": 425,
-                "lost": 360,
-                "forfeited": 109
+                "lost": 361,
+                "forfeited": 110
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1785171636000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Bodek",
+                    "elo": 2105,
+                    "change": -26,
+                    "oelo": 1972,
+                    "ochange": 26,
+                    "time": 486210,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785170677000,
                     "type": "RUINED_PORTAL",
@@ -151209,7 +151209,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2118,
                 "top": 2228,
                 "points": 31,
@@ -155166,7 +155166,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2106,
                 "top": 2106,
                 "points": 15,
