@@ -1,5 +1,5 @@
 {
-    "date": 1785118801000,
+    "date": 1785119401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -69107,22 +69107,36 @@
             "nickname": "sylvie0616",
             "stats": {
                 "rank": 24,
-                "elo": 2223,
-                "top": 2234,
+                "elo": 2235,
+                "top": 2235,
                 "points": 7,
                 "pb": 418825,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 586,
-                "playtime": 315808729,
-                "finished": 271,
-                "finishtime": 155421411,
-                "won": 314,
+                "matches": 587,
+                "playtime": 316372360,
+                "finished": 272,
+                "finishtime": 155985042,
+                "won": 315,
                 "lost": 248,
                 "forfeited": 96
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1785119280000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "JackoWacko62",
+                    "elo": 2235,
+                    "change": 12,
+                    "oelo": 1971,
+                    "ochange": -12,
+                    "time": 563631,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785118619000,
                     "type": "VILLAGE",
@@ -74245,20 +74259,6 @@
                     "ochange": 23,
                     "time": 268210,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780799075000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "raheemm",
-                    "elo": 1822,
-                    "change": 15,
-                    "oelo": 1663,
-                    "ochange": -15,
-                    "time": 710028,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
