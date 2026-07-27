@@ -1,5 +1,5 @@
 {
-    "date": 1785166201000,
+    "date": 1785166801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63262,20 +63262,6 @@
                     "time": 554993,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780846330000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1958,
-                    "change": -20,
-                    "oelo": 2000,
-                    "ochange": 20,
-                    "time": 613392,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -88409,20 +88395,6 @@
                     "time": 554993,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780846638000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 1947,
-                    "change": 17,
-                    "oelo": 1842,
-                    "ochange": -17,
-                    "time": 595000,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106425,20 +106397,6 @@
                     "time": 590619,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780846330000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2000,
-                    "change": 20,
-                    "oelo": 1958,
-                    "ochange": -20,
-                    "time": 613392,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -117160,20 +117118,6 @@
                     "oelo": 1980,
                     "ochange": -20,
                     "time": 590619,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780846216000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Erikfzf",
-                    "elo": 2003,
-                    "change": 24,
-                    "oelo": 2075,
-                    "ochange": -24,
-                    "time": 562750,
                     "forfeited": false,
                     "decayed": false
                 }
