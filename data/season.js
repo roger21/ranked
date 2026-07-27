@@ -1,5 +1,5 @@
 {
-    "date": 1785135001000,
+    "date": 1785135601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141373,20 +141373,6 @@
                     "oelo": 1747,
                     "ochange": 20,
                     "time": 827484,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780815495000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ElegantRobin",
-                    "elo": 1730,
-                    "change": 18,
-                    "oelo": 1626,
-                    "ochange": -18,
-                    "time": 631663,
                     "forfeited": false,
                     "decayed": false
                 }
