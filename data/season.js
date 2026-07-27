@@ -1,5 +1,5 @@
 {
-    "date": 1785143401000,
+    "date": 1785144001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77032,20 +77032,6 @@
                     "time": 632712,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780823991000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1993,
-                    "change": 13,
-                    "oelo": 1769,
-                    "ochange": -13,
-                    "time": 604823,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126320,20 +126306,6 @@
                     "oelo": 2063,
                     "ochange": 13,
                     "time": 666626,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780823800000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "boywithcards",
-                    "elo": 1857,
-                    "change": 20,
-                    "oelo": 1821,
-                    "ochange": -20,
-                    "time": 540045,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176697,20 +176669,6 @@
                     "oelo": 1844,
                     "ochange": -13,
                     "time": 666626,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780823684000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Haaons_",
-                    "elo": 2050,
-                    "change": 13,
-                    "oelo": 1834,
-                    "ochange": -13,
-                    "time": 542769,
                     "forfeited": false,
                     "decayed": false
                 }
