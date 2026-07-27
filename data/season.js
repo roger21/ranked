@@ -1,5 +1,5 @@
 {
-    "date": 1785163202000,
+    "date": 1785163801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -15744,20 +15744,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2119,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1780843771000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2124,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -63318,20 +63304,6 @@
                     "time": 592162,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780843693000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1956,
-                    "change": 17,
-                    "oelo": 1827,
-                    "ochange": -17,
-                    "time": 504306,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -88528,7 +88500,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2205,
                 "top": 2300,
                 "points": 59,
@@ -89391,7 +89363,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2205,
                 "top": 2205,
                 "points": 14,
@@ -91024,7 +90996,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2204,
                 "top": 2264,
                 "points": 30,
@@ -92615,7 +92587,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2202,
                 "top": 2222,
                 "points": 0,
@@ -100380,7 +100352,7 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2202,
                 "top": 2202,
                 "points": 6,
@@ -102951,7 +102923,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2196,
                 "top": 2196,
                 "points": 18,
@@ -106579,20 +106551,6 @@
                     "time": 592162,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780843696000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Sadekeppi",
-                    "elo": 1961,
-                    "change": 21,
-                    "oelo": 1940,
-                    "ochange": -21,
-                    "time": 607732,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106600,23 +106558,37 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 31,
-                "elo": 2196,
+                "rank": 26,
+                "elo": 2208,
                 "top": 2265,
                 "points": 47,
                 "pb": 407022,
-                "current": 1,
+                "current": 2,
                 "streak": 11,
-                "matches": 569,
-                "playtime": 322935975,
-                "finished": 283,
-                "finishtime": 165003384,
-                "won": 313,
+                "matches": 570,
+                "playtime": 323493013,
+                "finished": 284,
+                "finishtime": 165560422,
+                "won": 314,
                 "lost": 238,
                 "forfeited": 8
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1785163821000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "TheGamerGuyy",
+                    "elo": 2208,
+                    "change": 12,
+                    "oelo": 1934,
+                    "ochange": -12,
+                    "time": 557038,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785162900000,
                     "type": "RUINED_PORTAL",
@@ -134324,20 +134296,6 @@
                     "time": 468866,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780843696000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1940,
-                    "change": -21,
-                    "oelo": 1961,
-                    "ochange": 21,
-                    "time": 607732,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -140687,20 +140645,6 @@
                     "oelo": 1804,
                     "ochange": -23,
                     "time": 654123,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780843729000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bluki_",
-                    "elo": 1734,
-                    "change": 20,
-                    "oelo": 1705,
-                    "ochange": -20,
-                    "time": 608903,
                     "forfeited": false,
                     "decayed": false
                 }
