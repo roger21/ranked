@@ -1,5 +1,5 @@
 {
-    "date": 1785145801000,
+    "date": 1785146401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77004,20 +77004,6 @@
                     "time": 681831,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780826147000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Haaons_",
-                    "elo": 1981,
-                    "change": 15,
-                    "oelo": 1819,
-                    "ochange": -15,
-                    "time": 695959,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126250,20 +126236,6 @@
                     "oelo": 1675,
                     "ochange": -13,
                     "time": 673425,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780825841000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "boywithcards",
-                    "elo": 1883,
-                    "change": 19,
-                    "oelo": 1809,
-                    "ochange": -19,
-                    "time": 524069,
                     "forfeited": false,
                     "decayed": false
                 }
