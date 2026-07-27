@@ -1,5 +1,5 @@
 {
-    "date": 1785185401000,
+    "date": 1785186001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52579,20 +52579,6 @@
                     "oelo": 2014,
                     "ochange": 29,
                     "time": 559955,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780865926000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 2248,
-                    "change": 12,
-                    "oelo": 1998,
-                    "ochange": -12,
-                    "time": 524687,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -127700,7 +127686,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 2143,
                 "top": 2143,
                 "points": 10,
@@ -133995,7 +133981,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2134,
                 "top": 2160,
                 "points": 8,
@@ -139688,7 +139674,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "vorbh",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2131,
                 "top": 2249,
                 "points": 41,
@@ -142455,7 +142441,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2131,
                 "top": 2155,
                 "points": 21,
@@ -145012,7 +144998,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2130,
                 "top": 2366,
                 "points": 12,
@@ -150999,23 +150985,37 @@
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "nickname": "Lexanh",
             "stats": {
-                "rank": 45,
-                "elo": 2128,
+                "rank": 40,
+                "elo": 2147,
                 "top": 2162,
                 "points": 26,
                 "pb": 404827,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 1023,
-                "playtime": 585856409,
-                "finished": 443,
-                "finishtime": 274040137,
-                "won": 517,
+                "matches": 1024,
+                "playtime": 586344477,
+                "finished": 444,
+                "finishtime": 274528205,
+                "won": 518,
                 "lost": 467,
                 "forfeited": 76
             },
             "country": "bl",
             "matches": [
+                {
+                    "date": 1785186018000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "subdas",
+                    "elo": 2147,
+                    "change": 19,
+                    "oelo": 2079,
+                    "ochange": -19,
+                    "time": 488068,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785185379000,
                     "type": "DESERT_TEMPLE",
@@ -175726,23 +175726,37 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 50,
-                "elo": 2098,
+                "rank": 53,
+                "elo": 2079,
                 "top": 2302,
                 "points": 14,
                 "pb": 384080,
-                "current": 4,
+                "current": 0,
                 "streak": 8,
-                "matches": 2004,
-                "playtime": 1108550526,
+                "matches": 2005,
+                "playtime": 1109038594,
                 "finished": 876,
                 "finishtime": 525097905,
                 "won": 1029,
-                "lost": 944,
+                "lost": 945,
                 "forfeited": 248
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1785186018000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Lexanh",
+                    "elo": 2079,
+                    "change": -19,
+                    "oelo": 2147,
+                    "ochange": 19,
+                    "time": 488068,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785185291000,
                     "type": "VILLAGE",
@@ -188186,20 +188200,6 @@
                     "oelo": 2219,
                     "ochange": -29,
                     "time": 559955,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780865860000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "YoomzMonkey",
-                    "elo": 1985,
-                    "change": 23,
-                    "oelo": 2009,
-                    "ochange": -23,
-                    "time": 517831,
                     "forfeited": false,
                     "decayed": false
                 }
