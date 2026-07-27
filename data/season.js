@@ -1,5 +1,5 @@
 {
-    "date": 1785133201000,
+    "date": 1785133801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141429,20 +141429,6 @@
                     "oelo": 1751,
                     "ochange": -24,
                     "time": 563853,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780813414000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1670,
-                    "change": 23,
-                    "oelo": 1718,
-                    "ochange": -23,
-                    "time": 662820,
                     "forfeited": false,
                     "decayed": false
                 }
