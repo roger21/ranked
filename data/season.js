@@ -1,5 +1,5 @@
 {
-    "date": 1785139801000,
+    "date": 1785140401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141289,20 +141289,6 @@
                     "oelo": 1553,
                     "ochange": -14,
                     "time": 664285,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780819975000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Minepro_80",
-                    "elo": 1726,
-                    "change": 18,
-                    "oelo": 1637,
-                    "ochange": -18,
-                    "time": 542129,
                     "forfeited": false,
                     "decayed": false
                 }
