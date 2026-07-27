@@ -1,5 +1,5 @@
 {
-    "date": 1785165601000,
+    "date": 1785166201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88423,20 +88423,6 @@
                     "time": 595000,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780845667000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1930,
-                    "change": 23,
-                    "oelo": 1980,
-                    "ochange": -23,
-                    "time": 623499,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106451,20 +106437,6 @@
                     "oelo": 1958,
                     "ochange": -20,
                     "time": 613392,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780845667000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1980,
-                    "change": -23,
-                    "oelo": 1930,
-                    "ochange": 23,
-                    "time": 623499,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -140477,20 +140449,6 @@
                     "oelo": 1741,
                     "ochange": 21,
                     "time": 605172,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780846141000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "jqrbe",
-                    "elo": 1750,
-                    "change": 15,
-                    "oelo": 1569,
-                    "ochange": -15,
-                    "time": 558350,
                     "forfeited": false,
                     "decayed": false
                 }
