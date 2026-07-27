@@ -1,5 +1,5 @@
 {
-    "date": 1785168001000,
+    "date": 1785168601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63220,20 +63220,6 @@
                     "time": 584748,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780848568000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 1968,
-                    "change": 16,
-                    "oelo": 1823,
-                    "ochange": -16,
-                    "time": 490621,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -88339,20 +88325,6 @@
                     "time": 234275,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1780848455000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "P3n9uin",
-                    "elo": 1957,
-                    "change": 12,
-                    "oelo": 1711,
-                    "ochange": -12,
-                    "time": 591419,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106313,20 +106285,6 @@
                     "time": 584748,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780848373000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2012,
-                    "change": 20,
-                    "oelo": 1977,
-                    "ochange": -20,
-                    "time": 658466,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -113862,20 +113820,6 @@
                     "ochange": 21,
                     "time": 234275,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780848373000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1977,
-                    "change": -20,
-                    "oelo": 2012,
-                    "ochange": 20,
-                    "time": 658466,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
