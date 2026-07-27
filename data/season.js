@@ -1,5 +1,5 @@
 {
-    "date": 1785193201000,
+    "date": 1785193801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9435,20 +9435,6 @@
                     "oelo": 1953,
                     "ochange": -12,
                     "time": 575583,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780873595000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2213,
-                    "change": -22,
-                    "oelo": 2192,
-                    "ochange": 22,
-                    "time": 636876,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -26312,20 +26298,6 @@
                     "oelo": 1935,
                     "ochange": -12,
                     "time": 507766,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780873595000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2192,
-                    "change": 22,
-                    "oelo": 2213,
-                    "ochange": -22,
-                    "time": 636876,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -52495,20 +52467,6 @@
                     "oelo": 2201,
                     "ochange": -18,
                     "time": 615478,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780873371000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 2277,
-                    "change": 10,
-                    "oelo": 1968,
-                    "ochange": -10,
-                    "time": 562038,
                     "forfeited": false,
                     "decayed": false
                 }
