@@ -1,5 +1,5 @@
 {
-    "date": 1785142201000,
+    "date": 1785142801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77060,20 +77060,6 @@
                     "time": 556113,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780822567000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 1964,
-                    "change": 24,
-                    "oelo": 2037,
-                    "ochange": -24,
-                    "time": 511117,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126376,20 +126362,6 @@
                     "oelo": 1707,
                     "ochange": -17,
                     "time": 612781,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780822514000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "k4yfour",
-                    "elo": 1820,
-                    "change": 21,
-                    "oelo": 1810,
-                    "ochange": -21,
-                    "time": 516474,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176767,20 +176739,6 @@
                     "oelo": 1834,
                     "ochange": -13,
                     "time": 542769,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780822567000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 2037,
-                    "change": -24,
-                    "oelo": 1964,
-                    "ochange": 24,
-                    "time": 511117,
                     "forfeited": false,
                     "decayed": false
                 }
