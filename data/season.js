@@ -1,5 +1,5 @@
 {
-    "date": 1785168601000,
+    "date": 1785169201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88311,20 +88311,6 @@
                     "time": 481293,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780848780000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 1978,
-                    "change": 21,
-                    "oelo": 1956,
-                    "ochange": -21,
-                    "time": 234275,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -113806,20 +113792,6 @@
                     "ochange": -22,
                     "time": 712130,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780848780000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 1956,
-                    "change": -21,
-                    "oelo": 1978,
-                    "ochange": 21,
-                    "time": 234275,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
