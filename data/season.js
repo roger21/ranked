@@ -1,5 +1,5 @@
 {
-    "date": 1785131401000,
+    "date": 1785132001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141472,34 +141472,6 @@
                     "ochange": 20,
                     "time": 689040,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780811905000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "NokeyDokey",
-                    "elo": 1667,
-                    "change": 1,
-                    "oelo": 1734,
-                    "ochange": -1,
-                    "time": 399760,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780811443000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Piissii",
-                    "elo": 1666,
-                    "change": -21,
-                    "oelo": 1692,
-                    "ochange": 21,
-                    "time": 620770,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
