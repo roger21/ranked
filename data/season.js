@@ -1,5 +1,5 @@
 {
-    "date": 1785265201000,
+    "date": 1785265801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24452,20 +24452,6 @@
                     "ochange": -18,
                     "time": 313849,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780945538000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 2072,
-                    "change": 13,
-                    "oelo": 1856,
-                    "ochange": -13,
-                    "time": 555304,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -181588,20 +181574,6 @@
                     "oelo": 1741,
                     "ochange": -16,
                     "time": 455871,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780945538000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 1856,
-                    "change": -13,
-                    "oelo": 2072,
-                    "ochange": 13,
-                    "time": 555304,
                     "forfeited": false,
                     "decayed": false
                 }
