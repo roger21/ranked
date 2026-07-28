@@ -1,5 +1,5 @@
 {
-    "date": 1785214801000,
+    "date": 1785215401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -80905,20 +80905,6 @@
                     "ochange": -21,
                     "time": 578086,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780895278000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Magmania",
-                    "elo": 1857,
-                    "change": -1,
-                    "oelo": 1808,
-                    "ochange": 1,
-                    "time": 291381,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
