@@ -4719,11 +4719,11 @@
         },
         "pb": 378785,
         "streak": 15,
-        "matches": 6223,
-        "playtime": 3939507036,
+        "matches": 6224,
+        "playtime": 3939775495,
         "finished": 2521,
         "finishtime": 1678945592,
-        "won": 3343,
+        "won": 3344,
         "lost": 2635,
         "forfeited": 284
     },
@@ -5114,13 +5114,13 @@
         },
         "pb": 365320,
         "streak": 14,
-        "matches": 1832,
-        "playtime": 1053613425,
+        "matches": 1833,
+        "playtime": 1053881884,
         "finished": 731,
         "finishtime": 459778492,
         "won": 957,
-        "lost": 767,
-        "forfeited": 242
+        "lost": 768,
+        "forfeited": 243
     },
     "bdb7f407200d4882b78e656ca161bddf": {
         "nickname": "sylvie0616",
