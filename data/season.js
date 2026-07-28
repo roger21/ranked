@@ -1,5 +1,5 @@
 {
-    "date": 1785231601000,
+    "date": 1785232201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -151047,20 +151047,6 @@
                     "oelo": 1922,
                     "ochange": 22,
                     "time": 756205,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780912064000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "semcomet",
-                    "elo": 1958,
-                    "change": 15,
-                    "oelo": 1774,
-                    "ochange": -15,
-                    "time": 514118,
                     "forfeited": false,
                     "decayed": false
                 }
