@@ -1,5 +1,5 @@
 {
-    "date": 1785237601000,
+    "date": 1785238201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -101619,20 +101619,6 @@
                     "time": 509464,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780918104000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1934,
-                    "change": 20,
-                    "oelo": 1894,
-                    "ochange": -20,
-                    "time": 615626,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -147510,20 +147496,6 @@
                     "oelo": 1911,
                     "ochange": -23,
                     "time": 676685,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780917691000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1852,
-                    "change": 17,
-                    "oelo": 1732,
-                    "ochange": -17,
-                    "time": 528402,
                     "forfeited": false,
                     "decayed": false
                 }
