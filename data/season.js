@@ -1,5 +1,5 @@
 {
-    "date": 1785234001000,
+    "date": 1785234601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -147596,20 +147596,6 @@
                     "time": 545020,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780914559000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1750,
-                    "change": 21,
-                    "oelo": 1736,
-                    "ochange": -21,
-                    "time": 662582,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -151019,20 +151005,6 @@
                     "oelo": 1925,
                     "ochange": -19,
                     "time": 569453,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780914427000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "huhPrince",
-                    "elo": 1964,
-                    "change": 15,
-                    "oelo": 1806,
-                    "ochange": -15,
-                    "time": 501901,
                     "forfeited": false,
                     "decayed": false
                 }
