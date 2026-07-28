@@ -1,5 +1,5 @@
 {
-    "date": 1785254401000,
+    "date": 1785255001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63332,20 +63332,6 @@
                     "time": 642229,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780934743000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nyachloe",
-                    "elo": 2049,
-                    "change": 20,
-                    "oelo": 2004,
-                    "ochange": -20,
-                    "time": 609151,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -65257,20 +65243,6 @@
                     "oelo": 2154,
                     "ochange": -26,
                     "time": 596504,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780934743000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 2004,
-                    "change": -20,
-                    "oelo": 2049,
-                    "ochange": 20,
-                    "time": 609151,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -75462,7 +75434,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 2225,
                 "top": 2271,
                 "points": 30,
@@ -77361,7 +77333,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 2217,
                 "top": 2217,
                 "points": 16,
@@ -80198,23 +80170,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 26,
-                "elo": 2212,
+                "rank": 24,
+                "elo": 2230,
                 "top": 2298,
                 "points": 15,
                 "pb": 395923,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 2139,
-                "playtime": 1118608539,
-                "finished": 856,
-                "finishtime": 460960012,
-                "won": 994,
+                "matches": 2140,
+                "playtime": 1119283401,
+                "finished": 857,
+                "finishtime": 461634874,
+                "won": 995,
                 "lost": 900,
                 "forfeited": 365
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1785255042000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "KenanKardes",
+                    "elo": 2230,
+                    "change": 18,
+                    "oelo": 2139,
+                    "ochange": -18,
+                    "time": 674862,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785253868000,
                     "type": "DESERT_TEMPLE",
@@ -138448,23 +138434,37 @@
             "uuid": "0b164a03002048d3955715422179eedf",
             "nickname": "KenanKardes",
             "stats": {
-                "rank": 38,
-                "elo": 2157,
+                "rank": 41,
+                "elo": 2139,
                 "top": 2189,
                 "points": 0,
                 "pb": 393428,
-                "current": 1,
+                "current": 0,
                 "streak": 6,
-                "matches": 554,
-                "playtime": 308412699,
+                "matches": 555,
+                "playtime": 309087561,
                 "finished": 255,
                 "finishtime": 146136908,
                 "won": 292,
-                "lost": 247,
+                "lost": 248,
                 "forfeited": 41
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1785255042000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "petal_go_round",
+                    "elo": 2139,
+                    "change": -18,
+                    "oelo": 2230,
+                    "ochange": 18,
+                    "time": 674862,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785254309000,
                     "type": "BURIED_TREASURE",
@@ -141733,7 +141733,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2154,
                 "top": 2167,
                 "points": 7,
@@ -143772,7 +143772,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2150,
                 "top": 2150,
                 "points": 10,
@@ -145097,23 +145097,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 41,
-                "elo": 2148,
+                "rank": 42,
+                "elo": 2134,
                 "top": 2366,
                 "points": 12,
                 "pb": 379483,
                 "current": 0,
                 "streak": 9,
-                "matches": 835,
-                "playtime": 450114126,
+                "matches": 836,
+                "playtime": 450725975,
                 "finished": 384,
                 "finishtime": 221095170,
                 "won": 442,
-                "lost": 371,
+                "lost": 372,
                 "forfeited": 116
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1785255070000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "BeefSalad",
+                    "elo": 2134,
+                    "change": -14,
+                    "oelo": 2331,
+                    "ochange": 14,
+                    "time": 611849,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785254309000,
                     "type": "BURIED_TREASURE",
@@ -151252,7 +151266,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 42,
+                "rank": 40,
                 "elo": 2143,
                 "top": 2143,
                 "points": 10,
@@ -157379,7 +157393,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2134,
                 "top": 2324,
                 "points": 72,
@@ -160776,7 +160790,7 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2134,
                 "top": 2160,
                 "points": 8,
