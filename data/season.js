@@ -1,5 +1,5 @@
 {
-    "date": 1785214201000,
+    "date": 1785214801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -36644,22 +36644,36 @@
             "nickname": "BadGamer",
             "stats": {
                 "rank": 15,
-                "elo": 2305,
-                "top": 2305,
+                "elo": 2318,
+                "top": 2318,
                 "points": 41,
                 "pb": 398763,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 342,
-                "playtime": 179743236,
-                "finished": 192,
-                "finishtime": 110106390,
-                "won": 206,
+                "matches": 343,
+                "playtime": 180229879,
+                "finished": 193,
+                "finishtime": 110593033,
+                "won": 207,
                 "lost": 134,
                 "forfeited": 54
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1785214487000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2318,
+                    "change": 13,
+                    "oelo": 2075,
+                    "ochange": -13,
+                    "time": 486643,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785212159000,
                     "type": "VILLAGE",
@@ -80905,20 +80919,6 @@
                     "ochange": 1,
                     "time": 291381,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780894604000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BangDreamRoselia",
-                    "elo": 1858,
-                    "change": -25,
-                    "oelo": 1772,
-                    "ochange": 25,
-                    "time": 787911,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
