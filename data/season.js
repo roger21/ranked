@@ -1,5 +1,5 @@
 {
-    "date": 1785240001000,
+    "date": 1785240601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63101,23 +63101,37 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 21,
-                "elo": 2256,
+                "rank": 24,
+                "elo": 2233,
                 "top": 2271,
                 "points": 30,
                 "pb": 365320,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 301,
-                "playtime": 158974433,
+                "matches": 302,
+                "playtime": 159561738,
                 "finished": 149,
                 "finishtime": 86050645,
                 "won": 171,
-                "lost": 127,
+                "lost": 128,
                 "forfeited": 32
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1785240611000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "okshey",
+                    "elo": 2233,
+                    "change": -23,
+                    "oelo": 2196,
+                    "ochange": 23,
+                    "time": 587305,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785238945000,
                     "type": "VILLAGE",
@@ -64846,7 +64860,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 22,
+                "rank": 21,
                 "elo": 2254,
                 "top": 2298,
                 "points": 15,
@@ -80955,7 +80969,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "nyachloe",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 2249,
                 "top": 2331,
                 "points": 0,
@@ -82868,7 +82882,7 @@
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 2241,
                 "top": 2341,
                 "points": 88,
@@ -106019,20 +106033,6 @@
                     "time": 554027,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780920486000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 2021,
-                    "change": 17,
-                    "oelo": 1915,
-                    "ochange": -17,
-                    "time": 570937,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -106040,7 +106040,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2189,
                 "top": 2189,
                 "points": 21,
@@ -107827,7 +107827,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2181,
                 "top": 2302,
                 "points": 14,
@@ -120436,7 +120436,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "sylvie0616",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2177,
                 "top": 2235,
                 "points": 7,
@@ -125541,23 +125541,37 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 35,
-                "elo": 2173,
+                "rank": 31,
+                "elo": 2196,
                 "top": 2265,
                 "points": 47,
                 "pb": 407022,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 572,
-                "playtime": 324603740,
-                "finished": 284,
-                "finishtime": 165560422,
-                "won": 314,
+                "matches": 573,
+                "playtime": 325191045,
+                "finished": 285,
+                "finishtime": 166147727,
+                "won": 315,
                 "lost": 240,
                 "forfeited": 8
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1785240611000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "pavkin",
+                    "elo": 2196,
+                    "change": 23,
+                    "oelo": 2233,
+                    "ochange": -23,
+                    "time": 587305,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785167720000,
                     "type": "RUINED_PORTAL",
@@ -147454,34 +147468,6 @@
                     "oelo": 1894,
                     "ochange": -21,
                     "time": 924198,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780920579000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "semcomet",
-                    "elo": 1886,
-                    "change": -26,
-                    "oelo": 1765,
-                    "ochange": 26,
-                    "time": 211489,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1780920069000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 1912,
-                    "change": 13,
-                    "oelo": 1699,
-                    "ochange": -13,
-                    "time": 601732,
                     "forfeited": false,
                     "decayed": false
                 }
