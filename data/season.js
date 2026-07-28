@@ -1,5 +1,5 @@
 {
-    "date": 1785244201000,
+    "date": 1785244801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -95992,20 +95992,6 @@
                     "time": 591655,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780924605000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Ranik_",
-                    "elo": 2017,
-                    "change": 18,
-                    "oelo": 1929,
-                    "ochange": -18,
-                    "time": 272885,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -106059,20 +106045,6 @@
                     "oelo": 1969,
                     "ochange": 20,
                     "time": 670634,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780924281000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 1949,
-                    "change": -22,
-                    "oelo": 1947,
-                    "ochange": 22,
-                    "time": 537242,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -159857,20 +159829,6 @@
                     "oelo": 1886,
                     "ochange": -16,
                     "time": 563321,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780924446000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "litdab",
-                    "elo": 2008,
-                    "change": -24,
-                    "oelo": 1949,
-                    "ochange": 24,
-                    "time": 518564,
                     "forfeited": false,
                     "decayed": false
                 }
