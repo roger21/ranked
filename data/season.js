@@ -1,5 +1,5 @@
 {
-    "date": 1785326401000,
+    "date": 1785327001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54874,20 +54874,6 @@
                     "oelo": 1838,
                     "ochange": 27,
                     "time": 591322,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781006514000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "LilMinien",
-                    "elo": 2025,
-                    "change": -27,
-                    "oelo": 1862,
-                    "ochange": 27,
-                    "time": 704750,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -134342,20 +134328,6 @@
                     "ochange": -18,
                     "time": 326507,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781006882000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1967,
-                    "change": 15,
-                    "oelo": 1811,
-                    "ochange": -15,
-                    "time": 533123,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
