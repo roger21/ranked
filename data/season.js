@@ -1,5 +1,5 @@
 {
-    "date": 1785337801000,
+    "date": 1785338401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -111672,23 +111672,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 34,
-                "elo": 2179,
+                "rank": 36,
+                "elo": 2154,
                 "top": 2366,
                 "points": 12,
                 "pb": 379483,
                 "current": 0,
                 "streak": 9,
-                "matches": 867,
-                "playtime": 468420434,
+                "matches": 868,
+                "playtime": 469094041,
                 "finished": 401,
                 "finishtime": 230859629,
                 "won": 460,
-                "lost": 385,
+                "lost": 386,
                 "forfeited": 116
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1785338410000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "JustAltoid",
+                    "elo": 2154,
+                    "change": -25,
+                    "oelo": 2071,
+                    "ochange": 25,
+                    "time": 673607,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785337329000,
                     "type": "DESERT_TEMPLE",
@@ -118275,7 +118289,7 @@
             "uuid": "bdb7f407200d4882b78e656ca161bddf",
             "nickname": "sylvie0616",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2170,
                 "top": 2235,
                 "points": 7,
@@ -123310,7 +123324,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2162,
                 "top": 2184,
                 "points": 6,
@@ -125181,7 +125195,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2154,
                 "top": 2167,
                 "points": 7,
