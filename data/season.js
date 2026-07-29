@@ -1,5 +1,5 @@
 {
-    "date": 1785329401000,
+    "date": 1785330001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134271,20 +134271,6 @@
                     "oelo": 1982,
                     "ochange": 20,
                     "time": 453136,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781009957000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 1956,
-                    "change": -26,
-                    "oelo": 1847,
-                    "ochange": 26,
-                    "time": 529458,
                     "forfeited": false,
                     "decayed": false
                 }
