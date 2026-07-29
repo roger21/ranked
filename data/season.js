@@ -1,5 +1,5 @@
 {
-    "date": 1785301201000,
+    "date": 1785301801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -118590,20 +118590,6 @@
                     "time": 575891,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780981455000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Vintex0",
-                    "elo": 2002,
-                    "change": 12,
-                    "oelo": 1745,
-                    "ochange": -12,
-                    "time": 579871,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -134803,20 +134789,6 @@
                     "oelo": 1822,
                     "ochange": -18,
                     "time": 477530,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780981513000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "educatedmonkey",
-                    "elo": 1900,
-                    "change": 17,
-                    "oelo": 1786,
-                    "ochange": -17,
-                    "time": 561562,
                     "forfeited": false,
                     "decayed": false
                 }
