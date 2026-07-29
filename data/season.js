@@ -1,5 +1,5 @@
 {
-    "date": 1785306001000,
+    "date": 1785306601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -55084,20 +55084,6 @@
                     "oelo": 2072,
                     "ochange": 20,
                     "time": 595752,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780986343000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 2043,
-                    "change": -20,
-                    "oelo": 2088,
-                    "ochange": 20,
-                    "time": 487263,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -168844,20 +168830,6 @@
                     "oelo": 1998,
                     "ochange": 24,
                     "time": 563646,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780986343000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2088,
-                    "change": 20,
-                    "oelo": 2043,
-                    "ochange": -20,
-                    "time": 487263,
                     "forfeited": false,
                     "decayed": false
                 }
