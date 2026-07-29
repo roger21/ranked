@@ -1,5 +1,5 @@
 {
-    "date": 1785328801000,
+    "date": 1785329401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54874,20 +54874,6 @@
                     "oelo": 1834,
                     "ochange": -13,
                     "time": 503296,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781009340000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 2037,
-                    "change": 19,
-                    "oelo": 1962,
-                    "ochange": -19,
-                    "time": 660168,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -134301,20 +134287,6 @@
                     "time": 529458,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781009260000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1982,
-                    "change": 17,
-                    "oelo": 1877,
-                    "ochange": -17,
-                    "time": 604905,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -142997,20 +142969,6 @@
                     "oelo": 1729,
                     "ochange": -13,
                     "time": 551844,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781009239000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bing_pigs",
-                    "elo": 1944,
-                    "change": 17,
-                    "oelo": 1821,
-                    "ochange": -17,
-                    "time": 484197,
                     "forfeited": false,
                     "decayed": false
                 }
