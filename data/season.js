@@ -1,5 +1,5 @@
 {
-    "date": 1785332401000,
+    "date": 1785333001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -48090,7 +48090,7 @@
             "nickname": "Watermelon1708",
             "stats": {
                 "rank": 19,
-                "elo": 2268,
+                "elo": 2263,
                 "top": 2288,
                 "points": 0,
                 "pb": 404207,
@@ -48106,6 +48106,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1785332613000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2263,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785246212000,
                     "type": null,
@@ -54819,20 +54833,6 @@
                     "ochange": 19,
                     "time": 552643,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781012482000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "sevensix_",
-                    "elo": 2083,
-                    "change": -1,
-                    "oelo": 1983,
-                    "ochange": 1,
-                    "time": 289353,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -134173,20 +134173,6 @@
                     "oelo": 1759,
                     "ochange": -15,
                     "time": 514495,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781012686000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "litdab",
-                    "elo": 1913,
-                    "change": -22,
-                    "oelo": 1912,
-                    "ochange": 22,
-                    "time": 550139,
                     "forfeited": false,
                     "decayed": false
                 }
