@@ -1,5 +1,5 @@
 {
-    "date": 1785325201000,
+    "date": 1785325801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54888,20 +54888,6 @@
                     "oelo": 1862,
                     "ochange": 27,
                     "time": 704750,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781005490000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "1_viewer",
-                    "elo": 2052,
-                    "change": 17,
-                    "oelo": 1925,
-                    "ochange": -17,
-                    "time": 511573,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143181,20 +143167,6 @@
                     "time": 546953,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781005490000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1925,
-                    "change": -17,
-                    "oelo": 2052,
-                    "ochange": 17,
-                    "time": 511573,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146572,20 +146544,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2060,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1781005666000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2065,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
