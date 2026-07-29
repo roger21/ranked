@@ -1,5 +1,5 @@
 {
-    "date": 1785324001000,
+    "date": 1785324601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54917,20 +54917,6 @@
                     "ochange": -18,
                     "time": 236675,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781004254000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 2017,
-                    "change": -18,
-                    "oelo": 2097,
-                    "ochange": 18,
-                    "time": 547253,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -121656,34 +121642,6 @@
                     "time": 585369,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781004418000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1773,
-                    "change": -15,
-                    "oelo": 1950,
-                    "ochange": 15,
-                    "time": 217372,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781004122000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1788,
-                    "change": 24,
-                    "oelo": 1859,
-                    "ochange": -24,
-                    "time": 602795,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -134439,20 +134397,6 @@
                     "oelo": 2035,
                     "ochange": 18,
                     "time": 236675,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781004418000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 1950,
-                    "change": 15,
-                    "oelo": 1773,
-                    "ochange": -15,
-                    "time": 217372,
                     "forfeited": true,
                     "decayed": false
                 }
