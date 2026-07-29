@@ -1,5 +1,5 @@
 {
-    "date": 1785309601000,
+    "date": 1785310201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -55030,20 +55030,6 @@
                     "time": 549807,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780989651000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "4antoo",
-                    "elo": 1992,
-                    "change": 14,
-                    "oelo": 1794,
-                    "ochange": -14,
-                    "time": 643696,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -77973,20 +77959,6 @@
                     "ochange": -15,
                     "time": 512655,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780989871000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1755,
-                    "change": -21,
-                    "oelo": 1780,
-                    "ochange": 21,
-                    "time": 497675,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
