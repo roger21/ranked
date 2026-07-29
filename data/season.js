@@ -1,5 +1,5 @@
 {
-    "date": 1785318001000,
+    "date": 1785318601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -143447,20 +143447,6 @@
                     "time": 738409,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1780998440000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 2002,
-                    "change": 13,
-                    "oelo": 1781,
-                    "ochange": -13,
-                    "time": 456124,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -166170,23 +166156,37 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 45,
-                "elo": 2114,
+                "rank": 52,
+                "elo": 2088,
                 "top": 2155,
                 "points": 21,
                 "pb": 426548,
                 "current": 0,
                 "streak": 9,
-                "matches": 308,
-                "playtime": 181886396,
+                "matches": 309,
+                "playtime": 182448017,
                 "finished": 152,
                 "finishtime": 90834110,
                 "won": 171,
-                "lost": 123,
+                "lost": 124,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1785318633000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "Bartorino",
+                    "elo": 2088,
+                    "change": -26,
+                    "oelo": 1961,
+                    "ochange": 26,
+                    "time": 561621,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785225453000,
                     "type": "SHIPWRECK",
@@ -168699,7 +168699,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2109,
                 "top": 2346,
                 "points": 20,
@@ -173146,7 +173146,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2108,
                 "top": 2351,
                 "points": 8,
@@ -187043,7 +187043,7 @@
             "uuid": "9589914cf31a420bbcb07cd0768eec28",
             "nickname": "_Pasha1337_",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2106,
                 "top": 2173,
                 "points": 0,
@@ -192148,7 +192148,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2102,
                 "top": 2130,
                 "points": 9,
