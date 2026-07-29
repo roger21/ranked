@@ -1,5 +1,5 @@
 {
-    "date": 1785302401000,
+    "date": 1785303001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134747,20 +134747,6 @@
                     "oelo": 1728,
                     "ochange": -15,
                     "time": 748582,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1780982901000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Czelco",
-                    "elo": 1892,
-                    "change": -26,
-                    "oelo": 1767,
-                    "ochange": 26,
-                    "time": 706278,
                     "forfeited": false,
                     "decayed": false
                 }
