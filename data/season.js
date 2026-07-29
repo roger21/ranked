@@ -1,5 +1,5 @@
 {
-    "date": 1785331801000,
+    "date": 1785332401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -54833,20 +54833,6 @@
                     "ochange": 1,
                     "time": 289353,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781012006000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 2084,
-                    "change": 16,
-                    "oelo": 1935,
-                    "ochange": -16,
-                    "time": 494409,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -134203,20 +134189,6 @@
                     "time": 550139,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781012006000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1935,
-                    "change": -16,
-                    "oelo": 2084,
-                    "ochange": 16,
-                    "time": 494409,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -174817,20 +174789,6 @@
                     "oelo": 1605,
                     "ochange": -17,
                     "time": 508646,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781012112000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "soffjustbad",
-                    "elo": 1699,
-                    "change": 20,
-                    "oelo": 1647,
-                    "ochange": -20,
-                    "time": 466544,
                     "forfeited": false,
                     "decayed": false
                 }
