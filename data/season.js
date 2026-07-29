@@ -1,5 +1,5 @@
 {
-    "date": 1785333601000,
+    "date": 1785334201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -123311,7 +123311,7 @@
             "nickname": "dolqhin",
             "stats": {
                 "rank": 36,
-                "elo": 2167,
+                "elo": 2162,
                 "top": 2184,
                 "points": 6,
                 "pb": 415147,
@@ -123327,6 +123327,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785333753000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2162,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1784685701000,
                     "type": "SHIPWRECK",
@@ -134146,20 +134160,6 @@
                     "ochange": -12,
                     "time": 839046,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781014145000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "TheGamerGuyy",
-                    "elo": 1902,
-                    "change": -26,
-                    "oelo": 1787,
-                    "ochange": 26,
-                    "time": 601246,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
