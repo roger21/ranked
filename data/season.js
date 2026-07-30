@@ -1,5 +1,5 @@
 {
-    "date": 1785423601000,
+    "date": 1785424201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -159358,20 +159358,6 @@
                     "oelo": 2074,
                     "ochange": 19,
                     "time": 275777,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781104133000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "yunusbes",
-                    "elo": 2026,
-                    "change": -2,
-                    "oelo": 1854,
-                    "ochange": 2,
-                    "time": 513650,
                     "forfeited": true,
                     "decayed": false
                 }
