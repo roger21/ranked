@@ -1,5 +1,5 @@
 {
-    "date": 1785427801000,
+    "date": 1785428401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -154248,23 +154248,37 @@
             "uuid": "9589914cf31a420bbcb07cd0768eec28",
             "nickname": "_Pasha1337_",
             "stats": {
-                "rank": 42,
-                "elo": 2134,
+                "rank": 43,
+                "elo": 2119,
                 "top": 2173,
                 "points": 9,
                 "pb": 390746,
-                "current": 3,
+                "current": 0,
                 "streak": 13,
-                "matches": 591,
-                "playtime": 359918163,
+                "matches": 592,
+                "playtime": 360545781,
                 "finished": 252,
                 "finishtime": 161914516,
                 "won": 314,
-                "lost": 251,
+                "lost": 252,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1785428461000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "DARVY__X1",
+                    "elo": 2119,
+                    "change": -15,
+                    "oelo": 2286,
+                    "ochange": 15,
+                    "time": 627618,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785427679000,
                     "type": "RUINED_PORTAL",
@@ -164472,7 +164486,7 @@
             "uuid": "3910d98bea254b488a10d6e91e469f7e",
             "nickname": "dwoh",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2119,
                 "top": 2127,
                 "points": 12,
