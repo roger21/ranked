@@ -1,5 +1,5 @@
 {
-    "date": 1785372601000,
+    "date": 1785373201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -110421,7 +110421,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "Sylveon_",
+                    "opponent": "FerociousFoxgirl",
                     "elo": 1912,
                     "change": 14,
                     "oelo": 1726,
@@ -182901,20 +182901,6 @@
                     "time": 596124,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781052799000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1827,
-                    "change": -21,
-                    "oelo": 1835,
-                    "ochange": 21,
-                    "time": 584346,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -183588,7 +183574,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "TREASURE",
                     "result": "lost",
-                    "opponent": "Sylveon_",
+                    "opponent": "FerociousFoxgirl",
                     "elo": 2021,
                     "change": -28,
                     "oelo": 1844,
