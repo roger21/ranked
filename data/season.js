@@ -1,5 +1,5 @@
 {
-    "date": 1785409801000,
+    "date": 1785410401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -85553,20 +85553,6 @@
                     "time": 275357,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781090294000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Yosa1003",
-                    "elo": 2139,
-                    "change": 16,
-                    "oelo": 1985,
-                    "ochange": -16,
-                    "time": 587507,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -101738,23 +101724,37 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 30,
-                "elo": 2210,
+                "rank": 32,
+                "elo": 2197,
                 "top": 2262,
                 "points": 27,
                 "pb": 405777,
                 "current": 0,
                 "streak": 10,
-                "matches": 1227,
-                "playtime": 744663027,
+                "matches": 1228,
+                "playtime": 745223215,
                 "finished": 530,
                 "finishtime": 330186120,
                 "won": 625,
-                "lost": 554,
+                "lost": 555,
                 "forfeited": 8
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1785410415000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Ancoboyy",
+                    "elo": 2197,
+                    "change": -13,
+                    "oelo": 2411,
+                    "ochange": 13,
+                    "time": 560188,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785409784000,
                     "type": "VILLAGE",
@@ -109727,7 +109727,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2208,
                 "top": 2298,
                 "points": 34,
@@ -125626,7 +125626,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2207,
                 "top": 2217,
                 "points": 36,
@@ -159554,20 +159554,6 @@
                     "oelo": 1965,
                     "ochange": -20,
                     "time": 532068,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781089975000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1991,
-                    "change": 16,
-                    "oelo": 1837,
-                    "ochange": -16,
-                    "time": 542750,
                     "forfeited": false,
                     "decayed": false
                 }
