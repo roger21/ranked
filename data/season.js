@@ -1,5 +1,5 @@
 {
-    "date": 1785423001000,
+    "date": 1785423601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -119928,14 +119928,14 @@
             "nickname": "petal_go_round",
             "stats": {
                 "rank": 35,
-                "elo": 2187,
+                "elo": 2186,
                 "top": 2298,
                 "points": 34,
                 "pb": 395923,
                 "current": 0,
                 "streak": 9,
-                "matches": 2161,
-                "playtime": 1130595911,
+                "matches": 2162,
+                "playtime": 1131351159,
                 "finished": 866,
                 "finishtime": 466807204,
                 "won": 1005,
@@ -119944,6 +119944,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1785423450000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "hsbi",
+                    "elo": 2186,
+                    "change": -1,
+                    "oelo": 2064,
+                    "ochange": 1,
+                    "time": 755248,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785412551000,
                     "type": "VILLAGE",
@@ -159358,20 +159372,6 @@
                     "oelo": 1854,
                     "ochange": 2,
                     "time": 513650,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781103381000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 2028,
-                    "change": -21,
-                    "oelo": 2040,
-                    "ochange": 21,
-                    "time": 367824,
                     "forfeited": true,
                     "decayed": false
                 }
