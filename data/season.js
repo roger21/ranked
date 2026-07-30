@@ -1,5 +1,5 @@
 {
-    "date": 1785420001000,
+    "date": 1785420601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -142229,7 +142229,7 @@
             "nickname": "dolqhin",
             "stats": {
                 "rank": 38,
-                "elo": 2162,
+                "elo": 2157,
                 "top": 2184,
                 "points": 20,
                 "pb": 415147,
@@ -142245,6 +142245,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785420212000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2157,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785333753000,
                     "type": null,
@@ -152536,20 +152550,6 @@
                     "oelo": 1839,
                     "ochange": -19,
                     "time": 608248,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781100056000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1874,
-                    "change": 15,
-                    "oelo": 1717,
-                    "ochange": -15,
-                    "time": 529722,
                     "forfeited": false,
                     "decayed": false
                 }
