@@ -1,5 +1,5 @@
 {
-    "date": 1785450001000,
+    "date": 1785450601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64375,20 +64375,6 @@
                     "oelo": 2062,
                     "ochange": -26,
                     "time": 626548,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781130465000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1906,
-                    "change": -28,
-                    "oelo": 1723,
-                    "ochange": 28,
-                    "time": 854250,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -134172,20 +134158,6 @@
                     "time": 521332,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781130467000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "oshywot",
-                    "elo": 1836,
-                    "change": 14,
-                    "oelo": 1637,
-                    "ochange": -14,
-                    "time": 630366,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -172564,20 +172536,6 @@
                     "oelo": 1932,
                     "ochange": 26,
                     "time": 626548,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781130400000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 2088,
-                    "change": 22,
-                    "oelo": 2108,
-                    "ochange": -22,
-                    "time": 656965,
                     "forfeited": false,
                     "decayed": false
                 }
