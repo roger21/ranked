@@ -1,5 +1,5 @@
 {
-    "date": 1785436801000,
+    "date": 1785437401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -49191,22 +49191,36 @@
             "nickname": "subdas",
             "stats": {
                 "rank": 20,
-                "elo": 2266,
+                "elo": 2278,
                 "top": 2302,
                 "points": 21,
                 "pb": 384080,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 2114,
-                "playtime": 1165351700,
-                "finished": 925,
-                "finishtime": 553997284,
-                "won": 1090,
+                "matches": 2115,
+                "playtime": 1165897911,
+                "finished": 926,
+                "finishtime": 554543495,
+                "won": 1091,
                 "lost": 993,
                 "forfeited": 266
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1785437145000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ninananina",
+                    "elo": 2278,
+                    "change": 12,
+                    "oelo": 2012,
+                    "ochange": -12,
+                    "time": 546211,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785436467000,
                     "type": "SHIPWRECK",
