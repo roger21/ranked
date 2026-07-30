@@ -1,5 +1,5 @@
 {
-    "date": 1785373801000,
+    "date": 1785374401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115021,20 +115021,6 @@
                     "time": 573331,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781054148000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "cbirrd",
-                    "elo": 1927,
-                    "change": -24,
-                    "oelo": 1853,
-                    "ochange": 24,
-                    "time": 489547,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -131006,20 +130992,6 @@
                     "ochange": -21,
                     "time": 404168,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781054148000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1853,
-                    "change": 24,
-                    "oelo": 1927,
-                    "ochange": -24,
-                    "time": 489547,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
