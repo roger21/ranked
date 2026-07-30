@@ -1,5 +1,5 @@
 {
-    "date": 1785378601000,
+    "date": 1785379201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -114951,20 +114951,6 @@
                     "time": 778331,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781058699000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "cbirrd",
-                    "elo": 1933,
-                    "change": -24,
-                    "oelo": 1879,
-                    "ochange": 24,
-                    "time": 510854,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150827,20 +150813,6 @@
                     "oelo": 1975,
                     "ochange": 17,
                     "time": 514798,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781058699000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1879,
-                    "change": 24,
-                    "oelo": 1933,
-                    "ochange": -24,
-                    "time": 510854,
                     "forfeited": false,
                     "decayed": false
                 }
