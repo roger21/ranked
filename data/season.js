@@ -1,5 +1,5 @@
 {
-    "date": 1785447601000,
+    "date": 1785448201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -135916,20 +135916,6 @@
                     "ochange": -24,
                     "time": 518216,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781127990000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "ninananina",
-                    "elo": 1779,
-                    "change": 0,
-                    "oelo": 1746,
-                    "ochange": 0,
-                    "time": 652439,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
