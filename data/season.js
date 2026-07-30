@@ -1,5 +1,5 @@
 {
-    "date": 1785421801000,
+    "date": 1785422401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -152524,20 +152524,6 @@
                     "time": 550915,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781101870000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "huhPrince",
-                    "elo": 1869,
-                    "change": -24,
-                    "oelo": 1813,
-                    "ochange": 24,
-                    "time": 1003024,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -159414,20 +159400,6 @@
                     "oelo": 1823,
                     "ochange": -13,
                     "time": 818742,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781101825000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "LilMinien",
-                    "elo": 2036,
-                    "change": 16,
-                    "oelo": 1893,
-                    "ochange": -16,
-                    "time": 654519,
                     "forfeited": false,
                     "decayed": false
                 }
