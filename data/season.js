@@ -1,5 +1,5 @@
 {
-    "date": 1785413401000,
+    "date": 1785414001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -85525,20 +85525,6 @@
                     "time": 562542,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781093582000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "1_viewer",
-                    "elo": 2083,
-                    "change": -23,
-                    "oelo": 2053,
-                    "ochange": 23,
-                    "time": 299766,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -118145,20 +118131,6 @@
                     "oelo": 1862,
                     "ochange": -1,
                     "time": 662128,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781093575000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "beavery",
-                    "elo": 1802,
-                    "change": -1,
-                    "oelo": 1750,
-                    "ochange": 1,
-                    "time": 641027,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -159458,20 +159430,6 @@
                     "time": 348194,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781093582000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2053,
-                    "change": 23,
-                    "oelo": 2083,
-                    "ochange": -23,
-                    "time": 299766,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -167045,8 +167003,8 @@
                 "pb": 408164,
                 "current": 5,
                 "streak": 9,
-                "matches": 1124,
-                "playtime": 664797806,
+                "matches": 1125,
+                "playtime": 665445545,
                 "finished": 509,
                 "finishtime": 315437630,
                 "won": 583,
@@ -167055,6 +167013,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785413525000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "takachaaaaaaan",
+                    "elo": 2114,
+                    "change": 0,
+                    "oelo": 2104,
+                    "ochange": 0,
+                    "time": 647739,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785412303000,
                     "type": "RUINED_PORTAL",
