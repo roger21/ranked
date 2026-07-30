@@ -1,5 +1,5 @@
 {
-    "date": 1785449401000,
+    "date": 1785450001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134186,20 +134186,6 @@
                     "time": 630366,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781129755000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "FuzzKing",
-                    "elo": 1822,
-                    "change": 19,
-                    "oelo": 1759,
-                    "ochange": -19,
-                    "time": 626561,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -172592,20 +172578,6 @@
                     "oelo": 2108,
                     "ochange": -22,
                     "time": 656965,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781129442000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 2066,
-                    "change": 14,
-                    "oelo": 1861,
-                    "ochange": -14,
-                    "time": 572280,
                     "forfeited": false,
                     "decayed": false
                 }
