@@ -1,5 +1,5 @@
 {
-    "date": 1785445801000,
+    "date": 1785446401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64403,20 +64403,6 @@
                     "oelo": 1746,
                     "ochange": -14,
                     "time": 1021656,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781126148000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1920,
-                    "change": 27,
-                    "oelo": 2083,
-                    "ochange": -27,
-                    "time": 489003,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135973,20 +135959,6 @@
                     "time": 591333,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781126016000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1779,
-                    "change": -15,
-                    "oelo": 1941,
-                    "ochange": 15,
-                    "time": 1058995,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -172690,20 +172662,6 @@
                     "oelo": 1879,
                     "ochange": 28,
                     "time": 534462,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781126148000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2083,
-                    "change": -27,
-                    "oelo": 1920,
-                    "ochange": 27,
-                    "time": 489003,
                     "forfeited": false,
                     "decayed": false
                 }
