@@ -1,5 +1,5 @@
 {
-    "date": 1785406801000,
+    "date": 1785407401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -149281,20 +149281,6 @@
                     "time": 566862,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781087307000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1628,
-                    "change": -16,
-                    "oelo": 1770,
-                    "ochange": 16,
-                    "time": 869161,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -159680,20 +159666,6 @@
                     "oelo": 2037,
                     "ochange": 20,
                     "time": 591655,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781086813000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 2011,
-                    "change": 16,
-                    "oelo": 1861,
-                    "ochange": -16,
-                    "time": 647897,
                     "forfeited": false,
                     "decayed": false
                 }
