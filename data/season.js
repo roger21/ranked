@@ -1,5 +1,5 @@
 {
-    "date": 1785373201000,
+    "date": 1785373801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100789,7 +100789,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "natebridge",
+                    "opponent": "TopTerrain",
                     "elo": 1884,
                     "change": 15,
                     "oelo": 1715,
@@ -100985,7 +100985,7 @@
                     "type": "VILLAGE",
                     "bastion": "TREASURE",
                     "result": "lost",
-                    "opponent": "natebridge",
+                    "opponent": "TopTerrain",
                     "elo": 1773,
                     "change": -20,
                     "oelo": 1813,
@@ -105507,7 +105507,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "natebridge",
+                    "opponent": "TopTerrain",
                     "elo": 1911,
                     "change": 15,
                     "oelo": 1727,
@@ -115013,7 +115013,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "natebridge",
+                    "opponent": "TopTerrain",
                     "elo": 1939,
                     "change": 12,
                     "oelo": 1695,
@@ -115034,20 +115034,6 @@
                     "ochange": 24,
                     "time": 489547,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781053447000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "PandaRuns",
-                    "elo": 1951,
-                    "change": -3,
-                    "oelo": 1708,
-                    "ochange": 3,
-                    "time": 551012,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -130957,7 +130943,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "BRIDGE",
                     "result": "lost",
-                    "opponent": "natebridge",
+                    "opponent": "TopTerrain",
                     "elo": 1842,
                     "change": -27,
                     "oelo": 1686,
@@ -147732,7 +147718,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "natebridge",
+                    "opponent": "TopTerrain",
                     "elo": 1767,
                     "change": 18,
                     "oelo": 1681,
@@ -182885,20 +182871,6 @@
                     "oelo": 1870,
                     "ochange": 20,
                     "time": 968349,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781053729000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1848,
-                    "change": 21,
-                    "oelo": 1821,
-                    "ochange": -21,
-                    "time": 596124,
                     "forfeited": false,
                     "decayed": false
                 }
