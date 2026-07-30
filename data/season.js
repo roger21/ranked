@@ -1,5 +1,5 @@
 {
-    "date": 1785400801000,
+    "date": 1785401401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -149365,20 +149365,6 @@
                     "time": 475489,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781081274000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Mixray_",
-                    "elo": 1644,
-                    "change": -21,
-                    "oelo": 1661,
-                    "ochange": 21,
-                    "time": 643876,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -159820,20 +159806,6 @@
                     "oelo": 2062,
                     "ochange": -25,
                     "time": 688480,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781081257000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1936,
-                    "change": -21,
-                    "oelo": 1944,
-                    "ochange": 21,
-                    "time": 661221,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175475,20 +175447,6 @@
                     "oelo": 1961,
                     "ochange": 25,
                     "time": 688480,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781080853000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 2087,
-                    "change": -25,
-                    "oelo": 2007,
-                    "ochange": 25,
-                    "time": 662723,
                     "forfeited": false,
                     "decayed": false
                 }
