@@ -1,5 +1,5 @@
 {
-    "date": 1785453601000,
+    "date": 1785454201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134101,20 +134101,6 @@
                     "ochange": 22,
                     "time": 631051,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781133835000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "zorn89",
-                    "elo": 1861,
-                    "change": -2,
-                    "oelo": 1692,
-                    "ochange": 2,
-                    "time": 360540,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
