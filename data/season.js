@@ -1,5 +1,5 @@
 {
-    "date": 1785370801000,
+    "date": 1785371401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115063,20 +115063,6 @@
                     "time": 295155,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781051126000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1953,
-                    "change": -26,
-                    "oelo": 1834,
-                    "ochange": 26,
-                    "time": 438815,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -120694,20 +120680,6 @@
                     "ochange": 18,
                     "time": 666568,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781051037000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "PandaRuns",
-                    "elo": 1841,
-                    "change": -2,
-                    "oelo": 1708,
-                    "ochange": 2,
-                    "time": 607155,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -183011,20 +182983,6 @@
                     "oelo": 1692,
                     "ochange": -16,
                     "time": 595008,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781051117000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "darkk575",
-                    "elo": 1812,
-                    "change": -21,
-                    "oelo": 1840,
-                    "ochange": 21,
-                    "time": 515769,
                     "forfeited": false,
                     "decayed": false
                 }
