@@ -1,5 +1,5 @@
 {
-    "date": 1785393601000,
+    "date": 1785394201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -164453,7 +164453,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2114,
                 "top": 2114,
                 "points": 24,
@@ -167962,7 +167962,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "Geegeeboy_25",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2113,
                 "top": 2113,
                 "points": 18,
@@ -173543,7 +173543,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2113,
                 "top": 2155,
                 "points": 32,
@@ -176086,7 +176086,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2113,
                 "top": 2208,
                 "points": 24,
@@ -180771,7 +180771,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2111,
                 "top": 2130,
                 "points": 19,
@@ -183104,7 +183104,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2109,
                 "top": 2346,
                 "points": 30,
