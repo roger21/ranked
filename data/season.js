@@ -1,5 +1,5 @@
 {
-    "date": 1785403201000,
+    "date": 1785404401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -149337,20 +149337,6 @@
                     "time": 512123,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781084082000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nkwo",
-                    "elo": 1650,
-                    "change": 21,
-                    "oelo": 1638,
-                    "ochange": -21,
-                    "time": 542150,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -172821,20 +172807,6 @@
                     "ochange": -18,
                     "time": 549994,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781083809000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "blobserr",
-                    "elo": 1789,
-                    "change": 2,
-                    "oelo": 1966,
-                    "ochange": -2,
-                    "time": 727414,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
