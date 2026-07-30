@@ -1,5 +1,5 @@
 {
-    "date": 1785436201000,
+    "date": 1785436801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -49191,22 +49191,36 @@
             "nickname": "subdas",
             "stats": {
                 "rank": 20,
-                "elo": 2254,
+                "elo": 2266,
                 "top": 2302,
                 "points": 21,
                 "pb": 384080,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 2113,
-                "playtime": 1164769242,
-                "finished": 924,
-                "finishtime": 553414826,
-                "won": 1089,
+                "matches": 2114,
+                "playtime": 1165351700,
+                "finished": 925,
+                "finishtime": 553997284,
+                "won": 1090,
                 "lost": 993,
                 "forfeited": 266
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1785436467000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Alpha_1644",
+                    "elo": 2266,
+                    "change": 12,
+                    "oelo": 2010,
+                    "ochange": -12,
+                    "time": 582458,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785434461000,
                     "type": "DESERT_TEMPLE",
