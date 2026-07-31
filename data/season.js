@@ -1,5 +1,5 @@
 {
-    "date": 1785533401000,
+    "date": 1785534001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -193344,20 +193344,6 @@
                     "ochange": 2,
                     "time": 717272,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781213616000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1894,
-                    "change": -26,
-                    "oelo": 1772,
-                    "ochange": 26,
-                    "time": 612720,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
