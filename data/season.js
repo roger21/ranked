@@ -1,5 +1,5 @@
 {
-    "date": 1785471002000,
+    "date": 1785471601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100005,20 +100005,6 @@
                     "time": 499531,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781151497000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "pigswitch",
-                    "elo": 1919,
-                    "change": -23,
-                    "oelo": 1871,
-                    "ochange": 23,
-                    "time": 813216,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -177977,20 +177963,6 @@
                     "oelo": 1650,
                     "ochange": -17,
                     "time": 609027,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781151270000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1757,
-                    "change": 19,
-                    "oelo": 1702,
-                    "ochange": -19,
-                    "time": 579987,
                     "forfeited": false,
                     "decayed": false
                 }
