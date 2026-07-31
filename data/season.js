@@ -1,5 +1,5 @@
 {
-    "date": 1785501601000,
+    "date": 1785502201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -75492,20 +75492,6 @@
                     "time": 559566,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781181963000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 2041,
-                    "change": -19,
-                    "oelo": 2094,
-                    "ochange": 19,
-                    "time": 625474,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97949,20 +97935,6 @@
                     "oelo": 2045,
                     "ochange": -19,
                     "time": 483925,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781181963000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2094,
-                    "change": 19,
-                    "oelo": 2041,
-                    "ochange": -19,
-                    "time": 625474,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -172318,20 +172290,6 @@
                     "time": 483925,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781181970000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 2064,
-                    "change": -28,
-                    "oelo": 1894,
-                    "ochange": 28,
-                    "time": 651506,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -172339,7 +172297,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2114,
                 "top": 2236,
                 "points": 13,
@@ -183744,7 +183702,7 @@
             "uuid": "48d9df3377554043ba39a8500c7ad702",
             "nickname": "Geegeeboy_25",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2113,
                 "top": 2113,
                 "points": 18,
@@ -188989,7 +188947,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2113,
                 "top": 2351,
                 "points": 18,
@@ -202186,7 +202144,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2113,
                 "top": 2155,
                 "points": 32,
