@@ -1,5 +1,5 @@
 {
-    "date": 1785514201000,
+    "date": 1785514801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -72795,20 +72795,6 @@
                     "time": 681728,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781194446000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1988,
-                    "change": -25,
-                    "oelo": 1898,
-                    "ochange": 25,
-                    "time": 816481,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -105756,20 +105742,6 @@
                     "ochange": 22,
                     "time": 254324,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781194587000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "1_viewer",
-                    "elo": 1900,
-                    "change": -18,
-                    "oelo": 1981,
-                    "ochange": 18,
-                    "time": 516832,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -166203,20 +166175,6 @@
                     "oelo": 2090,
                     "ochange": 17,
                     "time": 684259,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781194587000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1981,
-                    "change": 18,
-                    "oelo": 1900,
-                    "ochange": -18,
-                    "time": 516832,
                     "forfeited": false,
                     "decayed": false
                 }
