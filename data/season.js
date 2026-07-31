@@ -1,5 +1,5 @@
 {
-    "date": 1785537001000,
+    "date": 1785537601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90443,20 +90443,6 @@
                     "time": 540120,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781217067000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 2001,
-                    "change": 22,
-                    "oelo": 2003,
-                    "ochange": -22,
-                    "time": 255896,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -137184,22 +137170,36 @@
             "nickname": "subdas",
             "stats": {
                 "rank": 39,
-                "elo": 2155,
+                "elo": 2169,
                 "top": 2302,
                 "points": 21,
                 "pb": 384080,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 2149,
-                "playtime": 1183478933,
-                "finished": 938,
-                "finishtime": 561744270,
-                "won": 1106,
+                "matches": 2150,
+                "playtime": 1184065351,
+                "finished": 939,
+                "finishtime": 562330688,
+                "won": 1107,
                 "lost": 1012,
                 "forfeited": 272
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1785537658000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "darkk575",
+                    "elo": 2169,
+                    "change": 14,
+                    "oelo": 1967,
+                    "ochange": -14,
+                    "time": 586418,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785536761000,
                     "type": "VILLAGE",
@@ -170273,20 +170273,6 @@
                     "ochange": -17,
                     "time": 610542,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781217067000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 2003,
-                    "change": -22,
-                    "oelo": 2001,
-                    "ochange": 22,
-                    "time": 255896,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
