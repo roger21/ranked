@@ -1,5 +1,5 @@
 {
-    "date": 1785541201000,
+    "date": 1785541801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134083,20 +134083,6 @@
                     "time": 532142,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781221526000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 1882,
-                    "change": -19,
-                    "oelo": 1939,
-                    "ochange": 19,
-                    "time": 466756,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -174804,34 +174790,6 @@
                     "ochange": -15,
                     "time": 686250,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781221615000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1748,
-                    "change": -17,
-                    "oelo": 1868,
-                    "ochange": 17,
-                    "time": 282782,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781221259000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "educatedmonkey",
-                    "elo": 1765,
-                    "change": 20,
-                    "oelo": 1732,
-                    "ochange": -20,
-                    "time": 412852,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
