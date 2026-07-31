@@ -1,5 +1,5 @@
 {
-    "date": 1785465601000,
+    "date": 1785466201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -98428,20 +98428,6 @@
                     "time": 647616,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781146115000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 1975,
-                    "change": -15,
-                    "oelo": 2157,
-                    "ochange": 15,
-                    "time": 726457,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -185261,20 +185247,6 @@
                     "oelo": 1993,
                     "ochange": 27,
                     "time": 587714,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781146115000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2157,
-                    "change": 15,
-                    "oelo": 1975,
-                    "ochange": -15,
-                    "time": 726457,
                     "forfeited": false,
                     "decayed": false
                 }
