@@ -1,5 +1,5 @@
 {
-    "date": 1785463801000,
+    "date": 1785464401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5661,22 +5661,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 4,
-                "elo": 2426,
+                "elo": 2436,
                 "top": 2449,
                 "points": 115,
                 "pb": 402891,
-                "current": 5,
+                "current": 6,
                 "streak": 9,
-                "matches": 504,
-                "playtime": 277214674,
-                "finished": 268,
-                "finishtime": 150115725,
-                "won": 300,
+                "matches": 505,
+                "playtime": 277852362,
+                "finished": 269,
+                "finishtime": 150753413,
+                "won": 301,
                 "lost": 181,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785464363000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "thecamo6",
+                    "elo": 2436,
+                    "change": 10,
+                    "oelo": 2115,
+                    "ochange": -10,
+                    "time": 637688,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785463193000,
                     "type": "BURIED_TREASURE",
@@ -98428,20 +98442,6 @@
                     "time": 829358,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781144344000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1978,
-                    "change": 22,
-                    "oelo": 1995,
-                    "ochange": -22,
-                    "time": 712130,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -161239,22 +161239,36 @@
             "nickname": "thecamo6",
             "stats": {
                 "rank": 44,
-                "elo": 2125,
+                "elo": 2115,
                 "top": 2351,
                 "points": 18,
                 "pb": 380958,
-                "current": 3,
+                "current": 0,
                 "streak": 16,
-                "matches": 1506,
-                "playtime": 909437078,
+                "matches": 1507,
+                "playtime": 910074766,
                 "finished": 650,
                 "finishtime": 404264494,
                 "won": 759,
-                "lost": 688,
+                "lost": 689,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785464363000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "nahhann",
+                    "elo": 2115,
+                    "change": -10,
+                    "oelo": 2436,
+                    "ochange": 10,
+                    "time": 637688,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785463608000,
                     "type": "BURIED_TREASURE",
@@ -185747,20 +185761,6 @@
                     "oelo": 2142,
                     "ochange": 15,
                     "time": 648647,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781144344000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1995,
-                    "change": -22,
-                    "oelo": 1978,
-                    "ochange": 22,
-                    "time": 712130,
                     "forfeited": false,
                     "decayed": false
                 }
