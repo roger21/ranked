@@ -1,5 +1,5 @@
 {
-    "date": 1785460801000,
+    "date": 1785461401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12604,22 +12604,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 7,
-                "elo": 2383,
+                "elo": 2397,
                 "top": 2449,
                 "points": 115,
                 "pb": 402891,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 501,
-                "playtime": 275618948,
-                "finished": 265,
-                "finishtime": 148519999,
-                "won": 297,
+                "matches": 502,
+                "playtime": 276143970,
+                "finished": 266,
+                "finishtime": 149045021,
+                "won": 298,
                 "lost": 181,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785461365000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "bbiddd",
+                    "elo": 2397,
+                    "change": 14,
+                    "oelo": 2201,
+                    "ochange": -14,
+                    "time": 525022,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785460683000,
                     "type": "DESERT_TEMPLE",
@@ -109238,22 +109252,36 @@
             "nickname": "bbiddd",
             "stats": {
                 "rank": 31,
-                "elo": 2215,
+                "elo": 2201,
                 "top": 2234,
                 "points": 49,
                 "pb": 392259,
                 "current": 0,
                 "streak": 10,
-                "matches": 657,
-                "playtime": 360164609,
+                "matches": 658,
+                "playtime": 360689631,
                 "finished": 315,
                 "finishtime": 183953337,
                 "won": 354,
-                "lost": 284,
+                "lost": 285,
                 "forfeited": 61
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1785461365000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "nahhann",
+                    "elo": 2201,
+                    "change": -14,
+                    "oelo": 2397,
+                    "ochange": 14,
+                    "time": 525022,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785460117000,
                     "type": "BURIED_TREASURE",
