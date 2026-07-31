@@ -1,5 +1,5 @@
 {
-    "date": 1785500401000,
+    "date": 1785501001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2017,7 +2017,7 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 2,
-                "elo": 2524,
+                "elo": 2519,
                 "top": 2578,
                 "points": 140,
                 "pb": 372705,
@@ -2033,6 +2033,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785500913000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2519,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785414512000,
                     "type": null,
@@ -97965,20 +97979,6 @@
                     "time": 620059,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781180578000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "1_viewer",
-                    "elo": 2096,
-                    "change": -22,
-                    "oelo": 2092,
-                    "ochange": 22,
-                    "time": 629210,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -172344,20 +172344,6 @@
                     "oelo": 1894,
                     "ochange": 28,
                     "time": 651506,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781180578000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2092,
-                    "change": 22,
-                    "oelo": 2096,
-                    "ochange": -22,
-                    "time": 629210,
                     "forfeited": false,
                     "decayed": false
                 }
