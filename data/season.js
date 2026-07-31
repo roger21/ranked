@@ -1,5 +1,5 @@
 {
-    "date": 1785540601000,
+    "date": 1785541201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134097,20 +134097,6 @@
                     "time": 466756,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781220984000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "Lexanh",
-                    "elo": 1901,
-                    "change": 1,
-                    "oelo": 1959,
-                    "ochange": -1,
-                    "time": 575950,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -174845,20 +174831,6 @@
                     "oelo": 1732,
                     "ochange": -20,
                     "time": 412852,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781220687000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 1745,
-                    "change": -19,
-                    "oelo": 1813,
-                    "ochange": 19,
-                    "time": 221675,
                     "forfeited": true,
                     "decayed": false
                 }
