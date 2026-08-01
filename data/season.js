@@ -1,5 +1,5 @@
 {
-    "date": 1785587401000,
+    "date": 1785588001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78501,22 +78501,36 @@
             "nickname": "nonsochiamaa",
             "stats": {
                 "rank": 24,
-                "elo": 2225,
-                "top": 2230,
+                "elo": 2241,
+                "top": 2241,
                 "points": 36,
                 "pb": 391139,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 655,
-                "playtime": 358826861,
-                "finished": 281,
-                "finishtime": 165108379,
-                "won": 336,
+                "matches": 656,
+                "playtime": 359410324,
+                "finished": 282,
+                "finishtime": 165691842,
+                "won": 337,
                 "lost": 289,
                 "forfeited": 79
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1785587554000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "hsbi",
+                    "elo": 2241,
+                    "change": 16,
+                    "oelo": 2089,
+                    "ochange": -16,
+                    "time": 583463,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785552514000,
                     "type": null,
