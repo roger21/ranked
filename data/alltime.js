@@ -4018,6 +4018,27 @@
         "lost": 3537,
         "forfeited": 1254
     },
+    "98cea324ee714d868b2ec1627f0f5762": {
+        "nickname": "cvctus",
+        "country": "ca",
+        "top": {
+            "10": 1786,
+            "11": 2215
+        },
+        "points": {
+            "10": 0,
+            "11": 11
+        },
+        "pb": 399951,
+        "streak": 15,
+        "matches": 1239,
+        "playtime": 917001939,
+        "finished": 514,
+        "finishtime": 402434737,
+        "won": 660,
+        "lost": 532,
+        "forfeited": 29
+    },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
         "country": "yt",
@@ -4575,11 +4596,11 @@
         },
         "pb": 456658,
         "streak": 8,
-        "matches": 2671,
-        "playtime": 1571613903,
-        "finished": 818,
-        "finishtime": 615123452,
-        "won": 1289,
+        "matches": 2672,
+        "playtime": 1572179606,
+        "finished": 819,
+        "finishtime": 615689155,
+        "won": 1290,
         "lost": 1139,
         "forfeited": 651
     },
@@ -6430,44 +6451,5 @@
         "won": 4526,
         "lost": 4235,
         "forfeited": 1227
-    },
-    "fe6771646c5d43c1b713023fb69c10c6": {
-        "nickname": "SammmyG",
-        "country": "au",
-        "top": {
-            "1": 1541,
-            "2": 1333,
-            "3": 1416,
-            "4": 1710,
-            "5": 1618,
-            "6": 1633,
-            "7": 1690,
-            "8": 1672,
-            "9": 2102,
-            "10": 2208,
-            "11": 2155
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 10,
-            "5": 0,
-            "6": 5,
-            "7": 10,
-            "8": 0,
-            "9": 7,
-            "10": 11,
-            "11": 32
-        },
-        "pb": 426548,
-        "streak": 14,
-        "matches": 3126,
-        "playtime": 2103407658,
-        "finished": 1124,
-        "finishtime": 832065557,
-        "won": 1614,
-        "lost": 1345,
-        "forfeited": 204
     }
 }
