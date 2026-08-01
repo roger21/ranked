@@ -1,5 +1,5 @@
 {
-    "date": 1785545401000,
+    "date": 1785546001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134055,20 +134055,6 @@
                     "time": 635147,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781225477000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "Magmania",
-                    "elo": 1924,
-                    "change": -1,
-                    "oelo": 1845,
-                    "ochange": 1,
-                    "time": 454271,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -174733,20 +174719,6 @@
                     "oelo": 1956,
                     "ochange": -27,
                     "time": 524929,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781225818000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "TopTerrain",
-                    "elo": 1767,
-                    "change": 18,
-                    "oelo": 1681,
-                    "ochange": -18,
-                    "time": 611385,
                     "forfeited": false,
                     "decayed": false
                 }
