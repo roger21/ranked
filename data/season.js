@@ -1,5 +1,5 @@
 {
-    "date": 1785586801000,
+    "date": 1785587401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67526,20 +67526,6 @@
                     "ochange": 1,
                     "time": 592527,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781267083000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 1965,
-                    "change": -27,
-                    "oelo": 1804,
-                    "ochange": 27,
-                    "time": 672011,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -145556,22 +145542,36 @@
             "nickname": "karatebaby_",
             "stats": {
                 "rank": 39,
-                "elo": 2179,
+                "elo": 2155,
                 "top": 2189,
                 "points": 37,
                 "pb": 381009,
-                "current": 2,
+                "current": 0,
                 "streak": 11,
-                "matches": 327,
-                "playtime": 193384964,
+                "matches": 328,
+                "playtime": 194033456,
                 "finished": 161,
                 "finishtime": 99543508,
                 "won": 183,
-                "lost": 134,
+                "lost": 135,
                 "forfeited": 26
             },
             "country": "vn",
             "matches": [
+                {
+                    "date": 1785586884000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "hsbi",
+                    "elo": 2155,
+                    "change": -24,
+                    "oelo": 2105,
+                    "ochange": 24,
+                    "time": 648492,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785534994000,
                     "type": null,
