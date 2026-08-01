@@ -1,5 +1,5 @@
 {
-    "date": 1785617401000,
+    "date": 1785618001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52571,20 +52571,6 @@
                     "time": 291954,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781297966000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2028,
-                    "change": -17,
-                    "oelo": 2137,
-                    "ochange": 17,
-                    "time": 439341,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -60245,20 +60231,6 @@
                     "oelo": 1921,
                     "ochange": -12,
                     "time": 619024,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781297489000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2157,
-                    "change": 26,
-                    "oelo": 2263,
-                    "ochange": -26,
-                    "time": 537262,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -80446,20 +80418,6 @@
                     "oelo": 2066,
                     "ochange": -14,
                     "time": 563794,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781297489000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Watermelon1708",
-                    "elo": 2263,
-                    "change": -26,
-                    "oelo": 2157,
-                    "ochange": 26,
-                    "time": 537262,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -106639,34 +106597,6 @@
                     "ochange": -21,
                     "time": 351747,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781297966000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2137,
-                    "change": 17,
-                    "oelo": 2028,
-                    "ochange": -17,
-                    "time": 439341,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781297458000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2120,
-                    "change": 14,
-                    "oelo": 1933,
-                    "ochange": -14,
-                    "time": 547230,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
