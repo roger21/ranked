@@ -1,5 +1,5 @@
 {
-    "date": 1785597001000,
+    "date": 1785597601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -122389,20 +122389,6 @@
                     "time": 563523,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781277184000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 2074,
-                    "change": -26,
-                    "oelo": 1961,
-                    "ochange": 26,
-                    "time": 597938,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126955,20 +126941,6 @@
                     "oelo": 1854,
                     "ochange": -19,
                     "time": 519609,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781277139000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "gothy666",
-                    "elo": 1912,
-                    "change": 14,
-                    "oelo": 1725,
-                    "ochange": -14,
-                    "time": 541849,
                     "forfeited": false,
                     "decayed": false
                 }
