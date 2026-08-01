@@ -1,5 +1,5 @@
 {
-    "date": 1785546001000,
+    "date": 1785546601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134041,20 +134041,6 @@
                     "time": 648872,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781226280000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 1899,
-                    "change": -25,
-                    "oelo": 1812,
-                    "ochange": 25,
-                    "time": 635147,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -174705,20 +174691,6 @@
                     "oelo": 1675,
                     "ochange": 25,
                     "time": 786037,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781226433000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1794,
-                    "change": 27,
-                    "oelo": 1956,
-                    "ochange": -27,
-                    "time": 524929,
                     "forfeited": false,
                     "decayed": false
                 }
