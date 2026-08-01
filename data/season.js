@@ -1,5 +1,5 @@
 {
-    "date": 1785555001000,
+    "date": 1785555601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63316,20 +63316,6 @@
                     "oelo": 2280,
                     "ochange": 14,
                     "time": 619304,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781235210000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2083,
-                    "change": -28,
-                    "oelo": 1920,
-                    "ochange": 28,
-                    "time": 472165,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -133971,20 +133957,6 @@
                     "time": 738185,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781235210000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1920,
-                    "change": 28,
-                    "oelo": 2083,
-                    "ochange": -28,
-                    "time": 472165,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -182363,20 +182335,6 @@
                     "oelo": 1725,
                     "ochange": 25,
                     "time": 686215,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781235277000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Rixzzs",
-                    "elo": 1832,
-                    "change": 18,
-                    "oelo": 1733,
-                    "ochange": -18,
-                    "time": 701675,
                     "forfeited": false,
                     "decayed": false
                 }
