@@ -1,5 +1,5 @@
 {
-    "date": 1785572401000,
+    "date": 1785573001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -181875,20 +181875,6 @@
                     "time": 766139,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781252513000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Violett_e",
-                    "elo": 1728,
-                    "change": 14,
-                    "oelo": 1529,
-                    "ochange": -14,
-                    "time": 648163,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -193357,20 +193343,6 @@
                     "oelo": 1740,
                     "ochange": -17,
                     "time": 565180,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781252815000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Duk4n_",
-                    "elo": 1837,
-                    "change": -22,
-                    "oelo": 1819,
-                    "ochange": 22,
-                    "time": 529747,
                     "forfeited": false,
                     "decayed": false
                 }
