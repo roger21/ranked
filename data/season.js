@@ -1,5 +1,5 @@
 {
-    "date": 1785577201000,
+    "date": 1785577801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115900,7 +115900,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2186,
                 "top": 2196,
                 "points": 35,
@@ -118919,7 +118919,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2186,
                 "top": 2298,
                 "points": 34,
@@ -133852,7 +133852,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2184,
                 "top": 2184,
                 "points": 21,
@@ -135527,7 +135527,7 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2182,
                 "top": 2202,
                 "points": 23,
@@ -137580,7 +137580,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2179,
                 "top": 2189,
                 "points": 37,
@@ -139339,23 +139339,37 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 39,
-                "elo": 2176,
+                "rank": 34,
+                "elo": 2193,
                 "top": 2197,
                 "points": 8,
                 "pb": 394043,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 741,
-                "playtime": 387481791,
-                "finished": 327,
-                "finishtime": 191440782,
-                "won": 381,
+                "matches": 742,
+                "playtime": 387913226,
+                "finished": 328,
+                "finishtime": 191872217,
+                "won": 382,
                 "lost": 329,
                 "forfeited": 174
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1785577821000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "mukvl",
+                    "elo": 2193,
+                    "change": 17,
+                    "oelo": 2072,
+                    "ochange": -17,
+                    "time": 431435,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785576706000,
                     "type": "BURIED_TREASURE",
@@ -181748,20 +181762,6 @@
                     "ochange": -22,
                     "time": 655516,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781257564000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "sylvie0616",
-                    "elo": 1734,
-                    "change": -18,
-                    "oelo": 1830,
-                    "ochange": 18,
-                    "time": 605129,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
