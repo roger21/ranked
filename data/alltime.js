@@ -100,13 +100,13 @@
         },
         "pb": 420650,
         "streak": 13,
-        "matches": 2825,
-        "playtime": 1852982688,
+        "matches": 2826,
+        "playtime": 1853319021,
         "finished": 905,
         "finishtime": 673373008,
         "won": 1356,
-        "lost": 1248,
-        "forfeited": 278
+        "lost": 1249,
+        "forfeited": 279
     },
     "048de51800794a208de7f01652513c32": {
         "nickname": "SocratesDisciple",
@@ -6483,12 +6483,12 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 9172,
-        "playtime": 5818276427,
+        "matches": 9173,
+        "playtime": 5818798999,
         "finished": 3181,
         "finishtime": 2320520279,
         "won": 4534,
-        "lost": 4238,
+        "lost": 4239,
         "forfeited": 1227
     },
     "fe6771646c5d43c1b713023fb69c10c6": {
