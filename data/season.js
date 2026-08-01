@@ -1,5 +1,5 @@
 {
-    "date": 1785582601000,
+    "date": 1785583201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29985,20 +29985,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2212,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1781263063000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2217,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -181775,20 +181761,6 @@
                     "oelo": 1562,
                     "ochange": 26,
                     "time": 679462,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781262767000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Mixray_",
-                    "elo": 1699,
-                    "change": 21,
-                    "oelo": 1688,
-                    "ochange": -21,
-                    "time": 594002,
                     "forfeited": false,
                     "decayed": false
                 }
