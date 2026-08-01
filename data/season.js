@@ -1,5 +1,5 @@
 {
-    "date": 1785567601000,
+    "date": 1785568201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -133955,20 +133955,6 @@
                     "oelo": 1670,
                     "ochange": -13,
                     "time": 498501,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781248083000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "NokeyDokey",
-                    "elo": 1894,
-                    "change": -26,
-                    "oelo": 1762,
-                    "ochange": 26,
-                    "time": 738185,
                     "forfeited": false,
                     "decayed": false
                 }
