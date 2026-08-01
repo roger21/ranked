@@ -1,5 +1,5 @@
 {
-    "date": 1785626401000,
+    "date": 1785627001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -60149,20 +60149,6 @@
                     "time": 493318,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781306442000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 2074,
-                    "change": -11,
-                    "oelo": 2354,
-                    "ochange": 11,
-                    "time": 262303,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -80167,20 +80153,6 @@
                     "ochange": 31,
                     "time": 598626,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781306442000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 2354,
-                    "change": 11,
-                    "oelo": 2074,
-                    "ochange": -11,
-                    "time": 262303,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -175401,20 +175373,6 @@
                     "oelo": 1646,
                     "ochange": -15,
                     "time": 635763,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781306682000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "wagapizu",
-                    "elo": 1808,
-                    "change": -19,
-                    "oelo": 1860,
-                    "ochange": 19,
-                    "time": 642536,
                     "forfeited": false,
                     "decayed": false
                 }
