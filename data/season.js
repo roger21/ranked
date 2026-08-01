@@ -1,5 +1,5 @@
 {
-    "date": 1785574801000,
+    "date": 1785575401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161772,20 +161772,6 @@
                     "time": 600492,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781254917000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "MateMatthew",
-                    "elo": 1505,
-                    "change": -16,
-                    "oelo": 1647,
-                    "ochange": 16,
-                    "time": 830121,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -193246,20 +193232,6 @@
                     "ochange": 18,
                     "time": 527248,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781254810000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "k4yfour",
-                    "elo": 1853,
-                    "change": -1,
-                    "oelo": 1746,
-                    "ochange": 1,
-                    "time": 653766,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
