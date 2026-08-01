@@ -1,5 +1,5 @@
 {
-    "date": 1785558601000,
+    "date": 1785559201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108423,20 +108423,6 @@
                     "time": 560713,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781238724000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "wethr",
-                    "elo": 2153,
-                    "change": 12,
-                    "oelo": 1894,
-                    "ochange": -12,
-                    "time": 536106,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -182223,20 +182209,6 @@
                     "oelo": 1873,
                     "ochange": -21,
                     "time": 524906,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781238611000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "FuzzKing",
-                    "elo": 1859,
-                    "change": 16,
-                    "oelo": 1719,
-                    "ochange": -16,
-                    "time": 501532,
                     "forfeited": false,
                     "decayed": false
                 }
