@@ -1,5 +1,5 @@
 {
-    "date": 1785582001000,
+    "date": 1785582601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -181790,20 +181790,6 @@
                     "ochange": -21,
                     "time": 594002,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781262081000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Mitthui",
-                    "elo": 1678,
-                    "change": -18,
-                    "oelo": 1758,
-                    "ochange": 18,
-                    "time": 210432,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
