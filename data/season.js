@@ -1,5 +1,5 @@
 {
-    "date": 1785562201000,
+    "date": 1785562801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161856,20 +161856,6 @@
                     "time": 830121,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781242458000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "LawnMobius",
-                    "elo": 1521,
-                    "change": -17,
-                    "oelo": 1640,
-                    "ochange": 17,
-                    "time": 748291,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -182097,20 +182083,6 @@
                     "oelo": 1788,
                     "ochange": 22,
                     "time": 711213,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781242516000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1823,
-                    "change": -19,
-                    "oelo": 1882,
-                    "ochange": 19,
-                    "time": 593842,
                     "forfeited": false,
                     "decayed": false
                 }
