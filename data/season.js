@@ -1,5 +1,5 @@
 {
-    "date": 1785554401000,
+    "date": 1785555001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63332,20 +63332,6 @@
                     "time": 472165,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781234530000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2111,
-                    "change": -20,
-                    "oelo": 2147,
-                    "ochange": 20,
-                    "time": 675516,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -108493,20 +108479,6 @@
                     "time": 602010,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781234530000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 2147,
-                    "change": 20,
-                    "oelo": 2111,
-                    "ochange": -20,
-                    "time": 675516,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -134012,20 +133984,6 @@
                     "ochange": -28,
                     "time": 472165,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781234645000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ILuvCobblestone",
-                    "elo": 1892,
-                    "change": 13,
-                    "oelo": 1661,
-                    "ochange": -13,
-                    "time": 434340,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -182420,20 +182378,6 @@
                     "ochange": -18,
                     "time": 701675,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781234492000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Blankbo1",
-                    "elo": 1814,
-                    "change": -24,
-                    "oelo": 1747,
-                    "ochange": 24,
-                    "time": 377265,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
