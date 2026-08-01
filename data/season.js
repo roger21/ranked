@@ -1,5 +1,5 @@
 {
-    "date": 1785627001000,
+    "date": 1785627602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -127909,20 +127909,6 @@
                     "time": 674144,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781307357000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "benemies",
-                    "elo": 1972,
-                    "change": -25,
-                    "oelo": 1882,
-                    "ochange": 25,
-                    "time": 660710,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -175360,20 +175346,6 @@
                     "ochange": 1,
                     "time": 793454,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781307477000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "LawnMobius",
-                    "elo": 1823,
-                    "change": 15,
-                    "oelo": 1646,
-                    "ochange": -15,
-                    "time": 635763,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
