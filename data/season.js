@@ -1,5 +1,5 @@
 {
-    "date": 1785573001000,
+    "date": 1785573601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9655,20 +9655,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2068,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1781253523000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2073,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -133887,20 +133873,6 @@
                     "time": 520024,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781253429000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 1943,
-                    "change": -13,
-                    "oelo": 2174,
-                    "ochange": 13,
-                    "time": 631886,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -152993,20 +152965,6 @@
                     "oelo": 2191,
                     "ochange": 20,
                     "time": 893792,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781253429000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2174,
-                    "change": 13,
-                    "oelo": 1943,
-                    "ochange": -13,
-                    "time": 631886,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -181860,20 +181818,6 @@
                     "ochange": 20,
                     "time": 820226,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781253499000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "Gon_mcsr",
-                    "elo": 1727,
-                    "change": -1,
-                    "oelo": 1624,
-                    "ochange": 1,
-                    "time": 766139,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
