@@ -1,5 +1,5 @@
 {
-    "date": 1785583201000,
+    "date": 1785583801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -145604,20 +145604,6 @@
                     "time": 548034,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781263675000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "semcomet",
-                    "elo": 1669,
-                    "change": -20,
-                    "oelo": 1718,
-                    "ochange": 20,
-                    "time": 571275,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -181748,20 +181734,6 @@
                     "ochange": 22,
                     "time": 334731,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781263535000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Jokerod",
-                    "elo": 1673,
-                    "change": -26,
-                    "oelo": 1562,
-                    "ochange": 26,
-                    "time": 679462,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
