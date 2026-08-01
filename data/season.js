@@ -1,5 +1,5 @@
 {
-    "date": 1785557401000,
+    "date": 1785558001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108437,20 +108437,6 @@
                     "time": 536106,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781237689000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Bloonskiller",
-                    "elo": 2141,
-                    "change": 13,
-                    "oelo": 1906,
-                    "ochange": -13,
-                    "time": 523075,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -182265,20 +182251,6 @@
                     "oelo": 1719,
                     "ochange": -16,
                     "time": 501532,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781237723000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Rixzzs",
-                    "elo": 1843,
-                    "change": 17,
-                    "oelo": 1717,
-                    "ochange": -17,
-                    "time": 598177,
                     "forfeited": false,
                     "decayed": false
                 }
