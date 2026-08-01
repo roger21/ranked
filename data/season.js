@@ -1,5 +1,5 @@
 {
-    "date": 1785568201000,
+    "date": 1785568801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -133943,20 +133943,6 @@
                     "time": 526029,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781248718000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "asteroid20993",
-                    "elo": 1907,
-                    "change": 13,
-                    "oelo": 1670,
-                    "ochange": -13,
-                    "time": 498501,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -181999,34 +181985,6 @@
                     "oelo": 1870,
                     "ochange": 18,
                     "time": 633568,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781248758000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "PandaPuffer",
-                    "elo": 1785,
-                    "change": 15,
-                    "oelo": 1625,
-                    "ochange": -15,
-                    "time": 226756,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781248305000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "47cpss",
-                    "elo": 1770,
-                    "change": -23,
-                    "oelo": 1725,
-                    "ochange": 23,
-                    "time": 674487,
                     "forfeited": false,
                     "decayed": false
                 }
