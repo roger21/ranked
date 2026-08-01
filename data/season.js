@@ -1,5 +1,5 @@
 {
-    "date": 1785571801000,
+    "date": 1785572401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115915,7 +115915,7 @@
             "nickname": "SocratesDisciple",
             "stats": {
                 "rank": 34,
-                "elo": 2191,
+                "elo": 2186,
                 "top": 2196,
                 "points": 35,
                 "pb": 430685,
@@ -115931,6 +115931,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1785572314000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2186,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785485913000,
                     "type": null,
@@ -118919,7 +118933,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2186,
                 "top": 2298,
                 "points": 34,
@@ -133885,20 +133899,6 @@
                     "oelo": 2174,
                     "ochange": 13,
                     "time": 631886,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781252190000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1956,
-                    "change": 18,
-                    "oelo": 1859,
-                    "ochange": -18,
-                    "time": 487729,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -193371,20 +193371,6 @@
                     "oelo": 1819,
                     "ochange": 22,
                     "time": 529747,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781252190000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 1859,
-                    "change": -18,
-                    "oelo": 1956,
-                    "ochange": 18,
-                    "time": 487729,
                     "forfeited": false,
                     "decayed": false
                 }
