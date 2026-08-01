@@ -1,5 +1,5 @@
 {
-    "date": 1785599401000,
+    "date": 1785600002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -102128,20 +102128,6 @@
                     "time": 626724,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781279676000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 1930,
-                    "change": -15,
-                    "oelo": 2100,
-                    "ochange": 15,
-                    "time": 522496,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -104949,20 +104935,6 @@
                     "oelo": 1934,
                     "ochange": -15,
                     "time": 689374,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781279676000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2100,
-                    "change": 15,
-                    "oelo": 1930,
-                    "ochange": -15,
-                    "time": 522496,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -126843,20 +126815,6 @@
                     "oelo": 1864,
                     "ochange": 22,
                     "time": 460619,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781279525000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "fe666",
-                    "elo": 1908,
-                    "change": -24,
-                    "oelo": 1836,
-                    "ochange": 24,
-                    "time": 675125,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -153035,20 +152993,6 @@
                     "oelo": 1700,
                     "ochange": 26,
                     "time": 668309,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781279525000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "SocratesDisciple",
-                    "elo": 1836,
-                    "change": 24,
-                    "oelo": 1908,
-                    "ochange": -24,
-                    "time": 675125,
                     "forfeited": false,
                     "decayed": false
                 }
