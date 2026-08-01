@@ -1,5 +1,5 @@
 {
-    "date": 1785564001000,
+    "date": 1785564601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27839,7 +27839,7 @@
             "nickname": "Pinne",
             "stats": {
                 "rank": 12,
-                "elo": 2338,
+                "elo": 2333,
                 "top": 2338,
                 "points": 119,
                 "pb": 403492,
@@ -27855,6 +27855,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1785564454000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2333,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785149727000,
                     "type": "VILLAGE",
@@ -182069,20 +182083,6 @@
                     "oelo": 1868,
                     "ochange": 19,
                     "time": 836473,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781244080000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "MaKiiiiii1106",
-                    "elo": 1816,
-                    "change": 15,
-                    "oelo": 1641,
-                    "ochange": -15,
-                    "time": 719193,
                     "forfeited": false,
                     "decayed": false
                 }
