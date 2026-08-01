@@ -1,5 +1,5 @@
 {
-    "date": 1785552601000,
+    "date": 1785553201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -182447,20 +182447,6 @@
                     "oelo": 1879,
                     "ochange": -23,
                     "time": 689657,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781232865000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "PandaPuffer",
-                    "elo": 1815,
-                    "change": 14,
-                    "oelo": 1627,
-                    "ochange": -14,
-                    "time": 494555,
                     "forfeited": false,
                     "decayed": false
                 }
