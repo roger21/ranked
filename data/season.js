@@ -1,5 +1,5 @@
 {
-    "date": 1785583801000,
+    "date": 1785584401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67553,20 +67553,6 @@
                     "oelo": 1812,
                     "ochange": -15,
                     "time": 703523,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781264383000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1977,
-                    "change": -27,
-                    "oelo": 1840,
-                    "ochange": 27,
-                    "time": 543111,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -145590,20 +145576,6 @@
                     "time": 596573,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781264361000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "ItzUser",
-                    "elo": 1670,
-                    "change": 1,
-                    "oelo": 1741,
-                    "ochange": -1,
-                    "time": 548034,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -181719,20 +181691,6 @@
                     "oelo": 1654,
                     "ochange": -21,
                     "time": 261601,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781263926000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1651,
-                    "change": -22,
-                    "oelo": 1647,
-                    "ochange": 22,
-                    "time": 334731,
                     "forfeited": true,
                     "decayed": false
                 }
