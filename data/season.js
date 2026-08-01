@@ -1,5 +1,5 @@
 {
-    "date": 1785625201000,
+    "date": 1785625801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -60163,34 +60163,6 @@
                     "time": 262303,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781305660000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2085,
-                    "change": -24,
-                    "oelo": 2016,
-                    "ochange": 24,
-                    "time": 350630,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781305232000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 2109,
-                    "change": -13,
-                    "oelo": 2334,
-                    "ochange": 13,
-                    "time": 517149,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -80222,20 +80194,6 @@
                     "oelo": 1997,
                     "ochange": -9,
                     "time": 483329,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781305232000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 2334,
-                    "change": 13,
-                    "oelo": 2109,
-                    "ochange": -13,
-                    "time": 517149,
                     "forfeited": false,
                     "decayed": false
                 }
