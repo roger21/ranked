@@ -1,5 +1,5 @@
 {
-    "date": 1785633601000,
+    "date": 1785634201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65147,20 +65147,6 @@
                     "time": 766112,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781313999000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2140,
-                    "change": -25,
-                    "oelo": 2057,
-                    "ochange": 25,
-                    "time": 645527,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -129526,20 +129512,6 @@
                     "oelo": 1948,
                     "ochange": -17,
                     "time": 553866,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781313999000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "pavkin",
-                    "elo": 2057,
-                    "change": 25,
-                    "oelo": 2140,
-                    "ochange": -25,
-                    "time": 645527,
                     "forfeited": false,
                     "decayed": false
                 }
