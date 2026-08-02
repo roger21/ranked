@@ -1,5 +1,5 @@
 {
-    "date": 1785651601000,
+    "date": 1785652201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -93924,20 +93924,6 @@
                     "ochange": -23,
                     "time": 503037,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781331976000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1822,
-                    "change": -23,
-                    "oelo": 1772,
-                    "ochange": 23,
-                    "time": 542224,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -209424,20 +209410,6 @@
                     "oelo": 1921,
                     "ochange": -22,
                     "time": 590677,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781331778000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1895,
-                    "change": 21,
-                    "oelo": 1876,
-                    "ochange": -21,
-                    "time": 678117,
                     "forfeited": false,
                     "decayed": false
                 }
