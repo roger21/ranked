@@ -1,5 +1,5 @@
 {
-    "date": 1785632401000,
+    "date": 1785633001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -127865,20 +127865,6 @@
                     "oelo": 1848,
                     "ochange": -14,
                     "time": 499895,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781312646000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2018,
-                    "change": 21,
-                    "oelo": 2008,
-                    "ochange": -21,
-                    "time": 624086,
                     "forfeited": false,
                     "decayed": false
                 }
