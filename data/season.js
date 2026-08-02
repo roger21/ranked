@@ -1,5 +1,5 @@
 {
-    "date": 1785660601000,
+    "date": 1785661201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -154178,20 +154178,6 @@
                     "oelo": 2061,
                     "ochange": 24,
                     "time": 521580,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781341122000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 2144,
-                    "change": -28,
-                    "oelo": 1952,
-                    "ochange": 28,
-                    "time": 788275,
                     "forfeited": false,
                     "decayed": false
                 }
