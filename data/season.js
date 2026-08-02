@@ -1,5 +1,5 @@
 {
-    "date": 1785662401000,
+    "date": 1785663001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -143448,20 +143448,6 @@
                     "time": 621489,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781342730000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "yunusbes",
-                    "elo": 1714,
-                    "change": 3,
-                    "oelo": 1931,
-                    "ochange": -3,
-                    "time": 631504,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -154164,20 +154150,6 @@
                     "oelo": 2083,
                     "ochange": 22,
                     "time": 653410,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781342834000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "karatebaby_",
-                    "elo": 2120,
-                    "change": -24,
-                    "oelo": 2061,
-                    "ochange": 24,
-                    "time": 521580,
                     "forfeited": false,
                     "decayed": false
                 }
