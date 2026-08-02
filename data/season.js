@@ -1,5 +1,5 @@
 {
-    "date": 1785666001000,
+    "date": 1785666601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -55758,20 +55758,6 @@
                     "time": 482185,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781346533000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 2061,
-                    "change": -22,
-                    "oelo": 2062,
-                    "ochange": 22,
-                    "time": 672913,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -86625,20 +86611,6 @@
                     "oelo": 1887,
                     "ochange": -14,
                     "time": 531253,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781346533000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2062,
-                    "change": 22,
-                    "oelo": 2061,
-                    "ochange": -22,
-                    "time": 672913,
                     "forfeited": false,
                     "decayed": false
                 }
