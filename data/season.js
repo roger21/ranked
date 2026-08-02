@@ -1,5 +1,5 @@
 {
-    "date": 1785663601000,
+    "date": 1785664201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -55770,20 +55770,6 @@
                     "oelo": 2062,
                     "ochange": 22,
                     "time": 672913,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781343907000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2083,
-                    "change": 22,
-                    "oelo": 2098,
-                    "ochange": -22,
-                    "time": 653410,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143434,20 +143420,6 @@
                     "time": 882367,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781344180000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Tra_Sua_Ococo",
-                    "elo": 1704,
-                    "change": -26,
-                    "oelo": 1598,
-                    "ochange": 26,
-                    "time": 522196,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -154136,20 +154108,6 @@
                     "oelo": 1855,
                     "ochange": -12,
                     "time": 663279,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781343907000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2098,
-                    "change": -22,
-                    "oelo": 2083,
-                    "ochange": 22,
-                    "time": 653410,
                     "forfeited": false,
                     "decayed": false
                 }
