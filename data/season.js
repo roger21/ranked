@@ -1,5 +1,5 @@
 {
-    "date": 1785712201000,
+    "date": 1785712801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -42197,22 +42197,36 @@
             "nickname": "DARVY__X1",
             "stats": {
                 "rank": 16,
-                "elo": 2299,
+                "elo": 2312,
                 "top": 2358,
                 "points": 58,
                 "pb": 395829,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 765,
-                "playtime": 428910104,
-                "finished": 356,
-                "finishtime": 207406678,
-                "won": 406,
+                "matches": 766,
+                "playtime": 429361506,
+                "finished": 357,
+                "finishtime": 207858080,
+                "won": 407,
                 "lost": 329,
                 "forfeited": 27
             },
             "country": "je",
             "matches": [
+                {
+                    "date": 1785712627000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "JustAltoid",
+                    "elo": 2312,
+                    "change": 13,
+                    "oelo": 2072,
+                    "ochange": -13,
+                    "time": 451402,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785622719000,
                     "type": "BURIED_TREASURE",
@@ -104949,20 +104963,6 @@
                     "oelo": 2190,
                     "ochange": 20,
                     "time": 628735,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781392794000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 2170,
-                    "change": 14,
-                    "oelo": 1984,
-                    "ochange": -14,
-                    "time": 670319,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -183427,20 +183427,6 @@
                     "oelo": 1982,
                     "ochange": -2,
                     "time": 815471,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781392758000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "PandaPuffer",
-                    "elo": 1789,
-                    "change": 17,
-                    "oelo": 1675,
-                    "ochange": -17,
-                    "time": 656173,
                     "forfeited": true,
                     "decayed": false
                 }
