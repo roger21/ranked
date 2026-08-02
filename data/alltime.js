@@ -1346,7 +1346,7 @@
         "forfeited": 187
     },
     "359da0f53f574971acdaa4aa23de991d": {
-        "nickname": "wagapizu",
+        "nickname": "_pizu",
         "country": "us",
         "top": {
             "1": 980,
