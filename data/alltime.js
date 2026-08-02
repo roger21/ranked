@@ -100,12 +100,12 @@
         },
         "pb": 420650,
         "streak": 13,
-        "matches": 2837,
-        "playtime": 1859185883,
+        "matches": 2838,
+        "playtime": 1859829054,
         "finished": 911,
         "finishtime": 677138441,
         "won": 1362,
-        "lost": 1254,
+        "lost": 1255,
         "forfeited": 282
     },
     "048de51800794a208de7f01652513c32": {
@@ -916,13 +916,13 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 4370,
-        "playtime": 2602900912,
+        "matches": 4371,
+        "playtime": 2603172964,
         "finished": 2130,
         "finishtime": 1305103564,
         "won": 2470,
-        "lost": 1793,
-        "forfeited": 105
+        "lost": 1794,
+        "forfeited": 106
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
         "nickname": "temp_gd",
@@ -1374,13 +1374,13 @@
         },
         "pb": 424469,
         "streak": 12,
-        "matches": 4498,
-        "playtime": 2781408438,
+        "matches": 4499,
+        "playtime": 2781701641,
         "finished": 1683,
         "finishtime": 1188703055,
         "won": 2268,
-        "lost": 2065,
-        "forfeited": 708
+        "lost": 2066,
+        "forfeited": 709
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
         "nickname": "dillrice",
@@ -1569,11 +1569,11 @@
         },
         "pb": 342789,
         "streak": 17,
-        "matches": 16738,
-        "playtime": 9829773894,
+        "matches": 16739,
+        "playtime": 9830045946,
         "finished": 7351,
         "finishtime": 4714745582,
-        "won": 9075,
+        "won": 9076,
         "lost": 7277,
         "forfeited": 2011
     },
@@ -5452,12 +5452,12 @@
         },
         "pb": 401869,
         "streak": 12,
-        "matches": 5816,
-        "playtime": 3306354378,
+        "matches": 5817,
+        "playtime": 3307260318,
         "finished": 2093,
         "finishtime": 1403488423,
         "won": 2805,
-        "lost": 2682,
+        "lost": 2683,
         "forfeited": 1444
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
