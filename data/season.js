@@ -1,5 +1,5 @@
 {
-    "date": 1785663001000,
+    "date": 1785663601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -25856,7 +25856,7 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 11,
-                "elo": 2361,
+                "elo": 2356,
                 "top": 2366,
                 "points": 135,
                 "pb": 368221,
@@ -25872,6 +25872,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785663275000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2356,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785576874000,
                     "type": null,
@@ -143432,20 +143446,6 @@
                     "oelo": 1598,
                     "ochange": 26,
                     "time": 522196,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781343490000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "senez",
-                    "elo": 1730,
-                    "change": 16,
-                    "oelo": 1598,
-                    "ochange": -16,
-                    "time": 621489,
                     "forfeited": false,
                     "decayed": false
                 }
