@@ -1,5 +1,5 @@
 {
-    "date": 1785650401000,
+    "date": 1785651001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -49664,20 +49664,6 @@
                     "time": 738491,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781330678000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 1985,
-                    "change": 27,
-                    "oelo": 2133,
-                    "ochange": -27,
-                    "time": 496798,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73850,20 +73836,6 @@
                     "time": 488043,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781330678000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 2133,
-                    "change": -27,
-                    "oelo": 1985,
-                    "ochange": 27,
-                    "time": 496798,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -93965,20 +93937,6 @@
                     "oelo": 1772,
                     "ochange": 23,
                     "time": 542224,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781330751000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "zorn89",
-                    "elo": 1845,
-                    "change": -20,
-                    "oelo": 1881,
-                    "ochange": 20,
-                    "time": 599646,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -209481,20 +209439,6 @@
                     "ochange": -21,
                     "time": 678117,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781330803000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "FuzzKing",
-                    "elo": 1874,
-                    "change": 17,
-                    "oelo": 1761,
-                    "ochange": -17,
-                    "time": 651761,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
