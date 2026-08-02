@@ -1,5 +1,5 @@
 {
-    "date": 1785655201000,
+    "date": 1785655801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -209327,20 +209327,6 @@
                     "ochange": 0,
                     "time": 704166,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781335535000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "FuzzKing",
-                    "elo": 1880,
-                    "change": -25,
-                    "oelo": 1797,
-                    "ochange": 25,
-                    "time": 678384,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
