@@ -1,5 +1,5 @@
 {
-    "date": 1785657001000,
+    "date": 1785657601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141590,20 +141590,6 @@
                     "ochange": -14,
                     "time": 503348,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781337354000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "FuzzKing",
-                    "elo": 1800,
-                    "change": -20,
-                    "oelo": 1838,
-                    "ochange": 20,
-                    "time": 435417,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
