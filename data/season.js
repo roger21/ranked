@@ -1,5 +1,5 @@
 {
-    "date": 1785631801000,
+    "date": 1785632401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -127879,20 +127879,6 @@
                     "oelo": 2008,
                     "ochange": -21,
                     "time": 624086,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781311965000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1997,
-                    "change": -22,
-                    "oelo": 1985,
-                    "ochange": 22,
-                    "time": 741926,
                     "forfeited": false,
                     "decayed": false
                 }
