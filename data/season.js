@@ -1,5 +1,5 @@
 {
-    "date": 1785629401000,
+    "date": 1785630001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -80182,20 +80182,6 @@
                     "time": 488043,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781309539000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2323,
-                    "change": -31,
-                    "oelo": 2042,
-                    "ochange": 31,
-                    "time": 598626,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127907,20 +127893,6 @@
                     "oelo": 1989,
                     "ochange": 23,
                     "time": 618200,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781309539000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2042,
-                    "change": 31,
-                    "oelo": 2323,
-                    "ochange": -31,
-                    "time": 598626,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -182812,7 +182784,7 @@
             "nickname": "1_viewer",
             "stats": {
                 "rank": 47,
-                "elo": 2124,
+                "elo": 2119,
                 "top": 2160,
                 "points": 20,
                 "pb": 390893,
@@ -182828,6 +182800,20 @@
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1785629495000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2119,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785543094000,
                     "type": null,
