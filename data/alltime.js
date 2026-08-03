@@ -3577,12 +3577,12 @@
         },
         "pb": 381009,
         "streak": 11,
-        "matches": 5747,
-        "playtime": 3482750063,
+        "matches": 5748,
+        "playtime": 3483282826,
         "finished": 1998,
         "finishtime": 1440390656,
         "won": 2895,
-        "lost": 2652,
+        "lost": 2653,
         "forfeited": 1309
     },
     "879c8136d42c4222b42f1c090616fa5e": {
@@ -6271,13 +6271,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 8210,
-        "playtime": 4515309445,
+        "matches": 8211,
+        "playtime": 4515813291,
         "finished": 3076,
         "finishtime": 2014530354,
         "won": 4126,
-        "lost": 3831,
-        "forfeited": 2391
+        "lost": 3832,
+        "forfeited": 2392
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
