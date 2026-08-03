@@ -1,5 +1,5 @@
 {
-    "date": 1785768001000,
+    "date": 1785768601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28965,20 +28965,6 @@
                     "time": 495067,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781448129000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Erikfzf",
-                    "elo": 2123,
-                    "change": -22,
-                    "oelo": 2102,
-                    "ochange": 22,
-                    "time": 558037,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50129,20 +50115,6 @@
                     "oelo": 2096,
                     "ochange": -23,
                     "time": 572339,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781448495000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2024,
-                    "change": -20,
-                    "oelo": 2074,
-                    "ochange": 20,
-                    "time": 609730,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -80009,20 +79981,6 @@
                     "ochange": -13,
                     "time": 430575,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781448495000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 2074,
-                    "change": 20,
-                    "oelo": 2024,
-                    "ochange": -20,
-                    "time": 609730,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -204440,7 +204398,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2115,
                 "top": 2115,
                 "points": 16,
