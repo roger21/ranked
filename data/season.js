@@ -1,5 +1,5 @@
 {
-    "date": 1785794401000,
+    "date": 1785795002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -83426,20 +83426,6 @@
                     "time": 725174,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781474968000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 2068,
-                    "change": -22,
-                    "oelo": 2055,
-                    "ochange": 22,
-                    "time": 544521,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -110802,20 +110788,6 @@
                     "oelo": 1976,
                     "ochange": -13,
                     "time": 557868,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781474597000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 2187,
-                    "change": -28,
-                    "oelo": 2021,
-                    "ochange": 28,
-                    "time": 581169,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -162275,7 +162247,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2170,
                 "top": 2170,
                 "points": 19,
@@ -164846,7 +164818,7 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2167,
                 "top": 2202,
                 "points": 23,
@@ -166619,7 +166591,7 @@
             "uuid": "ae0bcaf8f34f4c419358c0f0c638cc9a",
             "nickname": "fe666",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2166,
                 "top": 2191,
                 "points": 4,
@@ -168434,7 +168406,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2160,
                 "top": 2264,
                 "points": 52,
@@ -170039,23 +170011,37 @@
             "uuid": "a888602136ee48208516c4f7960ba997",
             "nickname": "1_viewer",
             "stats": {
-                "rank": 45,
-                "elo": 2157,
-                "top": 2160,
+                "rank": 41,
+                "elo": 2172,
+                "top": 2172,
                 "points": 20,
                 "pb": 390893,
-                "current": 7,
+                "current": 8,
                 "streak": 8,
-                "matches": 952,
-                "playtime": 553520696,
+                "matches": 953,
+                "playtime": 553731139,
                 "finished": 398,
                 "finishtime": 248913589,
-                "won": 477,
+                "won": 478,
                 "lost": 425,
                 "forfeited": 87
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1785795070000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "cofesho",
+                    "elo": 2172,
+                    "change": 15,
+                    "oelo": 2015,
+                    "ochange": -15,
+                    "time": 210443,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785794210000,
                     "type": "BURIED_TREASURE",
