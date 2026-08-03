@@ -1,5 +1,5 @@
 {
-    "date": 1785760801000,
+    "date": 1785761401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29175,20 +29175,6 @@
                     "time": 337094,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781441083000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 2090,
-                    "change": 21,
-                    "oelo": 2069,
-                    "ochange": -21,
-                    "time": 559920,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -58123,20 +58109,6 @@
                     "ochange": 26,
                     "time": 323765,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781441083000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2069,
-                    "change": -21,
-                    "oelo": 2090,
-                    "ochange": 21,
-                    "time": 559920,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
