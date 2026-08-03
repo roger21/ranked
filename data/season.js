@@ -1,5 +1,5 @@
 {
-    "date": 1785762001000,
+    "date": 1785762601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29161,20 +29161,6 @@
                     "time": 524906,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781442272000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "LEC666888",
-                    "elo": 2103,
-                    "change": 13,
-                    "oelo": 1860,
-                    "ochange": -13,
-                    "time": 337094,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -58095,20 +58081,6 @@
                     "ochange": -22,
                     "time": 524906,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781442012000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 2043,
-                    "change": -26,
-                    "oelo": 1939,
-                    "ochange": 26,
-                    "time": 323765,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -190212,20 +190184,6 @@
                     "oelo": 1677,
                     "ochange": -19,
                     "time": 688574,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781442451000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1731,
-                    "change": -17,
-                    "oelo": 1845,
-                    "ochange": 17,
-                    "time": 811038,
                     "forfeited": false,
                     "decayed": false
                 }
