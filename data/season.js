@@ -1,5 +1,5 @@
 {
-    "date": 1785739201000,
+    "date": 1785739801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6099,20 +6099,6 @@
                     "oelo": 2161,
                     "ochange": 23,
                     "time": 509424,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781419545000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2226,
-                    "change": -22,
-                    "oelo": 2213,
-                    "ochange": 22,
-                    "time": 394680,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -46580,20 +46566,6 @@
                     "time": 578169,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781419545000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2213,
-                    "change": 22,
-                    "oelo": 2226,
-                    "ochange": -22,
-                    "time": 394680,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -58542,20 +58514,6 @@
                     "oelo": 2138,
                     "ochange": -24,
                     "time": 541999,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781419676000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 2048,
-                    "change": -27,
-                    "oelo": 1887,
-                    "ochange": 27,
-                    "time": 473016,
                     "forfeited": false,
                     "decayed": false
                 }
