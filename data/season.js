@@ -1,5 +1,5 @@
 {
-    "date": 1785763801000,
+    "date": 1785764401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29119,20 +29119,6 @@
                     "time": 538111,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781444328000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 2116,
-                    "change": 20,
-                    "oelo": 2066,
-                    "ochange": -20,
-                    "time": 521822,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -58011,20 +57997,6 @@
                     "ochange": -16,
                     "time": 277011,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781444328000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2066,
-                    "change": -20,
-                    "oelo": 2116,
-                    "ochange": 20,
-                    "time": 521822,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -190074,20 +190046,6 @@
                     "time": 719345,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781443900000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Tool_not_me",
-                    "elo": 1772,
-                    "change": 22,
-                    "oelo": 1781,
-                    "ochange": -22,
-                    "time": 609559,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -208486,20 +208444,6 @@
                     "oelo": 1823,
                     "ochange": -23,
                     "time": 641552,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781444013000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "pplazzz",
-                    "elo": 1766,
-                    "change": 20,
-                    "oelo": 1721,
-                    "ochange": -20,
-                    "time": 506683,
                     "forfeited": false,
                     "decayed": false
                 }
