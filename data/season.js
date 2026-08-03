@@ -1,5 +1,5 @@
 {
-    "date": 1785741601000,
+    "date": 1785742202000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29327,20 +29327,6 @@
                     "oelo": 2048,
                     "ochange": 26,
                     "time": 646937,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781421654000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BadGamer",
-                    "elo": 2183,
-                    "change": 22,
-                    "oelo": 2188,
-                    "ochange": -22,
-                    "time": 560417,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -99667,20 +99653,6 @@
                     "oelo": 2115,
                     "ochange": -18,
                     "time": 613961,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781421654000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2188,
-                    "change": -22,
-                    "oelo": 2183,
-                    "ochange": 22,
-                    "time": 560417,
                     "forfeited": false,
                     "decayed": false
                 }
