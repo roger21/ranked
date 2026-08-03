@@ -1,5 +1,5 @@
 {
-    "date": 1785771001000,
+    "date": 1785771602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50047,20 +50047,6 @@
                     "time": 640047,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781451147000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "suravil",
-                    "elo": 2046,
-                    "change": 21,
-                    "oelo": 2030,
-                    "ochange": -21,
-                    "time": 776305,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -54529,20 +54515,6 @@
                     "oelo": 2012,
                     "ochange": -18,
                     "time": 589194,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781451397000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2072,
-                    "change": -19,
-                    "oelo": 2146,
-                    "ochange": 19,
-                    "time": 576806,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79840,20 +79812,6 @@
                     "oelo": 1959,
                     "ochange": 27,
                     "time": 546177,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781451397000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2146,
-                    "change": 19,
-                    "oelo": 2072,
-                    "ochange": -19,
-                    "time": 576806,
                     "forfeited": false,
                     "decayed": false
                 }
