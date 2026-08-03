@@ -1,5 +1,5 @@
 {
-    "date": 1785740401000,
+    "date": 1785741001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6085,20 +6085,6 @@
                     "oelo": 2209,
                     "ochange": -21,
                     "time": 508393,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781420928000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2203,
-                    "change": -23,
-                    "oelo": 2161,
-                    "ochange": 23,
-                    "time": 509424,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -29355,20 +29341,6 @@
                     "oelo": 2188,
                     "ochange": -22,
                     "time": 560417,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781420928000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nahhann",
-                    "elo": 2161,
-                    "change": 23,
-                    "oelo": 2203,
-                    "ochange": -23,
-                    "time": 509424,
                     "forfeited": false,
                     "decayed": false
                 }
