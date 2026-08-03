@@ -1,5 +1,5 @@
 {
-    "date": 1785757801000,
+    "date": 1785758401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29217,20 +29217,6 @@
                     "time": 713485,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781437939000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "DARVY__X1",
-                    "elo": 2120,
-                    "change": -24,
-                    "oelo": 2045,
-                    "ochange": 24,
-                    "time": 403095,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50425,20 +50411,6 @@
                     "time": 481637,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781437939000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2045,
-                    "change": 24,
-                    "oelo": 2120,
-                    "ochange": -24,
-                    "time": 403095,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66377,20 +66349,6 @@
                     "oelo": 1935,
                     "ochange": 16,
                     "time": 933552,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781438232000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "WhyIP",
-                    "elo": 1819,
-                    "change": 16,
-                    "oelo": 1681,
-                    "ochange": -16,
-                    "time": 584245,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -190395,20 +190353,6 @@
                     "ochange": -17,
                     "time": 512334,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781438151000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "senez",
-                    "elo": 1731,
-                    "change": 19,
-                    "oelo": 1674,
-                    "ochange": -19,
-                    "time": 764998,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
