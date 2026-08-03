@@ -1,5 +1,5 @@
 {
-    "date": 1785754201000,
+    "date": 1785754801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29272,20 +29272,6 @@
                     "ochange": -16,
                     "time": 284475,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781434297000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 2135,
-                    "change": -22,
-                    "oelo": 2135,
-                    "ochange": 22,
-                    "time": 623417,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -106257,20 +106243,6 @@
                     "ochange": 23,
                     "time": 482406,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781434297000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2135,
-                    "change": 22,
-                    "oelo": 2135,
-                    "ochange": -22,
-                    "time": 623417,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
