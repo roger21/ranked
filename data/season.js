@@ -1,5 +1,5 @@
 {
-    "date": 1785753601000,
+    "date": 1785754201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29287,20 +29287,6 @@
                     "time": 623417,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781433621000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "DARVY__X1",
-                    "elo": 2157,
-                    "change": -26,
-                    "oelo": 2048,
-                    "ochange": 26,
-                    "time": 646937,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50592,20 +50578,6 @@
                     "ochange": -23,
                     "time": 482406,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781433621000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2048,
-                    "change": 26,
-                    "oelo": 2157,
-                    "ochange": -26,
-                    "time": 646937,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
