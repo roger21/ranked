@@ -1,5 +1,5 @@
 {
-    "date": 1785769201000,
+    "date": 1785769801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -50103,20 +50103,6 @@
                     "time": 543870,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781449660000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Erikfzf",
-                    "elo": 2047,
-                    "change": 23,
-                    "oelo": 2096,
-                    "ochange": -23,
-                    "time": 572339,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -79967,20 +79953,6 @@
                     "ochange": -20,
                     "time": 646710,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781449221000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "dinonuggieboi",
-                    "elo": 2087,
-                    "change": 13,
-                    "oelo": 1844,
-                    "ochange": -13,
-                    "time": 430575,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -204399,22 +204371,36 @@
             "nickname": "okshey",
             "stats": {
                 "rank": 50,
-                "elo": 2117,
+                "elo": 2130,
                 "top": 2265,
                 "points": 56,
                 "pb": 407022,
-                "current": 1,
+                "current": 2,
                 "streak": 11,
-                "matches": 597,
-                "playtime": 337233466,
-                "finished": 294,
-                "finishtime": 171233114,
-                "won": 325,
+                "matches": 598,
+                "playtime": 337808022,
+                "finished": 295,
+                "finishtime": 171807670,
+                "won": 326,
                 "lost": 254,
                 "forfeited": 12
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1785769501000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Tra_Sua_Ococo",
+                    "elo": 2130,
+                    "change": 13,
+                    "oelo": 1897,
+                    "ochange": -13,
+                    "time": 574556,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785768674000,
                     "type": "BURIED_TREASURE",
