@@ -1,5 +1,5 @@
 {
-    "date": 1785723601000,
+    "date": 1785724201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81116,20 +81116,6 @@
                     "time": 392184,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781404150000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nhb_",
-                    "elo": 2100,
-                    "change": 23,
-                    "oelo": 2143,
-                    "ochange": -23,
-                    "time": 582409,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100679,20 +100665,6 @@
                     "oelo": 2155,
                     "ochange": 20,
                     "time": 750575,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781404150000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2143,
-                    "change": -23,
-                    "oelo": 2100,
-                    "ochange": 23,
-                    "time": 582409,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -183385,20 +183357,6 @@
                     "oelo": 1827,
                     "ochange": 20,
                     "time": 583555,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781403865000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "_pizu",
-                    "elo": 1814,
-                    "change": -20,
-                    "oelo": 1843,
-                    "ochange": 20,
-                    "time": 653834,
                     "forfeited": false,
                     "decayed": false
                 }
