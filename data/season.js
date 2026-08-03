@@ -1,5 +1,5 @@
 {
-    "date": 1785769801000,
+    "date": 1785770401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17649,20 +17649,6 @@
                     "ochange": 18,
                     "time": 385404,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781450302000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 2008,
-                    "change": 22,
-                    "oelo": 2025,
-                    "ochange": -22,
-                    "time": 543870,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -50089,20 +50075,6 @@
                     "time": 776305,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781450302000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Ranik_",
-                    "elo": 2025,
-                    "change": -22,
-                    "oelo": 2008,
-                    "ochange": 22,
-                    "time": 543870,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -54600,20 +54572,6 @@
                     "ochange": -18,
                     "time": 385404,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781449915000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2073,
-                    "change": -20,
-                    "oelo": 2107,
-                    "ochange": 20,
-                    "time": 646710,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -79938,20 +79896,6 @@
                     "oelo": 2076,
                     "ochange": -20,
                     "time": 486180,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781449915000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2107,
-                    "change": 20,
-                    "oelo": 2073,
-                    "ochange": -20,
-                    "time": 646710,
                     "forfeited": false,
                     "decayed": false
                 }
