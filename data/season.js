@@ -1,5 +1,5 @@
 {
-    "date": 1785756001000,
+    "date": 1785756601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29245,20 +29245,6 @@
                     "time": 484877,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781436346000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "DARVY__X1",
-                    "elo": 2127,
-                    "change": -24,
-                    "oelo": 2068,
-                    "ochange": 24,
-                    "time": 589813,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -50494,20 +50480,6 @@
                     "ochange": 21,
                     "time": 234423,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781436346000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2068,
-                    "change": 24,
-                    "oelo": 2127,
-                    "ochange": -24,
-                    "time": 589813,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
