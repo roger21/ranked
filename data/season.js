@@ -1,5 +1,5 @@
 {
-    "date": 1785723001000,
+    "date": 1785723601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -100695,20 +100695,6 @@
                     "time": 582409,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781403371000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2166,
-                    "change": 18,
-                    "oelo": 2074,
-                    "ochange": -18,
-                    "time": 587046,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -183413,20 +183399,6 @@
                     "oelo": 1843,
                     "ochange": 20,
                     "time": 653834,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781403167000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "tommy21_",
-                    "elo": 1834,
-                    "change": -25,
-                    "oelo": 1745,
-                    "ochange": 25,
-                    "time": 787482,
                     "forfeited": false,
                     "decayed": false
                 }
