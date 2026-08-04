@@ -1,5 +1,5 @@
 {
-    "date": 1785843001000,
+    "date": 1785843601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161324,20 +161324,6 @@
                     "time": 253895,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781523371000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "MinetofuCraft",
-                    "elo": 1615,
-                    "change": 22,
-                    "oelo": 1624,
-                    "ochange": -22,
-                    "time": 730298,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -170105,34 +170091,6 @@
                     "ochange": -15,
                     "time": 253895,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781523483000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1752,
-                    "change": -16,
-                    "oelo": 1905,
-                    "ochange": 16,
-                    "time": 253685,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781523094000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "litdab",
-                    "elo": 1768,
-                    "change": 22,
-                    "oelo": 1790,
-                    "ochange": -22,
-                    "time": 611006,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
