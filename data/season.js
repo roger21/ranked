@@ -1,5 +1,5 @@
 {
-    "date": 1785886801000,
+    "date": 1785887401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -133779,20 +133779,6 @@
                     "time": 475902,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781567232000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1904,
-                    "change": 19,
-                    "oelo": 1843,
-                    "ochange": -19,
-                    "time": 655111,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168451,20 +168437,6 @@
                     "oelo": 1866,
                     "ochange": 23,
                     "time": 475179,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781567301000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 1939,
-                    "change": -17,
-                    "oelo": 2061,
-                    "ochange": 17,
-                    "time": 603846,
                     "forfeited": true,
                     "decayed": false
                 }
