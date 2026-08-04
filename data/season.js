@@ -1,5 +1,5 @@
 {
-    "date": 1785834001000,
+    "date": 1785834601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -170455,34 +170455,6 @@
                     "ochange": 19,
                     "time": 790671,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781514469000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ch0ok_ERC",
-                    "elo": 1753,
-                    "change": -21,
-                    "oelo": 1762,
-                    "ochange": 21,
-                    "time": 210300,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781514132000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "blobserr",
-                    "elo": 1774,
-                    "change": -19,
-                    "oelo": 1852,
-                    "ochange": 19,
-                    "time": 432806,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
