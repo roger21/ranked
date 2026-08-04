@@ -1,5 +1,5 @@
 {
-    "date": 1785839401000,
+    "date": 1785840001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161408,20 +161408,6 @@
                     "time": 679293,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781519548000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Blankbo1",
-                    "elo": 1576,
-                    "change": 21,
-                    "oelo": 1571,
-                    "ochange": -21,
-                    "time": 539252,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -170273,20 +170259,6 @@
                     "ochange": 0,
                     "time": 643302,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781519618000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "lucinyu",
-                    "elo": 1770,
-                    "change": 15,
-                    "oelo": 1612,
-                    "ochange": -15,
-                    "time": 607899,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
