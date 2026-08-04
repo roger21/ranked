@@ -1,5 +1,5 @@
 {
-    "date": 1785819601000,
+    "date": 1785820201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -164125,7 +164125,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "28sacha",
+                    "opponent": "jrueholiday_",
                     "elo": 1682,
                     "change": 15,
                     "oelo": 1507,
