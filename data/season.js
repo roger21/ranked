@@ -1,5 +1,5 @@
 {
-    "date": 1785846601000,
+    "date": 1785847201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -169951,20 +169951,6 @@
                     "ochange": -16,
                     "time": 638858,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781526744000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Obotron",
-                    "elo": 1717,
-                    "change": -19,
-                    "oelo": 1782,
-                    "ochange": 19,
-                    "time": 238630,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
