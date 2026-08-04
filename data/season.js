@@ -1,5 +1,5 @@
 {
-    "date": 1785835801000,
+    "date": 1785836402000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -39309,7 +39309,7 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 14,
-                "elo": 2351,
+                "elo": 2346,
                 "top": 2366,
                 "points": 135,
                 "pb": 368221,
@@ -39325,6 +39325,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785836078000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2346,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785749676000,
                     "type": null,
@@ -170440,20 +170454,6 @@
                     "oelo": 1722,
                     "ochange": -20,
                     "time": 792061,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781515846000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1734,
-                    "change": -19,
-                    "oelo": 1808,
-                    "ochange": 19,
-                    "time": 790671,
                     "forfeited": false,
                     "decayed": false
                 }
