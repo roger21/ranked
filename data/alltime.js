@@ -6206,7 +6206,7 @@
         "forfeited": 11
     },
     "e811fb301b1a41ea81c1f481ea93c3be": {
-        "nickname": "nyachloe",
+        "nickname": "mintchloe",
         "country": null,
         "top": {
             "1": 1310,
