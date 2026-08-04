@@ -1,5 +1,5 @@
 {
-    "date": 1785802801000,
+    "date": 1785803401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -103352,20 +103352,6 @@
                     "time": 573823,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781483395000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2155,
-                    "change": -23,
-                    "oelo": 2105,
-                    "ochange": 23,
-                    "time": 388234,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -123970,34 +123956,6 @@
                     "oelo": 2010,
                     "ochange": -17,
                     "time": 775830,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781483395000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2105,
-                    "change": 23,
-                    "oelo": 2155,
-                    "ochange": -23,
-                    "time": 388234,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781482942000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Frolde",
-                    "elo": 2082,
-                    "change": -24,
-                    "oelo": 2011,
-                    "ochange": 24,
-                    "time": 497595,
                     "forfeited": false,
                     "decayed": false
                 }
