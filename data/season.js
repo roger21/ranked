@@ -1,5 +1,5 @@
 {
-    "date": 1785883801000,
+    "date": 1785884401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24480,20 +24480,6 @@
                     "oelo": 1858,
                     "ochange": -17,
                     "time": 469256,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781564293000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Gabryll",
-                    "elo": 1949,
-                    "change": -22,
-                    "oelo": 1938,
-                    "ochange": 22,
-                    "time": 664716,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -73172,20 +73158,6 @@
                     "oelo": 2075,
                     "ochange": -14,
                     "time": 1024889,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781564358000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 2246,
-                    "change": 13,
-                    "oelo": 2028,
-                    "ochange": -13,
-                    "time": 663772,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -133876,20 +133848,6 @@
                     "ochange": 19,
                     "time": 452470,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781563978000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "Mitthui",
-                    "elo": 1925,
-                    "change": -2,
-                    "oelo": 1767,
-                    "ochange": 2,
-                    "time": 712084,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
