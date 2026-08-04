@@ -1,5 +1,5 @@
 {
-    "date": 1785836402000,
+    "date": 1785837001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134568,20 +134568,6 @@
                     "time": 457422,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781516505000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 2160,
-                    "change": 16,
-                    "oelo": 2008,
-                    "ochange": -16,
-                    "time": 400212,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -170440,20 +170426,6 @@
                     "oelo": 1693,
                     "ochange": 23,
                     "time": 546799,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781516726000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "KED_ty",
-                    "elo": 1754,
-                    "change": 20,
-                    "oelo": 1722,
-                    "ochange": -20,
-                    "time": 792061,
                     "forfeited": false,
                     "decayed": false
                 }
