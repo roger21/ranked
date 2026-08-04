@@ -1,5 +1,5 @@
 {
-    "date": 1785842401000,
+    "date": 1785843001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161338,20 +161338,6 @@
                     "time": 730298,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781522590000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "ItzUser",
-                    "elo": 1593,
-                    "change": 0,
-                    "oelo": 1630,
-                    "ochange": 0,
-                    "time": 451181,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -170147,20 +170133,6 @@
                     "ochange": -22,
                     "time": 611006,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781522427000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 1746,
-                    "change": -17,
-                    "oelo": 1863,
-                    "ochange": 17,
-                    "time": 210111,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
