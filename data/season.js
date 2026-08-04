@@ -1,5 +1,5 @@
 {
-    "date": 1785880801000,
+    "date": 1785881401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -87738,20 +87738,6 @@
                     "time": 520720,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781560977000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 2193,
-                    "change": 21,
-                    "oelo": 2170,
-                    "ochange": -21,
-                    "time": 579466,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92552,14 +92538,14 @@
             "nickname": "ANJOUU",
             "stats": {
                 "rank": 25,
-                "elo": 2245,
+                "elo": 2244,
                 "top": 2292,
                 "points": 0,
                 "pb": 408977,
                 "current": 0,
                 "streak": 8,
-                "matches": 157,
-                "playtime": 91845689,
+                "matches": 158,
+                "playtime": 92499823,
                 "finished": 78,
                 "finishtime": 46655349,
                 "won": 91,
@@ -92568,6 +92554,20 @@
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1785881350000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "cbirrd",
+                    "elo": 2244,
+                    "change": -1,
+                    "oelo": 2189,
+                    "ochange": 1,
+                    "time": 654134,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785880551000,
                     "type": "BURIED_TREASURE",
@@ -113047,20 +113047,6 @@
                     "time": 568343,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781560977000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 2170,
-                    "change": -21,
-                    "oelo": 2193,
-                    "ochange": 21,
-                    "time": 579466,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127875,14 +127861,14 @@
             "nickname": "cbirrd",
             "stats": {
                 "rank": 36,
-                "elo": 2188,
+                "elo": 2189,
                 "top": 2200,
                 "points": 21,
                 "pb": 454257,
                 "current": 2,
                 "streak": 7,
-                "matches": 290,
-                "playtime": 172578262,
+                "matches": 291,
+                "playtime": 173232396,
                 "finished": 130,
                 "finishtime": 80184773,
                 "won": 150,
@@ -127891,6 +127877,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785881350000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "ANJOUU",
+                    "elo": 2189,
+                    "change": 1,
+                    "oelo": 2244,
+                    "ochange": -1,
+                    "time": 654134,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785880638000,
                     "type": "RUINED_PORTAL",
@@ -129360,20 +129360,6 @@
                     "time": 744152,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781561240000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "valenmeoww",
-                    "elo": 1968,
-                    "change": 16,
-                    "oelo": 1820,
-                    "ochange": -16,
-                    "time": 552442,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -129381,7 +129367,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2188,
                 "top": 2208,
                 "points": 24,
