@@ -1,5 +1,5 @@
 {
-    "date": 1785807601000,
+    "date": 1785808201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19609,20 +19609,6 @@
                     "ochange": -14,
                     "time": 658325,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781487799000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 1969,
-                    "change": -20,
-                    "oelo": 2009,
-                    "ochange": 20,
-                    "time": 290587,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -148314,14 +148300,14 @@
             "nickname": "Aquacorde",
             "stats": {
                 "rank": 39,
-                "elo": 2173,
+                "elo": 2172,
                 "top": 2364,
                 "points": 120,
                 "pb": 394680,
                 "current": 0,
                 "streak": 11,
-                "matches": 617,
-                "playtime": 337649032,
+                "matches": 618,
+                "playtime": 338671023,
                 "finished": 318,
                 "finishtime": 177177394,
                 "won": 351,
@@ -148330,6 +148316,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1785808005000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "dinonuggieboi",
+                    "elo": 2172,
+                    "change": -1,
+                    "oelo": 2124,
+                    "ochange": 1,
+                    "time": 1021991,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785806830000,
                     "type": "VILLAGE",
@@ -193283,14 +193283,14 @@
             "nickname": "dinonuggieboi",
             "stats": {
                 "rank": 50,
-                "elo": 2123,
+                "elo": 2124,
                 "top": 2346,
                 "points": 30,
                 "pb": 388273,
                 "current": 1,
                 "streak": 8,
-                "matches": 579,
-                "playtime": 317402781,
+                "matches": 580,
+                "playtime": 318424772,
                 "finished": 261,
                 "finishtime": 151380195,
                 "won": 313,
@@ -193299,6 +193299,20 @@
             },
             "country": "ua",
             "matches": [
+                {
+                    "date": 1785808005000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "Aquacorde",
+                    "elo": 2124,
+                    "change": 1,
+                    "oelo": 2172,
+                    "ochange": -1,
+                    "time": 1021991,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785806873000,
                     "type": "SHIPWRECK",
