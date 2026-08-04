@@ -1,5 +1,5 @@
 {
-    "date": 1785841201000,
+    "date": 1785841801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161380,20 +161380,6 @@
                     "time": 665873,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781521300000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "WishForever_",
-                    "elo": 1575,
-                    "change": 17,
-                    "oelo": 1451,
-                    "ochange": -17,
-                    "time": 725212,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -170216,20 +170202,6 @@
                     "oelo": 1753,
                     "ochange": 22,
                     "time": 546730,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781521357000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "RSG_HayaseYuuka",
-                    "elo": 1785,
-                    "change": 15,
-                    "oelo": 1617,
-                    "ochange": -15,
-                    "time": 643990,
                     "forfeited": false,
                     "decayed": false
                 }
