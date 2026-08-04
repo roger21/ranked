@@ -1,5 +1,5 @@
 {
-    "date": 1785832801000,
+    "date": 1785833401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7602,20 +7602,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1992,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1781513275000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1997,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -170511,20 +170497,6 @@
                     "ochange": -15,
                     "time": 635805,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781512855000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1778,
-                    "change": -15,
-                    "oelo": 1955,
-                    "ochange": 15,
-                    "time": 354995,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
