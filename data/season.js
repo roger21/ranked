@@ -1,5 +1,5 @@
 {
-    "date": 1785838801000,
+    "date": 1785839401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134526,20 +134526,6 @@
                     "time": 772772,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781519080000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2156,
-                    "change": 18,
-                    "oelo": 2077,
-                    "ochange": -18,
-                    "time": 585640,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150405,20 +150391,6 @@
                     "time": 210109,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781519107000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1736,
-                    "change": 21,
-                    "oelo": 1714,
-                    "ochange": -21,
-                    "time": 527924,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -161450,20 +161422,6 @@
                     "time": 539252,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781518885000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "lucinyu",
-                    "elo": 1555,
-                    "change": -19,
-                    "oelo": 1627,
-                    "ochange": 19,
-                    "time": 614396,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -170328,20 +170286,6 @@
                     "oelo": 1612,
                     "ochange": -15,
                     "time": 607899,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781518933000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1755,
-                    "change": 24,
-                    "oelo": 1815,
-                    "ochange": -24,
-                    "time": 996648,
                     "forfeited": false,
                     "decayed": false
                 }
