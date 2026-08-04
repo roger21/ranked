@@ -1,5 +1,5 @@
 {
-    "date": 1785886201000,
+    "date": 1785886801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -133793,20 +133793,6 @@
                     "time": 655111,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781566516000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 1885,
-                    "change": -19,
-                    "oelo": 1956,
-                    "ochange": 19,
-                    "time": 495073,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168480,20 +168466,6 @@
                     "ochange": 17,
                     "time": 603846,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781566516000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "cbirrd",
-                    "elo": 1956,
-                    "change": 19,
-                    "oelo": 1885,
-                    "ochange": -19,
-                    "time": 495073,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
