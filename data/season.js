@@ -1,5 +1,5 @@
 {
-    "date": 1785884401000,
+    "date": 1785885001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -133835,20 +133835,6 @@
                     "time": 511885,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781564677000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1906,
-                    "change": -19,
-                    "oelo": 1964,
-                    "ochange": 19,
-                    "time": 452470,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168563,20 +168549,6 @@
                     "oelo": 1943,
                     "ochange": -21,
                     "time": 598020,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781564617000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1933,
-                    "change": 19,
-                    "oelo": 1860,
-                    "ochange": -19,
-                    "time": 582937,
                     "forfeited": false,
                     "decayed": false
                 }
