@@ -1,5 +1,5 @@
 {
-    "date": 1785846001000,
+    "date": 1785846601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161268,20 +161268,6 @@
                     "time": 893195,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781526190000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "iwnlwastaken",
-                    "elo": 1619,
-                    "change": -16,
-                    "oelo": 1754,
-                    "ochange": 16,
-                    "time": 815273,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -169979,20 +169965,6 @@
                     "ochange": 19,
                     "time": 238630,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781526450000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 1736,
-                    "change": -16,
-                    "oelo": 1876,
-                    "ochange": 16,
-                    "time": 584453,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
