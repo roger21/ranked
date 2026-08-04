@@ -1,5 +1,5 @@
 {
-    "date": 1785856801000,
+    "date": 1785857401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -79170,20 +79170,6 @@
                     "time": 444035,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781536999000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "bing_pigs",
-                    "elo": 2092,
-                    "change": -24,
-                    "oelo": 2035,
-                    "ochange": 24,
-                    "time": 624965,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -93023,20 +93009,6 @@
                     "oelo": 1745,
                     "ochange": 18,
                     "time": 620448,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781537126000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "VojtaH007",
-                    "elo": 1679,
-                    "change": -15,
-                    "oelo": 1836,
-                    "ochange": 15,
-                    "time": 819498,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -128519,14 +128491,14 @@
             "nickname": "romuxii",
             "stats": {
                 "rank": 36,
-                "elo": 2184,
+                "elo": 2182,
                 "top": 2366,
                 "points": 36,
                 "pb": 379483,
                 "current": 2,
                 "streak": 9,
-                "matches": 933,
-                "playtime": 504783819,
+                "matches": 934,
+                "playtime": 505473830,
                 "finished": 431,
                 "finishtime": 247836022,
                 "won": 494,
@@ -128535,6 +128507,20 @@
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1785857161000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "VojtaH007",
+                    "elo": 2182,
+                    "change": -2,
+                    "oelo": 2011,
+                    "ochange": 2,
+                    "time": 690011,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785856231000,
                     "type": "BURIED_TREASURE",
