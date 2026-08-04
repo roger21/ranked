@@ -1,5 +1,5 @@
 {
-    "date": 1785843601000,
+    "date": 1785844201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161310,20 +161310,6 @@
                     "time": 479478,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781523816000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "1_viewer",
-                    "elo": 1600,
-                    "change": -15,
-                    "oelo": 1767,
-                    "ochange": 15,
-                    "time": 253895,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -170076,20 +170062,6 @@
                     "oelo": 1753,
                     "ochange": 21,
                     "time": 345187,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781523816000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ItsNamii",
-                    "elo": 1767,
-                    "change": 15,
-                    "oelo": 1600,
-                    "ochange": -15,
-                    "time": 253895,
                     "forfeited": true,
                     "decayed": false
                 }
