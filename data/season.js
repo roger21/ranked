@@ -1,5 +1,5 @@
 {
-    "date": 1785897601000,
+    "date": 1785898201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -120865,7 +120865,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2191,
                 "top": 2366,
                 "points": 36,
@@ -127874,23 +127874,37 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 36,
-                "elo": 2178,
+                "rank": 35,
+                "elo": 2193,
                 "top": 2200,
                 "points": 21,
                 "pb": 454257,
-                "current": 2,
+                "current": 3,
                 "streak": 7,
-                "matches": 297,
-                "playtime": 176430021,
-                "finished": 132,
-                "finishtime": 81442702,
-                "won": 153,
+                "matches": 298,
+                "playtime": 177081236,
+                "finished": 133,
+                "finishtime": 82093917,
+                "won": 154,
                 "lost": 126,
                 "forfeited": 2
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785898222000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "thecamo6",
+                    "elo": 2193,
+                    "change": 15,
+                    "oelo": 2037,
+                    "ochange": -15,
+                    "time": 651215,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785897382000,
                     "type": "SHIPWRECK",
