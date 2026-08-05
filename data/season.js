@@ -1,5 +1,5 @@
 {
-    "date": 1785915601000,
+    "date": 1785916201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -144075,20 +144075,6 @@
                     "oelo": 1623,
                     "ochange": -20,
                     "time": 818632,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781596170000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ykn_Roselia",
-                    "elo": 1642,
-                    "change": 21,
-                    "oelo": 1627,
-                    "ochange": -21,
-                    "time": 577257,
                     "forfeited": false,
                     "decayed": false
                 }
