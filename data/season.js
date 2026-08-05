@@ -1,5 +1,5 @@
 {
-    "date": 1785900001000,
+    "date": 1785900601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -26225,20 +26225,6 @@
                     "oelo": 2061,
                     "ochange": 28,
                     "time": 841850,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781580055000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2254,
-                    "change": -26,
-                    "oelo": 2149,
-                    "ochange": 26,
-                    "time": 457492,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -105663,20 +105649,6 @@
                     "oelo": 1994,
                     "ochange": 26,
                     "time": 552850,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781580055000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "doogile",
-                    "elo": 2149,
-                    "change": 26,
-                    "oelo": 2254,
-                    "ochange": -26,
-                    "time": 457492,
                     "forfeited": false,
                     "decayed": false
                 }
