@@ -1,5 +1,5 @@
 {
-    "date": 1785937201000,
+    "date": 1785937801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -89407,7 +89407,7 @@
             "nickname": "Watermelon1708",
             "stats": {
                 "rank": 24,
-                "elo": 2256,
+                "elo": 2251,
                 "top": 2288,
                 "points": 0,
                 "pb": 404207,
@@ -89423,6 +89423,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1785937424000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2251,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785851022000,
                     "type": null,
