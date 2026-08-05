@@ -1,5 +1,5 @@
 {
-    "date": 1785903001000,
+    "date": 1785903601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -152922,20 +152922,6 @@
                     "oelo": 1789,
                     "ochange": -20,
                     "time": 539876,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781583468000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "CyberOG",
-                    "elo": 1814,
-                    "change": 14,
-                    "oelo": 1619,
-                    "ochange": -14,
-                    "time": 503348,
                     "forfeited": false,
                     "decayed": false
                 }
