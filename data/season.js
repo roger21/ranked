@@ -1,5 +1,5 @@
 {
-    "date": 1785943801000,
+    "date": 1785944401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108516,20 +108516,6 @@
                     "time": 508790,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781624348000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2187,
-                    "change": -1,
-                    "oelo": 2076,
-                    "ochange": 1,
-                    "time": 561078,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -124165,20 +124151,6 @@
                     "ochange": -19,
                     "time": 719564,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781624348000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "retropog",
-                    "elo": 2076,
-                    "change": 1,
-                    "oelo": 2187,
-                    "ochange": -1,
-                    "time": 561078,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -142703,20 +142675,6 @@
                     "oelo": 2095,
                     "ochange": 19,
                     "time": 719564,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781624088000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2056,
-                    "change": 16,
-                    "oelo": 1901,
-                    "ochange": -16,
-                    "time": 622192,
                     "forfeited": false,
                     "decayed": false
                 }
