@@ -1,5 +1,5 @@
 {
-    "date": 1785901201000,
+    "date": 1785901801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -48683,22 +48683,36 @@
             "nickname": "subdas",
             "stats": {
                 "rank": 18,
-                "elo": 2293,
+                "elo": 2306,
                 "top": 2363,
                 "points": 21,
                 "pb": 384080,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 2229,
-                "playtime": 1226697443,
-                "finished": 972,
-                "finishtime": 582374862,
-                "won": 1150,
+                "matches": 2230,
+                "playtime": 1227185257,
+                "finished": 973,
+                "finishtime": 582862676,
+                "won": 1151,
                 "lost": 1047,
                 "forfeited": 279
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1785901612000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "thecamo6",
+                    "elo": 2306,
+                    "change": 13,
+                    "oelo": 2072,
+                    "ochange": -13,
+                    "time": 487814,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785895448000,
                     "type": "BURIED_TREASURE",
@@ -74959,20 +74973,6 @@
                     "oelo": 2025,
                     "ochange": -13,
                     "time": 473894,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781581355000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2225,
-                    "change": 16,
-                    "oelo": 2079,
-                    "ochange": -16,
-                    "time": 520921,
                     "forfeited": false,
                     "decayed": false
                 }
