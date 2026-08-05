@@ -1,5 +1,5 @@
 {
-    "date": 1785945001000,
+    "date": 1785945601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108488,20 +108488,6 @@
                     "time": 549995,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781625068000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 2200,
-                    "change": 13,
-                    "oelo": 1973,
-                    "ochange": -13,
-                    "time": 508790,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -124122,20 +124108,6 @@
                     "oelo": 1882,
                     "ochange": -13,
                     "time": 465966,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781625155000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 2095,
-                    "change": 19,
-                    "oelo": 2037,
-                    "ochange": -19,
-                    "time": 719564,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -142647,20 +142619,6 @@
                     "oelo": 1925,
                     "ochange": -17,
                     "time": 717277,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781625155000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2037,
-                    "change": -19,
-                    "oelo": 2095,
-                    "ochange": 19,
-                    "time": 719564,
                     "forfeited": false,
                     "decayed": false
                 }
