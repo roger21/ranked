@@ -1,5 +1,5 @@
 {
-    "date": 1785952801000,
+    "date": 1785953401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -142299,20 +142299,6 @@
                     "time": 659558,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781632845000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 2039,
-                    "change": -22,
-                    "oelo": 2030,
-                    "ochange": 22,
-                    "time": 529078,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -164542,20 +164528,6 @@
                     "ochange": -19,
                     "time": 342368,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781633050000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "piggno",
-                    "elo": 1625,
-                    "change": 17,
-                    "oelo": 1515,
-                    "ochange": -17,
-                    "time": 682045,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
