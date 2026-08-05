@@ -1,5 +1,5 @@
 {
-    "date": 1785942001000,
+    "date": 1785942601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -73785,20 +73785,6 @@
                     "time": 552142,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781622044000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "a4102545",
-                    "elo": 1878,
-                    "change": -24,
-                    "oelo": 1827,
-                    "ochange": 24,
-                    "time": 698120,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -124206,20 +124192,6 @@
                     "oelo": 1966,
                     "ochange": 26,
                     "time": 680375,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781622559000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 2101,
-                    "change": 16,
-                    "oelo": 1952,
-                    "ochange": -16,
-                    "time": 560725,
                     "forfeited": false,
                     "decayed": false
                 }
