@@ -1,5 +1,5 @@
 {
-    "date": 1785939001000,
+    "date": 1785939601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -73855,20 +73855,6 @@
                     "time": 584913,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781619149000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "litdab",
-                    "elo": 1845,
-                    "change": -21,
-                    "oelo": 1864,
-                    "ochange": 21,
-                    "time": 889666,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135798,20 +135784,6 @@
                     "ochange": 22,
                     "time": 674320,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781619282000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "odaksh",
-                    "elo": 1747,
-                    "change": 15,
-                    "oelo": 1566,
-                    "ochange": -15,
-                    "time": 221625,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
