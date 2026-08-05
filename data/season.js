@@ -1,5 +1,5 @@
 {
-    "date": 1785955201000,
+    "date": 1785955801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18684,20 +18684,6 @@
                     "oelo": 2047,
                     "ochange": 26,
                     "time": 587879,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781635260000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2203,
-                    "change": 21,
-                    "oelo": 2187,
-                    "ochange": -21,
-                    "time": 565075,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -92327,7 +92313,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 2240,
                 "top": 2408,
                 "points": 120,
@@ -94156,7 +94142,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2229,
                 "top": 2229,
                 "points": 29,
@@ -95999,7 +95985,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2228,
                 "top": 2356,
                 "points": 74,
@@ -99354,23 +99340,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 28,
-                "elo": 2226,
+                "rank": 25,
+                "elo": 2242,
                 "top": 2366,
                 "points": 36,
                 "pb": 379483,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 955,
-                "playtime": 515969144,
-                "finished": 441,
-                "finishtime": 253599267,
-                "won": 506,
+                "matches": 956,
+                "playtime": 516567164,
+                "finished": 442,
+                "finishtime": 254197287,
+                "won": 507,
                 "lost": 425,
                 "forfeited": 124
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1785955842000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ninananina",
+                    "elo": 2242,
+                    "change": 16,
+                    "oelo": 2090,
+                    "ochange": -16,
+                    "time": 598020,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785954894000,
                     "type": "DESERT_TEMPLE",
@@ -139910,20 +139910,6 @@
                     "time": 544972,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781635260000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 2187,
-                    "change": -21,
-                    "oelo": 2203,
-                    "ochange": 21,
-                    "time": 565075,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -142283,20 +142269,6 @@
                     "oelo": 2177,
                     "ochange": -26,
                     "time": 587879,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781635381000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yunusbes",
-                    "elo": 2021,
-                    "change": -24,
-                    "oelo": 1945,
-                    "ochange": 24,
-                    "time": 732792,
                     "forfeited": false,
                     "decayed": false
                 }
