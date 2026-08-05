@@ -1,5 +1,5 @@
 {
-    "date": 1785912001000,
+    "date": 1785912602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -152825,20 +152825,6 @@
                     "ochange": -20,
                     "time": 576041,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781592050000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1856,
-                    "change": -19,
-                    "oelo": 1924,
-                    "ochange": 19,
-                    "time": 492433,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
