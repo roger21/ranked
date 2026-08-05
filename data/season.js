@@ -1,5 +1,5 @@
 {
-    "date": 1785939601000,
+    "date": 1785940201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2303,20 +2303,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1781619654000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2444,
-                    "change": 9,
-                    "oelo": 2097,
-                    "ochange": -9,
-                    "time": 571276,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73841,20 +73827,6 @@
                     "time": 357671,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781619801000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Gabryll",
-                    "elo": 1870,
-                    "change": 25,
-                    "oelo": 1946,
-                    "ochange": -25,
-                    "time": 584913,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -124292,20 +124264,6 @@
                     "time": 624333,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781619654000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 2097,
-                    "change": -9,
-                    "oelo": 2444,
-                    "ochange": 9,
-                    "time": 571276,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -135769,20 +135727,6 @@
                     "oelo": 1725,
                     "ochange": 21,
                     "time": 765768,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781620068000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "allofm3Arrive",
-                    "elo": 1725,
-                    "change": -22,
-                    "oelo": 1715,
-                    "ochange": 22,
-                    "time": 674320,
                     "forfeited": false,
                     "decayed": false
                 }
