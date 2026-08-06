@@ -1,5 +1,5 @@
 {
-    "date": 1786050601000,
+    "date": 1786051201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21102,20 +21102,6 @@
                     "ochange": 24,
                     "time": 344990,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781731178000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 2014,
-                    "change": 27,
-                    "oelo": 2162,
-                    "ochange": -27,
-                    "time": 576115,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -61311,20 +61297,6 @@
                     "time": 559417,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781731178000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 2162,
-                    "change": -27,
-                    "oelo": 2014,
-                    "ochange": 27,
-                    "time": 576115,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -75827,14 +75799,14 @@
             "nickname": "subdas",
             "stats": {
                 "rank": 24,
-                "elo": 2249,
+                "elo": 2246,
                 "top": 2363,
                 "points": 21,
                 "pb": 384080,
                 "current": 2,
                 "streak": 9,
-                "matches": 2249,
-                "playtime": 1237497677,
+                "matches": 2250,
+                "playtime": 1238113382,
                 "finished": 980,
                 "finishtime": 587068820,
                 "won": 1160,
@@ -75843,6 +75815,20 @@
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1786051188000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "Frolde",
+                    "elo": 2246,
+                    "change": -3,
+                    "oelo": 2032,
+                    "ochange": 3,
+                    "time": 615705,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1786049977000,
                     "type": "BURIED_TREASURE",
@@ -93106,7 +93092,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2246,
                 "top": 2288,
                 "points": 0,
@@ -207268,20 +207254,6 @@
                     "oelo": 1920,
                     "ochange": 23,
                     "time": 617737,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781731007000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 1989,
-                    "change": -20,
-                    "oelo": 2032,
-                    "ochange": 20,
-                    "time": 393428,
                     "forfeited": false,
                     "decayed": false
                 }
