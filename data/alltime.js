@@ -1474,7 +1474,7 @@
             "8": 2252,
             "9": 2514,
             "10": 2581,
-            "11": 2418
+            "11": 2429
         },
         "points": {
             "1": 0,
@@ -1491,11 +1491,11 @@
         },
         "pb": 378784,
         "streak": 17,
-        "matches": 20802,
-        "playtime": 12838325022,
-        "finished": 9082,
-        "finishtime": 6047078339,
-        "won": 11444,
+        "matches": 20803,
+        "playtime": 12838868658,
+        "finished": 9083,
+        "finishtime": 6047621975,
+        "won": 11445,
         "lost": 9059,
         "forfeited": 1200
     },
@@ -4017,27 +4017,6 @@
         "won": 3777,
         "lost": 3537,
         "forfeited": 1254
-    },
-    "98cea324ee714d868b2ec1627f0f5762": {
-        "nickname": "cvctus",
-        "country": "ca",
-        "top": {
-            "10": 1786,
-            "11": 2215
-        },
-        "points": {
-            "10": 0,
-            "11": 11
-        },
-        "pb": 399951,
-        "streak": 15,
-        "matches": 1250,
-        "playtime": 923782875,
-        "finished": 520,
-        "finishtime": 406571304,
-        "won": 667,
-        "lost": 536,
-        "forfeited": 29
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
