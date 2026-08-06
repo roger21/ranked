@@ -1,5 +1,5 @@
 {
-    "date": 1786046401000,
+    "date": 1786047001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58962,20 +58962,6 @@
                     "oelo": 1996,
                     "ochange": -15,
                     "time": 500692,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781726548000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2152,
-                    "change": 21,
-                    "oelo": 2128,
-                    "ochange": -21,
-                    "time": 825370,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -138028,20 +138014,6 @@
                     "oelo": 2007,
                     "ochange": 25,
                     "time": 567180,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781726548000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2128,
-                    "change": -21,
-                    "oelo": 2152,
-                    "ochange": 21,
-                    "time": 825370,
                     "forfeited": false,
                     "decayed": false
                 }
