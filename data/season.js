@@ -1,5 +1,5 @@
 {
-    "date": 1786013401000,
+    "date": 1786014001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -137974,20 +137974,6 @@
                     "time": 587331,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781693964000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sevensix_",
-                    "elo": 1741,
-                    "change": -12,
-                    "oelo": 1995,
-                    "ochange": 12,
-                    "time": 549035,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -154202,20 +154188,6 @@
                     "ochange": -23,
                     "time": 500609,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781693576000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Ch0ok_ERC",
-                    "elo": 2033,
-                    "change": -27,
-                    "oelo": 1897,
-                    "ochange": 27,
-                    "time": 636357,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
