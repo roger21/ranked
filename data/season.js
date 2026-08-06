@@ -1,5 +1,5 @@
 {
-    "date": 1786008002000,
+    "date": 1786008601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -132790,20 +132790,6 @@
                     "time": 495753,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781688541000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Magmania",
-                    "elo": 1993,
-                    "change": 21,
-                    "oelo": 1989,
-                    "ochange": -21,
-                    "time": 525127,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -138127,20 +138113,6 @@
                     "ochange": -19,
                     "time": 628272,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781688494000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "N4tria",
-                    "elo": 1723,
-                    "change": -2,
-                    "oelo": 1590,
-                    "ochange": 2,
-                    "time": 562190,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -158242,20 +158214,6 @@
                     "oelo": 2031,
                     "ochange": -20,
                     "time": 483759,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781688442000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2041,
-                    "change": 24,
-                    "oelo": 2113,
-                    "ochange": -24,
-                    "time": 666033,
                     "forfeited": false,
                     "decayed": false
                 }
