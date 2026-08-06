@@ -1,5 +1,5 @@
 {
-    "date": 1785996001000,
+    "date": 1785996601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27270,7 +27270,7 @@
             "nickname": "Pinne",
             "stats": {
                 "rank": 11,
-                "elo": 2375,
+                "elo": 2370,
                 "top": 2380,
                 "points": 119,
                 "pb": 403492,
@@ -27286,6 +27286,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1785996465000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2370,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785910063000,
                     "type": null,
@@ -84338,20 +84352,6 @@
                     "oelo": 2179,
                     "ochange": -25,
                     "time": 605564,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781676553000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 2077,
-                    "change": -25,
-                    "oelo": 1993,
-                    "ochange": 25,
-                    "time": 512863,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -164565,20 +164565,6 @@
                     "oelo": 2040,
                     "ochange": -27,
                     "time": 502084,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781676092000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "12BrainCells",
-                    "elo": 1876,
-                    "change": 20,
-                    "oelo": 1845,
-                    "ochange": -20,
-                    "time": 576041,
                     "forfeited": false,
                     "decayed": false
                 }
