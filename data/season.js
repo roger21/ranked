@@ -1,5 +1,5 @@
 {
-    "date": 1785991801000,
+    "date": 1785992401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2423,22 +2423,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 2,
-                "elo": 2455,
+                "elo": 2469,
                 "top": 2578,
                 "points": 140,
                 "pb": 372705,
-                "current": 0,
+                "current": 1,
                 "streak": 14,
-                "matches": 544,
-                "playtime": 289720249,
-                "finished": 324,
-                "finishtime": 176143474,
-                "won": 368,
+                "matches": 545,
+                "playtime": 290246786,
+                "finished": 325,
+                "finishtime": 176670011,
+                "won": 369,
                 "lost": 171,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1785992036000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "nhb_",
+                    "elo": 2469,
+                    "change": 14,
+                    "oelo": 2283,
+                    "ochange": -14,
+                    "time": 526537,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785991442000,
                     "type": "RUINED_PORTAL",
@@ -42831,22 +42845,36 @@
             "nickname": "nhb_",
             "stats": {
                 "rank": 18,
-                "elo": 2297,
+                "elo": 2283,
                 "top": 2408,
                 "points": 120,
                 "pb": 361866,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 391,
-                "playtime": 215946377,
+                "matches": 392,
+                "playtime": 216472914,
                 "finished": 203,
                 "finishtime": 112602018,
                 "won": 227,
-                "lost": 153,
+                "lost": 154,
                 "forfeited": 11
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1785992036000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Infume",
+                    "elo": 2283,
+                    "change": -14,
+                    "oelo": 2469,
+                    "ochange": 14,
+                    "time": 526537,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785991160000,
                     "type": "DESERT_TEMPLE",
@@ -45177,7 +45205,7 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 19,
+                "rank": 18,
                 "elo": 2283,
                 "top": 2366,
                 "points": 36,
