@@ -1,5 +1,5 @@
 {
-    "date": 1786044001000,
+    "date": 1786044601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -93658,20 +93658,6 @@
                     "time": 774571,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781724174000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2060,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -107498,20 +107484,6 @@
                     "ochange": -17,
                     "time": 620494,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781724456000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2066,
-                    "change": 14,
-                    "oelo": 1863,
-                    "ochange": -14,
-                    "time": 341455,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
