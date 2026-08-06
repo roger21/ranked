@@ -1,5 +1,5 @@
 {
-    "date": 1786005601000,
+    "date": 1786006201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -22436,20 +22436,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1982,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1781686131000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1987,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -66195,20 +66181,6 @@
                     "oelo": 2128,
                     "ochange": -21,
                     "time": 825370,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781685892000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 2131,
-                    "change": -22,
-                    "oelo": 2122,
-                    "ochange": 22,
-                    "time": 650067,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -164117,20 +164089,6 @@
                     "oelo": 2029,
                     "ochange": -23,
                     "time": 473197,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781685863000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1981,
-                    "change": -20,
-                    "oelo": 2010,
-                    "ochange": 20,
-                    "time": 567835,
                     "forfeited": false,
                     "decayed": false
                 }
