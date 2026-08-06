@@ -1,5 +1,5 @@
 {
-    "date": 1786003801000,
+    "date": 1786004401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66237,20 +66237,6 @@
                     "oelo": 1890,
                     "ochange": -12,
                     "time": 622335,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781684088000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Sadekeppi",
-                    "elo": 2141,
-                    "change": 15,
-                    "oelo": 1978,
-                    "ochange": -15,
-                    "time": 529072,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -136663,20 +136649,6 @@
                     "time": 670467,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781684088000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1978,
-                    "change": -15,
-                    "oelo": 2141,
-                    "ochange": 15,
-                    "time": 529072,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -156647,7 +156619,7 @@
             "nickname": "SocratesDisciple",
             "stats": {
                 "rank": 44,
-                "elo": 2166,
+                "elo": 2161,
                 "top": 2196,
                 "points": 35,
                 "pb": 430685,
@@ -156663,6 +156635,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1786004325000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2161,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785917923000,
                     "type": null,
@@ -164201,20 +164187,6 @@
                     "oelo": 1958,
                     "ochange": -20,
                     "time": 670467,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781684047000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1981,
-                    "change": 25,
-                    "oelo": 2081,
-                    "ochange": -25,
-                    "time": 551406,
                     "forfeited": false,
                     "decayed": false
                 }
