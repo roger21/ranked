@@ -5802,13 +5802,13 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 10058,
-        "playtime": 6384536473,
+        "matches": 10059,
+        "playtime": 6384843245,
         "finished": 3584,
         "finishtime": 2531234702,
         "won": 5006,
-        "lost": 4628,
-        "forfeited": 1197
+        "lost": 4629,
+        "forfeited": 1198
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "hack_page",

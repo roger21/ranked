@@ -1,5 +1,5 @@
 {
-    "date": 1785999001000,
+    "date": 1785999601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66322,20 +66322,6 @@
                     "ochange": -17,
                     "time": 649122,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781679010000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2118,
-                    "change": 22,
-                    "oelo": 2133,
-                    "ochange": -22,
-                    "time": 276130,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -164482,20 +164468,6 @@
                     "ochange": 1,
                     "time": 985992,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781679374000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1946,
-                    "change": -19,
-                    "oelo": 2009,
-                    "ochange": 19,
-                    "time": 792369,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
