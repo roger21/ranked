@@ -1,5 +1,5 @@
 {
-    "date": 1785987001000,
+    "date": 1785987601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81790,23 +81790,37 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "YoomzMonkey",
             "stats": {
-                "rank": 24,
-                "elo": 2257,
+                "rank": 26,
+                "elo": 2239,
                 "top": 2275,
                 "points": 42,
                 "pb": 394265,
-                "current": 1,
+                "current": 0,
                 "streak": 12,
-                "matches": 1127,
-                "playtime": 675562365,
+                "matches": 1128,
+                "playtime": 676141752,
                 "finished": 499,
                 "finishtime": 309046077,
                 "won": 576,
-                "lost": 514,
+                "lost": 515,
                 "forfeited": 12
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1785987624000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 2239,
+                    "change": -18,
+                    "oelo": 2332,
+                    "ochange": 18,
+                    "time": 579387,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785986995000,
                     "type": "VILLAGE",
@@ -88526,20 +88540,6 @@
                     "time": 575618,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781667001000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 1811,
-                    "change": -15,
-                    "oelo": 1991,
-                    "ochange": 15,
-                    "time": 608591,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -88547,7 +88547,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2251,
                 "top": 2288,
                 "points": 0,
@@ -91608,7 +91608,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2240,
                 "top": 2403,
                 "points": 8,
