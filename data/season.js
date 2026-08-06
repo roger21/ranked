@@ -1,5 +1,5 @@
 {
-    "date": 1785976201000,
+    "date": 1785976801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4704,20 +4704,6 @@
                     "oelo": 1993,
                     "ochange": -14,
                     "time": 619460,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781656213000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "silverrruns",
-                    "elo": 2188,
-                    "change": 18,
-                    "oelo": 2105,
-                    "ochange": -18,
-                    "time": 486859,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -36727,7 +36713,7 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 15,
+                "rank": 16,
                 "elo": 2325,
                 "top": 2398,
                 "points": 156,
@@ -40138,7 +40124,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 16,
+                "rank": 17,
                 "elo": 2316,
                 "top": 2316,
                 "points": 96,
@@ -41043,23 +41029,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 17,
-                "elo": 2312,
+                "rank": 15,
+                "elo": 2328,
                 "top": 2364,
                 "points": 120,
                 "pb": 394680,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 648,
-                "playtime": 355036565,
-                "finished": 333,
-                "finishtime": 185878243,
-                "won": 369,
+                "matches": 649,
+                "playtime": 355547744,
+                "finished": 334,
+                "finishtime": 186389422,
+                "won": 370,
                 "lost": 267,
                 "forfeited": 25
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1785976820000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ANJOUU",
+                    "elo": 2328,
+                    "change": 16,
+                    "oelo": 2190,
+                    "ochange": -16,
+                    "time": 511179,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785975898000,
                     "type": "RUINED_PORTAL",
@@ -98269,20 +98269,6 @@
                     "time": 581099,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781656213000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 2105,
-                    "change": -18,
-                    "oelo": 2188,
-                    "ochange": 18,
-                    "time": 486859,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -120320,23 +120306,37 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 32,
-                "elo": 2206,
+                "rank": 38,
+                "elo": 2190,
                 "top": 2292,
                 "points": 0,
                 "pb": 408977,
                 "current": 0,
                 "streak": 8,
-                "matches": 161,
-                "playtime": 93955896,
+                "matches": 162,
+                "playtime": 94467075,
                 "finished": 78,
                 "finishtime": 46655349,
                 "won": 91,
-                "lost": 57,
+                "lost": 58,
                 "forfeited": 3
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1785976820000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Aquacorde",
+                    "elo": 2190,
+                    "change": -16,
+                    "oelo": 2328,
+                    "ochange": 16,
+                    "time": 511179,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785976244000,
                     "type": "RUINED_PORTAL",
@@ -122499,7 +122499,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 2204,
                 "top": 2210,
                 "points": 10,
@@ -124216,7 +124216,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2200,
                 "top": 2264,
                 "points": 52,
@@ -125863,7 +125863,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2200,
                 "top": 2228,
                 "points": 23,
@@ -127188,7 +127188,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2200,
                 "top": 2281,
                 "points": 36,
@@ -129759,7 +129759,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "YoomzMonkey",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2198,
                 "top": 2198,
                 "points": 42,
@@ -136460,7 +136460,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2194,
                 "top": 2408,
                 "points": 120,
