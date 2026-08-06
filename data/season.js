@@ -1,5 +1,5 @@
 {
-    "date": 1786002001000,
+    "date": 1786002601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -136733,20 +136733,6 @@
                     "time": 527438,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781682463000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1975,
-                    "change": 19,
-                    "oelo": 1916,
-                    "ochange": -19,
-                    "time": 583391,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -164313,20 +164299,6 @@
                     "oelo": 1773,
                     "ochange": -15,
                     "time": 540267,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781682112000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1922,
-                    "change": -21,
-                    "oelo": 1939,
-                    "ochange": 21,
-                    "time": 503366,
                     "forfeited": false,
                     "decayed": false
                 }
