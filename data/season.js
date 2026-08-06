@@ -1,5 +1,5 @@
 {
-    "date": 1786012201000,
+    "date": 1786012801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -31508,20 +31508,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1781692311000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2054,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -52639,20 +52625,6 @@
                     "oelo": 2122,
                     "ochange": 0,
                     "time": 445459,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781692650000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sevensix_",
-                    "elo": 2087,
-                    "change": -25,
-                    "oelo": 1998,
-                    "ochange": 25,
-                    "time": 210107,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -96939,20 +96911,6 @@
                     "time": 663702,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781692491000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2102,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -138044,20 +138002,6 @@
                     "time": 612489,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781692600000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "himawari_TvT",
-                    "elo": 1729,
-                    "change": 16,
-                    "oelo": 1599,
-                    "ochange": -16,
-                    "time": 671041,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -154300,20 +154244,6 @@
                     "ochange": 23,
                     "time": 251465,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781692421000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 2083,
-                    "change": -19,
-                    "oelo": 2143,
-                    "ochange": 19,
-                    "time": 796394,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
