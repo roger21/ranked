@@ -1,5 +1,5 @@
 {
-    "date": 1786001401000,
+    "date": 1786002001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -66281,20 +66281,6 @@
                     "time": 509955,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781681828000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 2135,
-                    "change": -19,
-                    "oelo": 2199,
-                    "ochange": 19,
-                    "time": 537222,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87315,20 +87301,6 @@
                     "oelo": 2058,
                     "ochange": -16,
                     "time": 569549,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781681828000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 2199,
-                    "change": 19,
-                    "oelo": 2135,
-                    "ochange": -19,
-                    "time": 537222,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -136775,20 +136747,6 @@
                     "time": 583391,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781681722000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "shrddr",
-                    "elo": 1956,
-                    "change": 16,
-                    "oelo": 1800,
-                    "ochange": -16,
-                    "time": 752877,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -164370,20 +164328,6 @@
                     "ochange": 21,
                     "time": 503366,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781681561000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1943,
-                    "change": -22,
-                    "oelo": 1945,
-                    "ochange": 22,
-                    "time": 356582,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
