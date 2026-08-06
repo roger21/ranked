@@ -1,5 +1,5 @@
 {
-    "date": 1786043401000,
+    "date": 1786044001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -107513,20 +107513,6 @@
                     "time": 341455,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781723754000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 2052,
-                    "change": -18,
-                    "oelo": 2151,
-                    "ochange": 18,
-                    "time": 471842,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -138056,20 +138042,6 @@
                     "oelo": 1940,
                     "ochange": 2,
                     "time": 337926,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781723754000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2151,
-                    "change": 18,
-                    "oelo": 2052,
-                    "ochange": -18,
-                    "time": 471842,
                     "forfeited": true,
                     "decayed": false
                 }
