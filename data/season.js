@@ -1,5 +1,5 @@
 {
-    "date": 1786055401000,
+    "date": 1786056001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58656,20 +58656,6 @@
                     "time": 493357,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781735690000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2173,
-                    "change": 12,
-                    "oelo": 1923,
-                    "ochange": -12,
-                    "time": 514632,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95850,20 +95836,6 @@
                     "oelo": 2148,
                     "ochange": -25,
                     "time": 493357,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781735752000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 2031,
-                    "change": 17,
-                    "oelo": 1910,
-                    "ochange": -17,
-                    "time": 459526,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204935,20 +204907,6 @@
                     "oelo": 1944,
                     "ochange": 21,
                     "time": 589001,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781735518000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1950,
-                    "change": 21,
-                    "oelo": 1942,
-                    "ochange": -21,
-                    "time": 612290,
                     "forfeited": false,
                     "decayed": false
                 }
