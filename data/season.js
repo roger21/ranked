@@ -1,5 +1,5 @@
 {
-    "date": 1786134601000,
+    "date": 1786135201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18516,20 +18516,6 @@
                     "oelo": 2030,
                     "ochange": 19,
                     "time": 595811,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781815051000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "huhPrince",
-                    "elo": 1977,
-                    "change": 15,
-                    "oelo": 1814,
-                    "ochange": -15,
-                    "time": 471382,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -70411,20 +70397,6 @@
                     "time": 228418,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781814727000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "loodlow",
-                    "elo": 1955,
-                    "change": -20,
-                    "oelo": 1996,
-                    "ochange": 20,
-                    "time": 412783,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -78944,20 +78916,6 @@
                     "oelo": 2143,
                     "ochange": 26,
                     "time": 572027,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781815194000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Psemcovici",
-                    "elo": 2301,
-                    "change": 11,
-                    "oelo": 2011,
-                    "ochange": -11,
-                    "time": 562484,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -102159,20 +102117,6 @@
                     "oelo": 1859,
                     "ochange": 26,
                     "time": 693907,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781814679000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 2008,
-                    "change": -17,
-                    "oelo": 2117,
-                    "ochange": 17,
-                    "time": 543090,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -132548,20 +132492,6 @@
                     "time": 882986,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781815066000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "michawsomereborn",
-                    "elo": 1771,
-                    "change": -22,
-                    "oelo": 1754,
-                    "ochange": 22,
-                    "time": 726604,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -151402,20 +151332,6 @@
                     "oelo": 2275,
                     "ochange": -26,
                     "time": 572027,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781814679000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 2117,
-                    "change": 17,
-                    "oelo": 2008,
-                    "ochange": -17,
-                    "time": 543090,
                     "forfeited": false,
                     "decayed": false
                 }
