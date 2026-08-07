@@ -1,5 +1,5 @@
 {
-    "date": 1786142401000,
+    "date": 1786143001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96711,20 +96711,6 @@
                     "time": 609668,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781822683000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "paukll",
-                    "elo": 2001,
-                    "change": 24,
-                    "oelo": 2060,
-                    "ochange": -24,
-                    "time": 590040,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -103456,20 +103442,6 @@
                     "oelo": 2246,
                     "ochange": 14,
                     "time": 523907,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781822683000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2060,
-                    "change": -24,
-                    "oelo": 2001,
-                    "ochange": 24,
-                    "time": 590040,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -135951,20 +135923,6 @@
                     "oelo": 2271,
                     "ochange": 14,
                     "time": 647117,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781822779000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2074,
-                    "change": 19,
-                    "oelo": 1998,
-                    "ochange": -19,
-                    "time": 763851,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -186446,20 +186404,6 @@
                     "oelo": 1975,
                     "ochange": -23,
                     "time": 759153,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781822779000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ninananina",
-                    "elo": 1922,
-                    "change": 17,
-                    "oelo": 1815,
-                    "ochange": -17,
-                    "time": 632813,
                     "forfeited": false,
                     "decayed": false
                 }
