@@ -1,5 +1,5 @@
 {
-    "date": 1786096801000,
+    "date": 1786097401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -68374,20 +68374,6 @@
                     "oelo": 2083,
                     "ochange": 20,
                     "time": 526726,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781776980000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 2074,
-                    "change": 14,
-                    "oelo": 1871,
-                    "ochange": -14,
-                    "time": 544576,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -150941,20 +150927,6 @@
                     "time": 561897,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781776930000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2095,
-                    "change": 20,
-                    "oelo": 2063,
-                    "ochange": -20,
-                    "time": 424598,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168373,20 +168345,6 @@
                     "oelo": 1818,
                     "ochange": -16,
                     "time": 459268,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781777281000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Ch0ok_ERC",
-                    "elo": 1936,
-                    "change": -21,
-                    "oelo": 1938,
-                    "ochange": 21,
-                    "time": 848479,
                     "forfeited": false,
                     "decayed": false
                 }
