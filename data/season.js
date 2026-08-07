@@ -1,5 +1,5 @@
 {
-    "date": 1786065001000,
+    "date": 1786065601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7262,20 +7262,6 @@
                     "ochange": -17,
                     "time": 625424,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781745253000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Psemcovici",
-                    "elo": 2229,
-                    "change": 13,
-                    "oelo": 1988,
-                    "ochange": -13,
-                    "time": 246151,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -32733,20 +32719,6 @@
                     "oelo": 2246,
                     "ochange": 17,
                     "time": 625424,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781745106000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Lexanh",
-                    "elo": 2136,
-                    "change": -28,
-                    "oelo": 1947,
-                    "ochange": 28,
-                    "time": 585383,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204193,20 +204165,6 @@
                     "oelo": 2006,
                     "ochange": 18,
                     "time": 643454,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781745145000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1944,
-                    "change": 19,
-                    "oelo": 1873,
-                    "ochange": -19,
-                    "time": 628696,
                     "forfeited": false,
                     "decayed": false
                 }
