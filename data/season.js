@@ -1,5 +1,5 @@
 {
-    "date": 1786094401000,
+    "date": 1786095001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -68404,20 +68404,6 @@
                     "time": 557039,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781774880000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "hsbi",
-                    "elo": 2026,
-                    "change": -28,
-                    "oelo": 1861,
-                    "ochange": 28,
-                    "time": 559876,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114792,20 +114778,6 @@
                     "time": 581408,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781774471000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2173,
-                    "change": 18,
-                    "oelo": 2089,
-                    "ochange": -18,
-                    "time": 482372,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -132727,20 +132699,6 @@
                     "oelo": 2037,
                     "ochange": -19,
                     "time": 601032,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781774471000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 2089,
-                    "change": -18,
-                    "oelo": 2173,
-                    "ochange": 18,
-                    "time": 482372,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -151107,20 +151065,6 @@
                     "oelo": 2108,
                     "ochange": 19,
                     "time": 601032,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781774409000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2056,
-                    "change": 23,
-                    "oelo": 2099,
-                    "ochange": -23,
-                    "time": 500609,
                     "forfeited": false,
                     "decayed": false
                 }
