@@ -1,5 +1,5 @@
 {
-    "date": 1786144202000,
+    "date": 1786144801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96655,20 +96655,6 @@
                     "time": 1032331,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781824467000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "shrddr",
-                    "elo": 1976,
-                    "change": -23,
-                    "oelo": 1935,
-                    "ochange": 23,
-                    "time": 567507,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -103358,20 +103344,6 @@
                     "oelo": 2108,
                     "ochange": 20,
                     "time": 620384,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781824371000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "poopiefart13",
-                    "elo": 2081,
-                    "change": 16,
-                    "oelo": 1929,
-                    "ochange": -16,
-                    "time": 515140,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -170575,23 +170547,51 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 47,
-                "elo": 2143,
+                "rank": 48,
+                "elo": 2129,
                 "top": 2265,
                 "points": 56,
                 "pb": 407022,
-                "current": 3,
+                "current": 0,
                 "streak": 11,
-                "matches": 605,
-                "playtime": 342013019,
+                "matches": 607,
+                "playtime": 343134091,
                 "finished": 299,
                 "finishtime": 174126193,
                 "won": 330,
-                "lost": 257,
+                "lost": 258,
                 "forfeited": 12
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1786144872000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 2129,
+                    "change": -12,
+                    "oelo": 2389,
+                    "ochange": 12,
+                    "time": 456485,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1786144281000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "ninananina",
+                    "elo": 2141,
+                    "change": -2,
+                    "oelo": 1979,
+                    "ochange": 2,
+                    "time": 664587,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785874603000,
                     "type": "RUINED_PORTAL",
@@ -173552,7 +173552,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2137,
                 "top": 2199,
                 "points": 8,
@@ -186292,20 +186292,6 @@
                     "oelo": 1998,
                     "ochange": 17,
                     "time": 533686,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781824371000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "paukll",
-                    "elo": 1929,
-                    "change": -16,
-                    "oelo": 2081,
-                    "ochange": 16,
-                    "time": 515140,
                     "forfeited": false,
                     "decayed": false
                 }
