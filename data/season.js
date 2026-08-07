@@ -1,5 +1,5 @@
 {
-    "date": 1786066201000,
+    "date": 1786066801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32677,20 +32677,6 @@
                     "oelo": 1892,
                     "ochange": -12,
                     "time": 439374,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781746603000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Psemcovici",
-                    "elo": 2135,
-                    "change": 16,
-                    "oelo": 1990,
-                    "ochange": -16,
-                    "time": 566539,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204109,20 +204095,6 @@
                     "oelo": 2147,
                     "ochange": 12,
                     "time": 439374,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781746790000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Bloonskiller",
-                    "elo": 1904,
-                    "change": -22,
-                    "oelo": 1880,
-                    "ochange": 22,
-                    "time": 768787,
                     "forfeited": false,
                     "decayed": false
                 }
