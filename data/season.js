@@ -1,5 +1,5 @@
 {
-    "date": 1786063201000,
+    "date": 1786063801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7289,20 +7289,6 @@
                     "oelo": 2194,
                     "ochange": 22,
                     "time": 498784,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781743385000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 2238,
-                    "change": 19,
-                    "oelo": 2185,
-                    "ochange": -19,
-                    "time": 554765,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -21005,20 +20991,6 @@
                     "time": 403355,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781743625000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 1966,
-                    "change": -22,
-                    "oelo": 1947,
-                    "ochange": 22,
-                    "time": 210359,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -32817,20 +32789,6 @@
                     "oelo": 2172,
                     "ochange": 21,
                     "time": 561557,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781743385000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 2185,
-                    "change": -19,
-                    "oelo": 2238,
-                    "ochange": 19,
-                    "time": 554765,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -110684,20 +110642,6 @@
                     "oelo": 2164,
                     "ochange": -21,
                     "time": 561557,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781743276000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 2151,
-                    "change": 12,
-                    "oelo": 1897,
-                    "ochange": -12,
-                    "time": 528331,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204347,34 +204291,6 @@
                     "oelo": 1919,
                     "ochange": 22,
                     "time": 711922,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781743625000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1947,
-                    "change": 22,
-                    "oelo": 1966,
-                    "ochange": -22,
-                    "time": 210359,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781743266000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 1925,
-                    "change": -22,
-                    "oelo": 1912,
-                    "ochange": 22,
-                    "time": 750384,
                     "forfeited": false,
                     "decayed": false
                 }
