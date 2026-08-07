@@ -1,5 +1,5 @@
 {
-    "date": 1786138801000,
+    "date": 1786139401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43598,20 +43598,6 @@
                     "time": 555797,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781819162000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2195,
-                    "change": 25,
-                    "oelo": 2273,
-                    "ochange": -25,
-                    "time": 573179,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -64936,20 +64922,6 @@
                     "ochange": 3,
                     "time": 520115,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781819162000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 2273,
-                    "change": -25,
-                    "oelo": 2195,
-                    "ochange": 25,
-                    "time": 573179,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -101951,20 +101923,6 @@
                     "time": 555512,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781818865000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "TheGamerGuyy",
-                    "elo": 2024,
-                    "change": 15,
-                    "oelo": 1861,
-                    "ochange": -15,
-                    "time": 615896,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -130950,20 +130908,6 @@
                     "ochange": 18,
                     "time": 566317,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781818877000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Bodek",
-                    "elo": 1897,
-                    "change": -24,
-                    "oelo": 1838,
-                    "ochange": 24,
-                    "time": 250154,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -167455,20 +167399,6 @@
                     "ochange": 22,
                     "time": 670067,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781819231000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TheGamerGuyy",
-                    "elo": 1950,
-                    "change": 17,
-                    "oelo": 1844,
-                    "ochange": -17,
-                    "time": 307823,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
