@@ -1,5 +1,5 @@
 {
-    "date": 1786101601000,
+    "date": 1786102201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76155,20 +76155,6 @@
                     "time": 526434,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781781727000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 1976,
-                    "change": -17,
-                    "oelo": 2080,
-                    "ochange": 17,
-                    "time": 548381,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -114526,20 +114512,6 @@
                     "time": 441186,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781782041000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 2101,
-                    "change": -22,
-                    "oelo": 2098,
-                    "ochange": 22,
-                    "time": 646895,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -132307,20 +132279,6 @@
                     "oelo": 2123,
                     "ochange": 22,
                     "time": 441186,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781781842000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2150,
-                    "change": 17,
-                    "oelo": 2040,
-                    "ochange": -17,
-                    "time": 428735,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -167954,20 +167912,6 @@
                     "ochange": -22,
                     "time": 649516,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781781703000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yunusbes",
-                    "elo": 1989,
-                    "change": 16,
-                    "oelo": 1852,
-                    "ochange": -16,
-                    "time": 228936,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
