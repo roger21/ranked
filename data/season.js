@@ -1,5 +1,5 @@
 {
-    "date": 1786100401000,
+    "date": 1786101001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -76197,20 +76197,6 @@
                     "time": 327067,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781780525000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2009,
-                    "change": -23,
-                    "oelo": 1975,
-                    "ochange": 23,
-                    "time": 524368,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114596,20 +114582,6 @@
                     "time": 520813,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781780721000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 2101,
-                    "change": -23,
-                    "oelo": 2055,
-                    "ochange": 23,
-                    "time": 680981,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -132419,20 +132391,6 @@
                     "oelo": 2123,
                     "ochange": 22,
                     "time": 520813,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781780424000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "sylvie0616",
-                    "elo": 2155,
-                    "change": -23,
-                    "oelo": 2126,
-                    "ochange": 23,
-                    "time": 533024,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -150731,20 +150689,6 @@
                     "time": 327067,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781780424000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2126,
-                    "change": 23,
-                    "oelo": 2155,
-                    "ochange": -23,
-                    "time": 533024,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168136,20 +168080,6 @@
                     "ochange": 2,
                     "time": 320440,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781780525000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1975,
-                    "change": 23,
-                    "oelo": 2009,
-                    "ochange": -23,
-                    "time": 524368,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
