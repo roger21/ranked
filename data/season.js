@@ -1,5 +1,5 @@
 {
-    "date": 1786143001000,
+    "date": 1786143601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43540,20 +43540,6 @@
                     "oelo": 1981,
                     "ochange": -11,
                     "time": 529646,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781823282000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "paukll",
-                    "elo": 2246,
-                    "change": 14,
-                    "oelo": 2046,
-                    "ochange": -14,
-                    "time": 523907,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -96697,20 +96683,6 @@
                     "time": 352213,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781823364000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Kickz",
-                    "elo": 2018,
-                    "change": 17,
-                    "oelo": 1902,
-                    "ochange": -17,
-                    "time": 609668,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -103429,20 +103401,6 @@
                     "ochange": -19,
                     "time": 352213,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781823282000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 2046,
-                    "change": -14,
-                    "oelo": 2246,
-                    "ochange": 14,
-                    "time": 523907,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -186390,20 +186348,6 @@
                     "oelo": 2081,
                     "ochange": 16,
                     "time": 515140,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781823595000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Lexanh",
-                    "elo": 1945,
-                    "change": 23,
-                    "oelo": 1975,
-                    "ochange": -23,
-                    "time": 759153,
                     "forfeited": false,
                     "decayed": false
                 }
