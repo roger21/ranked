@@ -1,5 +1,5 @@
 {
-    "date": 1786097401000,
+    "date": 1786098001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -68362,20 +68362,6 @@
                     "time": 524412,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781777558000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 2054,
-                    "change": -20,
-                    "oelo": 2083,
-                    "ochange": 20,
-                    "time": 526726,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -114694,20 +114680,6 @@
                     "time": 668439,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781777439000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 2122,
-                    "change": -21,
-                    "oelo": 2129,
-                    "ochange": 21,
-                    "time": 674255,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -133522,20 +133494,6 @@
                     "time": 654165,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781777439000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2129,
-                    "change": 21,
-                    "oelo": 2122,
-                    "ochange": -21,
-                    "time": 674255,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -150911,20 +150869,6 @@
                     "oelo": 2104,
                     "ochange": 21,
                     "time": 595639,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781777574000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "gharfyy",
-                    "elo": 2110,
-                    "change": 15,
-                    "oelo": 1928,
-                    "ochange": -15,
-                    "time": 561897,
                     "forfeited": false,
                     "decayed": false
                 }
