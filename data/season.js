@@ -1,5 +1,5 @@
 {
-    "date": 1786064401000,
+    "date": 1786065001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7276,20 +7276,6 @@
                     "ochange": -13,
                     "time": 246151,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781744834000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2216,
-                    "change": -22,
-                    "oelo": 2194,
-                    "ochange": 22,
-                    "time": 498784,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -20976,20 +20962,6 @@
                     "ochange": -22,
                     "time": 522399,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781744464000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "cofesho",
-                    "elo": 1965,
-                    "change": -1,
-                    "oelo": 1892,
-                    "ochange": 1,
-                    "time": 403355,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -110600,20 +110572,6 @@
                     "oelo": 1963,
                     "ochange": -12,
                     "time": 610702,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781744834000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 2194,
-                    "change": 22,
-                    "oelo": 2216,
-                    "ochange": -22,
-                    "time": 498784,
                     "forfeited": false,
                     "decayed": false
                 }
