@@ -1,5 +1,5 @@
 {
-    "date": 1786082401000,
+    "date": 1786083001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27256,7 +27256,7 @@
             "nickname": "Pinne",
             "stats": {
                 "rank": 11,
-                "elo": 2370,
+                "elo": 2365,
                 "top": 2380,
                 "points": 119,
                 "pb": 403492,
@@ -27272,6 +27272,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1786082868000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2365,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785996465000,
                     "type": null,
