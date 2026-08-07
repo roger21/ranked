@@ -1,5 +1,5 @@
 {
-    "date": 1786108201000,
+    "date": 1786108801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -2357,34 +2357,6 @@
                     "oelo": 2103,
                     "ochange": -9,
                     "time": 654089,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781788665000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 2468,
-                    "change": 10,
-                    "oelo": 2124,
-                    "ochange": -10,
-                    "time": 275727,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781788320000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2458,
-                    "change": 9,
-                    "oelo": 2107,
-                    "ochange": -9,
-                    "time": 491000,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -110527,20 +110499,6 @@
                     "time": 549476,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781788376000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2133,
-                    "change": 18,
-                    "oelo": 2045,
-                    "ochange": -18,
-                    "time": 661207,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -124556,20 +124514,6 @@
                     "oelo": 2027,
                     "ochange": -18,
                     "time": 659253,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781788320000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 2107,
-                    "change": -9,
-                    "oelo": 2458,
-                    "ochange": 9,
-                    "time": 491000,
                     "forfeited": false,
                     "decayed": false
                 }
