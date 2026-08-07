@@ -1,5 +1,5 @@
 {
-    "date": 1786065601000,
+    "date": 1786066201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7247,20 +7247,6 @@
                     "oelo": 1975,
                     "ochange": -11,
                     "time": 570556,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781745933000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 2246,
-                    "change": 17,
-                    "oelo": 2119,
-                    "ochange": -17,
-                    "time": 625424,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -32705,20 +32691,6 @@
                     "oelo": 1990,
                     "ochange": -16,
                     "time": 566539,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781745933000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 2119,
-                    "change": -17,
-                    "oelo": 2246,
-                    "ochange": 17,
-                    "time": 625424,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204151,20 +204123,6 @@
                     "oelo": 1880,
                     "ochange": 22,
                     "time": 768787,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781745950000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Psemcovici",
-                    "elo": 1926,
-                    "change": -18,
-                    "oelo": 2006,
-                    "ochange": 18,
-                    "time": 643454,
                     "forfeited": false,
                     "decayed": false
                 }
