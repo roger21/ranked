@@ -1,27 +1,41 @@
 {
-    "date": 1786116601000,
+    "date": 1786117201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2685,
-                "top": 2694,
+                "elo": 2697,
+                "top": 2697,
                 "points": 210,
                 "pb": 353371,
-                "current": 2,
+                "current": 3,
                 "streak": 17,
-                "matches": 415,
-                "playtime": 220013064,
-                "finished": 297,
-                "finishtime": 160497733,
-                "won": 327,
+                "matches": 416,
+                "playtime": 220549774,
+                "finished": 298,
+                "finishtime": 161034443,
+                "won": 328,
                 "lost": 84,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1786116618000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "lowk3y_",
+                    "elo": 2697,
+                    "change": 12,
+                    "oelo": 2448,
+                    "ochange": -12,
+                    "time": 536710,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785960237000,
                     "type": "RUINED_PORTAL",
@@ -2205,20 +2219,6 @@
                     "time": 514517,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781796966000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "okshey",
-                    "elo": 2528,
-                    "change": 8,
-                    "oelo": 2120,
-                    "ochange": -8,
-                    "time": 517476,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -2227,22 +2227,36 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 2,
-                "elo": 2460,
+                "elo": 2448,
                 "top": 2517,
                 "points": 129,
                 "pb": 410465,
                 "current": 0,
                 "streak": 12,
-                "matches": 278,
-                "playtime": 153443077,
+                "matches": 279,
+                "playtime": 153979787,
                 "finished": 173,
                 "finishtime": 95115312,
                 "won": 186,
-                "lost": 85,
+                "lost": 86,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1786116618000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2448,
+                    "change": -12,
+                    "oelo": 2697,
+                    "ochange": 12,
+                    "time": 536710,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786115597000,
                     "type": "RUINED_PORTAL",
@@ -56101,7 +56115,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 21,
+                "rank": 22,
                 "elo": 2279,
                 "top": 2371,
                 "points": 90,
@@ -64797,20 +64811,6 @@
                     "time": 555542,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781796976000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2269,
-                    "change": 16,
-                    "oelo": 2137,
-                    "ochange": -16,
-                    "time": 607062,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -64818,7 +64818,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 2272,
                 "top": 2373,
                 "points": 120,
@@ -69265,23 +69265,37 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 23,
-                "elo": 2265,
+                "rank": 21,
+                "elo": 2298,
                 "top": 2403,
                 "points": 8,
                 "pb": 394043,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 820,
-                "playtime": 429044062,
-                "finished": 367,
-                "finishtime": 213742276,
-                "won": 427,
+                "matches": 821,
+                "playtime": 429561614,
+                "finished": 368,
+                "finishtime": 214259828,
+                "won": 428,
                 "lost": 361,
                 "forfeited": 182
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1786117216000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "edcr",
+                    "elo": 2298,
+                    "change": 33,
+                    "oelo": 2664,
+                    "ochange": -33,
+                    "time": 517552,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786115597000,
                     "type": "RUINED_PORTAL",
@@ -102735,20 +102749,6 @@
                     "time": 606751,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781797161000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Bodek",
-                    "elo": 1977,
-                    "change": -27,
-                    "oelo": 1834,
-                    "ochange": 27,
-                    "time": 480285,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -109979,20 +109979,6 @@
                     "oelo": 2101,
                     "ochange": -19,
                     "time": 688839,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781796976000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 2137,
-                    "change": -16,
-                    "oelo": 2269,
-                    "ochange": 16,
-                    "time": 607062,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -171219,20 +171205,6 @@
                     "oelo": 2156,
                     "ochange": 19,
                     "time": 688839,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781796966000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 2120,
-                    "change": -8,
-                    "oelo": 2528,
-                    "ochange": 8,
-                    "time": 517476,
                     "forfeited": false,
                     "decayed": false
                 }
