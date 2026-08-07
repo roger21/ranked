@@ -1,5 +1,5 @@
 {
-    "date": 1786068001000,
+    "date": 1786068602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -7219,20 +7219,6 @@
                     "oelo": 2030,
                     "ochange": 29,
                     "time": 516736,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781748479000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 2273,
-                    "change": 16,
-                    "oelo": 2131,
-                    "ochange": -16,
-                    "time": 563195,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -28433,20 +28419,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1781748594000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2091,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -32635,20 +32607,6 @@
                     "oelo": 1975,
                     "ochange": -15,
                     "time": 505990,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781748479000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Infume",
-                    "elo": 2131,
-                    "change": -16,
-                    "oelo": 2273,
-                    "ochange": 16,
-                    "time": 563195,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -179327,20 +179285,6 @@
                     "time": 543691,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781748400000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Bloonskiller",
-                    "elo": 1867,
-                    "change": 20,
-                    "oelo": 1835,
-                    "ochange": -20,
-                    "time": 545078,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -204039,20 +203983,6 @@
                     "oelo": 2001,
                     "ochange": 16,
                     "time": 592787,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781748194000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Tadeos",
-                    "elo": 1864,
-                    "change": -28,
-                    "oelo": 1691,
-                    "ochange": 28,
-                    "time": 703969,
                     "forfeited": false,
                     "decayed": false
                 }
