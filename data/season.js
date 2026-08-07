@@ -1,5 +1,5 @@
 {
-    "date": 1786061401000,
+    "date": 1786062001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32831,20 +32831,6 @@
                     "oelo": 2238,
                     "ochange": 19,
                     "time": 554765,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781741878000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2204,
-                    "change": -25,
-                    "oelo": 2127,
-                    "ochange": 25,
-                    "time": 590422,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -110740,20 +110726,6 @@
                     "oelo": 1890,
                     "ochange": -12,
                     "time": 411736,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781741878000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 2127,
-                    "change": 25,
-                    "oelo": 2204,
-                    "ochange": -25,
-                    "time": 590422,
                     "forfeited": false,
                     "decayed": false
                 }
