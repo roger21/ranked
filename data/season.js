@@ -1,5 +1,5 @@
 {
-    "date": 1786138201000,
+    "date": 1786138801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -130964,20 +130964,6 @@
                     "ochange": 24,
                     "time": 250154,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781818404000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "loodlow",
-                    "elo": 1921,
-                    "change": -18,
-                    "oelo": 2016,
-                    "ochange": 18,
-                    "time": 552210,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]

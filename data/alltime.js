@@ -6032,13 +6032,13 @@
         },
         "pb": 489021,
         "streak": 10,
-        "matches": 2631,
-        "playtime": 1905694070,
+        "matches": 2632,
+        "playtime": 1906121348,
         "finished": 939,
         "finishtime": 773338134,
         "won": 1387,
-        "lost": 1188,
-        "forfeited": 116
+        "lost": 1189,
+        "forfeited": 117
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
         "nickname": "dandannyboy",
