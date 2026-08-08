@@ -1,5 +1,5 @@
 {
-    "date": 1786213201000,
+    "date": 1786213801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -27689,20 +27689,6 @@
                     "oelo": 2156,
                     "ochange": 17,
                     "time": 617199,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781893729000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2062,
-                    "change": 18,
-                    "oelo": 1959,
-                    "ochange": -18,
-                    "time": 552098,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -67604,20 +67590,6 @@
                     "oelo": 2206,
                     "ochange": 20,
                     "time": 608145,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781893388000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2177,
-                    "change": 21,
-                    "oelo": 2167,
-                    "ochange": -21,
-                    "time": 455681,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -120694,20 +120666,6 @@
                     "time": 586817,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781893388000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 2167,
-                    "change": -21,
-                    "oelo": 2177,
-                    "ochange": 21,
-                    "time": 455681,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -121858,23 +121816,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 38,
-                "elo": 2183,
+                "rank": 39,
+                "elo": 2177,
                 "top": 2366,
                 "points": 36,
                 "pb": 379483,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 1003,
-                "playtime": 542196856,
+                "matches": 1004,
+                "playtime": 542765815,
                 "finished": 461,
                 "finishtime": 265457570,
                 "won": 529,
-                "lost": 449,
+                "lost": 450,
                 "forfeited": 128
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1786213847000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2177,
+                    "change": -6,
+                    "oelo": 2668,
+                    "ochange": 6,
+                    "time": 568959,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786213076000,
                     "type": "DESERT_TEMPLE",
@@ -129343,7 +129315,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2180,
                 "top": 2207,
                 "points": 8,
@@ -171317,20 +171289,6 @@
                     "oelo": 1848,
                     "ochange": 25,
                     "time": 576279,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781893729000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "steez",
-                    "elo": 1959,
-                    "change": -18,
-                    "oelo": 2062,
-                    "ochange": 18,
-                    "time": 552098,
                     "forfeited": false,
                     "decayed": false
                 }
