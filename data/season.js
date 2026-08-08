@@ -1,5 +1,5 @@
 {
-    "date": 1786171201000,
+    "date": 1786171801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14638,23 +14638,37 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 6,
-                "elo": 2404,
+                "rank": 10,
+                "elo": 2382,
                 "top": 2404,
                 "points": 156,
                 "pb": 390102,
-                "current": 5,
+                "current": 0,
                 "streak": 10,
-                "matches": 485,
-                "playtime": 268129384,
+                "matches": 486,
+                "playtime": 268824454,
                 "finished": 268,
                 "finishtime": 149532984,
                 "won": 300,
-                "lost": 175,
+                "lost": 176,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1786171807000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "bbiddd",
+                    "elo": 2382,
+                    "change": -22,
+                    "oelo": 2384,
+                    "ochange": 22,
+                    "time": 695070,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786171008000,
                     "type": "DESERT_TEMPLE",
@@ -17965,7 +17979,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 7,
+                "rank": 6,
                 "elo": 2392,
                 "top": 2411,
                 "points": 84,
@@ -19458,7 +19472,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 8,
+                "rank": 7,
                 "elo": 2390,
                 "top": 2390,
                 "points": 87,
@@ -21231,7 +21245,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 9,
+                "rank": 8,
                 "elo": 2389,
                 "top": 2517,
                 "points": 129,
@@ -23942,7 +23956,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 10,
+                "rank": 11,
                 "elo": 2371,
                 "top": 2411,
                 "points": 100,
@@ -26989,23 +27003,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 11,
-                "elo": 2362,
+                "rank": 9,
+                "elo": 2384,
                 "top": 2411,
                 "points": 49,
                 "pb": 392259,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 686,
-                "playtime": 374838298,
-                "finished": 332,
-                "finishtime": 193250581,
-                "won": 374,
+                "matches": 687,
+                "playtime": 375533368,
+                "finished": 333,
+                "finishtime": 193945651,
+                "won": 375,
                 "lost": 293,
                 "forfeited": 64
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1786171807000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "BlazeMind",
+                    "elo": 2384,
+                    "change": 22,
+                    "oelo": 2382,
+                    "ochange": -22,
+                    "time": 695070,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786171057000,
                     "type": "VILLAGE",
@@ -170885,20 +170913,6 @@
                     "ochange": 0,
                     "time": 803711,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781851418000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1937,
-                    "change": 17,
-                    "oelo": 1816,
-                    "ochange": -17,
-                    "time": 502988,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
