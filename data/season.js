@@ -1,5 +1,5 @@
 {
-    "date": 1786182601000,
+    "date": 1786183201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -142586,20 +142586,6 @@
                     "oelo": 2064,
                     "ochange": 26,
                     "time": 598995,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781862810000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2219,
-                    "change": 15,
-                    "oelo": 2042,
-                    "ochange": -15,
-                    "time": 606881,
                     "forfeited": false,
                     "decayed": false
                 }
