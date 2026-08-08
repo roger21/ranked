@@ -2298,13 +2298,13 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6456,
-        "playtime": 3936930328,
+        "matches": 6457,
+        "playtime": 3937240034,
         "finished": 2872,
         "finishtime": 1894499750,
         "won": 3539,
-        "lost": 2796,
-        "forfeited": 578
+        "lost": 2797,
+        "forfeited": 579
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
         "nickname": "AstraF",
@@ -5232,11 +5232,11 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 4021,
-        "playtime": 2421688228,
+        "matches": 4022,
+        "playtime": 2421997934,
         "finished": 1567,
         "finishtime": 1008142284,
-        "won": 1996,
+        "won": 1997,
         "lost": 1761,
         "forfeited": 451
     },
