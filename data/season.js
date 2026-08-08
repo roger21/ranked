@@ -1,5 +1,5 @@
 {
-    "date": 1786172401000,
+    "date": 1786173001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14638,7 +14638,7 @@
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "nickname": "7rowl",
             "stats": {
-                "rank": 6,
+                "rank": 7,
                 "elo": 2392,
                 "top": 2411,
                 "points": 84,
@@ -16131,7 +16131,7 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 7,
+                "rank": 8,
                 "elo": 2390,
                 "top": 2390,
                 "points": 87,
@@ -17904,7 +17904,7 @@
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "nickname": "lowk3y_",
             "stats": {
-                "rank": 8,
+                "rank": 9,
                 "elo": 2389,
                 "top": 2517,
                 "points": 129,
@@ -20615,7 +20615,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 9,
+                "rank": 10,
                 "elo": 2384,
                 "top": 2411,
                 "points": 49,
@@ -24488,23 +24488,37 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "nickname": "BlazeMind",
             "stats": {
-                "rank": 10,
-                "elo": 2382,
+                "rank": 6,
+                "elo": 2398,
                 "top": 2404,
                 "points": 156,
                 "pb": 390102,
-                "current": 0,
+                "current": 1,
                 "streak": 10,
-                "matches": 486,
-                "playtime": 268824454,
-                "finished": 268,
-                "finishtime": 149532984,
-                "won": 300,
+                "matches": 487,
+                "playtime": 269708675,
+                "finished": 269,
+                "finishtime": 150417205,
+                "won": 301,
                 "lost": 176,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1786173003000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 2398,
+                    "change": 16,
+                    "oelo": 2248,
+                    "ochange": -16,
+                    "time": 884221,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786171807000,
                     "type": "RUINED_PORTAL",
@@ -76988,23 +77002,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 24,
-                "elo": 2264,
+                "rank": 25,
+                "elo": 2248,
                 "top": 2392,
                 "points": 58,
                 "pb": 395866,
                 "current": 0,
                 "streak": 8,
-                "matches": 811,
-                "playtime": 445749613,
+                "matches": 812,
+                "playtime": 446633834,
                 "finished": 410,
                 "finishtime": 237793053,
                 "won": 462,
-                "lost": 342,
+                "lost": 343,
                 "forfeited": 74
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1786173003000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "BlazeMind",
+                    "elo": 2248,
+                    "change": -16,
+                    "oelo": 2398,
+                    "ochange": 16,
+                    "time": 884221,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1785782918000,
                     "type": "BURIED_TREASURE",
@@ -83297,7 +83325,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2249,
                 "top": 2264,
                 "points": 52,
