@@ -955,12 +955,12 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 3803,
-        "playtime": 2637702173,
+        "matches": 3804,
+        "playtime": 2638417357,
         "finished": 1336,
         "finishtime": 1029882903,
         "won": 1852,
-        "lost": 1682,
+        "lost": 1683,
         "forfeited": 199
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -2259,13 +2259,13 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 5460,
-        "playtime": 3249918203,
+        "matches": 5462,
+        "playtime": 3250940735,
         "finished": 2138,
         "finishtime": 1412247072,
-        "won": 2760,
-        "lost": 2508,
-        "forfeited": 746
+        "won": 2761,
+        "lost": 2509,
+        "forfeited": 747
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
         "nickname": "ulsah1n",
@@ -2567,13 +2567,13 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 8894,
-        "playtime": 5393217568,
+        "matches": 8895,
+        "playtime": 5393427766,
         "finished": 3661,
         "finishtime": 2446366809,
         "won": 4625,
-        "lost": 4046,
-        "forfeited": 1140
+        "lost": 4047,
+        "forfeited": 1141
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
