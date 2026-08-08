@@ -1,5 +1,5 @@
 {
-    "date": 1786176601000,
+    "date": 1786177201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -94367,20 +94367,6 @@
                     "time": 539354,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781857199000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "1_viewer",
-                    "elo": 1942,
-                    "change": -20,
-                    "oelo": 1987,
-                    "ochange": 20,
-                    "time": 688576,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -157193,7 +157179,7 @@
             "nickname": "SocratesDisciple",
             "stats": {
                 "rank": 44,
-                "elo": 2156,
+                "elo": 2151,
                 "top": 2196,
                 "points": 35,
                 "pb": 430685,
@@ -157209,6 +157195,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1786177129000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2151,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1786090729000,
                     "type": null,
