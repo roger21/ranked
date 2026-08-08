@@ -1,5 +1,5 @@
 {
-    "date": 1786228801000,
+    "date": 1786229401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -26793,20 +26793,6 @@
                     "oelo": 1959,
                     "ochange": -15,
                     "time": 653494,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781909346000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2113,
-                    "change": -24,
-                    "oelo": 2047,
-                    "ochange": 24,
-                    "time": 490769,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79859,20 +79845,6 @@
                     "ochange": -17,
                     "time": 492125,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781909346000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 2047,
-                    "change": 24,
-                    "oelo": 2113,
-                    "ochange": -24,
-                    "time": 490769,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
