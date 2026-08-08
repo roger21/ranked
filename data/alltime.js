@@ -1298,13 +1298,13 @@
         },
         "pb": 358323,
         "streak": 13,
-        "matches": 8808,
-        "playtime": 5144688873,
+        "matches": 8809,
+        "playtime": 5145237696,
         "finished": 3200,
         "finishtime": 2110725117,
         "won": 4315,
-        "lost": 3953,
-        "forfeited": 1511
+        "lost": 3954,
+        "forfeited": 1512
     },
     "31f96d84ed9844bcabbd07f828001290": {
         "nickname": "Aquaface",
@@ -1754,12 +1754,12 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 12115,
-        "playtime": 7544438729,
+        "matches": 12116,
+        "playtime": 7545083010,
         "finished": 4584,
         "finishtime": 3196892745,
         "won": 6048,
-        "lost": 5672,
+        "lost": 5673,
         "forfeited": 1570
     },
     "4129d8d1aafb4e73b97b9999db248060": {
@@ -2203,7 +2203,7 @@
             "8": 2187,
             "9": 2355,
             "10": 2592,
-            "11": 2356
+            "11": 2361
         },
         "points": {
             "1": 0,
@@ -2220,11 +2220,11 @@
         },
         "pb": 359485,
         "streak": 13,
-        "matches": 4939,
-        "playtime": 2736130131,
+        "matches": 4940,
+        "playtime": 2736678954,
         "finished": 2177,
         "finishtime": 1354860872,
-        "won": 2660,
+        "won": 2661,
         "lost": 2141,
         "forfeited": 1074
     },
@@ -4017,6 +4017,27 @@
         "won": 3777,
         "lost": 3537,
         "forfeited": 1254
+    },
+    "98cea324ee714d868b2ec1627f0f5762": {
+        "nickname": "cvctus",
+        "country": "ca",
+        "top": {
+            "10": 1786,
+            "11": 2215
+        },
+        "points": {
+            "10": 0,
+            "11": 11
+        },
+        "pb": 399951,
+        "streak": 15,
+        "matches": 1289,
+        "playtime": 944482726,
+        "finished": 536,
+        "finishtime": 415989611,
+        "won": 686,
+        "lost": 555,
+        "forfeited": 35
     },
     "99aa9e0e8034479a90259e244dfb9029": {
         "nickname": "Emillk",
