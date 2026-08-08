@@ -1,5 +1,5 @@
 {
-    "date": 1786231801000,
+    "date": 1786232401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -26765,20 +26765,6 @@
                     "oelo": 1946,
                     "ochange": -15,
                     "time": 507937,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781912317000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2106,
-                    "change": -22,
-                    "oelo": 2086,
-                    "ochange": 22,
-                    "time": 526033,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79802,20 +79788,6 @@
                     "oelo": 1920,
                     "ochange": -15,
                     "time": 660110,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781912317000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 2086,
-                    "change": 22,
-                    "oelo": 2106,
-                    "ochange": -22,
-                    "time": 526033,
                     "forfeited": false,
                     "decayed": false
                 }
