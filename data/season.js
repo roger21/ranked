@@ -1,5 +1,5 @@
 {
-    "date": 1786231201000,
+    "date": 1786231801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -26779,20 +26779,6 @@
                     "oelo": 2086,
                     "ochange": 22,
                     "time": 526033,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781911529000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Psemcovici",
-                    "elo": 2128,
-                    "change": 15,
-                    "oelo": 1959,
-                    "ochange": -15,
-                    "time": 653494,
                     "forfeited": false,
                     "decayed": false
                 }
