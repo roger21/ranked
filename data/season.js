@@ -1,5 +1,5 @@
 {
-    "date": 1786229401000,
+    "date": 1786230001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -79831,20 +79831,6 @@
                     "ochange": -22,
                     "time": 526033,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781909998000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Psemcovici",
-                    "elo": 2064,
-                    "change": 17,
-                    "oelo": 1958,
-                    "ochange": -17,
-                    "time": 492125,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
