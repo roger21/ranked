@@ -1,5 +1,5 @@
 {
-    "date": 1786301401000,
+    "date": 1786302001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -106674,7 +106674,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2209,
                 "top": 2236,
                 "points": 13,
@@ -116721,7 +116721,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2206,
                 "top": 2206,
                 "points": 15,
@@ -121154,7 +121154,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2200,
                 "top": 2324,
                 "points": 95,
@@ -124971,7 +124971,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2200,
                 "top": 2228,
                 "points": 23,
@@ -126156,23 +126156,37 @@
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "nickname": "romuxii",
             "stats": {
-                "rank": 38,
-                "elo": 2198,
+                "rank": 34,
+                "elo": 2212,
                 "top": 2366,
                 "points": 36,
                 "pb": 379483,
-                "current": 4,
+                "current": 5,
                 "streak": 9,
-                "matches": 1010,
-                "playtime": 546130649,
-                "finished": 465,
-                "finishtime": 267850372,
-                "won": 533,
+                "matches": 1011,
+                "playtime": 546638842,
+                "finished": 466,
+                "finishtime": 268358565,
+                "won": 534,
                 "lost": 452,
                 "forfeited": 129
             },
             "country": "by",
             "matches": [
+                {
+                    "date": 1786302037000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "petal_go_round",
+                    "elo": 2212,
+                    "change": 14,
+                    "oelo": 2019,
+                    "ochange": -14,
+                    "time": 508193,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786300755000,
                     "type": "DESERT_TEMPLE",
@@ -159484,20 +159498,6 @@
                     "ochange": -14,
                     "time": 455654,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781981776000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1797,
-                    "change": 21,
-                    "oelo": 1775,
-                    "ochange": -21,
-                    "time": 210260,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
