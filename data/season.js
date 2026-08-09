@@ -1,5 +1,5 @@
 {
-    "date": 1786279201000,
+    "date": 1786279801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96668,20 +96668,6 @@
                     "time": 399037,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781959348000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2036,
-                    "change": 26,
-                    "oelo": 2146,
-                    "ochange": -26,
-                    "time": 545069,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -181093,20 +181079,6 @@
                     "oelo": 2195,
                     "ochange": 19,
                     "time": 457752,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781959348000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2146,
-                    "change": -26,
-                    "oelo": 2036,
-                    "ochange": 26,
-                    "time": 545069,
                     "forfeited": false,
                     "decayed": false
                 }
