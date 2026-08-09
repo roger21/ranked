@@ -1,5 +1,5 @@
 {
-    "date": 1786271401000,
+    "date": 1786272001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96822,20 +96822,6 @@
                     "time": 269609,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781951510000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2030,
-                    "change": 17,
-                    "oelo": 1919,
-                    "ochange": -17,
-                    "time": 560260,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -140030,20 +140016,6 @@
                     "oelo": 2103,
                     "ochange": 14,
                     "time": 558317,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781951510000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 1919,
-                    "change": -17,
-                    "oelo": 2030,
-                    "ochange": 17,
-                    "time": 560260,
                     "forfeited": false,
                     "decayed": false
                 }
