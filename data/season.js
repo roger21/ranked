@@ -1,5 +1,5 @@
 {
-    "date": 1786281001000,
+    "date": 1786281601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17765,20 +17765,6 @@
                     "ochange": -25,
                     "time": 225311,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781961563000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "pigswitch",
-                    "elo": 2002,
-                    "change": 17,
-                    "oelo": 1893,
-                    "ochange": -17,
-                    "time": 480175,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -80865,7 +80851,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2249,
                 "top": 2264,
                 "points": 52,
@@ -82498,23 +82484,37 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "nickname": "petal_go_round",
             "stats": {
-                "rank": 28,
-                "elo": 2244,
+                "rank": 27,
+                "elo": 2257,
                 "top": 2298,
                 "points": 34,
                 "pb": 395923,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 2251,
-                "playtime": 1178181718,
-                "finished": 902,
-                "finishtime": 485804186,
-                "won": 1046,
+                "matches": 2252,
+                "playtime": 1178745970,
+                "finished": 903,
+                "finishtime": 486368438,
+                "won": 1047,
                 "lost": 954,
                 "forfeited": 384
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1786281617000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "1_viewer",
+                    "elo": 2257,
+                    "change": 13,
+                    "oelo": 2034,
+                    "ochange": -13,
+                    "time": 564252,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786218236000,
                     "type": "VILLAGE",
@@ -180996,20 +180996,6 @@
                     "ochange": 25,
                     "time": 225311,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781961012000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "pigswitch",
-                    "elo": 2140,
-                    "change": 13,
-                    "oelo": 1910,
-                    "ochange": -13,
-                    "time": 519671,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
