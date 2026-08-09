@@ -1,5 +1,5 @@
 {
-    "date": 1786274401000,
+    "date": 1786275001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96752,20 +96752,6 @@
                     "time": 646891,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781954707000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 2040,
-                    "change": -25,
-                    "oelo": 1962,
-                    "ochange": 25,
-                    "time": 564617,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -139905,20 +139891,6 @@
                     "ochange": 2,
                     "time": 605422,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781954707000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1962,
-                    "change": 25,
-                    "oelo": 2040,
-                    "ochange": -25,
-                    "time": 564617,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
