@@ -1,5 +1,5 @@
 {
-    "date": 1786293601000,
+    "date": 1786294201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24777,7 +24777,7 @@
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "nickname": "steez",
             "stats": {
-                "rank": 11,
+                "rank": 12,
                 "elo": 2328,
                 "top": 2387,
                 "points": 123,
@@ -27908,7 +27908,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 2327,
                 "top": 2439,
                 "points": 130,
@@ -34497,23 +34497,37 @@
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "nickname": "NoHacsJustRoblox",
             "stats": {
-                "rank": 13,
-                "elo": 2324,
+                "rank": 11,
+                "elo": 2343,
                 "top": 2405,
                 "points": 87,
                 "pb": 389640,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 308,
-                "playtime": 168598776,
-                "finished": 151,
-                "finishtime": 84605912,
-                "won": 172,
+                "matches": 309,
+                "playtime": 169078562,
+                "finished": 152,
+                "finishtime": 85085698,
+                "won": 173,
                 "lost": 118,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1786294221000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 2343,
+                    "change": 19,
+                    "oelo": 2267,
+                    "ochange": -19,
+                    "time": 479786,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786292281000,
                     "type": "VILLAGE",
@@ -53427,23 +53441,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 21,
-                "elo": 2286,
+                "rank": 24,
+                "elo": 2267,
                 "top": 2392,
                 "points": 58,
                 "pb": 395866,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 852,
-                "playtime": 468671693,
+                "matches": 853,
+                "playtime": 469151479,
                 "finished": 429,
                 "finishtime": 249280202,
                 "won": 484,
-                "lost": 361,
+                "lost": 362,
                 "forfeited": 79
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1786294221000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "NoHacsJustRoblox",
+                    "elo": 2267,
+                    "change": -19,
+                    "oelo": 2343,
+                    "ochange": 19,
+                    "time": 479786,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786293552000,
                     "type": "VILLAGE",
@@ -60114,7 +60142,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 22,
+                "rank": 21,
                 "elo": 2279,
                 "top": 2371,
                 "points": 90,
@@ -68523,7 +68551,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 23,
+                "rank": 22,
                 "elo": 2272,
                 "top": 2428,
                 "points": 49,
@@ -72830,7 +72858,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 2269,
                 "top": 2281,
                 "points": 36,
