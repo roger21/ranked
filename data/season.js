@@ -1,5 +1,5 @@
 {
-    "date": 1786278601000,
+    "date": 1786279201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96682,20 +96682,6 @@
                     "time": 545069,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781958720000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 2010,
-                    "change": -22,
-                    "oelo": 1995,
-                    "ochange": 22,
-                    "time": 212709,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -139765,20 +139751,6 @@
                     "ochange": -12,
                     "time": 612724,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781958720000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1995,
-                    "change": 22,
-                    "oelo": 2010,
-                    "ochange": -22,
-                    "time": 212709,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
