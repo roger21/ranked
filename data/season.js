@@ -1,5 +1,5 @@
 {
-    "date": 1786275601000,
+    "date": 1786276201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -139849,20 +139849,6 @@
                     "ochange": -1,
                     "time": 551039,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781956124000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Bartorino",
-                    "elo": 1973,
-                    "change": 13,
-                    "oelo": 1739,
-                    "ochange": -13,
-                    "time": 581803,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
