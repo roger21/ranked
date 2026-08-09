@@ -1,5 +1,5 @@
 {
-    "date": 1786272001000,
+    "date": 1786272601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -41389,34 +41389,6 @@
                     "oelo": 2105,
                     "ochange": -22,
                     "time": 573177,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781952523000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2080,
-                    "change": -23,
-                    "oelo": 2053,
-                    "ochange": 23,
-                    "time": 269609,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781952156000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2103,
-                    "change": 14,
-                    "oelo": 1905,
-                    "ochange": -14,
-                    "time": 558317,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -96808,20 +96780,6 @@
                     "time": 553275,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781952523000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2053,
-                    "change": 23,
-                    "oelo": 2080,
-                    "ochange": -23,
-                    "time": 269609,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -140003,20 +139961,6 @@
                     "ochange": -16,
                     "time": 813796,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781952156000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "sylvie0616",
-                    "elo": 1905,
-                    "change": -14,
-                    "oelo": 2103,
-                    "ochange": 14,
-                    "time": 558317,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
