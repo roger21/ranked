@@ -1,5 +1,5 @@
 {
-    "date": 1786269001000,
+    "date": 1786269601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -41419,20 +41419,6 @@
                     "time": 558317,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781949294000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2089,
-                    "change": -24,
-                    "oelo": 2013,
-                    "ochange": 24,
-                    "time": 222072,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -79211,20 +79197,6 @@
                     "time": 210379,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781949004000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2093,
-                    "change": -25,
-                    "oelo": 1989,
-                    "ochange": 25,
-                    "time": 291255,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -96863,34 +96835,6 @@
                     "ochange": -17,
                     "time": 560260,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1781949294000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2013,
-                    "change": 24,
-                    "oelo": 2089,
-                    "ochange": -24,
-                    "time": 222072,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781949004000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 1989,
-                    "change": 25,
-                    "oelo": 2093,
-                    "ochange": -25,
-                    "time": 291255,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
