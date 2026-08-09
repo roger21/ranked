@@ -1,5 +1,5 @@
 {
-    "date": 1786276801000,
+    "date": 1786277401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -96724,20 +96724,6 @@
                     "time": 273205,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1781957190000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "yeopgihoney",
-                    "elo": 2051,
-                    "change": -1,
-                    "oelo": 1974,
-                    "ochange": 1,
-                    "time": 551039,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -139848,20 +139834,6 @@
                     "oelo": 1774,
                     "ochange": -13,
                     "time": 293454,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781957190000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "petal_go_round",
-                    "elo": 1974,
-                    "change": 1,
-                    "oelo": 2051,
-                    "ochange": -1,
-                    "time": 551039,
                     "forfeited": true,
                     "decayed": false
                 }
