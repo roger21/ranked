@@ -1,5 +1,5 @@
 {
-    "date": 1786233601000,
+    "date": 1786234201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -79747,20 +79747,6 @@
                     "ochange": 0,
                     "time": 734954,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781914004000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2118,
-                    "change": 17,
-                    "oelo": 1995,
-                    "ochange": -17,
-                    "time": 702822,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -181564,23 +181550,37 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 50,
-                "elo": 2137,
+                "rank": 54,
+                "elo": 2115,
                 "top": 2199,
                 "points": 8,
                 "pb": 401869,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 2088,
-                "playtime": 1076338703,
+                "matches": 2089,
+                "playtime": 1076552909,
                 "finished": 835,
                 "finishtime": 506841750,
                 "won": 1021,
-                "lost": 976,
-                "forfeited": 519
+                "lost": 977,
+                "forfeited": 520
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1786234242000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "subdas",
+                    "elo": 2115,
+                    "change": -22,
+                    "oelo": 2094,
+                    "ochange": 22,
+                    "time": 214206,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1785973939000,
                     "type": "RUINED_PORTAL",
