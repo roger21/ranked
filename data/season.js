@@ -1,5 +1,5 @@
 {
-    "date": 1786314001000,
+    "date": 1786314602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21927,7 +21927,7 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 10,
-                "elo": 2366,
+                "elo": 2361,
                 "top": 2411,
                 "points": 100,
                 "pb": 412328,
@@ -21943,6 +21943,20 @@
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1786314231000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2361,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1786227830000,
                     "type": null,
