@@ -1,5 +1,5 @@
 {
-    "date": 1786247401000,
+    "date": 1786248001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -179410,20 +179410,6 @@
                     "ochange": -14,
                     "time": 252365,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1781927520000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "zorn89",
-                    "elo": 1991,
-                    "change": 14,
-                    "oelo": 1802,
-                    "ochange": -14,
-                    "time": 554307,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
