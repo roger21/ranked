@@ -1,5 +1,5 @@
 {
-    "date": 1786252201000,
+    "date": 1786252801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -122549,7 +122549,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2187,
                 "top": 2210,
                 "points": 13,
@@ -123678,7 +123678,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 2180,
                 "top": 2207,
                 "points": 8,
@@ -124947,23 +124947,37 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "YoomzMonkey",
             "stats": {
-                "rank": 39,
-                "elo": 2175,
+                "rank": 37,
+                "elo": 2193,
                 "top": 2286,
                 "points": 42,
                 "pb": 394265,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
-                "matches": 1202,
-                "playtime": 717454087,
-                "finished": 525,
-                "finishtime": 324386698,
-                "won": 610,
+                "matches": 1203,
+                "playtime": 718084796,
+                "finished": 526,
+                "finishtime": 325017407,
+                "won": 611,
                 "lost": 553,
                 "forfeited": 19
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1786252816000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "JustAltoid",
+                    "elo": 2193,
+                    "change": 18,
+                    "oelo": 2094,
+                    "ochange": -18,
+                    "time": 630709,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786252063000,
                     "type": "VILLAGE",
