@@ -1,5 +1,5 @@
 {
-    "date": 1786264801000,
+    "date": 1786265401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17794,20 +17794,6 @@
                     "time": 643834,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781945340000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1972,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -41454,23 +41440,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 16,
-                "elo": 2312,
+                "rank": 21,
+                "elo": 2286,
                 "top": 2392,
                 "points": 58,
                 "pb": 395866,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 843,
-                "playtime": 463269912,
+                "matches": 844,
+                "playtime": 463947310,
                 "finished": 425,
                 "finishtime": 246964863,
                 "won": 480,
-                "lost": 356,
+                "lost": 357,
                 "forfeited": 78
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1786265415000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "karatebaby_",
+                    "elo": 2286,
+                    "change": -26,
+                    "oelo": 2181,
+                    "ochange": 26,
+                    "time": 677398,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786264594000,
                     "type": "BURIED_TREASURE",
@@ -48064,20 +48064,6 @@
                     "time": 547365,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1781944955000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dinonuggieboi",
-                    "elo": 2103,
-                    "change": 18,
-                    "oelo": 2001,
-                    "ochange": -18,
-                    "time": 568507,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -48085,7 +48071,7 @@
             "uuid": "2fe70934e7be458dba747c4ac830391c",
             "nickname": "nhb_",
             "stats": {
-                "rank": 17,
+                "rank": 16,
                 "elo": 2309,
                 "top": 2408,
                 "points": 120,
@@ -50880,7 +50866,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "mintchloe",
             "stats": {
-                "rank": 17,
+                "rank": 16,
                 "elo": 2309,
                 "top": 2331,
                 "points": 0,
@@ -52429,7 +52415,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 19,
+                "rank": 18,
                 "elo": 2301,
                 "top": 2316,
                 "points": 96,
@@ -53334,7 +53320,7 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 20,
+                "rank": 19,
                 "elo": 2300,
                 "top": 2300,
                 "points": 0,
@@ -55863,7 +55849,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 21,
+                "rank": 20,
                 "elo": 2294,
                 "top": 2374,
                 "points": 74,
@@ -141252,7 +141238,7 @@
             "uuid": "c0ee21f8d5904827b57349507ae2721b",
             "nickname": "hsbi",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 2180,
                 "top": 2207,
                 "points": 8,
@@ -142521,7 +142507,7 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 2173,
                 "top": 2208,
                 "points": 24,
@@ -146464,7 +146450,7 @@
             "uuid": "d1718c79c34e4bce93cd688ac5254b58",
             "nickname": "cornflakesmcsr",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2165,
                 "top": 2170,
                 "points": 19,
@@ -148615,7 +148601,7 @@
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "nickname": "cvctus",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2163,
                 "top": 2215,
                 "points": 11,
@@ -154602,7 +154588,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2158,
                 "top": 2403,
                 "points": 8,
@@ -163277,23 +163263,37 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 45,
-                "elo": 2155,
+                "rank": 40,
+                "elo": 2181,
                 "top": 2189,
                 "points": 37,
                 "pb": 381009,
-                "current": 3,
+                "current": 4,
                 "streak": 11,
-                "matches": 404,
-                "playtime": 238069505,
-                "finished": 194,
-                "finishtime": 119599752,
-                "won": 225,
+                "matches": 405,
+                "playtime": 238746903,
+                "finished": 195,
+                "finishtime": 120277150,
+                "won": 226,
                 "lost": 168,
                 "forfeited": 26
             },
             "country": "vn",
             "matches": [
+                {
+                    "date": 1786265415000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 2181,
+                    "change": 26,
+                    "oelo": 2286,
+                    "ochange": -26,
+                    "time": 677398,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786264528000,
                     "type": "DESERT_TEMPLE",
@@ -173926,20 +173926,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1821,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1781944860000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1826,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
