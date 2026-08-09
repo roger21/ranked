@@ -1,5 +1,5 @@
 {
-    "date": 1786313402000,
+    "date": 1786314001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6044,14 +6044,14 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 3,
-                "elo": 2490,
+                "elo": 2488,
                 "top": 2569,
                 "points": 129,
                 "pb": 378514,
                 "current": 2,
                 "streak": 16,
-                "matches": 329,
-                "playtime": 179390534,
+                "matches": 330,
+                "playtime": 180119308,
                 "finished": 200,
                 "finishtime": 108756003,
                 "won": 219,
@@ -6060,6 +6060,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1786313792000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "v_strid",
+                    "elo": 2488,
+                    "change": -2,
+                    "oelo": 2305,
+                    "ochange": 2,
+                    "time": 728774,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1786313012000,
                     "type": "RUINED_PORTAL",
@@ -42248,14 +42262,14 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 17,
-                "elo": 2303,
+                "elo": 2305,
                 "top": 2439,
                 "points": 130,
                 "pb": 388467,
                 "current": 0,
                 "streak": 12,
-                "matches": 1104,
-                "playtime": 631125706,
+                "matches": 1105,
+                "playtime": 631854480,
                 "finished": 528,
                 "finishtime": 314201731,
                 "won": 607,
@@ -42264,6 +42278,20 @@
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1786313792000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "lowk3y_",
+                    "elo": 2305,
+                    "change": 2,
+                    "oelo": 2488,
+                    "ochange": -2,
+                    "time": 728774,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1786312746000,
                     "type": "BURIED_TREASURE",
@@ -171159,20 +171187,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2078,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1781993522000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2083,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
