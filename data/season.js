@@ -1,5 +1,5 @@
 {
-    "date": 1786354801000,
+    "date": 1786355401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64726,20 +64726,6 @@
                     "ochange": 22,
                     "time": 464869,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782035104000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2125,
-                    "change": 21,
-                    "oelo": 2100,
-                    "ochange": -21,
-                    "time": 605930,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -164957,23 +164943,37 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 45,
-                "elo": 2160,
+                "rank": 51,
+                "elo": 2134,
                 "top": 2189,
                 "points": 37,
                 "pb": 381009,
                 "current": 0,
                 "streak": 11,
-                "matches": 411,
-                "playtime": 242501699,
+                "matches": 412,
+                "playtime": 243159312,
                 "finished": 197,
                 "finishtime": 121657849,
                 "won": 228,
-                "lost": 171,
+                "lost": 172,
                 "forfeited": 26
             },
             "country": "vn",
             "matches": [
+                {
+                    "date": 1786355469000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "staremc",
+                    "elo": 2134,
+                    "change": -26,
+                    "oelo": 2002,
+                    "ochange": 26,
+                    "time": 657613,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786354585000,
                     "type": "RUINED_PORTAL",
@@ -169931,7 +169931,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2158,
                 "top": 2403,
                 "points": 8,
@@ -178410,7 +178410,7 @@
             "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
             "nickname": "sevensix_",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2154,
                 "top": 2179,
                 "points": 9,
@@ -181373,7 +181373,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2146,
                 "top": 2162,
                 "points": 10,
@@ -186072,7 +186072,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2141,
                 "top": 2196,
                 "points": 35,
