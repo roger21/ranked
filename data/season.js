@@ -1,5 +1,5 @@
 {
-    "date": 1786336201000,
+    "date": 1786336801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -87202,7 +87202,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2249,
                 "top": 2264,
                 "points": 52,
@@ -88835,7 +88835,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2241,
                 "top": 2311,
                 "points": 27,
@@ -97048,7 +97048,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2240,
                 "top": 2265,
                 "points": 56,
@@ -100179,23 +100179,37 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 31,
-                "elo": 2238,
+                "rank": 28,
+                "elo": 2251,
                 "top": 2373,
                 "points": 120,
                 "pb": 394680,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 683,
-                "playtime": 372997733,
-                "finished": 345,
-                "finishtime": 192773646,
-                "won": 384,
+                "matches": 684,
+                "playtime": 373548398,
+                "finished": 346,
+                "finishtime": 193324311,
+                "won": 385,
                 "lost": 286,
                 "forfeited": 30
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1786336827000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Magmania",
+                    "elo": 2251,
+                    "change": 13,
+                    "oelo": 2031,
+                    "ochange": -13,
+                    "time": 550665,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786335600000,
                     "type": "DESERT_TEMPLE",
