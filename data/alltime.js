@@ -4596,13 +4596,13 @@
         },
         "pb": 456658,
         "streak": 8,
-        "matches": 2688,
-        "playtime": 1580201103,
+        "matches": 2689,
+        "playtime": 1580530747,
         "finished": 825,
         "finishtime": 619416169,
         "won": 1297,
-        "lost": 1147,
-        "forfeited": 659
+        "lost": 1148,
+        "forfeited": 660
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
         "nickname": "teddiursa1234",
