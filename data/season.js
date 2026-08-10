@@ -1,5 +1,5 @@
 {
-    "date": 1786353001000,
+    "date": 1786353601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -150659,23 +150659,37 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 43,
-                "elo": 2178,
+                "rank": 45,
+                "elo": 2163,
                 "top": 2189,
                 "points": 37,
                 "pb": 381009,
-                "current": 1,
+                "current": 0,
                 "streak": 11,
-                "matches": 409,
-                "playtime": 241349933,
+                "matches": 410,
+                "playtime": 241906467,
                 "finished": 197,
                 "finishtime": 121657849,
                 "won": 228,
-                "lost": 170,
+                "lost": 171,
                 "forfeited": 26
             },
             "country": "vn",
             "matches": [
+                {
+                    "date": 1786353667000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 2163,
+                    "change": -15,
+                    "oelo": 2333,
+                    "ochange": 15,
+                    "time": 556534,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786352840000,
                     "type": "VILLAGE",
@@ -153440,7 +153454,7 @@
             "uuid": "ae0bcaf8f34f4c419358c0f0c638cc9a",
             "nickname": "fe666",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2170,
                 "top": 2191,
                 "points": 4,
@@ -155689,7 +155703,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2165,
                 "top": 2351,
                 "points": 18,
