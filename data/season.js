@@ -1,5 +1,5 @@
 {
-    "date": 1786320001000,
+    "date": 1786320601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -120510,7 +120510,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2206,
                 "top": 2206,
                 "points": 15,
@@ -124943,7 +124943,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2200,
                 "top": 2324,
                 "points": 95,
@@ -128760,7 +128760,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "YoomzMonkey",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2200,
                 "top": 2286,
                 "points": 42,
@@ -136301,7 +136301,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2200,
                 "top": 2228,
                 "points": 23,
@@ -137486,23 +137486,37 @@
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "nickname": "staremc",
             "stats": {
-                "rank": 40,
-                "elo": 2197,
-                "top": 2208,
+                "rank": 35,
+                "elo": 2209,
+                "top": 2209,
                 "points": 24,
                 "pb": 433646,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 650,
-                "playtime": 390466747,
+                "matches": 651,
+                "playtime": 390769014,
                 "finished": 300,
                 "finishtime": 187985628,
-                "won": 350,
+                "won": 351,
                 "lost": 283,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1786320637000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "petal_go_round",
+                    "elo": 2209,
+                    "change": 12,
+                    "oelo": 1949,
+                    "ochange": -12,
+                    "time": 302267,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1786318802000,
                     "type": "SHIPWRECK",
