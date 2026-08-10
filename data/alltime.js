@@ -916,13 +916,13 @@
         },
         "pb": 388207,
         "streak": 12,
-        "matches": 4464,
-        "playtime": 2651345860,
+        "matches": 4465,
+        "playtime": 2651738664,
         "finished": 2169,
         "finishtime": 1327029529,
         "won": 2517,
-        "lost": 1836,
-        "forfeited": 119
+        "lost": 1837,
+        "forfeited": 120
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
         "nickname": "temp_gd",
