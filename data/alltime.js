@@ -108,6 +108,41 @@
         "lost": 1258,
         "forfeited": 284
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "SocratesDisciple",
+        "country": null,
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2064,
+            "9": 2334,
+            "10": 2339,
+            "11": 2196
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 28,
+            "9": 77,
+            "10": 27,
+            "11": 35
+        },
+        "pb": 379698,
+        "streak": 16,
+        "matches": 4138,
+        "playtime": 2299293160,
+        "finished": 1635,
+        "finishtime": 1042327199,
+        "won": 2085,
+        "lost": 1905,
+        "forfeited": 772
+    },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "subdas",
         "country": "br",
@@ -5777,13 +5812,13 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 10094,
-        "playtime": 6406456745,
+        "matches": 10095,
+        "playtime": 6406781400,
         "finished": 3603,
         "finishtime": 2543546100,
         "won": 5029,
-        "lost": 4641,
-        "forfeited": 1199
+        "lost": 4642,
+        "forfeited": 1200
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "hack_page",
