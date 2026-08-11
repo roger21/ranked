@@ -1,5 +1,5 @@
 {
-    "date": 1786468801000,
+    "date": 1786469401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81022,20 +81022,6 @@
                     "time": 535979,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782148995000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "darkk575",
-                    "elo": 2050,
-                    "change": -24,
-                    "oelo": 1973,
-                    "ochange": 24,
-                    "time": 546536,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -89579,20 +89565,6 @@
                     "ochange": 25,
                     "time": 535979,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782148953000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2188,
-                    "change": 15,
-                    "oelo": 2025,
-                    "ochange": -15,
-                    "time": 307688,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -122370,20 +122342,6 @@
                     "time": 408802,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782148953000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 2025,
-                    "change": -15,
-                    "oelo": 2188,
-                    "ochange": 15,
-                    "time": 307688,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -130902,23 +130860,37 @@
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "nickname": "cvctus",
             "stats": {
-                "rank": 38,
-                "elo": 2194,
+                "rank": 40,
+                "elo": 2171,
                 "top": 2215,
                 "points": 11,
                 "pb": 399951,
-                "current": 3,
+                "current": 0,
                 "streak": 8,
-                "matches": 810,
-                "playtime": 500614134,
+                "matches": 811,
+                "playtime": 501127858,
                 "finished": 360,
                 "finishtime": 232324952,
                 "won": 427,
-                "lost": 360,
+                "lost": 361,
                 "forfeited": 27
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1786469406000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "gharfyy",
+                    "elo": 2171,
+                    "change": -23,
+                    "oelo": 2131,
+                    "ochange": 23,
+                    "time": 513724,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786468548000,
                     "type": "RUINED_PORTAL",
@@ -137225,7 +137197,7 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2190,
                 "top": 2324,
                 "points": 95,
@@ -141070,7 +141042,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2187,
                 "top": 2210,
                 "points": 13,
