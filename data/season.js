@@ -1,27 +1,41 @@
 {
-    "date": 1786471801000,
+    "date": 1786472401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2654,
+                "elo": 2660,
                 "top": 2718,
                 "points": 210,
                 "pb": 353371,
-                "current": 0,
+                "current": 1,
                 "streak": 17,
-                "matches": 456,
-                "playtime": 242565262,
-                "finished": 327,
-                "finishtime": 176624389,
-                "won": 358,
+                "matches": 457,
+                "playtime": 243010272,
+                "finished": 328,
+                "finishtime": 177069399,
+                "won": 359,
                 "lost": 94,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1786472293000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "cvctus",
+                    "elo": 2660,
+                    "change": 6,
+                    "oelo": 2128,
+                    "ochange": -6,
+                    "time": 445010,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786471371000,
                     "type": "SHIPWRECK",
@@ -2763,20 +2777,6 @@
                     "oelo": 2164,
                     "ochange": 32,
                     "time": 490144,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782152360000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 2538,
-                    "change": 10,
-                    "oelo": 2206,
-                    "ochange": -10,
-                    "time": 514517,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -19533,20 +19533,6 @@
                     "oelo": 2224,
                     "ochange": 18,
                     "time": 465663,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782152295000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "k1kuofan123",
-                    "elo": 2150,
-                    "change": 18,
-                    "oelo": 2066,
-                    "ochange": -18,
-                    "time": 605522,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -83213,20 +83199,6 @@
                     "oelo": 2132,
                     "ochange": -18,
                     "time": 465663,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782152360000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "edcr",
-                    "elo": 2206,
-                    "change": -10,
-                    "oelo": 2538,
-                    "ochange": 10,
-                    "time": 514517,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -148649,20 +148621,6 @@
                     "ochange": -21,
                     "time": 688532,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782151896000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Poomy1234",
-                    "elo": 1872,
-                    "change": -21,
-                    "oelo": 1896,
-                    "ochange": 21,
-                    "time": 328289,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
