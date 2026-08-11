@@ -1,5 +1,5 @@
 {
-    "date": 1786464001000,
+    "date": 1786464601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17120,23 +17120,37 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 8,
-                "elo": 2389,
+                "rank": 11,
+                "elo": 2368,
                 "top": 2396,
                 "points": 58,
                 "pb": 395829,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 778,
-                "playtime": 435375064,
+                "matches": 779,
+                "playtime": 435948317,
                 "finished": 365,
                 "finishtime": 212122315,
                 "won": 416,
-                "lost": 332,
+                "lost": 333,
                 "forfeited": 28
             },
             "country": "je",
             "matches": [
+                {
+                    "date": 1786464608000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 2368,
+                    "change": -21,
+                    "oelo": 2369,
+                    "ochange": 21,
+                    "time": 573253,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786463984000,
                     "type": "RUINED_PORTAL",
@@ -20909,7 +20923,7 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 9,
+                "rank": 8,
                 "elo": 2378,
                 "top": 2405,
                 "points": 0,
@@ -23732,7 +23746,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 10,
+                "rank": 9,
                 "elo": 2373,
                 "top": 2428,
                 "points": 49,
@@ -27927,7 +27941,7 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "nickname": "BadGamer",
             "stats": {
-                "rank": 11,
+                "rank": 12,
                 "elo": 2367,
                 "top": 2432,
                 "points": 74,
@@ -32430,7 +32444,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 2356,
                 "top": 2411,
                 "points": 100,
@@ -35519,23 +35533,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 13,
-                "elo": 2348,
+                "rank": 10,
+                "elo": 2369,
                 "top": 2439,
                 "points": 130,
                 "pb": 388467,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
-                "matches": 1170,
-                "playtime": 668816206,
-                "finished": 560,
-                "finishtime": 333581787,
-                "won": 642,
+                "matches": 1171,
+                "playtime": 669389459,
+                "finished": 561,
+                "finishtime": 334155040,
+                "won": 643,
                 "lost": 507,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1786464608000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "DARVY__X1",
+                    "elo": 2369,
+                    "change": 21,
+                    "oelo": 2368,
+                    "ochange": -21,
+                    "time": 573253,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786463946000,
                     "type": "SHIPWRECK",
@@ -42953,20 +42981,6 @@
                     "oelo": 2153,
                     "ochange": -16,
                     "time": 512449,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782144273000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2272,
-                    "change": 17,
-                    "oelo": 2161,
-                    "ochange": -17,
-                    "time": 641509,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -50732,20 +50746,6 @@
                     "oelo": 2148,
                     "ochange": -20,
                     "time": 528536,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782144273000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 2161,
-                    "change": -17,
-                    "oelo": 2272,
-                    "ochange": 17,
-                    "time": 641509,
                     "forfeited": false,
                     "decayed": false
                 }
