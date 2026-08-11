@@ -4915,12 +4915,12 @@
         },
         "pb": 410586,
         "streak": 14,
-        "matches": 9052,
-        "playtime": 5592767153,
+        "matches": 9053,
+        "playtime": 5593364359,
         "finished": 3010,
         "finishtime": 2164661926,
         "won": 4406,
-        "lost": 4218,
+        "lost": 4219,
         "forfeited": 1371
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
@@ -5816,13 +5816,13 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 10148,
-        "playtime": 6439918389,
+        "matches": 10149,
+        "playtime": 6440606287,
         "finished": 3624,
         "finishtime": 2556895484,
         "won": 5054,
-        "lost": 4666,
-        "forfeited": 1201
+        "lost": 4667,
+        "forfeited": 1202
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "nickname": "hack_page",

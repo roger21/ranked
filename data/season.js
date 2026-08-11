@@ -1,5 +1,5 @@
 {
-    "date": 1786453201000,
+    "date": 1786453801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -82819,20 +82819,6 @@
                     "time": 526102,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782133453000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1950,
-                    "change": 17,
-                    "oelo": 1826,
-                    "ochange": -17,
-                    "time": 622867,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100335,20 +100321,6 @@
                     "ochange": -14,
                     "time": 393849,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782133784000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "koala488",
-                    "elo": 1920,
-                    "change": -26,
-                    "oelo": 1797,
-                    "ochange": 26,
-                    "time": 670884,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -142927,23 +142899,37 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 41,
-                "elo": 2174,
+                "rank": 43,
+                "elo": 2159,
                 "top": 2177,
                 "points": 10,
                 "pb": 410586,
-                "current": 3,
+                "current": 0,
                 "streak": 14,
-                "matches": 993,
-                "playtime": 578689283,
+                "matches": 994,
+                "playtime": 579286489,
                 "finished": 442,
                 "finishtime": 276696189,
                 "won": 504,
-                "lost": 455,
+                "lost": 456,
                 "forfeited": 73
             },
             "country": "mf",
             "matches": [
+                {
+                    "date": 1786453955000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 2159,
+                    "change": -15,
+                    "oelo": 2328,
+                    "ochange": 15,
+                    "time": 597206,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786452656000,
                     "type": "SHIPWRECK",
@@ -147724,7 +147710,7 @@
             "uuid": "ae0bcaf8f34f4c419358c0f0c638cc9a",
             "nickname": "fe666",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2170,
                 "top": 2191,
                 "points": 4,
@@ -149959,7 +149945,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2161,
                 "top": 2314,
                 "points": 62,
@@ -165428,20 +165414,6 @@
                     "oelo": 1725,
                     "ochange": -12,
                     "time": 618552,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782133641000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "LEC666888",
-                    "elo": 1987,
-                    "change": 17,
-                    "oelo": 1866,
-                    "ochange": -17,
-                    "time": 625907,
                     "forfeited": false,
                     "decayed": false
                 }
