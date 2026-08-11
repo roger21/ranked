@@ -1,5 +1,5 @@
 {
-    "date": 1786446001000,
+    "date": 1786446601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43513,20 +43513,6 @@
                     "oelo": 2151,
                     "ochange": -24,
                     "time": 554657,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782126007000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 2050,
-                    "change": -28,
-                    "oelo": 1887,
-                    "ochange": 28,
-                    "time": 662302,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -103106,7 +103092,7 @@
             "nickname": "paukll",
             "stats": {
                 "rank": 31,
-                "elo": 2252,
+                "elo": 2247,
                 "top": 2252,
                 "points": 29,
                 "pb": 416159,
@@ -103122,6 +103108,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1786446293000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2247,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1786316029000,
                     "type": "SHIPWRECK",
