@@ -1,5 +1,5 @@
 {
-    "date": 1786449001000,
+    "date": 1786449601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -122655,20 +122655,6 @@
                     "time": 616702,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782129084000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "LEC666888",
-                    "elo": 2163,
-                    "change": 12,
-                    "oelo": 1897,
-                    "ochange": -12,
-                    "time": 588188,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -131883,7 +131869,7 @@
             "nickname": "silverrruns",
             "stats": {
                 "rank": 38,
-                "elo": 2195,
+                "elo": 2190,
                 "top": 2324,
                 "points": 95,
                 "pb": 388234,
@@ -131899,6 +131885,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1786449173000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2190,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1786362771000,
                     "type": null,
