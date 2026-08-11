@@ -485,8 +485,8 @@
         "forfeited": 498
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
-        "nickname": "MrBudgiee",
-        "country": "ca",
+        "nickname": null,
+        "country": null,
         "top": {
             "2": 1805,
             "3": 1904,
@@ -497,7 +497,7 @@
             "8": 2185,
             "9": 2490,
             "10": 2292,
-            "11": 1990
+            "11": 0
         },
         "points": {
             "2": 0,
@@ -509,17 +509,17 @@
             "8": 43,
             "9": 120,
             "10": 39,
-            "11": 11
+            "11": 0
         },
-        "pb": 400846,
-        "streak": 14,
-        "matches": 5362,
-        "playtime": 3184953394,
-        "finished": 2398,
-        "finishtime": 1545872574,
-        "won": 2879,
-        "lost": 2349,
-        "forfeited": 562
+        "pb": null,
+        "streak": null,
+        "matches": null,
+        "playtime": null,
+        "finished": null,
+        "finishtime": null,
+        "won": null,
+        "lost": null,
+        "forfeited": null
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
         "nickname": "xLourx",
@@ -3480,11 +3480,11 @@
         },
         "pb": 444127,
         "streak": 10,
-        "matches": 5309,
-        "playtime": 3540798085,
-        "finished": 1622,
-        "finishtime": 1292278136,
-        "won": 2603,
+        "matches": 5310,
+        "playtime": 3541485651,
+        "finished": 1623,
+        "finishtime": 1292965702,
+        "won": 2604,
         "lost": 2447,
         "forfeited": 777
     },
@@ -5816,11 +5816,11 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 10140,
-        "playtime": 6434513670,
-        "finished": 3621,
-        "finishtime": 2555127275,
-        "won": 5050,
+        "matches": 10141,
+        "playtime": 6435202984,
+        "finished": 3622,
+        "finishtime": 2555816589,
+        "won": 5051,
         "lost": 4663,
         "forfeited": 1201
     },
