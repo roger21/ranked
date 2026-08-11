@@ -1,5 +1,5 @@
 {
-    "date": 1786481401000,
+    "date": 1786482001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -53795,20 +53795,6 @@
                     "time": 681364,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782161748000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 2096,
-                    "change": 16,
-                    "oelo": 1954,
-                    "ochange": -16,
-                    "time": 504869,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -78941,20 +78927,6 @@
                     "time": 571732,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782161841000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Voxio",
-                    "elo": 2028,
-                    "change": -25,
-                    "oelo": 1928,
-                    "ochange": 25,
-                    "time": 635752,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -101985,7 +101957,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2243,
                 "top": 2264,
                 "points": 52,
@@ -103758,7 +103730,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2236,
                 "top": 2363,
                 "points": 21,
@@ -118397,7 +118369,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2236,
                 "top": 2265,
                 "points": 56,
@@ -121416,7 +121388,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "mintchloe",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2234,
                 "top": 2331,
                 "points": 0,
@@ -123049,7 +123021,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2231,
                 "top": 2231,
                 "points": 21,
@@ -124570,23 +124542,37 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 36,
-                "elo": 2229,
+                "rank": 31,
+                "elo": 2244,
                 "top": 2310,
                 "points": 36,
                 "pb": 391139,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 679,
-                "playtime": 372066058,
+                "matches": 680,
+                "playtime": 372363599,
                 "finished": 291,
                 "finishtime": 171151621,
-                "won": 348,
+                "won": 349,
                 "lost": 301,
                 "forfeited": 81
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1786482007000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "poopiefart13",
+                    "elo": 2244,
+                    "change": 15,
+                    "oelo": 2083,
+                    "ochange": -15,
+                    "time": 297541,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1786481435000,
                     "type": "VILLAGE",
