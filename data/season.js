@@ -1,27 +1,41 @@
 {
-    "date": 1786480801000,
+    "date": 1786481401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
                 "rank": 1,
-                "elo": 2655,
+                "elo": 2662,
                 "top": 2718,
                 "points": 210,
                 "pb": 353371,
-                "current": 3,
+                "current": 4,
                 "streak": 17,
-                "matches": 461,
-                "playtime": 245059838,
-                "finished": 331,
-                "finishtime": 178562371,
-                "won": 362,
+                "matches": 462,
+                "playtime": 245428823,
+                "finished": 332,
+                "finishtime": 178931356,
+                "won": 363,
                 "lost": 95,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1786480998000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "nonsochiamaa",
+                    "elo": 2662,
+                    "change": 7,
+                    "oelo": 2216,
+                    "ochange": -7,
+                    "time": 368985,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786479379000,
                     "type": "RUINED_PORTAL",
@@ -53795,20 +53809,6 @@
                     "time": 504869,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782161083000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BeefSalad",
-                    "elo": 2080,
-                    "change": 20,
-                    "oelo": 2053,
-                    "ochange": -20,
-                    "time": 455401,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -78953,20 +78953,6 @@
                     "oelo": 1928,
                     "ochange": 25,
                     "time": 635752,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782161083000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "steez",
-                    "elo": 2053,
-                    "change": -20,
-                    "oelo": 2080,
-                    "ochange": 20,
-                    "time": 455401,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -124585,22 +124571,50 @@
             "nickname": "nonsochiamaa",
             "stats": {
                 "rank": 36,
-                "elo": 2223,
+                "elo": 2229,
                 "top": 2310,
                 "points": 36,
                 "pb": 391139,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 677,
-                "playtime": 371428839,
+                "matches": 679,
+                "playtime": 372066058,
                 "finished": 291,
                 "finishtime": 171151621,
-                "won": 347,
-                "lost": 300,
+                "won": 348,
+                "lost": 301,
                 "forfeited": 81
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1786481435000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "_KrakerS",
+                    "elo": 2229,
+                    "change": 13,
+                    "oelo": 2014,
+                    "ochange": -13,
+                    "time": 268234,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1786480998000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "edcr",
+                    "elo": 2216,
+                    "change": -7,
+                    "oelo": 2662,
+                    "ochange": 7,
+                    "time": 368985,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786480526000,
                     "type": "VILLAGE",
