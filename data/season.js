@@ -1,5 +1,5 @@
 {
-    "date": 1786455601000,
+    "date": 1786456201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43459,20 +43459,6 @@
                     "time": 500897,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782136105000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 2114,
-                    "change": -26,
-                    "oelo": 2003,
-                    "ochange": 26,
-                    "time": 734492,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82803,20 +82789,6 @@
                     "oelo": 1770,
                     "ochange": -12,
                     "time": 490814,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782136105000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2003,
-                    "change": 26,
-                    "oelo": 2114,
-                    "ochange": -26,
-                    "time": 734492,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -174000,7 +173972,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2136,
                 "top": 2196,
                 "points": 35,
@@ -176837,7 +176809,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2134,
                 "top": 2189,
                 "points": 37,
@@ -179618,7 +179590,7 @@
             "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
             "nickname": "Birdeyyy",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2132,
                 "top": 2202,
                 "points": 23,
