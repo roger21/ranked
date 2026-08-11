@@ -1,5 +1,5 @@
 {
-    "date": 1786487401000,
+    "date": 1786488001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -34320,20 +34320,6 @@
                     "oelo": 1872,
                     "ochange": 24,
                     "time": 601072,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782167628000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 1953,
-                    "change": 26,
-                    "oelo": 2069,
-                    "ochange": -26,
-                    "time": 616905,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -148536,34 +148522,6 @@
                     "oelo": 1908,
                     "ochange": -21,
                     "time": 604316,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782167887000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "hack_page",
-                    "elo": 1906,
-                    "change": 20,
-                    "oelo": 1855,
-                    "ochange": -20,
-                    "time": 385354,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782167455000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Voxio",
-                    "elo": 1886,
-                    "change": 20,
-                    "oelo": 1845,
-                    "ochange": -20,
-                    "time": 517649,
                     "forfeited": false,
                     "decayed": false
                 }
