@@ -1,5 +1,5 @@
 {
-    "date": 1786531801000,
+    "date": 1786532401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6342,20 +6342,6 @@
                     "oelo": 2159,
                     "ochange": -18,
                     "time": 511516,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782212047000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2235,
-                    "change": 18,
-                    "oelo": 2141,
-                    "ochange": -18,
-                    "time": 480355,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -16440,20 +16426,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2224,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1782212287000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2229,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -81199,20 +81171,6 @@
                     "time": 514881,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782212047000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2141,
-                    "change": -18,
-                    "oelo": 2235,
-                    "ochange": 18,
-                    "time": 480355,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -112185,20 +112143,6 @@
                     "oelo": 1956,
                     "ochange": -19,
                     "time": 693548,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782211849000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 2002,
-                    "change": -20,
-                    "oelo": 2038,
-                    "ochange": 20,
-                    "time": 704437,
                     "forfeited": false,
                     "decayed": false
                 }
