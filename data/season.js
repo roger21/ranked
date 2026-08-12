@@ -1,5 +1,5 @@
 {
-    "date": 1786502401000,
+    "date": 1786503001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -150361,20 +150361,6 @@
                     "oelo": 1929,
                     "ochange": 23,
                     "time": 577103,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782182986000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Psemcovici",
-                    "elo": 1991,
-                    "change": 13,
-                    "oelo": 1771,
-                    "ochange": -13,
-                    "time": 560782,
                     "forfeited": false,
                     "decayed": false
                 }
