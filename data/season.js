@@ -1,5 +1,5 @@
 {
-    "date": 1786506001000,
+    "date": 1786506601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -121174,20 +121174,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1782186066000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2024,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -179567,20 +179553,6 @@
                     "oelo": 1788,
                     "ochange": -20,
                     "time": 623357,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782186003000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Kickz",
-                    "elo": 1797,
-                    "change": 17,
-                    "oelo": 1673,
-                    "ochange": -17,
-                    "time": 680194,
                     "forfeited": false,
                     "decayed": false
                 }
