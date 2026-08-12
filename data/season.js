@@ -1,5 +1,5 @@
 {
-    "date": 1786523401000,
+    "date": 1786524001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -163535,20 +163535,6 @@
                     "ochange": -15,
                     "time": 450551,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782203730000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "pandaendoz",
-                    "elo": 1978,
-                    "change": -1,
-                    "oelo": 1918,
-                    "ochange": 1,
-                    "time": 986718,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
