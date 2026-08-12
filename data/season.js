@@ -1,5 +1,5 @@
 {
-    "date": 1786546201000,
+    "date": 1786546801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58209,20 +58209,6 @@
                     "time": 668763,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782226499000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 2056,
-                    "change": 15,
-                    "oelo": 1878,
-                    "ochange": -15,
-                    "time": 633060,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -109876,22 +109862,36 @@
             "nickname": "nonsochiamaa",
             "stats": {
                 "rank": 35,
-                "elo": 2213,
+                "elo": 2226,
                 "top": 2310,
                 "points": 36,
                 "pb": 391139,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 684,
-                "playtime": 374181298,
-                "finished": 291,
-                "finishtime": 171151621,
-                "won": 350,
+                "matches": 685,
+                "playtime": 374747297,
+                "finished": 292,
+                "finishtime": 171717620,
+                "won": 351,
                 "lost": 304,
                 "forfeited": 82
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1786546302000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "skylewl",
+                    "elo": 2226,
+                    "change": 13,
+                    "oelo": 2003,
+                    "ochange": -13,
+                    "time": 565999,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786484547000,
                     "type": "BURIED_TREASURE",
@@ -115750,20 +115750,6 @@
                     "oelo": 1849,
                     "ochange": -20,
                     "time": 716634,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782226499000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 1878,
-                    "change": -15,
-                    "oelo": 2056,
-                    "ochange": 15,
-                    "time": 633060,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -174583,20 +174569,6 @@
                     "oelo": 1923,
                     "ochange": 25,
                     "time": 712365,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782226364000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Ale267",
-                    "elo": 2025,
-                    "change": 16,
-                    "oelo": 1869,
-                    "ochange": -16,
-                    "time": 606784,
                     "forfeited": false,
                     "decayed": false
                 }
