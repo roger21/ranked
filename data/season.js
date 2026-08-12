@@ -1,5 +1,5 @@
 {
-    "date": 1786534201000,
+    "date": 1786534801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6300,20 +6300,6 @@
                     "oelo": 2032,
                     "ochange": -12,
                     "time": 527461,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782214704000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "retropog",
-                    "elo": 2283,
-                    "change": 17,
-                    "oelo": 2162,
-                    "ochange": -17,
-                    "time": 503670,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81087,20 +81073,6 @@
                     "time": 535419,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782214367000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 2147,
-                    "change": 14,
-                    "oelo": 1941,
-                    "ochange": -14,
-                    "time": 575882,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92146,20 +92118,6 @@
                     "time": 642949,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782214395000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "semcomet",
-                    "elo": 1830,
-                    "change": -20,
-                    "oelo": 1872,
-                    "ochange": 20,
-                    "time": 664230,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -93889,20 +93847,6 @@
                     "oelo": 2168,
                     "ochange": 21,
                     "time": 535419,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782214704000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2162,
-                    "change": -17,
-                    "oelo": 2283,
-                    "ochange": 17,
-                    "time": 503670,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -111961,20 +111905,6 @@
                     "oelo": 2295,
                     "ochange": 12,
                     "time": 527461,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782214796000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 2044,
-                    "change": 16,
-                    "oelo": 1908,
-                    "ochange": -16,
-                    "time": 583696,
                     "forfeited": false,
                     "decayed": false
                 }
