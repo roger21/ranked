@@ -1,5 +1,5 @@
 {
-    "date": 1786561801000,
+    "date": 1786562401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -115318,20 +115318,6 @@
                     "time": 799692,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782242047000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "VampishWheat",
-                    "elo": 1901,
-                    "change": 14,
-                    "oelo": 1692,
-                    "ochange": -14,
-                    "time": 537725,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -167868,7 +167854,7 @@
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "nickname": "karatebaby_",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2134,
                 "top": 2189,
                 "points": 37,
@@ -170635,7 +170621,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2132,
                 "top": 2132,
                 "points": 11,
@@ -173038,7 +173024,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "SocratesDisciple",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2131,
                 "top": 2196,
                 "points": 35,
@@ -175740,20 +175726,6 @@
                     "oelo": 1691,
                     "ochange": -19,
                     "time": 491604,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782241845000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "gothy666",
-                    "elo": 1747,
-                    "change": 18,
-                    "oelo": 1663,
-                    "ochange": -18,
-                    "time": 599926,
                     "forfeited": false,
                     "decayed": false
                 }
