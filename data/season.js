@@ -1,5 +1,5 @@
 {
-    "date": 1786504201000,
+    "date": 1786504801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -179651,20 +179651,6 @@
                     "oelo": 1578,
                     "ochange": -14,
                     "time": 594842,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782184437000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1766,
-                    "change": -20,
-                    "oelo": 1807,
-                    "ochange": 20,
-                    "time": 585872,
                     "forfeited": false,
                     "decayed": false
                 }
