@@ -1,5 +1,5 @@
 {
-    "date": 1786555801000,
+    "date": 1786556401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -95329,20 +95329,6 @@
                     "time": 692647,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782236257000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "vorbh",
-                    "elo": 2177,
-                    "change": -21,
-                    "oelo": 2199,
-                    "ochange": 21,
-                    "time": 615213,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -99414,20 +99400,6 @@
                     "oelo": 2196,
                     "ochange": 19,
                     "time": 692647,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782236007000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "k1kuofan123",
-                    "elo": 2142,
-                    "change": -24,
-                    "oelo": 2089,
-                    "ochange": 24,
-                    "time": 524553,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -115554,20 +115526,6 @@
                     "oelo": 1830,
                     "ochange": -19,
                     "time": 667727,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782236003000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Psemcovici",
-                    "elo": 1869,
-                    "change": 18,
-                    "oelo": 1769,
-                    "ochange": -18,
-                    "time": 776239,
                     "forfeited": false,
                     "decayed": false
                 }
