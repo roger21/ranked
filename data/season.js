@@ -1,5 +1,5 @@
 {
-    "date": 1786530601000,
+    "date": 1786531201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65850,7 +65850,7 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 23,
-                "elo": 2279,
+                "elo": 2274,
                 "top": 2371,
                 "points": 90,
                 "pb": 342789,
@@ -65866,6 +65866,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1786530834000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2274,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1785882780000,
                     "type": "VILLAGE",
@@ -81212,20 +81226,6 @@
                     "ochange": 21,
                     "time": 374099,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782211087000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2180,
-                    "change": 15,
-                    "oelo": 2022,
-                    "ochange": -15,
-                    "time": 531233,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -112241,20 +112241,6 @@
                     "oelo": 2038,
                     "ochange": 20,
                     "time": 704437,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782211087000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "ulsah1n",
-                    "elo": 2022,
-                    "change": -15,
-                    "oelo": 2180,
-                    "ochange": 15,
-                    "time": 531233,
                     "forfeited": false,
                     "decayed": false
                 }
