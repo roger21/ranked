@@ -1,5 +1,5 @@
 {
-    "date": 1786565401000,
+    "date": 1786566001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21334,20 +21334,6 @@
                     "oelo": 2166,
                     "ochange": -21,
                     "time": 565438,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782245863000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Czelco",
-                    "elo": 2170,
-                    "change": -28,
-                    "oelo": 1980,
-                    "ochange": 28,
-                    "time": 590347,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -71783,20 +71769,6 @@
                     "time": 579708,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782245738000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BeefSalad",
-                    "elo": 2234,
-                    "change": -29,
-                    "oelo": 2041,
-                    "ochange": 29,
-                    "time": 610172,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -89214,20 +89186,6 @@
                     "oelo": 2002,
                     "ochange": 22,
                     "time": 790014,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782245738000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "nhb_",
-                    "elo": 2041,
-                    "change": 29,
-                    "oelo": 2234,
-                    "ochange": -29,
-                    "time": 610172,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -115134,20 +115092,6 @@
                     "oelo": 2019,
                     "ochange": -22,
                     "time": 790014,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782245863000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 1980,
-                    "change": 28,
-                    "oelo": 2170,
-                    "ochange": -28,
-                    "time": 590347,
                     "forfeited": false,
                     "decayed": false
                 }
