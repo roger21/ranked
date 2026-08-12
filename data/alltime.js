@@ -2074,13 +2074,13 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4638,
-        "playtime": 2828248723,
+        "matches": 4639,
+        "playtime": 2828549123,
         "finished": 1650,
         "finishtime": 1187041840,
         "won": 2312,
-        "lost": 2002,
-        "forfeited": 554
+        "lost": 2003,
+        "forfeited": 555
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
