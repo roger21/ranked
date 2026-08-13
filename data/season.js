@@ -1,5 +1,5 @@
 {
-    "date": 1786591801000,
+    "date": 1786592401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13150,20 +13150,6 @@
                     "oelo": 1891,
                     "ochange": 25,
                     "time": 638458,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782271889000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1997,
-                    "change": -21,
-                    "oelo": 2019,
-                    "ochange": 21,
-                    "time": 940218,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -143797,20 +143783,6 @@
                     "ochange": 18,
                     "time": 480404,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782272395000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "cofesho",
-                    "elo": 1926,
-                    "change": -1,
-                    "oelo": 1871,
-                    "ochange": 1,
-                    "time": 824567,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
