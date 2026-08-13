@@ -1,5 +1,5 @@
 {
-    "date": 1786627801000,
+    "date": 1786628401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6538,20 +6538,6 @@
                     "oelo": 2134,
                     "ochange": -16,
                     "time": 564382,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782308068000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2254,
-                    "change": 14,
-                    "oelo": 2067,
-                    "ochange": -14,
-                    "time": 594556,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -17073,7 +17059,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "STABLES",
                     "result": "won",
-                    "opponent": "Gho",
+                    "opponent": "ffz_",
                     "elo": 2147,
                     "change": 12,
                     "oelo": 1884,
@@ -17213,7 +17199,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "HOUSING",
                     "result": "draw",
-                    "opponent": "Gho",
+                    "opponent": "ffz_",
                     "elo": 2119,
                     "change": -2,
                     "oelo": 1921,
@@ -17423,7 +17409,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "HOUSING",
                     "result": "won",
-                    "opponent": "Gho",
+                    "opponent": "ffz_",
                     "elo": 2187,
                     "change": 13,
                     "oelo": 1964,
@@ -30289,20 +30275,6 @@
                     "oelo": 2034,
                     "ochange": 24,
                     "time": 607007,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782308026000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2133,
-                    "change": -21,
-                    "oelo": 2150,
-                    "ochange": 21,
-                    "time": 565056,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -59741,7 +59713,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "Gho",
+                    "opponent": "ffz_",
                     "elo": 1857,
                     "change": 19,
                     "oelo": 1794,
@@ -75737,7 +75709,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "HOUSING",
                     "result": "lost",
-                    "opponent": "Gho",
+                    "opponent": "ffz_",
                     "elo": 2087,
                     "change": -27,
                     "oelo": 1927,
@@ -75835,7 +75807,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "BRIDGE",
                     "result": "lost",
-                    "opponent": "Gho",
+                    "opponent": "ffz_",
                     "elo": 2182,
                     "change": -28,
                     "oelo": 2003,
@@ -96741,20 +96713,6 @@
                     "oelo": 2011,
                     "ochange": 23,
                     "time": 655688,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782308068000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2067,
-                    "change": -14,
-                    "oelo": 2254,
-                    "ochange": 14,
-                    "time": 594556,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -153890,7 +153848,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "HOUSING",
                     "result": "lost",
-                    "opponent": "Gho",
+                    "opponent": "ffz_",
                     "elo": 2023,
                     "change": -25,
                     "oelo": 1935,
