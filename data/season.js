@@ -1,5 +1,5 @@
 {
-    "date": 1786632001000,
+    "date": 1786632601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -82686,20 +82686,6 @@
                     "oelo": 1785,
                     "ochange": -12,
                     "time": 441761,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782312301000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "VojtaH007",
-                    "elo": 2020,
-                    "change": 14,
-                    "oelo": 1828,
-                    "ochange": -14,
-                    "time": 874329,
                     "forfeited": false,
                     "decayed": false
                 }
