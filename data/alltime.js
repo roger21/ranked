@@ -108,6 +108,41 @@
         "lost": 1273,
         "forfeited": 291
     },
+    "048de51800794a208de7f01652513c32": {
+        "nickname": "SocratesDisciple",
+        "country": null,
+        "top": {
+            "1": 1387,
+            "2": 1469,
+            "5": 0,
+            "6": 1435,
+            "7": 1704,
+            "8": 2064,
+            "9": 2334,
+            "10": 2339,
+            "11": 2196
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 28,
+            "9": 77,
+            "10": 27,
+            "11": 35
+        },
+        "pb": 379698,
+        "streak": 16,
+        "matches": 4138,
+        "playtime": 2299293160,
+        "finished": 1635,
+        "finishtime": 1042327199,
+        "won": 2085,
+        "lost": 1905,
+        "forfeited": 772
+    },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "subdas",
         "country": "br",
@@ -2388,12 +2423,12 @@
         },
         "pb": 478945,
         "streak": 10,
-        "matches": 4371,
-        "playtime": 3023262437,
+        "matches": 4372,
+        "playtime": 3024035678,
         "finished": 1608,
         "finishtime": 1227284640,
         "won": 2178,
-        "lost": 2009,
+        "lost": 2010,
         "forfeited": 82
     },
     "5a32f1e5609847c691c07730f973397c": {
@@ -2778,7 +2813,7 @@
             "8": 1922,
             "9": 2172,
             "10": 2344,
-            "11": 2341
+            "11": 2357
         },
         "points": {
             "1": 0,
@@ -2795,11 +2830,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7897,
-        "playtime": 5029877022,
-        "finished": 2862,
-        "finishtime": 2059536082,
-        "won": 3995,
+        "matches": 7898,
+        "playtime": 5030860069,
+        "finished": 2863,
+        "finishtime": 2060519129,
+        "won": 3996,
         "lost": 3586,
         "forfeited": 829
     },
@@ -3124,11 +3159,11 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 11882,
-        "playtime": 6491994152,
-        "finished": 4098,
-        "finishtime": 2455773746,
-        "won": 5468,
+        "matches": 11883,
+        "playtime": 6492516043,
+        "finished": 4099,
+        "finishtime": 2456295637,
+        "won": 5469,
         "lost": 5247,
         "forfeited": 2794
     },
@@ -3233,12 +3268,12 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 5710,
-        "playtime": 3387800074,
+        "matches": 5711,
+        "playtime": 3388783121,
         "finished": 2158,
         "finishtime": 1531221375,
         "won": 2977,
-        "lost": 2576,
+        "lost": 2577,
         "forfeited": 1117
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -4668,11 +4703,11 @@
         },
         "pb": 434484,
         "streak": 15,
-        "matches": 5364,
-        "playtime": 3811039074,
-        "finished": 1464,
-        "finishtime": 1147725217,
-        "won": 2380,
+        "matches": 5365,
+        "playtime": 3811587264,
+        "finished": 1465,
+        "finishtime": 1148273407,
+        "won": 2381,
         "lost": 2238,
         "forfeited": 287
     },
@@ -4885,39 +4920,6 @@
         "won": 1729,
         "lost": 1508,
         "forfeited": 448
-    },
-    "b516d1d18261467bbb6f447f0c111be7": {
-        "nickname": "Gabryll",
-        "country": "mf",
-        "top": {
-            "4": 1100,
-            "5": 1461,
-            "6": 1697,
-            "7": 1854,
-            "8": 1974,
-            "9": 2143,
-            "10": 2308,
-            "11": 2177
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 10,
-            "7": 0,
-            "8": 19,
-            "9": 14,
-            "10": 11,
-            "11": 10
-        },
-        "pb": 410586,
-        "streak": 14,
-        "matches": 9083,
-        "playtime": 5610450968,
-        "finished": 3023,
-        "finishtime": 2172342151,
-        "won": 4421,
-        "lost": 4234,
-        "forfeited": 1371
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
