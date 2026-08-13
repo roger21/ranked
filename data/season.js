@@ -1,5 +1,5 @@
 {
-    "date": 1786627201000,
+    "date": 1786627801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6552,20 +6552,6 @@
                     "oelo": 2067,
                     "ochange": -14,
                     "time": 594556,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782307408000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2240,
-                    "change": 17,
-                    "oelo": 2129,
-                    "ochange": -17,
-                    "time": 496220,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30317,20 +30303,6 @@
                     "oelo": 2150,
                     "ochange": 21,
                     "time": 565056,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782307276000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2154,
-                    "change": 19,
-                    "oelo": 2081,
-                    "ochange": -19,
-                    "time": 443349,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -82814,20 +82786,6 @@
                     "time": 655688,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782307790000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1988,
-                    "change": 22,
-                    "oelo": 2010,
-                    "ochange": -22,
-                    "time": 734781,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -96797,20 +96755,6 @@
                     "oelo": 2254,
                     "ochange": 14,
                     "time": 594556,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782307276000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "DARVY__X1",
-                    "elo": 2081,
-                    "change": -19,
-                    "oelo": 2154,
-                    "ochange": 19,
-                    "time": 443349,
                     "forfeited": false,
                     "decayed": false
                 }
