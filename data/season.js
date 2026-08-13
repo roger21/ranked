@@ -1,5 +1,5 @@
 {
-    "date": 1786626601000,
+    "date": 1786627201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6566,20 +6566,6 @@
                     "oelo": 2129,
                     "ochange": -17,
                     "time": 496220,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782306628000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "DARVY__X1",
-                    "elo": 2223,
-                    "change": 18,
-                    "oelo": 2135,
-                    "ochange": -18,
-                    "time": 660613,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30345,20 +30331,6 @@
                     "oelo": 2081,
                     "ochange": -19,
                     "time": 443349,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782306628000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2135,
-                    "change": -18,
-                    "oelo": 2223,
-                    "ochange": 18,
-                    "time": 660613,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -96839,20 +96811,6 @@
                     "oelo": 2154,
                     "ochange": 19,
                     "time": 443349,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782306779000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2100,
-                    "change": 23,
-                    "oelo": 2146,
-                    "ochange": -23,
-                    "time": 573756,
                     "forfeited": false,
                     "decayed": false
                 }
