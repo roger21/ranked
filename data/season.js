@@ -1,5 +1,5 @@
 {
-    "date": 1786620001000,
+    "date": 1786620601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30415,20 +30415,6 @@
                     "oelo": 1976,
                     "ochange": -15,
                     "time": 532271,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782300371000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2119,
-                    "change": 22,
-                    "oelo": 2142,
-                    "ochange": -22,
-                    "time": 574361,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -81573,20 +81559,6 @@
                     "time": 705014,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782300377000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1969,
-                    "change": -27,
-                    "oelo": 1835,
-                    "ochange": 27,
-                    "time": 632683,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95684,20 +95656,6 @@
                     "time": 351751,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782300152000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "KenanKardes",
-                    "elo": 2133,
-                    "change": -24,
-                    "oelo": 2069,
-                    "ochange": 24,
-                    "time": 619030,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -101430,20 +101388,6 @@
                     "oelo": 1750,
                     "ochange": -15,
                     "time": 596091,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782300063000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "JustAltoid",
-                    "elo": 1909,
-                    "change": 23,
-                    "oelo": 1959,
-                    "ochange": -23,
-                    "time": 575992,
                     "forfeited": false,
                     "decayed": false
                 }
