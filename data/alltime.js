@@ -476,11 +476,11 @@
         },
         "pb": 364576,
         "streak": 12,
-        "matches": 3180,
-        "playtime": 1864620030,
-        "finished": 1359,
-        "finishtime": 888170631,
-        "won": 1722,
+        "matches": 3181,
+        "playtime": 1865250343,
+        "finished": 1360,
+        "finishtime": 888800944,
+        "won": 1723,
         "lost": 1339,
         "forfeited": 501
     },
@@ -5234,12 +5234,12 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 4087,
-        "playtime": 2457749888,
+        "matches": 4088,
+        "playtime": 2458380201,
         "finished": 1594,
         "finishtime": 1024234064,
         "won": 2028,
-        "lost": 1792,
+        "lost": 1793,
         "forfeited": 455
     },
     "be7a79f3331042f19c07230752b26725": {
@@ -5932,39 +5932,6 @@
         "won": 1066,
         "lost": 845,
         "forfeited": 160
-    },
-    "dacf61a7b4f74f9cb83512d7f2fe88a9": {
-        "nickname": "Birdeyyy",
-        "country": "nl",
-        "top": {
-            "4": 1191,
-            "5": 1265,
-            "6": 1430,
-            "7": 1683,
-            "8": 1628,
-            "9": 1784,
-            "10": 2027,
-            "11": 2202
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 23
-        },
-        "pb": 435377,
-        "streak": 11,
-        "matches": 3118,
-        "playtime": 1933535732,
-        "finished": 1015,
-        "finishtime": 706066236,
-        "won": 1471,
-        "lost": 1394,
-        "forfeited": 479
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "zorn89",
