@@ -108,41 +108,6 @@
         "lost": 1273,
         "forfeited": 291
     },
-    "048de51800794a208de7f01652513c32": {
-        "nickname": "SocratesDisciple",
-        "country": null,
-        "top": {
-            "1": 1387,
-            "2": 1469,
-            "5": 0,
-            "6": 1435,
-            "7": 1704,
-            "8": 2064,
-            "9": 2334,
-            "10": 2339,
-            "11": 2196
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 28,
-            "9": 77,
-            "10": 27,
-            "11": 35
-        },
-        "pb": 379698,
-        "streak": 16,
-        "matches": 4138,
-        "playtime": 2299293160,
-        "finished": 1635,
-        "finishtime": 1042327199,
-        "won": 2085,
-        "lost": 1905,
-        "forfeited": 772
-    },
     "0562802e736e47c581b2ef095e2ed067": {
         "nickname": "subdas",
         "country": "br",
@@ -3159,8 +3124,8 @@
         },
         "pb": 395923,
         "streak": 14,
-        "matches": 11880,
-        "playtime": 6490910718,
+        "matches": 11881,
+        "playtime": 6491699018,
         "finished": 4098,
         "finishtime": 2455773746,
         "won": 5468,
@@ -3268,12 +3233,12 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 5709,
-        "playtime": 3387292496,
+        "matches": 5710,
+        "playtime": 3387800074,
         "finished": 2158,
         "finishtime": 1531221375,
         "won": 2977,
-        "lost": 2575,
+        "lost": 2576,
         "forfeited": 1117
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -4920,6 +4885,39 @@
         "won": 1729,
         "lost": 1508,
         "forfeited": 448
+    },
+    "b516d1d18261467bbb6f447f0c111be7": {
+        "nickname": "Gabryll",
+        "country": "mf",
+        "top": {
+            "4": 1100,
+            "5": 1461,
+            "6": 1697,
+            "7": 1854,
+            "8": 1974,
+            "9": 2143,
+            "10": 2308,
+            "11": 2177
+        },
+        "points": {
+            "4": 0,
+            "5": 0,
+            "6": 10,
+            "7": 0,
+            "8": 19,
+            "9": 14,
+            "10": 11,
+            "11": 10
+        },
+        "pb": 410586,
+        "streak": 14,
+        "matches": 9083,
+        "playtime": 5610450968,
+        "finished": 3023,
+        "finishtime": 2172342151,
+        "won": 4421,
+        "lost": 4234,
+        "forfeited": 1371
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
         "nickname": "Ayreliaa",
