@@ -1,5 +1,5 @@
 {
-    "date": 1786624201000,
+    "date": 1786624801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81517,20 +81517,6 @@
                     "time": 532271,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782304744000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "VojtaH007",
-                    "elo": 1991,
-                    "change": 17,
-                    "oelo": 1868,
-                    "ochange": -17,
-                    "time": 565057,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -96979,20 +96965,6 @@
                     "oelo": 2185,
                     "ochange": -25,
                     "time": 530179,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782304387000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "LEC666888",
-                    "elo": 2071,
-                    "change": -28,
-                    "oelo": 1909,
-                    "ochange": 28,
-                    "time": 662410,
                     "forfeited": false,
                     "decayed": false
                 }
