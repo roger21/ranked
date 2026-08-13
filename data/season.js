@@ -1,5 +1,5 @@
 {
-    "date": 1786612201000,
+    "date": 1786612801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -95838,20 +95838,6 @@
                     "time": 471468,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782292388000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "yjako",
-                    "elo": 2164,
-                    "change": -22,
-                    "oelo": 2141,
-                    "ochange": 22,
-                    "time": 447931,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -107729,20 +107715,6 @@
                     "oelo": 2199,
                     "ochange": 19,
                     "time": 472721,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782292388000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2141,
-                    "change": 22,
-                    "oelo": 2164,
-                    "ochange": -22,
-                    "time": 447931,
                     "forfeited": false,
                     "decayed": false
                 }
