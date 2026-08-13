@@ -1,5 +1,5 @@
 {
-    "date": 1786617001000,
+    "date": 1786617601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -82584,7 +82584,7 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 25,
-                "elo": 2274,
+                "elo": 2269,
                 "top": 2371,
                 "points": 90,
                 "pb": 342789,
@@ -82600,6 +82600,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1786617236000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2269,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1786530834000,
                     "type": null,
@@ -95808,20 +95822,6 @@
                     "oelo": 2045,
                     "ochange": -17,
                     "time": 691920,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782297102000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 2149,
-                    "change": 12,
-                    "oelo": 1892,
-                    "ochange": -12,
-                    "time": 500754,
                     "forfeited": false,
                     "decayed": false
                 }
