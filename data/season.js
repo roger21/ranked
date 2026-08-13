@@ -1,5 +1,5 @@
 {
-    "date": 1786620601000,
+    "date": 1786621201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -95642,20 +95642,6 @@
                     "time": 599531,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782300774000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "petal_go_round",
-                    "elo": 2133,
-                    "change": 0,
-                    "oelo": 2142,
-                    "ochange": 0,
-                    "time": 351751,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -101374,20 +101360,6 @@
                     "oelo": 1800,
                     "ochange": -16,
                     "time": 491940,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782300821000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "mcrightnow",
-                    "elo": 1924,
-                    "change": 15,
-                    "oelo": 1750,
-                    "ochange": -15,
-                    "time": 596091,
                     "forfeited": false,
                     "decayed": false
                 }
