@@ -1,5 +1,5 @@
 {
-    "date": 1786628401000,
+    "date": 1786629001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6524,20 +6524,6 @@
                     "oelo": 2041,
                     "ochange": -13,
                     "time": 450375,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782308815000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2270,
-                    "change": 16,
-                    "oelo": 2134,
-                    "ochange": -16,
-                    "time": 564382,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30261,20 +30247,6 @@
                     "oelo": 1950,
                     "ochange": 26,
                     "time": 588401,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782308721000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "JustAltoid",
-                    "elo": 2109,
-                    "change": -24,
-                    "oelo": 2034,
-                    "ochange": 24,
-                    "time": 607007,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -82744,20 +82716,6 @@
                     "time": 474462,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782308787000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2011,
-                    "change": 23,
-                    "oelo": 2044,
-                    "ochange": -23,
-                    "time": 655688,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -96700,20 +96658,6 @@
                     "ochange": 20,
                     "time": 300024,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782308787000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nonsochiamaa",
-                    "elo": 2044,
-                    "change": -23,
-                    "oelo": 2011,
-                    "ochange": 23,
-                    "time": 655688,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
