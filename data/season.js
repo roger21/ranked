@@ -1,5 +1,5 @@
 {
-    "date": 1786679401000,
+    "date": 1786680001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12898,20 +12898,6 @@
                     "oelo": 1813,
                     "ochange": 27,
                     "time": 595303,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782359681000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1998,
-                    "change": -23,
-                    "oelo": 1971,
-                    "ochange": 23,
-                    "time": 571213,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -134346,23 +134332,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 38,
-                "elo": 2206,
+                "rank": 42,
+                "elo": 2185,
                 "top": 2371,
                 "points": 90,
                 "pb": 342789,
-                "current": 1,
+                "current": 0,
                 "streak": 13,
-                "matches": 1525,
-                "playtime": 847309601,
+                "matches": 1526,
+                "playtime": 848074573,
                 "finished": 746,
                 "finishtime": 427260506,
                 "won": 829,
-                "lost": 661,
+                "lost": 662,
                 "forfeited": 72
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1786680033000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "cvctus",
+                    "elo": 2185,
+                    "change": -21,
+                    "oelo": 2196,
+                    "ochange": 21,
+                    "time": 764972,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786678738000,
                     "type": "DESERT_TEMPLE",
@@ -141509,7 +141509,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2201,
                 "top": 2314,
                 "points": 62,
@@ -143730,7 +143730,7 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "nickname": "paukll",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2198,
                 "top": 2265,
                 "points": 29,
@@ -146576,23 +146576,37 @@
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "nickname": "cvctus",
             "stats": {
-                "rank": 42,
-                "elo": 2175,
+                "rank": 40,
+                "elo": 2196,
                 "top": 2215,
                 "points": 11,
                 "pb": 399951,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 880,
-                "playtime": 541676454,
-                "finished": 388,
-                "finishtime": 250306952,
-                "won": 460,
+                "matches": 881,
+                "playtime": 542441426,
+                "finished": 389,
+                "finishtime": 251071924,
+                "won": 461,
                 "lost": 395,
                 "forfeited": 30
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1786680033000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "BeefSalad",
+                    "elo": 2196,
+                    "change": 21,
+                    "oelo": 2185,
+                    "ochange": -21,
+                    "time": 764972,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786679176000,
                     "type": "SHIPWRECK",
