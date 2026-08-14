@@ -1,5 +1,5 @@
 {
-    "date": 1786704001000,
+    "date": 1786704601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90045,34 +90045,6 @@
                     "oelo": 1847,
                     "ochange": -19,
                     "time": 673330,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782384565000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Finnitzko",
-                    "elo": 1883,
-                    "change": -22,
-                    "oelo": 1876,
-                    "ochange": 22,
-                    "time": 396448,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782384114000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1905,
-                    "change": -23,
-                    "oelo": 1855,
-                    "ochange": 23,
-                    "time": 614108,
                     "forfeited": false,
                     "decayed": false
                 }
