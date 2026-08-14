@@ -1,5 +1,5 @@
 {
-    "date": 1786691401000,
+    "date": 1786692001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6440,20 +6440,6 @@
                     "oelo": 2088,
                     "ochange": 26,
                     "time": 818950,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782371441000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 2230,
-                    "change": -25,
-                    "oelo": 2148,
-                    "ochange": 25,
-                    "time": 564328,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -106085,20 +106071,6 @@
                     "time": 450613,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782371441000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2148,
-                    "change": 25,
-                    "oelo": 2230,
-                    "ochange": -25,
-                    "time": 564328,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155284,20 +155256,6 @@
                     "oelo": 1699,
                     "ochange": -16,
                     "time": 492120,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782371860000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "poopiefart13",
-                    "elo": 1837,
-                    "change": -16,
-                    "oelo": 1975,
-                    "ochange": 16,
-                    "time": 718380,
                     "forfeited": false,
                     "decayed": false
                 }
