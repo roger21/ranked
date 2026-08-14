@@ -1,5 +1,5 @@
 {
-    "date": 1786698601000,
+    "date": 1786699201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -101786,22 +101786,36 @@
             "nickname": "bbiddd",
             "stats": {
                 "rank": 29,
-                "elo": 2244,
+                "elo": 2258,
                 "top": 2428,
                 "points": 49,
                 "pb": 392259,
-                "current": 3,
+                "current": 4,
                 "streak": 10,
-                "matches": 771,
-                "playtime": 421405362,
-                "finished": 365,
-                "finishtime": 213016182,
-                "won": 414,
+                "matches": 772,
+                "playtime": 422116738,
+                "finished": 366,
+                "finishtime": 213727558,
+                "won": 415,
                 "lost": 334,
                 "forfeited": 70
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1786698814000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "sevensix_",
+                    "elo": 2258,
+                    "change": 14,
+                    "oelo": 2072,
+                    "ochange": -14,
+                    "time": 711376,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786690988000,
                     "type": "DESERT_TEMPLE",
