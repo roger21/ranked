@@ -1,5 +1,5 @@
 {
-    "date": 1786681201000,
+    "date": 1786681801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12856,20 +12856,6 @@
                     "oelo": 1916,
                     "ochange": -18,
                     "time": 640352,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782361696000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bbiddd",
-                    "elo": 1980,
-                    "change": 25,
-                    "oelo": 2065,
-                    "ochange": -25,
-                    "time": 510775,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -117662,20 +117648,6 @@
                     "time": 523086,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782361696000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "lowk3y_",
-                    "elo": 2065,
-                    "change": -25,
-                    "oelo": 1980,
-                    "ochange": 25,
-                    "time": 510775,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146268,7 +146240,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2172,
                 "top": 2172,
                 "points": 11,
@@ -147901,7 +147873,7 @@
             "uuid": "817a3f2e92da42ab89c64a787ce16d28",
             "nickname": "Voxio",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2171,
                 "top": 2192,
                 "points": 0,
@@ -153874,7 +153846,7 @@
             "uuid": "ae0bcaf8f34f4c419358c0f0c638cc9a",
             "nickname": "fe666",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2170,
                 "top": 2191,
                 "points": 4,
@@ -155969,7 +155941,7 @@
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "nickname": "dolqhin",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2164,
                 "top": 2189,
                 "points": 20,
@@ -157980,7 +157952,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2162,
                 "top": 2187,
                 "points": 29,
@@ -160971,23 +160943,37 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 47,
-                "elo": 2160,
+                "rank": 42,
+                "elo": 2178,
                 "top": 2371,
                 "points": 90,
                 "pb": 342789,
-                "current": 0,
+                "current": 1,
                 "streak": 13,
-                "matches": 1527,
-                "playtime": 848761726,
+                "matches": 1528,
+                "playtime": 849181969,
                 "finished": 746,
                 "finishtime": 427260506,
-                "won": 829,
+                "won": 830,
                 "lost": 663,
                 "forfeited": 72
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1786681840000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2178,
+                    "change": 18,
+                    "oelo": 2092,
+                    "ochange": -18,
+                    "time": 420243,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1786680942000,
                     "type": "RUINED_PORTAL",
