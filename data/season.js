@@ -1,5 +1,5 @@
 {
-    "date": 1786702201000,
+    "date": 1786702801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90087,20 +90087,6 @@
                     "oelo": 1792,
                     "ochange": 27,
                     "time": 591313,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782382292000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Finnitzko",
-                    "elo": 1955,
-                    "change": -25,
-                    "oelo": 1864,
-                    "ochange": 25,
-                    "time": 777857,
                     "forfeited": false,
                     "decayed": false
                 }
