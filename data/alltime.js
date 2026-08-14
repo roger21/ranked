@@ -920,13 +920,13 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 3926,
-        "playtime": 2711817612,
+        "matches": 3927,
+        "playtime": 2712292838,
         "finished": 1374,
         "finishtime": 1055680516,
         "won": 1907,
-        "lost": 1742,
-        "forfeited": 206
+        "lost": 1743,
+        "forfeited": 207
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
         "nickname": "Hinart",
@@ -2820,12 +2820,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7906,
-        "playtime": 5035154434,
+        "matches": 7907,
+        "playtime": 5035651951,
         "finished": 2868,
         "finishtime": 2063224109,
         "won": 4001,
-        "lost": 3589,
+        "lost": 3590,
         "forfeited": 829
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3241,7 +3241,7 @@
             "8": 1684,
             "9": 2146,
             "10": 2323,
-            "11": 2266
+            "11": 2267
         },
         "points": {
             "1": 0,
@@ -3258,11 +3258,11 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 5721,
-        "playtime": 3393954385,
-        "finished": 2162,
-        "finishtime": 1533309266,
-        "won": 2982,
+        "matches": 5722,
+        "playtime": 3394451902,
+        "finished": 2163,
+        "finishtime": 1533806783,
+        "won": 2983,
         "lost": 2582,
         "forfeited": 1118
     },
@@ -6132,7 +6132,7 @@
             "8": 0,
             "9": 1577,
             "10": 1897,
-            "11": 1638
+            "11": 1659
         },
         "points": {
             "2": 0,
@@ -6148,11 +6148,11 @@
         },
         "pb": 477474,
         "streak": 12,
-        "matches": 607,
-        "playtime": 352284841,
-        "finished": 222,
-        "finishtime": 157803080,
-        "won": 329,
+        "matches": 608,
+        "playtime": 353155785,
+        "finished": 223,
+        "finishtime": 158674024,
+        "won": 330,
         "lost": 244,
         "forfeited": 120
     },
