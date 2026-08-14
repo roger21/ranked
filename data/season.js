@@ -1,5 +1,5 @@
 {
-    "date": 1786692001000,
+    "date": 1786692601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -106057,20 +106057,6 @@
                     "time": 311545,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782372113000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "gharfyy",
-                    "elo": 2162,
-                    "change": 14,
-                    "oelo": 1950,
-                    "ochange": -14,
-                    "time": 450613,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -155242,20 +155228,6 @@
                     "oelo": 1817,
                     "ochange": 22,
                     "time": 541822,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782372597000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "MuhammadPro5741",
-                    "elo": 1853,
-                    "change": 16,
-                    "oelo": 1699,
-                    "ochange": -16,
-                    "time": 492120,
                     "forfeited": false,
                     "decayed": false
                 }
