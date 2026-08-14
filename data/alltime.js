@@ -2156,13 +2156,13 @@
         },
         "pb": 359485,
         "streak": 13,
-        "matches": 5059,
-        "playtime": 2793843886,
+        "matches": 5060,
+        "playtime": 2794164899,
         "finished": 2224,
         "finishtime": 1380412686,
         "won": 2719,
-        "lost": 2201,
-        "forfeited": 1095
+        "lost": 2202,
+        "forfeited": 1096
     },
     "529c478ae270415ba12044771a99249a": {
         "nickname": "mukvl",
