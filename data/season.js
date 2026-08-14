@@ -1,5 +1,5 @@
 {
-    "date": 1786700401000,
+    "date": 1786701001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90102,20 +90102,6 @@
                     "ochange": 25,
                     "time": 777857,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782380861000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ch0ok_ERC",
-                    "elo": 1980,
-                    "change": 14,
-                    "oelo": 1779,
-                    "ochange": -14,
-                    "time": 213761,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
