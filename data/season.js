@@ -1,5 +1,5 @@
 {
-    "date": 1786805401000,
+    "date": 1786806001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6118,20 +6118,6 @@
                     "oelo": 1882,
                     "ochange": 28,
                     "time": 598392,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782485594000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2081,
-                    "change": -26,
-                    "oelo": 1952,
-                    "ochange": 26,
-                    "time": 492545,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -68488,20 +68474,6 @@
                     "ochange": -15,
                     "time": 771011,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782485432000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "4antoo",
-                    "elo": 2081,
-                    "change": -26,
-                    "oelo": 1975,
-                    "ochange": 26,
-                    "time": 548110,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
