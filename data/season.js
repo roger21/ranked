@@ -1,5 +1,5 @@
 {
-    "date": 1786792801000,
+    "date": 1786793401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -126372,20 +126372,6 @@
                     "ochange": 17,
                     "time": 578354,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782473389000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 2065,
-                    "change": -26,
-                    "oelo": 1950,
-                    "ochange": 26,
-                    "time": 300195,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
