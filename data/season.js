@@ -1,5 +1,5 @@
 {
-    "date": 1786820401000,
+    "date": 1786821001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78420,7 +78420,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2266,
                 "top": 2316,
                 "points": 96,
@@ -79087,7 +79087,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2260,
                 "top": 2403,
                 "points": 8,
@@ -88210,7 +88210,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2260,
                 "top": 2310,
                 "points": 36,
@@ -89927,23 +89927,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 29,
-                "elo": 2250,
+                "rank": 26,
+                "elo": 2270,
                 "top": 2439,
                 "points": 130,
                 "pb": 388467,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 1364,
-                "playtime": 775811358,
-                "finished": 644,
-                "finishtime": 382353168,
-                "won": 743,
+                "matches": 1365,
+                "playtime": 776429085,
+                "finished": 645,
+                "finishtime": 382970895,
+                "won": 744,
                 "lost": 597,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1786821022000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "ulsah1n",
+                    "elo": 2270,
+                    "change": 20,
+                    "oelo": 2230,
+                    "ochange": -20,
+                    "time": 617727,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786820357000,
                     "type": "VILLAGE",
@@ -100072,23 +100086,37 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 29,
-                "elo": 2250,
+                "rank": 32,
+                "elo": 2230,
                 "top": 2392,
                 "points": 58,
                 "pb": 395866,
                 "current": 0,
                 "streak": 8,
-                "matches": 861,
-                "playtime": 473710317,
+                "matches": 862,
+                "playtime": 474328044,
                 "finished": 433,
                 "finishtime": 251453830,
                 "won": 488,
-                "lost": 366,
+                "lost": 367,
                 "forfeited": 79
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1786821022000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 2230,
+                    "change": -20,
+                    "oelo": 2270,
+                    "ochange": 20,
+                    "time": 617727,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786820347000,
                     "type": "VILLAGE",
@@ -105233,7 +105261,7 @@
             "uuid": "bcb0f43558d745ee977841180b121267",
             "nickname": "pavkin",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2242,
                 "top": 2314,
                 "points": 62,
@@ -107356,7 +107384,7 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "nickname": "BeefSalad",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2235,
                 "top": 2371,
                 "points": 90,
