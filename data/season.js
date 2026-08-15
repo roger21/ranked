@@ -1,5 +1,5 @@
 {
-    "date": 1786803601000,
+    "date": 1786804201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6146,20 +6146,6 @@
                     "oelo": 2107,
                     "ochange": 22,
                     "time": 574222,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782483753000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "4antoo",
-                    "elo": 2129,
-                    "change": -27,
-                    "oelo": 1975,
-                    "ochange": 27,
-                    "time": 696488,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -68545,20 +68531,6 @@
                     "time": 574222,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782484174000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Obotron",
-                    "elo": 2085,
-                    "change": 12,
-                    "oelo": 1840,
-                    "ochange": -12,
-                    "time": 627299,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -76111,23 +76083,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 23,
-                "elo": 2290,
+                "rank": 28,
+                "elo": 2263,
                 "top": 2439,
                 "points": 130,
                 "pb": 388467,
                 "current": 0,
                 "streak": 12,
-                "matches": 1344,
-                "playtime": 765476591,
+                "matches": 1345,
+                "playtime": 766108419,
                 "finished": 636,
                 "finishtime": 377961314,
                 "won": 732,
-                "lost": 588,
+                "lost": 589,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1786804207000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "staremc",
+                    "elo": 2263,
+                    "change": -27,
+                    "oelo": 2115,
+                    "ochange": 27,
+                    "time": 631828,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786803008000,
                     "type": "SHIPWRECK",
@@ -85976,7 +85962,7 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 24,
+                "rank": 23,
                 "elo": 2286,
                 "top": 2303,
                 "points": 55,
@@ -87273,7 +87259,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2272,
                 "top": 2272,
                 "points": 15,
@@ -90964,7 +90950,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2271,
                 "top": 2291,
                 "points": 23,
@@ -91701,7 +91687,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2267,
                 "top": 2267,
                 "points": 10,
@@ -93572,7 +93558,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2266,
                 "top": 2316,
                 "points": 96,
