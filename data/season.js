@@ -1,5 +1,5 @@
 {
-    "date": 1786774201000,
+    "date": 1786774801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -55064,20 +55064,6 @@
                     "time": 370195,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782454763000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "yjako",
-                    "elo": 2101,
-                    "change": 0,
-                    "oelo": 2122,
-                    "ochange": 0,
-                    "time": 865480,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -61870,20 +61856,6 @@
                     "oelo": 2106,
                     "ochange": -16,
                     "time": 407022,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782454370000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "BadGamer",
-                    "elo": 2220,
-                    "change": 21,
-                    "oelo": 2202,
-                    "ochange": -21,
-                    "time": 439588,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86387,20 +86359,6 @@
                     "oelo": 2128,
                     "ochange": -18,
                     "time": 504906,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782454370000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 2202,
-                    "change": -21,
-                    "oelo": 2220,
-                    "ochange": 21,
-                    "time": 439588,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -119326,20 +119284,6 @@
                     "ochange": 16,
                     "time": 407022,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782454763000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "bbiddd",
-                    "elo": 2122,
-                    "change": 0,
-                    "oelo": 2101,
-                    "ochange": 0,
-                    "time": 865480,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
