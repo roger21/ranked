@@ -1,5 +1,5 @@
 {
-    "date": 1786785601000,
+    "date": 1786786201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78669,20 +78669,6 @@
                     "oelo": 2082,
                     "ochange": -20,
                     "time": 686581,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782465926000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Tadanoisikoro",
-                    "elo": 2100,
-                    "change": 14,
-                    "oelo": 1906,
-                    "ochange": -14,
-                    "time": 539443,
                     "forfeited": false,
                     "decayed": false
                 }
