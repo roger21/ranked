@@ -1,5 +1,5 @@
 {
-    "date": 1786796401000,
+    "date": 1786797001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -172284,20 +172284,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1782476748000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Haaons_",
-                    "elo": 1936,
-                    "change": 17,
-                    "oelo": 1819,
-                    "ochange": -17,
-                    "time": 663236,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         }
