@@ -1,5 +1,5 @@
 {
-    "date": 1786821601000,
+    "date": 1786822201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88189,20 +88189,6 @@
                     "time": 519019,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782501741000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Mixray_",
-                    "elo": 1867,
-                    "change": -21,
-                    "oelo": 1892,
-                    "ochange": 21,
-                    "time": 210252,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -102200,20 +102186,6 @@
                     "oelo": 2049,
                     "ochange": 18,
                     "time": 502135,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782502069000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "2welt",
-                    "elo": 1978,
-                    "change": 17,
-                    "oelo": 1862,
-                    "ochange": -17,
-                    "time": 669563,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -140977,20 +140949,6 @@
                     "oelo": 1822,
                     "ochange": 22,
                     "time": 497501,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782502069000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 1862,
-                    "change": -17,
-                    "oelo": 1978,
-                    "ochange": 17,
-                    "time": 669563,
                     "forfeited": false,
                     "decayed": false
                 }
