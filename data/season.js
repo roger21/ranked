@@ -1,5 +1,5 @@
 {
-    "date": 1786806001000,
+    "date": 1786806602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -8937,20 +8937,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2194,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1782486495000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2199,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -77324,23 +77310,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 24,
-                "elo": 2277,
+                "rank": 30,
+                "elo": 2253,
                 "top": 2439,
                 "points": 130,
                 "pb": 388467,
-                "current": 1,
+                "current": 0,
                 "streak": 12,
-                "matches": 1346,
-                "playtime": 766684708,
+                "matches": 1347,
+                "playtime": 767254680,
                 "finished": 637,
                 "finishtime": 378537603,
                 "won": 733,
-                "lost": 589,
+                "lost": 590,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1786806622000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Gabryll",
+                    "elo": 2253,
+                    "change": -24,
+                    "oelo": 2190,
+                    "ochange": 24,
+                    "time": 569972,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786805228000,
                     "type": "DESERT_TEMPLE",
@@ -87217,7 +87217,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 25,
+                "rank": 24,
                 "elo": 2272,
                 "top": 2272,
                 "points": 15,
@@ -90908,7 +90908,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2271,
                 "top": 2291,
                 "points": 23,
@@ -91645,7 +91645,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2267,
                 "top": 2267,
                 "points": 10,
@@ -93516,7 +93516,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2266,
                 "top": 2316,
                 "points": 96,
@@ -94183,7 +94183,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2260,
                 "top": 2403,
                 "points": 8,
@@ -103390,7 +103390,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2260,
                 "top": 2310,
                 "points": 36,
@@ -149516,7 +149516,7 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 2182,
                 "top": 2210,
                 "points": 13,
@@ -150575,7 +150575,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 2179,
                 "top": 2179,
                 "points": 11,
@@ -152992,7 +152992,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2172,
                 "top": 2172,
                 "points": 11,
@@ -154555,7 +154555,7 @@
             "uuid": "e3f76733da054480bab429a704ebecce",
             "nickname": "gharfyy",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2171,
                 "top": 2171,
                 "points": 17,
@@ -155950,7 +155950,7 @@
             "uuid": "ae0bcaf8f34f4c419358c0f0c638cc9a",
             "nickname": "fe666",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2170,
                 "top": 2191,
                 "points": 4,
@@ -157947,7 +157947,7 @@
             "uuid": "817a3f2e92da42ab89c64a787ce16d28",
             "nickname": "Voxio",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2168,
                 "top": 2192,
                 "points": 0,
@@ -163934,7 +163934,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "mintchloe",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2166,
                 "top": 2331,
                 "points": 0,
@@ -165623,23 +165623,37 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 48,
-                "elo": 2166,
-                "top": 2177,
+                "rank": 42,
+                "elo": 2190,
+                "top": 2190,
                 "points": 10,
                 "pb": 410586,
-                "current": 2,
+                "current": 3,
                 "streak": 14,
-                "matches": 1045,
-                "playtime": 608946542,
-                "finished": 466,
-                "finishtime": 290889876,
-                "won": 530,
+                "matches": 1046,
+                "playtime": 609516514,
+                "finished": 467,
+                "finishtime": 291459848,
+                "won": 531,
                 "lost": 481,
                 "forfeited": 73
             },
             "country": "mf",
             "matches": [
+                {
+                    "date": 1786806622000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "v_strid",
+                    "elo": 2190,
+                    "change": 24,
+                    "oelo": 2253,
+                    "ochange": -24,
+                    "time": 569972,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786749661000,
                     "type": "RUINED_PORTAL",
