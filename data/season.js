@@ -1,5 +1,5 @@
 {
-    "date": 1786810201000,
+    "date": 1786810801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -78296,20 +78296,6 @@
                     "oelo": 2043,
                     "ochange": -19,
                     "time": 577915,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782490557000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 2093,
-                    "change": -26,
-                    "oelo": 1987,
-                    "ochange": 26,
-                    "time": 565227,
                     "forfeited": false,
                     "decayed": false
                 }
