@@ -1,5 +1,5 @@
 {
-    "date": 1786861801000,
+    "date": 1786862401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6090,20 +6090,6 @@
                     "oelo": 1859,
                     "ochange": -14,
                     "time": 478055,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782542046000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2033,
-                    "change": -20,
-                    "oelo": 2062,
-                    "ochange": 20,
-                    "time": 642891,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -37583,20 +37569,6 @@
                     "oelo": 2194,
                     "ochange": -26,
                     "time": 651277,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782542046000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2062,
-                    "change": 20,
-                    "oelo": 2033,
-                    "ochange": -20,
-                    "time": 642891,
                     "forfeited": false,
                     "decayed": false
                 }
