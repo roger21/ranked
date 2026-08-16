@@ -1,5 +1,5 @@
 {
-    "date": 1786882801000,
+    "date": 1786883401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5922,20 +5922,6 @@
                     "oelo": 1960,
                     "ochange": -14,
                     "time": 539428,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782562809000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Finnitzko",
-                    "elo": 2151,
-                    "change": 14,
-                    "oelo": 1939,
-                    "ochange": -14,
-                    "time": 624365,
                     "forfeited": false,
                     "decayed": false
                 }
