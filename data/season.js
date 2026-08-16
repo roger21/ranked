@@ -1,5 +1,5 @@
 {
-    "date": 1786867801000,
+    "date": 1786868401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6006,20 +6006,6 @@
                     "oelo": 2093,
                     "ochange": -19,
                     "time": 614014,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782548036000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 2135,
-                    "change": 13,
-                    "oelo": 1916,
-                    "ochange": -13,
-                    "time": 521421,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -37388,20 +37374,6 @@
                     "ochange": 19,
                     "time": 577915,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782547953000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "SammmyG",
-                    "elo": 2062,
-                    "change": 0,
-                    "oelo": 2094,
-                    "ochange": 0,
-                    "time": 476576,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
