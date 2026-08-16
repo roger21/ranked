@@ -1,5 +1,5 @@
 {
-    "date": 1786887001000,
+    "date": 1786887601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24505,20 +24505,6 @@
                     "time": 727348,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782567068000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "skylewl",
-                    "elo": 2027,
-                    "change": 15,
-                    "oelo": 1858,
-                    "ochange": -15,
-                    "time": 221379,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -32058,20 +32044,6 @@
                     "oelo": 1826,
                     "ochange": -13,
                     "time": 635343,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782567301000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "okshey",
-                    "elo": 2055,
-                    "change": 25,
-                    "oelo": 2136,
-                    "ochange": -25,
-                    "time": 635868,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -66051,20 +66023,6 @@
                     "oelo": 2022,
                     "ochange": -17,
                     "time": 640041,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782567301000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 2136,
-                    "change": -25,
-                    "oelo": 2055,
-                    "ochange": 25,
-                    "time": 635868,
                     "forfeited": false,
                     "decayed": false
                 }
