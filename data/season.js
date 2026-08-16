@@ -1,5 +1,5 @@
 {
-    "date": 1786881001000,
+    "date": 1786881601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5936,20 +5936,6 @@
                     "oelo": 1939,
                     "ochange": -14,
                     "time": 624365,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782561148000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2137,
-                    "change": 16,
-                    "oelo": 1996,
-                    "ochange": -16,
-                    "time": 540505,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24601,20 +24587,6 @@
                     "oelo": 1997,
                     "ochange": -21,
                     "time": 591550,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782561148000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1996,
-                    "change": -16,
-                    "oelo": 2137,
-                    "ochange": 16,
-                    "time": 540505,
                     "forfeited": false,
                     "decayed": false
                 }
