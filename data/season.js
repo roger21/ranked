@@ -1,5 +1,5 @@
 {
-    "date": 1786883401000,
+    "date": 1786884001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24546,20 +24546,6 @@
                     "ochange": -18,
                     "time": 721810,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782563505000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "Bartorino",
-                    "elo": 2015,
-                    "change": -2,
-                    "oelo": 1829,
-                    "ochange": 2,
-                    "time": 642398,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
