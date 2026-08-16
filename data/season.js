@@ -1,5 +1,5 @@
 {
-    "date": 1786875601000,
+    "date": 1786876201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5965,20 +5965,6 @@
                     "ochange": 28,
                     "time": 709924,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782556158000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2149,
-                    "change": 18,
-                    "oelo": 2063,
-                    "ochange": -18,
-                    "time": 403423,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -116462,34 +116448,6 @@
                     "time": 480364,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782556158000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2063,
-                    "change": -18,
-                    "oelo": 2149,
-                    "ochange": 18,
-                    "time": 403423,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782555698000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 2081,
-                    "change": -20,
-                    "oelo": 2117,
-                    "ochange": 20,
-                    "time": 534065,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -162880,7 +162838,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "STABLES",
                     "result": "lost",
-                    "opponent": "TuffyArnex",
+                    "opponent": "ARNEX67",
                     "elo": 1559,
                     "change": -20,
                     "oelo": 1608,
@@ -169810,7 +169768,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "BRIDGE",
                     "result": "won",
-                    "opponent": "TuffyArnex",
+                    "opponent": "ARNEX67",
                     "elo": 1606,
                     "change": 19,
                     "oelo": 1547,
@@ -175937,7 +175895,7 @@
                     "type": "BURIED_TREASURE",
                     "bastion": "STABLES",
                     "result": "lost",
-                    "opponent": "TuffyArnex",
+                    "opponent": "ARNEX67",
                     "elo": 1755,
                     "change": -24,
                     "oelo": 1679,
