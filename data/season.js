@@ -1,5 +1,5 @@
 {
-    "date": 1786880401000,
+    "date": 1786881001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5950,20 +5950,6 @@
                     "oelo": 1996,
                     "ochange": -16,
                     "time": 540505,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782560535000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Haaons_",
-                    "elo": 2121,
-                    "change": -28,
-                    "oelo": 1933,
-                    "ochange": 28,
-                    "time": 709924,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -24629,20 +24615,6 @@
                     "oelo": 2137,
                     "ochange": 16,
                     "time": 540505,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782560438000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ItsNamii",
-                    "elo": 2012,
-                    "change": 15,
-                    "oelo": 1849,
-                    "ochange": -15,
-                    "time": 717213,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -182844,20 +182816,6 @@
                     "oelo": 2017,
                     "ochange": 21,
                     "time": 591550,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782560874000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Bartorino",
-                    "elo": 2018,
-                    "change": 14,
-                    "oelo": 1821,
-                    "ochange": -14,
-                    "time": 708733,
                     "forfeited": false,
                     "decayed": false
                 }
