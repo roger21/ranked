@@ -1,5 +1,5 @@
 {
-    "date": 1786865401000,
+    "date": 1786866001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6034,20 +6034,6 @@
                     "oelo": 2094,
                     "ochange": -21,
                     "time": 631268,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782545701000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 2101,
-                    "change": 20,
-                    "oelo": 2073,
-                    "ochange": -20,
-                    "time": 733170,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -37457,20 +37443,6 @@
                     "oelo": 1932,
                     "ochange": -15,
                     "time": 508981,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782545701000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2073,
-                    "change": -20,
-                    "oelo": 2101,
-                    "ochange": 20,
-                    "time": 733170,
                     "forfeited": false,
                     "decayed": false
                 }
