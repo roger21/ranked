@@ -1,5 +1,5 @@
 {
-    "date": 1786852801000,
+    "date": 1786853401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43934,22 +43934,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 13,
-                "elo": 2353,
+                "elo": 2366,
                 "top": 2460,
                 "points": 115,
                 "pb": 402891,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 586,
-                "playtime": 322735312,
-                "finished": 309,
-                "finishtime": 172955646,
-                "won": 345,
+                "matches": 587,
+                "playtime": 323247057,
+                "finished": 310,
+                "finishtime": 173467391,
+                "won": 346,
                 "lost": 216,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1786853173000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "thecamo6",
+                    "elo": 2366,
+                    "change": 13,
+                    "oelo": 2149,
+                    "ochange": -13,
+                    "time": 511745,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786852563000,
                     "type": "DESERT_TEMPLE",
@@ -73680,20 +73694,6 @@
                     "oelo": 1930,
                     "ochange": -12,
                     "time": 565976,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782533227000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 2182,
-                    "change": 12,
-                    "oelo": 1922,
-                    "ochange": -12,
-                    "time": 675899,
                     "forfeited": false,
                     "decayed": false
                 }
