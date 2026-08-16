@@ -1,5 +1,5 @@
 {
-    "date": 1786878601000,
+    "date": 1786879201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37298,8 +37298,8 @@
             "uuid": "3c8757790ab0400b8b9e3936e0dd535b",
             "nickname": "doogile",
             "stats": {
-                "rank": 9,
-                "elo": 2401,
+                "rank": 10,
+                "elo": 2396,
                 "top": 2514,
                 "points": 179,
                 "pb": 412717,
@@ -37315,6 +37315,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1786878688000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2396,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1786792287000,
                     "type": null,
