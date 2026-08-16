@@ -1,5 +1,5 @@
 {
-    "date": 1786869001000,
+    "date": 1786869602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5992,20 +5992,6 @@
                     "oelo": 2097,
                     "ochange": 23,
                     "time": 697433,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782549273000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ulsah1n",
-                    "elo": 2154,
-                    "change": 19,
-                    "oelo": 2093,
-                    "ochange": -19,
-                    "time": 614014,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -37345,20 +37331,6 @@
                     "oelo": 2147,
                     "ochange": 15,
                     "time": 497620,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782549429000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "VojtaH007",
-                    "elo": 2016,
-                    "change": -27,
-                    "oelo": 1854,
-                    "ochange": 27,
-                    "time": 562064,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -116586,20 +116558,6 @@
                     "oelo": 1887,
                     "ochange": -13,
                     "time": 598223,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782549273000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2093,
-                    "change": -19,
-                    "oelo": 2154,
-                    "ochange": 19,
-                    "time": 614014,
                     "forfeited": false,
                     "decayed": false
                 }
