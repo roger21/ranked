@@ -1,5 +1,5 @@
 {
-    "date": 1786962601000,
+    "date": 1786963201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -31390,20 +31390,6 @@
                     "oelo": 1978,
                     "ochange": 20,
                     "time": 690543,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782642863000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "gharfyy",
-                    "elo": 1950,
-                    "change": -20,
-                    "oelo": 1989,
-                    "ochange": 20,
-                    "time": 895005,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -78475,20 +78461,6 @@
                     "time": 548679,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782643184000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "pigswitch",
-                    "elo": 1950,
-                    "change": 16,
-                    "oelo": 1797,
-                    "ochange": -16,
-                    "time": 524810,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -94645,20 +94617,6 @@
                     "oelo": 2243,
                     "ochange": 12,
                     "time": 464760,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782642950000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 1997,
-                    "change": -20,
-                    "oelo": 2036,
-                    "ochange": 20,
-                    "time": 408894,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -183198,20 +183156,6 @@
                     "oelo": 1824,
                     "ochange": 27,
                     "time": 552980,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782642863000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 1989,
-                    "change": 20,
-                    "oelo": 1950,
-                    "ochange": -20,
-                    "time": 895005,
                     "forfeited": false,
                     "decayed": false
                 }
