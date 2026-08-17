@@ -1,5 +1,5 @@
 {
-    "date": 1786961401000,
+    "date": 1786962001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5572,20 +5572,6 @@
                     "oelo": 2016,
                     "ochange": -13,
                     "time": 489325,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782641870000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2218,
-                    "change": 12,
-                    "oelo": 1970,
-                    "ochange": -12,
-                    "time": 540189,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31432,20 +31418,6 @@
                     "oelo": 1989,
                     "ochange": 20,
                     "time": 895005,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782641870000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1970,
-                    "change": -12,
-                    "oelo": 2218,
-                    "ochange": 12,
-                    "time": 540189,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -183254,20 +183226,6 @@
                     "oelo": 1950,
                     "ochange": -20,
                     "time": 895005,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782641432000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "SammmyG",
-                    "elo": 1969,
-                    "change": -19,
-                    "oelo": 2029,
-                    "ochange": 19,
-                    "time": 628678,
                     "forfeited": false,
                     "decayed": false
                 }
