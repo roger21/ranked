@@ -1033,11 +1033,11 @@
         },
         "pb": 409669,
         "streak": 14,
-        "matches": 3598,
-        "playtime": 2376076935,
-        "finished": 1453,
-        "finishtime": 1053803240,
-        "won": 1930,
+        "matches": 3599,
+        "playtime": 2376656755,
+        "finished": 1454,
+        "finishtime": 1054383060,
+        "won": 1931,
         "lost": 1592,
         "forfeited": 177
     },
@@ -4808,7 +4808,7 @@
             "8": 1909,
             "9": 2219,
             "10": 0,
-            "11": 2210
+            "11": 2224
         },
         "points": {
             "1": 0,
@@ -4825,11 +4825,11 @@
         },
         "pb": 401967,
         "streak": 17,
-        "matches": 3507,
-        "playtime": 2212538256,
-        "finished": 1645,
-        "finishtime": 1165272908,
-        "won": 2169,
+        "matches": 3508,
+        "playtime": 2213119411,
+        "finished": 1646,
+        "finishtime": 1165854063,
+        "won": 2170,
         "lost": 1275,
         "forfeited": 315
     },
@@ -5749,12 +5749,12 @@
         },
         "pb": 408164,
         "streak": 14,
-        "matches": 10176,
-        "playtime": 6456303415,
+        "matches": 10177,
+        "playtime": 6456884570,
         "finished": 3639,
         "finishtime": 2566675635,
         "won": 5070,
-        "lost": 4677,
+        "lost": 4678,
         "forfeited": 1206
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
@@ -6093,7 +6093,7 @@
             "8": 0,
             "9": 1577,
             "10": 1897,
-            "11": 1846
+            "11": 1869
         },
         "points": {
             "2": 0,
@@ -6109,11 +6109,11 @@
         },
         "pb": 477474,
         "streak": 12,
-        "matches": 626,
-        "playtime": 364621010,
-        "finished": 235,
-        "finishtime": 166282642,
-        "won": 343,
+        "matches": 627,
+        "playtime": 365132245,
+        "finished": 236,
+        "finishtime": 166793877,
+        "won": 344,
         "lost": 249,
         "forfeited": 120
     },

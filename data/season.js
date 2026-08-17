@@ -1,5 +1,5 @@
 {
-    "date": 1786958401000,
+    "date": 1786959001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5628,20 +5628,6 @@
                     "oelo": 2083,
                     "ochange": -16,
                     "time": 532782,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782638482000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2201,
-                    "change": 14,
-                    "oelo": 1993,
-                    "ochange": -14,
-                    "time": 545162,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31558,20 +31544,6 @@
                     "oelo": 1823,
                     "ochange": -15,
                     "time": 522335,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782638482000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1993,
-                    "change": -14,
-                    "oelo": 2201,
-                    "ochange": 14,
-                    "time": 545162,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -133889,7 +133861,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "mintchloe",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2213,
                 "top": 2331,
                 "points": 0,
@@ -135550,23 +135522,37 @@
             "uuid": "af22aaab9ee74596a3578bd6345d25b5",
             "nickname": "priffie",
             "stats": {
-                "rank": 38,
-                "elo": 2208,
-                "top": 2210,
+                "rank": 34,
+                "elo": 2224,
+                "top": 2224,
                 "points": 13,
                 "pb": 433309,
-                "current": 3,
+                "current": 4,
                 "streak": 7,
-                "matches": 279,
-                "playtime": 160593855,
-                "finished": 142,
-                "finishtime": 84047253,
-                "won": 162,
+                "matches": 280,
+                "playtime": 161175010,
+                "finished": 143,
+                "finishtime": 84628408,
+                "won": 163,
                 "lost": 107,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1786959042000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "JustAltoid",
+                    "elo": 2224,
+                    "change": 16,
+                    "oelo": 2074,
+                    "ochange": -16,
+                    "time": 581155,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786958064000,
                     "type": "BURIED_TREASURE",
