@@ -1,5 +1,5 @@
 {
-    "date": 1786956001000,
+    "date": 1786956602000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5656,20 +5656,6 @@
                     "oelo": 2108,
                     "ochange": -19,
                     "time": 690661,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782636448000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2168,
-                    "change": 15,
-                    "oelo": 1984,
-                    "ochange": -15,
-                    "time": 560972,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31629,20 +31615,6 @@
                     "ochange": 1,
                     "time": 419381,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782636448000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1984,
-                    "change": -15,
-                    "oelo": 2168,
-                    "ochange": 15,
-                    "time": 560972,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
