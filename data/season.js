@@ -1,5 +1,5 @@
 {
-    "date": 1786935001000,
+    "date": 1786935601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32092,20 +32092,6 @@
                     "time": 340599,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782615236000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 1979,
-                    "change": -25,
-                    "oelo": 1882,
-                    "ochange": 25,
-                    "time": 553155,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -37013,34 +36999,6 @@
                     "oelo": 2050,
                     "ochange": 21,
                     "time": 567054,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782615472000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ranik_",
-                    "elo": 2050,
-                    "change": 16,
-                    "oelo": 1895,
-                    "ochange": -16,
-                    "time": 369476,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782615034000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Inphume",
-                    "elo": 2034,
-                    "change": 14,
-                    "oelo": 1821,
-                    "ochange": -14,
-                    "time": 609181,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -83284,34 +83242,6 @@
                     "oelo": 2029,
                     "ochange": -21,
                     "time": 567054,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782615564000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 2029,
-                    "change": -22,
-                    "oelo": 2025,
-                    "ochange": 22,
-                    "time": 210216,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782615232000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2051,
-                    "change": -21,
-                    "oelo": 2053,
-                    "ochange": 21,
-                    "time": 646711,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -166410,34 +166340,6 @@
                     "ochange": 15,
                     "time": 210066,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782615472000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 1895,
-                    "change": -16,
-                    "oelo": 2050,
-                    "ochange": 16,
-                    "time": 369476,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782615040000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "MrBudgiee",
-                    "elo": 1911,
-                    "change": 24,
-                    "oelo": 1966,
-                    "ochange": -24,
-                    "time": 662837,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
