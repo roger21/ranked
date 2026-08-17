@@ -1,5 +1,5 @@
 {
-    "date": 1786938001000,
+    "date": 1786938601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5895,20 +5895,6 @@
                     "ochange": -19,
                     "time": 418810,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782618346000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2139,
-                    "change": -26,
-                    "oelo": 2035,
-                    "ochange": 26,
-                    "time": 499604,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -36943,20 +36929,6 @@
                     "oelo": 1859,
                     "ochange": -14,
                     "time": 615348,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782618346000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BlazeMind",
-                    "elo": 2035,
-                    "change": 26,
-                    "oelo": 2139,
-                    "ochange": -26,
-                    "time": 499604,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -180275,20 +180247,6 @@
                     "time": 615348,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782618360000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Inphume",
-                    "elo": 1873,
-                    "change": 20,
-                    "oelo": 1843,
-                    "ochange": -20,
-                    "time": 638133,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -181342,20 +181300,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1994,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1782618077000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1999,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
