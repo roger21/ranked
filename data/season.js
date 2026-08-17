@@ -1,5 +1,5 @@
 {
-    "date": 1786962001000,
+    "date": 1786962601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5559,20 +5559,6 @@
                     "ochange": -12,
                     "time": 464760,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782642487000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "SammmyG",
-                    "elo": 2231,
-                    "change": 13,
-                    "oelo": 2016,
-                    "ochange": -13,
-                    "time": 489325,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -78503,20 +78489,6 @@
                     "time": 524810,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782642472000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "rurururuuururuu",
-                    "elo": 1934,
-                    "change": 14,
-                    "oelo": 1724,
-                    "ochange": -14,
-                    "time": 393849,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -100777,22 +100749,36 @@
             "nickname": "priffie",
             "stats": {
                 "rank": 32,
-                "elo": 2237,
-                "top": 2237,
+                "elo": 2250,
+                "top": 2250,
                 "points": 13,
                 "pb": 433309,
-                "current": 5,
+                "current": 6,
                 "streak": 7,
-                "matches": 281,
-                "playtime": 162261590,
-                "finished": 144,
-                "finishtime": 85714988,
-                "won": 164,
+                "matches": 282,
+                "playtime": 163287369,
+                "finished": 145,
+                "finishtime": 86740767,
+                "won": 165,
                 "lost": 107,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1786962406000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Birdeyyy",
+                    "elo": 2250,
+                    "change": 13,
+                    "oelo": 2014,
+                    "ochange": -13,
+                    "time": 1025779,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1786961088000,
                     "type": "VILLAGE",
