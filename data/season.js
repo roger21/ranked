@@ -1,5 +1,5 @@
 {
-    "date": 1786951801000,
+    "date": 1786952401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5698,20 +5698,6 @@
                     "oelo": 2001,
                     "ochange": -15,
                     "time": 490366,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782632249000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2161,
-                    "change": 17,
-                    "oelo": 2048,
-                    "ochange": -17,
-                    "time": 578354,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31712,20 +31698,6 @@
                     "oelo": 1868,
                     "ochange": -17,
                     "time": 838539,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782632097000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "ykn_Roselia",
-                    "elo": 1968,
-                    "change": -27,
-                    "oelo": 1807,
-                    "ochange": 27,
-                    "time": 544712,
                     "forfeited": false,
                     "decayed": false
                 }
