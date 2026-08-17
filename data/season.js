@@ -1,5 +1,5 @@
 {
-    "date": 1786980601000,
+    "date": 1786981201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90119,20 +90119,6 @@
                     "oelo": 1905,
                     "ochange": 25,
                     "time": 416591,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782661129000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2010,
-                    "change": 24,
-                    "oelo": 2077,
-                    "ochange": -24,
-                    "time": 542048,
                     "forfeited": false,
                     "decayed": false
                 }
