@@ -1,5 +1,5 @@
 {
-    "date": 1786956602000,
+    "date": 1786957201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5642,20 +5642,6 @@
                     "oelo": 1993,
                     "ochange": -14,
                     "time": 545162,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782637196000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2187,
-                    "change": 19,
-                    "oelo": 2108,
-                    "ochange": -19,
-                    "time": 690661,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31601,20 +31587,6 @@
                     "ochange": -24,
                     "time": 568552,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782637071000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "semcomet",
-                    "elo": 1983,
-                    "change": -1,
-                    "oelo": 1939,
-                    "ochange": 1,
-                    "time": 419381,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
