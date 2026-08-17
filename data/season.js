@@ -1,5 +1,5 @@
 {
-    "date": 1786953001000,
+    "date": 1786953601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5684,20 +5684,6 @@
                     "oelo": 2114,
                     "ochange": 23,
                     "time": 480937,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782633356000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "SammmyG",
-                    "elo": 2176,
-                    "change": 15,
-                    "oelo": 2001,
-                    "ochange": -15,
-                    "time": 490366,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -31684,20 +31670,6 @@
                     "oelo": 1802,
                     "ochange": -14,
                     "time": 569787,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782633135000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "asteroid20993",
-                    "elo": 1985,
-                    "change": 17,
-                    "oelo": 1868,
-                    "ochange": -17,
-                    "time": 838539,
                     "forfeited": false,
                     "decayed": false
                 }
