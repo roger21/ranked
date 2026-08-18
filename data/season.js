@@ -1,5 +1,5 @@
 {
-    "date": 1787085001000,
+    "date": 1787085601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13197,20 +13197,6 @@
                     "oelo": 2019,
                     "ochange": -20,
                     "time": 562102,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782765527000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 2048,
-                    "change": -17,
-                    "oelo": 2176,
-                    "ochange": 17,
-                    "time": 744521,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -30224,20 +30210,6 @@
                     "oelo": 1974,
                     "ochange": -16,
                     "time": 622745,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782765277000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "silverrruns",
-                    "elo": 2097,
-                    "change": -17,
-                    "oelo": 2214,
-                    "ochange": 17,
-                    "time": 579303,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79482,20 +79454,6 @@
                     "time": 568140,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782765527000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2176,
-                    "change": 17,
-                    "oelo": 2048,
-                    "ochange": -17,
-                    "time": 744521,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87408,22 +87366,36 @@
             "nickname": "v_strid",
             "stats": {
                 "rank": 29,
-                "elo": 2273,
+                "elo": 2286,
                 "top": 2439,
                 "points": 130,
                 "pb": 388467,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 1542,
-                "playtime": 877978201,
-                "finished": 728,
-                "finishtime": 432559316,
-                "won": 838,
+                "matches": 1543,
+                "playtime": 878556149,
+                "finished": 729,
+                "finishtime": 433137264,
+                "won": 839,
                 "lost": 678,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1787085513000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Jppsh",
+                    "elo": 2286,
+                    "change": 13,
+                    "oelo": 2072,
+                    "ochange": -13,
+                    "time": 577948,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787084754000,
                     "type": "BURIED_TREASURE",
@@ -108019,20 +107991,6 @@
                     "oelo": 2191,
                     "ochange": 22,
                     "time": 696504,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782765277000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Pinne",
-                    "elo": 2214,
-                    "change": 17,
-                    "oelo": 2097,
-                    "ochange": -17,
-                    "time": 579303,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -145747,20 +145705,6 @@
                     "ochange": 21,
                     "time": 564430,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782765377000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "sanjinhu",
-                    "elo": 1935,
-                    "change": 20,
-                    "oelo": 1903,
-                    "ochange": -20,
-                    "time": 441328,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
