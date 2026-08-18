@@ -1,5 +1,5 @@
 {
-    "date": 1787073601000,
+    "date": 1787074201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45013,20 +45013,6 @@
                     "time": 345214,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1782753908000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "sylvie0616",
-                    "elo": 2128,
-                    "change": -27,
-                    "oelo": 1987,
-                    "ochange": 27,
-                    "time": 210812,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -61161,20 +61147,6 @@
                     "oelo": 2053,
                     "ochange": -20,
                     "time": 543979,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782753876000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "slowunc",
-                    "elo": 2060,
-                    "change": -25,
-                    "oelo": 1965,
-                    "ochange": 25,
-                    "time": 586786,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -80292,20 +80264,6 @@
                     "oelo": 1972,
                     "ochange": -15,
                     "time": 596529,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782753871000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "AutomattPLUS",
-                    "elo": 2124,
-                    "change": 13,
-                    "oelo": 1902,
-                    "ochange": -13,
-                    "time": 795579,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -129046,20 +129004,6 @@
                     "ochange": 18,
                     "time": 680053,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782753697000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "subdas",
-                    "elo": 2106,
-                    "change": 0,
-                    "oelo": 2073,
-                    "ochange": 0,
-                    "time": 494821,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
