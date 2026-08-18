@@ -1,5 +1,5 @@
 {
-    "date": 1787045401000,
+    "date": 1787046001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -157882,34 +157882,6 @@
                     "oelo": 1833,
                     "ochange": -21,
                     "time": 604684,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782725943000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "BaccaDeww",
-                    "elo": 1820,
-                    "change": -23,
-                    "oelo": 1784,
-                    "ochange": 23,
-                    "time": 358405,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782725515000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "mukvl",
-                    "elo": 1843,
-                    "change": -18,
-                    "oelo": 1942,
-                    "ochange": 18,
-                    "time": 500265,
                     "forfeited": false,
                     "decayed": false
                 }
