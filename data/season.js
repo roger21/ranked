@@ -1,5 +1,5 @@
 {
-    "date": 1787037001000,
+    "date": 1787037601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -138174,20 +138174,6 @@
                     "time": 570644,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782717296000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "12BrainCells",
-                    "elo": 1966,
-                    "change": 17,
-                    "oelo": 1861,
-                    "ochange": -17,
-                    "time": 579435,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -160794,20 +160780,6 @@
                     "oelo": 1969,
                     "ochange": -22,
                     "time": 640588,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782717253000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "michawsomereborn",
-                    "elo": 1924,
-                    "change": 14,
-                    "oelo": 1726,
-                    "ochange": -14,
-                    "time": 678879,
                     "forfeited": false,
                     "decayed": false
                 }
