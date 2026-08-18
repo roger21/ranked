@@ -1,5 +1,5 @@
 {
-    "date": 1787081401000,
+    "date": 1787082001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13241,20 +13241,6 @@
                     "time": 526685,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782761520000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "retropog",
-                    "elo": 2092,
-                    "change": -18,
-                    "oelo": 2188,
-                    "ochange": 18,
-                    "time": 524078,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -20005,20 +19991,6 @@
                     "oelo": 2184,
                     "ochange": -21,
                     "time": 541326,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782761974000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "subdas",
-                    "elo": 2174,
-                    "change": 16,
-                    "oelo": 2027,
-                    "ochange": -16,
-                    "time": 555321,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -79774,20 +79746,6 @@
                     "oelo": 2080,
                     "ochange": -17,
                     "time": 571393,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782761520000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2188,
-                    "change": 18,
-                    "oelo": 2092,
-                    "ochange": -18,
-                    "time": 524078,
                     "forfeited": false,
                     "decayed": false
                 }
