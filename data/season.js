@@ -1,5 +1,5 @@
 {
-    "date": 1787022001000,
+    "date": 1787022601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43574,20 +43574,6 @@
                     "oelo": 1970,
                     "ochange": 26,
                     "time": 815742,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782702240000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Inphume",
-                    "elo": 2117,
-                    "change": 13,
-                    "oelo": 1882,
-                    "ochange": -13,
-                    "time": 539826,
                     "forfeited": false,
                     "decayed": false
                 }
