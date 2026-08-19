@@ -1,5 +1,5 @@
 {
-    "date": 1787178601000,
+    "date": 1787179201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -51537,20 +51537,6 @@
                     "time": 528388,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782859155000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "nEmerald",
-                    "elo": 2218,
-                    "change": 14,
-                    "oelo": 2011,
-                    "ochange": -14,
-                    "time": 686744,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -53350,20 +53336,6 @@
                     "oelo": 2296,
                     "ochange": -17,
                     "time": 467027,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782859064000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "pavkin",
-                    "elo": 2401,
-                    "change": 10,
-                    "oelo": 2076,
-                    "ochange": -10,
-                    "time": 522245,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -58058,20 +58030,6 @@
                     "oelo": 1972,
                     "ochange": -17,
                     "time": 552764,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782859064000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "doogile",
-                    "elo": 2076,
-                    "change": -10,
-                    "oelo": 2401,
-                    "ochange": 10,
-                    "time": 522245,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -86676,20 +86634,6 @@
                     "ochange": 17,
                     "time": 552764,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782858698000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 1989,
-                    "change": 17,
-                    "oelo": 1860,
-                    "ochange": -17,
-                    "time": 460220,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -143439,20 +143383,6 @@
                     "oelo": 1973,
                     "ochange": 22,
                     "time": 521025,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782859155000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 2011,
-                    "change": -14,
-                    "oelo": 2218,
-                    "ochange": 14,
-                    "time": 686744,
                     "forfeited": false,
                     "decayed": false
                 }
