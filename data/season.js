@@ -1,5 +1,5 @@
 {
-    "date": 1787141401000,
+    "date": 1787142001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -122353,20 +122353,6 @@
                     "oelo": 2020,
                     "ochange": -17,
                     "time": 562895,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782821695000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 2109,
-                    "change": 16,
-                    "oelo": 1952,
-                    "ochange": -16,
-                    "time": 585127,
                     "forfeited": false,
                     "decayed": false
                 }
