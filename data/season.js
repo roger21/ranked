@@ -1,5 +1,5 @@
 {
-    "date": 1787172601000,
+    "date": 1787173201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -45139,20 +45139,6 @@
                     "time": 450334,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782852817000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2364,
-                    "change": 15,
-                    "oelo": 2195,
-                    "ochange": -15,
-                    "time": 280530,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -79132,20 +79118,6 @@
                     "time": 540765,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782852772000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "4antoo",
-                    "elo": 1965,
-                    "change": -20,
-                    "oelo": 2014,
-                    "ochange": 20,
-                    "time": 708848,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -86829,20 +86801,6 @@
                     "oelo": 1928,
                     "ochange": -21,
                     "time": 628016,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782853070000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 1959,
-                    "change": -19,
-                    "oelo": 2020,
-                    "ochange": 19,
-                    "time": 522384,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -158983,20 +158941,6 @@
                     "oelo": 2063,
                     "ochange": 19,
                     "time": 661312,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782853070000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Czelco",
-                    "elo": 2020,
-                    "change": 19,
-                    "oelo": 1959,
-                    "ochange": -19,
-                    "time": 522384,
                     "forfeited": false,
                     "decayed": false
                 }
