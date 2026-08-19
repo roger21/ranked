@@ -1,5 +1,5 @@
 {
-    "date": 1787126401000,
+    "date": 1787127001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3095,20 +3095,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2504,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1782806720000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2509,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -97432,20 +97418,6 @@
                     "oelo": 2068,
                     "ochange": 20,
                     "time": 499714,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782806693000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "LawnMobius",
-                    "elo": 2046,
-                    "change": 12,
-                    "oelo": 1798,
-                    "ochange": -12,
-                    "time": 687516,
                     "forfeited": false,
                     "decayed": false
                 }
