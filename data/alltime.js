@@ -955,12 +955,12 @@
         },
         "pb": 431229,
         "streak": 15,
-        "matches": 2049,
-        "playtime": 1384703269,
+        "matches": 2050,
+        "playtime": 1385364101,
         "finished": 813,
         "finishtime": 584094276,
         "won": 1085,
-        "lost": 866,
+        "lost": 867,
         "forfeited": 37
     },
     "278f495d4e944ebe94ab01c571ac188e": {
@@ -2820,12 +2820,12 @@
         },
         "pb": 424838,
         "streak": 12,
-        "matches": 3109,
-        "playtime": 2071102907,
+        "matches": 3110,
+        "playtime": 2071710851,
         "finished": 1214,
         "finishtime": 884741436,
         "won": 1644,
-        "lost": 1317,
+        "lost": 1318,
         "forfeited": 28
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
@@ -2935,13 +2935,13 @@
         },
         "pb": 514784,
         "streak": 12,
-        "matches": 4301,
-        "playtime": 2761249254,
+        "matches": 4302,
+        "playtime": 2761659107,
         "finished": 1524,
         "finishtime": 1174341002,
         "won": 2198,
-        "lost": 1992,
-        "forfeited": 828
+        "lost": 1993,
+        "forfeited": 829
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
         "nickname": "Seauu",
@@ -4196,12 +4196,12 @@
         },
         "pb": 411362,
         "streak": 13,
-        "matches": 7654,
-        "playtime": 4650118201,
+        "matches": 7655,
+        "playtime": 4650607934,
         "finished": 2689,
         "finishtime": 1887537851,
         "won": 3772,
-        "lost": 3470,
+        "lost": 3471,
         "forfeited": 1342
     },
     "a0a672a0bc194540bc195220dc170dba": {
@@ -6076,12 +6076,12 @@
         },
         "pb": 455891,
         "streak": 12,
-        "matches": 645,
-        "playtime": 375488541,
+        "matches": 646,
+        "playtime": 376078153,
         "finished": 246,
         "finishtime": 172704244,
         "won": 356,
-        "lost": 255,
+        "lost": 256,
         "forfeited": 121
     },
     "e691063a2afc4c47ac987c0f307297ad": {
