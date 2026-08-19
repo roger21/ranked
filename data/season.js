@@ -1,5 +1,5 @@
 {
-    "date": 1787172001000,
+    "date": 1787172601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -86845,20 +86845,6 @@
                     "time": 522384,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782852417000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "cofesho",
-                    "elo": 1978,
-                    "change": -22,
-                    "oelo": 1959,
-                    "ochange": 22,
-                    "time": 559359,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -159011,20 +158997,6 @@
                     "oelo": 1959,
                     "ochange": -19,
                     "time": 522384,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782852152000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2001,
-                    "change": 21,
-                    "oelo": 1994,
-                    "ochange": -21,
-                    "time": 639013,
                     "forfeited": false,
                     "decayed": false
                 }
