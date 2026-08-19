@@ -1,5 +1,5 @@
 {
-    "date": 1787120401000,
+    "date": 1787121001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -161374,20 +161374,6 @@
                     "ochange": -23,
                     "time": 347249,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782800798000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "ClearColdWater",
-                    "elo": 1914,
-                    "change": 13,
-                    "oelo": 1690,
-                    "ochange": -13,
-                    "time": 855562,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
