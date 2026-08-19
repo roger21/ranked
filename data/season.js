@@ -1,5 +1,5 @@
 {
-    "date": 1787174401000,
+    "date": 1787175001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -79076,20 +79076,6 @@
                     "time": 580390,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782854701000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Frolde",
-                    "elo": 1908,
-                    "change": -20,
-                    "oelo": 1954,
-                    "ochange": 20,
-                    "time": 259074,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -86759,20 +86745,6 @@
                     "oelo": 1963,
                     "ochange": -21,
                     "time": 585347,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782854517000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Finnitzko",
-                    "elo": 1956,
-                    "change": 21,
-                    "oelo": 1928,
-                    "ochange": -21,
-                    "time": 628016,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -105946,20 +105918,6 @@
                     "oelo": 2366,
                     "ochange": -26,
                     "time": 682110,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782854549000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 2207,
-                    "change": 13,
-                    "oelo": 1984,
-                    "ochange": -13,
-                    "time": 760110,
                     "forfeited": false,
                     "decayed": false
                 }
