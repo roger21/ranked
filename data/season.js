@@ -1,5 +1,5 @@
 {
-    "date": 1787116801000,
+    "date": 1787117401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90449,20 +90449,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1782797000000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2176,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -161416,20 +161402,6 @@
                     "ochange": 25,
                     "time": 661098,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782797141000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Kickz",
-                    "elo": 1903,
-                    "change": 20,
-                    "oelo": 1853,
-                    "ochange": -20,
-                    "time": 679638,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
