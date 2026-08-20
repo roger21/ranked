@@ -1,5 +1,5 @@
 {
-    "date": 1787227801000,
+    "date": 1787228401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -160667,7 +160667,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2179,
                 "top": 2213,
                 "points": 17,
@@ -162440,7 +162440,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2176,
                 "top": 2403,
                 "points": 8,
