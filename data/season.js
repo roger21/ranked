@@ -1,5 +1,5 @@
 {
-    "date": 1787197201000,
+    "date": 1787197801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -65484,20 +65484,6 @@
                     "time": 529155,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782877329000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Inphume",
-                    "elo": 2187,
-                    "change": 15,
-                    "oelo": 2007,
-                    "ochange": -15,
-                    "time": 557789,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82597,20 +82583,6 @@
                     "oelo": 2203,
                     "ochange": 16,
                     "time": 529155,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782877350000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2088,
-                    "change": 20,
-                    "oelo": 2055,
-                    "ochange": -20,
-                    "time": 616619,
                     "forfeited": false,
                     "decayed": false
                 }
