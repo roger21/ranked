@@ -1,5 +1,5 @@
 {
-    "date": 1787209201000,
+    "date": 1787209802000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -47480,20 +47480,6 @@
                     "oelo": 2006,
                     "ochange": -14,
                     "time": 523015,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782889636000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "dolqhin",
-                    "elo": 2181,
-                    "change": 17,
-                    "oelo": 2058,
-                    "ochange": -17,
-                    "time": 588515,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -131342,20 +131328,6 @@
                     "time": 843994,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782889693000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1955,
-                    "change": 14,
-                    "oelo": 1750,
-                    "ochange": -14,
-                    "time": 630971,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -166337,20 +166309,6 @@
                     "oelo": 1933,
                     "ochange": 25,
                     "time": 580390,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782889636000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 2058,
-                    "change": -17,
-                    "oelo": 2181,
-                    "ochange": 17,
-                    "time": 588515,
                     "forfeited": false,
                     "decayed": false
                 }
