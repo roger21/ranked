@@ -1,5 +1,5 @@
 {
-    "date": 1787191801000,
+    "date": 1787192401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -79349,23 +79349,37 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "nickname": "silverrruns",
             "stats": {
-                "rank": 25,
-                "elo": 2296,
+                "rank": 27,
+                "elo": 2272,
                 "top": 2324,
                 "points": 95,
                 "pb": 388234,
-                "current": 4,
+                "current": 0,
                 "streak": 10,
-                "matches": 554,
-                "playtime": 310166646,
+                "matches": 555,
+                "playtime": 310858167,
                 "finished": 270,
                 "finishtime": 154427143,
                 "won": 302,
-                "lost": 243,
+                "lost": 244,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1787192410000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 2272,
+                    "change": -24,
+                    "oelo": 2205,
+                    "ochange": 24,
+                    "time": 691521,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787191337000,
                     "type": "RUINED_PORTAL",
@@ -83628,7 +83642,7 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2294,
                 "top": 2428,
                 "points": 49,
@@ -87025,7 +87039,7 @@
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "nickname": "Sadekeppi",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 2291,
                 "top": 2291,
                 "points": 23,
@@ -87846,7 +87860,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2272,
                 "top": 2272,
                 "points": 15,
@@ -140238,7 +140252,7 @@
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "nickname": "asteroid20993",
             "stats": {
-                "rank": 44,
+                "rank": 45,
                 "elo": 2204,
                 "top": 2204,
                 "points": 0,
@@ -142025,7 +142039,7 @@
             "uuid": "4aed1e5e8f5c44e2bc0666e0c03781af",
             "nickname": "nEmerald",
             "stats": {
-                "rank": 45,
+                "rank": 46,
                 "elo": 2202,
                 "top": 2230,
                 "points": 42,
@@ -143910,7 +143924,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2187,
                 "top": 2227,
                 "points": 16,
@@ -159557,7 +159571,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "mintchloe",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2182,
                 "top": 2331,
                 "points": 0,
@@ -161302,23 +161316,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 48,
-                "elo": 2181,
+                "rank": 44,
+                "elo": 2205,
                 "top": 2439,
                 "points": 130,
                 "pb": 373526,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 1613,
-                "playtime": 918646732,
-                "finished": 755,
-                "finishtime": 448528821,
-                "won": 871,
+                "matches": 1614,
+                "playtime": 919338253,
+                "finished": 756,
+                "finishtime": 449220342,
+                "won": 872,
                 "lost": 715,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1787192410000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "silverrruns",
+                    "elo": 2205,
+                    "change": 24,
+                    "oelo": 2272,
+                    "ochange": -24,
+                    "time": 691521,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787191626000,
                     "type": "BURIED_TREASURE",
