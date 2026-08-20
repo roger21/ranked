@@ -1,5 +1,5 @@
 {
-    "date": 1787250601000,
+    "date": 1787251201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -88238,20 +88238,6 @@
                     "oelo": 2104,
                     "ochange": -20,
                     "time": 637558,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782930741000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 2131,
-                    "change": 14,
-                    "oelo": 1919,
-                    "ochange": -14,
-                    "time": 540464,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -176720,20 +176706,6 @@
                     "oelo": 2080,
                     "ochange": -24,
                     "time": 468334,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782930934000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "boosterruns",
-                    "elo": 2005,
-                    "change": -24,
-                    "oelo": 1930,
-                    "ochange": 24,
-                    "time": 568863,
                     "forfeited": false,
                     "decayed": false
                 }
