@@ -2000,12 +2000,12 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4727,
-        "playtime": 2882170339,
+        "matches": 4728,
+        "playtime": 2882922417,
         "finished": 1688,
         "finishtime": 1211288547,
         "won": 2357,
-        "lost": 2042,
+        "lost": 2043,
         "forfeited": 562
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
@@ -2608,31 +2608,6 @@
         "lost": 1764,
         "forfeited": 320
     },
-    "6d004cbff8f148b598d4f6a720c239f1": {
-        "nickname": "2welt",
-        "country": "ua",
-        "top": {
-            "8": 1215,
-            "9": 1800,
-            "10": 2038,
-            "11": 2263
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0
-        },
-        "pb": 428393,
-        "streak": 10,
-        "matches": 3411,
-        "playtime": 2500588927,
-        "finished": 1067,
-        "finishtime": 812425451,
-        "won": 1572,
-        "lost": 1487,
-        "forfeited": 51
-    },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
         "nickname": "Ale267",
         "country": "it",
@@ -3110,8 +3085,8 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12187,
-        "playtime": 6641394685,
+        "matches": 12188,
+        "playtime": 6641756590,
         "finished": 4222,
         "finishtime": 2520954179,
         "won": 5610,
