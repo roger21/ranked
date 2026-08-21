@@ -1,5 +1,5 @@
 {
-    "date": 1787284201000,
+    "date": 1787284801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67005,20 +67005,6 @@
                     "time": 479826,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782964473000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "nhb_",
-                    "elo": 2077,
-                    "change": 31,
-                    "oelo": 2345,
-                    "ochange": -31,
-                    "time": 466916,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -102867,20 +102853,6 @@
                     "oelo": 2245,
                     "ochange": -17,
                     "time": 558325,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782964473000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BadGamer",
-                    "elo": 2345,
-                    "change": -31,
-                    "oelo": 2077,
-                    "ochange": 31,
-                    "time": 466916,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -166622,20 +166594,6 @@
                     "oelo": 1967,
                     "ochange": -19,
                     "time": 677776,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782964482000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Inphume",
-                    "elo": 2022,
-                    "change": 22,
-                    "oelo": 2044,
-                    "ochange": -22,
-                    "time": 559498,
                     "forfeited": false,
                     "decayed": false
                 }
