@@ -3116,12 +3116,12 @@
         },
         "pb": 481044,
         "streak": 12,
-        "matches": 295,
-        "playtime": 197468556,
+        "matches": 296,
+        "playtime": 198037427,
         "finished": 68,
         "finishtime": 56218096,
         "won": 160,
-        "lost": 97,
+        "lost": 98,
         "forfeited": 54
     },
     "7c92678742eb4e819f3122017697ae3d": {
@@ -6144,27 +6144,6 @@
         "won": 1301,
         "lost": 1094,
         "forfeited": 238
-    },
-    "ea2b3799645743df906350b7110d21e7": {
-        "nickname": "asteroid20993",
-        "country": "ca",
-        "top": {
-            "10": 1968,
-            "11": 2220
-        },
-        "points": {
-            "10": 0,
-            "11": 0
-        },
-        "pb": 461648,
-        "streak": 10,
-        "matches": 1046,
-        "playtime": 819653313,
-        "finished": 412,
-        "finishtime": 340531416,
-        "won": 553,
-        "lost": 426,
-        "forfeited": 63
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
         "nickname": "jonahhhhhhhh",
