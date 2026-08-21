@@ -1,5 +1,5 @@
 {
-    "date": 1787299201000,
+    "date": 1787299801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3305,20 +3305,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2494,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1782979524000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2499,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -27028,20 +27014,6 @@
                     "oelo": 2090,
                     "ochange": 15,
                     "time": 566630,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782979335000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1941,
-                    "change": -22,
-                    "oelo": 1941,
-                    "ochange": 22,
-                    "time": 509623,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -173024,7 +172996,7 @@
             "uuid": "6d004cbff8f148b598d4f6a720c239f1",
             "nickname": "2welt",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2173,
                 "top": 2263,
                 "points": 0,
