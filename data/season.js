@@ -1,5 +1,5 @@
 {
-    "date": 1787283001000,
+    "date": 1787283601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67033,20 +67033,6 @@
                     "time": 500038,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782963369000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "TheLandSharkJeff",
-                    "elo": 2027,
-                    "change": 18,
-                    "oelo": 1943,
-                    "ochange": -18,
-                    "time": 894767,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -79111,20 +79097,6 @@
                     "oelo": 2077,
                     "ochange": 31,
                     "time": 466916,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782963215000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Inphume",
-                    "elo": 2376,
-                    "change": -32,
-                    "oelo": 2066,
-                    "ochange": 32,
-                    "time": 591593,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -99549,7 +99521,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 2267,
                 "top": 2272,
                 "points": 15,
@@ -155399,20 +155371,6 @@
                     "oelo": 2046,
                     "ochange": 19,
                     "time": 500038,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782963278000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "YoomzMonkey",
-                    "elo": 2005,
-                    "change": -28,
-                    "oelo": 1835,
-                    "ochange": 28,
-                    "time": 678546,
                     "forfeited": false,
                     "decayed": false
                 }
