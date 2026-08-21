@@ -1,5 +1,5 @@
 {
-    "date": 1787275801000,
+    "date": 1787276401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6231,20 +6231,6 @@
                     "ochange": -18,
                     "time": 291052,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1782956307000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "nEmerald",
-                    "elo": 2180,
-                    "change": -28,
-                    "oelo": 1991,
-                    "ochange": 28,
-                    "time": 564887,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -67271,20 +67257,6 @@
                     "time": 541921,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1782956249000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "thecamo6",
-                    "elo": 2153,
-                    "change": 14,
-                    "oelo": 1955,
-                    "ochange": -14,
-                    "time": 561294,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -116492,7 +116464,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "k1kuofan123",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2246,
                 "top": 2273,
                 "points": 7,
@@ -155665,20 +155637,6 @@
                     "oelo": 1958,
                     "ochange": -19,
                     "time": 455783,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1782956307000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Infume",
-                    "elo": 1991,
-                    "change": 28,
-                    "oelo": 2180,
-                    "ochange": -28,
-                    "time": 564887,
                     "forfeited": false,
                     "decayed": false
                 }
