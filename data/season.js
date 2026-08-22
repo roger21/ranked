@@ -1,5 +1,5 @@
 {
-    "date": 1787432401000,
+    "date": 1787433001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13255,20 +13255,6 @@
                     "time": 545517,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783112446000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 1963,
-                    "change": -16,
-                    "oelo": 2105,
-                    "ochange": 16,
-                    "time": 453667,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -25100,20 +25086,6 @@
                     "oelo": 2019,
                     "ochange": -17,
                     "time": 509341,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783112446000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "romuxii",
-                    "elo": 2105,
-                    "change": 16,
-                    "oelo": 1963,
-                    "ochange": -16,
-                    "time": 453667,
                     "forfeited": false,
                     "decayed": false
                 }
