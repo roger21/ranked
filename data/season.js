@@ -1,5 +1,5 @@
 {
-    "date": 1787425201000,
+    "date": 1787425801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13379,20 +13379,6 @@
                     "oelo": 2053,
                     "ochange": 20,
                     "time": 662111,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783105480000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "snowdeerjulie",
-                    "elo": 2027,
-                    "change": -28,
-                    "oelo": 1848,
-                    "ochange": 28,
-                    "time": 533498,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -93998,20 +93984,6 @@
                     "time": 580235,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783105673000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Pheinberg",
-                    "elo": 2200,
-                    "change": 15,
-                    "oelo": 2033,
-                    "ochange": -15,
-                    "time": 580036,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97402,7 +97374,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2257,
                 "top": 2284,
                 "points": 13,
@@ -106847,7 +106819,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2247,
                 "top": 2326,
                 "points": 8,
@@ -120002,7 +119974,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2246,
                 "top": 2300,
                 "points": 17,
@@ -121999,23 +121971,37 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 34,
-                "elo": 2246,
+                "rank": 32,
+                "elo": 2258,
                 "top": 2405,
                 "points": 0,
-                "pb": 408977,
-                "current": 2,
+                "pb": 402020,
+                "current": 3,
                 "streak": 8,
-                "matches": 367,
-                "playtime": 209650795,
-                "finished": 162,
-                "finishtime": 94429645,
-                "won": 191,
+                "matches": 368,
+                "playtime": 210052815,
+                "finished": 163,
+                "finishtime": 94831665,
+                "won": 192,
                 "lost": 155,
                 "forfeited": 8
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1787425812000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "iKme_",
+                    "elo": 2258,
+                    "change": 12,
+                    "oelo": 2013,
+                    "ochange": -12,
+                    "time": 402020,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787425195000,
                     "type": "SHIPWRECK",
@@ -127062,7 +127048,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "k1kuofan123",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2246,
                 "top": 2273,
                 "points": 7,
@@ -161139,20 +161125,6 @@
                     "oelo": 2197,
                     "ochange": -20,
                     "time": 512511,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783105741000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 2211,
-                    "change": -25,
-                    "oelo": 2130,
-                    "ochange": 25,
-                    "time": 460607,
                     "forfeited": false,
                     "decayed": false
                 }
