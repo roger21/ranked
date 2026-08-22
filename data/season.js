@@ -1,5 +1,5 @@
 {
-    "date": 1787385601000,
+    "date": 1787386201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3291,20 +3291,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2489,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1783065927000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2494,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -123999,20 +123985,6 @@
                     "time": 607161,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783065696000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 2097,
-                    "change": 16,
-                    "oelo": 1948,
-                    "ochange": -16,
-                    "time": 564710,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -162428,14 +162400,14 @@
             "nickname": "bbiddd",
             "stats": {
                 "rank": 47,
-                "elo": 2193,
+                "elo": 2190,
                 "top": 2428,
                 "points": 49,
                 "pb": 383737,
                 "current": 0,
                 "streak": 10,
-                "matches": 813,
-                "playtime": 443775847,
+                "matches": 814,
+                "playtime": 444252269,
                 "finished": 384,
                 "finishtime": 223307038,
                 "won": 434,
@@ -162444,6 +162416,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1787386200000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "RID3",
+                    "elo": 2190,
+                    "change": -3,
+                    "oelo": 1962,
+                    "ochange": 3,
+                    "time": 476422,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1787385591000,
                     "type": "DESERT_TEMPLE",
