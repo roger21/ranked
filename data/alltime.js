@@ -402,13 +402,13 @@
         },
         "pb": 364576,
         "streak": 12,
-        "matches": 3259,
-        "playtime": 1908173817,
+        "matches": 3260,
+        "playtime": 1908552409,
         "finished": 1396,
         "finishtime": 909541092,
         "won": 1767,
-        "lost": 1372,
-        "forfeited": 506
+        "lost": 1373,
+        "forfeited": 507
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
         "nickname": "MrBudgiee",
@@ -2783,12 +2783,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 7955,
-        "playtime": 5061353327,
+        "matches": 7957,
+        "playtime": 5062272821,
         "finished": 2888,
         "finishtime": 2075114575,
-        "won": 4029,
-        "lost": 3609,
+        "won": 4030,
+        "lost": 3610,
         "forfeited": 829
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3143,12 +3143,12 @@
         },
         "pb": 481044,
         "streak": 12,
-        "matches": 306,
-        "playtime": 204101935,
+        "matches": 307,
+        "playtime": 204617504,
         "finished": 72,
         "finishtime": 58522242,
         "won": 166,
-        "lost": 101,
+        "lost": 102,
         "forfeited": 54
     },
     "7c92678742eb4e819f3122017697ae3d": {
@@ -4796,11 +4796,11 @@
         },
         "pb": 429541,
         "streak": 11,
-        "matches": 10043,
-        "playtime": 6018870334,
+        "matches": 10044,
+        "playtime": 6019156482,
         "finished": 3465,
         "finishtime": 2477834028,
-        "won": 4973,
+        "won": 4974,
         "lost": 4742,
         "forfeited": 2420
     },
@@ -6012,13 +6012,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 10092,
-        "playtime": 6158536199,
+        "matches": 10093,
+        "playtime": 6158822347,
         "finished": 4412,
         "finishtime": 2940117713,
         "won": 5376,
-        "lost": 4560,
-        "forfeited": 1062
+        "lost": 4561,
+        "forfeited": 1063
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "nickname": "NoFearr1337",
