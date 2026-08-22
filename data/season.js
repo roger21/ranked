@@ -1,5 +1,5 @@
 {
-    "date": 1787433601000,
+    "date": 1787434201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -13225,20 +13225,6 @@
                     "oelo": 2076,
                     "ochange": 15,
                     "time": 764988,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783113688000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "petal_go_round",
-                    "elo": 1923,
-                    "change": -19,
-                    "oelo": 2002,
-                    "ochange": 19,
-                    "time": 491149,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -132708,20 +132694,6 @@
                     "ochange": 22,
                     "time": 615365,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783114056000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Darko_RL",
-                    "elo": 1820,
-                    "change": -23,
-                    "oelo": 1776,
-                    "ochange": 23,
-                    "time": 551002,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
