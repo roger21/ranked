@@ -1,5 +1,5 @@
 {
-    "date": 1787390401000,
+    "date": 1787391001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -171713,7 +171713,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "mintchloe",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2174,
                 "top": 2331,
                 "points": 0,
@@ -173416,7 +173416,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2169,
                 "top": 2169,
                 "points": 24,
