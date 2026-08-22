@@ -1,5 +1,5 @@
 {
-    "date": 1787426401000,
+    "date": 1787427001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -93942,20 +93942,6 @@
                     "time": 454246,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783106953000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Phulham",
-                    "elo": 2197,
-                    "change": -20,
-                    "oelo": 2231,
-                    "ochange": 20,
-                    "time": 512511,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -161098,20 +161084,6 @@
                     "ochange": 1,
                     "time": 367582,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783106953000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Watermelon1708",
-                    "elo": 2231,
-                    "change": 20,
-                    "oelo": 2197,
-                    "ochange": -20,
-                    "time": 512511,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
