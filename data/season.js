@@ -1,5 +1,5 @@
 {
-    "date": 1787474401000,
+    "date": 1787475001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5974,22 +5974,36 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 3,
-                "elo": 2553,
+                "elo": 2565,
                 "top": 2569,
                 "points": 129,
                 "pb": 377246,
-                "current": 6,
+                "current": 7,
                 "streak": 16,
-                "matches": 477,
-                "playtime": 260055079,
-                "finished": 282,
-                "finishtime": 154087036,
-                "won": 313,
+                "matches": 478,
+                "playtime": 260734206,
+                "finished": 283,
+                "finishtime": 154766163,
+                "won": 314,
                 "lost": 154,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1787474591000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "yeopgihoney",
+                    "elo": 2565,
+                    "change": 12,
+                    "oelo": 2307,
+                    "ochange": -12,
+                    "time": 679127,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787462581000,
                     "type": "BURIED_TREASURE",
@@ -19049,20 +19063,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2044,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1783154970000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2049,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -76984,22 +76984,36 @@
             "nickname": "yeopgihoney",
             "stats": {
                 "rank": 25,
-                "elo": 2319,
+                "elo": 2307,
                 "top": 2476,
                 "points": 27,
                 "pb": 405777,
                 "current": 0,
                 "streak": 10,
-                "matches": 1449,
-                "playtime": 869288638,
+                "matches": 1450,
+                "playtime": 869967765,
                 "finished": 627,
                 "finishtime": 386900505,
                 "won": 748,
-                "lost": 652,
+                "lost": 653,
                 "forfeited": 8
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1787474591000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 2307,
+                    "change": -12,
+                    "oelo": 2565,
+                    "ochange": 12,
+                    "time": 679127,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787473774000,
                     "type": "VILLAGE",
@@ -85075,20 +85089,6 @@
                     "oelo": 1946,
                     "ochange": 20,
                     "time": 694714,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783154793000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "dwoh",
-                    "elo": 1934,
-                    "change": -26,
-                    "oelo": 1826,
-                    "ochange": 26,
-                    "time": 564264,
                     "forfeited": false,
                     "decayed": false
                 }
