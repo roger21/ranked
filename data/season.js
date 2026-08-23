@@ -1,5 +1,5 @@
 {
-    "date": 1787503801000,
+    "date": 1787504401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -20916,20 +20916,6 @@
                     "ochange": -15,
                     "time": 642025,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783184211000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1950,
-                    "change": 21,
-                    "oelo": 1926,
-                    "ochange": -21,
-                    "time": 463783,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -126147,7 +126133,7 @@
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "nickname": "JustAltoid",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2257,
                 "top": 2284,
                 "points": 13,
@@ -135508,7 +135494,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 2257,
                 "top": 2272,
                 "points": 15,
@@ -138849,23 +138835,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 39,
-                "elo": 2247,
+                "rank": 37,
+                "elo": 2266,
                 "top": 2439,
                 "points": 130,
                 "pb": 373526,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 1798,
-                "playtime": 1022651311,
-                "finished": 837,
-                "finishtime": 496491276,
-                "won": 964,
+                "matches": 1799,
+                "playtime": 1023193793,
+                "finished": 838,
+                "finishtime": 497033758,
+                "won": 965,
                 "lost": 804,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1787504402000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "Casssual",
+                    "elo": 2266,
+                    "change": 19,
+                    "oelo": 2190,
+                    "ochange": -19,
+                    "time": 542482,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787503799000,
                     "type": "BURIED_TREASURE",
@@ -176280,20 +176280,6 @@
                     "time": 610815,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783184015000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1954,
-                    "change": -16,
-                    "oelo": 2086,
-                    "ochange": 16,
-                    "time": 694553,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -176301,23 +176287,37 @@
             "uuid": "64858295eb754646b03caead840391a2",
             "nickname": "Casssual",
             "stats": {
-                "rank": 47,
-                "elo": 2209,
+                "rank": 51,
+                "elo": 2190,
                 "top": 2231,
                 "points": 8,
                 "pb": 448813,
-                "current": 1,
+                "current": 0,
                 "streak": 7,
-                "matches": 198,
-                "playtime": 119472302,
+                "matches": 199,
+                "playtime": 120014784,
                 "finished": 106,
                 "finishtime": 66110564,
                 "won": 118,
-                "lost": 74,
+                "lost": 75,
                 "forfeited": 0
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1787504402000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 2190,
+                    "change": -19,
+                    "oelo": 2266,
+                    "ochange": 19,
+                    "time": 542482,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787503798000,
                     "type": "VILLAGE",
@@ -177570,7 +177570,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "Phulham",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2207,
                 "top": 2249,
                 "points": 48,
@@ -179693,7 +179693,7 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2206,
                 "top": 2262,
                 "points": 61,
@@ -183160,7 +183160,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2204,
                 "top": 2286,
                 "points": 10,
