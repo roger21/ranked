@@ -1,5 +1,5 @@
 {
-    "date": 1787449801000,
+    "date": 1787450401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14686,22 +14686,36 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 5,
-                "elo": 2474,
+                "elo": 2484,
                 "top": 2569,
                 "points": 129,
                 "pb": 377246,
-                "current": 0,
+                "current": 1,
                 "streak": 16,
-                "matches": 462,
-                "playtime": 251905558,
-                "finished": 272,
-                "finishtime": 148119069,
-                "won": 301,
+                "matches": 463,
+                "playtime": 252417425,
+                "finished": 273,
+                "finishtime": 148630936,
+                "won": 302,
                 "lost": 151,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1787449911000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "madoosu",
+                    "elo": 2484,
+                    "change": 10,
+                    "oelo": 2146,
+                    "ochange": -10,
+                    "time": 511867,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787379998000,
                     "type": "DESERT_TEMPLE",
@@ -81993,20 +82007,6 @@
                     "time": 515498,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783130066000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "thecamo6",
-                    "elo": 2165,
-                    "change": -28,
-                    "oelo": 2003,
-                    "ochange": 28,
-                    "time": 483936,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -130247,20 +130247,6 @@
                     "time": 539873,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783130131000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2081,
-                    "change": -24,
-                    "oelo": 2029,
-                    "ochange": 24,
-                    "time": 529019,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -175238,20 +175224,6 @@
                     "ochange": -18,
                     "time": 433648,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783130131000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "HDMICables",
-                    "elo": 2029,
-                    "change": 24,
-                    "oelo": 2081,
-                    "ochange": -24,
-                    "time": 529019,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
