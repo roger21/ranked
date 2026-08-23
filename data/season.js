@@ -1,5 +1,5 @@
 {
-    "date": 1787472001000,
+    "date": 1787472601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3389,20 +3389,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2484,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1783152330000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2489,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -66200,20 +66186,6 @@
                     "oelo": 1796,
                     "ochange": -16,
                     "time": 595448,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783152572000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 1930,
-                    "change": 24,
-                    "oelo": 1988,
-                    "ochange": -24,
-                    "time": 688324,
                     "forfeited": false,
                     "decayed": false
                 }
