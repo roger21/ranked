@@ -1,5 +1,5 @@
 {
-    "date": 1787481601000,
+    "date": 1787482201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -5974,22 +5974,36 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 3,
-                "elo": 2530,
+                "elo": 2539,
                 "top": 2569,
                 "points": 129,
                 "pb": 377246,
-                "current": 0,
+                "current": 1,
                 "streak": 16,
-                "matches": 481,
-                "playtime": 262492435,
-                "finished": 284,
-                "finishtime": 155338257,
-                "won": 315,
+                "matches": 482,
+                "playtime": 263013263,
+                "finished": 285,
+                "finishtime": 155859085,
+                "won": 316,
                 "lost": 156,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1787481831000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "cornflakesmcsr",
+                    "elo": 2539,
+                    "change": 9,
+                    "oelo": 2159,
+                    "ochange": -9,
+                    "time": 520828,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787480623000,
                     "type": "RUINED_PORTAL",
