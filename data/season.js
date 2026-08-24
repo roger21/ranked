@@ -1,5 +1,5 @@
 {
-    "date": 1787568601000,
+    "date": 1787569201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -66081,20 +66081,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1783248992000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2290,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -70079,20 +70065,6 @@
                     "ochange": -15,
                     "time": 593894,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783248669000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "cvctus",
-                    "elo": 2054,
-                    "change": 18,
-                    "oelo": 1954,
-                    "ochange": -18,
-                    "time": 563530,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
