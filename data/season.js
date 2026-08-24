@@ -1,5 +1,5 @@
 {
-    "date": 1787538001000,
+    "date": 1787538601000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -2470,20 +2470,6 @@
                     "ochange": -19,
                     "time": 575004,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783218098000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "cbirrd",
-                    "elo": 2228,
-                    "change": -2,
-                    "oelo": 2016,
-                    "ochange": 2,
-                    "time": 482369,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
