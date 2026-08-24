@@ -1,5 +1,5 @@
 {
-    "date": 1787559601000,
+    "date": 1787560201000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -23019,20 +23019,6 @@
                     "oelo": 2114,
                     "ochange": -19,
                     "time": 735158,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783239891000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2156,
-                    "change": 15,
-                    "oelo": 1971,
-                    "ochange": -15,
-                    "time": 502252,
                     "forfeited": false,
                     "decayed": false
                 }
