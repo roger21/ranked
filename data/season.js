@@ -1,5 +1,5 @@
 {
-    "date": 1787569801000,
+    "date": 1787570401000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -161107,23 +161107,37 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "nickname": "Erikfzf",
             "stats": {
-                "rank": 45,
-                "elo": 2220,
+                "rank": 51,
+                "elo": 2197,
                 "top": 2262,
                 "points": 61,
                 "pb": 449505,
-                "current": 1,
+                "current": 0,
                 "streak": 13,
-                "matches": 429,
-                "playtime": 248701574,
+                "matches": 430,
+                "playtime": 249292305,
                 "finished": 215,
                 "finishtime": 130180876,
                 "won": 239,
-                "lost": 177,
+                "lost": 178,
                 "forfeited": 9
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1787570408000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "AstraF",
+                    "elo": 2197,
+                    "change": -23,
+                    "oelo": 2156,
+                    "ochange": 23,
+                    "time": 590731,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787569700000,
                     "type": "BURIED_TREASURE",
@@ -164588,7 +164602,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2210,
                 "top": 2310,
                 "points": 36,
@@ -165871,7 +165885,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2209,
                 "top": 2214,
                 "points": 11,
@@ -167378,7 +167392,7 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2207,
                 "top": 2210,
                 "points": 24,
@@ -174093,7 +174107,7 @@
             "uuid": "dd382293fed04a3e9fa850bb139279fc",
             "nickname": "Phulham",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2207,
                 "top": 2249,
                 "points": 48,
@@ -176216,7 +176230,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2204,
                 "top": 2286,
                 "points": 10,
