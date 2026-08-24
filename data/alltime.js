@@ -174,12 +174,12 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 8795,
-        "playtime": 6007802236,
+        "matches": 8796,
+        "playtime": 6008610042,
         "finished": 2961,
         "finishtime": 2175984818,
         "won": 4226,
-        "lost": 3980,
+        "lost": 3981,
         "forfeited": 328
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -881,12 +881,12 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 4234,
-        "playtime": 2907613718,
+        "matches": 4235,
+        "playtime": 2908186281,
         "finished": 1497,
         "finishtime": 1139340762,
         "won": 2057,
-        "lost": 1882,
+        "lost": 1883,
         "forfeited": 213
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
@@ -3112,11 +3112,11 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12268,
-        "playtime": 6682319126,
-        "finished": 4247,
-        "finishtime": 2534704322,
-        "won": 5639,
+        "matches": 12269,
+        "playtime": 6682893416,
+        "finished": 4248,
+        "finishtime": 2535278612,
+        "won": 5640,
         "lost": 5423,
         "forfeited": 2904
     },
@@ -4845,7 +4845,7 @@
     },
     "b516d1d18261467bbb6f447f0c111be7": {
         "nickname": "Gabryll",
-        "country": "mf",
+        "country": "pl",
         "top": {
             "4": 1100,
             "5": 1461,
