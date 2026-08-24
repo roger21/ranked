@@ -1,5 +1,5 @@
 {
-    "date": 1787592601000,
+    "date": 1787593201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -58217,20 +58217,6 @@
                     "ochange": 0,
                     "time": 344504,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783273131000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2113,
-                    "change": 12,
-                    "oelo": 1859,
-                    "ochange": -12,
-                    "time": 602713,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
