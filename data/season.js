@@ -1,5 +1,5 @@
 {
-    "date": 1787612401000,
+    "date": 1787613001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -73927,7 +73927,7 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 2324,
                 "top": 2327,
                 "points": 55,
@@ -75014,7 +75014,7 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 2322,
                 "top": 2405,
                 "points": 0,
@@ -80175,7 +80175,7 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "nickname": "mintchloe",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 2317,
                 "top": 2349,
                 "points": 0,
@@ -82172,7 +82172,7 @@
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "nickname": "asteroid20993",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2306,
                 "top": 2306,
                 "points": 0,
@@ -84519,7 +84519,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "nickname": "bing_pigs",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2305,
                 "top": 2397,
                 "points": 8,
@@ -86894,23 +86894,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 28,
-                "elo": 2304,
+                "rank": 23,
+                "elo": 2332,
                 "top": 2439,
                 "points": 130,
                 "pb": 373526,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 1865,
-                "playtime": 1061350423,
-                "finished": 868,
-                "finishtime": 515217685,
-                "won": 999,
+                "matches": 1866,
+                "playtime": 1062000895,
+                "finished": 869,
+                "finishtime": 515868157,
+                "won": 1000,
                 "lost": 836,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1787613016000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Feinberg",
+                    "elo": 2332,
+                    "change": 28,
+                    "oelo": 2503,
+                    "ochange": -28,
+                    "time": 650472,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787612290000,
                     "type": "SHIPWRECK",
