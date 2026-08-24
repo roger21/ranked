@@ -1,5 +1,5 @@
 {
-    "date": 1787602201000,
+    "date": 1787602801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -58232,34 +58232,6 @@
                     "time": 657306,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783282677000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Ale267",
-                    "elo": 2081,
-                    "change": -24,
-                    "oelo": 2009,
-                    "ochange": 24,
-                    "time": 210114,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783282256000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "v_strid",
-                    "elo": 2105,
-                    "change": -17,
-                    "oelo": 2221,
-                    "ochange": 17,
-                    "time": 553949,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -92957,20 +92929,6 @@
                     "oelo": 2351,
                     "ochange": 16,
                     "time": 573965,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783282256000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 2221,
-                    "change": 17,
-                    "oelo": 2105,
-                    "ochange": -17,
-                    "time": 553949,
                     "forfeited": false,
                     "decayed": false
                 }
