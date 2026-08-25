@@ -1,5 +1,5 @@
 {
-    "date": 1787647201000,
+    "date": 1787647801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -28181,20 +28181,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2034,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1783327774000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2039,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
