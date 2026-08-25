@@ -1,5 +1,5 @@
 {
-    "date": 1787648401000,
+    "date": 1787649001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -51541,20 +51541,6 @@
                     "time": 493559,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783328706000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "staremc",
-                    "elo": 2174,
-                    "change": 13,
-                    "oelo": 1957,
-                    "ochange": -13,
-                    "time": 592568,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82364,20 +82350,6 @@
                     "oelo": 1881,
                     "ochange": 26,
                     "time": 272283,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783328481000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "sylvie0616",
-                    "elo": 2026,
-                    "change": -22,
-                    "oelo": 2020,
-                    "ochange": 22,
-                    "time": 330808,
                     "forfeited": true,
                     "decayed": false
                 }
