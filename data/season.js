@@ -1,5 +1,5 @@
 {
-    "date": 1787652601000,
+    "date": 1787653201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -101806,7 +101806,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "TREASURE",
                     "result": "won",
-                    "opponent": "ELOFRAUDER4444",
+                    "opponent": "hctkey",
                     "elo": 1833,
                     "change": 16,
                     "oelo": 1698,
