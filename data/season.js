@@ -1,5 +1,5 @@
 {
-    "date": 1787689201000,
+    "date": 1787689801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -42323,23 +42323,37 @@
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
-                "rank": 13,
-                "elo": 2417,
+                "rank": 15,
+                "elo": 2392,
                 "top": 2539,
                 "points": 135,
                 "pb": 368221,
-                "current": 2,
+                "current": 0,
                 "streak": 15,
-                "matches": 596,
-                "playtime": 329822988,
+                "matches": 597,
+                "playtime": 330379554,
                 "finished": 343,
                 "finishtime": 195929407,
                 "won": 366,
-                "lost": 226,
+                "lost": 227,
                 "forfeited": 8
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1787689805000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "v_strid",
+                    "elo": 2392,
+                    "change": -25,
+                    "oelo": 2292,
+                    "ochange": 25,
+                    "time": 556566,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787642840000,
                     "type": "BURIED_TREASURE",
@@ -46294,7 +46308,7 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "nickname": "Aquacorde",
             "stats": {
-                "rank": 14,
+                "rank": 13,
                 "elo": 2416,
                 "top": 2455,
                 "points": 120,
@@ -50461,7 +50475,7 @@
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "nickname": "DARVY__X1",
             "stats": {
-                "rank": 15,
+                "rank": 14,
                 "elo": 2399,
                 "top": 2411,
                 "points": 58,
@@ -101602,7 +101616,7 @@
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2288,
                 "top": 2401,
                 "points": 56,
@@ -104915,7 +104929,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "snowyfield11",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2284,
                 "top": 2295,
                 "points": 35,
@@ -108774,7 +108788,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "nickname": "Watermelon1708",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2283,
                 "top": 2400,
                 "points": 0,
@@ -111303,7 +111317,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2278,
                 "top": 2278,
                 "points": 52,
@@ -113160,23 +113174,37 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 36,
-                "elo": 2267,
+                "rank": 32,
+                "elo": 2292,
                 "top": 2439,
                 "points": 130,
                 "pb": 373526,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 1903,
-                "playtime": 1083935391,
-                "finished": 885,
-                "finishtime": 525749833,
-                "won": 1017,
+                "matches": 1904,
+                "playtime": 1084491957,
+                "finished": 886,
+                "finishtime": 526306399,
+                "won": 1018,
                 "lost": 856,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1787689805000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Feinberg",
+                    "elo": 2292,
+                    "change": 25,
+                    "oelo": 2392,
+                    "ochange": -25,
+                    "time": 556566,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787689175000,
                     "type": "SHIPWRECK",
@@ -164580,20 +164608,6 @@
                     "ochange": -19,
                     "time": 732871,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783369568000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "oshywot",
-                    "elo": 1808,
-                    "change": -16,
-                    "oelo": 1947,
-                    "ochange": 16,
-                    "time": 512285,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
