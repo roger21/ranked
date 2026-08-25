@@ -1,5 +1,5 @@
 {
-    "date": 1787620801000,
+    "date": 1787621401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -138057,7 +138057,7 @@
             "nickname": "Czelco",
             "stats": {
                 "rank": 38,
-                "elo": 2252,
+                "elo": 2247,
                 "top": 2272,
                 "points": 15,
                 "pb": 434484,
@@ -138073,6 +138073,20 @@
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1787621386000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2247,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1787534982000,
                     "type": null,
