@@ -120,7 +120,7 @@
             "8": 2064,
             "9": 2334,
             "10": 2339,
-            "11": 2223
+            "11": 2242
         },
         "points": {
             "1": 0,
@@ -135,11 +135,11 @@
         },
         "pb": 379698,
         "streak": 16,
-        "matches": 4255,
-        "playtime": 2364268296,
-        "finished": 1683,
-        "finishtime": 1070889661,
-        "won": 2145,
+        "matches": 4256,
+        "playtime": 2364948025,
+        "finished": 1684,
+        "finishtime": 1071569390,
+        "won": 2146,
         "lost": 1957,
         "forfeited": 781
     },
@@ -916,11 +916,11 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 4290,
-        "playtime": 2941724833,
-        "finished": 1517,
-        "finishtime": 1152310839,
-        "won": 2083,
+        "matches": 4291,
+        "playtime": 2942373057,
+        "finished": 1518,
+        "finishtime": 1152959063,
+        "won": 2084,
         "lost": 1908,
         "forfeited": 215
     },
@@ -3485,7 +3485,7 @@
             "8": 1851,
             "9": 2165,
             "10": 2168,
-            "11": 2227
+            "11": 2250
         },
         "points": {
             "6": 0,
@@ -3497,11 +3497,11 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 9259,
-        "playtime": 5369743530,
-        "finished": 3414,
-        "finishtime": 2339125698,
-        "won": 4646,
+        "matches": 9260,
+        "playtime": 5370250338,
+        "finished": 3415,
+        "finishtime": 2339632506,
+        "won": 4647,
         "lost": 4353,
         "forfeited": 2183
     },
@@ -5580,12 +5580,12 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 6344,
-        "playtime": 3566408211,
+        "matches": 6345,
+        "playtime": 3566915019,
         "finished": 2547,
         "finishtime": 1662729756,
         "won": 3314,
-        "lost": 2836,
+        "lost": 2837,
         "forfeited": 1311
     },
     "cdf98ee293f3483fa3890bb3582dbda3": {
