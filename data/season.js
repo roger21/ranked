@@ -1,5 +1,5 @@
 {
-    "date": 1787656201000,
+    "date": 1787656801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -126770,20 +126770,6 @@
                     "time": 471881,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783336208000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 2004,
-                    "change": 14,
-                    "oelo": 1814,
-                    "ochange": -14,
-                    "time": 629756,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -194486,20 +194472,6 @@
                     "oelo": 2012,
                     "ochange": -13,
                     "time": 504417,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783336319000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "_Pasha1337_",
-                    "elo": 2213,
-                    "change": -23,
-                    "oelo": 2168,
-                    "ochange": 23,
-                    "time": 651250,
                     "forfeited": false,
                     "decayed": false
                 }
