@@ -1,5 +1,5 @@
 {
-    "date": 1787747401000,
+    "date": 1787748001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12359,20 +12359,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1783427599000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Erikfzf",
-                    "elo": 2220,
-                    "change": 20,
-                    "oelo": 2174,
-                    "ochange": -20,
-                    "time": 680076,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -186619,20 +186605,6 @@
                     "oelo": 2258,
                     "ochange": 18,
                     "time": 564752,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783427599000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 2174,
-                    "change": -20,
-                    "oelo": 2220,
-                    "ochange": 20,
-                    "time": 680076,
                     "forfeited": false,
                     "decayed": false
                 }
