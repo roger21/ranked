@@ -1,5 +1,5 @@
 {
-    "date": 1787759401000,
+    "date": 1787760001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -110568,20 +110568,6 @@
                     "oelo": 1997,
                     "ochange": 17,
                     "time": 456070,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783439621000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "tommorerow",
-                    "elo": 1907,
-                    "change": -22,
-                    "oelo": 1899,
-                    "ochange": 22,
-                    "time": 827505,
                     "forfeited": false,
                     "decayed": false
                 }
