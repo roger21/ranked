@@ -1,5 +1,5 @@
 {
-    "date": 1787734201000,
+    "date": 1787734801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -91564,20 +91564,6 @@
                     "time": 618377,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783414499000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "cvctus",
-                    "elo": 2119,
-                    "change": 14,
-                    "oelo": 1933,
-                    "ochange": -14,
-                    "time": 571414,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -138434,20 +138420,6 @@
                     "oelo": 2092,
                     "ochange": -27,
                     "time": 618377,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783414462000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "SuperC_",
-                    "elo": 1921,
-                    "change": 19,
-                    "oelo": 1864,
-                    "ochange": -19,
-                    "time": 724679,
                     "forfeited": false,
                     "decayed": false
                 }
