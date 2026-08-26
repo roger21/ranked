@@ -1,5 +1,5 @@
 {
-    "date": 1787729401000,
+    "date": 1787730001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -125387,7 +125387,7 @@
             "uuid": "048de51800794a208de7f01652513c32",
             "nickname": "snowyfield11",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2284,
                 "top": 2295,
                 "points": 35,
