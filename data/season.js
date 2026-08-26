@@ -1,5 +1,5 @@
 {
-    "date": 1787722801000,
+    "date": 1787723401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -59212,20 +59212,6 @@
                     "oelo": 2133,
                     "ochange": 25,
                     "time": 556311,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783402933000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 2238,
-                    "change": 17,
-                    "oelo": 2112,
-                    "ochange": -17,
-                    "time": 636188,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -129275,22 +129261,36 @@
             "nickname": "yjako",
             "stats": {
                 "rank": 36,
-                "elo": 2262,
+                "elo": 2278,
                 "top": 2278,
                 "points": 52,
                 "pb": 447931,
-                "current": 1,
+                "current": 2,
                 "streak": 14,
-                "matches": 223,
-                "playtime": 127450378,
-                "finished": 121,
-                "finishtime": 69474737,
-                "won": 135,
+                "matches": 224,
+                "playtime": 127965999,
+                "finished": 122,
+                "finishtime": 69990358,
+                "won": 136,
                 "lost": 81,
                 "forfeited": 0
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1787723129000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2278,
+                    "change": 16,
+                    "oelo": 2147,
+                    "ochange": -16,
+                    "time": 515621,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787722491000,
                     "type": "BURIED_TREASURE",
