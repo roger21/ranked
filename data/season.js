@@ -1,5 +1,5 @@
 {
-    "date": 1787753401000,
+    "date": 1787754001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -109473,20 +109473,6 @@
                     "time": 649289,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783433614000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2212,
-                    "change": 19,
-                    "oelo": 2159,
-                    "ochange": -19,
-                    "time": 672949,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -126350,20 +126336,6 @@
                     "ochange": 22,
                     "time": 563422,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783433650000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dwoh",
-                    "elo": 1930,
-                    "change": 19,
-                    "oelo": 1869,
-                    "ochange": -19,
-                    "time": 589931,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
