@@ -1,5 +1,5 @@
 {
-    "date": 1787712001000,
+    "date": 1787712601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -8956,22 +8956,36 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 3,
-                "elo": 2550,
+                "elo": 2558,
                 "top": 2637,
                 "points": 140,
                 "pb": 372705,
-                "current": 0,
+                "current": 1,
                 "streak": 14,
-                "matches": 635,
-                "playtime": 338030033,
-                "finished": 379,
-                "finishtime": 205787815,
-                "won": 428,
+                "matches": 636,
+                "playtime": 338627386,
+                "finished": 380,
+                "finishtime": 206385168,
+                "won": 429,
                 "lost": 199,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1787712398000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "cbirrd",
+                    "elo": 2558,
+                    "change": 8,
+                    "oelo": 2163,
+                    "ochange": -8,
+                    "time": 597353,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787711660000,
                     "type": "BURIED_TREASURE",
@@ -52014,20 +52028,6 @@
                     "time": 666601,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783392297000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "pavkin",
-                    "elo": 2182,
-                    "change": -20,
-                    "oelo": 2217,
-                    "ochange": 20,
-                    "time": 627319,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73173,20 +73173,6 @@
                     "oelo": 2167,
                     "ochange": -19,
                     "time": 621661,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783392297000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "v_strid",
-                    "elo": 2217,
-                    "change": 20,
-                    "oelo": 2182,
-                    "ochange": -20,
-                    "time": 627319,
                     "forfeited": false,
                     "decayed": false
                 }
