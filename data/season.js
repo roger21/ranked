@@ -1,5 +1,5 @@
 {
-    "date": 1787740201000,
+    "date": 1787740801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -90798,20 +90798,6 @@
                     "ochange": -12,
                     "time": 591620,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783420796000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "staremc",
-                    "elo": 2138,
-                    "change": -25,
-                    "oelo": 2039,
-                    "ochange": 25,
-                    "time": 756003,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
