@@ -1,5 +1,5 @@
 {
-    "date": 1787760001000,
+    "date": 1787760601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -87682,20 +87682,6 @@
                     "time": 677203,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783440140000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 1997,
-                    "change": 17,
-                    "oelo": 1890,
-                    "ochange": -17,
-                    "time": 456070,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -110554,20 +110540,6 @@
                     "oelo": 1772,
                     "ochange": -16,
                     "time": 618307,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783440140000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Ancoboyy",
-                    "elo": 1890,
-                    "change": -17,
-                    "oelo": 1997,
-                    "ochange": 17,
-                    "time": 456070,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -136227,20 +136199,6 @@
                     "oelo": 1908,
                     "ochange": 27,
                     "time": 640345,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783440156000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Pi1Mu9353",
-                    "elo": 2095,
-                    "change": 18,
-                    "oelo": 1998,
-                    "ochange": -18,
-                    "time": 778103,
                     "forfeited": false,
                     "decayed": false
                 }
