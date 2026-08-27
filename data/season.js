@@ -1,5 +1,5 @@
 {
-    "date": 1787840401000,
+    "date": 1787841001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -90904,20 +90904,6 @@
                     "oelo": 1951,
                     "ochange": -23,
                     "time": 703202,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783520921000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Japieh",
-                    "elo": 1877,
-                    "change": -20,
-                    "oelo": 1913,
-                    "ochange": 20,
-                    "time": 815933,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -191407,20 +191393,6 @@
                     "oelo": 1893,
                     "ochange": 16,
                     "time": 554205,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783520501000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "ShyCircle230",
-                    "elo": 1769,
-                    "change": -18,
-                    "oelo": 1863,
-                    "ochange": 18,
-                    "time": 378967,
                     "forfeited": true,
                     "decayed": false
                 }
