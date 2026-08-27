@@ -1,5 +1,5 @@
 {
-    "date": 1787843401000,
+    "date": 1787844001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -90864,20 +90864,6 @@
                     "time": 626402,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783523714000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "ShyCircle230",
-                    "elo": 1843,
-                    "change": -20,
-                    "oelo": 1887,
-                    "ochange": 20,
-                    "time": 755185,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146389,20 +146375,6 @@
                     "time": 573631,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783523691000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "__zone",
-                    "elo": 2092,
-                    "change": 16,
-                    "oelo": 1954,
-                    "ochange": -16,
-                    "time": 698724,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -192648,20 +192620,6 @@
                     "oelo": 1609,
                     "ochange": -17,
                     "time": 604679,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783523969000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Unknwonc",
-                    "elo": 1714,
-                    "change": -20,
-                    "oelo": 1745,
-                    "ochange": 20,
-                    "time": 588707,
                     "forfeited": false,
                     "decayed": false
                 }
