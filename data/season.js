@@ -1,5 +1,5 @@
 {
-    "date": 1787836201000,
+    "date": 1787836801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -79203,20 +79203,6 @@
                     "time": 796777,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783516605000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Obotron",
-                    "elo": 2004,
-                    "change": 15,
-                    "oelo": 1848,
-                    "ochange": -15,
-                    "time": 505093,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -91017,20 +91003,6 @@
                     "ochange": -20,
                     "time": 474272,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783516651000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "MaKiiiiii1106",
-                    "elo": 1842,
-                    "change": -23,
-                    "oelo": 1809,
-                    "ochange": 23,
-                    "time": 992964,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
