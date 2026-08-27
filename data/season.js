@@ -1,5 +1,5 @@
 {
-    "date": 1787841001000,
+    "date": 1787841601000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -160331,20 +160331,6 @@
                     "ochange": -19,
                     "time": 327501,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783521119000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "KenanKardes",
-                    "elo": 2141,
-                    "change": 15,
-                    "oelo": 1963,
-                    "ochange": -15,
-                    "time": 553388,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
