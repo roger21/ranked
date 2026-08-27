@@ -1,5 +1,5 @@
 {
-    "date": 1787871601000,
+    "date": 1787872201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -71145,20 +71145,6 @@
                     "time": 420770,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783552200000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "mintchloe",
-                    "elo": 2242,
-                    "change": -21,
-                    "oelo": 2264,
-                    "ochange": 21,
-                    "time": 603271,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -87577,20 +87563,6 @@
                     "oelo": 2095,
                     "ochange": 21,
                     "time": 552829,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783551735000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Frolde",
-                    "elo": 2102,
-                    "change": 22,
-                    "oelo": 2114,
-                    "ochange": -22,
-                    "time": 468855,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -138774,20 +138746,6 @@
                     "time": 739837,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783551800000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "michawsomereborn",
-                    "elo": 1868,
-                    "change": 13,
-                    "oelo": 1650,
-                    "ochange": -13,
-                    "time": 714102,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -148557,20 +148515,6 @@
                     "oelo": 2118,
                     "ochange": 26,
                     "time": 604708,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783552200000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Feinberg",
-                    "elo": 2264,
-                    "change": 21,
-                    "oelo": 2242,
-                    "ochange": -21,
-                    "time": 603271,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -182416,20 +182360,6 @@
                     "oelo": 2094,
                     "ochange": 22,
                     "time": 635468,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783551735000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "okshey",
-                    "elo": 2114,
-                    "change": -22,
-                    "oelo": 2102,
-                    "ochange": 22,
-                    "time": 468855,
                     "forfeited": false,
                     "decayed": false
                 }
