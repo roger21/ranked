@@ -1,5 +1,5 @@
 {
-    "date": 1787820601000,
+    "date": 1787821201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -94331,20 +94331,6 @@
                     "time": 596260,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783500733000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "_pizu",
-                    "elo": 1834,
-                    "change": 19,
-                    "oelo": 1780,
-                    "ochange": -19,
-                    "time": 211959,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -139037,20 +139023,6 @@
                     "oelo": 1831,
                     "ochange": -16,
                     "time": 601939,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783500982000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ninrobo",
-                    "elo": 1959,
-                    "change": 14,
-                    "oelo": 1769,
-                    "ochange": -14,
-                    "time": 745771,
                     "forfeited": false,
                     "decayed": false
                 }
