@@ -1,5 +1,5 @@
 {
-    "date": 1787862602000,
+    "date": 1787863201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -72068,20 +72068,6 @@
                     "ochange": 1,
                     "time": 655083,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783543128000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Inphume",
-                    "elo": 2261,
-                    "change": 13,
-                    "oelo": 2046,
-                    "ochange": -13,
-                    "time": 473469,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -146683,20 +146669,6 @@
                     "time": 646864,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783542642000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Obotron",
-                    "elo": 1851,
-                    "change": 20,
-                    "oelo": 1806,
-                    "ochange": -20,
-                    "time": 649275,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -175517,20 +175489,6 @@
                     "time": 513978,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783542606000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "subdas",
-                    "elo": 2048,
-                    "change": -19,
-                    "oelo": 2119,
-                    "ochange": 19,
-                    "time": 749430,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -192076,20 +192034,6 @@
                     "time": 586887,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783543058000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2102,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
