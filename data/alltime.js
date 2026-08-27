@@ -3992,12 +3992,12 @@
         },
         "pb": 380958,
         "streak": 16,
-        "matches": 10904,
-        "playtime": 6722555170,
+        "matches": 10905,
+        "playtime": 6723213911,
         "finished": 4340,
         "finishtime": 2888101284,
         "won": 5450,
-        "lost": 5069,
+        "lost": 5070,
         "forfeited": 880
     },
     "9649236873db4cb9b7bdc2dae693ed39": {
@@ -4154,7 +4154,7 @@
             "8": 1664,
             "9": 1771,
             "10": 2130,
-            "11": 1879
+            "11": 1900
         },
         "points": {
             "1": 0,
@@ -4171,11 +4171,11 @@
         },
         "pb": 418867,
         "streak": 18,
-        "matches": 5382,
-        "playtime": 3408526153,
-        "finished": 1797,
-        "finishtime": 1358040601,
-        "won": 2748,
+        "matches": 5383,
+        "playtime": 3409125874,
+        "finished": 1798,
+        "finishtime": 1358640322,
+        "won": 2749,
         "lost": 2465,
         "forfeited": 1138
     },
@@ -5477,13 +5477,13 @@
         },
         "pb": 401869,
         "streak": 12,
-        "matches": 6087,
-        "playtime": 3446086676,
+        "matches": 6088,
+        "playtime": 3446336013,
         "finished": 2197,
         "finishtime": 1465004687,
         "won": 2939,
-        "lost": 2813,
-        "forfeited": 1496
+        "lost": 2814,
+        "forfeited": 1497
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
@@ -6284,11 +6284,11 @@
         },
         "pb": 411602,
         "streak": 9,
-        "matches": 2769,
-        "playtime": 1792579726,
+        "matches": 2770,
+        "playtime": 1792829063,
         "finished": 1051,
         "finishtime": 723427227,
-        "won": 1357,
+        "won": 1358,
         "lost": 1220,
         "forfeited": 58
     },
@@ -6430,12 +6430,12 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 9498,
-        "playtime": 6007135790,
+        "matches": 9499,
+        "playtime": 6007763596,
         "finished": 3311,
         "finishtime": 2404300580,
         "won": 4689,
-        "lost": 4399,
+        "lost": 4400,
         "forfeited": 1261
     }
 }
