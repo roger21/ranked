@@ -1,5 +1,5 @@
 {
-    "date": 1787869801000,
+    "date": 1787870401000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -71171,20 +71171,6 @@
                     "oelo": 2228,
                     "ochange": 22,
                     "time": 502123,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783549930000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Pheinberg",
-                    "elo": 2270,
-                    "change": 15,
-                    "oelo": 2093,
-                    "ochange": -15,
-                    "time": 609343,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -148601,20 +148587,6 @@
                     "time": 608445,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783550274000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "rekrap2",
-                    "elo": 1870,
-                    "change": -23,
-                    "oelo": 1841,
-                    "ochange": 23,
-                    "time": 578222,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -171236,20 +171208,6 @@
                     "oelo": 1855,
                     "ochange": -15,
                     "time": 608445,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783550087000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 2009,
-                    "change": 14,
-                    "oelo": 1816,
-                    "ochange": -14,
-                    "time": 573037,
                     "forfeited": false,
                     "decayed": false
                 }
