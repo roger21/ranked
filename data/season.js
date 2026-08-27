@@ -1,5 +1,5 @@
 {
-    "date": 1787817601000,
+    "date": 1787818201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -9418,20 +9418,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 2464,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1783497936000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2469,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
@@ -100754,20 +100740,6 @@
                     "oelo": 2015,
                     "ochange": -13,
                     "time": 588670,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783497663000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 2223,
-                    "change": 13,
-                    "oelo": 1984,
-                    "ochange": -13,
-                    "time": 1182786,
                     "forfeited": false,
                     "decayed": false
                 }
