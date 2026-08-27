@@ -1111,11 +1111,11 @@
         },
         "pb": 430828,
         "streak": 12,
-        "matches": 8569,
-        "playtime": 6132767161,
-        "finished": 3047,
-        "finishtime": 2448791483,
-        "won": 4333,
+        "matches": 8570,
+        "playtime": 6133484141,
+        "finished": 3048,
+        "finishtime": 2449508463,
+        "won": 4334,
         "lost": 3959,
         "forfeited": 260
     },
@@ -3960,35 +3960,6 @@
         "won": 5449,
         "lost": 5068,
         "forfeited": 880
-    },
-    "9589914cf31a420bbcb07cd0768eec28": {
-        "nickname": "_Pasha1337_",
-        "country": null,
-        "top": {
-            "4": 1484,
-            "5": 1328,
-            "8": 1504,
-            "9": 1772,
-            "10": 2063,
-            "11": 2227
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 9
-        },
-        "pb": 390746,
-        "streak": 13,
-        "matches": 2727,
-        "playtime": 1787993218,
-        "finished": 984,
-        "finishtime": 723421169,
-        "won": 1367,
-        "lost": 1219,
-        "forfeited": 189
     },
     "9649236873db4cb9b7bdc2dae693ed39": {
         "nickname": "Yosa1003",
