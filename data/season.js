@@ -1,5 +1,5 @@
 {
-    "date": 1787820001000,
+    "date": 1787820601000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -26680,20 +26680,6 @@
                     "time": 612778,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783500576000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2029,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -94359,20 +94345,6 @@
                     "time": 211959,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783500393000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Blankbo1",
-                    "elo": 1815,
-                    "change": 13,
-                    "oelo": 1576,
-                    "ochange": -13,
-                    "time": 558799,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -100726,20 +100698,6 @@
                     "oelo": 2219,
                     "ochange": -20,
                     "time": 613866,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783500260000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 2236,
-                    "change": 13,
-                    "oelo": 2015,
-                    "ochange": -13,
-                    "time": 588670,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -171794,20 +171752,6 @@
                     "oelo": 2256,
                     "ochange": 20,
                     "time": 613866,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783500483000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Geegeeboy_25",
-                    "elo": 2239,
-                    "change": 14,
-                    "oelo": 2043,
-                    "ochange": -14,
-                    "time": 555936,
                     "forfeited": false,
                     "decayed": false
                 }
