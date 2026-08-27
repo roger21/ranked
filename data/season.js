@@ -1,5 +1,5 @@
 {
-    "date": 1787839801000,
+    "date": 1787840401000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -90920,20 +90920,6 @@
                     "time": 815933,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783520056000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ShyCircle230",
-                    "elo": 1897,
-                    "change": 20,
-                    "oelo": 1845,
-                    "ochange": -20,
-                    "time": 546829,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -160374,34 +160360,6 @@
                     "time": 553388,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783520361000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2126,
-                    "change": 22,
-                    "oelo": 2130,
-                    "ochange": -22,
-                    "time": 335743,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783519867000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "boywithcards",
-                    "elo": 2104,
-                    "change": 14,
-                    "oelo": 1893,
-                    "ochange": -14,
-                    "time": 524756,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -191464,20 +191422,6 @@
                     "ochange": 18,
                     "time": 378967,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783520056000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "1gurt",
-                    "elo": 1787,
-                    "change": 19,
-                    "oelo": 1725,
-                    "ochange": -19,
-                    "time": 707534,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
