@@ -1,5 +1,5 @@
 {
-    "date": 1787813401000,
+    "date": 1787814001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -97646,23 +97646,37 @@
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "nickname": "Feinberg",
             "stats": {
-                "rank": 28,
-                "elo": 2316,
+                "rank": 34,
+                "elo": 2288,
                 "top": 2539,
                 "points": 135,
                 "pb": 368221,
                 "current": 0,
                 "streak": 15,
-                "matches": 666,
-                "playtime": 367764680,
+                "matches": 667,
+                "playtime": 368329461,
                 "finished": 374,
                 "finishtime": 214146582,
                 "won": 402,
-                "lost": 260,
+                "lost": 261,
                 "forfeited": 8
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1787814002000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "cvctus",
+                    "elo": 2288,
+                    "change": -28,
+                    "oelo": 2111,
+                    "ochange": 28,
+                    "time": 564781,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787813022000,
                     "type": "BURIED_TREASURE",
@@ -102555,7 +102569,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsah1n",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2315,
                 "top": 2392,
                 "points": 58,
@@ -105700,7 +105714,7 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "nickname": "Gabryll",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 2311,
                 "top": 2311,
                 "points": 10,
@@ -112513,7 +112527,7 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "nickname": "ANJOUU",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2306,
                 "top": 2405,
                 "points": 0,
@@ -117856,7 +117870,7 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "nickname": "poopiefart13",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2306,
                 "top": 2330,
                 "points": 8,
@@ -130787,7 +130801,7 @@
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "nickname": "asteroid20993",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2306,
                 "top": 2306,
                 "points": 0,
@@ -133120,7 +133134,7 @@
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "nickname": "Yosa1003",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2305,
                 "top": 2305,
                 "points": 11,
