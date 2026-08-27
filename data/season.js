@@ -1,5 +1,5 @@
 {
-    "date": 1787839201000,
+    "date": 1787839801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -90932,20 +90932,6 @@
                     "oelo": 1845,
                     "ochange": -20,
                     "time": 546829,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783519404000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "feelonAG",
-                    "elo": 1877,
-                    "change": 14,
-                    "oelo": 1684,
-                    "ochange": -14,
-                    "time": 754567,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -191491,20 +191477,6 @@
                     "oelo": 1725,
                     "ochange": -19,
                     "time": 707534,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783519223000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "MinetofuCraft",
-                    "elo": 1768,
-                    "change": 17,
-                    "oelo": 1662,
-                    "ochange": -17,
-                    "time": 798750,
                     "forfeited": false,
                     "decayed": false
                 }
