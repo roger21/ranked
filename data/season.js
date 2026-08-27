@@ -1,5 +1,5 @@
 {
-    "date": 1787844001000,
+    "date": 1787844601000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -90850,20 +90850,6 @@
                     "time": 376937,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783524481000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Skorpion_v",
-                    "elo": 1861,
-                    "change": 18,
-                    "oelo": 1759,
-                    "ochange": -18,
-                    "time": 626402,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -146359,20 +146345,6 @@
                     "oelo": 2149,
                     "ochange": 20,
                     "time": 648785,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783524436000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Phulham",
-                    "elo": 2117,
-                    "change": 25,
-                    "oelo": 2219,
-                    "ochange": -25,
-                    "time": 573631,
                     "forfeited": false,
                     "decayed": false
                 }
