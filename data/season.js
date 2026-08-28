@@ -1,5 +1,5 @@
 {
-    "date": 1787908201000,
+    "date": 1787908801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -10839,7 +10839,7 @@
                     "type": "DESERT_TEMPLE",
                     "bastion": "BRIDGE",
                     "result": "lost",
-                    "opponent": "k1kuofan123",
+                    "opponent": "timmypickle45",
                     "elo": 2589,
                     "change": -32,
                     "oelo": 2254,
@@ -107258,7 +107258,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "STABLES",
                     "result": "lost",
-                    "opponent": "k1kuofan123",
+                    "opponent": "timmypickle45",
                     "elo": 2210,
                     "change": -21,
                     "oelo": 2222,
@@ -120053,7 +120053,7 @@
                     "type": "SHIPWRECK",
                     "bastion": "BRIDGE",
                     "result": "lost",
-                    "opponent": "k1kuofan123",
+                    "opponent": "timmypickle45",
                     "elo": 2132,
                     "change": -25,
                     "oelo": 2028,
@@ -167244,7 +167244,7 @@
                     "type": "RUINED_PORTAL",
                     "bastion": "TREASURE",
                     "result": "lost",
-                    "opponent": "k1kuofan123",
+                    "opponent": "timmypickle45",
                     "elo": 1861,
                     "change": -16,
                     "oelo": 2002,
@@ -183892,7 +183892,7 @@
         },
         {
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
-            "nickname": "k1kuofan123",
+            "nickname": "timmypickle45",
             "stats": {
                 "rank": 46,
                 "elo": 2226,
