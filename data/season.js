@@ -1,5 +1,5 @@
 {
-    "date": 1787896802000,
+    "date": 1787897401000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -107348,23 +107348,37 @@
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "nickname": "bbiddd",
             "stats": {
-                "rank": 28,
-                "elo": 2306,
+                "rank": 26,
+                "elo": 2319,
                 "top": 2428,
                 "points": 49,
                 "pb": 383737,
-                "current": 1,
+                "current": 2,
                 "streak": 10,
-                "matches": 908,
-                "playtime": 495524712,
-                "finished": 430,
-                "finishtime": 248502854,
-                "won": 480,
+                "matches": 909,
+                "playtime": 496085339,
+                "finished": 431,
+                "finishtime": 249063481,
+                "won": 481,
                 "lost": 398,
                 "forfeited": 80
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1787897431000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2319,
+                    "change": 13,
+                    "oelo": 2100,
+                    "ochange": -13,
+                    "time": 560627,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787895676000,
                     "type": "VILLAGE",
@@ -112131,7 +112145,7 @@
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "nickname": "asteroid20993",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2306,
                 "top": 2306,
                 "points": 0,
