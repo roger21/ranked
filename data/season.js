@@ -1,5 +1,5 @@
 {
-    "date": 1787925601000,
+    "date": 1787926201000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -109268,20 +109268,6 @@
                     "time": 633208,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783605902000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Blad_d",
-                    "elo": 1906,
-                    "change": 21,
-                    "oelo": 1904,
-                    "ochange": -21,
-                    "time": 496256,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -187081,20 +187067,6 @@
                     "oelo": 2052,
                     "ochange": -20,
                     "time": 583380,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783606175000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "boywithcards",
-                    "elo": 2084,
-                    "change": 13,
-                    "oelo": 1842,
-                    "ochange": -13,
-                    "time": 531034,
                     "forfeited": false,
                     "decayed": false
                 }
