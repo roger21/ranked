@@ -1,5 +1,5 @@
 {
-    "date": 1787929201000,
+    "date": 1787929801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -157282,23 +157282,37 @@
             "uuid": "529c478ae270415ba12044771a99249a",
             "nickname": "mukvl",
             "stats": {
-                "rank": 40,
-                "elo": 2243,
+                "rank": 44,
+                "elo": 2229,
                 "top": 2243,
                 "points": 24,
                 "pb": 402223,
-                "current": 6,
+                "current": 0,
                 "streak": 7,
-                "matches": 677,
-                "playtime": 381795850,
+                "matches": 678,
+                "playtime": 382224665,
                 "finished": 295,
                 "finishtime": 180375514,
                 "won": 350,
-                "lost": 305,
+                "lost": 306,
                 "forfeited": 68
             },
             "country": "in",
             "matches": [
+                {
+                    "date": 1787929844000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "ulsah1n",
+                    "elo": 2229,
+                    "change": -14,
+                    "oelo": 2419,
+                    "ochange": 14,
+                    "time": 428815,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787929123000,
                     "type": "VILLAGE",
@@ -164214,20 +164228,6 @@
                     "time": 728761,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783609311000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "yuushahinmeru",
-                    "elo": 1744,
-                    "change": 22,
-                    "oelo": 1764,
-                    "ochange": -22,
-                    "time": 679087,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -164235,7 +164235,7 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2241,
                 "top": 2273,
                 "points": 14,
@@ -170222,7 +170222,7 @@
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "nickname": "BinEin",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2237,
                 "top": 2240,
                 "points": 11,
@@ -172611,7 +172611,7 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2232,
                 "top": 2278,
                 "points": 52,
@@ -174888,7 +174888,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2232,
                 "top": 2272,
                 "points": 15,
@@ -177865,7 +177865,7 @@
             "uuid": "64858295eb754646b03caead840391a2",
             "nickname": "Casssual",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2229,
                 "top": 2231,
                 "points": 8,
@@ -183497,20 +183497,6 @@
                     "oelo": 2094,
                     "ochange": -19,
                     "time": 216774,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783609480000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "staremc",
-                    "elo": 2130,
-                    "change": -2,
-                    "oelo": 1970,
-                    "ochange": 2,
-                    "time": 829065,
                     "forfeited": true,
                     "decayed": false
                 }
