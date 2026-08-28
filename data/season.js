@@ -1,5 +1,5 @@
 {
-    "date": 1787877001000,
+    "date": 1787877601000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -74743,20 +74743,6 @@
                     "time": 0,
                     "forfeited": true,
                     "decayed": true
-                },
-                {
-                    "date": 1783557341000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "NoHacsJustRoblox",
-                    "elo": 2319,
-                    "change": 16,
-                    "oelo": 2171,
-                    "ochange": -16,
-                    "time": 443787,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -76906,20 +76892,6 @@
                     "oelo": 2482,
                     "ochange": 10,
                     "time": 643759,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783557341000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Feinberg",
-                    "elo": 2171,
-                    "change": -16,
-                    "oelo": 2319,
-                    "ochange": 16,
-                    "time": 443787,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -106627,20 +106599,6 @@
                     "time": 577965,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783557578000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1895,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
