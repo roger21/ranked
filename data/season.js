@@ -1,5 +1,5 @@
 {
-    "date": 1787912401000,
+    "date": 1787913001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -115129,20 +115129,6 @@
                     "time": 703755,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783592726000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "yjako",
-                    "elo": 1962,
-                    "change": -16,
-                    "oelo": 2118,
-                    "ochange": 16,
-                    "time": 586887,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -181874,20 +181860,6 @@
                     "oelo": 2154,
                     "ochange": -22,
                     "time": 569358,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783592726000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "karatebaby_",
-                    "elo": 2118,
-                    "change": 16,
-                    "oelo": 1962,
-                    "ochange": -16,
-                    "time": 586887,
                     "forfeited": false,
                     "decayed": false
                 }
