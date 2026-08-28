@@ -1,5 +1,5 @@
 {
-    "date": 1787942401000,
+    "date": 1787943001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -4835,20 +4835,6 @@
                     "oelo": 2103,
                     "ochange": -15,
                     "time": 555692,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783622609000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 2263,
-                    "change": 13,
-                    "oelo": 2024,
-                    "ochange": -13,
-                    "time": 590081,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -142277,34 +142263,6 @@
                     "time": 642060,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783622862000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "cofesho",
-                    "elo": 2050,
-                    "change": 20,
-                    "oelo": 2004,
-                    "ochange": -20,
-                    "time": 210195,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783622597000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "JackoWacko62",
-                    "elo": 2030,
-                    "change": 19,
-                    "oelo": 1977,
-                    "ochange": -19,
-                    "time": 635995,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -204566,20 +204524,6 @@
                     "oelo": 1805,
                     "ochange": 23,
                     "time": 521894,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783622605000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ItsNamii",
-                    "elo": 1861,
-                    "change": 21,
-                    "oelo": 1856,
-                    "ochange": -21,
-                    "time": 780487,
                     "forfeited": false,
                     "decayed": false
                 }
