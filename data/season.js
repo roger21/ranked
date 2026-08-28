@@ -1,5 +1,5 @@
 {
-    "date": 1787956201000,
+    "date": 1787956801000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -53161,20 +53161,6 @@
                     "ochange": -13,
                     "time": 300251,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783636761000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dinonuggieboi",
-                    "elo": 2146,
-                    "change": -16,
-                    "oelo": 2292,
-                    "ochange": 16,
-                    "time": 520459,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
