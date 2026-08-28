@@ -1,5 +1,5 @@
 {
-    "date": 1787927401000,
+    "date": 1787928001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -109240,20 +109240,6 @@
                     "time": 583030,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783607456000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Bartorino",
-                    "elo": 1907,
-                    "change": -20,
-                    "oelo": 1939,
-                    "ochange": 20,
-                    "time": 754646,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -173184,7 +173170,7 @@
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "nickname": "Ranik_",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2222,
                 "top": 2403,
                 "points": 8,
@@ -183609,7 +183595,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2218,
                 "top": 2425,
                 "points": 100,
@@ -187027,20 +187013,6 @@
                     "time": 787576,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783607480000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Blad_d",
-                    "elo": 2118,
-                    "change": 14,
-                    "oelo": 1908,
-                    "ochange": -14,
-                    "time": 552308,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -187048,7 +187020,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2216,
                 "top": 2351,
                 "points": 18,
@@ -197389,7 +197361,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "_Hypn0tic",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2216,
                 "top": 2216,
                 "points": 8,
@@ -199876,7 +199848,7 @@
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "nickname": "retropog",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2212,
                 "top": 2336,
                 "points": 55,
