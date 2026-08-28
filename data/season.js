@@ -1,5 +1,5 @@
 {
-    "date": 1787918401000,
+    "date": 1787919001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -118652,20 +118652,6 @@
                     "time": 541549,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783598860000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Ninrobo",
-                    "elo": 1997,
-                    "change": 13,
-                    "oelo": 1755,
-                    "ochange": -13,
-                    "time": 582340,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -152230,14 +152216,14 @@
             "nickname": "Ancoboyy",
             "stats": {
                 "rank": 37,
-                "elo": 2253,
+                "elo": 2252,
                 "top": 2425,
                 "points": 100,
                 "pb": 412328,
                 "current": 0,
                 "streak": 9,
-                "matches": 626,
-                "playtime": 336131109,
+                "matches": 627,
+                "playtime": 337108877,
                 "finished": 311,
                 "finishtime": 176967293,
                 "won": 343,
@@ -152246,6 +152232,20 @@
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1787918580000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Ranik_",
+                    "elo": 2252,
+                    "change": -1,
+                    "oelo": 2211,
+                    "ochange": 1,
+                    "time": 977768,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1787917115000,
                     "type": "DESERT_TEMPLE",
@@ -191057,14 +191057,14 @@
             "nickname": "Ranik_",
             "stats": {
                 "rank": 50,
-                "elo": 2210,
+                "elo": 2211,
                 "top": 2403,
                 "points": 8,
                 "pb": 394043,
                 "current": 0,
                 "streak": 8,
-                "matches": 1112,
-                "playtime": 578923093,
+                "matches": 1113,
+                "playtime": 579900861,
                 "finished": 496,
                 "finishtime": 289537469,
                 "won": 571,
@@ -191073,6 +191073,20 @@
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1787918580000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "Ancoboyy",
+                    "elo": 2211,
+                    "change": 1,
+                    "oelo": 2252,
+                    "ochange": -1,
+                    "time": 977768,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1787917551000,
                     "type": "BURIED_TREASURE",
