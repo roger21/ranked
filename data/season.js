@@ -1,5 +1,5 @@
 {
-    "date": 1787941801000,
+    "date": 1787942401000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -157320,20 +157320,6 @@
                     "oelo": 2473,
                     "ochange": 9,
                     "time": 566951,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783622342000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "cornflakesmcsr",
-                    "elo": 2122,
-                    "change": -22,
-                    "oelo": 2118,
-                    "ochange": 22,
-                    "time": 581226,
                     "forfeited": false,
                     "decayed": false
                 }
