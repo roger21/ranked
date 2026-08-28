@@ -1,5 +1,5 @@
 {
-    "date": 1787911801000,
+    "date": 1787912401000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -85251,20 +85251,6 @@
                     "time": 584804,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783592135000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "yeopgihoney",
-                    "elo": 2036,
-                    "change": 15,
-                    "oelo": 1866,
-                    "ochange": -15,
-                    "time": 500603,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -115155,20 +115141,6 @@
                     "oelo": 2118,
                     "ochange": 16,
                     "time": 586887,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783591863000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1978,
-                    "change": -25,
-                    "oelo": 1901,
-                    "ochange": 25,
-                    "time": 544605,
                     "forfeited": false,
                     "decayed": false
                 }
