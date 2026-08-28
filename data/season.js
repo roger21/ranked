@@ -1,5 +1,5 @@
 {
-    "date": 1787891401000,
+    "date": 1787892001000,
     "players": [
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
@@ -185319,14 +185319,14 @@
             "nickname": "karatebaby_",
             "stats": {
                 "rank": 44,
-                "elo": 2234,
+                "elo": 2233,
                 "top": 2234,
                 "points": 37,
                 "pb": 381009,
                 "current": 1,
                 "streak": 11,
-                "matches": 535,
-                "playtime": 316502915,
+                "matches": 536,
+                "playtime": 317236966,
                 "finished": 251,
                 "finishtime": 154994255,
                 "won": 293,
@@ -185335,6 +185335,20 @@
             },
             "country": "vn",
             "matches": [
+                {
+                    "date": 1787891999000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "novadud",
+                    "elo": 2233,
+                    "change": -1,
+                    "oelo": 2116,
+                    "ochange": 1,
+                    "time": 734051,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1787890955000,
                     "type": "DESERT_TEMPLE",
@@ -189392,20 +189406,6 @@
                     "oelo": 2037,
                     "ochange": -19,
                     "time": 464773,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783571542000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "sylvie0616",
-                    "elo": 2075,
-                    "change": 23,
-                    "oelo": 2099,
-                    "ochange": -23,
-                    "time": 666803,
                     "forfeited": false,
                     "decayed": false
                 }
