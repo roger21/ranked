@@ -1,5 +1,5 @@
 {
-    "date": 1787994601000,
+    "date": 1787995201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -36239,20 +36239,6 @@
                     "oelo": 2091,
                     "ochange": 24,
                     "time": 557869,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783674699000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Ancoboyy",
-                    "elo": 2175,
-                    "change": 19,
-                    "oelo": 2114,
-                    "ochange": -19,
-                    "time": 735158,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -130126,20 +130112,6 @@
                     "time": 621673,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783674699000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "Pinne",
-                    "elo": 2114,
-                    "change": -19,
-                    "oelo": 2175,
-                    "ochange": 19,
-                    "time": 735158,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -215687,20 +215659,6 @@
                     "oelo": 1745,
                     "ochange": 19,
                     "time": 845717,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783674923000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Doughie44",
-                    "elo": 1706,
-                    "change": -22,
-                    "oelo": 1706,
-                    "ochange": 22,
-                    "time": 1018806,
                     "forfeited": false,
                     "decayed": false
                 }
