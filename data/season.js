@@ -1,5 +1,5 @@
 {
-    "date": 1788002401000,
+    "date": 1788003001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -131435,20 +131435,6 @@
                     "oelo": 1907,
                     "ochange": -16,
                     "time": 771042,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783682919000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "yeopgihoney",
-                    "elo": 2048,
-                    "change": -23,
-                    "oelo": 2007,
-                    "ochange": 23,
-                    "time": 602942,
                     "forfeited": false,
                     "decayed": false
                 }
