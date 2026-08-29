@@ -1,5 +1,5 @@
 {
-    "date": 1787977801000,
+    "date": 1787978401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -117812,20 +117812,6 @@
                     "time": 596390,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783658245000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "KED_ty",
-                    "elo": 1886,
-                    "change": 13,
-                    "oelo": 1657,
-                    "ochange": -13,
-                    "time": 607520,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -119285,22 +119271,36 @@
             "nickname": "Inphume",
             "stats": {
                 "rank": 32,
-                "elo": 2280,
-                "top": 2280,
+                "elo": 2296,
+                "top": 2296,
                 "points": 3,
                 "pb": 345484,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 1626,
-                "playtime": 957253914,
+                "matches": 1627,
+                "playtime": 957629180,
                 "finished": 641,
                 "finishtime": 403349877,
-                "won": 800,
+                "won": 801,
                 "lost": 739,
                 "forfeited": 120
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1787978170000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "dandannyboy",
+                    "elo": 2296,
+                    "change": 16,
+                    "oelo": 2142,
+                    "ochange": -16,
+                    "time": 375266,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1787977183000,
                     "type": "VILLAGE",
@@ -150144,20 +150144,6 @@
                     "ochange": 0,
                     "time": 327478,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783657927000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "rekrap2",
-                    "elo": 1919,
-                    "change": -20,
-                    "oelo": 1947,
-                    "ochange": 20,
-                    "time": 653972,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -213524,20 +213510,6 @@
                     "time": 554875,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783657932000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "JackoWacko62",
-                    "elo": 1899,
-                    "change": -19,
-                    "oelo": 1957,
-                    "ochange": 19,
-                    "time": 268326,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -216415,20 +216387,6 @@
                     "oelo": 1702,
                     "ochange": -22,
                     "time": 580665,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783658159000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "jrueholiday_",
-                    "elo": 1682,
-                    "change": 15,
-                    "oelo": 1507,
-                    "ochange": -15,
-                    "time": 642750,
                     "forfeited": false,
                     "decayed": false
                 }
