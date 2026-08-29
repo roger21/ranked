@@ -1,5 +1,5 @@
 {
-    "date": 1787988601000,
+    "date": 1787989201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -123295,20 +123295,6 @@
                     "time": 488996,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783668974000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SuperC_",
-                    "elo": 2011,
-                    "change": 16,
-                    "oelo": 1877,
-                    "ochange": -16,
-                    "time": 469808,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -170189,20 +170175,6 @@
                     "oelo": 1662,
                     "ochange": 21,
                     "time": 690899,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783668602000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "R3nR",
-                    "elo": 1680,
-                    "change": 16,
-                    "oelo": 1540,
-                    "ochange": -16,
-                    "time": 633980,
                     "forfeited": false,
                     "decayed": false
                 }
