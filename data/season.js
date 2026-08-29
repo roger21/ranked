@@ -1,5 +1,5 @@
 {
-    "date": 1787982001000,
+    "date": 1787982601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24555,20 +24555,6 @@
                     "oelo": 1983,
                     "ochange": -14,
                     "time": 218100,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783662356000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 2174,
-                    "change": -27,
-                    "oelo": 2042,
-                    "ochange": 27,
-                    "time": 517486,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -86052,20 +86038,6 @@
                     "oelo": 1869,
                     "ochange": -14,
                     "time": 370989,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783662356000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BadGamer",
-                    "elo": 2042,
-                    "change": 27,
-                    "oelo": 2174,
-                    "ochange": -27,
-                    "time": 517486,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -170513,20 +170485,6 @@
                     "time": 261817,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783662302000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Aroks",
-                    "elo": 1724,
-                    "change": -20,
-                    "oelo": 1754,
-                    "ochange": 20,
-                    "time": 728761,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -216219,20 +216177,6 @@
                     "oelo": 1691,
                     "ochange": 22,
                     "time": 632921,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783662201000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Kickz",
-                    "elo": 1724,
-                    "change": 21,
-                    "oelo": 1698,
-                    "ochange": -21,
-                    "time": 686662,
                     "forfeited": false,
                     "decayed": false
                 }
