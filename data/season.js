@@ -1,5 +1,5 @@
 {
-    "date": 1788019201000,
+    "date": 1788019801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32609,20 +32609,6 @@
                     "oelo": 1996,
                     "ochange": -13,
                     "time": 614271,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783699787000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "takachaaaaaaan",
-                    "elo": 2207,
-                    "change": 13,
-                    "oelo": 1966,
-                    "ochange": -13,
-                    "time": 494599,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -104737,20 +104723,6 @@
                     "time": 581137,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783699787000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "romuxii",
-                    "elo": 1966,
-                    "change": -13,
-                    "oelo": 2207,
-                    "ochange": 13,
-                    "time": 494599,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -141659,20 +141631,6 @@
                     "oelo": 1926,
                     "ochange": -18,
                     "time": 577243,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783699266000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "iluappi",
-                    "elo": 1991,
-                    "change": 22,
-                    "oelo": 1997,
-                    "ochange": -22,
-                    "time": 495937,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -198182,6 +198140,20 @@
             "country": "de",
             "matches": [
                 {
+                    "date": 1788019867000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "yeopgihoney",
+                    "elo": 2204,
+                    "change": -22,
+                    "oelo": 2198,
+                    "ochange": 22,
+                    "time": 796733,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
                     "date": 1788018925000,
                     "type": "RUINED_PORTAL",
                     "bastion": "HOUSING",
@@ -201029,7 +201001,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "timmypickle45",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2221,
                 "top": 2273,
                 "points": 7,
@@ -201906,7 +201878,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "_Hypn0tic",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2216,
                 "top": 2216,
                 "points": 8,
