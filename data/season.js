@@ -1,5 +1,5 @@
 {
-    "date": 1787984401000,
+    "date": 1787985001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24514,20 +24514,6 @@
                     "ochange": 20,
                     "time": 490962,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783664616000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 2217,
-                    "change": 14,
-                    "oelo": 2005,
-                    "ochange": -14,
-                    "time": 375284,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -82221,20 +82207,6 @@
                     "oelo": 1849,
                     "ochange": -14,
                     "time": 712717,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783664707000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "LilMinien",
-                    "elo": 2033,
-                    "change": 15,
-                    "oelo": 1867,
-                    "ochange": -15,
-                    "time": 767371,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -216066,20 +216038,6 @@
                     "ochange": 26,
                     "time": 1013491,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783664579000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "draw",
-                    "opponent": "harusame_0123",
-                    "elo": 1728,
-                    "change": 0,
-                    "oelo": 1742,
-                    "ochange": 0,
-                    "time": 306262,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
