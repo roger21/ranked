@@ -1,5 +1,5 @@
 {
-    "date": 1787983201000,
+    "date": 1787983801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -82264,20 +82264,6 @@
                     "ochange": 15,
                     "time": 452940,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783663219000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 2033,
-                    "change": -23,
-                    "oelo": 2006,
-                    "ochange": 23,
-                    "time": 210270,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -216135,20 +216121,6 @@
                     "oelo": 1863,
                     "ochange": -27,
                     "time": 213699,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783663780000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "unicornbetrayal",
-                    "elo": 1701,
-                    "change": -1,
-                    "oelo": 1643,
-                    "ochange": 1,
-                    "time": 621201,
                     "forfeited": true,
                     "decayed": false
                 }
