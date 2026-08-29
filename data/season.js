@@ -1,5 +1,5 @@
 {
-    "date": 1787988001000,
+    "date": 1787988601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67865,20 +67865,6 @@
                     "time": 480722,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783668190000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "karatebaby_",
-                    "elo": 2167,
-                    "change": -28,
-                    "oelo": 1995,
-                    "ochange": 28,
-                    "time": 721398,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -123321,20 +123307,6 @@
                     "oelo": 1877,
                     "ochange": -16,
                     "time": 469808,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783668190000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 1995,
-                    "change": 28,
-                    "oelo": 2167,
-                    "ochange": -28,
-                    "time": 721398,
                     "forfeited": false,
                     "decayed": false
                 }
