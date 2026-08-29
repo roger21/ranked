@@ -1,5 +1,5 @@
 {
-    "date": 1787980801000,
+    "date": 1787981401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -216262,20 +216262,6 @@
                     "ochange": -21,
                     "time": 210094,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783661205000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Aroks",
-                    "elo": 1682,
-                    "change": -20,
-                    "oelo": 1734,
-                    "ochange": 20,
-                    "time": 702393,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
