@@ -1,5 +1,5 @@
 {
-    "date": 1788012601000,
+    "date": 1788013201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -135175,20 +135175,6 @@
                     "time": 720341,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783692898000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "xFray_",
-                    "elo": 1718,
-                    "change": 21,
-                    "oelo": 1711,
-                    "ochange": -21,
-                    "time": 561454,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -198192,23 +198178,37 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 48,
-                "elo": 2225,
+                "rank": 51,
+                "elo": 2206,
                 "top": 2386,
                 "points": 21,
                 "pb": 384080,
                 "current": 0,
                 "streak": 9,
-                "matches": 2716,
-                "playtime": 1487488601,
+                "matches": 2717,
+                "playtime": 1488173928,
                 "finished": 1177,
                 "finishtime": 702781970,
                 "won": 1389,
-                "lost": 1290,
+                "lost": 1291,
                 "forfeited": 363
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1788013246000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "mukvl",
+                    "elo": 2206,
+                    "change": -19,
+                    "oelo": 2285,
+                    "ochange": 19,
+                    "time": 685327,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788012494000,
                     "type": "DESERT_TEMPLE",
@@ -213181,7 +213181,7 @@
             "uuid": "78a8ec9f99d34371b73decd2a78ff9b0",
             "nickname": "timmypickle45",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2221,
                 "top": 2273,
                 "points": 7,
@@ -214058,7 +214058,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "_Hypn0tic",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2216,
                 "top": 2216,
                 "points": 8,
