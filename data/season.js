@@ -1,5 +1,5 @@
 {
-    "date": 1788016201000,
+    "date": 1788016801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -148598,20 +148598,6 @@
                     "oelo": 1756,
                     "ochange": -14,
                     "time": 555896,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783696278000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "cvctus",
-                    "elo": 1934,
-                    "change": -19,
-                    "oelo": 2008,
-                    "ochange": 19,
-                    "time": 491536,
                     "forfeited": false,
                     "decayed": false
                 }
