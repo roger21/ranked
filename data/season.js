@@ -1,5 +1,5 @@
 {
-    "date": 1787995201000,
+    "date": 1787995801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -99408,20 +99408,6 @@
                     "time": 470561,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783675358000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "sevensix_",
-                    "elo": 2301,
-                    "change": 13,
-                    "oelo": 2087,
-                    "ochange": -13,
-                    "time": 559235,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -104665,20 +104651,6 @@
                     "oelo": 1923,
                     "ochange": -21,
                     "time": 616188,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783675206000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "1viewerrr",
-                    "elo": 1921,
-                    "change": 20,
-                    "oelo": 1890,
-                    "ochange": -20,
-                    "time": 688592,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -130096,20 +130068,6 @@
                     "oelo": 2068,
                     "ochange": -19,
                     "time": 752407,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783675556000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "SuperC_",
-                    "elo": 2126,
-                    "change": 12,
-                    "oelo": 1878,
-                    "ochange": -12,
-                    "time": 621673,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -175667,23 +175625,37 @@
             "uuid": "5cd115f0ec1240659db152406c0984a3",
             "nickname": "yjako",
             "stats": {
-                "rank": 45,
-                "elo": 2235,
+                "rank": 52,
+                "elo": 2214,
                 "top": 2278,
                 "points": 52,
                 "pb": 447931,
-                "current": 3,
+                "current": 0,
                 "streak": 14,
-                "matches": 264,
-                "playtime": 150577417,
+                "matches": 265,
+                "playtime": 151205689,
                 "finished": 141,
                 "finishtime": 81085098,
                 "won": 156,
-                "lost": 101,
+                "lost": 102,
                 "forfeited": 0
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1787995802000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "Erikfzf",
+                    "elo": 2214,
+                    "change": -21,
+                    "oelo": 2226,
+                    "ochange": 21,
+                    "time": 628272,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1787994517000,
                     "type": "SHIPWRECK",
@@ -178042,7 +178014,7 @@
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "nickname": "subdas",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2233,
                 "top": 2386,
                 "points": 21,
@@ -193003,7 +192975,7 @@
             "uuid": "64858295eb754646b03caead840391a2",
             "nickname": "Casssual",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2229,
                 "top": 2231,
                 "points": 8,
@@ -194370,7 +194342,7 @@
             "uuid": "4f3e7905554345698e41f88caa4c088e",
             "nickname": "cofesho",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2227,
                 "top": 2227,
                 "points": 16,
@@ -212999,7 +212971,7 @@
             "uuid": "aa756a8da9784c16b9496f5f5fcaba09",
             "nickname": "Czelco",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2227,
                 "top": 2272,
                 "points": 15,
