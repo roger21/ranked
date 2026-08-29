@@ -1,5 +1,5 @@
 {
-    "date": 1788031801000,
+    "date": 1788032401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -4593,22 +4593,36 @@
             "nickname": "lowk3y_",
             "stats": {
                 "rank": 2,
-                "elo": 2617,
+                "elo": 2626,
                 "top": 2671,
                 "points": 129,
                 "pb": 377246,
-                "current": 4,
+                "current": 5,
                 "streak": 16,
-                "matches": 524,
-                "playtime": 285074141,
-                "finished": 311,
-                "finishtime": 170074410,
-                "won": 346,
+                "matches": 525,
+                "playtime": 285643655,
+                "finished": 312,
+                "finishtime": 170643924,
+                "won": 347,
                 "lost": 167,
                 "forfeited": 0
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1788031961000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "DARVY__X1",
+                    "elo": 2626,
+                    "change": 9,
+                    "oelo": 2279,
+                    "ochange": -9,
+                    "time": 569514,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788030690000,
                     "type": "VILLAGE",
@@ -121063,22 +121077,36 @@
             "nickname": "DARVY__X1",
             "stats": {
                 "rank": 32,
-                "elo": 2288,
+                "elo": 2279,
                 "top": 2419,
                 "points": 58,
                 "pb": 393016,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 896,
-                "playtime": 500245198,
+                "matches": 897,
+                "playtime": 500814712,
                 "finished": 419,
                 "finishtime": 242291583,
                 "won": 475,
-                "lost": 391,
+                "lost": 392,
                 "forfeited": 36
             },
             "country": "je",
             "matches": [
+                {
+                    "date": 1788031961000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "lowk3y_",
+                    "elo": 2279,
+                    "change": -9,
+                    "oelo": 2626,
+                    "ochange": 9,
+                    "time": 569514,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788031292000,
                     "type": "DESERT_TEMPLE",
