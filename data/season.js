@@ -1,5 +1,5 @@
 {
-    "date": 1787967601000,
+    "date": 1787968201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -53646,14 +53646,14 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 11,
-                "elo": 2451,
+                "elo": 2450,
                 "top": 2637,
                 "points": 140,
                 "pb": 372705,
                 "current": 0,
                 "streak": 14,
-                "matches": 664,
-                "playtime": 353517694,
+                "matches": 665,
+                "playtime": 354102851,
                 "finished": 393,
                 "finishtime": 213067631,
                 "won": 442,
@@ -53662,6 +53662,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1787968213000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "NoHacsJustRoblox",
+                    "elo": 2450,
+                    "change": -1,
+                    "oelo": 2365,
+                    "ochange": 1,
+                    "time": 585157,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1787967141000,
                     "type": "SHIPWRECK",
@@ -82959,14 +82973,14 @@
             "nickname": "NoHacsJustRoblox",
             "stats": {
                 "rank": 20,
-                "elo": 2364,
+                "elo": 2365,
                 "top": 2486,
                 "points": 87,
                 "pb": 389640,
                 "current": 1,
                 "streak": 8,
-                "matches": 397,
-                "playtime": 216377205,
+                "matches": 398,
+                "playtime": 216962362,
                 "finished": 195,
                 "finishtime": 109692064,
                 "won": 222,
@@ -82975,6 +82989,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1787968213000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "Infume",
+                    "elo": 2365,
+                    "change": 1,
+                    "oelo": 2450,
+                    "ochange": -1,
+                    "time": 585157,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1787967572000,
                     "type": "SHIPWRECK",
@@ -117686,20 +117714,6 @@
                     "time": 789586,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783647640000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "Magmania",
-                    "elo": 1954,
-                    "change": -22,
-                    "oelo": 1946,
-                    "ochange": 22,
-                    "time": 615676,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -131991,20 +132005,6 @@
                     "oelo": 1738,
                     "ochange": -16,
                     "time": 578118,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783648131000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 1857,
-                    "change": 22,
-                    "oelo": 1868,
-                    "ochange": -22,
-                    "time": 545352,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -213644,20 +213644,6 @@
                     "ochange": -20,
                     "time": 571600,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783648083000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "caqen",
-                    "elo": 1669,
-                    "change": 0,
-                    "oelo": 1692,
-                    "ochange": 0,
-                    "time": 316855,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
