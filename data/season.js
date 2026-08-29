@@ -1,5 +1,5 @@
 {
-    "date": 1787979601000,
+    "date": 1787980201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -110836,20 +110836,6 @@
                     "time": 789454,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783660096000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "educatedmonkey",
-                    "elo": 1836,
-                    "change": -20,
-                    "oelo": 1872,
-                    "ochange": 20,
-                    "time": 552265,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -123602,20 +123588,6 @@
                     "ochange": -21,
                     "time": 374833,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783660076000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "dandannyboy",
-                    "elo": 1930,
-                    "change": 24,
-                    "oelo": 2001,
-                    "ochange": -24,
-                    "time": 595081,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -216317,20 +216289,6 @@
                     "oelo": 1624,
                     "ochange": -18,
                     "time": 571811,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783659830000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "Yuzukicraft",
-                    "elo": 1684,
-                    "change": -20,
-                    "oelo": 1727,
-                    "ochange": 20,
-                    "time": 683031,
                     "forfeited": false,
                     "decayed": false
                 }
