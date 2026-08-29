@@ -1,5 +1,5 @@
 {
-    "date": 1787986201000,
+    "date": 1787986801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -67907,20 +67907,6 @@
                     "time": 790561,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783666393000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "bbiddd",
-                    "elo": 2215,
-                    "change": -27,
-                    "oelo": 2074,
-                    "ochange": 27,
-                    "time": 712470,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82138,20 +82124,6 @@
                     "ochange": 19,
                     "time": 383976,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783666393000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "Aquacorde",
-                    "elo": 2074,
-                    "change": 27,
-                    "oelo": 2215,
-                    "ochange": -27,
-                    "time": 712470,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -170331,20 +170303,6 @@
                     "time": 303716,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783666723000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "13ADGE",
-                    "elo": 1700,
-                    "change": 20,
-                    "oelo": 1671,
-                    "ochange": -20,
-                    "time": 729509,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -213676,20 +213634,6 @@
                     "oelo": 1814,
                     "ochange": 17,
                     "time": 564015,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783666332000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "blobserr",
-                    "elo": 1723,
-                    "change": 21,
-                    "oelo": 1703,
-                    "ochange": -21,
-                    "time": 567652,
                     "forfeited": false,
                     "decayed": false
                 }
