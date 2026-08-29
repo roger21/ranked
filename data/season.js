@@ -1,5 +1,5 @@
 {
-    "date": 1787979001000,
+    "date": 1787979601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -110850,20 +110850,6 @@
                     "time": 552265,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1783659289000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "karatebaby_",
-                    "elo": 1856,
-                    "change": -20,
-                    "oelo": 1906,
-                    "ochange": 20,
-                    "time": 596390,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -123629,20 +123615,6 @@
                     "oelo": 2001,
                     "ochange": -24,
                     "time": 595081,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783659289000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Inphume",
-                    "elo": 1906,
-                    "change": 20,
-                    "oelo": 1856,
-                    "ochange": -20,
-                    "time": 596390,
                     "forfeited": false,
                     "decayed": false
                 }
