@@ -1,5 +1,5 @@
 {
-    "date": 1787985001000,
+    "date": 1787985601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24499,20 +24499,6 @@
                     "oelo": 2078,
                     "ochange": -16,
                     "time": 641622,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783665158000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "Aquacorde",
-                    "elo": 2197,
-                    "change": -20,
-                    "oelo": 2242,
-                    "ochange": 20,
-                    "time": 490962,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -67949,20 +67935,6 @@
                     "time": 712470,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783665158000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "BadGamer",
-                    "elo": 2242,
-                    "change": 20,
-                    "oelo": 2197,
-                    "ochange": -20,
-                    "time": 490962,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -82195,20 +82167,6 @@
                     "time": 712470,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1783665554000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "ItzUser",
-                    "elo": 2047,
-                    "change": 14,
-                    "oelo": 1849,
-                    "ochange": -14,
-                    "time": 712717,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -89860,7 +89818,7 @@
             "nickname": "Sadekeppi",
             "stats": {
                 "rank": 23,
-                "elo": 2344,
+                "elo": 2339,
                 "top": 2349,
                 "points": 23,
                 "pb": 448114,
@@ -89876,6 +89834,20 @@
             },
             "country": "fi",
             "matches": [
+                {
+                    "date": 1787985075000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2339,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1787898672000,
                     "type": null,
