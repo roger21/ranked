@@ -2039,13 +2039,13 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4786,
-        "playtime": 2917093825,
+        "matches": 4787,
+        "playtime": 2917450278,
         "finished": 1709,
         "finishtime": 1225028919,
         "won": 2379,
-        "lost": 2076,
-        "forfeited": 567
+        "lost": 2077,
+        "forfeited": 568
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
         "nickname": "nEmerald",
@@ -2532,13 +2532,13 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 9151,
-        "playtime": 5525361787,
+        "matches": 9152,
+        "playtime": 5525572587,
         "finished": 3778,
         "finishtime": 2514630647,
         "won": 4755,
-        "lost": 4167,
-        "forfeited": 1198
+        "lost": 4168,
+        "forfeited": 1199
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
         "nickname": "sanjinhu",
@@ -2851,11 +2851,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 8140,
-        "playtime": 5168868842,
+        "matches": 8141,
+        "playtime": 5169079642,
         "finished": 2964,
         "finishtime": 2120470842,
-        "won": 4117,
+        "won": 4118,
         "lost": 3704,
         "forfeited": 830
     },
@@ -3180,13 +3180,13 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12369,
-        "playtime": 6734724230,
+        "matches": 12370,
+        "playtime": 6734953224,
         "finished": 4292,
         "finishtime": 2559294907,
         "won": 5690,
-        "lost": 5465,
-        "forfeited": 2928
+        "lost": 5466,
+        "forfeited": 2929
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -6352,12 +6352,12 @@
         },
         "pb": 455391,
         "streak": 11,
-        "matches": 4158,
-        "playtime": 2745870116,
+        "matches": 4159,
+        "playtime": 2746470400,
         "finished": 1557,
         "finishtime": 1189473724,
         "won": 2184,
-        "lost": 1879,
+        "lost": 1880,
         "forfeited": 515
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
