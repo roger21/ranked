@@ -1,5 +1,5 @@
 {
-    "date": 1787981401000,
+    "date": 1787982001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -86067,20 +86067,6 @@
                     "ochange": -27,
                     "time": 517486,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1783661749000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "dandannyboy",
-                    "elo": 2015,
-                    "change": -21,
-                    "oelo": 2022,
-                    "ochange": 21,
-                    "time": 584804,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -216248,20 +216234,6 @@
                     "ochange": -21,
                     "time": 686662,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1783661468000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "Dubbinski",
-                    "elo": 1703,
-                    "change": 21,
-                    "oelo": 1679,
-                    "ochange": -21,
-                    "time": 210094,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
