@@ -1,5 +1,5 @@
 {
-    "date": 1788085801000,
+    "date": 1788086401000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -2196,22 +2196,36 @@
             "nickname": "kohout135",
             "stats": {
                 "rank": 11,
-                "elo": 1678,
+                "elo": 1655,
                 "top": 1692,
                 "points": 0,
                 "pb": 531736,
                 "current": 0,
                 "streak": 5,
-                "matches": 10,
-                "playtime": 5612202,
+                "matches": 11,
+                "playtime": 6258588,
                 "finished": 5,
                 "finishtime": 3148585,
                 "won": 5,
-                "lost": 4,
+                "lost": 5,
                 "forfeited": 1
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1788086233000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "sevensix_",
+                    "elo": 1655,
+                    "change": -23,
+                    "oelo": 1627,
+                    "ochange": 23,
+                    "time": 646386,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788085380000,
                     "type": "SHIPWRECK",
@@ -3993,10 +4007,145 @@
             ]
         },
         {
+            "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
+            "nickname": "sevensix_",
+            "stats": {
+                "rank": 23,
+                "elo": 1627,
+                "top": 1663,
+                "points": 0,
+                "pb": 423892,
+                "current": 1,
+                "streak": 3,
+                "matches": 13,
+                "playtime": 6850626,
+                "finished": 5,
+                "finishtime": 2859696,
+                "won": 7,
+                "lost": 6,
+                "forfeited": 0
+            },
+            "country": "hk",
+            "matches": [
+                {
+                    "date": 1788086233000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "kohout135",
+                    "elo": 1627,
+                    "change": 23,
+                    "oelo": 1655,
+                    "ochange": -23,
+                    "time": 646386,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788085420000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "nahhann",
+                    "elo": 1604,
+                    "change": -14,
+                    "oelo": 1798,
+                    "ochange": 14,
+                    "time": 493623,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788084694000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "BlazeMind",
+                    "elo": 1618,
+                    "change": -12,
+                    "oelo": 1868,
+                    "ochange": 12,
+                    "time": 539780,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788084028000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "kohout135",
+                    "elo": 1630,
+                    "change": -19,
+                    "oelo": 1692,
+                    "ochange": 19,
+                    "time": 531736,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788083376000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "BlazeMind",
+                    "elo": 1649,
+                    "change": -14,
+                    "oelo": 1838,
+                    "ochange": 14,
+                    "time": 477185,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788082756000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Tool_not_me",
+                    "elo": 1663,
+                    "change": 18,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 564154,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788082016000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "petal_go_round",
+                    "elo": 1645,
+                    "change": 22,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 374705,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1788081581000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "_Pasha1337_",
+                    "elo": 1623,
+                    "change": 20,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 645718,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "nickname": "okshey",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1618,
                 "top": 1618,
                 "points": 0,
@@ -4018,7 +4167,7 @@
             "uuid": "359da0f53f574971acdaa4aa23de991d",
             "nickname": "_pizu",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 1617,
                 "top": 1617,
                 "points": 0,
@@ -4139,7 +4288,7 @@
             "uuid": "fe6771646c5d43c1b713023fb69c10c6",
             "nickname": "SammmyG",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1616,
                 "top": 1616,
                 "points": 0,
@@ -4161,7 +4310,7 @@
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "nickname": "amariyy",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1616,
                 "top": 1616,
                 "points": 0,
@@ -4180,10 +4329,89 @@
             "matches": []
         },
         {
+            "uuid": "9589914cf31a420bbcb07cd0768eec28",
+            "nickname": "_Pasha1337_",
+            "stats": {
+                "rank": 28,
+                "elo": 1615,
+                "top": 1615,
+                "points": 0,
+                "pb": 459321,
+                "current": 4,
+                "streak": 4,
+                "matches": 9,
+                "playtime": 4623935,
+                "finished": 5,
+                "finishtime": 2727043,
+                "won": 6,
+                "lost": 2,
+                "forfeited": 0
+            },
+            "country": null,
+            "matches": [
+                {
+                    "date": 1788085992000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Kubs0nekk",
+                    "elo": 1615,
+                    "change": 17,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 601555,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788085250000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ch1ckentt",
+                    "elo": 1598,
+                    "change": 20,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 210182,
+                    "forfeited": true,
+                    "decayed": false
+                },
+                {
+                    "date": 1788084705000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "1by1_legopiece",
+                    "elo": 1578,
+                    "change": 20,
+                    "oelo": 1550,
+                    "ochange": -20,
+                    "time": 596608,
+                    "forfeited": false,
+                    "decayed": false
+                },
+                {
+                    "date": 1788083957000,
+                    "type": "SHIPWRECK",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Brightlmom",
+                    "elo": 1558,
+                    "change": 20,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 459321,
+                    "forfeited": false,
+                    "decayed": false
+                }
+            ]
+        },
+        {
             "uuid": "5b0a001b1fb4484f97c895a77ce21ffa",
             "nickname": "12BrainCells",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 1615,
                 "top": 1615,
                 "points": 0,
@@ -4514,7 +4742,7 @@
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "nickname": "JackoWacko62",
             "stats": {
-                "rank": 28,
+                "rank": 30,
                 "elo": 1610,
                 "top": 1610,
                 "points": 0,
@@ -4565,7 +4793,7 @@
             "uuid": "97559a8303d44690b85db9e1e1f6764f",
             "nickname": "shrddr",
             "stats": {
-                "rank": 29,
+                "rank": 31,
                 "elo": 1608,
                 "top": 1608,
                 "points": 0,
@@ -4672,7 +4900,7 @@
             "uuid": "1fcc556edb414dce89ee0ee31799e4e2",
             "nickname": "PowerfulPanda",
             "stats": {
-                "rank": 30,
+                "rank": 32,
                 "elo": 1606,
                 "top": 1606,
                 "points": 0,
@@ -4691,131 +4919,10 @@
             "matches": []
         },
         {
-            "uuid": "a00913f1079c4b0c9d68d32f57dfbe73",
-            "nickname": "sevensix_",
-            "stats": {
-                "rank": 31,
-                "elo": 1604,
-                "top": 1663,
-                "points": 0,
-                "pb": 423892,
-                "current": 0,
-                "streak": 3,
-                "matches": 12,
-                "playtime": 6204240,
-                "finished": 4,
-                "finishtime": 2213310,
-                "won": 6,
-                "lost": 6,
-                "forfeited": 0
-            },
-            "country": "hk",
-            "matches": [
-                {
-                    "date": 1788085420000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "nahhann",
-                    "elo": 1604,
-                    "change": -14,
-                    "oelo": 1798,
-                    "ochange": 14,
-                    "time": 493623,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788084694000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1618,
-                    "change": -12,
-                    "oelo": 1868,
-                    "ochange": 12,
-                    "time": 539780,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788084028000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "kohout135",
-                    "elo": 1630,
-                    "change": -19,
-                    "oelo": 1692,
-                    "ochange": 19,
-                    "time": 531736,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788083376000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "BlazeMind",
-                    "elo": 1649,
-                    "change": -14,
-                    "oelo": 1838,
-                    "ochange": 14,
-                    "time": 477185,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788082756000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "Tool_not_me",
-                    "elo": 1663,
-                    "change": 18,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 564154,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788082016000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "petal_go_round",
-                    "elo": 1645,
-                    "change": 22,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 374705,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1788081581000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "_Pasha1337_",
-                    "elo": 1623,
-                    "change": 20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 645718,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
             "uuid": "5420d58a1cb9411991809d4d7e7edd72",
             "nickname": "natebridge",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1603,
                 "top": 1603,
                 "points": 0,
@@ -5011,71 +5118,6 @@
                     "oelo": 1362,
                     "ochange": -17,
                     "time": 620352,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
-            "uuid": "9589914cf31a420bbcb07cd0768eec28",
-            "nickname": "_Pasha1337_",
-            "stats": {
-                "rank": 33,
-                "elo": 1598,
-                "top": 1598,
-                "points": 0,
-                "pb": 459321,
-                "current": 3,
-                "streak": 3,
-                "matches": 8,
-                "playtime": 4022380,
-                "finished": 4,
-                "finishtime": 2125488,
-                "won": 5,
-                "lost": 2,
-                "forfeited": 0
-            },
-            "country": null,
-            "matches": [
-                {
-                    "date": 1788085250000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "ch1ckentt",
-                    "elo": 1598,
-                    "change": 20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 210182,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1788084705000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "1by1_legopiece",
-                    "elo": 1578,
-                    "change": 20,
-                    "oelo": 1550,
-                    "ochange": -20,
-                    "time": 596608,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788083957000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "Brightlmom",
-                    "elo": 1558,
-                    "change": 20,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 459321,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -5924,43 +5966,6 @@
             ]
         },
         {
-            "uuid": "f2800b7dd2ab410aa6145340afcac8ab",
-            "nickname": "Skorpion_v",
-            "stats": {
-                "rank": 42,
-                "elo": 1579,
-                "top": 1579,
-                "points": 0,
-                "pb": 590040,
-                "current": 4,
-                "streak": 4,
-                "matches": 5,
-                "playtime": 3250841,
-                "finished": 4,
-                "finishtime": 2627677,
-                "won": 4,
-                "lost": 1,
-                "forfeited": 0
-            },
-            "country": "pl",
-            "matches": [
-                {
-                    "date": 1788085198000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "N4tria",
-                    "elo": 1579,
-                    "change": 18,
-                    "oelo": 1483,
-                    "ochange": -18,
-                    "time": 749194,
-                    "forfeited": false,
-                    "decayed": false
-                }
-            ]
-        },
-        {
             "uuid": "36c2c0065cc24c7dbb12fd3f5ba0b25c",
             "nickname": "Tool_not_me",
             "stats": {
@@ -5986,7 +5991,7 @@
             "uuid": "a731c9fa43e04b2490ad15f216b8d2b8",
             "nickname": "SamonMCSR",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 1576,
                 "top": 1596,
                 "points": 0,
@@ -6023,7 +6028,7 @@
             "uuid": "02444f2a09e74ab68767d43e5e5afc17",
             "nickname": "sjauwn",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1571,
                 "top": 1611,
                 "points": 0,
@@ -6144,7 +6149,7 @@
             "uuid": "45e3b27140f64b0db45bbbbb159f65c7",
             "nickname": "ffz_",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 1571,
                 "top": 1614,
                 "points": 0,
@@ -6349,7 +6354,7 @@
             "uuid": "7d3a6bb9f62645ae80cf40840ca84c50",
             "nickname": "Frigbob",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1568,
                 "top": 1568,
                 "points": 0,
@@ -6371,7 +6376,7 @@
             "uuid": "addd890764404097b3f12acdde2adf33",
             "nickname": "_Hypn0tic",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1568,
                 "top": 1644,
                 "points": 0,
@@ -6576,7 +6581,7 @@
             "uuid": "94916e274fe242c1ba96ea86c0285e8f",
             "nickname": "justiin__",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1566,
                 "top": 1566,
                 "points": 0,
@@ -6627,7 +6632,7 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "nickname": "thecamo6",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1564,
                 "top": 1664,
                 "points": 0,
@@ -6855,6 +6860,28 @@
                     "decayed": false
                 }
             ]
+        },
+        {
+            "uuid": "c5c20636d901407b954a4a017d223dc6",
+            "nickname": "Urenzal",
+            "stats": {
+                "rank": 50,
+                "elo": 1561,
+                "top": 1561,
+                "points": 0,
+                "pb": 515583,
+                "current": 3,
+                "streak": 3,
+                "matches": 4,
+                "playtime": 2344528,
+                "finished": 2,
+                "finishtime": 1141165,
+                "won": 3,
+                "lost": 1,
+                "forfeited": 0
+            },
+            "country": "hm",
+            "matches": []
         }
     ]
 }
