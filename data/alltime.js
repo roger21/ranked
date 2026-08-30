@@ -765,12 +765,12 @@
         },
         "pb": 519118,
         "streak": 10,
-        "matches": 1026,
-        "playtime": 643194018,
+        "matches": 1027,
+        "playtime": 643930021,
         "finished": 345,
         "finishtime": 273956428,
         "won": 558,
-        "lost": 417,
+        "lost": 418,
         "forfeited": 165
     },
     "17e787d1d6374f818b294f2319db370d": {
@@ -1378,7 +1378,7 @@
             "9": 2506,
             "10": 2552,
             "11": 2460,
-            "12": 1736
+            "12": 1755
         },
         "points": {
             "2": 0,
@@ -1395,11 +1395,11 @@
         },
         "pb": 369388,
         "streak": 14,
-        "matches": 6775,
-        "playtime": 3922995657,
-        "finished": 2915,
-        "finishtime": 1808897559,
-        "won": 3583,
+        "matches": 6776,
+        "playtime": 3923551147,
+        "finished": 2916,
+        "finishtime": 1809453049,
+        "won": 3584,
         "lost": 2874,
         "forfeited": 583
     },
@@ -1719,11 +1719,11 @@
         },
         "pb": 452310,
         "streak": 22,
-        "matches": 2100,
-        "playtime": 1348465535,
-        "finished": 850,
-        "finishtime": 606161456,
-        "won": 1125,
+        "matches": 2101,
+        "playtime": 1349088699,
+        "finished": 851,
+        "finishtime": 606784620,
+        "won": 1126,
         "lost": 880,
         "forfeited": 150
     },
@@ -1976,12 +1976,12 @@
         },
         "pb": 437589,
         "streak": 10,
-        "matches": 1613,
-        "playtime": 1081969316,
+        "matches": 1614,
+        "playtime": 1082524806,
         "finished": 599,
         "finishtime": 445512629,
         "won": 824,
-        "lost": 707,
+        "lost": 708,
         "forfeited": 136
     },
     "410e5776b03a424d8740557bac2d9014": {
@@ -2961,35 +2961,6 @@
         "lost": 2306,
         "forfeited": 432
     },
-    "5bbc6599059d4af9b095dbacd901885a": {
-        "nickname": "Badwolfwest",
-        "country": "us",
-        "top": {
-            "5": 846,
-            "8": 831,
-            "9": 1306,
-            "10": 1570,
-            "11": 1842,
-            "12": 1560
-        },
-        "points": {
-            "5": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0,
-            "12": 0
-        },
-        "pb": 459692,
-        "streak": 11,
-        "matches": 3736,
-        "playtime": 2300211465,
-        "finished": 889,
-        "finishtime": 712102512,
-        "won": 1649,
-        "lost": 1681,
-        "forfeited": 1066
-    },
     "5cd115f0ec1240659db152406c0984a3": {
         "nickname": "yjako",
         "country": "ph",
@@ -3828,13 +3799,13 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12431,
-        "playtime": 6763864058,
+        "matches": 12432,
+        "playtime": 6764238763,
         "finished": 4314,
         "finishtime": 2570668704,
         "won": 5718,
-        "lost": 5493,
-        "forfeited": 2946
+        "lost": 5494,
+        "forfeited": 2947
     },
     "7b5563464fdf4757905e681040791ac0": {
         "nickname": "AllPig",
@@ -3925,7 +3896,7 @@
             "9": 2146,
             "10": 2323,
             "11": 2413,
-            "12": 1640
+            "12": 1658
         },
         "points": {
             "1": 0,
@@ -3943,11 +3914,11 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 5741,
-        "playtime": 3405022253,
-        "finished": 2176,
-        "finishtime": 1541082398,
-        "won": 2996,
+        "matches": 5742,
+        "playtime": 3405758256,
+        "finished": 2177,
+        "finishtime": 1541818401,
+        "won": 2997,
         "lost": 2587,
         "forfeited": 1119
     },
@@ -5089,7 +5060,7 @@
             "9": 2181,
             "10": 2248,
             "11": 2200,
-            "12": 1623
+            "12": 1645
         },
         "points": {
             "1": 0,
@@ -5106,11 +5077,11 @@
         },
         "pb": 411362,
         "streak": 13,
-        "matches": 7687,
-        "playtime": 4669656158,
+        "matches": 7688,
+        "playtime": 4670030863,
         "finished": 2707,
         "finishtime": 1897863723,
-        "won": 3791,
+        "won": 3792,
         "lost": 3484,
         "forfeited": 1343
     },
@@ -7009,6 +6980,35 @@
         "won": 937,
         "lost": 765,
         "forfeited": 169
+    },
+    "d973a31416ac44ef8f5321d480cc530d": {
+        "nickname": "1by1_legopiece",
+        "country": "cn",
+        "top": {
+            "7": 839,
+            "8": 1269,
+            "9": 1740,
+            "10": 1833,
+            "11": 2012,
+            "12": 1585
+        },
+        "points": {
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+        },
+        "pb": 405501,
+        "streak": 17,
+        "matches": 4526,
+        "playtime": 2845484976,
+        "finished": 1381,
+        "finishtime": 1060165309,
+        "won": 2114,
+        "lost": 2083,
+        "forfeited": 1103
     },
     "da1d85337d244f789d60b009e1e2b346": {
         "nickname": "Mauvu",
