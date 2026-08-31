@@ -1,5 +1,5 @@
 {
-    "date": 1788141601000,
+    "date": 1788142201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -2286,22 +2286,36 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 7,
-                "elo": 1753,
+                "elo": 1767,
                 "top": 1799,
                 "points": 0,
                 "pb": 503803,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 23,
-                "playtime": 12286276,
-                "finished": 11,
-                "finishtime": 6470736,
-                "won": 14,
+                "matches": 24,
+                "playtime": 12880945,
+                "finished": 12,
+                "finishtime": 7065405,
+                "won": 15,
                 "lost": 8,
                 "forfeited": 1
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1788141672000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Brunted",
+                    "elo": 1767,
+                    "change": 14,
+                    "oelo": 1570,
+                    "ochange": -14,
+                    "time": 594669,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788140830000,
                     "type": "VILLAGE",
@@ -10989,23 +11003,37 @@
             "uuid": "681679a877ef413c97da63162e835935",
             "nickname": "skylewl",
             "stats": {
-                "rank": 49,
-                "elo": 1623,
+                "rank": 68,
+                "elo": 1602,
                 "top": 1660,
                 "points": 0,
                 "pb": 477096,
-                "current": 1,
+                "current": 0,
                 "streak": 4,
-                "matches": 15,
-                "playtime": 7345494,
+                "matches": 16,
+                "playtime": 8053997,
                 "finished": 6,
                 "finishtime": 3113036,
                 "won": 7,
-                "lost": 6,
+                "lost": 7,
                 "forfeited": 2
             },
             "country": "rs",
             "matches": [
+                {
+                    "date": 1788142219000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "mayRNG",
+                    "elo": 1602,
+                    "change": -21,
+                    "oelo": 1604,
+                    "ochange": 21,
+                    "time": 708503,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788141284000,
                     "type": "DESERT_TEMPLE",
@@ -11166,7 +11194,7 @@
             "uuid": "5420d58a1cb9411991809d4d7e7edd72",
             "nickname": "natebridge",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 1619,
                 "top": 1619,
                 "points": 0,
