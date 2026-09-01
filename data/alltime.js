@@ -2483,7 +2483,7 @@
             "9": 2424,
             "10": 2553,
             "11": 2433,
-            "12": 1682
+            "12": 1693
         },
         "points": {
             "1": 0,
@@ -2501,11 +2501,11 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6638,
-        "playtime": 4035287280,
-        "finished": 2966,
-        "finishtime": 1948023481,
-        "won": 3642,
+        "matches": 6639,
+        "playtime": 4035833313,
+        "finished": 2967,
+        "finishtime": 1948569514,
+        "won": 3643,
         "lost": 2873,
         "forfeited": 593
     },
@@ -3509,12 +3509,12 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12462,
-        "playtime": 6778846300,
+        "matches": 12463,
+        "playtime": 6779643204,
         "finished": 4325,
         "finishtime": 2576430162,
         "won": 5730,
-        "lost": 5510,
+        "lost": 5511,
         "forfeited": 2953
     },
     "79dab6610bb34d6d8c6f8348bed3620e": {
@@ -3665,12 +3665,12 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 5773,
-        "playtime": 3423457403,
+        "matches": 5774,
+        "playtime": 3424003436,
         "finished": 2193,
         "finishtime": 1551735549,
         "won": 3013,
-        "lost": 2602,
+        "lost": 2603,
         "forfeited": 1122
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
@@ -3907,7 +3907,7 @@
             "9": 2165,
             "10": 2168,
             "11": 2319,
-            "12": 1690
+            "12": 1705
         },
         "points": {
             "6": 0,
@@ -3920,11 +3920,11 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 9284,
-        "playtime": 5384425311,
-        "finished": 3430,
-        "finishtime": 2348896573,
-        "won": 4662,
+        "matches": 9285,
+        "playtime": 5385074631,
+        "finished": 3431,
+        "finishtime": 2349545893,
+        "won": 4663,
         "lost": 4359,
         "forfeited": 2184
     },
