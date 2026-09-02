@@ -1,5 +1,5 @@
 {
-    "date": 1788379801000,
+    "date": 1788380401000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -18645,23 +18645,37 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "nickname": "kohout135",
             "stats": {
-                "rank": 25,
-                "elo": 1744,
+                "rank": 32,
+                "elo": 1719,
                 "top": 1767,
                 "points": 0,
                 "pb": 455570,
                 "current": 0,
                 "streak": 5,
-                "matches": 64,
-                "playtime": 35339686,
+                "matches": 65,
+                "playtime": 35572100,
                 "finished": 31,
                 "finishtime": 18718336,
                 "won": 33,
-                "lost": 28,
-                "forfeited": 8
+                "lost": 29,
+                "forfeited": 9
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1788380403000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "Jestem_Dalex",
+                    "elo": 1719,
+                    "change": -25,
+                    "oelo": 1631,
+                    "ochange": 25,
+                    "time": 232414,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1788358848000,
                     "type": "RUINED_PORTAL",
@@ -19494,7 +19508,7 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "nickname": "v_strid",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 1741,
                 "top": 1837,
                 "points": 0,
@@ -20679,7 +20693,7 @@
             "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
             "nickname": "HDMICables",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1739,
                 "top": 1739,
                 "points": 0,
@@ -21052,7 +21066,7 @@
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "nickname": "takachaaaaaaan",
             "stats": {
-                "rank": 27,
+                "rank": 26,
                 "elo": 1739,
                 "top": 1750,
                 "points": 0,
@@ -21411,7 +21425,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "nickname": "woofdoggo_",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 1727,
                 "top": 1727,
                 "points": 0,
@@ -21504,7 +21518,7 @@
             "uuid": "410e5776b03a424d8740557bac2d9014",
             "nickname": "lauveer",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 1725,
                 "top": 1769,
                 "points": 0,
@@ -22605,7 +22619,7 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "nickname": "ulsahinn",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1723,
                 "top": 1854,
                 "points": 0,
@@ -23482,7 +23496,7 @@
             "uuid": "6c4b4e74963d40e3b5a7118f3e0b0dc4",
             "nickname": "7astrid",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 1723,
                 "top": 1723,
                 "points": 0,
@@ -23715,7 +23729,7 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "nickname": "yeopgihoney",
             "stats": {
-                "rank": 33,
+                "rank": 32,
                 "elo": 1719,
                 "top": 1719,
                 "points": 0,
@@ -27952,7 +27966,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 1676,
                 "top": 1730,
                 "points": 0,
@@ -28941,7 +28955,7 @@
             "uuid": "be7a79f3331042f19c07230752b26725",
             "nickname": "dinonuggieboi",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1674,
                 "top": 1674,
                 "points": 0,
@@ -29006,7 +29020,7 @@
             "uuid": "abfa366baf394d1ab6358b91279a3d7e",
             "nickname": "Gon_mcsr",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1667,
                 "top": 1667,
                 "points": 0,
