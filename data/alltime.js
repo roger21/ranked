@@ -465,12 +465,12 @@
         },
         "pb": 364576,
         "streak": 12,
-        "matches": 3292,
-        "playtime": 1926679617,
+        "matches": 3293,
+        "playtime": 1927188623,
         "finished": 1412,
         "finishtime": 918601882,
         "won": 1785,
-        "lost": 1387,
+        "lost": 1388,
         "forfeited": 508
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
@@ -2476,12 +2476,12 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6671,
-        "playtime": 4053188365,
+        "matches": 6672,
+        "playtime": 4053823067,
         "finished": 2986,
         "finishtime": 1959030580,
         "won": 3665,
-        "lost": 2883,
+        "lost": 2884,
         "forfeited": 595
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
@@ -3923,7 +3923,7 @@
             "9": 2165,
             "10": 2168,
             "11": 2319,
-            "12": 1737
+            "12": 1750
         },
         "points": {
             "6": 0,
@@ -3936,11 +3936,11 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 9290,
-        "playtime": 5388074756,
-        "finished": 3434,
-        "finishtime": 2351283268,
-        "won": 4666,
+        "matches": 9291,
+        "playtime": 5388627493,
+        "finished": 3435,
+        "finishtime": 2351836005,
+        "won": 4667,
         "lost": 4360,
         "forfeited": 2184
     },
@@ -4394,7 +4394,7 @@
             "9": 2568,
             "10": 2545,
             "11": 2468,
-            "12": 1724
+            "12": 1747
         },
         "points": {
             "1": 0,
@@ -4412,11 +4412,11 @@
         },
         "pb": 397597,
         "streak": 20,
-        "matches": 12162,
-        "playtime": 7184542921,
-        "finished": 5460,
-        "finishtime": 3562170612,
-        "won": 6936,
+        "matches": 12163,
+        "playtime": 7185177623,
+        "finished": 5461,
+        "finishtime": 3562805314,
+        "won": 6937,
         "lost": 4992,
         "forfeited": 1286
     },
