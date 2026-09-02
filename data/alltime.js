@@ -465,12 +465,12 @@
         },
         "pb": 364576,
         "streak": 12,
-        "matches": 3295,
-        "playtime": 1928689845,
+        "matches": 3296,
+        "playtime": 1929456019,
         "finished": 1412,
         "finishtime": 918601882,
         "won": 1785,
-        "lost": 1390,
+        "lost": 1391,
         "forfeited": 508
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
@@ -3531,13 +3531,13 @@
         },
         "pb": 386806,
         "streak": 12,
-        "matches": 7079,
-        "playtime": 4271749526,
+        "matches": 7080,
+        "playtime": 4272186249,
         "finished": 2768,
         "finishtime": 1892139477,
         "won": 3684,
-        "lost": 3142,
-        "forfeited": 1100
+        "lost": 3143,
+        "forfeited": 1101
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
         "nickname": "petal_go_round",
@@ -5739,7 +5739,7 @@
             "9": 2487,
             "10": 2555,
             "11": 2425,
-            "12": 0
+            "12": 1640
         },
         "points": {
             "1": 0,
@@ -5757,11 +5757,11 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 7422,
-        "playtime": 4151126706,
-        "finished": 3293,
-        "finishtime": 2093303167,
-        "won": 4087,
+        "matches": 7423,
+        "playtime": 4151892880,
+        "finished": 3294,
+        "finishtime": 2094069341,
+        "won": 4088,
         "lost": 3100,
         "forfeited": 1440
     },
