@@ -1,5 +1,5 @@
 {
-    "date": 1788360001000,
+    "date": 1788360601000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -23694,7 +23694,7 @@
             "uuid": "681679a877ef413c97da63162e835935",
             "nickname": "skylewl",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1693,
                 "top": 1693,
                 "points": 0,
@@ -24123,7 +24123,7 @@
             "uuid": "5420d58a1cb9411991809d4d7e7edd72",
             "nickname": "natebridge",
             "stats": {
-                "rank": 41,
+                "rank": 42,
                 "elo": 1689,
                 "top": 1696,
                 "points": 0,
@@ -24580,7 +24580,7 @@
             "uuid": "cf1102ea451241d187aaa62e05cab5c3",
             "nickname": "nonsochiamaa",
             "stats": {
-                "rank": 42,
+                "rank": 43,
                 "elo": 1688,
                 "top": 1705,
                 "points": 0,
@@ -24813,7 +24813,7 @@
             "uuid": "070d5851c46a4a2da91e6ddfdb741d7f",
             "nickname": "TheLandSharkJeff",
             "stats": {
-                "rank": 43,
+                "rank": 44,
                 "elo": 1684,
                 "top": 1684,
                 "points": 0,
@@ -25004,23 +25004,37 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "nickname": "Frolde",
             "stats": {
-                "rank": 44,
-                "elo": 1680,
+                "rank": 40,
+                "elo": 1700,
                 "top": 1776,
                 "points": 0,
                 "pb": 470683,
-                "current": 0,
+                "current": 1,
                 "streak": 8,
-                "matches": 111,
-                "playtime": 59876209,
-                "finished": 49,
-                "finishtime": 28878849,
-                "won": 56,
+                "matches": 112,
+                "playtime": 60608599,
+                "finished": 50,
+                "finishtime": 29611239,
+                "won": 57,
                 "lost": 54,
                 "forfeited": 14
             },
             "country": "dk",
             "matches": [
+                {
+                    "date": 1788360602000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "WumbusZero",
+                    "elo": 1700,
+                    "change": 20,
+                    "oelo": 1659,
+                    "ochange": -20,
+                    "time": 732390,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788298066000,
                     "type": "RUINED_PORTAL",
@@ -27159,23 +27173,37 @@
             "uuid": "40c422d462fe45e287d74f1da77eaf3e",
             "nickname": "WumbusZero",
             "stats": {
-                "rank": 45,
-                "elo": 1679,
+                "rank": 59,
+                "elo": 1659,
                 "top": 1713,
                 "points": 0,
                 "pb": 514284,
-                "current": 3,
+                "current": 0,
                 "streak": 6,
-                "matches": 56,
-                "playtime": 35997465,
+                "matches": 57,
+                "playtime": 36729855,
                 "finished": 27,
                 "finishtime": 18294226,
                 "won": 29,
-                "lost": 24,
+                "lost": 25,
                 "forfeited": 0
             },
             "country": "es",
             "matches": [
+                {
+                    "date": 1788360602000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "Frolde",
+                    "elo": 1659,
+                    "change": -20,
+                    "oelo": 1700,
+                    "ochange": 20,
+                    "time": 732390,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788359388000,
                     "type": "RUINED_PORTAL",
@@ -27910,7 +27938,7 @@
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "nickname": "cbirrd",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1678,
                 "top": 1679,
                 "points": 0,
@@ -28185,7 +28213,7 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "nickname": "Ancoboyy",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1676,
                 "top": 1676,
                 "points": 0,
@@ -28236,7 +28264,7 @@
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "nickname": "Brunted",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 1676,
                 "top": 1730,
                 "points": 0,
