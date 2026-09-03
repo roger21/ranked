@@ -1003,11 +1003,11 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 4369,
-        "playtime": 2989609405,
+        "matches": 4370,
+        "playtime": 2990139903,
         "finished": 1555,
         "finishtime": 1177452963,
-        "won": 2129,
+        "won": 2130,
         "lost": 1939,
         "forfeited": 225
     },
@@ -6733,13 +6733,13 @@
         },
         "pb": 455891,
         "streak": 12,
-        "matches": 682,
-        "playtime": 396842648,
+        "matches": 683,
+        "playtime": 397514225,
         "finished": 260,
         "finishtime": 181117724,
         "won": 373,
-        "lost": 273,
-        "forfeited": 125
+        "lost": 274,
+        "forfeited": 126
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "nickname": "VMiZ",
