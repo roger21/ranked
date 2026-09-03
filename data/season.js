@@ -1,5 +1,5 @@
 {
-    "date": 1788451801000,
+    "date": 1788452401000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -5240,22 +5240,36 @@
             "nickname": "edcr",
             "stats": {
                 "rank": 7,
-                "elo": 1885,
-                "top": 1885,
+                "elo": 1898,
+                "top": 1898,
                 "points": 0,
                 "pb": 430161,
-                "current": 6,
-                "streak": 6,
-                "matches": 24,
-                "playtime": 11726349,
-                "finished": 17,
-                "finishtime": 8727406,
-                "won": 20,
+                "current": 7,
+                "streak": 7,
+                "matches": 25,
+                "playtime": 12305762,
+                "finished": 18,
+                "finishtime": 9306819,
+                "won": 21,
                 "lost": 4,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1788451965000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "Pheinberg",
+                    "elo": 1898,
+                    "change": 13,
+                    "oelo": 1673,
+                    "ochange": -13,
+                    "time": 579413,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788447470000,
                     "type": "BURIED_TREASURE",
