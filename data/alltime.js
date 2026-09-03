@@ -225,11 +225,11 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 8949,
-        "playtime": 6095748807,
-        "finished": 3030,
-        "finishtime": 2217717862,
-        "won": 4304,
+        "matches": 8950,
+        "playtime": 6096378859,
+        "finished": 3031,
+        "finishtime": 2218347914,
+        "won": 4305,
         "lost": 4047,
         "forfeited": 333
     },
@@ -307,12 +307,12 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 6135,
-        "playtime": 3831630599,
+        "matches": 6136,
+        "playtime": 3832200893,
         "finished": 2513,
         "finishtime": 1699419766,
         "won": 3174,
-        "lost": 2750,
+        "lost": 2751,
         "forfeited": 504
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
@@ -1795,11 +1795,11 @@
         },
         "pb": 392365,
         "streak": 29,
-        "matches": 5040,
-        "playtime": 2967735849,
-        "finished": 2868,
-        "finishtime": 1757086320,
-        "won": 3451,
+        "matches": 5041,
+        "playtime": 2968197422,
+        "finished": 2869,
+        "finishtime": 1757547893,
+        "won": 3452,
         "lost": 1446,
         "forfeited": 42
     },
@@ -2624,7 +2624,7 @@
             "9": 0,
             "10": 2009,
             "11": 2257,
-            "12": 1598
+            "12": 1619
         },
         "points": {
             "1": 0,
@@ -2642,11 +2642,11 @@
         },
         "pb": 478945,
         "streak": 10,
-        "matches": 4768,
-        "playtime": 3277574863,
-        "finished": 1772,
-        "finishtime": 1337762977,
-        "won": 2375,
+        "matches": 4769,
+        "playtime": 3278171784,
+        "finished": 1773,
+        "finishtime": 1338359898,
+        "won": 2376,
         "lost": 2184,
         "forfeited": 89
     },
@@ -2683,12 +2683,12 @@
         },
         "pb": 393016,
         "streak": 13,
-        "matches": 4188,
-        "playtime": 2438627602,
+        "matches": 4189,
+        "playtime": 2439257654,
         "finished": 1827,
         "finishtime": 1145423360,
         "won": 2235,
-        "lost": 1807,
+        "lost": 1808,
         "forfeited": 477
     },
     "5cd115f0ec1240659db152406c0984a3": {
@@ -4061,12 +4061,12 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 6330,
-        "playtime": 4043615256,
+        "matches": 6331,
+        "playtime": 4044076829,
         "finished": 2317,
         "finishtime": 1602571155,
         "won": 3105,
-        "lost": 2803,
+        "lost": 2804,
         "forfeited": 206
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -5260,12 +5260,12 @@
         },
         "pb": 434484,
         "streak": 15,
-        "matches": 5469,
-        "playtime": 3871905996,
+        "matches": 5470,
+        "playtime": 3872548472,
         "finished": 1504,
         "finishtime": 1171459590,
         "won": 2429,
-        "lost": 2284,
+        "lost": 2285,
         "forfeited": 287
     },
     "ac601ce7376f49cea7ce14cd577dac85": {
@@ -5810,7 +5810,7 @@
             "9": 2245,
             "10": 2495,
             "11": 2428,
-            "12": 1934
+            "12": 1946
         },
         "points": {
             "6": 0,
@@ -5823,11 +5823,11 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 4330,
-        "playtime": 2589912079,
-        "finished": 1716,
-        "finishtime": 1091888191,
-        "won": 2157,
+        "matches": 4331,
+        "playtime": 2590482373,
+        "finished": 1717,
+        "finishtime": 1092458485,
+        "won": 2158,
         "lost": 1897,
         "forfeited": 471
     },
@@ -7198,12 +7198,12 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 9526,
-        "playtime": 6023648332,
+        "matches": 9527,
+        "playtime": 6024071301,
         "finished": 3321,
         "finishtime": 2410526985,
         "won": 4700,
-        "lost": 4412,
-        "forfeited": 1263
+        "lost": 4413,
+        "forfeited": 1264
     }
 }
