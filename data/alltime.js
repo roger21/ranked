@@ -985,7 +985,7 @@
             "9": 1517,
             "10": 1731,
             "11": 2002,
-            "12": 1597
+            "12": 1598
         },
         "points": {
             "1": 0,
@@ -1003,11 +1003,11 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 4370,
-        "playtime": 2990139903,
-        "finished": 1555,
-        "finishtime": 1177452963,
-        "won": 2130,
+        "matches": 4371,
+        "playtime": 2990716864,
+        "finished": 1556,
+        "finishtime": 1178029924,
+        "won": 2131,
         "lost": 1939,
         "forfeited": 225
     },
@@ -7046,13 +7046,13 @@
         },
         "pb": 455391,
         "streak": 11,
-        "matches": 4187,
-        "playtime": 2765195232,
+        "matches": 4188,
+        "playtime": 2765802863,
         "finished": 1566,
         "finishtime": 1196343912,
         "won": 2193,
-        "lost": 1898,
-        "forfeited": 520
+        "lost": 1899,
+        "forfeited": 521
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
         "nickname": "TuCarta",
