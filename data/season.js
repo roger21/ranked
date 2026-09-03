@@ -1,5 +1,5 @@
 {
-    "date": 1788404401000,
+    "date": 1788405001000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -6910,14 +6910,14 @@
             "nickname": "Infume",
             "stats": {
                 "rank": 9,
-                "elo": 1835,
+                "elo": 1834,
                 "top": 1835,
                 "points": 0,
                 "pb": 450618,
                 "current": 3,
                 "streak": 6,
-                "matches": 16,
-                "playtime": 8077449,
+                "matches": 17,
+                "playtime": 8761618,
                 "finished": 12,
                 "finishtime": 6084286,
                 "won": 12,
@@ -6926,6 +6926,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1788404971000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "amariyy",
+                    "elo": 1834,
+                    "change": -1,
+                    "oelo": 1762,
+                    "ochange": 1,
+                    "time": 684169,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1788404234000,
                     "type": "VILLAGE",
@@ -14247,14 +14261,14 @@
             "nickname": "amariyy",
             "stats": {
                 "rank": 20,
-                "elo": 1761,
+                "elo": 1762,
                 "top": 1795,
                 "points": 0,
                 "pb": 482847,
                 "current": 1,
                 "streak": 9,
-                "matches": 55,
-                "playtime": 31547972,
+                "matches": 56,
+                "playtime": 32232141,
                 "finished": 25,
                 "finishtime": 14554586,
                 "won": 29,
@@ -14263,6 +14277,20 @@
             },
             "country": "cn",
             "matches": [
+                {
+                    "date": 1788404971000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "Infume",
+                    "elo": 1762,
+                    "change": 1,
+                    "oelo": 1834,
+                    "ochange": -1,
+                    "time": 684169,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1788403822000,
                     "type": "BURIED_TREASURE",
