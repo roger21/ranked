@@ -225,13 +225,13 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 8955,
-        "playtime": 6099190306,
+        "matches": 8956,
+        "playtime": 6099688068,
         "finished": 3032,
         "finishtime": 2218911840,
         "won": 4306,
-        "lost": 4050,
-        "forfeited": 334
+        "lost": 4051,
+        "forfeited": 335
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
         "nickname": "Zylenox",
@@ -1077,13 +1077,13 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 4994,
-        "playtime": 3189676055,
+        "matches": 4996,
+        "playtime": 3190491639,
         "finished": 1921,
         "finishtime": 1366221395,
-        "won": 2607,
-        "lost": 2285,
-        "forfeited": 292
+        "won": 2608,
+        "lost": 2286,
+        "forfeited": 293
     },
     "26c82339872246c489bf285760ca1af3": {
         "nickname": "novadud",
@@ -6772,11 +6772,11 @@
         },
         "pb": 490262,
         "streak": 10,
-        "matches": 1387,
-        "playtime": 1023122522,
-        "finished": 459,
-        "finishtime": 377669989,
-        "won": 742,
+        "matches": 1388,
+        "playtime": 1023740453,
+        "finished": 460,
+        "finishtime": 378287920,
+        "won": 743,
         "lost": 594,
         "forfeited": 11
     },
