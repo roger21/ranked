@@ -1863,12 +1863,12 @@
         },
         "pb": 420681,
         "streak": 14,
-        "matches": 2747,
-        "playtime": 1837562410,
+        "matches": 2748,
+        "playtime": 1838118818,
         "finished": 1094,
         "finishtime": 780864921,
         "won": 1392,
-        "lost": 1210,
+        "lost": 1211,
         "forfeited": 196
     },
     "410e5776b03a424d8740557bac2d9014": {
@@ -6119,43 +6119,6 @@
         "lost": 2898,
         "forfeited": 1539
     },
-    "cbc4685f701c49319fb424430604b553": {
-        "nickname": "madoosu",
-        "country": "us",
-        "top": {
-            "1": 1598,
-            "2": 1546,
-            "4": 1567,
-            "6": 1382,
-            "7": 1270,
-            "8": 1470,
-            "9": 1856,
-            "10": 1996,
-            "11": 2192,
-            "12": 1714
-        },
-        "points": {
-            "1": 0,
-            "2": 0,
-            "4": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 14,
-            "12": 0
-        },
-        "pb": 412042,
-        "streak": 12,
-        "matches": 526,
-        "playtime": 328034899,
-        "finished": 232,
-        "finishtime": 154267772,
-        "won": 320,
-        "lost": 183,
-        "forfeited": 35
-    },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "nickname": "Launey_",
         "country": "fr",
@@ -6724,6 +6687,31 @@
         "won": 5046,
         "lost": 4793,
         "forfeited": 2159
+    },
+    "ddf4f475da214605b5168ce4794b9ec0": {
+        "nickname": "N4tria",
+        "country": "jp",
+        "top": {
+            "9": 1433,
+            "10": 1785,
+            "11": 2120,
+            "12": 1707
+        },
+        "points": {
+            "9": 0,
+            "10": 0,
+            "11": 7,
+            "12": 0
+        },
+        "pb": 361763,
+        "streak": 12,
+        "matches": 4545,
+        "playtime": 3123031890,
+        "finished": 1506,
+        "finishtime": 1177202587,
+        "won": 2134,
+        "lost": 2030,
+        "forfeited": 683
     },
     "de8e3203f8674303ad4a2baa55a15c87": {
         "nickname": "cbirrd",
