@@ -1,5 +1,5 @@
 {
-    "date": 1788483001000,
+    "date": 1788483601000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -4946,22 +4946,36 @@
             "nickname": "nahhann",
             "stats": {
                 "rank": 7,
-                "elo": 1898,
+                "elo": 1911,
                 "top": 1970,
                 "points": 0,
                 "pb": 405376,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 103,
-                "playtime": 56424156,
-                "finished": 58,
-                "finishtime": 31973199,
-                "won": 64,
+                "matches": 104,
+                "playtime": 56973290,
+                "finished": 59,
+                "finishtime": 32522333,
+                "won": 65,
                 "lost": 36,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1788483283000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "Brunted",
+                    "elo": 1911,
+                    "change": 13,
+                    "oelo": 1686,
+                    "ochange": -13,
+                    "time": 549134,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788482201000,
                     "type": "SHIPWRECK",
@@ -6354,7 +6368,7 @@
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "nickname": "edcr",
             "stats": {
-                "rank": 7,
+                "rank": 8,
                 "elo": 1898,
                 "top": 1898,
                 "points": 0,
