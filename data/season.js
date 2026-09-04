@@ -1,5 +1,5 @@
 {
-    "date": 1788499801000,
+    "date": 1788500401000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -18006,14 +18006,14 @@
             "nickname": "cofesho",
             "stats": {
                 "rank": 27,
-                "elo": 1769,
+                "elo": 1767,
                 "top": 1769,
                 "points": 0,
                 "pb": 443203,
                 "current": 3,
                 "streak": 10,
-                "matches": 115,
-                "playtime": 66362308,
+                "matches": 116,
+                "playtime": 67135363,
                 "finished": 54,
                 "finishtime": 31562414,
                 "won": 58,
@@ -18022,6 +18022,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1788500238000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "dwoh",
+                    "elo": 1767,
+                    "change": -2,
+                    "oelo": 1627,
+                    "ochange": 2,
+                    "time": 773055,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1788499173000,
                     "type": "SHIPWRECK",
