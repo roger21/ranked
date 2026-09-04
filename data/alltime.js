@@ -2868,13 +2868,13 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 11600,
-        "playtime": 7190356474,
+        "matches": 11601,
+        "playtime": 7190688185,
         "finished": 4295,
         "finishtime": 3114330623,
         "won": 5764,
-        "lost": 5440,
-        "forfeited": 1788
+        "lost": 5441,
+        "forfeited": 1789
     },
     "60bfac463733422f8708733f3140cd94": {
         "nickname": "TheCrazedTank",
