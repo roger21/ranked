@@ -147,11 +147,11 @@
         },
         "pb": 384080,
         "streak": 13,
-        "matches": 9585,
-        "playtime": 5446762572,
+        "matches": 9586,
+        "playtime": 5447088329,
         "finished": 3644,
         "finishtime": 2336537167,
-        "won": 4816,
+        "won": 4817,
         "lost": 4548,
         "forfeited": 1802
     },
@@ -1016,7 +1016,7 @@
             "9": 1517,
             "10": 1731,
             "11": 2002,
-            "12": 1630
+            "12": 1651
         },
         "points": {
             "1": 0,
@@ -1034,11 +1034,11 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 4417,
-        "playtime": 3019249766,
-        "finished": 1576,
-        "finishtime": 1191627083,
-        "won": 2153,
+        "matches": 4418,
+        "playtime": 3019910986,
+        "finished": 1577,
+        "finishtime": 1192288303,
+        "won": 2154,
         "lost": 1959,
         "forfeited": 229
     },
@@ -5375,13 +5375,13 @@
         },
         "pb": 412015,
         "streak": 11,
-        "matches": 6264,
-        "playtime": 3755130235,
+        "matches": 6265,
+        "playtime": 3755352546,
         "finished": 2380,
         "finishtime": 1592762605,
         "won": 3147,
-        "lost": 2881,
-        "forfeited": 801
+        "lost": 2882,
+        "forfeited": 802
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
         "nickname": "priffie",
@@ -5523,12 +5523,12 @@
         },
         "pb": 395003,
         "streak": 14,
-        "matches": 9354,
-        "playtime": 5763836091,
+        "matches": 9355,
+        "playtime": 5764310137,
         "finished": 3150,
         "finishtime": 2247570564,
         "won": 4565,
-        "lost": 4358,
+        "lost": 4359,
         "forfeited": 1378
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
@@ -5664,7 +5664,7 @@
             "9": 2395,
             "10": 2448,
             "11": 2562,
-            "12": 1952
+            "12": 1966
         },
         "points": {
             "4": 0,
@@ -5679,11 +5679,11 @@
         },
         "pb": 379483,
         "streak": 17,
-        "matches": 9789,
-        "playtime": 5664430119,
-        "finished": 3879,
-        "finishtime": 2537583268,
-        "won": 5010,
+        "matches": 9790,
+        "playtime": 5664904165,
+        "finished": 3880,
+        "finishtime": 2538057314,
+        "won": 5011,
         "lost": 4485,
         "forfeited": 1475
     },
@@ -5944,12 +5944,12 @@
         },
         "pb": 389334,
         "streak": 13,
-        "matches": 3795,
-        "playtime": 2354755074,
+        "matches": 3796,
+        "playtime": 2355416294,
         "finished": 1639,
         "finishtime": 1109775062,
         "won": 2074,
-        "lost": 1625,
+        "lost": 1626,
         "forfeited": 264
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
@@ -6083,7 +6083,7 @@
             "9": 1855,
             "10": 2277,
             "11": 2330,
-            "12": 1734
+            "12": 1760
         },
         "points": {
             "8": 0,
@@ -6094,11 +6094,11 @@
         },
         "pb": 401869,
         "streak": 12,
-        "matches": 6308,
-        "playtime": 3555949983,
+        "matches": 6309,
+        "playtime": 3556465187,
         "finished": 2298,
         "finishtime": 1522769993,
-        "won": 3053,
+        "won": 3054,
         "lost": 2917,
         "forfeited": 1553
     },
@@ -6982,13 +6982,13 @@
         },
         "pb": 409037,
         "streak": 10,
-        "matches": 7198,
-        "playtime": 4266747925,
+        "matches": 7199,
+        "playtime": 4267263129,
         "finished": 2449,
         "finishtime": 1713471433,
         "won": 3533,
-        "lost": 3392,
-        "forfeited": 1747
+        "lost": 3393,
+        "forfeited": 1748
     },
     "f1611fd339b1401f84154afee3a5f14a": {
         "nickname": "Blooopy",
