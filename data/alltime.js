@@ -2478,12 +2478,12 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6703,
-        "playtime": 4070090641,
+        "matches": 6704,
+        "playtime": 4070630930,
         "finished": 3001,
         "finishtime": 1968095720,
         "won": 3681,
-        "lost": 2898,
+        "lost": 2899,
         "forfeited": 600
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
@@ -2761,11 +2761,11 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 9224,
-        "playtime": 5565471570,
-        "finished": 3810,
-        "finishtime": 2534123870,
-        "won": 4790,
+        "matches": 9225,
+        "playtime": 5566011859,
+        "finished": 3811,
+        "finishtime": 2534664159,
+        "won": 4791,
         "lost": 4204,
         "forfeited": 1212
     },
@@ -3848,7 +3848,7 @@
             "9": 1712,
             "10": 1987,
             "11": 1855,
-            "12": 1547
+            "12": 1566
         },
         "points": {
             "1": 0,
@@ -3866,11 +3866,11 @@
         },
         "pb": 444127,
         "streak": 10,
-        "matches": 5353,
-        "playtime": 3568893220,
-        "finished": 1643,
-        "finishtime": 1306863423,
-        "won": 2626,
+        "matches": 5354,
+        "playtime": 3569807004,
+        "finished": 1644,
+        "finishtime": 1307777207,
+        "won": 2627,
         "lost": 2468,
         "forfeited": 781
     },
@@ -6901,7 +6901,7 @@
         "top": {
             "10": 1968,
             "11": 2306,
-            "12": 1662
+            "12": 1671
         },
         "points": {
             "10": 0,
@@ -6910,11 +6910,11 @@
         },
         "pb": 432342,
         "streak": 10,
-        "matches": 1120,
-        "playtime": 860878696,
-        "finished": 446,
-        "finishtime": 361213079,
-        "won": 592,
+        "matches": 1121,
+        "playtime": 861465705,
+        "finished": 447,
+        "finishtime": 361800088,
+        "won": 593,
         "lost": 455,
         "forfeited": 74
     },
