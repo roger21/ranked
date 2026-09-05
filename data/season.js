@@ -1,5 +1,5 @@
 {
-    "date": 1788574801000,
+    "date": 1788575401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9280,22 +9280,36 @@
             "nickname": "Feinberg",
             "stats": {
                 "rank": 11,
-                "elo": 1855,
+                "elo": 1867,
                 "top": 1878,
                 "points": 0,
                 "pb": 415362,
-                "current": 0,
+                "current": 1,
                 "streak": 7,
-                "matches": 38,
-                "playtime": 20821594,
-                "finished": 22,
-                "finishtime": 12730984,
-                "won": 25,
+                "matches": 39,
+                "playtime": 21445405,
+                "finished": 23,
+                "finishtime": 13354795,
+                "won": 26,
                 "lost": 12,
                 "forfeited": 1
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1788575192000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "ILuvCobblestone",
+                    "elo": 1867,
+                    "change": 12,
+                    "oelo": 1615,
+                    "ochange": -12,
+                    "time": 623811,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788573505000,
                     "type": "DESERT_TEMPLE",
