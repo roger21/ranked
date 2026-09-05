@@ -1,5 +1,5 @@
 {
-    "date": 1788604201000,
+    "date": 1788604801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -32039,14 +32039,14 @@
             "nickname": "Ranik_",
             "stats": {
                 "rank": 40,
-                "elo": 1750,
+                "elo": 1749,
                 "top": 1804,
                 "points": 0,
                 "pb": 448992,
                 "current": 1,
                 "streak": 5,
-                "matches": 55,
-                "playtime": 30073895,
+                "matches": 56,
+                "playtime": 30810893,
                 "finished": 24,
                 "finishtime": 14515665,
                 "won": 27,
@@ -32055,6 +32055,20 @@
             },
             "country": "il",
             "matches": [
+                {
+                    "date": 1788604507000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "shrddr",
+                    "elo": 1749,
+                    "change": -1,
+                    "oelo": 1661,
+                    "ochange": 1,
+                    "time": 736998,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1788603707000,
                     "type": "RUINED_PORTAL",
