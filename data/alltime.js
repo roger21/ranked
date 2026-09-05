@@ -2460,7 +2460,7 @@
             "9": 2424,
             "10": 2553,
             "11": 2433,
-            "12": 1854
+            "12": 1869
         },
         "points": {
             "1": 0,
@@ -2478,11 +2478,11 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6711,
-        "playtime": 4074639721,
-        "finished": 3006,
-        "finishtime": 1971077470,
-        "won": 3687,
+        "matches": 6712,
+        "playtime": 4075230266,
+        "finished": 3007,
+        "finishtime": 1971668015,
+        "won": 3688,
         "lost": 2900,
         "forfeited": 601
     },
@@ -3486,8 +3486,8 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12559,
-        "playtime": 6830031757,
+        "matches": 12560,
+        "playtime": 6830604047,
         "finished": 4359,
         "finishtime": 2594578694,
         "won": 5771,
@@ -5340,12 +5340,12 @@
         },
         "pb": 378785,
         "streak": 18,
-        "matches": 6413,
-        "playtime": 4043579658,
+        "matches": 6414,
+        "playtime": 4044170203,
         "finished": 2639,
         "finishtime": 1744252090,
         "won": 3475,
-        "lost": 2691,
+        "lost": 2692,
         "forfeited": 284
     },
     "addd890764404097b3f12acdde2adf33": {
@@ -6094,13 +6094,13 @@
         },
         "pb": 401869,
         "streak": 12,
-        "matches": 6270,
-        "playtime": 3537526787,
+        "matches": 6271,
+        "playtime": 3538398168,
         "finished": 2278,
         "finishtime": 1511782950,
         "won": 3030,
-        "lost": 2903,
-        "forfeited": 1542
+        "lost": 2904,
+        "forfeited": 1543
     },
     "cbc4685f701c49319fb424430604b553": {
         "nickname": "madoosu",
