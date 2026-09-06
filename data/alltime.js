@@ -1670,11 +1670,11 @@
         },
         "pb": 373526,
         "streak": 17,
-        "matches": 21814,
-        "playtime": 13409376833,
-        "finished": 9543,
-        "finishtime": 6318572859,
-        "won": 11970,
+        "matches": 21815,
+        "playtime": 13409917583,
+        "finished": 9544,
+        "finishtime": 6319113609,
+        "won": 11971,
         "lost": 9530,
         "forfeited": 1200
     },
@@ -1752,13 +1752,13 @@
         },
         "pb": 342789,
         "streak": 17,
-        "matches": 17107,
-        "playtime": 10035241849,
+        "matches": 17108,
+        "playtime": 10035688352,
         "finished": 7533,
         "finishtime": 4817342485,
         "won": 9277,
-        "lost": 7438,
-        "forfeited": 2015
+        "lost": 7439,
+        "forfeited": 2016
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
         "nickname": "ThaShape",
@@ -6639,41 +6639,6 @@
         "won": 1097,
         "lost": 882,
         "forfeited": 173
-    },
-    "dacf61a7b4f74f9cb83512d7f2fe88a9": {
-        "nickname": "Birdeyyy",
-        "country": "nl",
-        "top": {
-            "4": 1191,
-            "5": 1265,
-            "6": 1430,
-            "7": 1683,
-            "8": 1628,
-            "9": 1784,
-            "10": 2027,
-            "11": 2202,
-            "12": 1747
-        },
-        "points": {
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 23,
-            "12": 0
-        },
-        "pb": 435377,
-        "streak": 11,
-        "matches": 3374,
-        "playtime": 2086561250,
-        "finished": 1125,
-        "finishtime": 773636462,
-        "won": 1595,
-        "lost": 1515,
-        "forfeited": 490
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "nickname": "Inphume",
