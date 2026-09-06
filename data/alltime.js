@@ -1,6 +1,5 @@
 {
     "00f996cd910f479ba0903d85c2bdb1e0": {
-        "nickname": "Bloonskiller",
         "country": null,
         "top": {
             "1": 1544,
@@ -41,7 +40,6 @@
         "forfeited": 623
     },
     "0388b80ebe6c4216b4a8305c0cd27894": {
-        "nickname": "tommorerow",
         "country": "mn",
         "top": {
             "2": 1584,
@@ -80,7 +78,6 @@
         "forfeited": 885
     },
     "0478fbcaf4da4cf983e1be6d6e11678c": {
-        "nickname": "_KrakerS",
         "country": "pl",
         "top": {
             "4": 957,
@@ -115,7 +112,6 @@
         "forfeited": 322
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
-        "nickname": "druppelen",
         "country": "it",
         "top": {
             "1": 1831,
@@ -156,7 +152,6 @@
         "forfeited": 285
     },
     "070d5851c46a4a2da91e6ddfdb741d7f": {
-        "nickname": "TheLandSharkJeff",
         "country": "no",
         "top": {
             "3": 1240,
@@ -168,7 +163,7 @@
             "9": 2175,
             "10": 2281,
             "11": 2193,
-            "12": 1725
+            "12": 1733
         },
         "points": {
             "3": 0,
@@ -184,16 +179,15 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 8994,
-        "playtime": 6120854942,
-        "finished": 3050,
-        "finishtime": 2229655765,
-        "won": 4325,
-        "lost": 4069,
-        "forfeited": 339
+        "matches": 9004,
+        "playtime": 6126352992,
+        "finished": 3055,
+        "finishtime": 2232633193,
+        "won": 4331,
+        "lost": 4073,
+        "forfeited": 340
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
-        "nickname": "Zylenox",
         "country": "us",
         "top": {
             "1": 1934,
@@ -234,7 +228,6 @@
         "forfeited": 45
     },
     "0b164a03002048d3955715422179eedf": {
-        "nickname": "KenanKardes",
         "country": "az",
         "top": {
             "1": 1851,
@@ -275,7 +268,6 @@
         "forfeited": 507
     },
     "0b6c44a481e14c7e88ac836c92499ff4": {
-        "nickname": "Khepryyy",
         "country": null,
         "top": {
             "1": 1741,
@@ -316,7 +308,6 @@
         "forfeited": 551
     },
     "0b863352af474dd389ec64e9eb1a38c0": {
-        "nickname": "90Tom",
         "country": "cz",
         "top": {
             "1": 1925,
@@ -357,7 +348,6 @@
         "forfeited": 60
     },
     "0c35dc5580aa402c863cfe8d89b81704": {
-        "nickname": "wethr",
         "country": "ca",
         "top": {
             "4": 1510,
@@ -392,7 +382,6 @@
         "forfeited": 278
     },
     "0c3cc22849a343b0964a89ac842fa3ca": {
-        "nickname": "HDMICables",
         "country": "nl",
         "top": {
             "1": 1500,
@@ -433,7 +422,6 @@
         "forfeited": 509
     },
     "0d0f007a376a462299bf23f2f713b0e5": {
-        "nickname": "MrBudgiee",
         "country": "ca",
         "top": {
             "2": 1805,
@@ -472,7 +460,6 @@
         "forfeited": 567
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
-        "nickname": "xLourx",
         "country": "pl",
         "top": {
             "1": 1808,
@@ -513,7 +500,6 @@
         "forfeited": 20
     },
     "0f48f3d94d154d38b0ec3fa17f9f51b9": {
-        "nickname": "tr34sure",
         "country": null,
         "top": {
             "5": 1307,
@@ -546,7 +532,6 @@
         "forfeited": 40
     },
     "11dd5549074b4cb1830d7ca103a01cc7": {
-        "nickname": "m1kky_",
         "country": "au",
         "top": {
             "1": 1447,
@@ -587,7 +572,6 @@
         "forfeited": 927
     },
     "132807fea3a54a02b6b1ad057430b002": {
-        "nickname": "slowunc",
         "country": "de",
         "top": {
             "5": 1301,
@@ -620,7 +604,6 @@
         "forfeited": 1270
     },
     "133d542cb20946ec8c56fd5a675ce4d3": {
-        "nickname": "VDPineapple",
         "country": null,
         "top": {
             "1": 1528,
@@ -661,7 +644,6 @@
         "forfeited": 9
     },
     "17e787d1d6374f818b294f2319db370d": {
-        "nickname": "silverrruns",
         "country": "ca",
         "top": {
             "1": 2309,
@@ -702,7 +684,6 @@
         "forfeited": 61
     },
     "182a4a03fae54aa7aed4de1cf1f93d2b": {
-        "nickname": "_BiBinka_",
         "country": "cz",
         "top": {
             "1": 1925,
@@ -743,7 +724,6 @@
         "forfeited": 36
     },
     "185b039b70284aa9a98850db4ba88e0d": {
-        "nickname": "ElegantRobin",
         "country": "cn",
         "top": {
             "5": 1380,
@@ -753,7 +733,7 @@
             "9": 2011,
             "10": 2032,
             "11": 2058,
-            "12": 1739
+            "12": 1763
         },
         "points": {
             "5": 0,
@@ -767,16 +747,15 @@
         },
         "pb": 432305,
         "streak": 12,
-        "matches": 11839,
-        "playtime": 7598584285,
-        "finished": 3567,
-        "finishtime": 2729156469,
-        "won": 5637,
+        "matches": 11840,
+        "playtime": 7599161349,
+        "finished": 3568,
+        "finishtime": 2729733533,
+        "won": 5638,
         "lost": 5447,
         "forfeited": 2218
     },
     "1ae14cb96a2f4357a71efac6f7012b59": {
-        "nickname": "Cube1337x",
         "country": "fi",
         "top": {
             "4": 2038,
@@ -811,7 +790,6 @@
         "forfeited": 21
     },
     "1f88c82f9cc84c9885a5d38dd531f4c6": {
-        "nickname": "RRed",
         "country": "us",
         "top": {
             "3": 1693,
@@ -848,7 +826,6 @@
         "forfeited": 370
     },
     "25349f93cf194f3baeee93d024eccc21": {
-        "nickname": "retropog",
         "country": "au",
         "top": {
             "1": 1839,
@@ -888,41 +865,7 @@
         "lost": 4082,
         "forfeited": 819
     },
-    "25358b7970c740bca715ea6f6b40e7b4": {
-        "nickname": "Skaj1",
-        "country": null,
-        "top": {
-            "5": 1068,
-            "6": 0,
-            "7": 1116,
-            "8": 1231,
-            "9": 1335,
-            "10": 1793,
-            "11": 1888,
-            "12": 1752
-        },
-        "points": {
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0,
-            "10": 0,
-            "11": 0,
-            "12": 0
-        },
-        "pb": 487340,
-        "streak": 11,
-        "matches": 897,
-        "playtime": 592831989,
-        "finished": 331,
-        "finishtime": 243355216,
-        "won": 452,
-        "lost": 379,
-        "forfeited": 58
-    },
     "253b53d832ab4bafb5ee0308d5164ccf": {
-        "nickname": "Aquacorde",
         "country": "ca",
         "top": {
             "1": 1439,
@@ -963,7 +906,6 @@
         "forfeited": 126
     },
     "2549857b8bbf48ad8659ad6c410209a9": {
-        "nickname": "temp_gd",
         "country": "kr",
         "top": {
             "1": 1531,
@@ -977,7 +919,7 @@
             "9": 1517,
             "10": 1731,
             "11": 2002,
-            "12": 1693
+            "12": 1709
         },
         "points": {
             "1": 0,
@@ -995,16 +937,15 @@
         },
         "pb": 467946,
         "streak": 12,
-        "matches": 4423,
-        "playtime": 3022617686,
-        "finished": 1579,
-        "finishtime": 1193780189,
-        "won": 2157,
+        "matches": 4425,
+        "playtime": 3023975938,
+        "finished": 1581,
+        "finishtime": 1195138441,
+        "won": 2159,
         "lost": 1961,
         "forfeited": 230
     },
     "25d4de4fe37248f0bba16b43ca1994bb": {
-        "nickname": "Hinart",
         "country": "ua",
         "top": {
             "1": 1871,
@@ -1045,7 +986,6 @@
         "forfeited": 297
     },
     "26c82339872246c489bf285760ca1af3": {
-        "nickname": "novadud",
         "country": "cx",
         "top": {
             "3": 1538,
@@ -1082,7 +1022,6 @@
         "forfeited": 37
     },
     "278f495d4e944ebe94ab01c571ac188e": {
-        "nickname": "Thunderstorming",
         "country": "ca",
         "top": {
             "1": 1990,
@@ -1123,7 +1062,6 @@
         "forfeited": 43
     },
     "27d9f6941c4c4217a58e87dfe6157828": {
-        "nickname": "SuperC_",
         "country": "au",
         "top": {
             "1": 1808,
@@ -1164,7 +1102,6 @@
         "forfeited": 178
     },
     "2988fcfbc6b141a497faa915e13b6592": {
-        "nickname": "AutomattPLUS",
         "country": "pl",
         "top": {
             "1": 1644,
@@ -1205,7 +1142,6 @@
         "forfeited": 6
     },
     "2e12870c08ec4337bc2e8fbf54e79853": {
-        "nickname": "TapL",
         "country": "us",
         "top": {
             "1": 1748,
@@ -1246,7 +1182,6 @@
         "forfeited": 260
     },
     "2ef2bfed3d084649b56290328970ace9": {
-        "nickname": "nahhann",
         "country": "us",
         "top": {
             "2": 1401,
@@ -1285,7 +1220,6 @@
         "forfeited": 583
     },
     "2f59967f6a7841ab840e2cb032589a04": {
-        "nickname": "Dylqn",
         "country": "us",
         "top": {
             "1": 1938,
@@ -1326,7 +1260,6 @@
         "forfeited": 33
     },
     "2fe70934e7be458dba747c4ac830391c": {
-        "nickname": "nhb_",
         "country": "us",
         "top": {
             "2": 793,
@@ -1365,7 +1298,6 @@
         "forfeited": 1548
     },
     "306494c164e74e838a7a0f63f79cc942": {
-        "nickname": "IlLoonCrack",
         "country": "ru",
         "top": {
             "1": 1057,
@@ -1406,7 +1338,6 @@
         "forfeited": 1074
     },
     "31f96d84ed9844bcabbd07f828001290": {
-        "nickname": "Aquaface",
         "country": null,
         "top": {
             "1": 1804,
@@ -1447,7 +1378,6 @@
         "forfeited": 187
     },
     "359da0f53f574971acdaa4aa23de991d": {
-        "nickname": "_pizu",
         "country": "us",
         "top": {
             "1": 980,
@@ -1486,7 +1416,6 @@
         "forfeited": 780
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
-        "nickname": "dillrice",
         "country": null,
         "top": {
             "1": 1721,
@@ -1527,7 +1456,6 @@
         "forfeited": 211
     },
     "36a441538cbc463da6a877e6ebc8af91": {
-        "nickname": "megelimc",
         "country": "fi",
         "top": {
             "1": 1681,
@@ -1568,7 +1496,6 @@
         "forfeited": 52
     },
     "3811c04f620246c09112e91c1b0ec9c5": {
-        "nickname": "Toolscreen",
         "country": "pl",
         "top": {
             "6": 1069,
@@ -1599,7 +1526,6 @@
         "forfeited": 1168
     },
     "388533d5a2ad4b349a31db4738670a4b": {
-        "nickname": "v_strid",
         "country": "se",
         "top": {
             "1": 1765,
@@ -1631,16 +1557,15 @@
         },
         "pb": 373526,
         "streak": 17,
-        "matches": 21817,
-        "playtime": 13410955342,
-        "finished": 9546,
-        "finishtime": 6320151368,
-        "won": 11973,
+        "matches": 21818,
+        "playtime": 13411415172,
+        "finished": 9547,
+        "finishtime": 6320611198,
+        "won": 11974,
         "lost": 9530,
         "forfeited": 1200
     },
     "3910d98bea254b488a10d6e91e469f7e": {
-        "nickname": "dwoh",
         "country": "kr",
         "top": {
             "1": 1802,
@@ -1681,7 +1606,6 @@
         "forfeited": 150
     },
     "3b01d4b4fef14f178b75f05c04dd34ef": {
-        "nickname": "BeefSalad",
         "country": "gb",
         "top": {
             "1": 1817,
@@ -1722,7 +1646,6 @@
         "forfeited": 2016
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
-        "nickname": "ThaShape",
         "country": null,
         "top": {
             "1": 1775,
@@ -1763,7 +1686,6 @@
         "forfeited": 110
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
-        "nickname": "doogile",
         "country": "us",
         "top": {
             "1": 2096,
@@ -1804,7 +1726,6 @@
         "forfeited": 42
     },
     "3da9e8cec2d348f781a98d095b1d0325": {
-        "nickname": "milkteafan61",
         "country": "ax",
         "top": {
             "1": 1414,
@@ -1845,7 +1766,6 @@
         "forfeited": 44
     },
     "410e5776b03a424d8740557bac2d9014": {
-        "nickname": "lauveer",
         "country": "ci",
         "top": {
             "1": 1497,
@@ -1886,7 +1806,6 @@
         "forfeited": 1624
     },
     "4129d8d1aafb4e73b97b9999db248060": {
-        "nickname": "CroProYT",
         "country": "hr",
         "top": {
             "1": 1667,
@@ -1925,7 +1844,6 @@
         "forfeited": 429
     },
     "41d79a18ef5540d6bb3d68634f06a3b1": {
-        "nickname": "okshey",
         "country": "pl",
         "top": {
             "1": 1434,
@@ -1966,7 +1884,6 @@
         "forfeited": 223
     },
     "43a6669e11474827802de8401a373169": {
-        "nickname": "SunOmega",
         "country": null,
         "top": {
             "1": 1801,
@@ -2007,7 +1924,6 @@
         "forfeited": 110
     },
     "4427794ee7ad48bc9b53c156fa4092e1": {
-        "nickname": "kW1st",
         "country": "ru",
         "top": {
             "1": 1942,
@@ -2048,7 +1964,6 @@
         "forfeited": 239
     },
     "45d3cb7f934547e0ac9b4433dea16d39": {
-        "nickname": "shy_67",
         "country": "br",
         "top": {
             "1": 1759,
@@ -2089,7 +2004,6 @@
         "forfeited": 282
     },
     "478b956844414cba9cfccb2977b71962": {
-        "nickname": "B0g0sB1nted",
         "country": null,
         "top": {
             "1": 1649,
@@ -2130,7 +2044,6 @@
         "forfeited": 255
     },
     "4863326cccf043ecbb8ff88628bed781": {
-        "nickname": "pulsar32",
         "country": "tr",
         "top": {
             "1": 1829,
@@ -2171,7 +2084,6 @@
         "forfeited": 1350
     },
     "4894c631e820409ebe4447e4e9835e90": {
-        "nickname": "EvanKeen",
         "country": "ca",
         "top": {
             "1": 1797,
@@ -2212,7 +2124,6 @@
         "forfeited": 714
     },
     "48d9df3377554043ba39a8500c7ad702": {
-        "nickname": "Geegeeboy_25",
         "country": "cn",
         "top": {
             "1": 1735,
@@ -2253,7 +2164,6 @@
         "forfeited": 568
     },
     "4aed1e5e8f5c44e2bc0666e0c03781af": {
-        "nickname": "nEmerald",
         "country": "us",
         "top": {
             "1": 1602,
@@ -2294,7 +2204,6 @@
         "forfeited": 207
     },
     "4c79fc4b5ce24990a021a7636de9c258": {
-        "nickname": "Tompas_",
         "country": "lt",
         "top": {
             "1": 1788,
@@ -2335,7 +2244,6 @@
         "forfeited": 350
     },
     "4cef9655ddc34bd19a5bc380f6adad24": {
-        "nickname": "moo_god",
         "country": "us",
         "top": {
             "1": 1025,
@@ -2376,7 +2284,6 @@
         "forfeited": 934
     },
     "4cf401d7b9474756b06a653867d22fca": {
-        "nickname": "BadGamer",
         "country": "ca",
         "top": {
             "1": 1686,
@@ -2417,7 +2324,6 @@
         "forfeited": 1101
     },
     "4f3e7905554345698e41f88caa4c088e": {
-        "nickname": "cofesho",
         "country": "ca",
         "top": {
             "6": 1244,
@@ -2448,7 +2354,6 @@
         "forfeited": 1421
     },
     "529c478ae270415ba12044771a99249a": {
-        "nickname": "mukvl",
         "country": "in",
         "top": {
             "1": 1198,
@@ -2489,7 +2394,6 @@
         "forfeited": 778
     },
     "553414a2c89b4d6b8c0ba5bd89284508": {
-        "nickname": "ulsahinn",
         "country": "tr",
         "top": {
             "1": 2000,
@@ -2521,16 +2425,15 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6716,
-        "playtime": 4077113289,
-        "finished": 3008,
-        "finishtime": 1972184569,
-        "won": 3689,
-        "lost": 2903,
-        "forfeited": 602
+        "matches": 6720,
+        "playtime": 4079172307,
+        "finished": 3010,
+        "finishtime": 1973359859,
+        "won": 3691,
+        "lost": 2905,
+        "forfeited": 603
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
-        "nickname": "AstraF",
         "country": "fr",
         "top": {
             "1": 1655,
@@ -2569,7 +2472,6 @@
         "forfeited": 493
     },
     "562a308be86c4ec09438387860e792cc": {
-        "nickname": "Oxidiot",
         "country": "us",
         "top": {
             "1": 2088,
@@ -2610,7 +2512,6 @@
         "forfeited": 47
     },
     "56714245be364bd1a469d0853552c109": {
-        "nickname": "orachi_",
         "country": "il",
         "top": {
             "1": 2169,
@@ -2651,7 +2552,6 @@
         "forfeited": 373
     },
     "59f81e4943014bffa80513d56de77728": {
-        "nickname": "ninananina",
         "country": "gb",
         "top": {
             "1": 1799,
@@ -2692,7 +2592,6 @@
         "forfeited": 90
     },
     "5a32f1e5609847c691c07730f973397c": {
-        "nickname": "DARVY__X1",
         "country": "je",
         "top": {
             "1": 1468,
@@ -2733,7 +2632,6 @@
         "forfeited": 477
     },
     "5cd115f0ec1240659db152406c0984a3": {
-        "nickname": "yjako",
         "country": "ph",
         "top": {
             "1": 1454,
@@ -2772,7 +2670,6 @@
         "forfeited": 207
     },
     "5ee577fdc1af45d3a6fb3e086cc293fb": {
-        "nickname": "Ranik_",
         "country": "il",
         "top": {
             "1": 1798,
@@ -2813,7 +2710,6 @@
         "forfeited": 1212
     },
     "5fe66e8b389f4dc384222e8cc09485f0": {
-        "nickname": "sanjinhu",
         "country": "br",
         "top": {
             "1": 1678,
@@ -2854,7 +2750,6 @@
         "forfeited": 1795
     },
     "60bfac463733422f8708733f3140cd94": {
-        "nickname": "TheCrazedTank",
         "country": "sg",
         "top": {
             "5": 1221,
@@ -2885,7 +2780,6 @@
         "forfeited": 0
     },
     "625146b684804a29af2eaeb483a59ddf": {
-        "nickname": "ANJOUU",
         "country": "se",
         "top": {
             "1": 1630,
@@ -2926,7 +2820,6 @@
         "forfeited": 407
     },
     "635f35ee69ed4f0c94ff26ece4818956": {
-        "nickname": "edcr",
         "country": "gb",
         "top": {
             "6": 1582,
@@ -2935,7 +2828,7 @@
             "9": 2789,
             "10": 2772,
             "11": 2722,
-            "12": 2099
+            "12": 2142
         },
         "points": {
             "6": 0,
@@ -2948,16 +2841,15 @@
         },
         "pb": 353371,
         "streak": 29,
-        "matches": 5291,
-        "playtime": 2992544260,
-        "finished": 2893,
-        "finishtime": 1718484752,
-        "won": 3391,
+        "matches": 5295,
+        "playtime": 2994340142,
+        "finished": 2896,
+        "finishtime": 1720070461,
+        "won": 3395,
         "lost": 1800,
         "forfeited": 321
     },
     "64858295eb754646b03caead840391a2": {
-        "nickname": "Casssual",
         "country": "cx",
         "top": {
             "7": 1677,
@@ -2986,7 +2878,6 @@
         "forfeited": 182
     },
     "681679a877ef413c97da63162e835935": {
-        "nickname": "skylewl",
         "country": "rs",
         "top": {
             "1": 1560,
@@ -3027,7 +2918,6 @@
         "forfeited": 1457
     },
     "6c4b4e74963d40e3b5a7118f3e0b0dc4": {
-        "nickname": "7astrid",
         "country": "ca",
         "top": {
             "1": 1044,
@@ -3068,7 +2958,6 @@
         "forfeited": 264
     },
     "6ddcd037dd4048e8804d0f99fa1cf4c6": {
-        "nickname": "Ale267",
         "country": "it",
         "top": {
             "1": 1823,
@@ -3109,7 +2998,6 @@
         "forfeited": 601
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
-        "nickname": "zidouri",
         "country": "kr",
         "top": {
             "1": 1480,
@@ -3150,7 +3038,6 @@
         "forfeited": 151
     },
     "70eb9286e3e24153a8b37c8f884f1292": {
-        "nickname": "7rowl",
         "country": "ua",
         "top": {
             "1": 2230,
@@ -3191,7 +3078,6 @@
         "forfeited": 1222
     },
     "734a1c6118754829acc234135470152c": {
-        "nickname": "yeopgihoney",
         "country": "kr",
         "top": {
             "1": 1477,
@@ -3205,7 +3091,7 @@
             "9": 2172,
             "10": 2344,
             "11": 2476,
-            "12": 1856
+            "12": 1879
         },
         "points": {
             "1": 0,
@@ -3223,16 +3109,15 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 8187,
-        "playtime": 5196731910,
-        "finished": 2990,
-        "finishtime": 2136861287,
-        "won": 4147,
+        "matches": 8188,
+        "playtime": 5197195483,
+        "finished": 2991,
+        "finishtime": 2137324860,
+        "won": 4148,
         "lost": 3721,
         "forfeited": 830
     },
     "736dbdc44a3e452fa489f5344565835e": {
-        "nickname": "drx6",
         "country": "nz",
         "top": {
             "1": 1644,
@@ -3273,7 +3158,6 @@
         "forfeited": 28
     },
     "7447dd83b8bc4b7fb97d3ec316f529dc": {
-        "nickname": "Kxpow",
         "country": "tz",
         "top": {
             "1": 1432,
@@ -3312,7 +3196,6 @@
         "forfeited": 236
     },
     "744f344f2f5a4610aa8fe30053312812": {
-        "nickname": "TheBlazer97",
         "country": "ar",
         "top": {
             "1": 1782,
@@ -3353,7 +3236,6 @@
         "forfeited": 283
     },
     "745a819973974fe1bb1608e57fd439b6": {
-        "nickname": "centuriee",
         "country": "ph",
         "top": {
             "1": 1532,
@@ -3394,7 +3276,6 @@
         "forfeited": 835
     },
     "74ce14cf794b431bb3e10d5311d0777f": {
-        "nickname": "Seauu",
         "country": "fr",
         "top": {
             "1": 1438,
@@ -3433,7 +3314,6 @@
         "forfeited": 41
     },
     "7665f76f431b41c6b321bea16aff913b": {
-        "nickname": "lowk3y_",
         "country": null,
         "top": {
             "1": 2072,
@@ -3474,7 +3354,6 @@
         "forfeited": 182
     },
     "7751d507ab364914bac767a4d2574753": {
-        "nickname": "lumeh_",
         "country": "gb",
         "top": {
             "7": 2013,
@@ -3503,7 +3382,6 @@
         "forfeited": 542
     },
     "78a8ec9f99d34371b73decd2a78ff9b0": {
-        "nickname": "timmypickle45",
         "country": null,
         "top": {
             "1": 1633,
@@ -3544,7 +3422,6 @@
         "forfeited": 1103
     },
     "78ea25c3db9a4830ba7e78074bd6fd10": {
-        "nickname": "petal_go_round",
         "country": null,
         "top": {
             "4": 1475,
@@ -3579,7 +3456,6 @@
         "forfeited": 2971
     },
     "79dab6610bb34d6d8c6f8348bed3620e": {
-        "nickname": "Pi1Mu9353",
         "country": "jp",
         "top": {
             "1": 1099,
@@ -3620,7 +3496,6 @@
         "forfeited": 369
     },
     "7b5563464fdf4757905e681040791ac0": {
-        "nickname": "AllPig",
         "country": "cn",
         "top": {
             "2": 1135,
@@ -3653,7 +3528,6 @@
         "forfeited": 54
     },
     "7c92678742eb4e819f3122017697ae3d": {
-        "nickname": "hackingnoises",
         "country": "hk",
         "top": {
             "1": 2168,
@@ -3685,16 +3559,15 @@
         },
         "pb": 395129,
         "streak": 18,
-        "matches": 3899,
-        "playtime": 2332693629,
-        "finished": 1892,
-        "finishtime": 1208994323,
-        "won": 2445,
-        "lost": 1373,
+        "matches": 3901,
+        "playtime": 2333829063,
+        "finished": 1893,
+        "finishtime": 1209578483,
+        "won": 2446,
+        "lost": 1374,
         "forfeited": 274
     },
     "7d320034571e405a9b6889104489a3c4": {
-        "nickname": "kohout135",
         "country": "cz",
         "top": {
             "1": 1995,
@@ -3726,16 +3599,15 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 5839,
-        "playtime": 3459618179,
-        "finished": 2223,
-        "finishtime": 1569118435,
-        "won": 3046,
-        "lost": 2631,
-        "forfeited": 1129
+        "matches": 5844,
+        "playtime": 3462061493,
+        "finished": 2226,
+        "finishtime": 1570802764,
+        "won": 3049,
+        "lost": 2633,
+        "forfeited": 1130
     },
     "7f36b01d1b8f4fbcab4df24a454d6e15": {
-        "nickname": "Dimeax",
         "country": "de",
         "top": {
             "1": 1973,
@@ -3776,7 +3648,6 @@
         "forfeited": 136
     },
     "7f93d3e698cd4d648accc2a4d46ce119": {
-        "nickname": "woofdoggo_",
         "country": null,
         "top": {
             "3": 1575,
@@ -3805,7 +3676,6 @@
         "forfeited": 0
     },
     "7fad8dae2ab04971bc07a6440f84d609": {
-        "nickname": "suravil",
         "country": "pl",
         "top": {
             "1": 1376,
@@ -3846,7 +3716,6 @@
         "forfeited": 219
     },
     "804da783a9e14f5f8e97c6dd8b045595": {
-        "nickname": "AceRPx",
         "country": null,
         "top": {
             "1": 1891,
@@ -3887,7 +3756,6 @@
         "forfeited": 141
     },
     "8195522a3c574d86b2162c8b8ec8bd3d": {
-        "nickname": "pardonmc",
         "country": "pl",
         "top": {
             "6": 1422,
@@ -3918,7 +3786,6 @@
         "forfeited": 913
     },
     "82a111625c614f31a44789d5464a969a": {
-        "nickname": "DECTHEELITE",
         "country": null,
         "top": {
             "1": 2004,
@@ -3959,7 +3826,6 @@
         "forfeited": 19
     },
     "83518e9927244f319f7175f3ff7609a1": {
-        "nickname": "furk1e",
         "country": "de",
         "top": {
             "1": 1367,
@@ -4000,7 +3866,6 @@
         "forfeited": 781
     },
     "8393e90d9dd94a3eb838146a5ae5b724": {
-        "nickname": "takachaaaaaaan",
         "country": "jp",
         "top": {
             "6": 933,
@@ -4031,7 +3896,6 @@
         "forfeited": 2193
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
-        "nickname": "karatebaby_",
         "country": "vn",
         "top": {
             "1": 1649,
@@ -4072,7 +3936,6 @@
         "forfeited": 1313
     },
     "879c8136d42c4222b42f1c090616fa5e": {
-        "nickname": "webwormy",
         "country": "ca",
         "top": {
             "1": 1829,
@@ -4113,7 +3976,6 @@
         "forfeited": 215
     },
     "8826e1e6d21b46ecbc5d5246b836f36a": {
-        "nickname": "4antoo",
         "country": "it",
         "top": {
             "2": 1538,
@@ -4143,16 +4005,15 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 6350,
-        "playtime": 4055693161,
-        "finished": 2327,
-        "finishtime": 1608319536,
-        "won": 3115,
-        "lost": 2813,
+        "matches": 6353,
+        "playtime": 4057377595,
+        "finished": 2329,
+        "finishtime": 1609566205,
+        "won": 3117,
+        "lost": 2814,
         "forfeited": 206
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
-        "nickname": "Marlowww_IsGOAT",
         "country": "us",
         "top": {
             "1": 1771,
@@ -4193,7 +4054,6 @@
         "forfeited": 251
     },
     "8b8252474ac24c3ea4ba1298adf2044e": {
-        "nickname": "Mar1n",
         "country": "hr",
         "top": {
             "1": 1932,
@@ -4234,7 +4094,6 @@
         "forfeited": 136
     },
     "8c7208adf2784bacb3715ab657cd80bd": {
-        "nickname": "BinEin",
         "country": "pl",
         "top": {
             "6": 1418,
@@ -4265,7 +4124,6 @@
         "forfeited": 91
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
-        "nickname": "WarioTime1",
         "country": "va",
         "top": {
             "1": 1647,
@@ -4297,16 +4155,15 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 13830,
-        "playtime": 8688382370,
+        "matches": 13831,
+        "playtime": 8688948118,
         "finished": 4863,
         "finishtime": 3683314060,
         "won": 6995,
-        "lost": 6570,
+        "lost": 6571,
         "forfeited": 3014
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
-        "nickname": "emia",
         "country": "ps",
         "top": {
             "1": 1803,
@@ -4347,7 +4204,6 @@
         "forfeited": 1045
     },
     "8e662c4655534e00802d563043cd8739": {
-        "nickname": "Parkertwo",
         "country": null,
         "top": {
             "1": 1675,
@@ -4388,7 +4244,6 @@
         "forfeited": 68
     },
     "8e94f1731dd74683b62482d90a2a8a1c": {
-        "nickname": "idwt_doanything",
         "country": "kr",
         "top": {
             "1": 1227,
@@ -4429,7 +4284,6 @@
         "forfeited": 392
     },
     "8fc93aecda5b4f699cf76694116eaf11": {
-        "nickname": "rekrap2",
         "country": "us",
         "top": {
             "3": 1734,
@@ -4466,7 +4320,6 @@
         "forfeited": 72
     },
     "92b63a39b36a445fa94c77ae212dcea3": {
-        "nickname": "bing_pigs",
         "country": "au",
         "top": {
             "1": 2065,
@@ -4507,7 +4360,6 @@
         "forfeited": 1286
     },
     "939ddf85303441de901d60bfa4109318": {
-        "nickname": "thecamo6",
         "country": "us",
         "top": {
             "1": 1744,
@@ -4548,7 +4400,6 @@
         "forfeited": 880
     },
     "9589914cf31a420bbcb07cd0768eec28": {
-        "nickname": "_Pasha1337_",
         "country": null,
         "top": {
             "4": 1484,
@@ -4570,16 +4421,15 @@
         },
         "pb": 390746,
         "streak": 13,
-        "matches": 2878,
-        "playtime": 1875833490,
+        "matches": 2879,
+        "playtime": 1876285157,
         "finished": 1052,
         "finishtime": 765590028,
         "won": 1446,
-        "lost": 1286,
+        "lost": 1287,
         "forfeited": 189
     },
     "9649236873db4cb9b7bdc2dae693ed39": {
-        "nickname": "Yosa1003",
         "country": "jp",
         "top": {
             "9": 1347,
@@ -4604,7 +4454,6 @@
         "forfeited": 69
     },
     "97800bfa7f1c42e19162ea1c2bc7078b": {
-        "nickname": "mi5f1t",
         "country": "br",
         "top": {
             "1": 1520,
@@ -4645,7 +4494,6 @@
         "forfeited": 1254
     },
     "99aa9e0e8034479a90259e244dfb9029": {
-        "nickname": "Emillk",
         "country": "yt",
         "top": {
             "1": 1646,
@@ -4677,16 +4525,15 @@
         },
         "pb": 401422,
         "streak": 11,
-        "matches": 6756,
-        "playtime": 4178398359,
+        "matches": 6757,
+        "playtime": 4179091572,
         "finished": 2499,
         "finishtime": 1752728079,
         "won": 3359,
-        "lost": 3106,
+        "lost": 3107,
         "forfeited": 1048
     },
     "9a8e24df4c8549d696a6951da84fa5c4": {
-        "nickname": "Feinberg",
         "country": "us",
         "top": {
             "1": 2309,
@@ -4727,7 +4574,6 @@
         "forfeited": 95
     },
     "9c724d7793094a76a8bc9d30f397df92": {
-        "nickname": "Javierixmon",
         "country": "cl",
         "top": {
             "1": 1924,
@@ -4768,7 +4614,6 @@
         "forfeited": 1141
     },
     "9dcb17d831b24df2bae778cfd750ab1b": {
-        "nickname": "loodlow",
         "country": "ua",
         "top": {
             "2": 1597,
@@ -4781,7 +4626,7 @@
             "9": 2288,
             "10": 2343,
             "11": 2164,
-            "12": 1696
+            "12": 1717
         },
         "points": {
             "2": 0,
@@ -4798,16 +4643,15 @@
         },
         "pb": 387671,
         "streak": 15,
-        "matches": 5883,
-        "playtime": 3316778126,
-        "finished": 2318,
-        "finishtime": 1520162713,
-        "won": 2977,
-        "lost": 2732,
-        "forfeited": 1221
+        "matches": 5890,
+        "playtime": 3320667101,
+        "finished": 2321,
+        "finishtime": 1522010191,
+        "won": 2980,
+        "lost": 2736,
+        "forfeited": 1223
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
-        "nickname": "sevensix_",
         "country": "hk",
         "top": {
             "1": 1248,
@@ -4846,7 +4690,6 @@
         "forfeited": 1343
     },
     "a0a672a0bc194540bc195220dc170dba": {
-        "nickname": "JackoWacko62",
         "country": "us",
         "top": {
             "1": 1585,
@@ -4887,7 +4730,6 @@
         "forfeited": 1850
     },
     "a0c06d33c69941d09b22e0c98c4233fd": {
-        "nickname": "jamyreaf",
         "country": "us",
         "top": {
             "1": 1792,
@@ -4928,7 +4770,6 @@
         "forfeited": 30
     },
     "a162fe30a8074cc6b9600719bc5e5ed9": {
-        "nickname": "maraico",
         "country": "de",
         "top": {
             "1": 1478,
@@ -4969,7 +4810,6 @@
         "forfeited": 224
     },
     "a20541925b5648e1ae88a141ca37911e": {
-        "nickname": "xiamoys",
         "country": "cn",
         "top": {
             "1": 1539,
@@ -5010,7 +4850,6 @@
         "forfeited": 123
     },
     "a501fd2185d94d3591ac9075880d6350": {
-        "nickname": "KostuGaming",
         "country": "pl",
         "top": {
             "1": 1576,
@@ -5051,7 +4890,6 @@
         "forfeited": 124
     },
     "a53540ad086c490e9a0405171f0e0e58": {
-        "nickname": "aleen",
         "country": null,
         "top": {
             "1": 1673,
@@ -5092,7 +4930,6 @@
         "forfeited": 120
     },
     "a536eec9a68e4d309cd09f5af4c006a7": {
-        "nickname": "Reignex",
         "country": null,
         "top": {
             "1": 2012,
@@ -5133,7 +4970,6 @@
         "forfeited": 159
     },
     "a54e3bc4c6354b07a236b81efbcfe791": {
-        "nickname": "Infume",
         "country": "us",
         "top": {
             "3": 1658,
@@ -5170,7 +5006,6 @@
         "forfeited": 42
     },
     "a5d83ff042164ff1b862dedc118c1dae": {
-        "nickname": "steez",
         "country": "gb",
         "top": {
             "7": 1770,
@@ -5199,7 +5034,6 @@
         "forfeited": 109
     },
     "a81886565121479782d42408d94fe97d": {
-        "nickname": "affordab1e",
         "country": "cn",
         "top": {
             "1": 1255,
@@ -5240,7 +5074,6 @@
         "forfeited": 665
     },
     "a945d079268e4189896d7a9c3b7b64b0": {
-        "nickname": "teddiursa1234",
         "country": "us",
         "top": {
             "1": 1739,
@@ -5281,7 +5114,6 @@
         "forfeited": 67
     },
     "aa5a894a4d5340f49683fdfd1ea9c523": {
-        "nickname": "Pinne",
         "country": "no",
         "top": {
             "1": 1344,
@@ -5320,7 +5152,6 @@
         "forfeited": 9
     },
     "aa756a8da9784c16b9496f5f5fcaba09": {
-        "nickname": "Czelco",
         "country": "cz",
         "top": {
             "6": 1114,
@@ -5351,7 +5182,6 @@
         "forfeited": 287
     },
     "ac601ce7376f49cea7ce14cd577dac85": {
-        "nickname": "BlazeMind",
         "country": "au",
         "top": {
             "1": 1248,
@@ -5383,16 +5213,15 @@
         },
         "pb": 378785,
         "streak": 18,
-        "matches": 6426,
-        "playtime": 4050569222,
-        "finished": 2644,
-        "finishtime": 1746962419,
-        "won": 3481,
-        "lost": 2698,
+        "matches": 6438,
+        "playtime": 4057036311,
+        "finished": 2652,
+        "finishtime": 1751294655,
+        "won": 3489,
+        "lost": 2702,
         "forfeited": 284
     },
     "addd890764404097b3f12acdde2adf33": {
-        "nickname": "_Hypn0tic",
         "country": "us",
         "top": {
             "4": 1533,
@@ -5427,7 +5256,6 @@
         "forfeited": 813
     },
     "af22aaab9ee74596a3578bd6345d25b5": {
-        "nickname": "priffie",
         "country": null,
         "top": {
             "1": 2146,
@@ -5468,7 +5296,6 @@
         "forfeited": 315
     },
     "b140bbd0317d4eba89d34288f1b8f0c7": {
-        "nickname": "amariyy",
         "country": "cn",
         "top": {
             "6": 919,
@@ -5477,7 +5304,7 @@
             "9": 2174,
             "10": 2357,
             "11": 2225,
-            "12": 1851
+            "12": 1879
         },
         "points": {
             "6": 0,
@@ -5490,16 +5317,15 @@
         },
         "pb": 429541,
         "streak": 11,
-        "matches": 10197,
-        "playtime": 6106698194,
-        "finished": 3532,
-        "finishtime": 2517872290,
-        "won": 5051,
-        "lost": 4812,
+        "matches": 10207,
+        "playtime": 6112277232,
+        "finished": 3536,
+        "finishtime": 2520562827,
+        "won": 5057,
+        "lost": 4816,
         "forfeited": 2424
     },
     "b39f5648c91d42dfb121655f2aa52970": {
-        "nickname": "dimowo",
         "country": "sj",
         "top": {
             "1": 1520,
@@ -5540,7 +5366,6 @@
         "forfeited": 448
     },
     "b516d1d18261467bbb6f447f0c111be7": {
-        "nickname": "Gabryll",
         "country": "mf",
         "top": {
             "4": 1100,
@@ -5566,16 +5391,15 @@
         },
         "pb": 395003,
         "streak": 14,
-        "matches": 9357,
-        "playtime": 5765447544,
-        "finished": 3151,
-        "finishtime": 2248148991,
-        "won": 4566,
-        "lost": 4360,
+        "matches": 9368,
+        "playtime": 5771907744,
+        "finished": 3156,
+        "finishtime": 2251389794,
+        "won": 4571,
+        "lost": 4366,
         "forfeited": 1378
     },
     "b5ae858c09384b79989ea305a4b5cedf": {
-        "nickname": "Ayreliaa",
         "country": "ru",
         "top": {
             "2": 1730,
@@ -5614,7 +5438,6 @@
         "forfeited": 266
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
-        "nickname": "meebie",
         "country": "so",
         "top": {
             "1": 1909,
@@ -5655,7 +5478,6 @@
         "forfeited": 759
     },
     "ba8ca44d9ac044808f6ae745769b8ec5": {
-        "nickname": "xShatter",
         "country": null,
         "top": {
             "1": 1701,
@@ -5696,7 +5518,6 @@
         "forfeited": 336
     },
     "bbd1dbd2f3ed4c43b62fc7572229ee61": {
-        "nickname": "romuxii",
         "country": "by",
         "top": {
             "4": 1865,
@@ -5731,7 +5552,6 @@
         "forfeited": 1475
     },
     "bc55d2999bf24ba2b764c4135a53255f": {
-        "nickname": "Sadekeppi",
         "country": "fi",
         "top": {
             "1": 1187,
@@ -5745,7 +5565,7 @@
             "9": 1922,
             "10": 2108,
             "11": 2349,
-            "12": 0
+            "12": 1683
         },
         "points": {
             "1": 0,
@@ -5763,16 +5583,15 @@
         },
         "pb": 448114,
         "streak": 12,
-        "matches": 1165,
-        "playtime": 767974045,
-        "finished": 501,
-        "finishtime": 364416584,
-        "won": 684,
-        "lost": 444,
+        "matches": 1173,
+        "playtime": 772057186,
+        "finished": 506,
+        "finishtime": 367212286,
+        "won": 691,
+        "lost": 445,
         "forfeited": 63
     },
     "bc80af38933f4ae19b0494681a54422b": {
-        "nickname": "Ancoboyy",
         "country": "tr",
         "top": {
             "1": 2099,
@@ -5786,7 +5605,7 @@
             "9": 2487,
             "10": 2555,
             "11": 2425,
-            "12": 1911
+            "12": 1913
         },
         "points": {
             "1": 0,
@@ -5804,16 +5623,15 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 7471,
-        "playtime": 4179300989,
-        "finished": 3324,
-        "finishtime": 2111770142,
-        "won": 4120,
-        "lost": 3116,
+        "matches": 7473,
+        "playtime": 4180649818,
+        "finished": 3325,
+        "finishtime": 2112225447,
+        "won": 4121,
+        "lost": 3117,
         "forfeited": 1440
     },
     "bcb0f43558d745ee977841180b121267": {
-        "nickname": "pavkin",
         "country": "cx",
         "top": {
             "6": 1166,
@@ -5844,7 +5662,6 @@
         "forfeited": 257
     },
     "bdb7f407200d4882b78e656ca161bddf": {
-        "nickname": "sylvie0616",
         "country": "hk",
         "top": {
             "2": 1142,
@@ -5883,7 +5700,6 @@
         "forfeited": 2687
     },
     "be4ad7e999e14a74974d47ac650062a3": {
-        "nickname": "bbiddd",
         "country": "ca",
         "top": {
             "6": 968,
@@ -5914,7 +5730,6 @@
         "forfeited": 471
     },
     "be7a79f3331042f19c07230752b26725": {
-        "nickname": "dinonuggieboi",
         "country": "ua",
         "top": {
             "1": 1899,
@@ -5955,7 +5770,6 @@
         "forfeited": 99
     },
     "c32cdd142a0147dcb91771319d745194": {
-        "nickname": "Erikfzf",
         "country": "au",
         "top": {
             "1": 1748,
@@ -5996,7 +5810,6 @@
         "forfeited": 264
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
-        "nickname": "josh7eautwins",
         "country": null,
         "top": {
             "1": 1882,
@@ -6037,7 +5850,6 @@
         "forfeited": 198
     },
     "c670041ed84c480cab4a6ee904905b5f": {
-        "nickname": "paplerr",
         "country": "se",
         "top": {
             "1": 1389,
@@ -6078,7 +5890,6 @@
         "forfeited": 842
     },
     "c7802cb7c30c47aabc1a7ec790ff2260": {
-        "nickname": "iKme_",
         "country": "hu",
         "top": {
             "1": 1089,
@@ -6119,7 +5930,6 @@
         "forfeited": 914
     },
     "c9f3dc334bb84708911c611e94751b5a": {
-        "nickname": "poopiefart13",
         "country": "ph",
         "top": {
             "8": 1238,
@@ -6137,16 +5947,15 @@
         },
         "pb": 401869,
         "streak": 12,
-        "matches": 6319,
-        "playtime": 3561394127,
-        "finished": 2301,
-        "finishtime": 1524551895,
-        "won": 3058,
-        "lost": 2923,
-        "forfeited": 1557
+        "matches": 6324,
+        "playtime": 3563622506,
+        "finished": 2304,
+        "finishtime": 1525985941,
+        "won": 3061,
+        "lost": 2925,
+        "forfeited": 1558
     },
     "cbc4685f701c49319fb424430604b553": {
-        "nickname": "madoosu",
         "country": "us",
         "top": {
             "1": 1598,
@@ -6183,7 +5992,6 @@
         "forfeited": 36
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
-        "nickname": "Launey_",
         "country": "fr",
         "top": {
             "1": 1697,
@@ -6224,7 +6032,6 @@
         "forfeited": 604
     },
     "cc432b2626a44ae1836a50244adbf468": {
-        "nickname": "Watermelon1708",
         "country": "pl",
         "top": {
             "6": 1636,
@@ -6246,16 +6053,15 @@
         },
         "pb": 384643,
         "streak": 27,
-        "matches": 6463,
-        "playtime": 3630756511,
+        "matches": 6465,
+        "playtime": 3631647044,
         "finished": 2612,
         "finishtime": 1698243103,
         "won": 3384,
-        "lost": 2884,
+        "lost": 2886,
         "forfeited": 1316
     },
     "cdf98ee293f3483fa3890bb3582dbda3": {
-        "nickname": "NoHacsJustRoblox",
         "country": "ca",
         "top": {
             "3": 1605,
@@ -6284,7 +6090,6 @@
         "forfeited": 6
     },
     "cf1102ea451241d187aaa62e05cab5c3": {
-        "nickname": "nonsochiamaa",
         "country": "br",
         "top": {
             "3": 1586,
@@ -6319,7 +6124,6 @@
         "forfeited": 463
     },
     "d0a684fdcbe445d5abb39990ae1cfc3a": {
-        "nickname": "danterus",
         "country": "us",
         "top": {
             "2": 1029,
@@ -6358,7 +6162,6 @@
         "forfeited": 248
     },
     "d0acbca0d50e4824bc38a44395cce096": {
-        "nickname": "Fyroah",
         "country": "ca",
         "top": {
             "1": 1819,
@@ -6399,7 +6202,6 @@
         "forfeited": 71
     },
     "d1718c79c34e4bce93cd688ac5254b58": {
-        "nickname": "cornflakesmcsr",
         "country": "de",
         "top": {
             "1": 1676,
@@ -6440,7 +6242,6 @@
         "forfeited": 211
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
-        "nickname": "boosterruns",
         "country": "br",
         "top": {
             "1": 1624,
@@ -6481,7 +6282,6 @@
         "forfeited": 505
     },
     "d7d0b271136647fea7398a444ab51c13": {
-        "nickname": "JustAltoid",
         "country": "us",
         "top": {
             "1": 1194,
@@ -6522,7 +6322,6 @@
         "forfeited": 1211
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
-        "nickname": "hack_page",
         "country": "be",
         "top": {
             "2": 1327,
@@ -6561,7 +6360,6 @@
         "forfeited": 169
     },
     "da1d85337d244f789d60b009e1e2b346": {
-        "nickname": "Mauvu",
         "country": "gb",
         "top": {
             "1": 1649,
@@ -6602,7 +6400,6 @@
         "forfeited": 35
     },
     "da5e15a7d3c04a84b432defd5a15c910": {
-        "nickname": "paukll",
         "country": "us",
         "top": {
             "3": 1088,
@@ -6639,7 +6436,6 @@
         "forfeited": 174
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
-        "nickname": "Inphume",
         "country": "us",
         "top": {
             "1": 1697,
@@ -6680,7 +6476,6 @@
         "forfeited": 1757
     },
     "dd382293fed04a3e9fa850bb139279fc": {
-        "nickname": "Phulham",
         "country": "gb",
         "top": {
             "1": 1344,
@@ -6717,7 +6512,6 @@
         "forfeited": 959
     },
     "dd5fbfd77b35431e97e8e0ec36817f29": {
-        "nickname": "Traden",
         "country": "tw",
         "top": {
             "4": 1087,
@@ -6752,7 +6546,6 @@
         "forfeited": 2159
     },
     "de8e3203f8674303ad4a2baa55a15c87": {
-        "nickname": "cbirrd",
         "country": "us",
         "top": {
             "8": 1439,
@@ -6779,7 +6572,6 @@
         "forfeited": 13
     },
     "e43dad544b244da9b690a12fdc8626dc": {
-        "nickname": "NiceTwice",
         "country": "de",
         "top": {
             "1": 1812,
@@ -6820,7 +6612,6 @@
         "forfeited": 120
     },
     "e4808bc3e1e347988cbb59b55d723e0f": {
-        "nickname": "dandannyboy",
         "country": "ca",
         "top": {
             "1": 2042,
@@ -6861,7 +6652,6 @@
         "forfeited": 1084
     },
     "e4cd494a4e0a423b9988618b86858c96": {
-        "nickname": "NoFearr1337",
         "country": null,
         "top": {
             "2": 1337,
@@ -6900,7 +6690,6 @@
         "forfeited": 127
     },
     "e691063a2afc4c47ac987c0f307297ad": {
-        "nickname": "VMiZ",
         "country": null,
         "top": {
             "1": 1699,
@@ -6941,7 +6730,6 @@
         "forfeited": 11
     },
     "e811fb301b1a41ea81c1f481ea93c3be": {
-        "nickname": "mintchloe",
         "country": "cx",
         "top": {
             "1": 1310,
@@ -6980,12 +6768,11 @@
         "forfeited": 238
     },
     "ea2b3799645743df906350b7110d21e7": {
-        "nickname": "asteroid20993",
         "country": "ca",
         "top": {
             "10": 1968,
             "11": 2306,
-            "12": 1743
+            "12": 1768
         },
         "points": {
             "10": 0,
@@ -6994,16 +6781,15 @@
         },
         "pb": 432342,
         "streak": 10,
-        "matches": 1130,
-        "playtime": 866736049,
-        "finished": 453,
-        "finishtime": 365117895,
-        "won": 599,
+        "matches": 1131,
+        "playtime": 867403474,
+        "finished": 454,
+        "finishtime": 365785320,
+        "won": 600,
         "lost": 457,
         "forfeited": 74
     },
     "ea96ade538b3498d9de431a5aec6ffbf": {
-        "nickname": "jonahhhhhhhh",
         "country": "us",
         "top": {
             "2": 1114,
@@ -7042,7 +6828,6 @@
         "forfeited": 2419
     },
     "eb136e7e26124f8daa99e521da609135": {
-        "nickname": "Frolde",
         "country": "dk",
         "top": {
             "7": 1407,
@@ -7071,7 +6856,6 @@
         "forfeited": 1748
     },
     "f1611fd339b1401f84154afee3a5f14a": {
-        "nickname": "Blooopy",
         "country": null,
         "top": {
             "1": 1542,
@@ -7112,7 +6896,6 @@
         "forfeited": 45
     },
     "f55a7e31e65a453e941ebec79cd39992": {
-        "nickname": "Brunted",
         "country": "gb",
         "top": {
             "7": 941,
@@ -7141,7 +6924,6 @@
         "forfeited": 58
     },
     "fa1bec35058546c98f9279f8be7cf9bc": {
-        "nickname": "MoleyG",
         "country": "au",
         "top": {
             "1": 2000,
@@ -7173,16 +6955,15 @@
         },
         "pb": 455391,
         "streak": 11,
-        "matches": 4194,
-        "playtime": 2769932239,
-        "finished": 1570,
-        "finishtime": 1199234297,
-        "won": 2197,
-        "lost": 1901,
+        "matches": 4198,
+        "playtime": 2773195831,
+        "finished": 1572,
+        "finishtime": 1200462733,
+        "won": 2199,
+        "lost": 1903,
         "forfeited": 522
     },
     "fb2bd99d6f664e7b96cc6a24834b9a76": {
-        "nickname": "TuCarta",
         "country": "ar",
         "top": {
             "1": 1572,
@@ -7223,7 +7004,6 @@
         "forfeited": 90
     },
     "fdbf51f55dcb4a3abb495f6b18589886": {
-        "nickname": "jpx_x",
         "country": null,
         "top": {
             "6": 2085,
@@ -7254,7 +7034,6 @@
         "forfeited": 75
     },
     "fdff6a3e88054664974dbcd30583fe81": {
-        "nickname": "Finnitzko",
         "country": "de",
         "top": {
             "1": 1617,
@@ -7286,12 +7065,12 @@
         },
         "pb": 405962,
         "streak": 11,
-        "matches": 9534,
-        "playtime": 6027480966,
-        "finished": 3322,
-        "finishtime": 2411095228,
-        "won": 4704,
-        "lost": 4416,
-        "forfeited": 1265
+        "matches": 9546,
+        "playtime": 6033609293,
+        "finished": 3328,
+        "finishtime": 2414838539,
+        "won": 4711,
+        "lost": 4421,
+        "forfeited": 1267
     }
 }

@@ -55,6 +55,13 @@
   echo "now {$now}\n";
   echo "past {$past}\n";
 
+  $nicknames=@file_get_contents("../data/nicknames.js");
+  if($nicknames === false){
+    $nicks=[];
+    echo "new nicknames\n";
+  }else{
+    $nicks=json_decode($nicknames, true, 512, JSON_OBJECT_AS_ARRAY);
+  }
   $alltime=@file_get_contents("../data/alltime.js");
   if($alltime === false){
     $at=[];
@@ -112,7 +119,8 @@
   $pp=[];
   $cpt=0;
   foreach($players["data"]["users"] as $p){
-    $pp[]=["uuid" => $p["uuid"], "nickname" => $p["nickname"]];
+    $pp[]=["uuid" => $p["uuid"]];
+    $nicks[$p["uuid"]]=$p["nickname"];
     ++$cpt;
     if($cpt === $max_players){
       break;
@@ -134,11 +142,11 @@
        !isset($http_response_header[0]) ||
        $http_response_header[0] !== "HTTP/1.1 200 OK"){
       echo "request error ".($http_response_header[0] ?? "no header").
-                           " {$p["nickname"]} stats season {$sss}\n";
+                           " {$nicks[$p["uuid"]]} stats season {$sss}\n";
       die(1);
     }
     echo "(".(++$request_counter).
-            ") {$p["nickname"]} stats season {$sss}\n";
+            ") {$nicks[$p["uuid"]]} stats season {$sss}\n";
     unset($ss);
     $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
@@ -158,7 +166,6 @@
     $p["stats"]["lost"]=$ss["data"]["statistics"]["season"]["loses"]["ranked"];
     $p["stats"]["forfeited"]=$ss["data"]["statistics"]["season"]["forfeits"]["ranked"];
 
-    $at[$p["uuid"]]["nickname"]=$ss["data"]["nickname"];
     $at[$p["uuid"]]["country"]=$ss["data"]["country"];
     $at[$p["uuid"]]["top"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
     ksort($at[$p["uuid"]]["top"], SORT_NUMERIC);
@@ -189,10 +196,10 @@
          !isset($http_response_header[0]) ||
          $http_response_header[0] !== "HTTP/1.1 200 OK"){
         echo "request error ".($http_response_header[0] ?? "no header").
-                             " {$p["nickname"]} before {$before_id}\n";
+                             " {$nicks[$p["uuid"]]} before {$before_id}\n";
         die(1);
       }
-      echo "(".(++$request_counter).") {$p["nickname"]} before {$before_id}\n";
+      echo "(".(++$request_counter).") {$nicks[$p["uuid"]]} before {$before_id}\n";
       unset($mm);
       $mm=json_decode($matches, true, 512, JSON_OBJECT_AS_ARRAY);
       if(!is_array($mm) || count($mm) === 0){
@@ -214,7 +221,8 @@
         $opponent=null;
         foreach($m["players"] as $player){
           if($player["uuid"] !== $p["uuid"]){
-            $opponent=$player["nickname"];
+            $opponent=$player["uuid"];
+            $nicks[$player["uuid"]]=$player["nickname"];
           }
         }
         $elo=0;
@@ -256,7 +264,7 @@
         $before="&before=".$before_id;
       }
     }
-    echo "#".(++$player_counter)." {$p["nickname"]} ".
+    echo "#".(++$player_counter)." {$nicks[$p["uuid"]]} ".
             (count($p["matches"]))." matches\n";
     unset($p);
   }
@@ -303,7 +311,6 @@
       unset($ss);
       $ss=json_decode($stats, true, 512, JSON_OBJECT_AS_ARRAY);
 
-      $a["nickname"]=$ss["data"]["nickname"];
       $a["country"]=$ss["data"]["country"];
       $a["top"][$sss]=$ss["data"]["seasonResult"]["highest"] ?? 0;
       ksort($a["top"], SORT_NUMERIC);
@@ -358,6 +365,10 @@
   ksort($at, SORT_STRING);
   file_put_contents("../data/alltime.js",
                     json_encode($at, JSON_PRETTY_PRINT));
+
+  ksort($nicks, SORT_STRING);
+  file_put_contents("../data/nicknames.js",
+                    json_encode($nicks, JSON_PRETTY_PRINT));
 
 }
 

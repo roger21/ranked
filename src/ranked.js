@@ -54,6 +54,8 @@ let rowStart = 2;
 let colorStart = 0;
 // alpha channel à 0.1 pour les autres courbes sur un mouseover
 let colorHover = " / .1)";
+// nickname de chaque joueur
+let nicknames = {};
 // couleur de chaque joueur
 let playerColors = {};
 
@@ -992,8 +994,8 @@ function htmltooltip(context) {
   let data = chart?.data?.datasets[datasetIndex]?.data[dataIndex];
   let player = chart?.data?.datasets[datasetIndex]?.label;
   let color = chart?.data?.datasets[datasetIndex]?.backgroundColor;
-  let opponent = data?.opponent;
-  let ocolor = playerColors[opponent];
+  let opponent = nicknames[data?.opponent];
+  let ocolor = playerColors[data?.opponent];
   // suppression des éléments actuels de la tooltip
   while(tooltipDiv.firstChild) {
     tooltipDiv.removeChild(tooltipDiv.firstChild);
@@ -1328,16 +1330,6 @@ const onhoverout = {
   }
 }
 
-// gestion de la récupération du nickname
-async function getNickname(uuid) {
-  let urlAshcon = "https://api.ashcon.app/mojang/v2/user/" + uuid;
-  const responseAshcon = await fetch(urlAshcon, {
-    cache: "no-store",
-  });
-  const jsonAshcon = await responseAshcon.json();
-  return jsonAshcon.username;
-}
-
 // gestion du chargement des données et de la
 // construction du graph au chargement de la page
 async function loadData() {
@@ -1407,6 +1399,13 @@ async function loadData() {
     cache: "no-store",
   });
   const alltime = await responseAlltime.json();
+
+  // récupération des nicknames
+  let urlNicknames = url + "nicknames.js?" + Date.now();
+  const responseNicknames = await fetch(urlNicknames, {
+    cache: "no-store",
+  });
+  nicknames = await responseNicknames.json();
 
   // construction de la date et du temps écoulé depuis
   // la compilation des données
@@ -1483,11 +1482,9 @@ async function loadData() {
     image.src = headUrl(players[p].uuid);
     images[players[p].uuid] = image;
 
-    let nickname = await getNickname(players[p].uuid); // TODO virer
-
     // données pour cette courbe
     data.push({
-      label: nickname, // TODO getNickname(players[p].uuid);
+      label: nicknames[players[p].uuid],
       uuid: players[p].uuid,
       country: players[p].country,
       stats: players[p].stats,
@@ -1519,7 +1516,7 @@ async function loadData() {
     //console.log("allColors", allColors.length);
 
     // enregistrement de la couleur du joueur
-    playerColors[nickname] = color; // TODO use UUID playerColors[players[p].uuid] = color;
+    playerColors[players[p].uuid] = color;
 
     // deplacement des curseurs pour la couleur suivante
     cptRows += rowSkip;
