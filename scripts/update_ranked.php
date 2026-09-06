@@ -120,7 +120,9 @@
   $cpt=0;
   foreach($players["data"]["users"] as $p){
     $pp[]=["uuid" => $p["uuid"]];
-    $nicks[$p["uuid"]]=$p["nickname"];
+    if(!isset($nicks[$p["uuid"]])){
+      $nicks[$p["uuid"]]=$p["nickname"];
+    }
     ++$cpt;
     if($cpt === $max_players){
       break;
@@ -222,7 +224,9 @@
         foreach($m["players"] as $player){
           if($player["uuid"] !== $p["uuid"]){
             $opponent=$player["uuid"];
-            $nicks[$player["uuid"]]=$player["nickname"];
+            if(!isset($nicks[$player["uuid"]])){
+              $nicks[$player["uuid"]]=$player["nickname"];
+            }
           }
         }
         $elo=0;
