@@ -58,7 +58,7 @@
   $nicknames=@file_get_contents("../data/nicknames.js");
   if($nicknames === false){
     $nicks=[];
-    echo "new nicknames\n";
+    echo "new nick names\n";
   }else{
     $nicks=json_decode($nicknames, true, 512, JSON_OBJECT_AS_ARRAY);
   }
@@ -122,6 +122,7 @@
     $pp[]=["uuid" => $p["uuid"]];
     if(!isset($nicks[$p["uuid"]])){
       $nicks[$p["uuid"]]=$p["nickname"];
+      echo "new nickname player {$p["uuid"]} {$p["nickname"]}\n";
     }
     ++$cpt;
     if($cpt === $max_players){
@@ -226,6 +227,7 @@
             $opponent=$player["uuid"];
             if(!isset($nicks[$player["uuid"]])){
               $nicks[$player["uuid"]]=$player["nickname"];
+              echo "new nickname opponent {$player["uuid"]} {$player["nickname"]}\n";
             }
           }
         }
