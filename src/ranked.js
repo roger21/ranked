@@ -1328,6 +1328,16 @@ const onhoverout = {
   }
 }
 
+// gestion de la récupération du nickname
+async function getNickname(uuid) {
+  let urlAshcon = "https://api.ashcon.app/mojang/v2/user/" + uuid;
+  const responseAshcon = await fetch(urlAshcon, {
+    cache: "no-store",
+  });
+  const jsonAshcon = await responseAshcon.json();
+  return jsonAshcon.username;
+}
+
 // gestion du chargement des données et de la
 // construction du graph au chargement de la page
 async function loadData() {
@@ -1473,9 +1483,11 @@ async function loadData() {
     image.src = headUrl(players[p].uuid);
     images[players[p].uuid] = image;
 
+    let nickname = await getNickname(players[p].uuid); // TODO virer
+
     // données pour cette courbe
     data.push({
-      label: players[p].nickname,
+      label: nickname, // TODO getNickname(players[p].uuid);
       uuid: players[p].uuid,
       country: players[p].country,
       stats: players[p].stats,
@@ -1507,7 +1519,7 @@ async function loadData() {
     //console.log("allColors", allColors.length);
 
     // enregistrement de la couleur du joueur
-    playerColors[players[p].nickname] = color;
+    playerColors[nickname] = color; // TODO use UUID playerColors[players[p].uuid] = color;
 
     // deplacement des curseurs pour la couleur suivante
     cptRows += rowSkip;

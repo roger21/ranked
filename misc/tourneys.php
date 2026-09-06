@@ -21,7 +21,16 @@
     die(1);
   }
 
-  $caca=file_get_contents("https://mcsrranked.com/api/tourneys/{$type}_{$url}");
+  $api_url="https://api.mcsrranked.com/tourneys/";
+
+  $context=null;
+  if(isset($_SERVER["API_KEY"]) && $_SERVER["API_KEY"] !== ""){
+    $apikey=$_SERVER["API_KEY"];
+    $context=stream_context_create(["http" => ["method" => "GET",
+                                               "header" => "API-Key: ".
+                                               $apikey."\r\n"]]);
+  }
+  $caca=file_get_contents("{$api_url}{$type}_{$url}", false, $context);
   $cucu=json_decode($caca, true, 512, JSON_OBJECT_AS_ARRAY);
   $seeds=count($cucu["data"]["matches"]);
   $players=$cucu["data"]["players"];
