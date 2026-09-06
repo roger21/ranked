@@ -1,5 +1,5 @@
 {
-    "date": 1788664801000,
+    "date": 1788665401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -12294,22 +12294,36 @@
             "nickname": "BeefSalad",
             "stats": {
                 "rank": 13,
-                "elo": 1863,
+                "elo": 1877,
                 "top": 1925,
                 "points": 0,
                 "pb": 418780,
-                "current": 3,
+                "current": 4,
                 "streak": 8,
-                "matches": 77,
-                "playtime": 42757365,
+                "matches": 78,
+                "playtime": 43239933,
                 "finished": 44,
                 "finishtime": 24376298,
-                "won": 48,
+                "won": 49,
                 "lost": 27,
                 "forfeited": 2
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1788664814000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "paukll",
+                    "elo": 1877,
+                    "change": 14,
+                    "oelo": 1667,
+                    "ochange": -14,
+                    "time": 482568,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1788664236000,
                     "type": "VILLAGE",
