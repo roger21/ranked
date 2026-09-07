@@ -1,5 +1,5 @@
 {
-    "date": 1788795601000,
+    "date": 1788796201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10374,23 +10374,37 @@
         {
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "stats": {
-                "rank": 11,
-                "elo": 1931,
-                "top": 1931,
+                "rank": 10,
+                "elo": 1949,
+                "top": 1949,
                 "points": 0,
                 "pb": 417971,
-                "current": 5,
+                "current": 6,
                 "streak": 8,
-                "matches": 137,
-                "playtime": 73184134,
-                "finished": 72,
-                "finishtime": 41464889,
-                "won": 83,
+                "matches": 138,
+                "playtime": 73782462,
+                "finished": 73,
+                "finishtime": 42063217,
+                "won": 84,
                 "lost": 51,
                 "forfeited": 12
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1788795716000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "cc432b2626a44ae1836a50244adbf468",
+                    "elo": 1949,
+                    "change": 18,
+                    "oelo": 1853,
+                    "ochange": -18,
+                    "time": 598328,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788794280000,
                     "type": "VILLAGE",
@@ -19069,22 +19083,36 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "stats": {
                 "rank": 18,
-                "elo": 1871,
+                "elo": 1853,
                 "top": 1915,
                 "points": 0,
                 "pb": 434404,
                 "current": 0,
                 "streak": 9,
-                "matches": 75,
-                "playtime": 41676523,
+                "matches": 76,
+                "playtime": 42274851,
                 "finished": 41,
                 "finishtime": 22468588,
                 "won": 43,
-                "lost": 31,
+                "lost": 32,
                 "forfeited": 0
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1788795716000,
+                    "type": "SHIPWRECK",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
+                    "elo": 1853,
+                    "change": -18,
+                    "oelo": 1949,
+                    "ochange": 18,
+                    "time": 598328,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788699946000,
                     "type": "BURIED_TREASURE",
