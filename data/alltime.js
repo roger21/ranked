@@ -1495,12 +1495,12 @@
         },
         "pb": 373526,
         "streak": 17,
-        "matches": 21914,
-        "playtime": 13466159494,
+        "matches": 21916,
+        "playtime": 13467077732,
         "finished": 9584,
         "finishtime": 6342238636,
         "won": 12016,
-        "lost": 9577,
+        "lost": 9578,
         "forfeited": 1200
     },
     "3910d98bea254b488a10d6e91e469f7e": {
@@ -1702,6 +1702,36 @@
         "won": 960,
         "lost": 625,
         "forfeited": 44
+    },
+    "3fa40d15dadb46368aa72bc4827dae73": {
+        "country": "us",
+        "top": {
+            "6": 1111,
+            "7": 1077,
+            "8": 1333,
+            "9": 1838,
+            "10": 2171,
+            "11": 2209,
+            "12": 1777
+        },
+        "points": {
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 29,
+            "12": 0
+        },
+        "pb": 420681,
+        "streak": 14,
+        "matches": 2799,
+        "playtime": 1869180320,
+        "finished": 1116,
+        "finishtime": 794462334,
+        "won": 1417,
+        "lost": 1234,
+        "forfeited": 196
     },
     "410e5776b03a424d8740557bac2d9014": {
         "country": "ci",
@@ -2521,11 +2551,11 @@
         },
         "pb": 444700,
         "streak": 10,
-        "matches": 4824,
-        "playtime": 3313177976,
-        "finished": 1796,
-        "finishtime": 1353848104,
-        "won": 2403,
+        "matches": 4825,
+        "playtime": 3313841360,
+        "finished": 1797,
+        "finishtime": 1354511488,
+        "won": 2404,
         "lost": 2210,
         "forfeited": 91
     },
@@ -6625,12 +6655,12 @@
         },
         "pb": 409037,
         "streak": 10,
-        "matches": 7249,
-        "playtime": 4293882099,
+        "matches": 7250,
+        "playtime": 4294654580,
         "finished": 2470,
         "finishtime": 1725680624,
         "won": 3557,
-        "lost": 3418,
+        "lost": 3419,
         "forfeited": 1753
     },
     "f1611fd339b1401f84154afee3a5f14a": {
