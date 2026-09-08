@@ -1,5 +1,5 @@
 {
-    "date": 1788876001000,
+    "date": 1788876601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -33898,7 +33898,7 @@
         {
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 1826,
                 "top": 1841,
                 "points": 0,
@@ -34270,7 +34270,7 @@
         {
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 1822,
                 "top": 1822,
                 "points": 0,
@@ -35846,23 +35846,37 @@
         {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "stats": {
-                "rank": 31,
-                "elo": 1818,
+                "rank": 26,
+                "elo": 1839,
                 "top": 1913,
                 "points": 0,
                 "pb": 428769,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 98,
-                "playtime": 55726103,
-                "finished": 51,
-                "finishtime": 29441895,
-                "won": 54,
+                "matches": 99,
+                "playtime": 56260664,
+                "finished": 52,
+                "finishtime": 29976456,
+                "won": 55,
                 "lost": 42,
                 "forfeited": 1
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1788876647000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "eb136e7e26124f8daa99e521da609135",
+                    "elo": 1839,
+                    "change": 21,
+                    "oelo": 1837,
+                    "ochange": -21,
+                    "time": 534561,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788875944000,
                     "type": "SHIPWRECK",
