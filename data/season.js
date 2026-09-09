@@ -1,5 +1,5 @@
 {
-    "date": 1788954601000,
+    "date": 1788955201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -51092,23 +51092,37 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 38,
-                "elo": 1799,
+                "rank": 41,
+                "elo": 1789,
                 "top": 1799,
                 "points": 0,
                 "pb": 454787,
-                "current": 5,
+                "current": 0,
                 "streak": 5,
-                "matches": 51,
-                "playtime": 30585338,
+                "matches": 52,
+                "playtime": 31245258,
                 "finished": 31,
                 "finishtime": 18855306,
                 "won": 32,
-                "lost": 16,
+                "lost": 17,
                 "forfeited": 0
             },
             "country": "jp",
             "matches": [
+                {
+                    "date": 1788955217000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "7c92678742eb4e819f3122017697ae3d",
+                    "elo": 1789,
+                    "change": -10,
+                    "oelo": 2107,
+                    "ochange": 10,
+                    "time": 659920,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788868649000,
                     "type": "RUINED_PORTAL",
@@ -51758,7 +51772,7 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 1798,
                 "top": 1845,
                 "points": 0,
@@ -52648,7 +52662,7 @@
         {
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 1798,
                 "top": 1798,
                 "points": 0,
@@ -53622,7 +53636,7 @@
         {
             "uuid": "cbc4685f701c49319fb424430604b553",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1792,
                 "top": 1811,
                 "points": 0,
@@ -55268,7 +55282,7 @@
         {
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1789,
                 "top": 1839,
                 "points": 0,
