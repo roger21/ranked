@@ -1685,11 +1685,11 @@
         },
         "pb": 415147,
         "streak": 12,
-        "matches": 1664,
-        "playtime": 1039909784,
-        "finished": 777,
-        "finishtime": 518908088,
-        "won": 967,
+        "matches": 1665,
+        "playtime": 1040481518,
+        "finished": 778,
+        "finishtime": 519479822,
+        "won": 968,
         "lost": 632,
         "forfeited": 44
     },
@@ -3695,12 +3695,12 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 9394,
-        "playtime": 5442872369,
+        "matches": 9395,
+        "playtime": 5443476189,
         "finished": 3477,
         "finishtime": 2376116059,
         "won": 4713,
-        "lost": 4407,
+        "lost": 4408,
         "forfeited": 2205
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
@@ -3963,13 +3963,13 @@
         },
         "pb": 406569,
         "streak": 13,
-        "matches": 13859,
-        "playtime": 8706421587,
+        "matches": 13860,
+        "playtime": 8706877975,
         "finished": 4873,
         "finishtime": 3690545898,
         "won": 7007,
-        "lost": 6587,
-        "forfeited": 3020
+        "lost": 6588,
+        "forfeited": 3021
     },
     "8dcad0ea9f7444ee8eb0a1aa5b868331": {
         "country": "ps",
@@ -5732,6 +5732,42 @@
         "won": 3118,
         "lost": 2978,
         "forfeited": 1578
+    },
+    "cbc4685f701c49319fb424430604b553": {
+        "country": "us",
+        "top": {
+            "1": 1598,
+            "2": 1546,
+            "4": 1567,
+            "6": 1382,
+            "7": 1270,
+            "8": 1470,
+            "9": 1856,
+            "10": 1996,
+            "11": 2192,
+            "12": 1811
+        },
+        "points": {
+            "1": 0,
+            "2": 0,
+            "4": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 14,
+            "12": 0
+        },
+        "pb": 412042,
+        "streak": 12,
+        "matches": 590,
+        "playtime": 362941088,
+        "finished": 260,
+        "finishtime": 169921121,
+        "won": 354,
+        "lost": 212,
+        "forfeited": 39
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "country": "fr",
