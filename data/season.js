@@ -1,5 +1,5 @@
 {
-    "date": 1789206601000,
+    "date": 1789207201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -18789,22 +18789,36 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "stats": {
                 "rank": 11,
-                "elo": 2011,
-                "top": 2017,
+                "elo": 2023,
+                "top": 2023,
                 "points": 0,
                 "pb": 417971,
-                "current": 1,
+                "current": 2,
                 "streak": 9,
-                "matches": 148,
-                "playtime": 79757384,
-                "finished": 80,
-                "finishtime": 46368365,
-                "won": 91,
+                "matches": 149,
+                "playtime": 80349244,
+                "finished": 81,
+                "finishtime": 46960225,
+                "won": 92,
                 "lost": 54,
                 "forfeited": 12
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1789206683000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "5ee577fdc1af45d3a6fb3e086cc293fb",
+                    "elo": 2023,
+                    "change": 12,
+                    "oelo": 1779,
+                    "ochange": -12,
+                    "time": 591860,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1788886636000,
                     "type": "DESERT_TEMPLE",
@@ -75824,7 +75838,7 @@
         {
             "uuid": "be7a79f3331042f19c07230752b26725",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 1805,
                 "top": 1805,
                 "points": 0,
@@ -76350,7 +76364,7 @@
         {
             "uuid": "048de51800794a208de7f01652513c32",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1802,
                 "top": 1802,
                 "points": 0,
@@ -77128,7 +77142,7 @@
         {
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 1802,
                 "top": 1831,
                 "points": 0,
@@ -77864,7 +77878,7 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 1800,
                 "top": 1800,
                 "points": 0,
@@ -78572,23 +78586,37 @@
         {
             "uuid": "cbc4685f701c49319fb424430604b553",
             "stats": {
-                "rank": 50,
-                "elo": 1794,
+                "rank": 46,
+                "elo": 1808,
                 "top": 1811,
                 "points": 0,
                 "pb": 459823,
-                "current": 5,
+                "current": 6,
                 "streak": 8,
-                "matches": 159,
-                "playtime": 89268284,
-                "finished": 70,
-                "finishtime": 40672331,
-                "won": 81,
+                "matches": 160,
+                "playtime": 90012821,
+                "finished": 71,
+                "finishtime": 41416868,
+                "won": 82,
                 "lost": 67,
                 "forfeited": 11
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1789207224000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "7a83db6fc9214145a990dd7a033b53d1",
+                    "elo": 1808,
+                    "change": 14,
+                    "oelo": 1599,
+                    "ochange": -14,
+                    "time": 744537,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789206103000,
                     "type": "DESERT_TEMPLE",
