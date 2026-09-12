@@ -1,5 +1,5 @@
 {
-    "date": 1789231201000,
+    "date": 1789231801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -64930,7 +64930,7 @@
         {
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1826,
                 "top": 1835,
                 "points": 0,
@@ -66114,7 +66114,7 @@
         {
             "uuid": "addd890764404097b3f12acdde2adf33",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1823,
                 "top": 1887,
                 "points": 0,
@@ -69594,7 +69594,7 @@
         {
             "uuid": "8826e1e6d21b46ecbc5d5246b836f36a",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1822,
                 "top": 1822,
                 "points": 0,
@@ -71170,7 +71170,7 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1816,
                 "top": 1865,
                 "points": 0,
@@ -72186,7 +72186,7 @@
         {
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "stats": {
-                "rank": 40,
+                "rank": 41,
                 "elo": 1816,
                 "top": 1970,
                 "points": 0,
@@ -75344,23 +75344,37 @@
         {
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "stats": {
-                "rank": 42,
-                "elo": 1814,
+                "rank": 36,
+                "elo": 1832,
                 "top": 1879,
                 "points": 0,
                 "pb": 385540,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 222,
-                "playtime": 117575984,
-                "finished": 103,
-                "finishtime": 59376005,
-                "won": 119,
+                "matches": 223,
+                "playtime": 118281819,
+                "finished": 104,
+                "finishtime": 60081840,
+                "won": 120,
                 "lost": 99,
                 "forfeited": 35
             },
             "country": "br",
             "matches": [
+                {
+                    "date": 1789231813000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "734a1c6118754829acc234135470152c",
+                    "elo": 1832,
+                    "change": 18,
+                    "oelo": 1746,
+                    "ochange": -18,
+                    "time": 705835,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789230903000,
                     "type": "DESERT_TEMPLE",
