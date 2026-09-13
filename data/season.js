@@ -1,5 +1,5 @@
 {
-    "date": 1789306801000,
+    "date": 1789307401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -46733,22 +46733,36 @@
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "stats": {
                 "rank": 25,
-                "elo": 1896,
-                "top": 1896,
+                "elo": 1910,
+                "top": 1910,
                 "points": 0,
                 "pb": 429790,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 32,
-                "playtime": 17598112,
-                "finished": 22,
-                "finishtime": 12018975,
-                "won": 22,
+                "matches": 33,
+                "playtime": 18201294,
+                "finished": 23,
+                "finishtime": 12622157,
+                "won": 23,
                 "lost": 10,
                 "forfeited": 0
             },
             "country": "cx",
             "matches": [
+                {
+                    "date": 1789307204000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "9589914cf31a420bbcb07cd0768eec28",
+                    "elo": 1910,
+                    "change": 14,
+                    "oelo": 1713,
+                    "ochange": -14,
+                    "time": 603182,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789306319000,
                     "type": "DESERT_TEMPLE",
