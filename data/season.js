@@ -1,5 +1,5 @@
 {
-    "date": 1789287001000,
+    "date": 1789287601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -58667,8 +58667,8 @@
                 "pb": 422362,
                 "current": 0,
                 "streak": 7,
-                "matches": 220,
-                "playtime": 128309795,
+                "matches": 221,
+                "playtime": 128972022,
                 "finished": 93,
                 "finishtime": 55826630,
                 "won": 106,
@@ -58677,6 +58677,20 @@
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1789287566000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "9589914cf31a420bbcb07cd0768eec28",
+                    "elo": 1858,
+                    "change": 0,
+                    "oelo": 1845,
+                    "ochange": 0,
+                    "time": 662227,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1789286858000,
                     "type": "VILLAGE",
@@ -62267,8 +62281,8 @@
                 "pb": 446379,
                 "current": 0,
                 "streak": 6,
-                "matches": 146,
-                "playtime": 81147117,
+                "matches": 147,
+                "playtime": 81809344,
                 "finished": 61,
                 "finishtime": 36918376,
                 "won": 78,
@@ -62277,6 +62291,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1789287566000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "f55a7e31e65a453e941ebec79cd39992",
+                    "elo": 1845,
+                    "change": 0,
+                    "oelo": 1858,
+                    "ochange": 0,
+                    "time": 662227,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1789137484000,
                     "type": "RUINED_PORTAL",
