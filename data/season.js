@@ -1,5 +1,5 @@
 {
-    "date": 1789300201000,
+    "date": 1789300801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -61502,7 +61502,7 @@
         {
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 1865,
                 "top": 1869,
                 "points": 0,
@@ -61860,7 +61860,7 @@
         {
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 1857,
                 "top": 1857,
                 "points": 0,
@@ -62204,23 +62204,37 @@
         {
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "stats": {
-                "rank": 34,
-                "elo": 1852,
-                "top": 1852,
+                "rank": 31,
+                "elo": 1868,
+                "top": 1868,
                 "points": 0,
                 "pb": 439728,
-                "current": 3,
+                "current": 4,
                 "streak": 7,
-                "matches": 220,
-                "playtime": 127229127,
-                "finished": 98,
-                "finishtime": 60749435,
-                "won": 116,
+                "matches": 221,
+                "playtime": 127902970,
+                "finished": 99,
+                "finishtime": 61423278,
+                "won": 117,
                 "lost": 99,
                 "forfeited": 3
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1789300806000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "734a1c6118754829acc234135470152c",
+                    "elo": 1868,
+                    "change": 16,
+                    "oelo": 1728,
+                    "ochange": -16,
+                    "time": 673843,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789299294000,
                     "type": "DESERT_TEMPLE",
