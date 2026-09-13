@@ -1,5 +1,5 @@
 {
-    "date": 1789275601000,
+    "date": 1789276201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -29701,14 +29701,14 @@
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "stats": {
                 "rank": 17,
-                "elo": 1982,
+                "elo": 1980,
                 "top": 2044,
                 "points": 0,
                 "pb": 341507,
                 "current": 0,
                 "streak": 9,
-                "matches": 108,
-                "playtime": 56992324,
+                "matches": 109,
+                "playtime": 57771330,
                 "finished": 63,
                 "finishtime": 34179867,
                 "won": 68,
@@ -29717,6 +29717,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1789276133000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "734a1c6118754829acc234135470152c",
+                    "elo": 1980,
+                    "change": -2,
+                    "oelo": 1779,
+                    "ochange": 2,
+                    "time": 779006,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1789275053000,
                     "type": "SHIPWRECK",
