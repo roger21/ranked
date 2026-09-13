@@ -1,5 +1,5 @@
 {
-    "date": 1789311601000,
+    "date": 1789312201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -70259,8 +70259,8 @@
                 "pb": 479254,
                 "current": 2,
                 "streak": 6,
-                "matches": 150,
-                "playtime": 88395944,
+                "matches": 151,
+                "playtime": 88850473,
                 "finished": 67,
                 "finishtime": 40470010,
                 "won": 74,
@@ -70269,6 +70269,20 @@
             },
             "country": "de",
             "matches": [
+                {
+                    "date": 1789312073000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "734a1c6118754829acc234135470152c",
+                    "elo": 1829,
+                    "change": 0,
+                    "oelo": 1795,
+                    "ochange": 0,
+                    "time": 454529,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1789311167000,
                     "type": "RUINED_PORTAL",
