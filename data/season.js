@@ -1,5 +1,5 @@
 {
-    "date": 1789420801000,
+    "date": 1789421401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -77689,14 +77689,14 @@
             "uuid": "817a3f2e92da42ab89c64a787ce16d28",
             "stats": {
                 "rank": 41,
-                "elo": 1843,
+                "elo": 1842,
                 "top": 1895,
                 "points": 0,
                 "pb": 458665,
                 "current": 0,
                 "streak": 7,
-                "matches": 81,
-                "playtime": 49159290,
+                "matches": 82,
+                "playtime": 49915137,
                 "finished": 37,
                 "finishtime": 23677281,
                 "won": 44,
@@ -77705,6 +77705,20 @@
             },
             "country": "fr",
             "matches": [
+                {
+                    "date": 1789421302000,
+                    "type": "VILLAGE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "070d5851c46a4a2da91e6ddfdb741d7f",
+                    "elo": 1842,
+                    "change": -1,
+                    "oelo": 1736,
+                    "ochange": 1,
+                    "time": 755847,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1789420288000,
                     "type": "DESERT_TEMPLE",
@@ -78788,7 +78802,7 @@
         {
             "uuid": "cbc4685f701c49319fb424430604b553",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1842,
                 "top": 1842,
                 "points": 0,
