@@ -1,5 +1,5 @@
 {
-    "date": 1789376401000,
+    "date": 1789377001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63551,22 +63551,36 @@
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "stats": {
                 "rank": 36,
-                "elo": 1858,
+                "elo": 1870,
                 "top": 1903,
                 "points": 0,
                 "pb": 439728,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
-                "matches": 231,
-                "playtime": 134402693,
-                "finished": 104,
-                "finishtime": 64793085,
-                "won": 122,
+                "matches": 232,
+                "playtime": 134939864,
+                "finished": 105,
+                "finishtime": 65330256,
+                "won": 123,
                 "lost": 104,
                 "forfeited": 3
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1789376502000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "abfa366baf394d1ab6358b91279a3d7e",
+                    "elo": 1870,
+                    "change": 12,
+                    "oelo": 1606,
+                    "ochange": -12,
+                    "time": 537171,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789375436000,
                     "type": "SHIPWRECK",
