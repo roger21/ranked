@@ -43,6 +43,7 @@
     "0508c8d83cba46c39275db20d2d99ceb": "Wichtiger",
     "050d24eda5f14df5bc0801b9251d067d": "bfmkn",
     "051d5049b8df4870a74c80da19f681a4": "BTYR3KT",
+    "052def771f3949e8bec13c7c9de32b02": "Achatmaennchen",
     "0538833199d04fa1a5037acc9ea1ed30": "Pastapalads",
     "05463030a67f449ba47789724534c585": "SpectralThief",
     "05571de052a34612a42f33fa4afce39c": "HamazonEU",
