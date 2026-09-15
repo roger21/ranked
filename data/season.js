@@ -1,5 +1,5 @@
 {
-    "date": 1789464001000,
+    "date": 1789464601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -25209,22 +25209,36 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "stats": {
                 "rank": 12,
-                "elo": 2031,
+                "elo": 2009,
                 "top": 2058,
                 "points": 0,
                 "pb": 417971,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 175,
-                "playtime": 94879257,
+                "matches": 176,
+                "playtime": 95303122,
                 "finished": 95,
                 "finishtime": 55566280,
                 "won": 108,
-                "lost": 64,
+                "lost": 65,
                 "forfeited": 14
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1789464243000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "3b01d4b4fef14f178b75f05c04dd34ef",
+                    "elo": 2009,
+                    "change": -22,
+                    "oelo": 1996,
+                    "ochange": 22,
+                    "time": 423865,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789408913000,
                     "type": "DESERT_TEMPLE",
@@ -37565,22 +37579,36 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "stats": {
                 "rank": 20,
-                "elo": 1974,
-                "top": 1979,
+                "elo": 1996,
+                "top": 1996,
                 "points": 0,
                 "pb": 418780,
-                "current": 7,
+                "current": 8,
                 "streak": 8,
-                "matches": 211,
-                "playtime": 118265650,
-                "finished": 110,
-                "finishtime": 63173591,
-                "won": 121,
+                "matches": 212,
+                "playtime": 118689515,
+                "finished": 111,
+                "finishtime": 63597456,
+                "won": 122,
                 "lost": 86,
                 "forfeited": 4
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1789464243000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
+                    "elo": 1996,
+                    "change": 22,
+                    "oelo": 2009,
+                    "ochange": -22,
+                    "time": 423865,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789463526000,
                     "type": "SHIPWRECK",
