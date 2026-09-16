@@ -1,5 +1,5 @@
 {
-    "date": 1789536601000,
+    "date": 1789537201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -63690,15 +63690,15 @@
         {
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "stats": {
-                "rank": 28,
-                "elo": 1927,
+                "rank": 29,
+                "elo": 1926,
                 "top": 1927,
                 "points": 0,
                 "pb": 438908,
                 "current": 3,
                 "streak": 7,
-                "matches": 98,
-                "playtime": 60335734,
+                "matches": 99,
+                "playtime": 61063381,
                 "finished": 51,
                 "finishtime": 32247322,
                 "won": 56,
@@ -63707,6 +63707,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1789536645000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "78ea25c3db9a4830ba7e78074bd6fd10",
+                    "elo": 1926,
+                    "change": -1,
+                    "oelo": 1881,
+                    "ochange": 1,
+                    "time": 727647,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1789346760000,
                     "type": "SHIPWRECK",
@@ -70249,14 +70263,14 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "stats": {
                 "rank": 35,
-                "elo": 1880,
+                "elo": 1881,
                 "top": 1970,
                 "points": 0,
                 "pb": 392397,
                 "current": 1,
                 "streak": 10,
-                "matches": 246,
-                "playtime": 128783238,
+                "matches": 247,
+                "playtime": 129510885,
                 "finished": 98,
                 "finishtime": 52607120,
                 "won": 114,
@@ -70265,6 +70279,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1789536645000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "draw",
+                    "opponent": "98cea324ee714d868b2ec1627f0f5762",
+                    "elo": 1881,
+                    "change": 1,
+                    "oelo": 1926,
+                    "ochange": -1,
+                    "time": 727647,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1789535412000,
                     "type": "RUINED_PORTAL",
