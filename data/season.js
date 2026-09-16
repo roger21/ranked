@@ -1,5 +1,5 @@
 {
-    "date": 1789546201000,
+    "date": 1789546801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -69933,7 +69933,7 @@
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "stats": {
                 "rank": 34,
-                "elo": 1885,
+                "elo": 1880,
                 "top": 1890,
                 "points": 0,
                 "pb": 446600,
@@ -69949,6 +69949,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1789546284000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 1880,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1789459882000,
                     "type": null,
