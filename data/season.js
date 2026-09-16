@@ -1,5 +1,5 @@
 {
-    "date": 1789527601000,
+    "date": 1789528201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -3591,22 +3591,36 @@
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "stats": {
                 "rank": 3,
-                "elo": 2132,
-                "top": 2132,
+                "elo": 2150,
+                "top": 2150,
                 "points": 0,
                 "pb": 409559,
-                "current": 2,
+                "current": 3,
                 "streak": 13,
-                "matches": 186,
-                "playtime": 100549878,
-                "finished": 116,
-                "finishtime": 62525515,
-                "won": 117,
+                "matches": 187,
+                "playtime": 101044546,
+                "finished": 117,
+                "finishtime": 63020183,
+                "won": 118,
                 "lost": 65,
                 "forfeited": 5
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1789527912000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "17e787d1d6374f818b294f2319db370d",
+                    "elo": 2150,
+                    "change": 18,
+                    "oelo": 2048,
+                    "ochange": -18,
+                    "time": 494668,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789527366000,
                     "type": "VILLAGE",
@@ -11309,22 +11323,36 @@
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "stats": {
                 "rank": 7,
-                "elo": 2066,
+                "elo": 2048,
                 "top": 2197,
                 "points": 0,
                 "pb": 422766,
-                "current": 1,
+                "current": 0,
                 "streak": 12,
-                "matches": 182,
-                "playtime": 100841295,
+                "matches": 183,
+                "playtime": 101335963,
                 "finished": 103,
                 "finishtime": 58043749,
                 "won": 110,
-                "lost": 69,
+                "lost": 70,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1789527912000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "a54e3bc4c6354b07a236b81efbcfe791",
+                    "elo": 2048,
+                    "change": -18,
+                    "oelo": 2150,
+                    "ochange": 18,
+                    "time": 494668,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789526729000,
                     "type": "SHIPWRECK",
@@ -13822,7 +13850,7 @@
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "stats": {
-                "rank": 8,
+                "rank": 7,
                 "elo": 2048,
                 "top": 2101,
                 "points": 0,
