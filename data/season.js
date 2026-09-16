@@ -1,5 +1,5 @@
 {
-    "date": 1789558801000,
+    "date": 1789559401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -48158,7 +48158,7 @@
         {
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1956,
                 "top": 2045,
                 "points": 0,
@@ -51316,7 +51316,7 @@
         {
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 1956,
                 "top": 1956,
                 "points": 0,
@@ -51968,7 +51968,7 @@
         {
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 1954,
                 "top": 1954,
                 "points": 0,
@@ -55448,7 +55448,7 @@
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 1947,
                 "top": 1978,
                 "points": 0,
@@ -56422,7 +56422,7 @@
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 1944,
                 "top": 1944,
                 "points": 0,
@@ -57578,23 +57578,37 @@
         {
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "stats": {
-                "rank": 28,
-                "elo": 1943,
+                "rank": 23,
+                "elo": 1958,
                 "top": 2072,
                 "points": 0,
                 "pb": 417971,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 209,
-                "playtime": 112648849,
-                "finished": 110,
-                "finishtime": 64185509,
-                "won": 125,
+                "matches": 210,
+                "playtime": 113212266,
+                "finished": 111,
+                "finishtime": 64748926,
+                "won": 126,
                 "lost": 80,
                 "forfeited": 19
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1789559413000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "dd382293fed04a3e9fa850bb139279fc",
+                    "elo": 1958,
+                    "change": 15,
+                    "oelo": 1777,
+                    "ochange": -15,
+                    "time": 563417,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1789557350000,
                     "type": "RUINED_PORTAL",
