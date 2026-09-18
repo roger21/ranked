@@ -3023,11 +3023,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 8311,
-        "playtime": 5267173677,
+        "matches": 8312,
+        "playtime": 5267486768,
         "finished": 3039,
         "finishtime": 2165991548,
-        "won": 4207,
+        "won": 4208,
         "lost": 3779,
         "forfeited": 834
     },
@@ -4171,13 +4171,13 @@
         },
         "pb": 563000,
         "streak": 10,
-        "matches": 1871,
-        "playtime": 1276732233,
+        "matches": 1872,
+        "playtime": 1277299590,
         "finished": 528,
         "finishtime": 463018887,
         "won": 917,
-        "lost": 845,
-        "forfeited": 406
+        "lost": 846,
+        "forfeited": 407
     },
     "8fc93aecda5b4f699cf76694116eaf11": {
         "country": "us",
@@ -5609,12 +5609,12 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 4456,
-        "playtime": 2656089387,
+        "matches": 4457,
+        "playtime": 2656754275,
         "finished": 1777,
         "finishtime": 1125408308,
         "won": 2224,
-        "lost": 1954,
+        "lost": 1955,
         "forfeited": 480
     },
     "be7a79f3331042f19c07230752b26725": {
@@ -6005,12 +6005,12 @@
         },
         "pb": 421919,
         "streak": 11,
-        "matches": 5101,
-        "playtime": 3491814107,
+        "matches": 5102,
+        "playtime": 3492601323,
         "finished": 1808,
         "finishtime": 1362433433,
         "won": 2592,
-        "lost": 2347,
+        "lost": 2348,
         "forfeited": 248
     },
     "d0acbca0d50e4824bc38a44395cce096": {
@@ -6459,13 +6459,13 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 10376,
-        "playtime": 6320086243,
+        "matches": 10377,
+        "playtime": 6320399334,
         "finished": 4556,
         "finishtime": 3027415008,
         "won": 5527,
-        "lost": 4689,
-        "forfeited": 1092
+        "lost": 4690,
+        "forfeited": 1093
     },
     "e4cd494a4e0a423b9988618b86858c96": {
         "country": "ug",
