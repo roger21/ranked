@@ -1,5 +1,5 @@
 {
-    "date": 1789852801000,
+    "date": 1789853401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -98414,7 +98414,7 @@
         {
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 1893,
                 "top": 1893,
                 "points": 0,
@@ -99682,7 +99682,7 @@
         {
             "uuid": "7fad8dae2ab04971bc07a6440f84d609",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 1885,
                 "top": 1903,
                 "points": 0,
@@ -102532,7 +102532,7 @@
         {
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 1878,
                 "top": 1935,
                 "points": 0,
