@@ -1035,7 +1035,7 @@
             "9": 2206,
             "10": 2166,
             "11": 2150,
-            "12": 1872
+            "12": 1897
         },
         "points": {
             "3": 0,
@@ -1051,11 +1051,11 @@
         },
         "pb": 431229,
         "streak": 15,
-        "matches": 2226,
-        "playtime": 1489879919,
-        "finished": 895,
-        "finishtime": 634325204,
-        "won": 1180,
+        "matches": 2227,
+        "playtime": 1490402061,
+        "finished": 896,
+        "finishtime": 634847346,
+        "won": 1181,
         "lost": 943,
         "forfeited": 37
     },
@@ -2303,11 +2303,11 @@
         },
         "pb": 399681,
         "streak": 12,
-        "matches": 10368,
-        "playtime": 6163356367,
-        "finished": 3758,
-        "finishtime": 2479221110,
-        "won": 4941,
+        "matches": 10369,
+        "playtime": 6164117988,
+        "finished": 3759,
+        "finishtime": 2479982731,
+        "won": 4942,
         "lost": 4730,
         "forfeited": 1421
     },
@@ -3088,7 +3088,7 @@
             "9": 2127,
             "10": 2177,
             "11": 1927,
-            "12": 0
+            "12": 1626
         },
         "points": {
             "1": 0,
@@ -3105,11 +3105,11 @@
         },
         "pb": 442704,
         "streak": 12,
-        "matches": 1054,
-        "playtime": 595798095,
-        "finished": 473,
-        "finishtime": 307939118,
-        "won": 606,
+        "matches": 1055,
+        "playtime": 596393731,
+        "finished": 474,
+        "finishtime": 308534754,
+        "won": 607,
         "lost": 413,
         "forfeited": 237
     },
@@ -3365,12 +3365,12 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12711,
-        "playtime": 6911032419,
+        "matches": 12712,
+        "playtime": 6911554561,
         "finished": 4429,
         "finishtime": 2632527367,
         "won": 5851,
-        "lost": 5606,
+        "lost": 5607,
         "forfeited": 2984
     },
     "7b5563464fdf4757905e681040791ac0": {
@@ -3866,7 +3866,7 @@
             "9": 2131,
             "10": 2243,
             "11": 2150,
-            "12": 1846
+            "12": 1847
         },
         "points": {
             "2": 0,
@@ -3883,12 +3883,12 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 6399,
-        "playtime": 4084844469,
+        "matches": 6401,
+        "playtime": 4085637667,
         "finished": 2346,
         "finishtime": 1620242543,
-        "won": 3142,
-        "lost": 2831,
+        "won": 3143,
+        "lost": 2832,
         "forfeited": 206
     },
     "8b6de3393be345fdb8dcf0959f42f457": {
@@ -3993,11 +3993,11 @@
         },
         "pb": 392016,
         "streak": 12,
-        "matches": 2663,
-        "playtime": 1796074371,
-        "finished": 1022,
-        "finishtime": 756431938,
-        "won": 1372,
+        "matches": 2664,
+        "playtime": 1796739708,
+        "finished": 1023,
+        "finishtime": 757097275,
+        "won": 1373,
         "lost": 1209,
         "forfeited": 102
     },
@@ -5817,13 +5817,13 @@
         },
         "pb": 397523,
         "streak": 12,
-        "matches": 6677,
-        "playtime": 3745743758,
-        "finished": 2459,
-        "finishtime": 1615862713,
-        "won": 3237,
-        "lost": 3093,
-        "forfeited": 1638
+        "matches": 6679,
+        "playtime": 3746614139,
+        "finished": 2460,
+        "finishtime": 1616498306,
+        "won": 3238,
+        "lost": 3094,
+        "forfeited": 1639
     },
     "cbf4ef2b7bd744cba9a815fe4b9dd478": {
         "country": "fr",
@@ -6617,13 +6617,13 @@
         },
         "pb": 445628,
         "streak": 16,
-        "matches": 8294,
-        "playtime": 4558953200,
+        "matches": 8295,
+        "playtime": 4559288618,
         "finished": 3107,
         "finishtime": 2034085114,
         "won": 4162,
-        "lost": 3873,
-        "forfeited": 2424
+        "lost": 3874,
+        "forfeited": 2425
     },
     "eb136e7e26124f8daa99e521da609135": {
         "country": "dk",
