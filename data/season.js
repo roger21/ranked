@@ -1,5 +1,5 @@
 {
-    "date": 1789919402000,
+    "date": 1789920002000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -125192,7 +125192,7 @@
         {
             "uuid": "7f93d3e698cd4d648accc2a4d46ce119",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 1860,
                 "top": 1890,
                 "points": 0,
