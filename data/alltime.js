@@ -52,7 +52,7 @@
             "9": 2101,
             "10": 2227,
             "11": 2040,
-            "12": 1661
+            "12": 1666
         },
         "points": {
             "2": 0,
@@ -69,11 +69,11 @@
         },
         "pb": 416164,
         "streak": 12,
-        "matches": 8811,
-        "playtime": 5702963061,
-        "finished": 3189,
-        "finishtime": 2331855929,
-        "won": 4412,
+        "matches": 8812,
+        "playtime": 5703569940,
+        "finished": 3190,
+        "finishtime": 2332462808,
+        "won": 4413,
         "lost": 4111,
         "forfeited": 885
     },
@@ -1755,12 +1755,12 @@
         },
         "pb": 395739,
         "streak": 14,
-        "matches": 2993,
-        "playtime": 1983007842,
+        "matches": 2994,
+        "playtime": 1983536914,
         "finished": 1209,
         "finishtime": 850754188,
         "won": 1517,
-        "lost": 1324,
+        "lost": 1325,
         "forfeited": 196
     },
     "410e5776b03a424d8740557bac2d9014": {
@@ -2175,7 +2175,7 @@
             "9": 2438,
             "10": 2480,
             "11": 2230,
-            "12": 1821
+            "12": 1847
         },
         "points": {
             "1": 0,
@@ -2193,11 +2193,11 @@
         },
         "pb": 372000,
         "streak": 13,
-        "matches": 4105,
-        "playtime": 2510359976,
-        "finished": 1712,
-        "finishtime": 1117387591,
-        "won": 2160,
+        "matches": 4106,
+        "playtime": 2510889048,
+        "finished": 1713,
+        "finishtime": 1117916663,
+        "won": 2161,
         "lost": 1825,
         "forfeited": 207
     },
@@ -4435,11 +4435,11 @@
         },
         "pb": 418867,
         "streak": 18,
-        "matches": 5508,
-        "playtime": 3482354295,
-        "finished": 1846,
-        "finishtime": 1391308125,
-        "won": 2812,
+        "matches": 5509,
+        "playtime": 3483081019,
+        "finished": 1847,
+        "finishtime": 1392034849,
+        "won": 2813,
         "lost": 2525,
         "forfeited": 1167
     },
