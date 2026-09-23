@@ -2735,13 +2735,13 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 11827,
-        "playtime": 7315972364,
+        "matches": 11828,
+        "playtime": 7316347032,
         "finished": 4389,
         "finishtime": 3173916488,
         "won": 5880,
-        "lost": 5547,
-        "forfeited": 1827
+        "lost": 5548,
+        "forfeited": 1828
     },
     "60bfac463733422f8708733f3140cd94": {
         "country": "sg",
