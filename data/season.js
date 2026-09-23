@@ -1,5 +1,5 @@
 {
-    "date": 1790161801000,
+    "date": 1790162401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -74947,22 +74947,36 @@
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "stats": {
                 "rank": 29,
-                "elo": 1973,
-                "top": 1976,
+                "elo": 1987,
+                "top": 1987,
                 "points": 0,
                 "pb": 438908,
-                "current": 4,
+                "current": 5,
                 "streak": 7,
-                "matches": 120,
-                "playtime": 72815611,
-                "finished": 63,
-                "finishtime": 39312780,
-                "won": 69,
+                "matches": 121,
+                "playtime": 73328512,
+                "finished": 64,
+                "finishtime": 39825681,
+                "won": 70,
                 "lost": 48,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1790161945000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "b6f45b2b47aa4e73b7e515b247e3eabf",
+                    "elo": 1987,
+                    "change": 14,
+                    "oelo": 1783,
+                    "ochange": -14,
+                    "time": 512901,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790160345000,
                     "type": "BURIED_TREASURE",
