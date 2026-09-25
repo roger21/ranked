@@ -52,7 +52,7 @@
             "9": 2101,
             "10": 2227,
             "11": 2040,
-            "12": 1758
+            "12": 1770
         },
         "points": {
             "2": 0,
@@ -69,11 +69,11 @@
         },
         "pb": 416164,
         "streak": 12,
-        "matches": 8894,
-        "playtime": 5753089856,
-        "finished": 3225,
-        "finishtime": 2354642169,
-        "won": 4453,
+        "matches": 8895,
+        "playtime": 5753742387,
+        "finished": 3226,
+        "finishtime": 2355294700,
+        "won": 4454,
         "lost": 4145,
         "forfeited": 893
     },
@@ -2677,7 +2677,7 @@
             "9": 2183,
             "10": 2056,
             "11": 2098,
-            "12": 1841
+            "12": 1860
         },
         "points": {
             "1": 0,
@@ -2695,11 +2695,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 11849,
-        "playtime": 7330105952,
-        "finished": 4402,
-        "finishtime": 3182140502,
-        "won": 5895,
+        "matches": 11850,
+        "playtime": 7330719683,
+        "finished": 4403,
+        "finishtime": 3182754233,
+        "won": 5896,
         "lost": 5552,
         "forfeited": 1829
     },
@@ -3023,12 +3023,12 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 8437,
-        "playtime": 5339472583,
+        "matches": 8438,
+        "playtime": 5339936062,
         "finished": 3099,
         "finishtime": 2201629097,
         "won": 4276,
-        "lost": 3835,
+        "lost": 3836,
         "forfeited": 840
     },
     "736dbdc44a3e452fa489f5344565835e": {
@@ -3361,12 +3361,12 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12743,
-        "playtime": 6927904408,
+        "matches": 12744,
+        "playtime": 6928642408,
         "finished": 4442,
         "finishtime": 2639367086,
         "won": 5864,
-        "lost": 5625,
+        "lost": 5626,
         "forfeited": 2990
     },
     "7b5563464fdf4757905e681040791ac0": {
