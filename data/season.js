@@ -1,5 +1,5 @@
 {
-    "date": 1790347201000,
+    "date": 1790347801000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -118805,22 +118805,36 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
                 "rank": 39,
-                "elo": 1929,
+                "elo": 1948,
                 "top": 2098,
                 "points": 0,
                 "pb": 449006,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 293,
-                "playtime": 167395284,
-                "finished": 133,
-                "finishtime": 78971697,
-                "won": 156,
+                "matches": 294,
+                "playtime": 167877846,
+                "finished": 134,
+                "finishtime": 79454259,
+                "won": 157,
                 "lost": 130,
                 "forfeited": 11
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1790347435000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "dd382293fed04a3e9fa850bb139279fc",
+                    "elo": 1948,
+                    "change": 19,
+                    "oelo": 1881,
+                    "ochange": -19,
+                    "time": 482562,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790346894000,
                     "type": "RUINED_PORTAL",
@@ -122872,7 +122886,7 @@
         {
             "uuid": "bc55d2999bf24ba2b764c4135a53255f",
             "stats": {
-                "rank": 39,
+                "rank": 40,
                 "elo": 1929,
                 "top": 1968,
                 "points": 0,
