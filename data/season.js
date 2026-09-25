@@ -1,5 +1,5 @@
 {
-    "date": 1790342401000,
+    "date": 1790343001000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -26558,7 +26558,7 @@
         {
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "stats": {
-                "rank": 11,
+                "rank": 12,
                 "elo": 2107,
                 "top": 2107,
                 "points": 0,
@@ -27868,7 +27868,7 @@
         {
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 2104,
                 "top": 2115,
                 "points": 0,
@@ -32244,7 +32244,7 @@
         {
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "stats": {
-                "rank": 13,
+                "rank": 14,
                 "elo": 2102,
                 "top": 2102,
                 "points": 0,
@@ -34268,23 +34268,37 @@
         {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "stats": {
-                "rank": 14,
-                "elo": 2094,
+                "rank": 11,
+                "elo": 2109,
                 "top": 2119,
                 "points": 0,
                 "pb": 412133,
-                "current": 1,
+                "current": 2,
                 "streak": 8,
-                "matches": 246,
-                "playtime": 136948298,
-                "finished": 133,
-                "finishtime": 76850133,
-                "won": 144,
+                "matches": 247,
+                "playtime": 137536069,
+                "finished": 134,
+                "finishtime": 77437904,
+                "won": 145,
                 "lost": 100,
                 "forfeited": 14
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1790343083000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "b516d1d18261467bbb6f447f0c111be7",
+                    "elo": 2109,
+                    "change": 15,
+                    "oelo": 1940,
+                    "ochange": -15,
+                    "time": 587771,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790342393000,
                     "type": "VILLAGE",
@@ -113404,7 +113418,7 @@
         {
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1959,
                 "top": 1993,
                 "points": 0,
@@ -116240,23 +116254,37 @@
         {
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "stats": {
-                "rank": 37,
-                "elo": 1955,
+                "rank": 40,
+                "elo": 1940,
                 "top": 2026,
                 "points": 0,
                 "pb": 439728,
                 "current": 0,
                 "streak": 8,
-                "matches": 325,
-                "playtime": 190421903,
+                "matches": 326,
+                "playtime": 191009674,
                 "finished": 151,
                 "finishtime": 94135633,
                 "won": 171,
-                "lost": 148,
+                "lost": 149,
                 "forfeited": 3
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1790343083000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "bc80af38933f4ae19b0494681a54422b",
+                    "elo": 1940,
+                    "change": -15,
+                    "oelo": 2109,
+                    "ochange": 15,
+                    "time": 587771,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790271871000,
                     "type": "DESERT_TEMPLE",
@@ -123250,23 +123278,37 @@
         {
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
-                "rank": 40,
-                "elo": 1943,
+                "rank": 36,
+                "elo": 1961,
                 "top": 2098,
                 "points": 0,
                 "pb": 449006,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 287,
-                "playtime": 163901151,
-                "finished": 130,
-                "finishtime": 77163469,
-                "won": 153,
+                "matches": 288,
+                "playtime": 164482147,
+                "finished": 131,
+                "finishtime": 77744465,
+                "won": 154,
                 "lost": 127,
                 "forfeited": 11
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1790343044000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "dd382293fed04a3e9fa850bb139279fc",
+                    "elo": 1961,
+                    "change": 18,
+                    "oelo": 1869,
+                    "ochange": -18,
+                    "time": 580996,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790342127000,
                     "type": "SHIPWRECK",
