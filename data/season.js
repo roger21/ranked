@@ -1,5 +1,5 @@
 {
-    "date": 1790298601000,
+    "date": 1790299201000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -59211,22 +59211,36 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "stats": {
                 "rank": 22,
-                "elo": 2032,
+                "elo": 2044,
                 "top": 2131,
                 "points": 0,
                 "pb": 369286,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 713,
-                "playtime": 407283121,
-                "finished": 344,
-                "finishtime": 200365264,
-                "won": 375,
+                "matches": 714,
+                "playtime": 407741065,
+                "finished": 345,
+                "finishtime": 200823208,
+                "won": 376,
                 "lost": 324,
                 "forfeited": 0
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1790298914000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "94f98baeda16495ba745b65afbcc336c",
+                    "elo": 2044,
+                    "change": 12,
+                    "oelo": 1786,
+                    "ochange": -12,
+                    "time": 457944,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790298328000,
                     "type": "VILLAGE",
@@ -114622,7 +114636,7 @@
         {
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 1959,
                 "top": 1993,
                 "points": 0,
@@ -117458,7 +117472,7 @@
         {
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "stats": {
-                "rank": 37,
+                "rank": 38,
                 "elo": 1955,
                 "top": 2026,
                 "points": 0,
@@ -121974,7 +121988,7 @@
         {
             "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
             "stats": {
-                "rank": 38,
+                "rank": 39,
                 "elo": 1954,
                 "top": 2061,
                 "points": 0,
@@ -123508,23 +123522,37 @@
         {
             "uuid": "26c82339872246c489bf285760ca1af3",
             "stats": {
-                "rank": 39,
-                "elo": 1953,
+                "rank": 36,
+                "elo": 1965,
                 "top": 1972,
                 "points": 0,
                 "pb": 459226,
-                "current": 0,
+                "current": 1,
                 "streak": 6,
-                "matches": 92,
-                "playtime": 54020653,
-                "finished": 51,
-                "finishtime": 30674685,
-                "won": 56,
+                "matches": 93,
+                "playtime": 54568476,
+                "finished": 52,
+                "finishtime": 31222508,
+                "won": 57,
                 "lost": 36,
                 "forfeited": 0
             },
             "country": "cx",
             "matches": [
+                {
+                    "date": 1790299213000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "d4bbebb6bf56440f9fe6be53fe14b9b9",
+                    "elo": 1965,
+                    "change": 12,
+                    "oelo": 1709,
+                    "ochange": -12,
+                    "time": 547823,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790298328000,
                     "type": "VILLAGE",
