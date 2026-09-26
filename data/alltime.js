@@ -1517,11 +1517,11 @@
         },
         "pb": 369286,
         "streak": 17,
-        "matches": 22424,
-        "playtime": 13757856979,
+        "matches": 22425,
+        "playtime": 13758373611,
         "finished": 9837,
         "finishtime": 6489076737,
-        "won": 12291,
+        "won": 12292,
         "lost": 9808,
         "forfeited": 1200
     },
@@ -3383,13 +3383,13 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12769,
-        "playtime": 6942453489,
+        "matches": 12770,
+        "playtime": 6942736582,
         "finished": 4452,
         "finishtime": 2644933745,
         "won": 5875,
-        "lost": 5639,
-        "forfeited": 2994
+        "lost": 5640,
+        "forfeited": 2995
     },
     "7b5563464fdf4757905e681040791ac0": {
         "country": "cn",
@@ -4671,12 +4671,12 @@
         },
         "pb": 417343,
         "streak": 11,
-        "matches": 4928,
-        "playtime": 3260184789,
+        "matches": 4929,
+        "playtime": 3260708607,
         "finished": 1841,
         "finishtime": 1320195005,
         "won": 2506,
-        "lost": 2205,
+        "lost": 2206,
         "forfeited": 228
     },
     "a20541925b5648e1ae88a141ca37911e": {
@@ -5623,13 +5623,13 @@
         },
         "pb": 383621,
         "streak": 10,
-        "matches": 4494,
-        "playtime": 2676904409,
+        "matches": 4495,
+        "playtime": 2677421041,
         "finished": 1797,
         "finishtime": 1136941206,
         "won": 2246,
-        "lost": 1970,
-        "forfeited": 481
+        "lost": 1971,
+        "forfeited": 482
     },
     "be7a79f3331042f19c07230752b26725": {
         "country": "ua",
@@ -5889,13 +5889,13 @@
         },
         "pb": 397523,
         "streak": 12,
-        "matches": 6794,
-        "playtime": 3805682659,
+        "matches": 6795,
+        "playtime": 3806193474,
         "finished": 2514,
         "finishtime": 1646810811,
         "won": 3296,
-        "lost": 3150,
-        "forfeited": 1661
+        "lost": 3151,
+        "forfeited": 1662
     },
     "cbc4685f701c49319fb424430604b553": {
         "country": "us",
