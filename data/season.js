@@ -1,5 +1,5 @@
 {
-    "date": 1790424601000,
+    "date": 1790425201000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -2547,22 +2547,36 @@
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "stats": {
                 "rank": 2,
-                "elo": 2343,
+                "elo": 2351,
                 "top": 2420,
                 "points": 0,
                 "pb": 387772,
-                "current": 1,
+                "current": 2,
                 "streak": 25,
-                "matches": 154,
-                "playtime": 77272106,
+                "matches": 155,
+                "playtime": 77524566,
                 "finished": 116,
                 "finishtime": 61046702,
-                "won": 130,
+                "won": 131,
                 "lost": 24,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1790424978000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "c9f3dc334bb84708911c611e94751b5a",
+                    "elo": 2351,
+                    "change": 8,
+                    "oelo": 1931,
+                    "ochange": -8,
+                    "time": 252460,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1790422892000,
                     "type": "DESERT_TEMPLE",
@@ -119877,22 +119891,36 @@
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "stats": {
                 "rank": 40,
-                "elo": 1939,
+                "elo": 1931,
                 "top": 2010,
                 "points": 0,
                 "pb": 397523,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 564,
-                "playtime": 288036753,
+                "matches": 565,
+                "playtime": 288289213,
                 "finished": 256,
                 "finishtime": 147023489,
                 "won": 286,
-                "lost": 266,
-                "forfeited": 134
+                "lost": 267,
+                "forfeited": 135
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1790424978000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "635f35ee69ed4f0c94ff26ece4818956",
+                    "elo": 1931,
+                    "change": -8,
+                    "oelo": 2351,
+                    "ochange": 8,
+                    "time": 252460,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1790424596000,
                     "type": "DESERT_TEMPLE",
