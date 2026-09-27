@@ -1,5 +1,5 @@
 {
-    "date": 1790498401000,
+    "date": 1790499001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -108841,22 +108841,36 @@
             "uuid": "c32cdd142a0147dcb91771319d745194",
             "stats": {
                 "rank": 36,
-                "elo": 1974,
+                "elo": 1949,
                 "top": 1993,
                 "points": 0,
                 "pb": 389334,
-                "current": 1,
+                "current": 0,
                 "streak": 9,
-                "matches": 206,
-                "playtime": 118902457,
+                "matches": 207,
+                "playtime": 119413537,
                 "finished": 101,
                 "finishtime": 59854041,
                 "won": 111,
-                "lost": 89,
+                "lost": 90,
                 "forfeited": 8
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1790498594000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "9589914cf31a420bbcb07cd0768eec28",
+                    "elo": 1949,
+                    "change": -25,
+                    "oelo": 1873,
+                    "ochange": 25,
+                    "time": 511080,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790497711000,
                     "type": "VILLAGE",
