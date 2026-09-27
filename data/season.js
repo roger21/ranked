@@ -1,5 +1,5 @@
 {
-    "date": 1790515201000,
+    "date": 1790515801000,
     "players": [
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
@@ -98045,22 +98045,36 @@
             "uuid": "eb136e7e26124f8daa99e521da609135",
             "stats": {
                 "rank": 34,
-                "elo": 1999,
+                "elo": 1991,
                 "top": 2119,
                 "points": 0,
                 "pb": 440669,
                 "current": 0,
                 "streak": 11,
-                "matches": 589,
-                "playtime": 321002172,
+                "matches": 590,
+                "playtime": 321496152,
                 "finished": 271,
                 "finishtime": 160771737,
                 "won": 304,
-                "lost": 278,
-                "forfeited": 73
+                "lost": 279,
+                "forfeited": 74
             },
             "country": "dk",
             "matches": [
+                {
+                    "date": 1790515824000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "7c92678742eb4e819f3122017697ae3d",
+                    "elo": 1991,
+                    "change": -8,
+                    "oelo": 2384,
+                    "ochange": 8,
+                    "time": 493980,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1790515172000,
                     "type": "DESERT_TEMPLE",
