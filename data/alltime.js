@@ -1189,7 +1189,7 @@
             "9": 1933,
             "10": 2001,
             "11": 1779,
-            "12": 1713
+            "12": 1715
         },
         "points": {
             "1": 0,
@@ -1207,11 +1207,11 @@
         },
         "pb": 430828,
         "streak": 12,
-        "matches": 8617,
-        "playtime": 6166042420,
-        "finished": 3072,
-        "finishtime": 2466939312,
-        "won": 4361,
+        "matches": 8618,
+        "playtime": 6166649240,
+        "finished": 3073,
+        "finishtime": 2467546132,
+        "won": 4362,
         "lost": 3976,
         "forfeited": 260
     },
@@ -2379,13 +2379,13 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6865,
-        "playtime": 4156704955,
+        "matches": 6866,
+        "playtime": 4157204794,
         "finished": 3090,
         "finishtime": 2019626254,
         "won": 3781,
-        "lost": 2959,
-        "forfeited": 613
+        "lost": 2960,
+        "forfeited": 614
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
         "country": "jp",
@@ -6395,12 +6395,12 @@
         },
         "pb": 465432,
         "streak": 14,
-        "matches": 10368,
-        "playtime": 6571129305,
+        "matches": 10369,
+        "playtime": 6571950449,
         "finished": 3305,
         "finishtime": 2525833902,
         "won": 5136,
-        "lost": 4881,
+        "lost": 4882,
         "forfeited": 2160
     },
     "de8e3203f8674303ad4a2baa55a15c87": {
@@ -6522,7 +6522,7 @@
             "9": 1577,
             "10": 1897,
             "11": 2021,
-            "12": 1846
+            "12": 1867
         },
         "points": {
             "2": 0,
@@ -6539,11 +6539,11 @@
         },
         "pb": 430442,
         "streak": 12,
-        "matches": 822,
-        "playtime": 477626588,
+        "matches": 823,
+        "playtime": 478126427,
         "finished": 330,
         "finishtime": 222735283,
-        "won": 449,
+        "won": 450,
         "lost": 334,
         "forfeited": 139
     },
