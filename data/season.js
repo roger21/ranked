@@ -1,5 +1,5 @@
 {
-    "date": 1790829001000,
+    "date": 1790829601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -22719,22 +22719,36 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "stats": {
                 "rank": 7,
-                "elo": 2205,
+                "elo": 2216,
                 "top": 2274,
                 "points": 40,
                 "pb": 416068,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 298,
-                "playtime": 162352223,
-                "finished": 159,
-                "finishtime": 89602527,
-                "won": 180,
+                "matches": 299,
+                "playtime": 162942483,
+                "finished": 160,
+                "finishtime": 90192787,
+                "won": 181,
                 "lost": 110,
                 "forfeited": 6
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1790829347000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "3fa40d15dadb46368aa72bc4827dae73",
+                    "elo": 2216,
+                    "change": 11,
+                    "oelo": 1912,
+                    "ochange": -11,
+                    "time": 590260,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790828594000,
                     "type": "DESERT_TEMPLE",
@@ -26871,22 +26885,36 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "stats": {
                 "rank": 8,
-                "elo": 2196,
+                "elo": 2207,
                 "top": 2234,
                 "points": 42,
                 "pb": 375933,
-                "current": 0,
+                "current": 1,
                 "streak": 18,
-                "matches": 288,
-                "playtime": 159854070,
+                "matches": 289,
+                "playtime": 160220297,
                 "finished": 167,
                 "finishtime": 93962403,
-                "won": 183,
+                "won": 184,
                 "lost": 98,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1790829234000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
+                    "elo": 2207,
+                    "change": 11,
+                    "oelo": 1916,
+                    "ochange": -11,
+                    "time": 366227,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1790828594000,
                     "type": "DESERT_TEMPLE",
