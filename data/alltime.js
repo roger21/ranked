@@ -1149,7 +1149,7 @@
             "9": 2250,
             "10": 2111,
             "11": 2021,
-            "12": 1603
+            "12": 1621
         },
         "points": {
             "1": 0,
@@ -1167,11 +1167,11 @@
         },
         "pb": 409669,
         "streak": 14,
-        "matches": 3649,
-        "playtime": 2407185162,
-        "finished": 1485,
-        "finishtime": 1073199013,
-        "won": 1965,
+        "matches": 3650,
+        "playtime": 2407781277,
+        "finished": 1486,
+        "finishtime": 1073795128,
+        "won": 1966,
         "lost": 1608,
         "forfeited": 178
     },
@@ -2141,7 +2141,7 @@
             "9": 2029,
             "10": 2298,
             "11": 2113,
-            "12": 1809
+            "12": 1829
         },
         "points": {
             "1": 0,
@@ -2159,11 +2159,11 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 4948,
-        "playtime": 3013833562,
-        "finished": 1781,
-        "finishtime": 1270913274,
-        "won": 2462,
+        "matches": 4949,
+        "playtime": 3015190819,
+        "finished": 1782,
+        "finishtime": 1272270531,
+        "won": 2463,
         "lost": 2146,
         "forfeited": 580
     },
@@ -3443,11 +3443,11 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 6206,
-        "playtime": 3662649210,
-        "finished": 2391,
-        "finishtime": 1668822747,
-        "won": 3239,
+        "matches": 6207,
+        "playtime": 3663265411,
+        "finished": 2392,
+        "finishtime": 1669438948,
+        "won": 3240,
         "lost": 2798,
         "forfeited": 1171
     },
@@ -6471,13 +6471,13 @@
         },
         "pb": 430442,
         "streak": 12,
-        "matches": 852,
-        "playtime": 494320275,
+        "matches": 853,
+        "playtime": 494815222,
         "finished": 342,
         "finishtime": 230029143,
         "won": 463,
-        "lost": 349,
-        "forfeited": 143
+        "lost": 350,
+        "forfeited": 144
     },
     "e691063a2afc4c47ac987c0f307297ad": {
         "country": null,
