@@ -1801,13 +1801,13 @@
         },
         "pb": 376807,
         "streak": 12,
-        "matches": 12587,
-        "playtime": 7804785647,
+        "matches": 12589,
+        "playtime": 7805623744,
         "finished": 4779,
         "finishtime": 3316052206,
         "won": 6276,
-        "lost": 5904,
-        "forfeited": 1635
+        "lost": 5906,
+        "forfeited": 1637
     },
     "4129d8d1aafb4e73b97b9999db248060": {
         "country": "hr",
