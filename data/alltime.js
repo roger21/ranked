@@ -2337,13 +2337,13 @@
         },
         "pb": 341507,
         "streak": 13,
-        "matches": 5366,
-        "playtime": 2954459033,
+        "matches": 5367,
+        "playtime": 2954824424,
         "finished": 2399,
         "finishtime": 1476238011,
         "won": 2913,
-        "lost": 2310,
-        "forfeited": 1115
+        "lost": 2311,
+        "forfeited": 1116
     },
     "4f3e7905554345698e41f88caa4c088e": {
         "country": "ca",
@@ -2367,12 +2367,12 @@
         },
         "pb": 399681,
         "streak": 12,
-        "matches": 10635,
-        "playtime": 6324098733,
+        "matches": 10636,
+        "playtime": 6324695791,
         "finished": 3878,
         "finishtime": 2551171857,
         "won": 5073,
-        "lost": 4855,
+        "lost": 4856,
         "forfeited": 1425
     },
     "529c478ae270415ba12044771a99249a": {
@@ -2745,7 +2745,7 @@
             "9": 2183,
             "10": 2056,
             "11": 2098,
-            "12": 1909
+            "12": 1915
         },
         "points": {
             "1": 0,
@@ -2763,11 +2763,11 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 11886,
-        "playtime": 7351972143,
-        "finished": 4419,
-        "finishtime": 3193017581,
-        "won": 5915,
+        "matches": 11888,
+        "playtime": 7352875253,
+        "finished": 4420,
+        "finishtime": 3193614639,
+        "won": 5917,
         "lost": 5569,
         "forfeited": 1832
     },
@@ -4235,7 +4235,7 @@
             "9": 2203,
             "10": 2294,
             "11": 2351,
-            "12": 2064
+            "12": 2074
         },
         "points": {
             "1": 0,
@@ -4253,11 +4253,11 @@
         },
         "pb": 380958,
         "streak": 16,
-        "matches": 11224,
-        "playtime": 6911856418,
+        "matches": 11225,
+        "playtime": 6912221809,
         "finished": 4483,
         "finishtime": 2973666508,
-        "won": 5617,
+        "won": 5618,
         "lost": 5211,
         "forfeited": 880
     },
