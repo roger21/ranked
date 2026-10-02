@@ -1,5 +1,5 @@
 {
-    "date": 1790904601000,
+    "date": 1790905201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -20191,22 +20191,36 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "stats": {
                 "rank": 6,
-                "elo": 2232,
+                "elo": 2242,
                 "top": 2274,
                 "points": 40,
                 "pb": 416068,
-                "current": 3,
+                "current": 4,
                 "streak": 12,
-                "matches": 303,
-                "playtime": 165290661,
+                "matches": 304,
+                "playtime": 165684078,
                 "finished": 163,
                 "finishtime": 92020685,
-                "won": 184,
+                "won": 185,
                 "lost": 111,
                 "forfeited": 6
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1790905039000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "350579d3e06341a0997ac47a91f2ac98",
+                    "elo": 2242,
+                    "change": 10,
+                    "oelo": 1922,
+                    "ochange": -10,
+                    "time": 393417,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1790904061000,
                     "type": "VILLAGE",
