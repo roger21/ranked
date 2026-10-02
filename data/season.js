@@ -1,5 +1,5 @@
 {
-    "date": 1790926201000,
+    "date": 1790926801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -177066,23 +177066,37 @@
         {
             "uuid": "350579d3e06341a0997ac47a91f2ac98",
             "stats": {
-                "rank": 47,
-                "elo": 1965,
+                "rank": 48,
+                "elo": 1951,
                 "top": 2035,
                 "points": 3,
                 "pb": 492097,
                 "current": 0,
                 "streak": 7,
-                "matches": 261,
-                "playtime": 150539532,
+                "matches": 262,
+                "playtime": 151131629,
                 "finished": 121,
                 "finishtime": 74796641,
                 "won": 139,
-                "lost": 114,
+                "lost": 115,
                 "forfeited": 34
             },
             "country": "sg",
             "matches": [
+                {
+                    "date": 1790926834000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
+                    "elo": 1951,
+                    "change": -14,
+                    "oelo": 2155,
+                    "ochange": 14,
+                    "time": 592097,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790926158000,
                     "type": "VILLAGE",
@@ -180672,7 +180686,7 @@
         {
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1952,
                 "top": 2143,
                 "points": 5,
