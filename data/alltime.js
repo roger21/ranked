@@ -2303,12 +2303,12 @@
         },
         "pb": 399681,
         "streak": 12,
-        "matches": 10624,
-        "playtime": 6317573006,
+        "matches": 10625,
+        "playtime": 6318255970,
         "finished": 3873,
         "finishtime": 2548439050,
         "won": 5068,
-        "lost": 4849,
+        "lost": 4850,
         "forfeited": 1425
     },
     "529c478ae270415ba12044771a99249a": {
@@ -4405,7 +4405,7 @@
             "9": 1771,
             "10": 2130,
             "11": 1968,
-            "12": 1931
+            "12": 1932
         },
         "points": {
             "1": 0,
@@ -4423,11 +4423,11 @@
         },
         "pb": 418867,
         "streak": 18,
-        "matches": 5609,
-        "playtime": 3542147816,
-        "finished": 1897,
-        "finishtime": 1424534954,
-        "won": 2870,
+        "matches": 5610,
+        "playtime": 3542783535,
+        "finished": 1898,
+        "finishtime": 1425170673,
+        "won": 2871,
         "lost": 2566,
         "forfeited": 1185
     },
@@ -5471,12 +5471,12 @@
         },
         "pb": 351982,
         "streak": 14,
-        "matches": 2048,
-        "playtime": 1170316749,
+        "matches": 2049,
+        "playtime": 1170952468,
         "finished": 832,
         "finishtime": 516532467,
         "won": 1073,
-        "lost": 861,
+        "lost": 862,
         "forfeited": 259
     },
     "bdb7f407200d4882b78e656ca161bddf": {
@@ -6073,7 +6073,7 @@
             "9": 2056,
             "10": 2146,
             "11": 2011,
-            "12": 1677
+            "12": 1700
         },
         "points": {
             "1": 0,
@@ -6091,11 +6091,11 @@
         },
         "pb": 432321,
         "streak": 11,
-        "matches": 4706,
-        "playtime": 3005383716,
-        "finished": 1750,
-        "finishtime": 1286027670,
-        "won": 2412,
+        "matches": 4707,
+        "playtime": 3005998899,
+        "finished": 1751,
+        "finishtime": 1286642853,
+        "won": 2413,
         "lost": 2137,
         "forfeited": 506
     },
