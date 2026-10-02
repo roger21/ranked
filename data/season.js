@@ -1,5 +1,5 @@
 {
-    "date": 1790921401000,
+    "date": 1790922001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -172830,23 +172830,37 @@
         {
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "stats": {
-                "rank": 46,
-                "elo": 1982,
+                "rank": 48,
+                "elo": 1954,
                 "top": 1982,
                 "points": 0,
                 "pb": 450717,
-                "current": 5,
+                "current": 0,
                 "streak": 6,
-                "matches": 134,
-                "playtime": 81106027,
+                "matches": 135,
+                "playtime": 81960908,
                 "finished": 64,
                 "finishtime": 39497422,
                 "won": 75,
-                "lost": 58,
+                "lost": 59,
                 "forfeited": 8
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1790922047000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "aa0aee82f7a94591a076331d899f836c",
+                    "elo": 1954,
+                    "change": -28,
+                    "oelo": 1773,
+                    "ochange": 28,
+                    "time": 854881,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1790920799000,
                     "type": "VILLAGE",
@@ -174658,7 +174672,7 @@
         {
             "uuid": "bcb0f43558d745ee977841180b121267",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 1975,
                 "top": 2059,
                 "points": 9,
@@ -176542,7 +176556,7 @@
         {
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 1967,
                 "top": 2046,
                 "points": 10,
