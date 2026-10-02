@@ -1386,7 +1386,7 @@
             "9": 1938,
             "10": 2103,
             "11": 2118,
-            "12": 1994
+            "12": 2011
         },
         "points": {
             "4": 0,
@@ -1401,11 +1401,11 @@
         },
         "pb": 417857,
         "streak": 13,
-        "matches": 3128,
-        "playtime": 1975220334,
-        "finished": 1232,
-        "finishtime": 835453746,
-        "won": 1567,
+        "matches": 3129,
+        "playtime": 1975816342,
+        "finished": 1233,
+        "finishtime": 836049754,
+        "won": 1568,
         "lost": 1403,
         "forfeited": 248
     },
@@ -2367,12 +2367,12 @@
         },
         "pb": 399681,
         "streak": 12,
-        "matches": 10628,
-        "playtime": 6320012675,
+        "matches": 10629,
+        "playtime": 6320608683,
         "finished": 3874,
         "finishtime": 2549010382,
         "won": 5069,
-        "lost": 4852,
+        "lost": 4853,
         "forfeited": 1425
     },
     "529c478ae270415ba12044771a99249a": {
@@ -2763,12 +2763,12 @@
         },
         "pb": 364035,
         "streak": 13,
-        "matches": 11880,
-        "playtime": 7348489933,
+        "matches": 11881,
+        "playtime": 7349016895,
         "finished": 4416,
         "finishtime": 3191186632,
         "won": 5912,
-        "lost": 5566,
+        "lost": 5567,
         "forfeited": 1832
     },
     "60bfac463733422f8708733f3140cd94": {
@@ -4235,7 +4235,7 @@
             "9": 2203,
             "10": 2294,
             "11": 2351,
-            "12": 2006
+            "12": 2019
         },
         "points": {
             "1": 0,
@@ -4253,11 +4253,11 @@
         },
         "pb": 380958,
         "streak": 16,
-        "matches": 11217,
-        "playtime": 6908139650,
-        "finished": 4479,
-        "finishtime": 2971504774,
-        "won": 5612,
+        "matches": 11218,
+        "playtime": 6908702784,
+        "finished": 4480,
+        "finishtime": 2972067908,
+        "won": 5613,
         "lost": 5209,
         "forfeited": 880
     },
