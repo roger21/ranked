@@ -487,13 +487,13 @@
         },
         "pb": 400846,
         "streak": 14,
-        "matches": 5440,
-        "playtime": 3227577193,
+        "matches": 5441,
+        "playtime": 3227988153,
         "finished": 2441,
         "finishtime": 1570159846,
         "won": 2926,
-        "lost": 2377,
-        "forfeited": 571
+        "lost": 2378,
+        "forfeited": 572
     },
     "0d8d4d3d7d524b85a93534283f0c9498": {
         "country": "pl",
@@ -1371,12 +1371,12 @@
         },
         "pb": 409378,
         "streak": 12,
-        "matches": 4989,
-        "playtime": 3056585977,
+        "matches": 4990,
+        "playtime": 3057306796,
         "finished": 1884,
         "finishtime": 1317886658,
         "won": 2509,
-        "lost": 2299,
+        "lost": 2300,
         "forfeited": 833
     },
     "3666a63719fd44ecaea931c0dcd9c0d9": {
@@ -3291,12 +3291,12 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12836,
-        "playtime": 6975512702,
+        "matches": 12837,
+        "playtime": 6976091097,
         "finished": 4479,
         "finishtime": 2660414841,
         "won": 5906,
-        "lost": 5670,
+        "lost": 5671,
         "forfeited": 3014
     },
     "7b5563464fdf4757905e681040791ac0": {
@@ -5135,11 +5135,11 @@
         },
         "pb": 416491,
         "streak": 11,
-        "matches": 10537,
-        "playtime": 6300336098,
+        "matches": 10538,
+        "playtime": 6300747058,
         "finished": 3691,
         "finishtime": 2610863120,
-        "won": 5232,
+        "won": 5233,
         "lost": 4967,
         "forfeited": 2427
     },
@@ -6245,13 +6245,13 @@
         },
         "pb": 413478,
         "streak": 11,
-        "matches": 2195,
-        "playtime": 1313469209,
+        "matches": 2196,
+        "playtime": 1313819978,
         "finished": 952,
         "finishtime": 609452403,
         "won": 1168,
-        "lost": 943,
-        "forfeited": 195
+        "lost": 944,
+        "forfeited": 196
     },
     "dd34e44dfe5d4e05923d876b9c34ca5f": {
         "country": "se",
