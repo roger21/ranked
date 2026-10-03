@@ -1,5 +1,5 @@
 {
-    "date": 1791007201000,
+    "date": 1791007801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -188864,15 +188864,15 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 49,
-                "elo": 1963,
+                "rank": 50,
+                "elo": 1961,
                 "top": 1963,
                 "points": 6,
                 "pb": 454787,
                 "current": 4,
                 "streak": 10,
-                "matches": 163,
-                "playtime": 96186169,
+                "matches": 164,
+                "playtime": 96870294,
                 "finished": 83,
                 "finishtime": 49884741,
                 "won": 88,
@@ -188881,6 +188881,20 @@
             },
             "country": "jp",
             "matches": [
+                {
+                    "date": 1791007513000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "ed0605bc88fa411f8f1d530323efd867",
+                    "elo": 1961,
+                    "change": -2,
+                    "oelo": 1789,
+                    "ochange": 2,
+                    "time": 684125,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1791006442000,
                     "type": "RUINED_PORTAL",
