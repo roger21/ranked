@@ -2373,12 +2373,12 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6924,
-        "playtime": 4188965210,
+        "matches": 6925,
+        "playtime": 4189560169,
         "finished": 3125,
         "finishtime": 2039102020,
         "won": 3817,
-        "lost": 2982,
+        "lost": 2983,
         "forfeited": 618
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
@@ -3409,7 +3409,7 @@
             "9": 2146,
             "10": 2323,
             "11": 2413,
-            "12": 2052
+            "12": 2053
         },
         "points": {
             "1": 0,
@@ -3427,11 +3427,11 @@
         },
         "pb": 411760,
         "streak": 12,
-        "matches": 6224,
-        "playtime": 3672606759,
-        "finished": 2400,
-        "finishtime": 1674145734,
-        "won": 3250,
+        "matches": 6225,
+        "playtime": 3673119402,
+        "finished": 2401,
+        "finishtime": 1674658377,
+        "won": 3251,
         "lost": 2805,
         "forfeited": 1173
     },
@@ -5385,7 +5385,7 @@
             "9": 2487,
             "10": 2555,
             "11": 2425,
-            "12": 2176
+            "12": 2196
         },
         "points": {
             "1": 0,
@@ -5403,11 +5403,11 @@
         },
         "pb": 390896,
         "streak": 18,
-        "matches": 7670,
-        "playtime": 4289178021,
-        "finished": 3430,
-        "finishtime": 2172396769,
-        "won": 4235,
+        "matches": 7671,
+        "playtime": 4289772980,
+        "finished": 3431,
+        "finishtime": 2172991728,
+        "won": 4236,
         "lost": 3198,
         "forfeited": 1454
     },
@@ -6281,12 +6281,12 @@
         },
         "pb": 456449,
         "streak": 14,
-        "matches": 10453,
-        "playtime": 6625396391,
+        "matches": 10454,
+        "playtime": 6625899604,
         "finished": 3337,
         "finishtime": 2547520449,
         "won": 5177,
-        "lost": 4917,
+        "lost": 4918,
         "forfeited": 2160
     },
     "de8e3203f8674303ad4a2baa55a15c87": {
