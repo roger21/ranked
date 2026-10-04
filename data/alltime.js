@@ -215,12 +215,12 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 9411,
-        "playtime": 6361078607,
+        "matches": 9412,
+        "playtime": 6361812761,
         "finished": 3227,
         "finishtime": 2338581976,
         "won": 4527,
-        "lost": 4261,
+        "lost": 4262,
         "forfeited": 370
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -277,7 +277,7 @@
             "9": 2283,
             "10": 2567,
             "11": 2201,
-            "12": 1865
+            "12": 1869
         },
         "points": {
             "1": 0,
@@ -295,11 +295,11 @@
         },
         "pb": 383814,
         "streak": 14,
-        "matches": 6212,
-        "playtime": 3875010146,
-        "finished": 2552,
-        "finishtime": 1722181766,
-        "won": 3217,
+        "matches": 6213,
+        "playtime": 3875588741,
+        "finished": 2553,
+        "finishtime": 1722760361,
+        "won": 3218,
         "lost": 2784,
         "forfeited": 512
     },
@@ -2969,7 +2969,7 @@
             "9": 2172,
             "10": 2344,
             "11": 2476,
-            "12": 2098
+            "12": 2101
         },
         "points": {
             "1": 0,
@@ -2987,11 +2987,11 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 8629,
-        "playtime": 5450116282,
-        "finished": 3183,
-        "finishtime": 2251482142,
-        "won": 4375,
+        "matches": 8630,
+        "playtime": 5450850436,
+        "finished": 3184,
+        "finishtime": 2252216296,
+        "won": 4376,
         "lost": 3925,
         "forfeited": 844
     },
@@ -6125,12 +6125,12 @@
         },
         "pb": 414438,
         "streak": 11,
-        "matches": 6249,
-        "playtime": 4111680789,
+        "matches": 6250,
+        "playtime": 4112214519,
         "finished": 2311,
         "finishtime": 1648935605,
         "won": 3140,
-        "lost": 2758,
+        "lost": 2759,
         "forfeited": 211
     },
     "d41f0f3caebe45e1bc6a380fedf54ca9": {
