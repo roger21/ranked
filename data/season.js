@@ -1,5 +1,5 @@
 {
-    "date": 1791131401000,
+    "date": 1791132001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -6307,7 +6307,7 @@
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
             "stats": {
                 "rank": 3,
-                "elo": 2374,
+                "elo": 2369,
                 "top": 2374,
                 "points": 47,
                 "pb": 342766,
@@ -6323,6 +6323,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1791131545000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2369,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1790483494000,
                     "type": "BURIED_TREASURE",
