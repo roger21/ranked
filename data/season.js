@@ -1,5 +1,5 @@
 {
-    "date": 1791144001000,
+    "date": 1791144601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -147846,23 +147846,37 @@
         {
             "uuid": "7fad8dae2ab04971bc07a6440f84d609",
             "stats": {
-                "rank": 45,
-                "elo": 1996,
+                "rank": 46,
+                "elo": 1984,
                 "top": 2011,
                 "points": 4,
                 "pb": 457483,
                 "current": 0,
                 "streak": 8,
-                "matches": 314,
-                "playtime": 179458933,
+                "matches": 315,
+                "playtime": 180072541,
                 "finished": 131,
                 "finishtime": 82917419,
                 "won": 160,
-                "lost": 137,
+                "lost": 138,
                 "forfeited": 25
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1791144636000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "625146b684804a29af2eaeb483a59ddf",
+                    "elo": 1984,
+                    "change": -12,
+                    "oelo": 2228,
+                    "ochange": 12,
+                    "time": 613608,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791143853000,
                     "type": "RUINED_PORTAL",
@@ -152194,7 +152208,7 @@
         {
             "uuid": "f55a7e31e65a453e941ebec79cd39992",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 1989,
                 "top": 2102,
                 "points": 6,
