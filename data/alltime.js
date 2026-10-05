@@ -2323,12 +2323,12 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 6964,
-        "playtime": 4211030264,
+        "matches": 6965,
+        "playtime": 4211752163,
         "finished": 3144,
         "finishtime": 2050199660,
         "won": 3839,
-        "lost": 3000,
+        "lost": 3001,
         "forfeited": 622
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
@@ -3625,13 +3625,13 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 9740,
-        "playtime": 5630839527,
+        "matches": 9741,
+        "playtime": 5631437947,
         "finished": 3634,
         "finishtime": 2470810268,
         "won": 4887,
-        "lost": 4570,
-        "forfeited": 2272
+        "lost": 4571,
+        "forfeited": 2273
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "country": "vn",
