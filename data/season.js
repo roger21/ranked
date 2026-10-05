@@ -1,5 +1,5 @@
 {
-    "date": 1791203402000,
+    "date": 1791204001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -81767,22 +81767,36 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
                 "rank": 24,
-                "elo": 2118,
-                "top": 2118,
+                "elo": 2132,
+                "top": 2132,
                 "points": 3,
                 "pb": 427217,
-                "current": 2,
+                "current": 3,
                 "streak": 12,
-                "matches": 482,
-                "playtime": 276704183,
-                "finished": 217,
-                "finishtime": 129354441,
-                "won": 256,
+                "matches": 483,
+                "playtime": 277257205,
+                "finished": 218,
+                "finishtime": 129907463,
+                "won": 257,
                 "lost": 216,
                 "forfeited": 14
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1791203540000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "b140bbd0317d4eba89d34288f1b8f0c7",
+                    "elo": 2132,
+                    "change": 14,
+                    "oelo": 1932,
+                    "ochange": -14,
+                    "time": 553022,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791181382000,
                     "type": "VILLAGE",
