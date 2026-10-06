@@ -1,26 +1,40 @@
 {
-    "date": 1791321601000,
+    "date": 1791322201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "stats": {
                 "rank": 1,
-                "elo": 2521,
+                "elo": 2531,
                 "top": 2563,
                 "points": 0,
                 "pb": 343522,
-                "current": 1,
+                "current": 2,
                 "streak": 25,
-                "matches": 264,
-                "playtime": 134204227,
-                "finished": 202,
-                "finishtime": 105884214,
-                "won": 221,
+                "matches": 265,
+                "playtime": 134792700,
+                "finished": 203,
+                "finishtime": 106472687,
+                "won": 222,
                 "lost": 43,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1791321802000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "625146b684804a29af2eaeb483a59ddf",
+                    "elo": 2531,
+                    "change": 10,
+                    "oelo": 2224,
+                    "ochange": -10,
+                    "time": 588473,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791320751000,
                     "type": "SHIPWRECK",
@@ -20823,22 +20837,36 @@
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "stats": {
                 "rank": 8,
-                "elo": 2234,
+                "elo": 2224,
                 "top": 2273,
                 "points": 16,
                 "pb": 376651,
                 "current": 0,
                 "streak": 7,
-                "matches": 225,
-                "playtime": 126438587,
+                "matches": 226,
+                "playtime": 127027060,
                 "finished": 121,
                 "finishtime": 69233910,
                 "won": 132,
-                "lost": 87,
+                "lost": 88,
                 "forfeited": 2
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1791321802000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "635f35ee69ed4f0c94ff26ece4818956",
+                    "elo": 2224,
+                    "change": -10,
+                    "oelo": 2531,
+                    "ochange": 10,
+                    "time": 588473,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791321067000,
                     "type": "SHIPWRECK",
@@ -23938,7 +23966,7 @@
         {
             "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
             "stats": {
-                "rank": 9,
+                "rank": 8,
                 "elo": 2224,
                 "top": 2224,
                 "points": 32,
