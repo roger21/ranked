@@ -3555,12 +3555,12 @@
         },
         "pb": 444127,
         "streak": 10,
-        "matches": 5412,
-        "playtime": 3609204404,
+        "matches": 5413,
+        "playtime": 3609776068,
         "finished": 1661,
         "finishtime": 1320773405,
         "won": 2654,
-        "lost": 2498,
+        "lost": 2499,
         "forfeited": 782
     },
     "8393e90d9dd94a3eb838146a5ae5b724": {
@@ -5171,11 +5171,11 @@
         },
         "pb": 409197,
         "streak": 12,
-        "matches": 5901,
-        "playtime": 3792867603,
-        "finished": 2208,
-        "finishtime": 1555747245,
-        "won": 2984,
+        "matches": 5902,
+        "playtime": 3793499801,
+        "finished": 2209,
+        "finishtime": 1556379443,
+        "won": 2985,
         "lost": 2702,
         "forfeited": 343
     },
@@ -6037,7 +6037,7 @@
             "9": 2103,
             "10": 2265,
             "11": 2284,
-            "12": 1988
+            "12": 1994
         },
         "points": {
             "1": 0,
@@ -6055,11 +6055,11 @@
         },
         "pb": 404855,
         "streak": 14,
-        "matches": 10424,
-        "playtime": 6603487238,
-        "finished": 3755,
-        "finishtime": 2637660556,
-        "won": 5206,
+        "matches": 10425,
+        "playtime": 6604127394,
+        "finished": 3756,
+        "finishtime": 2638300712,
+        "won": 5207,
         "lost": 4787,
         "forfeited": 1220
     },
@@ -6370,7 +6370,7 @@
             "9": 1577,
             "10": 1897,
             "11": 2021,
-            "12": 2067
+            "12": 2072
         },
         "points": {
             "2": 0,
@@ -6387,11 +6387,11 @@
         },
         "pb": 430442,
         "streak": 12,
-        "matches": 894,
-        "playtime": 517211220,
-        "finished": 367,
-        "finishtime": 244995014,
-        "won": 491,
+        "matches": 895,
+        "playtime": 517909457,
+        "finished": 368,
+        "finishtime": 245693251,
+        "won": 492,
         "lost": 363,
         "forfeited": 150
     },
