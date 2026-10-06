@@ -1,5 +1,5 @@
 {
-    "date": 1791274201000,
+    "date": 1791274801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -74485,22 +74485,36 @@
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
                 "rank": 22,
-                "elo": 2143,
+                "elo": 2155,
                 "top": 2191,
                 "points": 3,
                 "pb": 427217,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
-                "matches": 488,
-                "playtime": 280143111,
-                "finished": 221,
-                "finishtime": 131642576,
-                "won": 260,
+                "matches": 489,
+                "playtime": 280703029,
+                "finished": 222,
+                "finishtime": 132202494,
+                "won": 261,
                 "lost": 218,
                 "forfeited": 14
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1791274790000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "8e4e0d331ba44b7fba664fee8a2916f9",
+                    "elo": 2155,
+                    "change": 12,
+                    "oelo": 1889,
+                    "ochange": -12,
+                    "time": 559918,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791274119000,
                     "type": "VILLAGE",
