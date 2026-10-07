@@ -1,5 +1,5 @@
 {
-    "date": 1791333601000,
+    "date": 1791334201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -156307,14 +156307,14 @@
             "uuid": "939ddf85303441de901d60bfa4109318",
             "stats": {
                 "rank": 42,
-                "elo": 2032,
+                "elo": 2030,
                 "top": 2157,
                 "points": 8,
                 "pb": 406396,
                 "current": 1,
                 "streak": 6,
-                "matches": 336,
-                "playtime": 197455263,
+                "matches": 337,
+                "playtime": 198040583,
                 "finished": 151,
                 "finishtime": 90703722,
                 "won": 178,
@@ -156323,6 +156323,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1791334217000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "1ad3ce1d756144e2b967299789c28030",
+                    "elo": 2030,
+                    "change": -2,
+                    "oelo": 1896,
+                    "ochange": 2,
+                    "time": 585320,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1791333487000,
                     "type": "BURIED_TREASURE",
