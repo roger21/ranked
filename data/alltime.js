@@ -3295,13 +3295,13 @@
         },
         "pb": 389502,
         "streak": 14,
-        "matches": 12984,
-        "playtime": 7054550055,
+        "matches": 12985,
+        "playtime": 7054966501,
         "finished": 4548,
         "finishtime": 2699854985,
         "won": 5985,
-        "lost": 5733,
-        "forfeited": 3037
+        "lost": 5734,
+        "forfeited": 3038
     },
     "7b5563464fdf4757905e681040791ac0": {
         "country": "cn",
