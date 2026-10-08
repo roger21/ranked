@@ -56,6 +56,7 @@
     "05a482a014b745be80645ea9dc075040": "MBOm1t",
     "05de1ec13bf24f74b0f60ab73cdbdab6": "ForgottenGenesis",
     "05e066b83f5848599b9f5e2e72ce67f0": "sn4yk",
+    "05e776cf6ba44967adc596119cf73502": "MufatMCSR",
     "05e9d23fcaa84539b971a9193ae579eb": "prkrGG",
     "05ea6a46f6cb4642b7b18dc4ef386d9a": "Summers3nd",
     "05f52a6519e749c3aa7e1f2545105029": "rediban",
