@@ -1,5 +1,5 @@
 {
-    "date": 1791455401000,
+    "date": 1791456001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -193154,7 +193154,7 @@
         {
             "uuid": "99aa9e0e8034479a90259e244dfb9029",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2010,
                 "top": 2035,
                 "points": 4,
@@ -197040,7 +197040,7 @@
         {
             "uuid": "afee11f6ce2f4c6ab25a3b011127e71d",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2010,
                 "top": 2010,
                 "points": 5,
