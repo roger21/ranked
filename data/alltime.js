@@ -3025,13 +3025,13 @@
         },
         "pb": 442704,
         "streak": 12,
-        "matches": 1130,
-        "playtime": 636082617,
+        "matches": 1131,
+        "playtime": 636686994,
         "finished": 507,
         "finishtime": 328810150,
         "won": 648,
-        "lost": 444,
-        "forfeited": 258
+        "lost": 445,
+        "forfeited": 259
     },
     "744f344f2f5a4610aa8fe30053312812": {
         "country": "ar",
