@@ -1,5 +1,5 @@
 {
-    "date": 1791550801000,
+    "date": 1791551401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -62222,23 +62222,37 @@
         {
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "stats": {
-                "rank": 17,
-                "elo": 2194,
+                "rank": 20,
+                "elo": 2167,
                 "top": 2260,
                 "points": 23,
                 "pb": 417971,
                 "current": 0,
                 "streak": 9,
-                "matches": 383,
-                "playtime": 207500286,
+                "matches": 384,
+                "playtime": 207979590,
                 "finished": 207,
                 "finishtime": 118939408,
                 "won": 230,
-                "lost": 149,
+                "lost": 150,
                 "forfeited": 34
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1791551406000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "64858295eb754646b03caead840391a2",
+                    "elo": 2167,
+                    "change": -27,
+                    "oelo": 2016,
+                    "ochange": 27,
+                    "time": 479304,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791542968000,
                     "type": "VILLAGE",
@@ -67564,7 +67578,7 @@
         {
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "stats": {
-                "rank": 18,
+                "rank": 17,
                 "elo": 2191,
                 "top": 2196,
                 "points": 18,
@@ -71086,7 +71100,7 @@
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "stats": {
-                "rank": 19,
+                "rank": 18,
                 "elo": 2188,
                 "top": 2211,
                 "points": 17,
@@ -73264,7 +73278,7 @@
         {
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "stats": {
-                "rank": 20,
+                "rank": 19,
                 "elo": 2172,
                 "top": 2192,
                 "points": 8,
@@ -80370,7 +80384,7 @@
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "stats": {
-                "rank": 21,
+                "rank": 20,
                 "elo": 2167,
                 "top": 2205,
                 "points": 34,
