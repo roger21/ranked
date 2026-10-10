@@ -1,5 +1,5 @@
 {
-    "date": 1791613801000,
+    "date": 1791614401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -226664,23 +226664,37 @@
         {
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "stats": {
-                "rank": 50,
-                "elo": 2025,
+                "rank": 41,
+                "elo": 2039,
                 "top": 2068,
                 "points": 6,
                 "pb": 451841,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 130,
-                "playtime": 73695154,
-                "finished": 66,
-                "finishtime": 38593851,
-                "won": 77,
+                "matches": 131,
+                "playtime": 74366803,
+                "finished": 67,
+                "finishtime": 39265500,
+                "won": 78,
                 "lost": 49,
                 "forfeited": 0
             },
             "country": "ax",
             "matches": [
+                {
+                    "date": 1791614491000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "0debdc275a1445ebadde83dd8c0c8c5d",
+                    "elo": 2039,
+                    "change": 14,
+                    "oelo": 1826,
+                    "ochange": -14,
+                    "time": 671649,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791611364000,
                     "type": "RUINED_PORTAL",
