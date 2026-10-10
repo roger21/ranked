@@ -2343,13 +2343,13 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 7015,
-        "playtime": 4239522734,
+        "matches": 7016,
+        "playtime": 4239908187,
         "finished": 3168,
         "finishtime": 2064167571,
         "won": 3865,
-        "lost": 3025,
-        "forfeited": 626
+        "lost": 3026,
+        "forfeited": 627
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
         "country": "jp",
@@ -4461,12 +4461,12 @@
         },
         "pb": 394766,
         "streak": 13,
-        "matches": 7831,
-        "playtime": 4752963087,
+        "matches": 7832,
+        "playtime": 4753472332,
         "finished": 2775,
         "finishtime": 1939046408,
         "won": 3870,
-        "lost": 3541,
+        "lost": 3542,
         "forfeited": 1346
     },
     "a0a672a0bc194540bc195220dc170dba": {
