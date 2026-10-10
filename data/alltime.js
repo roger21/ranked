@@ -2113,11 +2113,11 @@
         },
         "pb": 434577,
         "streak": 11,
-        "matches": 5011,
-        "playtime": 3053948687,
-        "finished": 1807,
-        "finishtime": 1288748052,
-        "won": 2495,
+        "matches": 5012,
+        "playtime": 3054551910,
+        "finished": 1808,
+        "finishtime": 1289351275,
+        "won": 2496,
         "lost": 2173,
         "forfeited": 581
     },
@@ -2343,12 +2343,12 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 7016,
-        "playtime": 4239908187,
+        "matches": 7017,
+        "playtime": 4240511410,
         "finished": 3168,
         "finishtime": 2064167571,
         "won": 3865,
-        "lost": 3026,
+        "lost": 3027,
         "forfeited": 627
     },
     "554b53dfe17f43bdb792e1f5069c2887": {
@@ -4461,13 +4461,13 @@
         },
         "pb": 394766,
         "streak": 13,
-        "matches": 7832,
-        "playtime": 4753472332,
+        "matches": 7833,
+        "playtime": 4754037700,
         "finished": 2775,
         "finishtime": 1939046408,
         "won": 3870,
-        "lost": 3542,
-        "forfeited": 1346
+        "lost": 3543,
+        "forfeited": 1347
     },
     "a0a672a0bc194540bc195220dc170dba": {
         "country": "us",
@@ -6310,6 +6310,32 @@
         "won": 5206,
         "lost": 4941,
         "forfeited": 2161
+    },
+    "de8e3203f8674303ad4a2baa55a15c87": {
+        "country": "us",
+        "top": {
+            "8": 1439,
+            "9": 1714,
+            "10": 2128,
+            "11": 2335,
+            "12": 2079
+        },
+        "points": {
+            "8": 0,
+            "9": 0,
+            "10": 13,
+            "11": 32,
+            "12": 7
+        },
+        "pb": 392754,
+        "streak": 10,
+        "matches": 1088,
+        "playtime": 663333383,
+        "finished": 464,
+        "finishtime": 292399811,
+        "won": 561,
+        "lost": 454,
+        "forfeited": 13
     },
     "e43dad544b244da9b690a12fdc8626dc": {
         "country": "de",
