@@ -1,5 +1,5 @@
 {
-    "date": 1791670801000,
+    "date": 1791671401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -169066,23 +169066,37 @@
         {
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "stats": {
-                "rank": 41,
-                "elo": 2043,
+                "rank": 48,
+                "elo": 2019,
                 "top": 2205,
                 "points": 3,
                 "pb": 397523,
-                "current": 1,
+                "current": 0,
                 "streak": 8,
-                "matches": 951,
-                "playtime": 481240998,
+                "matches": 952,
+                "playtime": 481989405,
                 "finished": 423,
                 "finishtime": 241685568,
                 "won": 478,
-                "lost": 454,
+                "lost": 455,
                 "forfeited": 234
             },
             "country": "ph",
             "matches": [
+                {
+                    "date": 1791671454000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "5fe66e8b389f4dc384222e8cc09485f0",
+                    "elo": 2019,
+                    "change": -24,
+                    "oelo": 1957,
+                    "ochange": 24,
+                    "time": 748407,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791670408000,
                     "type": "DESERT_TEMPLE",
@@ -182332,7 +182346,7 @@
         {
             "uuid": "048de51800794a208de7f01652513c32",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2041,
                 "top": 2176,
                 "points": 17,
@@ -188206,7 +188220,7 @@
         {
             "uuid": "a888602136ee48208516c4f7960ba997",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2040,
                 "top": 2040,
                 "points": 0,
@@ -192988,7 +193002,7 @@
         {
             "uuid": "939ddf85303441de901d60bfa4109318",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2039,
                 "top": 2157,
                 "points": 8,
@@ -198344,7 +198358,7 @@
         {
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2039,
                 "top": 2068,
                 "points": 11,
@@ -200788,7 +200802,7 @@
         {
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2029,
                 "top": 2029,
                 "points": 0,
@@ -203694,7 +203708,7 @@
         {
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "stats": {
-                "rank": 47,
+                "rank": 46,
                 "elo": 2021,
                 "top": 2079,
                 "points": 7,
@@ -206096,7 +206110,7 @@
         {
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "stats": {
-                "rank": 48,
+                "rank": 47,
                 "elo": 2020,
                 "top": 2143,
                 "points": 5,
@@ -210654,7 +210668,7 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 49,
+                "rank": 48,
                 "elo": 2019,
                 "top": 2019,
                 "points": 6,
