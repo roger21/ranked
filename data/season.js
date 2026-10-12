@@ -1,5 +1,5 @@
 {
-    "date": 1791811801000,
+    "date": 1791812401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -37157,14 +37157,14 @@
             "uuid": "bc80af38933f4ae19b0494681a54422b",
             "stats": {
                 "rank": 11,
-                "elo": 2250,
+                "elo": 2248,
                 "top": 2250,
                 "points": 18,
                 "pb": 412133,
                 "current": 5,
                 "streak": 8,
-                "matches": 271,
-                "playtime": 150745008,
+                "matches": 272,
+                "playtime": 151150626,
                 "finished": 150,
                 "finishtime": 86491026,
                 "won": 162,
@@ -37173,6 +37173,20 @@
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1791811848000,
+                    "type": "SHIPWRECK",
+                    "bastion": "HOUSING",
+                    "result": "draw",
+                    "opponent": "3fa40d15dadb46368aa72bc4827dae73",
+                    "elo": 2248,
+                    "change": -2,
+                    "oelo": 2112,
+                    "ochange": 2,
+                    "time": 405618,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1791811362000,
                     "type": "RUINED_PORTAL",
