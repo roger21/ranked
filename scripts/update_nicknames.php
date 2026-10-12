@@ -27,9 +27,12 @@
     if($user === false ||
        !isset($http_response_header[0]) ||
        $http_response_header[0] !== "HTTP/1.1 200 OK"){
-      echo "request error ".($http_response_header[0] ?? "no header").
-                           " uuid {$uuid} nick {$nick}\n";
-      die(1);
+      echo "\nrequest error ".($http_response_header[0] ?? "no header").
+                           " uuid {$uuid} nick {$nick}\n\n";
+      $nicks[$uuid]=$nick;
+      echo "(".(++$request_counter).
+              ") uuid {$uuid} error -> oldnick {$nick}\n";
+      continue;
     }
     unset($u);
     $u=json_decode($user, true, 512, JSON_OBJECT_AS_ARRAY);
