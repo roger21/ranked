@@ -1,5 +1,5 @@
 {
-    "date": 1791928201000,
+    "date": 1791928801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -210710,23 +210710,37 @@
         {
             "uuid": "a0a672a0bc194540bc195220dc170dba",
             "stats": {
-                "rank": 49,
-                "elo": 2048,
+                "rank": 50,
+                "elo": 2031,
                 "top": 2048,
                 "points": 3,
                 "pb": 450654,
-                "current": 9,
+                "current": 0,
                 "streak": 9,
-                "matches": 215,
-                "playtime": 135380838,
+                "matches": 216,
+                "playtime": 136133679,
                 "finished": 93,
                 "finishtime": 58160413,
                 "won": 109,
-                "lost": 90,
+                "lost": 91,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1791928902000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "70eb9286e3e24153a8b37c8f884f1292",
+                    "elo": 2031,
+                    "change": -17,
+                    "oelo": 2160,
+                    "ochange": 17,
+                    "time": 752841,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791790577000,
                     "type": "RUINED_PORTAL",
@@ -213742,7 +213756,7 @@
         {
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "stats": {
-                "rank": 50,
+                "rank": 49,
                 "elo": 2043,
                 "top": 2205,
                 "points": 3,
