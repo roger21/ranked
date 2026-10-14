@@ -1,5 +1,5 @@
 {
-    "date": 1791942601000,
+    "date": 1791943201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141179,22 +141179,36 @@
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "stats": {
                 "rank": 34,
-                "elo": 2106,
+                "elo": 2118,
                 "top": 2295,
                 "points": 40,
                 "pb": 410796,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 450,
-                "playtime": 242638893,
-                "finished": 229,
-                "finishtime": 128750039,
-                "won": 262,
+                "matches": 451,
+                "playtime": 243099296,
+                "finished": 230,
+                "finishtime": 129210442,
+                "won": 263,
                 "lost": 179,
                 "forfeited": 13
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1791942938000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "aa756a8da9784c16b9496f5f5fcaba09",
+                    "elo": 2118,
+                    "change": 12,
+                    "oelo": 1862,
+                    "ochange": -12,
+                    "time": 460403,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791942097000,
                     "type": "SHIPWRECK",
