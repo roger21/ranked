@@ -1,5 +1,5 @@
 {
-    "date": 1791977401000,
+    "date": 1791978001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -92922,7 +92922,7 @@
         {
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "stats": {
-                "rank": 22,
+                "rank": 23,
                 "elo": 2154,
                 "top": 2289,
                 "points": 16,
@@ -97088,7 +97088,7 @@
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "stats": {
-                "rank": 23,
+                "rank": 24,
                 "elo": 2148,
                 "top": 2295,
                 "points": 40,
@@ -103564,7 +103564,7 @@
         {
             "uuid": "048de51800794a208de7f01652513c32",
             "stats": {
-                "rank": 24,
+                "rank": 25,
                 "elo": 2145,
                 "top": 2198,
                 "points": 17,
@@ -110012,7 +110012,7 @@
         {
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "stats": {
-                "rank": 25,
+                "rank": 26,
                 "elo": 2143,
                 "top": 2183,
                 "points": 26,
@@ -112554,23 +112554,37 @@
         {
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "stats": {
-                "rank": 26,
-                "elo": 2136,
+                "rank": 22,
+                "elo": 2155,
                 "top": 2163,
                 "points": 19,
                 "pb": 422868,
-                "current": 1,
+                "current": 2,
                 "streak": 6,
-                "matches": 184,
-                "playtime": 102906885,
-                "finished": 90,
-                "finishtime": 51624805,
-                "won": 105,
+                "matches": 185,
+                "playtime": 103577343,
+                "finished": 91,
+                "finishtime": 52295263,
+                "won": 106,
                 "lost": 76,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1791978102000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "9649236873db4cb9b7bdc2dae693ed39",
+                    "elo": 2155,
+                    "change": 19,
+                    "oelo": 2101,
+                    "ochange": -19,
+                    "time": 670458,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791977146000,
                     "type": "SHIPWRECK",
@@ -140814,23 +140828,37 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 34,
-                "elo": 2120,
+                "rank": 35,
+                "elo": 2101,
                 "top": 2120,
                 "points": 6,
                 "pb": 400372,
-                "current": 6,
+                "current": 0,
                 "streak": 10,
-                "matches": 181,
-                "playtime": 105898845,
+                "matches": 182,
+                "playtime": 106569303,
                 "finished": 95,
                 "finishtime": 56247740,
                 "won": 101,
-                "lost": 69,
+                "lost": 70,
                 "forfeited": 1
             },
             "country": "jp",
             "matches": [
+                {
+                    "date": 1791978102000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "lost",
+                    "opponent": "25349f93cf194f3baeee93d024eccc21",
+                    "elo": 2101,
+                    "change": -19,
+                    "oelo": 2155,
+                    "ochange": 19,
+                    "time": 670458,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791977333000,
                     "type": "SHIPWRECK",
@@ -143286,7 +143314,7 @@
         {
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2105,
                 "top": 2163,
                 "points": 8,
