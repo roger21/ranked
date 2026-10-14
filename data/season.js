@@ -1,5 +1,5 @@
 {
-    "date": 1791964201000,
+    "date": 1791964801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -108508,7 +108508,7 @@
         {
             "uuid": "e811fb301b1a41ea81c1f481ea93c3be",
             "stats": {
-                "rank": 26,
+                "rank": 27,
                 "elo": 2134,
                 "top": 2168,
                 "points": 0,
@@ -110070,7 +110070,7 @@
         {
             "uuid": "be7a79f3331042f19c07230752b26725",
             "stats": {
-                "rank": 27,
+                "rank": 28,
                 "elo": 2131,
                 "top": 2131,
                 "points": 15,
@@ -111226,7 +111226,7 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2130,
                 "top": 2161,
                 "points": 0,
@@ -113320,7 +113320,7 @@
         {
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2130,
                 "top": 2133,
                 "points": 0,
@@ -121182,7 +121182,7 @@
         {
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2128,
                 "top": 2260,
                 "points": 23,
@@ -128176,7 +128176,7 @@
         {
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2127,
                 "top": 2138,
                 "points": 0,
@@ -135072,7 +135072,7 @@
         {
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2126,
                 "top": 2166,
                 "points": 27,
@@ -136690,7 +136690,7 @@
         {
             "uuid": "afee11f6ce2f4c6ab25a3b011127e71d",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2124,
                 "top": 2124,
                 "points": 5,
@@ -141220,23 +141220,37 @@
         {
             "uuid": "253b53d832ab4bafb5ee0308d5164ccf",
             "stats": {
-                "rank": 34,
-                "elo": 2117,
+                "rank": 26,
+                "elo": 2136,
                 "top": 2295,
                 "points": 40,
                 "pb": 397411,
-                "current": 1,
+                "current": 2,
                 "streak": 12,
-                "matches": 462,
-                "playtime": 249163812,
-                "finished": 235,
-                "finishtime": 131900088,
-                "won": 269,
+                "matches": 463,
+                "playtime": 249780090,
+                "finished": 236,
+                "finishtime": 132516366,
+                "won": 270,
                 "lost": 182,
                 "forfeited": 13
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1791964807000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "98cea324ee714d868b2ec1627f0f5762",
+                    "elo": 2136,
+                    "change": 19,
+                    "oelo": 2073,
+                    "ochange": -19,
+                    "time": 616278,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791964071000,
                     "type": "DESERT_TEMPLE",
@@ -179014,23 +179028,37 @@
         {
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "stats": {
-                "rank": 41,
-                "elo": 2092,
+                "rank": 45,
+                "elo": 2073,
                 "top": 2092,
                 "points": 11,
                 "pb": 438841,
-                "current": 5,
+                "current": 0,
                 "streak": 7,
-                "matches": 187,
-                "playtime": 111837754,
+                "matches": 188,
+                "playtime": 112454032,
                 "finished": 98,
                 "finishtime": 59554666,
                 "won": 105,
-                "lost": 78,
+                "lost": 79,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1791964807000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "253b53d832ab4bafb5ee0308d5164ccf",
+                    "elo": 2073,
+                    "change": -19,
+                    "oelo": 2136,
+                    "ochange": 19,
+                    "time": 616278,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1791854983000,
                     "type": "BURIED_TREASURE",
@@ -181598,7 +181626,7 @@
         {
             "uuid": "bcb0f43558d745ee977841180b121267",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2085,
                 "top": 2115,
                 "points": 9,
@@ -183902,7 +183930,7 @@
         {
             "uuid": "6d004cbff8f148b598d4f6a720c239f1",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2080,
                 "top": 2080,
                 "points": 0,
@@ -189552,7 +189580,7 @@
         {
             "uuid": "c9f3dc334bb84708911c611e94751b5a",
             "stats": {
-                "rank": 45,
+                "rank": 44,
                 "elo": 2076,
                 "top": 2205,
                 "points": 3,
