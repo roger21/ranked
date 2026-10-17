@@ -179,12 +179,12 @@
         },
         "pb": 384080,
         "streak": 13,
-        "matches": 10376,
-        "playtime": 5870014713,
+        "matches": 10377,
+        "playtime": 5870536336,
         "finished": 4006,
         "finishtime": 2551483416,
         "won": 5232,
-        "lost": 4915,
+        "lost": 4916,
         "forfeited": 1945
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -3936,7 +3936,7 @@
             "9": 2008,
             "10": 2101,
             "11": 2240,
-            "12": 2113
+            "12": 2130
         },
         "points": {
             "6": 0,
@@ -3949,11 +3949,11 @@
         },
         "pb": 392016,
         "streak": 12,
-        "matches": 2844,
-        "playtime": 1902879855,
-        "finished": 1107,
-        "finishtime": 809672972,
-        "won": 1469,
+        "matches": 2845,
+        "playtime": 1903398832,
+        "finished": 1108,
+        "finishtime": 810191949,
+        "won": 1470,
         "lost": 1291,
         "forfeited": 110
     },
@@ -5925,7 +5925,7 @@
             "5": 1551,
             "6": 1655,
             "11": 2486,
-            "12": 2166
+            "12": 2183
         },
         "points": {
             "3": 0,
@@ -5937,11 +5937,11 @@
         },
         "pb": 389640,
         "streak": 13,
-        "matches": 668,
-        "playtime": 377576478,
-        "finished": 342,
-        "finishtime": 203697167,
-        "won": 399,
+        "matches": 669,
+        "playtime": 378098101,
+        "finished": 343,
+        "finishtime": 204218790,
+        "won": 400,
         "lost": 241,
         "forfeited": 6
     },
@@ -6169,13 +6169,13 @@
         },
         "pb": 404855,
         "streak": 14,
-        "matches": 10576,
-        "playtime": 6692989004,
+        "matches": 10578,
+        "playtime": 6693808358,
         "finished": 3818,
         "finishtime": 2677308474,
         "won": 5284,
-        "lost": 4859,
-        "forfeited": 1223
+        "lost": 4861,
+        "forfeited": 1224
     },
     "d93d53f5b7bd4fdc970d67a772936c81": {
         "country": "be",
