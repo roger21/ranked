@@ -3023,13 +3023,13 @@
         },
         "pb": 395727,
         "streak": 13,
-        "matches": 8824,
-        "playtime": 5564762063,
+        "matches": 8825,
+        "playtime": 5565412411,
         "finished": 3282,
         "finishtime": 2310542388,
         "won": 4485,
-        "lost": 4009,
-        "forfeited": 847
+        "lost": 4010,
+        "forfeited": 848
     },
     "736dbdc44a3e452fa489f5344565835e": {
         "country": "nz",
@@ -6437,11 +6437,11 @@
         },
         "pb": 409746,
         "streak": 14,
-        "matches": 10667,
-        "playtime": 6485950778,
+        "matches": 10668,
+        "playtime": 6486601126,
         "finished": 4702,
         "finishtime": 3115947410,
-        "won": 5682,
+        "won": 5683,
         "lost": 4823,
         "forfeited": 1129
     },
