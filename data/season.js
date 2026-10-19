@@ -1,5 +1,5 @@
 {
-    "date": 1792373402000,
+    "date": 1792374001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -209797,22 +209797,36 @@
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "stats": {
                 "rank": 45,
-                "elo": 2080,
-                "top": 2088,
+                "elo": 2094,
+                "top": 2094,
                 "points": 0,
                 "pb": 413478,
-                "current": 1,
+                "current": 2,
                 "streak": 7,
-                "matches": 215,
-                "playtime": 111140616,
+                "matches": 216,
+                "playtime": 111709197,
                 "finished": 102,
                 "finishtime": 56365299,
-                "won": 114,
+                "won": 115,
                 "lost": 93,
                 "forfeited": 32
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1792373914000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "71c9bd85da3549c28e70e981debcd40e",
+                    "elo": 2094,
+                    "change": 14,
+                    "oelo": 1909,
+                    "ochange": -14,
+                    "time": 568581,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1792372627000,
                     "type": "SHIPWRECK",
