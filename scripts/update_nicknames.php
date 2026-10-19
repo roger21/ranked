@@ -31,7 +31,7 @@
                            " uuid {$uuid} nick {$nick}\n\n";
       $nicks[$uuid]=$nick;
       echo "(".(++$request_counter).
-              ") uuid {$uuid} error -> oldnick {$nick}\n";
+              ") uuid {$uuid} ERROR oldnick {$nick}\n\n";
       continue;
     }
     unset($u);
@@ -39,8 +39,8 @@
     $newnick=$u["name"];
     $nicks[$uuid]=$newnick;
     if($nick !== $newnick){
-      echo "(".(++$request_counter).
-              ") uuid {$uuid} oldnick {$nick} newnick {$newnick}\n";
+      echo "\n(".(++$request_counter).
+              ") uuid {$uuid} oldnick {$nick} NEWNICK {$newnick}\n\n";
     }else{
       echo "(".(++$request_counter).
               ") uuid {$uuid} samenick {$newnick}\n";
