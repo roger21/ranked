@@ -1,5 +1,5 @@
 {
-    "date": 1792488601000,
+    "date": 1792489201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30950,34 +30950,6 @@
                     "oelo": 1627,
                     "ochange": 22,
                     "time": 300398,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1788169058000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "b140bbd0317d4eba89d34288f1b8f0c7",
-                    "elo": 1655,
-                    "change": -19,
-                    "oelo": 1717,
-                    "ochange": 19,
-                    "time": 331027,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1788168672000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "6135d13bce2841f8b7e8d37d91c6edfe",
-                    "elo": 1674,
-                    "change": 16,
-                    "oelo": 1544,
-                    "ochange": -16,
-                    "time": 406735,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -181837,20 +181809,6 @@
                     "ochange": 0,
                     "time": 592219,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788169058000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
-                    "elo": 1717,
-                    "change": 19,
-                    "oelo": 1655,
-                    "ochange": -19,
-                    "time": 331027,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
