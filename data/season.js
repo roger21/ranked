@@ -1,5 +1,5 @@
 {
-    "date": 1792489201000,
+    "date": 1792489801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -30936,20 +30936,6 @@
                     "oelo": 1643,
                     "ochange": 0,
                     "time": 687158,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1788169414000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "97559a8303d44690b85db9e1e1f6764f",
-                    "elo": 1633,
-                    "change": -22,
-                    "oelo": 1627,
-                    "ochange": 22,
-                    "time": 300398,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -199131,14 +199117,14 @@
             "uuid": "f0103fdd182548828ba66883fdd05214",
             "stats": {
                 "rank": 47,
-                "elo": 2053,
+                "elo": 2052,
                 "top": 2102,
                 "points": 0,
                 "pb": 406254,
                 "current": 1,
                 "streak": 7,
-                "matches": 366,
-                "playtime": 207685162,
+                "matches": 367,
+                "playtime": 208467336,
                 "finished": 156,
                 "finishtime": 87769338,
                 "won": 181,
@@ -199147,6 +199133,20 @@
             },
             "country": "cx",
             "matches": [
+                {
+                    "date": 1792489521000,
+                    "type": "SHIPWRECK",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "0bc23c265fd244e6aa3b786ddd022dc3",
+                    "elo": 2052,
+                    "change": -1,
+                    "oelo": 1944,
+                    "ochange": 1,
+                    "time": 782174,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1792488109000,
                     "type": "VILLAGE",
