@@ -1,5 +1,5 @@
 {
-    "date": 1792632601000,
+    "date": 1792633201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -14552,20 +14552,6 @@
                     "oelo": 1686,
                     "ochange": 26,
                     "time": 558618,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788312713000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "b140bbd0317d4eba89d34288f1b8f0c7",
-                    "elo": 1836,
-                    "change": -24,
-                    "oelo": 1768,
-                    "ochange": 24,
-                    "time": 482847,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -102502,20 +102488,6 @@
                     "time": 528873,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1788312713000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "2ef2bfed3d084649b56290328970ace9",
-                    "elo": 1768,
-                    "change": 24,
-                    "oelo": 1836,
-                    "ochange": -24,
-                    "time": 482847,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168470,8 +168442,8 @@
         {
             "uuid": "afee11f6ce2f4c6ab25a3b011127e71d",
             "stats": {
-                "rank": 40,
-                "elo": 2119,
+                "rank": 41,
+                "elo": 2114,
                 "top": 2124,
                 "points": 5,
                 "pb": 474254,
@@ -168487,6 +168459,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1792633201000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2114,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1792546799000,
                     "type": null,
@@ -173014,7 +173000,7 @@
         {
             "uuid": "0dd89d0a88244af69877bee47153db3a",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2117,
                 "top": 2117,
                 "points": 0,
