@@ -1,5 +1,5 @@
 {
-    "date": 1792680601000,
+    "date": 1792681201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -178328,20 +178328,6 @@
                     "time": 586917,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1788360740000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "410e5776b03a424d8740557bac2d9014",
-                    "elo": 1674,
-                    "change": 23,
-                    "oelo": 1706,
-                    "ochange": -23,
-                    "time": 808590,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -194802,23 +194788,37 @@
         {
             "uuid": "23e7466f0a1b4597bf89c17d53c4d0ae",
             "stats": {
-                "rank": 45,
-                "elo": 2091,
+                "rank": 46,
+                "elo": 2077,
                 "top": 2288,
                 "points": 9,
                 "pb": 418891,
                 "current": 0,
                 "streak": 8,
-                "matches": 665,
-                "playtime": 370048388,
+                "matches": 666,
+                "playtime": 370604099,
                 "finished": 302,
                 "finishtime": 177874133,
                 "won": 336,
-                "lost": 303,
+                "lost": 304,
                 "forfeited": 55
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1792681226000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
+                    "elo": 2077,
+                    "change": -14,
+                    "oelo": 2290,
+                    "ochange": 14,
+                    "time": 555711,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1792680588000,
                     "type": "RUINED_PORTAL",
@@ -203336,7 +203336,7 @@
         {
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "stats": {
-                "rank": 46,
+                "rank": 45,
                 "elo": 2078,
                 "top": 2078,
                 "points": 6,
