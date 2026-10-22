@@ -3681,13 +3681,13 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 10245,
-        "playtime": 5909758565,
+        "matches": 10246,
+        "playtime": 5910010473,
         "finished": 3860,
         "finishtime": 2611238985,
         "won": 5141,
-        "lost": 4808,
-        "forfeited": 2370
+        "lost": 4809,
+        "forfeited": 2371
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "country": "vn",
