@@ -1,5 +1,5 @@
 {
-    "date": 1792999201000,
+    "date": 1792999801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -9261,22 +9261,36 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "stats": {
                 "rank": 3,
-                "elo": 2432,
+                "elo": 2438,
                 "top": 2441,
                 "points": 42,
                 "pb": 375933,
-                "current": 4,
+                "current": 5,
                 "streak": 18,
-                "matches": 432,
-                "playtime": 239292084,
-                "finished": 254,
-                "finishtime": 143184849,
-                "won": 277,
+                "matches": 433,
+                "playtime": 239797988,
+                "finished": 255,
+                "finishtime": 143690753,
+                "won": 278,
                 "lost": 148,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1792999596000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
+                    "elo": 2438,
+                    "change": 6,
+                    "oelo": 1961,
+                    "ochange": -6,
+                    "time": 505904,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1792998403000,
                     "type": "RUINED_PORTAL",
@@ -33697,7 +33711,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "stats": {
                 "rank": 9,
-                "elo": 2343,
+                "elo": 2338,
                 "top": 2343,
                 "points": 29,
                 "pb": 426724,
@@ -33713,6 +33727,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1792999269000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2338,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1792363047000,
                     "type": "BURIED_TREASURE",
