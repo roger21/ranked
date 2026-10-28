@@ -1,5 +1,5 @@
 {
-    "date": 1793173801000,
+    "date": 1793174401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -19483,22 +19483,36 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "stats": {
                 "rank": 5,
-                "elo": 2419,
+                "elo": 2426,
                 "top": 2479,
                 "points": 42,
                 "pb": 375933,
-                "current": 0,
+                "current": 1,
                 "streak": 18,
-                "matches": 459,
-                "playtime": 254011466,
-                "finished": 272,
-                "finishtime": 153250931,
-                "won": 296,
+                "matches": 460,
+                "playtime": 254586262,
+                "finished": 273,
+                "finishtime": 153825727,
+                "won": 297,
                 "lost": 155,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1793174390000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "addd890764404097b3f12acdde2adf33",
+                    "elo": 2426,
+                    "change": 7,
+                    "oelo": 1983,
+                    "ochange": -7,
+                    "time": 574796,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793172866000,
                     "type": "SHIPWRECK",
