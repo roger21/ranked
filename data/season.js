@@ -1,5 +1,5 @@
 {
-    "date": 1793178601000,
+    "date": 1793179201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -24839,22 +24839,36 @@
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
             "stats": {
                 "rank": 6,
-                "elo": 2370,
+                "elo": 2379,
                 "top": 2479,
                 "points": 42,
                 "pb": 375933,
-                "current": 0,
+                "current": 1,
                 "streak": 18,
-                "matches": 462,
-                "playtime": 255707361,
-                "finished": 273,
-                "finishtime": 153825727,
-                "won": 297,
+                "matches": 463,
+                "playtime": 256236299,
+                "finished": 274,
+                "finishtime": 154354665,
+                "won": 298,
                 "lost": 157,
                 "forfeited": 0
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1793178743000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "dacf61a7b4f74f9cb83512d7f2fe88a9",
+                    "elo": 2379,
+                    "change": 9,
+                    "oelo": 2011,
+                    "ochange": -9,
+                    "time": 528938,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793177119000,
                     "type": "DESERT_TEMPLE",
