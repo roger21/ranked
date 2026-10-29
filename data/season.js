@@ -1,5 +1,5 @@
 {
-    "date": 1793267401000,
+    "date": 1793268001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -42931,22 +42931,36 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
                 "rank": 10,
-                "elo": 2369,
-                "top": 2370,
+                "elo": 2380,
+                "top": 2380,
                 "points": 30,
                 "pb": 407068,
-                "current": 3,
+                "current": 4,
                 "streak": 9,
-                "matches": 301,
-                "playtime": 162946617,
-                "finished": 162,
-                "finishtime": 92646071,
-                "won": 182,
+                "matches": 302,
+                "playtime": 163544139,
+                "finished": 163,
+                "finishtime": 93243593,
+                "won": 183,
                 "lost": 115,
                 "forfeited": 16
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1793267817000,
+                    "type": "VILLAGE",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "9589914cf31a420bbcb07cd0768eec28",
+                    "elo": 2380,
+                    "change": 11,
+                    "oelo": 2098,
+                    "ochange": -11,
+                    "time": 597522,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793266738000,
                     "type": "RUINED_PORTAL",
