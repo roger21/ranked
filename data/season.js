@@ -1,5 +1,5 @@
 {
-    "date": 1793262001000,
+    "date": 1793262601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10470,20 +10470,6 @@
                     "oelo": 1717,
                     "ochange": -12,
                     "time": 536175,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788942368000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "373fddb563124e13b043ea9c571595cd",
-                    "elo": 1948,
-                    "change": 13,
-                    "oelo": 1707,
-                    "ochange": -13,
-                    "time": 582848,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -65320,23 +65306,37 @@
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
-                "rank": 14,
-                "elo": 2309,
+                "rank": 12,
+                "elo": 2322,
                 "top": 2370,
                 "points": 30,
                 "pb": 407068,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 295,
-                "playtime": 159834569,
-                "finished": 158,
-                "finishtime": 90375154,
-                "won": 177,
+                "matches": 296,
+                "playtime": 160418655,
+                "finished": 159,
+                "finishtime": 90959240,
+                "won": 178,
                 "lost": 114,
                 "forfeited": 16
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1793262623000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "98cea324ee714d868b2ec1627f0f5762",
+                    "elo": 2322,
+                    "change": 13,
+                    "oelo": 2088,
+                    "ochange": -13,
+                    "time": 584086,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793261841000,
                     "type": "DESERT_TEMPLE",
@@ -91750,20 +91750,6 @@
                     "oelo": 1960,
                     "ochange": 12,
                     "time": 536175,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1788942110000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "e567a66ba99c4729873093c21e667ed0",
-                    "elo": 1729,
-                    "change": -24,
-                    "oelo": 1677,
-                    "ochange": 24,
-                    "time": 609661,
                     "forfeited": false,
                     "decayed": false
                 }
