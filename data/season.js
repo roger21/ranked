@@ -1,5 +1,5 @@
 {
-    "date": 1793344801000,
+    "date": 1793345401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -53832,20 +53832,6 @@
                     "time": 560251,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789024843000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "97559a8303d44690b85db9e1e1f6764f",
-                    "elo": 1760,
-                    "change": 17,
-                    "oelo": 1644,
-                    "ochange": -17,
-                    "time": 544943,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -57599,7 +57585,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "stats": {
                 "rank": 13,
-                "elo": 2323,
+                "elo": 2318,
                 "top": 2343,
                 "points": 50,
                 "pb": 426724,
@@ -57615,6 +57601,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1793344880000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2318,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1793258477000,
                     "type": null,
@@ -112024,20 +112024,6 @@
                     "oelo": 1552,
                     "ochange": -13,
                     "time": 571734,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789024937000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "abfa366baf394d1ab6358b91279a3d7e",
-                    "elo": 1752,
-                    "change": 16,
-                    "oelo": 1611,
-                    "ochange": -16,
-                    "time": 508939,
                     "forfeited": false,
                     "decayed": false
                 }
