@@ -1,5 +1,5 @@
 {
-    "date": 1793341801000,
+    "date": 1793342401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -53900,20 +53900,6 @@
                     "oelo": 1591,
                     "ochange": 27,
                     "time": 587416,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789021925000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "373fddb563124e13b043ea9c571595cd",
-                    "elo": 1778,
-                    "change": -22,
-                    "oelo": 1773,
-                    "ochange": 22,
-                    "time": 459222,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -190432,7 +190418,7 @@
         {
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2216,
                 "top": 2343,
                 "points": 31,
@@ -198994,23 +198980,37 @@
         {
             "uuid": "f0103fdd182548828ba66883fdd05214",
             "stats": {
-                "rank": 37,
-                "elo": 2201,
+                "rank": 35,
+                "elo": 2218,
                 "top": 2239,
                 "points": 9,
                 "pb": 406254,
-                "current": 2,
+                "current": 3,
                 "streak": 8,
-                "matches": 543,
-                "playtime": 301527866,
-                "finished": 230,
-                "finishtime": 128895802,
-                "won": 266,
+                "matches": 544,
+                "playtime": 302018032,
+                "finished": 231,
+                "finishtime": 129385968,
+                "won": 267,
                 "lost": 228,
                 "forfeited": 32
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1793342409000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "5cd115f0ec1240659db152406c0984a3",
+                    "elo": 2218,
+                    "change": 17,
+                    "oelo": 2095,
+                    "ochange": -17,
+                    "time": 490166,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793323023000,
                     "type": "BURIED_TREASURE",
