@@ -1,5 +1,5 @@
 {
-    "date": 1793459401000,
+    "date": 1793460001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -77972,20 +77972,6 @@
                     "time": 596509,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789139940000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "afee11f6ce2f4c6ab25a3b011127e71d",
-                    "elo": 1825,
-                    "change": 19,
-                    "oelo": 1753,
-                    "ochange": -19,
-                    "time": 485198,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -83872,20 +83858,6 @@
                     "oelo": 1821,
                     "ochange": -24,
                     "time": 804774,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789139711000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "bdb7f407200d4882b78e656ca161bddf",
-                    "elo": 1737,
-                    "change": 20,
-                    "oelo": 1694,
-                    "ochange": -20,
-                    "time": 564101,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -126707,20 +126679,6 @@
                     "ochange": 18,
                     "time": 540248,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789139482000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "d1718c79c34e4bce93cd688ac5254b58",
-                    "elo": 1958,
-                    "change": -28,
-                    "oelo": 1795,
-                    "ochange": 28,
-                    "time": 441053,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -189636,20 +189594,6 @@
                     "time": 704083,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789139480000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "7f93d3e698cd4d648accc2a4d46ce119",
-                    "elo": 1798,
-                    "change": -18,
-                    "oelo": 1890,
-                    "ochange": 18,
-                    "time": 554984,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -220666,35 +220610,21 @@
                     "time": 804774,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789139793000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "85fd62c21c094f1e8fa322d997b46ef2",
-                    "elo": 1845,
-                    "change": 15,
-                    "oelo": 1675,
-                    "ochange": -15,
-                    "time": 692214,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "stats": {
-                "rank": 42,
-                "elo": 2163,
+                "rank": 43,
+                "elo": 2161,
                 "top": 2297,
                 "points": 0,
                 "pb": 371487,
                 "current": 1,
                 "streak": 9,
-                "matches": 244,
-                "playtime": 135510714,
+                "matches": 245,
+                "playtime": 135804069,
                 "finished": 129,
                 "finishtime": 71748857,
                 "won": 141,
@@ -220703,6 +220633,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1793459622000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "draw",
+                    "opponent": "8826e1e6d21b46ecbc5d5246b836f36a",
+                    "elo": 2161,
+                    "change": -2,
+                    "oelo": 2013,
+                    "ochange": 2,
+                    "time": 293355,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1793458917000,
                     "type": "VILLAGE",
@@ -239900,20 +239844,6 @@
                     "oelo": 1698,
                     "ochange": 23,
                     "time": 566013,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789139940000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "388533d5a2ad4b349a31db4738670a4b",
-                    "elo": 1753,
-                    "change": -19,
-                    "oelo": 1825,
-                    "ochange": 19,
-                    "time": 485198,
                     "forfeited": false,
                     "decayed": false
                 }
