@@ -1,5 +1,5 @@
 {
-    "date": 1793440801000,
+    "date": 1793441401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -83874,20 +83874,6 @@
                     "time": 762622,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789121229000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "f55a7e31e65a453e941ebec79cd39992",
-                    "elo": 1897,
-                    "change": 20,
-                    "oelo": 1859,
-                    "ochange": -20,
-                    "time": 576915,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -97757,22 +97743,36 @@
             "uuid": "553414a2c89b4d6b8c0ba5bd89284508",
             "stats": {
                 "rank": 19,
-                "elo": 2275,
+                "elo": 2288,
                 "top": 2428,
                 "points": 56,
                 "pb": 397236,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 757,
-                "playtime": 409821344,
-                "finished": 394,
-                "finishtime": 225393798,
-                "won": 438,
+                "matches": 758,
+                "playtime": 410356358,
+                "finished": 395,
+                "finishtime": 225928812,
+                "won": 439,
                 "lost": 312,
                 "forfeited": 72
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1793441055000,
+                    "type": "VILLAGE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "fe6771646c5d43c1b713023fb69c10c6",
+                    "elo": 2288,
+                    "change": 13,
+                    "oelo": 2053,
+                    "ochange": -13,
+                    "time": 535014,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793440010000,
                     "type": "VILLAGE",
@@ -106318,7 +106318,7 @@
         {
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "stats": {
-                "rank": 19,
+                "rank": 20,
                 "elo": 2275,
                 "top": 2275,
                 "points": 12,
@@ -143597,20 +143597,6 @@
                     "ochange": -15,
                     "time": 298628,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1789121172000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "373fddb563124e13b043ea9c571595cd",
-                    "elo": 1775,
-                    "change": -21,
-                    "oelo": 1798,
-                    "ochange": 21,
-                    "time": 612027,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -216660,20 +216646,6 @@
                     "oelo": 1769,
                     "ochange": -21,
                     "time": 545586,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789121328000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "705ff5b5ce4f42709507aac394c02191",
-                    "elo": 1749,
-                    "change": 13,
-                    "oelo": 1526,
-                    "ochange": -13,
-                    "time": 514125,
                     "forfeited": false,
                     "decayed": false
                 }
