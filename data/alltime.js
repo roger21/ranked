@@ -179,11 +179,11 @@
         },
         "pb": 384080,
         "streak": 13,
-        "matches": 10820,
-        "playtime": 6102234511,
-        "finished": 4207,
-        "finishtime": 2667483292,
-        "won": 5466,
+        "matches": 10821,
+        "playtime": 6102819923,
+        "finished": 4208,
+        "finishtime": 2668068704,
+        "won": 5467,
         "lost": 5120,
         "forfeited": 2019
     },
@@ -255,12 +255,12 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 9646,
-        "playtime": 6488006935,
+        "matches": 9647,
+        "playtime": 6488592347,
         "finished": 3317,
         "finishtime": 2391597249,
         "won": 4641,
-        "lost": 4363,
+        "lost": 4364,
         "forfeited": 392
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
@@ -3671,13 +3671,13 @@
         },
         "pb": 444127,
         "streak": 10,
-        "matches": 5518,
-        "playtime": 3676598440,
+        "matches": 5519,
+        "playtime": 3676808620,
         "finished": 1705,
         "finishtime": 1352274502,
         "won": 2709,
-        "lost": 2546,
-        "forfeited": 791
+        "lost": 2547,
+        "forfeited": 792
     },
     "8393e90d9dd94a3eb838146a5ae5b724": {
         "country": "jp",
@@ -3701,13 +3701,13 @@
         },
         "pb": 404297,
         "streak": 14,
-        "matches": 10429,
-        "playtime": 6009924595,
+        "matches": 10430,
+        "playtime": 6010376739,
         "finished": 3937,
         "finishtime": 2657864181,
         "won": 5230,
-        "lost": 4897,
-        "forfeited": 2401
+        "lost": 4898,
+        "forfeited": 2402
     },
     "849c693ddbd74a39b7d7d2025667afa6": {
         "country": "vn",
@@ -6679,13 +6679,13 @@
         },
         "pb": 402193,
         "streak": 11,
-        "matches": 7973,
-        "playtime": 4688101746,
+        "matches": 7974,
+        "playtime": 4688736772,
         "finished": 2795,
         "finishtime": 1917661021,
         "won": 3924,
-        "lost": 3768,
-        "forfeited": 1860
+        "lost": 3769,
+        "forfeited": 1861
     },
     "f0103fdd182548828ba66883fdd05214": {
         "country": "au",
