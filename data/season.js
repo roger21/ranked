@@ -1,5 +1,5 @@
 {
-    "date": 1793525401000,
+    "date": 1793526001000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -30567,20 +30567,6 @@
                     "ochange": -15,
                     "time": 577619,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789205413000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "0debdc275a1445ebadde83dd8c0c8c5d",
-                    "elo": 1779,
-                    "change": 16,
-                    "oelo": 1648,
-                    "ochange": -16,
-                    "time": 250241,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -162476,7 +162462,7 @@
         {
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2215,
                 "top": 2215,
                 "points": 11,
@@ -167594,7 +167580,7 @@
         {
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2215,
                 "top": 2245,
                 "points": 15,
@@ -171914,7 +171900,7 @@
         {
             "uuid": "64858295eb754646b03caead840391a2",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2212,
                 "top": 2268,
                 "points": 17,
@@ -174708,7 +174694,7 @@
         {
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2203,
                 "top": 2301,
                 "points": 42,
@@ -176284,23 +176270,37 @@
         {
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "stats": {
-                "rank": 35,
-                "elo": 2201,
+                "rank": 31,
+                "elo": 2217,
                 "top": 2243,
                 "points": 15,
                 "pb": 434391,
-                "current": 0,
+                "current": 1,
                 "streak": 9,
-                "matches": 603,
-                "playtime": 331988555,
-                "finished": 275,
-                "finishtime": 163210574,
-                "won": 316,
+                "matches": 604,
+                "playtime": 332892373,
+                "finished": 276,
+                "finishtime": 164114392,
+                "won": 317,
                 "lost": 272,
                 "forfeited": 69
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1793526048000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
+                    "elo": 2217,
+                    "change": 16,
+                    "oelo": 2071,
+                    "ochange": -16,
+                    "time": 903818,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793374963000,
                     "type": "SHIPWRECK",
@@ -225194,20 +225194,6 @@
                     "oelo": 2023,
                     "ochange": 12,
                     "time": 591860,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789205673000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "40c422d462fe45e287d74f1da77eaf3e",
-                    "elo": 1791,
-                    "change": 19,
-                    "oelo": 1720,
-                    "ochange": -19,
-                    "time": 555128,
                     "forfeited": false,
                     "decayed": false
                 }
