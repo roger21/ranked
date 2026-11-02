@@ -1,5 +1,5 @@
 {
-    "date": 1793623801000,
+    "date": 1793624401000,
     "players": [
         {
             "uuid": "a54e3bc4c6354b07a236b81efbcfe791",
@@ -75562,20 +75562,6 @@
                     "oelo": 1672,
                     "ochange": -18,
                     "time": 551043,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789304221000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "696972fe3e214bffb31ca6c7915acd20",
-                    "elo": 1756,
-                    "change": 18,
-                    "oelo": 1678,
-                    "ochange": -18,
-                    "time": 491391,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -207020,23 +207006,37 @@
         {
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "stats": {
-                "rank": 41,
-                "elo": 2186,
+                "rank": 42,
+                "elo": 2175,
                 "top": 2343,
                 "points": 31,
                 "pb": 395739,
-                "current": 1,
+                "current": 0,
                 "streak": 11,
-                "matches": 854,
-                "playtime": 499989945,
+                "matches": 855,
+                "playtime": 500577126,
                 "finished": 411,
                 "finishtime": 244247222,
                 "won": 448,
-                "lost": 384,
+                "lost": 385,
                 "forfeited": 2
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1793624436000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "ac601ce7376f49cea7ce14cd577dac85",
+                    "elo": 2175,
+                    "change": -11,
+                    "oelo": 2466,
+                    "ochange": 11,
+                    "time": 587181,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793623712000,
                     "type": "SHIPWRECK",
@@ -215806,7 +215806,7 @@
         {
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2181,
                 "top": 2300,
                 "points": 18,
@@ -227652,27 +227652,13 @@
                     "time": 241028,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1789304303000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "350579d3e06341a0997ac47a91f2ac98",
-                    "elo": 1763,
-                    "change": 18,
-                    "oelo": 1679,
-                    "ochange": -18,
-                    "time": 355368,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
         {
             "uuid": "c41b14ac0f1547aeb7690276d82aa458",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2175,
                 "top": 2175,
                 "points": 9,
@@ -237928,7 +237914,7 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 43,
+                "rank": 42,
                 "elo": 2175,
                 "top": 2175,
                 "points": 11,
