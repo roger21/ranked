@@ -1,5 +1,5 @@
 {
-    "date": 1793643601000,
+    "date": 1793644201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -252375,20 +252375,6 @@
                     "ochange": 17,
                     "time": 505019,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789323791000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "2e4fbe60568549f7a6666e1ced1ae385",
-                    "elo": 1647,
-                    "change": -18,
-                    "oelo": 1727,
-                    "ochange": 18,
-                    "time": 222324,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
