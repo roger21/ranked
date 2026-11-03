@@ -1,5 +1,5 @@
 {
-    "date": 1793679601000,
+    "date": 1793680201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -99602,20 +99602,6 @@
                     "time": 470756,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789360006000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "draw",
-                    "opponent": "be4ad7e999e14a74974d47ac650062a3",
-                    "elo": 1775,
-                    "change": 2,
-                    "oelo": 1966,
-                    "ochange": -2,
-                    "time": 473203,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -125044,23 +125030,37 @@
         {
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "stats": {
-                "rank": 28,
-                "elo": 2241,
+                "rank": 35,
+                "elo": 2213,
                 "top": 2241,
                 "points": 19,
                 "pb": 437793,
-                "current": 3,
+                "current": 0,
                 "streak": 11,
-                "matches": 737,
-                "playtime": 423918140,
+                "matches": 738,
+                "playtime": 424408903,
                 "finished": 362,
                 "finishtime": 221500867,
                 "won": 392,
-                "lost": 339,
+                "lost": 340,
                 "forfeited": 76
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1793680245000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "1ad3ce1d756144e2b967299789c28030",
+                    "elo": 2213,
+                    "change": -28,
+                    "oelo": 2050,
+                    "ochange": 28,
+                    "time": 490763,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793598771000,
                     "type": "VILLAGE",
@@ -133452,7 +133452,7 @@
         {
             "uuid": "b516d1d18261467bbb6f447f0c111be7",
             "stats": {
-                "rank": 29,
+                "rank": 28,
                 "elo": 2237,
                 "top": 2307,
                 "points": 16,
@@ -138920,7 +138920,7 @@
         {
             "uuid": "05e776cf6ba44967adc596119cf73502",
             "stats": {
-                "rank": 30,
+                "rank": 29,
                 "elo": 2231,
                 "top": 2231,
                 "points": 0,
@@ -141406,7 +141406,7 @@
         {
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "stats": {
-                "rank": 31,
+                "rank": 30,
                 "elo": 2230,
                 "top": 2336,
                 "points": 24,
@@ -149968,7 +149968,7 @@
         {
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2225,
                 "top": 2488,
                 "points": 44,
@@ -155198,7 +155198,7 @@
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "stats": {
-                "rank": 32,
+                "rank": 31,
                 "elo": 2225,
                 "top": 2440,
                 "points": 88,
@@ -156858,7 +156858,7 @@
         {
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2218,
                 "top": 2418,
                 "points": 35,
@@ -173792,7 +173792,7 @@
         {
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2217,
                 "top": 2243,
                 "points": 15,
