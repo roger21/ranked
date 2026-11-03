@@ -1,5 +1,5 @@
 {
-    "date": 1793727001000,
+    "date": 1793727601000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -66232,20 +66232,6 @@
                     "time": 688522,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789407390000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
-                    "elo": 1797,
-                    "change": -13,
-                    "oelo": 2039,
-                    "ochange": 13,
-                    "time": 576898,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -118636,20 +118622,6 @@
                     "oelo": 1985,
                     "ochange": 23,
                     "time": 552182,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789407390000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "048de51800794a208de7f01652513c32",
-                    "elo": 2039,
-                    "change": 13,
-                    "oelo": 1797,
-                    "ochange": -13,
-                    "time": 576898,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -204904,20 +204876,6 @@
                     "time": 496153,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789407305000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "9cf439ca72254263baf97e491e944bd5",
-                    "elo": 1701,
-                    "change": 19,
-                    "oelo": 1623,
-                    "ochange": -19,
-                    "time": 630806,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -231938,7 +231896,7 @@
         {
             "uuid": "849c693ddbd74a39b7d7d2025667afa6",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2165,
                 "top": 2165,
                 "points": 0,
@@ -235572,7 +235530,7 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2164,
                 "top": 2225,
                 "points": 0,
@@ -237652,7 +237610,7 @@
         {
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2163,
                 "top": 2191,
                 "points": 7,
@@ -243254,27 +243212,13 @@
                     "time": 536144,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789407517000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "c9f3dc334bb84708911c611e94751b5a",
-                    "elo": 1808,
-                    "change": 25,
-                    "oelo": 1884,
-                    "ochange": -25,
-                    "time": 422776,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
         {
             "uuid": "05e776cf6ba44967adc596119cf73502",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2159,
                 "top": 2235,
                 "points": 0,
@@ -245858,7 +245802,7 @@
         {
             "uuid": "be7a79f3331042f19c07230752b26725",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2158,
                 "top": 2205,
                 "points": 23,
