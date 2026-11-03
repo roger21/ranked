@@ -1,5 +1,5 @@
 {
-    "date": 1793685601000,
+    "date": 1793686201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -25532,23 +25532,37 @@
         {
             "uuid": "4cf401d7b9474756b06a653867d22fca",
             "stats": {
-                "rank": 7,
-                "elo": 2396,
+                "rank": 8,
+                "elo": 2367,
                 "top": 2437,
                 "points": 67,
                 "pb": 341507,
-                "current": 1,
+                "current": 0,
                 "streak": 10,
-                "matches": 542,
-                "playtime": 283510201,
+                "matches": 543,
+                "playtime": 284050412,
                 "finished": 296,
                 "finishtime": 163281566,
                 "won": 336,
-                "lost": 196,
-                "forfeited": 49
+                "lost": 197,
+                "forfeited": 50
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1793686210000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
+                    "elo": 2367,
+                    "change": -29,
+                    "oelo": 2150,
+                    "ochange": 29,
+                    "time": 540211,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1793685596000,
                     "type": "DESERT_TEMPLE",
@@ -31140,7 +31154,7 @@
         {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "stats": {
-                "rank": 8,
+                "rank": 7,
                 "elo": 2379,
                 "top": 2438,
                 "points": 58,
@@ -247258,7 +247272,7 @@
         {
             "uuid": "373fddb563124e13b043ea9c571595cd",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2136,
                 "top": 2152,
                 "points": 3,
