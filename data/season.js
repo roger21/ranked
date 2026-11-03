@@ -1,5 +1,5 @@
 {
-    "date": 1793725201000,
+    "date": 1793725801000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -34026,20 +34026,6 @@
                     "time": 525257,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789405456000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
-                    "elo": 2010,
-                    "change": -20,
-                    "oelo": 2051,
-                    "ochange": 20,
-                    "time": 713965,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -66260,20 +66246,6 @@
                     "time": 695278,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789405272000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "5ee577fdc1af45d3a6fb3e086cc293fb",
-                    "elo": 1826,
-                    "change": -22,
-                    "oelo": 1804,
-                    "ochange": 22,
-                    "time": 525516,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -73714,20 +73686,6 @@
                     "oelo": 1737,
                     "ochange": 21,
                     "time": 538835,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789405590000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "3d0359ab82024082a3204b0e5335674e",
-                    "elo": 1734,
-                    "change": -20,
-                    "oelo": 1767,
-                    "ochange": 20,
-                    "time": 579565,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -120408,20 +120366,6 @@
                     "oelo": 1929,
                     "ochange": 25,
                     "time": 443125,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789405456000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "4cf401d7b9474756b06a653867d22fca",
-                    "elo": 2051,
-                    "change": 20,
-                    "oelo": 2010,
-                    "ochange": -20,
-                    "time": 713965,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -243393,20 +243337,6 @@
                     "ochange": -2,
                     "time": 791176,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1789405272000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "048de51800794a208de7f01652513c32",
-                    "elo": 1804,
-                    "change": 22,
-                    "oelo": 1826,
-                    "ochange": -22,
-                    "time": 525516,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
