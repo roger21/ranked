@@ -2299,13 +2299,13 @@
         },
         "pb": 399681,
         "streak": 12,
-        "matches": 11115,
-        "playtime": 6585004655,
+        "matches": 11116,
+        "playtime": 6585214760,
         "finished": 4056,
         "finishtime": 2657439760,
         "won": 5289,
-        "lost": 5089,
-        "forfeited": 1484
+        "lost": 5090,
+        "forfeited": 1485
     },
     "529c478ae270415ba12044771a99249a": {
         "country": "in",
