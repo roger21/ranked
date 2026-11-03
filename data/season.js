@@ -1,5 +1,5 @@
 {
-    "date": 1793747401000,
+    "date": 1793748001000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -82539,22 +82539,36 @@
             "uuid": "3b01d4b4fef14f178b75f05c04dd34ef",
             "stats": {
                 "rank": 19,
-                "elo": 2277,
+                "elo": 2289,
                 "top": 2448,
                 "points": 88,
                 "pb": 388989,
-                "current": 4,
+                "current": 5,
                 "streak": 11,
-                "matches": 1139,
-                "playtime": 624075402,
-                "finished": 565,
-                "finishtime": 321515942,
-                "won": 652,
+                "matches": 1140,
+                "playtime": 624548483,
+                "finished": 566,
+                "finishtime": 321989023,
+                "won": 653,
                 "lost": 477,
                 "forfeited": 31
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1793747483000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "59f81e4943014bffa80513d56de77728",
+                    "elo": 2289,
+                    "change": 12,
+                    "oelo": 2019,
+                    "ochange": -12,
+                    "time": 473081,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793746552000,
                     "type": "SHIPWRECK",
