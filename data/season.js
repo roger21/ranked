@@ -1,5 +1,5 @@
 {
-    "date": 1793766601000,
+    "date": 1793767201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -85378,20 +85378,6 @@
                     "oelo": 1833,
                     "ochange": -19,
                     "time": 801156,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789446938000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "410e5776b03a424d8740557bac2d9014",
-                    "elo": 1874,
-                    "change": 13,
-                    "oelo": 1655,
-                    "ochange": -13,
-                    "time": 508744,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -196046,20 +196032,6 @@
                     "oelo": 1893,
                     "ochange": 19,
                     "time": 801156,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789446944000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
-                    "elo": 1852,
-                    "change": 15,
-                    "oelo": 1686,
-                    "ochange": -15,
-                    "time": 570730,
                     "forfeited": false,
                     "decayed": false
                 }
