@@ -1657,12 +1657,12 @@
         },
         "pb": 342789,
         "streak": 17,
-        "matches": 18215,
-        "playtime": 10641091739,
+        "matches": 18216,
+        "playtime": 10641622260,
         "finished": 8075,
         "finishtime": 5126591816,
         "won": 9911,
-        "lost": 7903,
+        "lost": 7904,
         "forfeited": 2046
     },
     "3b945bbc6cef48c8b76e1f65580df71d": {
@@ -3759,7 +3759,7 @@
             "9": 2108,
             "10": 2076,
             "11": 2305,
-            "12": 2189
+            "12": 2216
         },
         "points": {
             "1": 0,
@@ -3777,11 +3777,11 @@
         },
         "pb": 381009,
         "streak": 15,
-        "matches": 6217,
-        "playtime": 3762749337,
-        "finished": 2207,
-        "finishtime": 1567485636,
-        "won": 3149,
+        "matches": 6218,
+        "playtime": 3763279858,
+        "finished": 2208,
+        "finishtime": 1568016157,
+        "won": 3150,
         "lost": 2847,
         "forfeited": 1316
     },
@@ -6269,7 +6269,7 @@
             "9": 1993,
             "10": 1989,
             "11": 2311,
-            "12": 1865
+            "12": 1881
         },
         "points": {
             "1": 0,
@@ -6287,11 +6287,11 @@
         },
         "pb": 345484,
         "streak": 12,
-        "matches": 14400,
-        "playtime": 9029672985,
-        "finished": 5220,
-        "finishtime": 3690576643,
-        "won": 7013,
+        "matches": 14401,
+        "playtime": 9030188644,
+        "finished": 5221,
+        "finishtime": 3691092302,
+        "won": 7014,
         "lost": 6610,
         "forfeited": 1772
     },
@@ -6321,12 +6321,12 @@
         },
         "pb": 456449,
         "streak": 14,
-        "matches": 10698,
-        "playtime": 6787908103,
+        "matches": 10700,
+        "playtime": 6789010215,
         "finished": 3440,
         "finishtime": 2616463445,
-        "won": 5295,
-        "lost": 5031,
+        "won": 5296,
+        "lost": 5032,
         "forfeited": 2161
     },
     "de8e3203f8674303ad4a2baa55a15c87": {
