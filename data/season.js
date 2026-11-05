@@ -1,5 +1,5 @@
 {
-    "date": 1793854201000,
+    "date": 1793854801000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -7670,20 +7670,6 @@
                     "oelo": 2143,
                     "ochange": 20,
                     "time": 517689,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789534773000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "2ef2bfed3d084649b56290328970ace9",
-                    "elo": 2132,
-                    "change": 11,
-                    "oelo": 1854,
-                    "ochange": -11,
-                    "time": 529060,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -88550,20 +88536,6 @@
                     "oelo": 1880,
                     "ochange": 20,
                     "time": 502083,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789534773000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "a54e3bc4c6354b07a236b81efbcfe791",
-                    "elo": 1854,
-                    "change": -11,
-                    "oelo": 2132,
-                    "ochange": 11,
-                    "time": 529060,
                     "forfeited": false,
                     "decayed": false
                 }
