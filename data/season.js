@@ -1,5 +1,5 @@
 {
-    "date": 1793843401000,
+    "date": 1793844001000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -7852,20 +7852,6 @@
                     "oelo": 2048,
                     "ochange": -19,
                     "time": 593168,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789523898000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "78ea25c3db9a4830ba7e78074bd6fd10",
-                    "elo": 2083,
-                    "change": -29,
-                    "oelo": 1879,
-                    "ochange": 29,
-                    "time": 493677,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -113852,20 +113838,6 @@
                     "time": 346373,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1789523898000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "a54e3bc4c6354b07a236b81efbcfe791",
-                    "elo": 1879,
-                    "change": 29,
-                    "oelo": 2083,
-                    "ochange": -29,
-                    "time": 493677,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -115240,20 +115212,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1862,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1789523843000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1867,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
