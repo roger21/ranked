@@ -123,7 +123,7 @@
             "9": 2334,
             "10": 2339,
             "11": 2295,
-            "12": 2339
+            "12": 2353
         },
         "points": {
             "1": 0,
@@ -139,11 +139,11 @@
         },
         "pb": 379698,
         "streak": 16,
-        "matches": 5027,
-        "playtime": 2776567339,
-        "finished": 2014,
-        "finishtime": 1260136723,
-        "won": 2541,
+        "matches": 5028,
+        "playtime": 2777400196,
+        "finished": 2015,
+        "finishtime": 1260969580,
+        "won": 2542,
         "lost": 2317,
         "forfeited": 882
     },
@@ -2377,7 +2377,7 @@
             "9": 2148,
             "10": 2372,
             "11": 2294,
-            "12": 1895
+            "12": 1911
         },
         "points": {
             "1": 0,
@@ -2395,11 +2395,11 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 5977,
-        "playtime": 3542430188,
-        "finished": 2363,
-        "finishtime": 1551148399,
-        "won": 3025,
+        "matches": 5978,
+        "playtime": 3543244512,
+        "finished": 2364,
+        "finishtime": 1551962723,
+        "won": 3026,
         "lost": 2745,
         "forfeited": 816
     },
@@ -2919,12 +2919,12 @@
         },
         "pb": 421922,
         "streak": 11,
-        "matches": 5177,
-        "playtime": 3228648639,
+        "matches": 5178,
+        "playtime": 3229171827,
         "finished": 1836,
         "finishtime": 1302937539,
         "won": 2579,
-        "lost": 2347,
+        "lost": 2348,
         "forfeited": 609
     },
     "6fbedfe6fbf14495a1b45b98e9f896e5": {
@@ -5621,12 +5621,12 @@
         },
         "pb": 389334,
         "streak": 13,
-        "matches": 4098,
-        "playtime": 2532445603,
+        "matches": 4099,
+        "playtime": 2533278460,
         "finished": 1791,
         "finishtime": 1200885345,
         "won": 2241,
-        "lost": 1753,
+        "lost": 1754,
         "forfeited": 270
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
