@@ -123,7 +123,7 @@
             "9": 2334,
             "10": 2339,
             "11": 2295,
-            "12": 2364
+            "12": 2374
         },
         "points": {
             "1": 0,
@@ -139,11 +139,11 @@
         },
         "pb": 379698,
         "streak": 16,
-        "matches": 5029,
-        "playtime": 2777711140,
-        "finished": 2015,
-        "finishtime": 1260969580,
-        "won": 2543,
+        "matches": 5030,
+        "playtime": 2778216318,
+        "finished": 2016,
+        "finishtime": 1261474758,
+        "won": 2544,
         "lost": 2317,
         "forfeited": 882
     },
@@ -2377,7 +2377,7 @@
             "9": 2148,
             "10": 2372,
             "11": 2294,
-            "12": 1926
+            "12": 1943
         },
         "points": {
             "1": 0,
@@ -2395,11 +2395,11 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 5979,
-        "playtime": 3543797146,
-        "finished": 2364,
-        "finishtime": 1551962723,
-        "won": 3027,
+        "matches": 5980,
+        "playtime": 3544423121,
+        "finished": 2365,
+        "finishtime": 1552588698,
+        "won": 3028,
         "lost": 2745,
         "forfeited": 816
     },
@@ -2435,11 +2435,11 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 7426,
-        "playtime": 4461985596,
-        "finished": 3381,
-        "finishtime": 2185457067,
-        "won": 4100,
+        "matches": 7427,
+        "playtime": 4462623028,
+        "finished": 3382,
+        "finishtime": 2186094499,
+        "won": 4101,
         "lost": 3198,
         "forfeited": 670
     },
@@ -5621,12 +5621,12 @@
         },
         "pb": 389334,
         "streak": 13,
-        "matches": 4100,
-        "playtime": 2533947017,
+        "matches": 4101,
+        "playtime": 2534584449,
         "finished": 1792,
         "finishtime": 1201553902,
         "won": 2242,
-        "lost": 1754,
+        "lost": 1755,
         "forfeited": 270
     },
     "c4ea81fc270c4beb8f1db8afd322b754": {
