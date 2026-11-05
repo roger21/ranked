@@ -1,5 +1,5 @@
 {
-    "date": 1793841601000,
+    "date": 1793842201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -7880,20 +7880,6 @@
                     "oelo": 2047,
                     "ochange": -19,
                     "time": 463773,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789521867000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "9a8e24df4c8549d696a6951da84fa5c4",
-                    "elo": 2093,
-                    "change": 18,
-                    "oelo": 2001,
-                    "ochange": -18,
-                    "time": 479792,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -25104,20 +25090,6 @@
                     "oelo": 2066,
                     "ochange": -23,
                     "time": 482616,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789521867000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "a54e3bc4c6354b07a236b81efbcfe791",
-                    "elo": 2001,
-                    "change": -18,
-                    "oelo": 2093,
-                    "ochange": 18,
-                    "time": 479792,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -113977,20 +113949,6 @@
                     "ochange": -19,
                     "time": 454344,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1789521701000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "728fdcab24b249b686c081a7fc53176e",
-                    "elo": 1827,
-                    "change": 20,
-                    "oelo": 1775,
-                    "ochange": -20,
-                    "time": 517273,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
