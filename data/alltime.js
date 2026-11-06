@@ -6557,13 +6557,13 @@
         },
         "pb": 402193,
         "streak": 11,
-        "matches": 8159,
-        "playtime": 4788801357,
+        "matches": 8160,
+        "playtime": 4789014699,
         "finished": 2878,
         "finishtime": 1967441284,
         "won": 4018,
-        "lost": 3857,
-        "forfeited": 1891
+        "lost": 3858,
+        "forfeited": 1892
     },
     "f0103fdd182548828ba66883fdd05214": {
         "country": "au",
