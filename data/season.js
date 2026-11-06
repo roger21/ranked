@@ -1,5 +1,5 @@
 {
-    "date": 1793949601000,
+    "date": 1793950201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -119677,7 +119677,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "stats": {
                 "rank": 22,
-                "elo": 2288,
+                "elo": 2283,
                 "top": 2343,
                 "points": 50,
                 "pb": 426724,
@@ -119693,6 +119693,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1793949690000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2283,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1793863289000,
                     "type": null,
@@ -189450,20 +189464,6 @@
                     "time": 617858,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789630046000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "5cd115f0ec1240659db152406c0984a3",
-                    "elo": 1750,
-                    "change": 23,
-                    "oelo": 1788,
-                    "ochange": -23,
-                    "time": 466761,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -223793,20 +223793,6 @@
                     "ochange": 20,
                     "time": 210493,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1789629737000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "fe10b6edfc3a460a83d637fc8e008751",
-                    "elo": 1782,
-                    "change": -22,
-                    "oelo": 1761,
-                    "ochange": 22,
-                    "time": 729061,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
