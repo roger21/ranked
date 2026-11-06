@@ -1,5 +1,5 @@
 {
-    "date": 1793964001000,
+    "date": 1793964601000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -63409,7 +63409,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
                 "rank": 13,
-                "elo": 2361,
+                "elo": 2356,
                 "top": 2423,
                 "points": 61,
                 "pb": 407068,
@@ -63425,6 +63425,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1793964511000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2356,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1793316504000,
                     "type": "BURIED_TREASURE",
@@ -144132,20 +144146,6 @@
                     "oelo": 2075,
                     "ochange": 13,
                     "time": 439598,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789644323000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "c32cdd142a0147dcb91771319d745194",
-                    "elo": 1866,
-                    "change": -24,
-                    "oelo": 1809,
-                    "ochange": 24,
-                    "time": 562107,
                     "forfeited": false,
                     "decayed": false
                 }
