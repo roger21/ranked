@@ -1,5 +1,5 @@
 {
-    "date": 1793998801000,
+    "date": 1793999401000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -15906,20 +15906,6 @@
                     "time": 487482,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789678883000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "a5d83ff042164ff1b862dedc118c1dae",
-                    "elo": 2348,
-                    "change": -31,
-                    "oelo": 2062,
-                    "ochange": 31,
-                    "time": 463750,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -23088,20 +23074,6 @@
                     "oelo": 2039,
                     "ochange": -23,
                     "time": 481821,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789678833000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "817a3f2e92da42ab89c64a787ce16d28",
-                    "elo": 1976,
-                    "change": 13,
-                    "oelo": 1744,
-                    "ochange": -13,
-                    "time": 611687,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -35690,20 +35662,6 @@
                     "oelo": 1838,
                     "ochange": 22,
                     "time": 672643,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789678801000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ed0605bc88fa411f8f1d530323efd867",
-                    "elo": 1877,
-                    "change": -23,
-                    "oelo": 1826,
-                    "ochange": 23,
-                    "time": 981014,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -52842,20 +52800,6 @@
                     "oelo": 2022,
                     "ochange": -17,
                     "time": 547450,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789679206000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "388533d5a2ad4b349a31db4738670a4b",
-                    "elo": 2124,
-                    "change": 16,
-                    "oelo": 1972,
-                    "ochange": -16,
-                    "time": 471270,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -88986,20 +88930,6 @@
                     "time": 481821,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789678883000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "635f35ee69ed4f0c94ff26ece4818956",
-                    "elo": 2062,
-                    "change": 31,
-                    "oelo": 2348,
-                    "ochange": -31,
-                    "time": 463750,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -104280,20 +104210,6 @@
                     "oelo": 2356,
                     "ochange": 8,
                     "time": 487482,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789679206000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "3b01d4b4fef14f178b75f05c04dd34ef",
-                    "elo": 1972,
-                    "change": -16,
-                    "oelo": 2124,
-                    "ochange": 16,
-                    "time": 471270,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -182588,34 +182504,6 @@
                     "oelo": 1754,
                     "ochange": -20,
                     "time": 537410,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789679214000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "c9f3dc334bb84708911c611e94751b5a",
-                    "elo": 1786,
-                    "change": 20,
-                    "oelo": 1735,
-                    "ochange": -20,
-                    "time": 210186,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1789678956000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "9787ab0ebce6493f8da3676a333a8af2",
-                    "elo": 1766,
-                    "change": 16,
-                    "oelo": 1613,
-                    "ochange": -16,
-                    "time": 662032,
                     "forfeited": false,
                     "decayed": false
                 }
