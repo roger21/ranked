@@ -1,5 +1,5 @@
 {
-    "date": 1793928001000,
+    "date": 1793928601000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -7362,20 +7362,6 @@
                     "oelo": 1926,
                     "ochange": 26,
                     "time": 586001,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789608286000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "7665f76f431b41c6b321bea16aff913b",
-                    "elo": 2085,
-                    "change": 23,
-                    "oelo": 2132,
-                    "ochange": -23,
-                    "time": 495122,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -19426,20 +19412,6 @@
                     "oelo": 2033,
                     "ochange": -17,
                     "time": 500436,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789608286000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "a54e3bc4c6354b07a236b81efbcfe791",
-                    "elo": 2132,
-                    "change": -23,
-                    "oelo": 2085,
-                    "ochange": 23,
-                    "time": 495122,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -61568,20 +61540,6 @@
                     "time": 531047,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789608566000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "2fe70934e7be458dba747c4ac830391c",
-                    "elo": 1760,
-                    "change": -21,
-                    "oelo": 1786,
-                    "ochange": 21,
-                    "time": 472720,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -95880,20 +95838,6 @@
                     "oelo": 2059,
                     "ochange": -26,
                     "time": 586001,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789608267000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "04f166515e1f47dd93fe81de0938e49b",
-                    "elo": 1900,
-                    "change": 15,
-                    "oelo": 1735,
-                    "ochange": -15,
-                    "time": 557491,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -190717,7 +190661,7 @@
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "stats": {
                 "rank": 40,
-                "elo": 2193,
+                "elo": 2188,
                 "top": 2193,
                 "points": 13,
                 "pb": 390300,
@@ -190733,6 +190677,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1793928450000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2188,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1793280442000,
                     "type": "BURIED_TREASURE",
