@@ -1,5 +1,5 @@
 {
-    "date": 1793971201000,
+    "date": 1793971801000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -4624,20 +4624,6 @@
                     "oelo": 1872,
                     "ochange": 29,
                     "time": 713947,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789651769000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "f55a7e31e65a453e941ebec79cd39992",
-                    "elo": 2101,
-                    "change": 17,
-                    "oelo": 1970,
-                    "ochange": -17,
-                    "time": 598093,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -163290,23 +163276,37 @@
         {
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "stats": {
-                "rank": 32,
-                "elo": 2214,
+                "rank": 40,
+                "elo": 2191,
                 "top": 2343,
                 "points": 31,
                 "pb": 395739,
-                "current": 2,
+                "current": 0,
                 "streak": 11,
-                "matches": 900,
-                "playtime": 525924370,
+                "matches": 901,
+                "playtime": 526589697,
                 "finished": 434,
                 "finishtime": 257360690,
                 "won": 473,
-                "lost": 404,
+                "lost": 405,
                 "forfeited": 2
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1793971802000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "9589914cf31a420bbcb07cd0768eec28",
+                    "elo": 2191,
+                    "change": -23,
+                    "oelo": 2147,
+                    "ochange": 23,
+                    "time": 665327,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1793970641000,
                     "type": "RUINED_PORTAL",
@@ -171824,7 +171824,7 @@
         {
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "stats": {
-                "rank": 34,
+                "rank": 33,
                 "elo": 2213,
                 "top": 2213,
                 "points": 14,
@@ -175220,7 +175220,7 @@
         {
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "stats": {
-                "rank": 35,
+                "rank": 34,
                 "elo": 2212,
                 "top": 2273,
                 "points": 30,
@@ -177398,7 +177398,7 @@
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "stats": {
-                "rank": 36,
+                "rank": 35,
                 "elo": 2210,
                 "top": 2440,
                 "points": 88,
@@ -178946,7 +178946,7 @@
         {
             "uuid": "0d0f007a376a462299bf23f2f713b0e5",
             "stats": {
-                "rank": 37,
+                "rank": 36,
                 "elo": 2208,
                 "top": 2209,
                 "points": 3,
@@ -181894,7 +181894,7 @@
         {
             "uuid": "8c7208adf2784bacb3715ab657cd80bd",
             "stats": {
-                "rank": 38,
+                "rank": 37,
                 "elo": 2206,
                 "top": 2215,
                 "points": 11,
@@ -186550,7 +186550,7 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 39,
+                "rank": 38,
                 "elo": 2200,
                 "top": 2205,
                 "points": 11,
@@ -189022,7 +189022,7 @@
         {
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "stats": {
-                "rank": 40,
+                "rank": 39,
                 "elo": 2194,
                 "top": 2349,
                 "points": 49,
@@ -225810,7 +225810,7 @@
         {
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2146,
                 "top": 2178,
                 "points": 6,
