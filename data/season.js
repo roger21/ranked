@@ -1,5 +1,5 @@
 {
-    "date": 1794052201000,
+    "date": 1794052801000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -94873,7 +94873,7 @@
             "uuid": "78ea25c3db9a4830ba7e78074bd6fd10",
             "stats": {
                 "rank": 19,
-                "elo": 2293,
+                "elo": 2288,
                 "top": 2322,
                 "points": 18,
                 "pb": 374021,
@@ -94889,6 +94889,20 @@
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1794052832000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2288,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1793966431000,
                     "type": null,
@@ -204008,20 +204022,6 @@
                     "oelo": 1965,
                     "ochange": 17,
                     "time": 535330,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789732742000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "d1718c79c34e4bce93cd688ac5254b58",
-                    "elo": 1870,
-                    "change": 20,
-                    "oelo": 1818,
-                    "ochange": -20,
-                    "time": 595090,
                     "forfeited": false,
                     "decayed": false
                 }
