@@ -1,5 +1,5 @@
 {
-    "date": 1794027001000,
+    "date": 1794027602000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -145382,20 +145382,6 @@
                     "time": 589029,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1789707051000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "734a1c6118754829acc234135470152c",
-                    "elo": 1790,
-                    "change": -20,
-                    "oelo": 1839,
-                    "ochange": 20,
-                    "time": 253598,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -230613,34 +230599,6 @@
                     "ochange": -23,
                     "time": 664315,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789707434000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
-                    "elo": 1858,
-                    "change": 19,
-                    "oelo": 1805,
-                    "ochange": -19,
-                    "time": 313091,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1789707051000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "da5e15a7d3c04a84b432defd5a15c910",
-                    "elo": 1839,
-                    "change": 20,
-                    "oelo": 1790,
-                    "ochange": -20,
-                    "time": 253598,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
