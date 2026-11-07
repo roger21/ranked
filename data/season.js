@@ -1,5 +1,5 @@
 {
-    "date": 1794050401000,
+    "date": 1794051001000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -4442,20 +4442,6 @@
                     "oelo": 1870,
                     "ochange": -11,
                     "time": 589629,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789730542000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "d1718c79c34e4bce93cd688ac5254b58",
-                    "elo": 2149,
-                    "change": 10,
-                    "oelo": 1838,
-                    "ochange": -10,
-                    "time": 563282,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -62191,7 +62177,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
                 "rank": 13,
-                "elo": 2356,
+                "elo": 2351,
                 "top": 2423,
                 "points": 61,
                 "pb": 407068,
@@ -62207,6 +62193,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1794050912000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2351,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1793964511000,
                     "type": null,
@@ -204078,20 +204078,6 @@
                     "oelo": 2160,
                     "ochange": 11,
                     "time": 589629,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789730681000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "bc80af38933f4ae19b0494681a54422b",
-                    "elo": 1881,
-                    "change": -17,
-                    "oelo": 1985,
-                    "ochange": 17,
-                    "time": 609190,
                     "forfeited": false,
                     "decayed": false
                 }
