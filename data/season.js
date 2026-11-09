@@ -1,5 +1,5 @@
 {
-    "date": 1794264601000,
+    "date": 1794265201000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -233217,20 +233217,6 @@
                     "ochange": 27,
                     "time": 341675,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1789944730000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "c9f3dc334bb84708911c611e94751b5a",
-                    "elo": 2084,
-                    "change": 12,
-                    "oelo": 1831,
-                    "ochange": -12,
-                    "time": 622249,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
