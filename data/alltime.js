@@ -1697,12 +1697,12 @@
         },
         "pb": 479431,
         "streak": 12,
-        "matches": 4057,
-        "playtime": 2775275136,
+        "matches": 4058,
+        "playtime": 2776013582,
         "finished": 1474,
         "finishtime": 1107280693,
         "won": 2071,
-        "lost": 1833,
+        "lost": 1834,
         "forfeited": 111
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -3362,7 +3362,7 @@
             "9": 2305,
             "10": 2331,
             "11": 2298,
-            "12": 2346
+            "12": 2359
         },
         "points": {
             "4": 0,
@@ -3377,11 +3377,11 @@
         },
         "pb": 374021,
         "streak": 14,
-        "matches": 13338,
-        "playtime": 7244313498,
-        "finished": 4702,
-        "finishtime": 2786163186,
-        "won": 6166,
+        "matches": 13339,
+        "playtime": 7244881579,
+        "finished": 4703,
+        "finishtime": 2786731267,
+        "won": 6167,
         "lost": 5894,
         "forfeited": 3080
     },
@@ -3965,12 +3965,12 @@
         },
         "pb": 392016,
         "streak": 12,
-        "matches": 2962,
-        "playtime": 1972837345,
+        "matches": 2963,
+        "playtime": 1973405426,
         "finished": 1159,
         "finishtime": 842367960,
         "won": 1530,
-        "lost": 1348,
+        "lost": 1349,
         "forfeited": 113
     },
     "8d52ed9bf12146c68321f1729e28cbf5": {
@@ -5271,12 +5271,12 @@
         },
         "pb": 409197,
         "streak": 12,
-        "matches": 6708,
-        "playtime": 4245482753,
+        "matches": 6709,
+        "playtime": 4245996584,
         "finished": 2521,
         "finishtime": 1758042975,
         "won": 3387,
-        "lost": 3089,
+        "lost": 3090,
         "forfeited": 474
     },
     "ba31689fe7d24431bf7997a52efcc21c": {
