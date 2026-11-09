@@ -691,11 +691,11 @@
         },
         "pb": 428623,
         "streak": 12,
-        "matches": 8272,
-        "playtime": 5126623552,
-        "finished": 2791,
-        "finishtime": 1976637093,
-        "won": 4047,
+        "matches": 8273,
+        "playtime": 5127356510,
+        "finished": 2792,
+        "finishtime": 1977370051,
+        "won": 4048,
         "lost": 3843,
         "forfeited": 1270
     },
@@ -1987,7 +1987,7 @@
             "9": 1861,
             "10": 2084,
             "11": 1836,
-            "12": 1432
+            "12": 1454
         },
         "points": {
             "1": 0,
@@ -2005,11 +2005,11 @@
         },
         "pb": 469983,
         "streak": 12,
-        "matches": 2814,
-        "playtime": 1932771991,
-        "finished": 1046,
-        "finishtime": 831229082,
-        "won": 1491,
+        "matches": 2815,
+        "playtime": 1933479283,
+        "finished": 1047,
+        "finishtime": 831936374,
+        "won": 1492,
         "lost": 1236,
         "forfeited": 239
     },
@@ -2377,7 +2377,7 @@
             "9": 2148,
             "10": 2372,
             "11": 2294,
-            "12": 2017
+            "12": 2021
         },
         "points": {
             "1": 0,
@@ -2395,11 +2395,11 @@
         },
         "pb": 397943,
         "streak": 13,
-        "matches": 6009,
-        "playtime": 3561741687,
-        "finished": 2381,
-        "finishtime": 1562099506,
-        "won": 3044,
+        "matches": 6010,
+        "playtime": 3562329025,
+        "finished": 2382,
+        "finishtime": 1562686844,
+        "won": 3045,
         "lost": 2758,
         "forfeited": 817
     },
@@ -5159,12 +5159,12 @@
         },
         "pb": 416491,
         "streak": 11,
-        "matches": 10924,
-        "playtime": 6525698232,
+        "matches": 10925,
+        "playtime": 6526285570,
         "finished": 3887,
         "finishtime": 2729114887,
         "won": 5444,
-        "lost": 5136,
+        "lost": 5137,
         "forfeited": 2435
     },
     "b39f5648c91d42dfb121655f2aa52970": {
