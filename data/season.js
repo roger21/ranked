@@ -1,5 +1,5 @@
 {
-    "date": 1794282001000,
+    "date": 1794282601000,
     "players": [
         {
             "uuid": "ac601ce7376f49cea7ce14cd577dac85",
@@ -143927,7 +143927,7 @@
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "stats": {
                 "rank": 31,
-                "elo": 2249,
+                "elo": 2244,
                 "top": 2249,
                 "points": 15,
                 "pb": 434391,
@@ -143943,6 +143943,20 @@
             },
             "country": "cz",
             "matches": [
+                {
+                    "date": 1794282216000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2244,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1793729291000,
                     "type": "SHIPWRECK",
@@ -159862,20 +159876,6 @@
                     "oelo": 1628,
                     "ochange": -19,
                     "time": 520592,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1789962507000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "85fd62c21c094f1e8fa322d997b46ef2",
-                    "elo": 1687,
-                    "change": -15,
-                    "oelo": 1852,
-                    "ochange": 15,
-                    "time": 647639,
                     "forfeited": false,
                     "decayed": false
                 }
