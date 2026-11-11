@@ -1,5 +1,5 @@
 {
-    "date": 1794427201000,
+    "date": 1794427801000,
     "players": [
         {
             "uuid": "4cf401d7b9474756b06a653867d22fca",
@@ -97700,20 +97700,6 @@
                     "oelo": 1951,
                     "ochange": -19,
                     "time": 580241,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790107397000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "eb136e7e26124f8daa99e521da609135",
-                    "elo": 1999,
-                    "change": 21,
-                    "oelo": 1990,
-                    "ochange": -21,
-                    "time": 503199,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -214937,20 +214923,6 @@
                     "ochange": 14,
                     "time": 280749,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790107608000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "939ddf85303441de901d60bfa4109318",
-                    "elo": 1931,
-                    "change": 19,
-                    "oelo": 1853,
-                    "ochange": -19,
-                    "time": 544150,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
