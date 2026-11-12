@@ -1,5 +1,5 @@
 {
-    "date": 1794468001000,
+    "date": 1794468601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -130133,7 +130133,7 @@
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "stats": {
                 "rank": 27,
-                "elo": 2258,
+                "elo": 2253,
                 "top": 2343,
                 "points": 50,
                 "pb": 426724,
@@ -130149,6 +130149,20 @@
             },
             "country": "no",
             "matches": [
+                {
+                    "date": 1794468187000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2253,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1794381740000,
                     "type": null,
@@ -167494,20 +167508,6 @@
                     "time": 691601,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790148406000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "3fa40d15dadb46368aa72bc4827dae73",
-                    "elo": 1946,
-                    "change": 19,
-                    "oelo": 1884,
-                    "ochange": -19,
-                    "time": 530524,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -196546,20 +196546,6 @@
                     "oelo": 1660,
                     "ochange": -13,
                     "time": 620754,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790148406000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "98cea324ee714d868b2ec1627f0f5762",
-                    "elo": 1884,
-                    "change": -19,
-                    "oelo": 1946,
-                    "ochange": 19,
-                    "time": 530524,
                     "forfeited": false,
                     "decayed": false
                 }
