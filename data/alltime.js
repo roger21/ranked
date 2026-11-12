@@ -139,12 +139,12 @@
         },
         "pb": 379698,
         "streak": 16,
-        "matches": 5100,
-        "playtime": 2816884218,
+        "matches": 5101,
+        "playtime": 2817533739,
         "finished": 2054,
         "finishtime": 1283073965,
         "won": 2584,
-        "lost": 2346,
+        "lost": 2347,
         "forfeited": 889
     },
     "0562802e736e47c581b2ef095e2ed067": {
@@ -1499,32 +1499,6 @@
         "lost": 450,
         "forfeited": 52
     },
-    "373fddb563124e13b043ea9c571595cd": {
-        "country": "gl",
-        "top": {
-            "8": 1385,
-            "9": 1862,
-            "10": 2172,
-            "11": 2081,
-            "12": 2177
-        },
-        "points": {
-            "8": 0,
-            "9": 0,
-            "10": 5,
-            "11": 4,
-            "12": 3
-        },
-        "pb": 356932,
-        "streak": 11,
-        "matches": 5368,
-        "playtime": 3385956169,
-        "finished": 1943,
-        "finishtime": 1334279018,
-        "won": 2572,
-        "lost": 2451,
-        "forfeited": 510
-    },
     "388533d5a2ad4b349a31db4738670a4b": {
         "country": "se",
         "top": {
@@ -1787,12 +1761,12 @@
         },
         "pb": 395739,
         "streak": 14,
-        "matches": 3581,
-        "playtime": 2324159853,
+        "matches": 3582,
+        "playtime": 2324880247,
         "finished": 1498,
         "finishtime": 1020016750,
         "won": 1831,
-        "lost": 1588,
+        "lost": 1589,
         "forfeited": 198
     },
     "410e5776b03a424d8740557bac2d9014": {
@@ -2415,11 +2389,11 @@
         },
         "pb": 391295,
         "streak": 16,
-        "matches": 7506,
-        "playtime": 4504976532,
-        "finished": 3425,
-        "finishtime": 2210294257,
-        "won": 4151,
+        "matches": 7507,
+        "playtime": 4505820570,
+        "finished": 3426,
+        "finishtime": 2211138295,
+        "won": 4152,
         "lost": 3226,
         "forfeited": 674
     },
@@ -3835,11 +3809,11 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 6718,
-        "playtime": 4278332746,
-        "finished": 2492,
-        "finishtime": 1713052201,
-        "won": 3301,
+        "matches": 6719,
+        "playtime": 4278887805,
+        "finished": 2493,
+        "finishtime": 1713607260,
+        "won": 3302,
         "lost": 2981,
         "forfeited": 218
     },
@@ -4307,12 +4281,12 @@
         },
         "pb": 399951,
         "streak": 15,
-        "matches": 1846,
-        "playtime": 1272137794,
+        "matches": 1847,
+        "playtime": 1272981832,
         "finished": 797,
         "finishtime": 576840455,
         "won": 981,
-        "lost": 807,
+        "lost": 808,
         "forfeited": 48
     },
     "99aa9e0e8034479a90259e244dfb9029": {
@@ -5365,11 +5339,11 @@
         },
         "pb": 375604,
         "streak": 17,
-        "matches": 10208,
-        "playtime": 5890899245,
-        "finished": 4080,
-        "finishtime": 2652341785,
-        "won": 5247,
+        "matches": 10209,
+        "playtime": 5891548766,
+        "finished": 4081,
+        "finishtime": 2652991306,
+        "won": 5248,
         "lost": 4665,
         "forfeited": 1499
     },
@@ -5590,6 +5564,38 @@
         "won": 1072,
         "lost": 742,
         "forfeited": 100
+    },
+    "c1da1862d37b4c9db6a214885cc359b7": {
+        "country": "pt",
+        "top": {
+            "5": 1316,
+            "6": 1377,
+            "7": 1304,
+            "8": 1452,
+            "9": 1607,
+            "10": 2149,
+            "11": 1927,
+            "12": 2176
+        },
+        "points": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+        },
+        "pb": 457696,
+        "streak": 10,
+        "matches": 1480,
+        "playtime": 1004677815,
+        "finished": 531,
+        "finishtime": 384749242,
+        "won": 733,
+        "lost": 619,
+        "forfeited": 67
     },
     "c32cdd142a0147dcb91771319d745194": {
         "country": "au",
