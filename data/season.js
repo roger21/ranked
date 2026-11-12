@@ -1,5 +1,5 @@
 {
-    "date": 1794478201000,
+    "date": 1794478801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -134704,7 +134704,7 @@
         {
             "uuid": "3da9e8cec2d348f781a98d095b1d0325",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2237,
                 "top": 2289,
                 "points": 19,
@@ -136154,7 +136154,7 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2235,
                 "top": 2235,
                 "points": 11,
@@ -138136,7 +138136,7 @@
         {
             "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2225,
                 "top": 2241,
                 "points": 19,
@@ -146726,7 +146726,7 @@
         {
             "uuid": "de8e3203f8674303ad4a2baa55a15c87",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2224,
                 "top": 2239,
                 "points": 14,
@@ -150038,7 +150038,7 @@
         {
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "stats": {
-                "rank": 32,
+                "rank": 33,
                 "elo": 2223,
                 "top": 2308,
                 "points": 15,
@@ -154652,7 +154652,7 @@
         {
             "uuid": "da5e15a7d3c04a84b432defd5a15c910",
             "stats": {
-                "rank": 33,
+                "rank": 34,
                 "elo": 2222,
                 "top": 2275,
                 "points": 12,
@@ -156354,7 +156354,7 @@
         {
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "stats": {
-                "rank": 34,
+                "rank": 35,
                 "elo": 2221,
                 "top": 2221,
                 "points": 16,
@@ -158826,7 +158826,7 @@
         {
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "stats": {
-                "rank": 35,
+                "rank": 36,
                 "elo": 2217,
                 "top": 2217,
                 "points": 3,
@@ -164000,7 +164000,7 @@
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "stats": {
-                "rank": 36,
+                "rank": 37,
                 "elo": 2213,
                 "top": 2446,
                 "points": 74,
@@ -166038,23 +166038,37 @@
         {
             "uuid": "d7d0b271136647fea7398a444ab51c13",
             "stats": {
-                "rank": 36,
-                "elo": 2213,
+                "rank": 28,
+                "elo": 2242,
                 "top": 2251,
                 "points": 6,
                 "pb": 404855,
-                "current": 1,
+                "current": 2,
                 "streak": 6,
-                "matches": 653,
-                "playtime": 386696115,
-                "finished": 285,
-                "finishtime": 175077158,
-                "won": 338,
+                "matches": 654,
+                "playtime": 387268414,
+                "finished": 286,
+                "finishtime": 175649457,
+                "won": 339,
                 "lost": 305,
                 "forfeited": 18
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1794478837000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "ac601ce7376f49cea7ce14cd577dac85",
+                    "elo": 2242,
+                    "change": 29,
+                    "oelo": 2448,
+                    "ochange": -29,
+                    "time": 572299,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1794478201000,
                     "type": "SHIPWRECK",
