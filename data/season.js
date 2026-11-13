@@ -1,26 +1,40 @@
 {
-    "date": 1794531601000,
+    "date": 1794532201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "stats": {
                 "rank": 1,
-                "elo": 2561,
+                "elo": 2567,
                 "top": 2701,
                 "points": 0,
                 "pb": 343522,
-                "current": 6,
+                "current": 7,
                 "streak": 25,
-                "matches": 474,
-                "playtime": 243004566,
-                "finished": 347,
-                "finishtime": 181692875,
-                "won": 381,
+                "matches": 475,
+                "playtime": 243483379,
+                "finished": 348,
+                "finishtime": 182171688,
+                "won": 382,
                 "lost": 92,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1794531858000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "TREASURE",
+                    "result": "won",
+                    "opponent": "939ddf85303441de901d60bfa4109318",
+                    "elo": 2567,
+                    "change": 6,
+                    "oelo": 2043,
+                    "ochange": -6,
+                    "time": 478813,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1794526765000,
                     "type": "VILLAGE",
@@ -162804,20 +162818,6 @@
                     "time": 633692,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790211725000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "1ad3ce1d756144e2b967299789c28030",
-                    "elo": 1880,
-                    "change": 15,
-                    "oelo": 1721,
-                    "ochange": -15,
-                    "time": 528802,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -243848,8 +243848,8 @@
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "stats": {
-                "rank": 48,
-                "elo": 2180,
+                "rank": 49,
+                "elo": 2175,
                 "top": 2440,
                 "points": 88,
                 "pb": 372595,
@@ -243865,6 +243865,20 @@
             },
             "country": "hk",
             "matches": [
+                {
+                    "date": 1794532208000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2175,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1794445806000,
                     "type": null,
