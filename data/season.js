@@ -1,26 +1,40 @@
 {
-    "date": 1794534601000,
+    "date": 1794535201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
             "stats": {
                 "rank": 1,
-                "elo": 2581,
+                "elo": 2546,
                 "top": 2701,
                 "points": 0,
                 "pb": 343522,
-                "current": 8,
+                "current": 0,
                 "streak": 25,
-                "matches": 476,
-                "playtime": 244223599,
+                "matches": 477,
+                "playtime": 244764002,
                 "finished": 349,
                 "finishtime": 182911908,
                 "won": 383,
-                "lost": 92,
+                "lost": 93,
                 "forfeited": 0
             },
             "country": "gb",
             "matches": [
+                {
+                    "date": 1794535080000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "939ddf85303441de901d60bfa4109318",
+                    "elo": 2546,
+                    "change": -35,
+                    "oelo": 2092,
+                    "ochange": 35,
+                    "time": 540403,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1794532890000,
                     "type": "RUINED_PORTAL",
@@ -129596,20 +129610,6 @@
                     "result": "draw",
                     "opponent": null,
                     "elo": 1822,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
-                },
-                {
-                    "date": 1790215107000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 1827,
                     "change": -5,
                     "oelo": 0,
                     "ochange": 0,
