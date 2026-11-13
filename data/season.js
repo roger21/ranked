@@ -1,5 +1,5 @@
 {
-    "date": 1794568801000,
+    "date": 1794569401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -68204,8 +68204,8 @@
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
-                "rank": 14,
-                "elo": 2326,
+                "rank": 15,
+                "elo": 2321,
                 "top": 2423,
                 "points": 61,
                 "pb": 407068,
@@ -68221,6 +68221,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1794569409000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2321,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1794483007000,
                     "type": null,
@@ -71670,7 +71684,7 @@
         {
             "uuid": "cbc4685f701c49319fb424430604b553",
             "stats": {
-                "rank": 15,
+                "rank": 14,
                 "elo": 2324,
                 "top": 2375,
                 "points": 37,
@@ -246711,20 +246725,6 @@
                     "ochange": 24,
                     "time": 253428,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790248844000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "ed0605bc88fa411f8f1d530323efd867",
-                    "elo": 1879,
-                    "change": -25,
-                    "oelo": 1779,
-                    "ochange": 25,
-                    "time": 545956,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
