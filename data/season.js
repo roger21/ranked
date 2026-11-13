@@ -1,5 +1,5 @@
 {
-    "date": 1794590401000,
+    "date": 1794591001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -10372,20 +10372,6 @@
                     "oelo": 1935,
                     "ochange": -11,
                     "time": 485312,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790270544000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "78ea25c3db9a4830ba7e78074bd6fd10",
-                    "elo": 2198,
-                    "change": 14,
-                    "oelo": 2013,
-                    "ochange": -14,
-                    "time": 475509,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -61098,20 +61084,6 @@
                     "time": 641133,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790270736000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "388533d5a2ad4b349a31db4738670a4b",
-                    "elo": 2170,
-                    "change": -25,
-                    "oelo": 2066,
-                    "ochange": 25,
-                    "time": 675659,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -108240,20 +108212,6 @@
                     "time": 703686,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790270736000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "3b01d4b4fef14f178b75f05c04dd34ef",
-                    "elo": 2066,
-                    "change": 25,
-                    "oelo": 2170,
-                    "ochange": -25,
-                    "time": 675659,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -127380,20 +127338,6 @@
                     "oelo": 1975,
                     "ochange": -19,
                     "time": 493675,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790270544000,
-                    "type": "SHIPWRECK",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "4cf401d7b9474756b06a653867d22fca",
-                    "elo": 2013,
-                    "change": -14,
-                    "oelo": 2198,
-                    "ochange": 14,
-                    "time": 475509,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -186944,7 +186888,7 @@
         {
             "uuid": "8393e90d9dd94a3eb838146a5ae5b724",
             "stats": {
-                "rank": 41,
+                "rank": 40,
                 "elo": 2209,
                 "top": 2209,
                 "points": 16,
@@ -200000,7 +199944,7 @@
         {
             "uuid": "0562802e736e47c581b2ef095e2ed067",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2202,
                 "top": 2418,
                 "points": 35,
@@ -216094,7 +216038,7 @@
         {
             "uuid": "939ddf85303441de901d60bfa4109318",
             "stats": {
-                "rank": 42,
+                "rank": 41,
                 "elo": 2202,
                 "top": 2233,
                 "points": 13,
@@ -221744,7 +221688,7 @@
         {
             "uuid": "9649236873db4cb9b7bdc2dae693ed39",
             "stats": {
-                "rank": 44,
+                "rank": 43,
                 "elo": 2200,
                 "top": 2237,
                 "points": 11,
