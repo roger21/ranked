@@ -1,5 +1,5 @@
 {
-    "date": 1794552001000,
+    "date": 1794552601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -21064,20 +21064,6 @@
                     "oelo": 1988,
                     "ochange": -17,
                     "time": 504617,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790232133000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
-                    "elo": 2081,
-                    "change": 15,
-                    "oelo": 1914,
-                    "ochange": -15,
-                    "time": 506624,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -141736,20 +141722,6 @@
                     "time": 572949,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790232062000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "c2395a14b4f54eb78ddd845243209c48",
-                    "elo": 1845,
-                    "change": 17,
-                    "oelo": 1737,
-                    "ochange": -17,
-                    "time": 211712,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -157508,20 +157480,6 @@
                     "oelo": 2354,
                     "ochange": 7,
                     "time": 468235,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790232133000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "ac601ce7376f49cea7ce14cd577dac85",
-                    "elo": 1914,
-                    "change": -15,
-                    "oelo": 2081,
-                    "ochange": 15,
-                    "time": 506624,
                     "forfeited": false,
                     "decayed": false
                 }
