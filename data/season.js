@@ -1,5 +1,5 @@
 {
-    "date": 1794654001000,
+    "date": 1794654601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -128804,20 +128804,6 @@
                     "time": 698896,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790334211000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "5b186fd054994f39bcf05140878c9e6c",
-                    "elo": 1763,
-                    "change": -22,
-                    "oelo": 1765,
-                    "ochange": 22,
-                    "time": 414074,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
@@ -134588,8 +134574,8 @@
         {
             "uuid": "f0103fdd182548828ba66883fdd05214",
             "stats": {
-                "rank": 30,
-                "elo": 2237,
+                "rank": 31,
+                "elo": 2232,
                 "top": 2263,
                 "points": 9,
                 "pb": 406254,
@@ -134605,6 +134591,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1794654431000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2232,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1794568028000,
                     "type": null,
