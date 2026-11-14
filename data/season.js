@@ -1,5 +1,5 @@
 {
-    "date": 1794645601000,
+    "date": 1794646801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -154864,20 +154864,6 @@
                     "time": 744336,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790326287000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "79dab6610bb34d6d8c6f8348bed3620e",
-                    "elo": 1711,
-                    "change": 23,
-                    "oelo": 1760,
-                    "ochange": -23,
-                    "time": 620439,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -221025,20 +221011,6 @@
                     "ochange": 23,
                     "time": 688370,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790326183000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "c4f6f8c02c5b4eaa95bfad9bd9540e3d",
-                    "elo": 1700,
-                    "change": -23,
-                    "oelo": 1650,
-                    "ochange": 23,
-                    "time": 413515,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
