@@ -1,5 +1,5 @@
 {
-    "date": 1794623401000,
+    "date": 1794624001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -51178,20 +51178,6 @@
                     "time": 625090,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790303509000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "5931f6ea5a2841439b25f7042dc23168",
-                    "elo": 1838,
-                    "change": 13,
-                    "oelo": 1607,
-                    "ochange": -13,
-                    "time": 727266,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -53657,22 +53643,36 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "stats": {
                 "rank": 12,
-                "elo": 2336,
+                "elo": 2350,
                 "top": 2434,
                 "points": 55,
                 "pb": 369708,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 595,
-                "playtime": 326859817,
-                "finished": 304,
-                "finishtime": 168884146,
-                "won": 341,
+                "matches": 596,
+                "playtime": 327487817,
+                "finished": 305,
+                "finishtime": 169512146,
+                "won": 342,
                 "lost": 240,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1794623997000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "c1da1862d37b4c9db6a214885cc359b7",
+                    "elo": 2350,
+                    "change": 14,
+                    "oelo": 2140,
+                    "ochange": -14,
+                    "time": 628000,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1794622621000,
                     "type": "SHIPWRECK",
@@ -57598,7 +57598,7 @@
         {
             "uuid": "70eb9286e3e24153a8b37c8f884f1292",
             "stats": {
-                "rank": 12,
+                "rank": 13,
                 "elo": 2336,
                 "top": 2438,
                 "points": 58,
@@ -129055,20 +129055,6 @@
                     "ochange": 24,
                     "time": 233756,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790303859000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "7fad8dae2ab04971bc07a6440f84d609",
-                    "elo": 1891,
-                    "change": 22,
-                    "oelo": 1902,
-                    "ochange": -22,
-                    "time": 544069,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
@@ -215073,20 +215059,6 @@
                     "ochange": -28,
                     "time": 419044,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790303914000,
-                    "type": "SHIPWRECK",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "94f98baeda16495ba745b65afbcc336c",
-                    "elo": 1837,
-                    "change": 18,
-                    "oelo": 1747,
-                    "ochange": -18,
-                    "time": 617039,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
