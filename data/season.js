@@ -1,5 +1,5 @@
 {
-    "date": 1794683401000,
+    "date": 1794684001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -73638,20 +73638,6 @@
                     "time": 704925,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790363597000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "23e7466f0a1b4597bf89c17d53c4d0ae",
-                    "elo": 2050,
-                    "change": 20,
-                    "oelo": 2010,
-                    "ochange": -20,
-                    "time": 631695,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -76564,8 +76550,8 @@
         {
             "uuid": "cbc4685f701c49319fb424430604b553",
             "stats": {
-                "rank": 16,
-                "elo": 2319,
+                "rank": 17,
+                "elo": 2314,
                 "top": 2375,
                 "points": 37,
                 "pb": 427746,
@@ -76581,6 +76567,20 @@
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1794684012000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2314,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1794597610000,
                     "type": null,
@@ -78252,7 +78252,7 @@
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
-                "rank": 17,
+                "rank": 16,
                 "elo": 2316,
                 "top": 2423,
                 "points": 61,
@@ -158181,20 +158181,6 @@
                     "ochange": -17,
                     "time": 316232,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790363525000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "2e8569c8363b4ec9bb53d20d143b3348",
-                    "elo": 1846,
-                    "change": 21,
-                    "oelo": 1827,
-                    "ochange": -21,
-                    "time": 519908,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
