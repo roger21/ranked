@@ -1,5 +1,5 @@
 {
-    "date": 1794625201000,
+    "date": 1794625801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -51122,34 +51122,6 @@
                     "time": 279833,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1790305791000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "7fad8dae2ab04971bc07a6440f84d609",
-                    "elo": 1916,
-                    "change": 20,
-                    "oelo": 1882,
-                    "ochange": -20,
-                    "time": 335385,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790305337000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "bae9f9a51afd4eabbacd453f9bcc430d",
-                    "elo": 1896,
-                    "change": 16,
-                    "oelo": 1757,
-                    "ochange": -16,
-                    "time": 519934,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -53615,22 +53587,36 @@
             "uuid": "2ef2bfed3d084649b56290328970ace9",
             "stats": {
                 "rank": 12,
-                "elo": 2360,
+                "elo": 2369,
                 "top": 2434,
                 "points": 55,
                 "pb": 369708,
-                "current": 4,
+                "current": 5,
                 "streak": 9,
-                "matches": 597,
-                "playtime": 328043197,
-                "finished": 306,
-                "finishtime": 170067526,
-                "won": 343,
+                "matches": 598,
+                "playtime": 328538703,
+                "finished": 307,
+                "finishtime": 170563032,
+                "won": 344,
                 "lost": 240,
                 "forfeited": 0
             },
             "country": "us",
             "matches": [
+                {
+                    "date": 1794625323000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "STABLES",
+                    "result": "won",
+                    "opponent": "fb3520bced8844608f28d85510f601ed",
+                    "elo": 2369,
+                    "change": 9,
+                    "oelo": 2001,
+                    "ochange": -9,
+                    "time": 495506,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1794624704000,
                     "type": "RUINED_PORTAL",
