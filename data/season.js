@@ -1,5 +1,5 @@
 {
-    "date": 1794646801000,
+    "date": 1794647401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -220996,20 +220996,6 @@
                     "oelo": 1646,
                     "ochange": -20,
                     "time": 562284,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790326977000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "9a419601c5c7427fbc74e987d7e6dc38",
-                    "elo": 1677,
-                    "change": -23,
-                    "oelo": 1634,
-                    "ochange": 23,
-                    "time": 688370,
                     "forfeited": false,
                     "decayed": false
                 }
