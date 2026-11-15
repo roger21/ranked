@@ -4465,13 +4465,13 @@
         },
         "pb": 387671,
         "streak": 15,
-        "matches": 6148,
-        "playtime": 3458395801,
+        "matches": 6149,
+        "playtime": 3458641455,
         "finished": 2432,
         "finishtime": 1587794904,
         "won": 3111,
-        "lost": 2856,
-        "forfeited": 1266
+        "lost": 2857,
+        "forfeited": 1267
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
         "country": "hk",
