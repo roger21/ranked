@@ -1,5 +1,5 @@
 {
-    "date": 1794709801000,
+    "date": 1794710401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -15934,20 +15934,6 @@
                     "time": 520794,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790389820000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "9a8e24df4c8549d696a6951da84fa5c4",
-                    "elo": 2225,
-                    "change": -25,
-                    "oelo": 2134,
-                    "ochange": 25,
-                    "time": 493570,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -27338,20 +27324,6 @@
                     "oelo": 2143,
                     "ochange": 20,
                     "time": 522310,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790389820000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "a54e3bc4c6354b07a236b81efbcfe791",
-                    "elo": 2134,
-                    "change": 25,
-                    "oelo": 2225,
-                    "ochange": -25,
-                    "time": 493570,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -91912,20 +91884,6 @@
                     "oelo": 1792,
                     "ochange": 1,
                     "time": 316147,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790389940000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "939ddf85303441de901d60bfa4109318",
-                    "elo": 1876,
-                    "change": 0,
-                    "oelo": 1899,
-                    "ochange": 0,
-                    "time": 515369,
                     "forfeited": true,
                     "decayed": false
                 }
@@ -220675,20 +220633,6 @@
                     "ochange": 24,
                     "time": 588570,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790389940000,
-                    "type": "SHIPWRECK",
-                    "bastion": "BRIDGE",
-                    "result": "draw",
-                    "opponent": "de8e3203f8674303ad4a2baa55a15c87",
-                    "elo": 1899,
-                    "change": 0,
-                    "oelo": 1876,
-                    "ochange": 0,
-                    "time": 515369,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
