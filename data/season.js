@@ -1,5 +1,5 @@
 {
-    "date": 1794821401000,
+    "date": 1794822001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -167528,20 +167528,6 @@
                     "time": 210218,
                     "forfeited": true,
                     "decayed": false
-                },
-                {
-                    "date": 1790501643000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "c82567c67d864a19b9593b4789c85473",
-                    "elo": 1882,
-                    "change": 13,
-                    "oelo": 1647,
-                    "ochange": -13,
-                    "time": 729607,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -232677,14 +232663,14 @@
             "uuid": "ea2b3799645743df906350b7110d21e7",
             "stats": {
                 "rank": 49,
-                "elo": 2167,
+                "elo": 2166,
                 "top": 2193,
                 "points": 13,
                 "pb": 364881,
                 "current": 4,
                 "streak": 7,
-                "matches": 180,
-                "playtime": 100575334,
+                "matches": 181,
+                "playtime": 101189755,
                 "finished": 92,
                 "finishtime": 52729856,
                 "won": 102,
@@ -232693,6 +232679,20 @@
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1794821612000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "STABLES",
+                    "result": "draw",
+                    "opponent": "0ac7c13721d74ea095c4c5fd47aa98e9",
+                    "elo": 2166,
+                    "change": -1,
+                    "oelo": 2057,
+                    "ochange": 1,
+                    "time": 614421,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1794820657000,
                     "type": "RUINED_PORTAL",
