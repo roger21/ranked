@@ -1,5 +1,5 @@
 {
-    "date": 1795095001000,
+    "date": 1795095601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -56218,23 +56218,37 @@
         {
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "stats": {
-                "rank": 12,
-                "elo": 2348,
+                "rank": 15,
+                "elo": 2320,
                 "top": 2383,
                 "points": 35,
                 "pb": 331951,
                 "current": 0,
                 "streak": 9,
-                "matches": 1600,
-                "playtime": 912075580,
+                "matches": 1601,
+                "playtime": 912563801,
                 "finished": 761,
                 "finishtime": 444699818,
                 "won": 847,
-                "lost": 733,
-                "forfeited": 0
+                "lost": 734,
+                "forfeited": 1
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1795095609000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "85fd62c21c094f1e8fa322d997b46ef2",
+                    "elo": 2320,
+                    "change": -28,
+                    "oelo": 2152,
+                    "ochange": 28,
+                    "time": 488221,
+                    "forfeited": true,
+                    "decayed": false
+                },
                 {
                     "date": 1795094987000,
                     "type": "RUINED_PORTAL",
@@ -66082,7 +66096,7 @@
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "stats": {
-                "rank": 13,
+                "rank": 12,
                 "elo": 2346,
                 "top": 2518,
                 "points": 74,
@@ -68190,7 +68204,7 @@
         {
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
-                "rank": 14,
+                "rank": 13,
                 "elo": 2335,
                 "top": 2335,
                 "points": 18,
@@ -76962,7 +76976,7 @@
         {
             "uuid": "cbc4685f701c49319fb424430604b553",
             "stats": {
-                "rank": 14,
+                "rank": 13,
                 "elo": 2335,
                 "top": 2375,
                 "points": 37,
@@ -126712,20 +126726,6 @@
                     "time": 711126,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790775281000,
-                    "type": "SHIPWRECK",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "34a98f4059be420494b1194f89335cc0",
-                    "elo": 1781,
-                    "change": 19,
-                    "oelo": 1707,
-                    "ochange": -19,
-                    "time": 576128,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -162900,20 +162900,6 @@
                     "oelo": 1807,
                     "ochange": 26,
                     "time": 711126,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790775218000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "e1923b76cb5e42abbff7e3f0122440c8",
-                    "elo": 1940,
-                    "change": 18,
-                    "oelo": 1856,
-                    "ochange": -18,
-                    "time": 554355,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -205657,20 +205643,6 @@
                     "ochange": -1,
                     "time": 576908,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1790775396000,
-                    "type": "VILLAGE",
-                    "bastion": "HOUSING",
-                    "result": "lost",
-                    "opponent": "6afb2b71762d434883d0e5ed651ddb31",
-                    "elo": 1609,
-                    "change": -21,
-                    "oelo": 1622,
-                    "ochange": 21,
-                    "time": 710069,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
