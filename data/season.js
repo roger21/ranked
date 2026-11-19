@@ -1,5 +1,5 @@
 {
-    "date": 1795123201000,
+    "date": 1795123801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -106070,20 +106070,6 @@
                     "time": 532126,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790803619000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "59f81e4943014bffa80513d56de77728",
-                    "elo": 2218,
-                    "change": 12,
-                    "oelo": 1957,
-                    "ochange": -12,
-                    "time": 624417,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -151397,20 +151383,6 @@
                     "ochange": -21,
                     "time": 675293,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790803248000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "45e3b27140f64b0db45bbbbb159f65c7",
-                    "elo": 1738,
-                    "change": 18,
-                    "oelo": 1651,
-                    "ochange": -18,
-                    "time": 305891,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
@@ -216856,7 +216828,7 @@
         {
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2177,
                 "top": 2263,
                 "points": 16,
@@ -220140,7 +220112,7 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2175,
                 "top": 2279,
                 "points": 0,
