@@ -1,5 +1,5 @@
 {
-    "date": 1795060801000,
+    "date": 1795061401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -106428,23 +106428,37 @@
         {
             "uuid": "05e776cf6ba44967adc596119cf73502",
             "stats": {
-                "rank": 25,
-                "elo": 2272,
+                "rank": 27,
+                "elo": 2243,
                 "top": 2272,
                 "points": 0,
                 "pb": 449946,
-                "current": 4,
+                "current": 0,
                 "streak": 22,
-                "matches": 211,
-                "playtime": 118016182,
+                "matches": 212,
+                "playtime": 118521652,
                 "finished": 104,
                 "finishtime": 61739998,
                 "won": 127,
-                "lost": 78,
+                "lost": 79,
                 "forfeited": 16
             },
             "country": "tr",
             "matches": [
+                {
+                    "date": 1795061430000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "lost",
+                    "opponent": "084b148c356844e68f45591c4afa9ea4",
+                    "elo": 2243,
+                    "change": -29,
+                    "oelo": 2031,
+                    "ochange": 29,
+                    "time": 505470,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1795060134000,
                     "type": "SHIPWRECK",
@@ -109376,7 +109390,7 @@
         {
             "uuid": "048de51800794a208de7f01652513c32",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2270,
                 "top": 2405,
                 "points": 28,
@@ -117000,7 +117014,7 @@
         {
             "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
             "stats": {
-                "rank": 26,
+                "rank": 25,
                 "elo": 2270,
                 "top": 2320,
                 "points": 42,
