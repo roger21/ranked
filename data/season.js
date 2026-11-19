@@ -1,5 +1,5 @@
 {
-    "date": 1795063801000,
+    "date": 1795064401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -101177,7 +101177,7 @@
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "stats": {
                 "rank": 23,
-                "elo": 2286,
+                "elo": 2281,
                 "top": 2308,
                 "points": 0,
                 "pb": 371487,
@@ -101193,6 +101193,20 @@
             },
             "country": "pl",
             "matches": [
+                {
+                    "date": 1795064243000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2281,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1794416195000,
                     "type": "VILLAGE",
