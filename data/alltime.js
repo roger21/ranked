@@ -151,7 +151,7 @@
         "country": "tr",
         "top": {
             "7": 0,
-            "12": 2235
+            "12": 2239
         },
         "points": {
             "7": 0,
@@ -159,11 +159,11 @@
         },
         "pb": 449946,
         "streak": 22,
-        "matches": 205,
-        "playtime": 116119637,
-        "finished": 101,
-        "finishtime": 59978426,
-        "won": 122,
+        "matches": 206,
+        "playtime": 116662377,
+        "finished": 102,
+        "finishtime": 60521166,
+        "won": 123,
         "lost": 78,
         "forfeited": 15
     },
@@ -235,12 +235,12 @@
         },
         "pb": 407480,
         "streak": 13,
-        "matches": 9723,
-        "playtime": 6530849166,
+        "matches": 9724,
+        "playtime": 6531370750,
         "finished": 3351,
         "finishtime": 2411684578,
         "won": 4682,
-        "lost": 4398,
+        "lost": 4399,
         "forfeited": 394
     },
     "08476f5847fc4daeba74a2544fc9d65b": {
