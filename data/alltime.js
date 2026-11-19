@@ -147,26 +147,6 @@
         "lost": 2369,
         "forfeited": 894
     },
-    "05e776cf6ba44967adc596119cf73502": {
-        "country": "tr",
-        "top": {
-            "7": 0,
-            "12": 2272
-        },
-        "points": {
-            "7": 0,
-            "12": 0
-        },
-        "pb": 449946,
-        "streak": 22,
-        "matches": 215,
-        "playtime": 121093418,
-        "finished": 104,
-        "finishtime": 61739998,
-        "won": 127,
-        "lost": 82,
-        "forfeited": 16
-    },
     "061fcc44cc364bdca1d092cc5210fd3b": {
         "country": "it",
         "top": {
@@ -1657,12 +1637,12 @@
         },
         "pb": 475844,
         "streak": 12,
-        "matches": 4176,
-        "playtime": 2850661297,
+        "matches": 4177,
+        "playtime": 2851252576,
         "finished": 1519,
         "finishtime": 1137903085,
         "won": 2128,
-        "lost": 1887,
+        "lost": 1888,
         "forfeited": 111
     },
     "3c8757790ab0400b8b9e3936e0dd535b": {
@@ -4273,6 +4253,28 @@
         "lost": 3537,
         "forfeited": 1254
     },
+    "98cea324ee714d868b2ec1627f0f5762": {
+        "country": "ca",
+        "top": {
+            "10": 1786,
+            "11": 2215,
+            "12": 2263
+        },
+        "points": {
+            "10": 0,
+            "11": 18,
+            "12": 16
+        },
+        "pb": 399951,
+        "streak": 15,
+        "matches": 1907,
+        "playtime": 1309861025,
+        "finished": 823,
+        "finishtime": 593178455,
+        "won": 1009,
+        "lost": 839,
+        "forfeited": 48
+    },
     "99aa9e0e8034479a90259e244dfb9029": {
         "country": "yt",
         "top": {
@@ -4423,12 +4425,12 @@
         },
         "pb": 387671,
         "streak": 15,
-        "matches": 6173,
-        "playtime": 3472206613,
+        "matches": 6174,
+        "playtime": 3472893550,
         "finished": 2444,
         "finishtime": 1594776722,
         "won": 3124,
-        "lost": 2868,
+        "lost": 2869,
         "forfeited": 1271
     },
     "a00913f1079c4b0c9d68d32f57dfbe73": {
