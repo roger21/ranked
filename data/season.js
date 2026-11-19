@@ -1,5 +1,5 @@
 {
-    "date": 1795050602000,
+    "date": 1795051201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -123638,20 +123638,6 @@
                     "time": 534074,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790730964000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "3d0359ab82024082a3204b0e5335674e",
-                    "elo": 2025,
-                    "change": 16,
-                    "oelo": 1886,
-                    "ochange": -16,
-                    "time": 591411,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -226082,7 +226068,7 @@
         {
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2181,
                 "top": 2233,
                 "points": 0,
@@ -228722,7 +228708,7 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2180,
                 "top": 2279,
                 "points": 0,
