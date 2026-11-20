@@ -1,5 +1,5 @@
 {
-    "date": 1795133401000,
+    "date": 1795134001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -52957,22 +52957,36 @@
             "uuid": "388533d5a2ad4b349a31db4738670a4b",
             "stats": {
                 "rank": 12,
-                "elo": 2344,
+                "elo": 2356,
                 "top": 2383,
                 "points": 35,
                 "pb": 331951,
-                "current": 2,
+                "current": 3,
                 "streak": 9,
-                "matches": 1643,
-                "playtime": 937536845,
-                "finished": 786,
-                "finishtime": 459800321,
-                "won": 874,
+                "matches": 1644,
+                "playtime": 938068283,
+                "finished": 787,
+                "finishtime": 460331759,
+                "won": 875,
                 "lost": 749,
                 "forfeited": 1
             },
             "country": "se",
             "matches": [
+                {
+                    "date": 1795133646000,
+                    "type": "BURIED_TREASURE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "4aed1e5e8f5c44e2bc0666e0c03781af",
+                    "elo": 2356,
+                    "change": 12,
+                    "oelo": 2112,
+                    "ochange": -12,
+                    "time": 531438,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1795132939000,
                     "type": "VILLAGE",
