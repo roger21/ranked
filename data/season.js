@@ -1,5 +1,5 @@
 {
-    "date": 1795149601000,
+    "date": 1795150201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -11878,20 +11878,6 @@
                     "oelo": 2002,
                     "ochange": 29,
                     "time": 503002,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790829953000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "253b53d832ab4bafb5ee0308d5164ccf",
-                    "elo": 2227,
-                    "change": 20,
-                    "oelo": 2196,
-                    "ochange": -20,
-                    "time": 520280,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -41760,20 +41746,6 @@
                     "oelo": 1916,
                     "ochange": -11,
                     "time": 687346,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790829953000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "ac601ce7376f49cea7ce14cd577dac85",
-                    "elo": 2196,
-                    "change": -20,
-                    "oelo": 2227,
-                    "ochange": 20,
-                    "time": 520280,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -141932,20 +141904,6 @@
                     "time": 527347,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790829980000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "lost",
-                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
-                    "elo": 1892,
-                    "change": -20,
-                    "oelo": 1936,
-                    "ochange": 20,
-                    "time": 584450,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -218596,7 +218554,7 @@
         {
             "uuid": "a5d83ff042164ff1b862dedc118c1dae",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2199,
                 "top": 2360,
                 "points": 44,
@@ -221712,7 +221670,7 @@
         {
             "uuid": "be4ad7e999e14a74974d47ac650062a3",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2189,
                 "top": 2245,
                 "points": 15,
@@ -224262,43 +224220,43 @@
                     "time": 634808,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790829702000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "2fe70934e7be458dba747c4ac830391c",
-                    "elo": 1981,
-                    "change": 15,
-                    "oelo": 1822,
-                    "ochange": -15,
-                    "time": 513776,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "stats": {
-                "rank": 48,
-                "elo": 2186,
+                "rank": 46,
+                "elo": 2201,
                 "top": 2446,
                 "points": 74,
                 "pb": 413013,
-                "current": 0,
+                "current": 1,
                 "streak": 12,
-                "matches": 403,
-                "playtime": 217711242,
-                "finished": 213,
-                "finishtime": 118454338,
-                "won": 238,
+                "matches": 404,
+                "playtime": 218321461,
+                "finished": 214,
+                "finishtime": 119064557,
+                "won": 239,
                 "lost": 160,
                 "forfeited": 0
             },
             "country": "ca",
             "matches": [
+                {
+                    "date": 1795150211000,
+                    "type": "VILLAGE",
+                    "bastion": "HOUSING",
+                    "result": "won",
+                    "opponent": "084b148c356844e68f45591c4afa9ea4",
+                    "elo": 2201,
+                    "change": 15,
+                    "oelo": 2044,
+                    "ochange": -15,
+                    "time": 610219,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1795149540000,
                     "type": "SHIPWRECK",
@@ -229212,8 +229170,8 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 50,
-                "elo": 2175,
+                "rank": 52,
+                "elo": 2170,
                 "top": 2279,
                 "points": 0,
                 "pb": 400126,
@@ -229229,6 +229187,20 @@
             },
             "country": "az",
             "matches": [
+                {
+                    "date": 1795150285000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2170,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1795063883000,
                     "type": null,
