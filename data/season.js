@@ -1,5 +1,5 @@
 {
-    "date": 1795182001000,
+    "date": 1795182601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -28156,20 +28156,6 @@
                     "oelo": 2090,
                     "ochange": 20,
                     "time": 651369,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790862022000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "85fd62c21c094f1e8fa322d997b46ef2",
-                    "elo": 2076,
-                    "change": 12,
-                    "oelo": 1818,
-                    "ochange": -12,
-                    "time": 596432,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -130302,20 +130288,6 @@
                     "time": 505359,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790862384000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "8393e90d9dd94a3eb838146a5ae5b724",
-                    "elo": 2063,
-                    "change": -23,
-                    "oelo": 2015,
-                    "ochange": 23,
-                    "time": 655378,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -168180,20 +168152,6 @@
                     "time": 625592,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790862384000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "b140bbd0317d4eba89d34288f1b8f0c7",
-                    "elo": 2015,
-                    "change": 23,
-                    "oelo": 2063,
-                    "ochange": -23,
-                    "time": 655378,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -197386,20 +197344,6 @@
                     "oelo": 1791,
                     "ochange": 22,
                     "time": 678465,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790862022000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "553414a2c89b4d6b8c0ba5bd89284508",
-                    "elo": 1818,
-                    "change": -12,
-                    "oelo": 2076,
-                    "ochange": 12,
-                    "time": 596432,
                     "forfeited": false,
                     "decayed": false
                 }
