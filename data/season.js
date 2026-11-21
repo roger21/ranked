@@ -1,5 +1,5 @@
 {
-    "date": 1795236001000,
+    "date": 1795236601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -133752,7 +133752,7 @@
         {
             "uuid": "625146b684804a29af2eaeb483a59ddf",
             "stats": {
-                "rank": 28,
+                "rank": 29,
                 "elo": 2244,
                 "top": 2488,
                 "points": 44,
@@ -138632,7 +138632,7 @@
         {
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "stats": {
-                "rank": 29,
+                "rank": 30,
                 "elo": 2243,
                 "top": 2349,
                 "points": 49,
@@ -141678,7 +141678,7 @@
         {
             "uuid": "3fa40d15dadb46368aa72bc4827dae73",
             "stats": {
-                "rank": 30,
+                "rank": 31,
                 "elo": 2239,
                 "top": 2343,
                 "points": 31,
@@ -149288,7 +149288,7 @@
         {
             "uuid": "5a32f1e5609847c691c07730f973397c",
             "stats": {
-                "rank": 31,
+                "rank": 32,
                 "elo": 2236,
                 "top": 2255,
                 "points": 0,
@@ -152082,23 +152082,37 @@
         {
             "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
             "stats": {
-                "rank": 32,
-                "elo": 2235,
+                "rank": 28,
+                "elo": 2253,
                 "top": 2336,
                 "points": 24,
                 "pb": 416491,
-                "current": 0,
+                "current": 1,
                 "streak": 11,
-                "matches": 926,
-                "playtime": 532123309,
-                "finished": 449,
-                "finishtime": 266995058,
-                "won": 501,
+                "matches": 927,
+                "playtime": 532720512,
+                "finished": 450,
+                "finishtime": 267592261,
+                "won": 502,
                 "lost": 410,
                 "forfeited": 13
             },
             "country": "cn",
             "matches": [
+                {
+                    "date": 1795236602000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "won",
+                    "opponent": "00f996cd910f479ba0903d85c2bdb1e0",
+                    "elo": 2253,
+                    "change": 18,
+                    "oelo": 2164,
+                    "ochange": -18,
+                    "time": 597203,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1795235288000,
                     "type": "RUINED_PORTAL",
@@ -243338,23 +243352,37 @@
         {
             "uuid": "00f996cd910f479ba0903d85c2bdb1e0",
             "stats": {
-                "rank": 50,
-                "elo": 2182,
+                "rank": 55,
+                "elo": 2164,
                 "top": 2217,
                 "points": 3,
                 "pb": 425758,
                 "current": 0,
                 "streak": 6,
-                "matches": 373,
-                "playtime": 219055696,
+                "matches": 374,
+                "playtime": 219652899,
                 "finished": 158,
                 "finishtime": 96198307,
                 "won": 190,
-                "lost": 164,
+                "lost": 165,
                 "forfeited": 2
             },
             "country": null,
             "matches": [
+                {
+                    "date": 1795236602000,
+                    "type": "RUINED_PORTAL",
+                    "bastion": "BRIDGE",
+                    "result": "lost",
+                    "opponent": "b140bbd0317d4eba89d34288f1b8f0c7",
+                    "elo": 2164,
+                    "change": -18,
+                    "oelo": 2253,
+                    "ochange": 18,
+                    "time": 597203,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1795235934000,
                     "type": "RUINED_PORTAL",
