@@ -139,12 +139,12 @@
         },
         "pb": 379698,
         "streak": 16,
-        "matches": 5184,
-        "playtime": 2862220145,
+        "matches": 5185,
+        "playtime": 2862875001,
         "finished": 2100,
         "finishtime": 1309445463,
         "won": 2636,
-        "lost": 2378,
+        "lost": 2379,
         "forfeited": 896
     },
     "061fcc44cc364bdca1d092cc5210fd3b": {
@@ -995,7 +995,7 @@
             "9": 2137,
             "10": 1988,
             "11": 2005,
-            "12": 2067
+            "12": 2073
         },
         "points": {
             "1": 0,
@@ -1013,11 +1013,11 @@
         },
         "pb": 428336,
         "streak": 14,
-        "matches": 5304,
-        "playtime": 3381600922,
-        "finished": 2053,
-        "finishtime": 1455071430,
-        "won": 2770,
+        "matches": 5305,
+        "playtime": 3382177197,
+        "finished": 2054,
+        "finishtime": 1455647705,
+        "won": 2771,
         "lost": 2424,
         "forfeited": 328
     },
@@ -2683,11 +2683,11 @@
         },
         "pb": 384843,
         "streak": 18,
-        "matches": 9818,
-        "playtime": 5914055994,
-        "finished": 4084,
-        "finishtime": 2694790041,
-        "won": 5094,
+        "matches": 9819,
+        "playtime": 5914710850,
+        "finished": 4085,
+        "finishtime": 2695444897,
+        "won": 5095,
         "lost": 4465,
         "forfeited": 1213
     },
@@ -6572,7 +6572,7 @@
         "top": {
             "10": 1968,
             "11": 2306,
-            "12": 2287
+            "12": 2297
         },
         "points": {
             "10": 0,
@@ -6581,11 +6581,11 @@
         },
         "pb": 364881,
         "streak": 10,
-        "matches": 1282,
-        "playtime": 953053241,
-        "finished": 535,
-        "finishtime": 411255548,
-        "won": 689,
+        "matches": 1283,
+        "playtime": 953571183,
+        "finished": 536,
+        "finishtime": 411773490,
+        "won": 690,
         "lost": 511,
         "forfeited": 78
     },
