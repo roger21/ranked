@@ -1,5 +1,5 @@
 {
-    "date": 1795311601000,
+    "date": 1795312201000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -42840,20 +42840,6 @@
                     "time": 492131,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790992022000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "8e4e0d331ba44b7fba664fee8a2916f9",
-                    "elo": 2079,
-                    "change": 13,
-                    "oelo": 1858,
-                    "ochange": -13,
-                    "time": 636354,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -83290,27 +83276,13 @@
                     "time": 574011,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1790992082000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "3ccd3947c6d74fd49606c68377c0f655",
-                    "elo": 1629,
-                    "change": -18,
-                    "oelo": 1707,
-                    "ochange": 18,
-                    "time": 566485,
-                    "forfeited": true,
-                    "decayed": false
                 }
             ]
         },
         {
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
-                "rank": 14,
+                "rank": 13,
                 "elo": 2359,
                 "top": 2359,
                 "points": 18,
@@ -91984,7 +91956,7 @@
         {
             "uuid": "41d79a18ef5540d6bb3d68634f06a3b1",
             "stats": {
-                "rank": 15,
+                "rank": 14,
                 "elo": 2337,
                 "top": 2349,
                 "points": 49,
@@ -95086,7 +95058,7 @@
         {
             "uuid": "cbc4685f701c49319fb424430604b553",
             "stats": {
-                "rank": 16,
+                "rank": 15,
                 "elo": 2335,
                 "top": 2375,
                 "points": 37,
@@ -96746,7 +96718,7 @@
         {
             "uuid": "7665f76f431b41c6b321bea16aff913b",
             "stats": {
-                "rank": 17,
+                "rank": 16,
                 "elo": 2331,
                 "top": 2518,
                 "points": 74,
@@ -113054,20 +113026,6 @@
                     "oelo": 2214,
                     "ochange": 18,
                     "time": 525156,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790991723000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "b140bbd0317d4eba89d34288f1b8f0c7",
-                    "elo": 2152,
-                    "change": 19,
-                    "oelo": 2075,
-                    "ochange": -19,
-                    "time": 513569,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -139772,20 +139730,6 @@
                     "oelo": 1828,
                     "ochange": -12,
                     "time": 617189,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790991723000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "939ddf85303441de901d60bfa4109318",
-                    "elo": 2075,
-                    "change": -19,
-                    "oelo": 2152,
-                    "ochange": 19,
-                    "time": 513569,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -225688,20 +225632,6 @@
                     "oelo": 1698,
                     "ochange": 22,
                     "time": 589241,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1790991855000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "TREASURE",
-                    "result": "lost",
-                    "opponent": "0562802e736e47c581b2ef095e2ed067",
-                    "elo": 1743,
-                    "change": -13,
-                    "oelo": 1962,
-                    "ochange": 13,
-                    "time": 577330,
                     "forfeited": false,
                     "decayed": false
                 }
