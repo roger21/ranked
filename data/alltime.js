@@ -5893,12 +5893,12 @@
         },
         "pb": 371487,
         "streak": 27,
-        "matches": 6684,
-        "playtime": 3752931955,
+        "matches": 6685,
+        "playtime": 3753382045,
         "finished": 2726,
         "finishtime": 1761875966,
         "won": 3512,
-        "lost": 2974,
+        "lost": 2975,
         "forfeited": 1324
     },
     "cdf98ee293f3483fa3890bb3582dbda3": {
