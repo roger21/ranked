@@ -1,5 +1,5 @@
 {
-    "date": 1795346401000,
+    "date": 1795347001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -129502,8 +129502,8 @@
         {
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
-                "rank": 27,
-                "elo": 2281,
+                "rank": 28,
+                "elo": 2276,
                 "top": 2423,
                 "points": 61,
                 "pb": 407068,
@@ -129519,6 +129519,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1795347035000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2276,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1795260630000,
                     "type": null,
@@ -132394,7 +132408,7 @@
         {
             "uuid": "7d320034571e405a9b6889104489a3c4",
             "stats": {
-                "rank": 28,
+                "rank": 27,
                 "elo": 2279,
                 "top": 2308,
                 "points": 15,
@@ -227656,20 +227670,6 @@
                     "oelo": 1660,
                     "ochange": -21,
                     "time": 577525,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1791026707000,
-                    "type": "VILLAGE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "0d12da36204046c5860180ef92cddcdc",
-                    "elo": 1640,
-                    "change": 18,
-                    "oelo": 1562,
-                    "ochange": -18,
-                    "time": 605311,
                     "forfeited": false,
                     "decayed": false
                 }
