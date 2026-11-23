@@ -1,5 +1,5 @@
 {
-    "date": 1795432801000,
+    "date": 1795433401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -141944,20 +141944,6 @@
                     "time": 515520,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1791113022000,
-                    "type": "VILLAGE",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "7c92678742eb4e819f3122017697ae3d",
-                    "elo": 2141,
-                    "change": 30,
-                    "oelo": 2372,
-                    "ochange": -30,
-                    "time": 582406,
-                    "forfeited": false,
-                    "decayed": false
                 }
             ]
         },
@@ -148973,7 +148959,7 @@
             "uuid": "92b63a39b36a445fa94c77ae212dcea3",
             "stats": {
                 "rank": 30,
-                "elo": 2276,
+                "elo": 2271,
                 "top": 2423,
                 "points": 61,
                 "pb": 407068,
@@ -148989,6 +148975,20 @@
             },
             "country": "au",
             "matches": [
+                {
+                    "date": 1795433438000,
+                    "type": null,
+                    "bastion": null,
+                    "result": "draw",
+                    "opponent": null,
+                    "elo": 2271,
+                    "change": -5,
+                    "oelo": 0,
+                    "ochange": 0,
+                    "time": 0,
+                    "forfeited": true,
+                    "decayed": true
+                },
                 {
                     "date": 1795347035000,
                     "type": null,
