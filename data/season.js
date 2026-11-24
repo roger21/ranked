@@ -1,5 +1,5 @@
 {
-    "date": 1795518001000,
+    "date": 1795518601000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -227791,20 +227791,6 @@
                     "ochange": -20,
                     "time": 408897,
                     "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1791198350000,
-                    "type": "BURIED_TREASURE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "bfa68ddcc8cb4e22b152020ef3044dd8",
-                    "elo": 1809,
-                    "change": 18,
-                    "oelo": 1708,
-                    "ochange": -18,
-                    "time": 538777,
-                    "forfeited": false,
                     "decayed": false
                 }
             ]
