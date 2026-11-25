@@ -9,8 +9,8 @@
   ini_set("html_errors", "0");
   ini_set("log_errors", "0");
 
-  //$api_url="https://api.mojang.com/user/profile/";
-  $api_url="https://mowojang.matdoes.dev/";
+  //$api_url="https://mowojang.matdoes.dev/";
+  $api_url="https://api.mojang.com/user/profile/";
 
   $request_counter=0;
 
@@ -28,7 +28,7 @@
        !isset($http_response_header[0]) ||
        $http_response_header[0] !== "HTTP/1.1 200 OK"){
       echo "\nrequest error ".($http_response_header[0] ?? "no header").
-                           " uuid {$uuid} nick {$nick}\n\n";
+                             " uuid {$uuid} nick {$nick}\n\n";
       $nicks[$uuid]=$nick;
       echo "(".(++$request_counter).
               ") uuid {$uuid} ERROR oldnick {$nick}\n\n";
@@ -40,12 +40,13 @@
     $nicks[$uuid]=$newnick;
     if($nick !== $newnick){
       echo "\n(".(++$request_counter).
-              ") uuid {$uuid} oldnick {$nick} NEWNICK {$newnick}\n\n";
+                ") uuid {$uuid} oldnick {$nick} NEWNICK {$newnick}\n\n";
     }else{
       echo "(".(++$request_counter).
               ") uuid {$uuid} samenick {$newnick}\n";
     }
-    //usleep(500000);
+    // pas forcement utile selon l'api utilisé
+    usleep(500000); // 500ms ok pour api.mojang.com
   }
 
   ksort($nicks, SORT_STRING);
