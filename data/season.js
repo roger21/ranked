@@ -1,5 +1,5 @@
 {
-    "date": 1795669801000,
+    "date": 1795670401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -43630,20 +43630,6 @@
                     "oelo": 1920,
                     "ochange": -12,
                     "time": 525652,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1791350176000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "STABLES",
-                    "result": "won",
-                    "opponent": "be4ad7e999e14a74974d47ac650062a3",
-                    "elo": 2165,
-                    "change": 16,
-                    "oelo": 2022,
-                    "ochange": -16,
-                    "time": 525209,
                     "forfeited": false,
                     "decayed": false
                 }
