@@ -1,5 +1,5 @@
 {
-    "date": 1795684201000,
+    "date": 1795684801000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -74294,20 +74294,6 @@
                     "time": 587005,
                     "forfeited": false,
                     "decayed": false
-                },
-                {
-                    "date": 1791364769000,
-                    "type": null,
-                    "bastion": null,
-                    "result": "draw",
-                    "opponent": null,
-                    "elo": 2051,
-                    "change": -5,
-                    "oelo": 0,
-                    "ochange": 0,
-                    "time": 0,
-                    "forfeited": true,
-                    "decayed": true
                 }
             ]
         },
@@ -143691,34 +143677,6 @@
                     "ochange": 16,
                     "time": 523340,
                     "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1791364703000,
-                    "type": "DESERT_TEMPLE",
-                    "bastion": "TREASURE",
-                    "result": "draw",
-                    "opponent": "e3fef1aebc68498a95dff3aa7fd9d1e6",
-                    "elo": 1754,
-                    "change": -1,
-                    "oelo": 1679,
-                    "ochange": 1,
-                    "time": 375605,
-                    "forfeited": true,
-                    "decayed": false
-                },
-                {
-                    "date": 1791364238000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "HOUSING",
-                    "result": "won",
-                    "opponent": "350579d3e06341a0997ac47a91f2ac98",
-                    "elo": 1755,
-                    "change": 28,
-                    "oelo": 1922,
-                    "ochange": -28,
-                    "time": 258175,
-                    "forfeited": true,
                     "decayed": false
                 }
             ]
