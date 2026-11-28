@@ -1,5 +1,5 @@
 {
-    "date": 1795849801000,
+    "date": 1795850401000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -75712,23 +75712,37 @@
         {
             "uuid": "734a1c6118754829acc234135470152c",
             "stats": {
-                "rank": 18,
-                "elo": 2336,
+                "rank": 22,
+                "elo": 2311,
                 "top": 2359,
                 "points": 18,
                 "pb": 352809,
-                "current": 2,
+                "current": 0,
                 "streak": 12,
-                "matches": 1071,
-                "playtime": 613162515,
+                "matches": 1072,
+                "playtime": 613733110,
                 "finished": 507,
                 "finishtime": 299564013,
                 "won": 575,
-                "lost": 480,
+                "lost": 481,
                 "forfeited": 35
             },
             "country": "kr",
             "matches": [
+                {
+                    "date": 1795850208000,
+                    "type": "DESERT_TEMPLE",
+                    "bastion": "STABLES",
+                    "result": "lost",
+                    "opponent": "e4808bc3e1e347988cbb59b55d723e0f",
+                    "elo": 2311,
+                    "change": -25,
+                    "oelo": 2217,
+                    "ochange": 25,
+                    "time": 570595,
+                    "forfeited": false,
+                    "decayed": false
+                },
                 {
                     "date": 1795839497000,
                     "type": "DESERT_TEMPLE",
@@ -83308,7 +83322,7 @@
         {
             "uuid": "98cea324ee714d868b2ec1627f0f5762",
             "stats": {
-                "rank": 19,
+                "rank": 18,
                 "elo": 2329,
                 "top": 2329,
                 "points": 16,
@@ -86368,7 +86382,7 @@
         {
             "uuid": "aa5a894a4d5340f49683fdfd1ea9c523",
             "stats": {
-                "rank": 20,
+                "rank": 19,
                 "elo": 2327,
                 "top": 2343,
                 "points": 50,
@@ -87650,7 +87664,7 @@
         {
             "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
             "stats": {
-                "rank": 21,
+                "rank": 20,
                 "elo": 2315,
                 "top": 2344,
                 "points": 7,
@@ -90626,7 +90640,7 @@
         {
             "uuid": "25349f93cf194f3baeee93d024eccc21",
             "stats": {
-                "rank": 22,
+                "rank": 21,
                 "elo": 2313,
                 "top": 2313,
                 "points": 30,
@@ -107878,20 +107892,6 @@
                     "oelo": 1900,
                     "ochange": -12,
                     "time": 456556,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1791529852000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "won",
-                    "opponent": "350579d3e06341a0997ac47a91f2ac98",
-                    "elo": 2130,
-                    "change": 15,
-                    "oelo": 1949,
-                    "ochange": -15,
-                    "time": 559182,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -136368,20 +136368,6 @@
                     "oelo": 1909,
                     "ochange": 24,
                     "time": 708165,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1791529972000,
-                    "type": "RUINED_PORTAL",
-                    "bastion": "TREASURE",
-                    "result": "won",
-                    "opponent": "8e2267066b7c433d8f43cf2025c223b2",
-                    "elo": 1998,
-                    "change": 12,
-                    "oelo": 1742,
-                    "ochange": -12,
-                    "time": 583035,
                     "forfeited": false,
                     "decayed": false
                 }
@@ -219156,7 +219142,7 @@
         {
             "uuid": "cc432b2626a44ae1836a50244adbf468",
             "stats": {
-                "rank": 46,
+                "rank": 47,
                 "elo": 2213,
                 "top": 2315,
                 "points": 0,
@@ -222566,7 +222552,7 @@
         {
             "uuid": "7c92678742eb4e819f3122017697ae3d",
             "stats": {
-                "rank": 47,
+                "rank": 48,
                 "elo": 2200,
                 "top": 2440,
                 "points": 88,
@@ -223750,7 +223736,7 @@
         {
             "uuid": "7447dd83b8bc4b7fb97d3ec316f529dc",
             "stats": {
-                "rank": 48,
+                "rank": 49,
                 "elo": 2196,
                 "top": 2196,
                 "points": 0,
@@ -225270,7 +225256,7 @@
         {
             "uuid": "0b164a03002048d3955715422179eedf",
             "stats": {
-                "rank": 49,
+                "rank": 50,
                 "elo": 2195,
                 "top": 2279,
                 "points": 0,
@@ -227560,7 +227546,7 @@
         {
             "uuid": "17e787d1d6374f818b294f2319db370d",
             "stats": {
-                "rank": 50,
+                "rank": 51,
                 "elo": 2194,
                 "top": 2446,
                 "points": 74,
