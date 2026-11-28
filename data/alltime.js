@@ -1531,7 +1531,7 @@
             "9": 2514,
             "10": 2581,
             "11": 2471,
-            "12": 2429
+            "12": 2438
         },
         "points": {
             "1": 0,
@@ -1549,11 +1549,11 @@
         },
         "pb": 331951,
         "streak": 17,
-        "matches": 23683,
-        "playtime": 14479106630,
-        "finished": 10440,
-        "finishtime": 6844665426,
-        "won": 12973,
+        "matches": 23684,
+        "playtime": 14479861887,
+        "finished": 10441,
+        "finishtime": 6845420683,
+        "won": 12974,
         "lost": 10375,
         "forfeited": 1201
     },
@@ -2327,11 +2327,11 @@
         },
         "pb": 399681,
         "streak": 12,
-        "matches": 11649,
-        "playtime": 6864224502,
-        "finished": 4283,
-        "finishtime": 2790207071,
-        "won": 5547,
+        "matches": 11650,
+        "playtime": 6864929632,
+        "finished": 4284,
+        "finishtime": 2790912201,
+        "won": 5548,
         "lost": 5336,
         "forfeited": 1601
     },
@@ -3858,7 +3858,7 @@
             "9": 2131,
             "10": 2243,
             "11": 2150,
-            "12": 2050
+            "12": 2063
         },
         "points": {
             "2": 0,
@@ -3875,11 +3875,11 @@
         },
         "pb": 392656,
         "streak": 14,
-        "matches": 6764,
-        "playtime": 4307344686,
-        "finished": 2513,
-        "finishtime": 1727200413,
-        "won": 3326,
+        "matches": 6765,
+        "playtime": 4307954072,
+        "finished": 2514,
+        "finishtime": 1727809799,
+        "won": 3327,
         "lost": 3002,
         "forfeited": 219
     },
@@ -4065,12 +4065,12 @@
         },
         "pb": 441689,
         "streak": 14,
-        "matches": 9390,
-        "playtime": 6236399109,
+        "matches": 9391,
+        "playtime": 6237104239,
         "finished": 3208,
         "finishtime": 2471907027,
         "won": 4687,
-        "lost": 4413,
+        "lost": 4414,
         "forfeited": 1045
     },
     "8e662c4655534e00802d563043cd8739": {
