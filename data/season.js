@@ -1,5 +1,5 @@
 {
-    "date": 1795862401000,
+    "date": 1795863001000,
     "players": [
         {
             "uuid": "635f35ee69ed4f0c94ff26ece4818956",
@@ -17360,20 +17360,6 @@
                     "oelo": 2016,
                     "ochange": 27,
                     "time": 479304,
-                    "forfeited": false,
-                    "decayed": false
-                },
-                {
-                    "date": 1791542968000,
-                    "type": "VILLAGE",
-                    "bastion": "BRIDGE",
-                    "result": "lost",
-                    "opponent": "8c7208adf2784bacb3715ab657cd80bd",
-                    "elo": 2194,
-                    "change": -25,
-                    "oelo": 2101,
-                    "ochange": 25,
-                    "time": 571355,
                     "forfeited": false,
                     "decayed": false
                 }
